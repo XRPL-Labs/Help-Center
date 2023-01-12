@@ -50,7 +50,7 @@ This is where we will help you as good as we can with FAQ's, help articles, back
 
 
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Subtitle here</td><td><a href="about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/">what-xumm-is-and-isnt</a></td><td><a href=".gitbook/assets/xumm header">xumm header</a></td></tr><tr><td>Subtitle there</td><td><a href="getting-started/about-xrpl-labs.md">about-xrpl-labs.md</a></td><td><a href=".gitbook/assets/xrp asset icon">xrp asset icon</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Subtitle here</td><td><a href="about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/">what-xumm-is-and-isnt</a></td><td><a href=".gitbook/assets/xumm header">xumm header</a></td></tr><tr><td>Subtitle there</td><td><a href="about-xumm-and-xrpl-labs/about-xrpl-labs.md">about-xrpl-labs.md</a></td><td><a href=".gitbook/assets/xrp asset icon">xrp asset icon</a></td></tr></tbody></table>
 
 {% hint style="success" %}
 <mark style="color:green;">**sdfsdf**</mark>

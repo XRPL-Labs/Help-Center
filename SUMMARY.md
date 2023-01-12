@@ -5,7 +5,7 @@
 ## About Xumm & XRPL Labs
 
 * [What is Xumm?](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/README.md)
-  * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-is-xumm/common-misconceptions-about-xumm.md)
+  * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
 * [Who is the team behind Xumm?](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
 * [Is Xumm owned by Ripple?](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
 * [What is XRPL Labs?](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
@@ -15,7 +15,7 @@
 * [Your first XRP Ledger account](getting-started/your-first-xrp-ledger-account.md)
 * [Migrating from another wallet](getting-started/migrating-from-another-wallet.md)
 * [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
-* [About XRPL Labs](getting-started/about-xrpl-labs.md)
+* [About XRPL Labs](about-xumm-and-xrpl-labs/about-xrpl-labs.md)
 
 ## Hot Topics
 
