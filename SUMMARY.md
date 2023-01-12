@@ -16,6 +16,13 @@
 
 ## Hot Topics
 
+* [Deposit to Xumm](hot-topics/deposit-to-xumm/README.md)
+  * [Send from another wallet](hot-topics/deposit-to-xumm/send-from-another-wallet.md)
+  * [Fiat conversion](hot-topics/deposit-to-xumm/fiat-conversion.md)
+  * [Exchange deposit](hot-topics/deposit-to-xumm/exchange-deposit/README.md)
+    * [Coinbase](hot-topics/deposit-to-xumm/exchange-deposit/coinbase.md)
+    * [Uphold](hot-topics/deposit-to-xumm/exchange-deposit/uphold.md)
+    * [Bitstamp](hot-topics/deposit-to-xumm/exchange-deposit/bitstamp.md)
 * [Destination Tags](hot-topics/destination-tags.md)
 * [Flare Airdrop](hot-topics/flare-airdrop.md)
 * [Secret key lost](hot-topics/secret-key-lost.md)
