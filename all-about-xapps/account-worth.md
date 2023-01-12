@@ -52,4 +52,6 @@ If you are interested in learning more about the new features in Xumm v2.3, chec
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![Support\_banner\_-Xumm.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5000139234962/Support\_banner\_-Xumm.png)
+
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

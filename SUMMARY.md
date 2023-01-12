@@ -11,7 +11,7 @@
 
 ## Learning more about Xumm
 
-* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](learning-more-about-xumm/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
+* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
 * [Page 1](learning-more-about-xumm/page-1.md)
 
 ## All about xApps
