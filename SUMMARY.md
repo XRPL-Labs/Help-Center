@@ -12,7 +12,7 @@
 
 * [Your first XRP Ledger account](getting-started/your-first-xrp-ledger-account.md)
 * [Migrating from another wallet](getting-started/migrating-from-another-wallet.md)
-* [Migrating to a new phone](getting-started/migrating-to-a-new-phone.md)
+* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
 
 ## Hot Topics
 
