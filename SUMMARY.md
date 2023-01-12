@@ -26,7 +26,8 @@
 
 ## Xumm Pro beta
 
-* [Page 1](xumm-pro-beta/page-1.md)
+* [How to subscribe to Pro](xumm-pro-beta/how-to-subscribe-to-pro.md)
+* [Features of Pro](xumm-pro-beta/features-of-pro.md)
 
 ## Security and Xumm
 
