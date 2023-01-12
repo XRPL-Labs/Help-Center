@@ -28,7 +28,9 @@
 ## Xumm Pro beta
 
 * [How to subscribe to Pro](xumm-pro-beta/how-to-subscribe-to-pro.md)
-* [Features of Pro](xumm-pro-beta/features-of-pro.md)
+* [Features of Pro](xumm-pro-beta/features-of-pro/README.md)
+  * [Accounts](xumm-pro-beta/features-of-pro/accounts.md)
+  * [Profiles](xumm-pro-beta/features-of-pro/profiles.md)
 
 ## Security and Xumm
 
