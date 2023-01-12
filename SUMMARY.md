@@ -9,6 +9,9 @@
 * [Who is the team behind Xumm?](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
 * [Is Xumm owned by Ripple?](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
 * [What is XRPL Labs?](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
+* [Where can I find your Privacy Statement?](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
+* [Where can I find your Terms of Service?](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
+* [Where can I find your Responsible Disclosure Policy?](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
 
 ## Getting started
 

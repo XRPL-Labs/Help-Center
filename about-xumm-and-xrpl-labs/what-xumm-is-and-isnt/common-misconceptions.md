@@ -1,6 +1,6 @@
 # Common misconceptions about Xumm
 
-Xumm is a hardware wallet. - It's not.
+Xumm is a hardware wallet. It is not.
 
 Xumm stores your XRP - It does not.
 
