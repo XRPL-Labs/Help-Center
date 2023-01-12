@@ -8,7 +8,11 @@
 * [Importing your existing XRPL account](getting-started/importing-your-existing-xrpl-account.md)
 * [Some terms and definitions related to Xumm and the XRPL](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [How to activate a new XRPL account](getting-started/how-to-activate-a-new-xrpl-account.md)
-* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
+
+## Learning more about Xumm
+
+* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](learning-more-about-xumm/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
+* [Page 1](learning-more-about-xumm/page-1.md)
 
 ## All about xApps
 
@@ -28,7 +32,7 @@
 ## Xumm Pro beta
 
 * [How to subscribe to Pro](xumm-pro-beta/how-to-subscribe-to-pro.md)
-* [Features of Pro](xumm-pro-beta/features-of-pro/README.md)
+* [Features of Pro](xumm-pro-beta/features-of-pro.md)
   * [Accounts](xumm-pro-beta/features-of-pro/accounts.md)
   * [Profiles](xumm-pro-beta/features-of-pro/profiles.md)
 
