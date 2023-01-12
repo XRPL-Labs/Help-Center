@@ -22,6 +22,7 @@
 
 * [About Trust Lines](xrp-ledger-resources/about-trust-lines.md)
 * [About Regular Keys](xrp-ledger-resources/about-regular-keys.md)
+* [About Reserves](xrp-ledger-resources/about-reserves.md)
 
 ## Xumm Pro beta
 
