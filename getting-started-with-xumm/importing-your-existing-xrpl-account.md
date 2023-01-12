@@ -1,2 +1,0 @@
-# Migrating from another wallet
-

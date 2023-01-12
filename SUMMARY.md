@@ -2,24 +2,13 @@
 
 * [Welcome](README.md)
 
-## About Xumm & XRPL Labs
-
-* [What is Xumm?](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/README.md)
-  * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
-* [Who is the team behind Xumm?](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
-* [Is Xumm owned by Ripple?](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
-* [What is XRPL Labs?](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
-* [Where can I find your Privacy Statement?](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
-* [Where can I find your Terms of Service?](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
-* [Where can I find your Responsible Disclosure Policy?](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
-
 ## Getting started with Xumm
 
-* [Creating your first XRP Ledger account using Xumm](getting-started-with-xumm/creating-your-first-xrp-ledger-account-using-xumm.md)
-* [Importing your existing XRPL account](getting-started-with-xumm/importing-your-existing-xrpl-account.md)
-* [Some terms and definitions related to Xumm and the XRPL](getting-started-with-xumm/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
-* [How to activate a new XRPL account](getting-started-with-xumm/how-to-activate-a-new-xrpl-account.md)
-* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started-with-xumm/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
+* [Creating your first XRP Ledger account using Xumm](getting-started/creating-your-first-xrp-ledger-account-using-xumm.md)
+* [Importing your existing XRPL account](getting-started/importing-your-existing-xrpl-account.md)
+* [Some terms and definitions related to Xumm and the XRPL](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
+* [How to activate a new XRPL account](getting-started/how-to-activate-a-new-xrpl-account.md)
+* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
 
 ## Learning more about Xumm
 
@@ -27,7 +16,7 @@
 
 ## All about xApps
 
-* [Why does Xumm not display value of XRP anymore?](all-about-xapps/why-does-xumm-not-display-value-of-xrp-anymore.md)
+* [Why does Xumm not display value of XRP anymore?](specific-xumm-features/why-does-xumm-not-display-value-of-xrp-anymore.md)
 
 ## XRP Ledger resources
 
@@ -40,13 +29,32 @@
 
 ## Security and Xumm
 
-* [Best practices](security-and-xumm/best-practices.md)
-* [Security advisory](security-and-xumm/security-advisory.md)
-* [Xumm (Tangem) card](security-and-xumm/xumm-tangem-card.md)
+* [Best practices](security/best-practices.md)
+* [Security advisory](security/security-advisory.md)
+* [Xumm (Tangem) card](security/xumm-tangem-card.md)
 
 ## Announcements & release notes
 
 * [Page 1](announcements-and-release-notes/page-1.md)
+
+## Xumm for Retail
+
+* [Page 1](xumm-for-retail/page-1.md)
+
+## Xumm for Developers
+
+* [Page 1](xumm-for-developers/page-1.md)
+
+## About Xumm & XRPL Labs
+
+* [What is Xumm?](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/README.md)
+  * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
+* [Who is the team behind Xumm?](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
+* [Is Xumm owned by Ripple?](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
+* [What is XRPL Labs?](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
+* [Where can I find your Privacy Statement?](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
+* [Where can I find your Terms of Service?](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
+* [Where can I find your Responsible Disclosure Policy?](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
 
 ## Hot Topics
 
