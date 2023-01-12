@@ -12,7 +12,9 @@ Our vision for the future of the XRP Ledger includes both XRP Ledger enthusiasts
 
 We think the XRP Ledger is ideally suited for real life payments, so our vision is to expand our ecosystem…. significantly! Not only do we see our user base increasing 10 fold in the coming months, with the onboarding of **retail use cases**, we think XRP will become ‘just another token’ just like fiat stable coins (IOU, backed) and loyalty tokens.
 
-XRP will always be the native token on the XRPL but over time, it’s dominance will fade as other tokens get more use in the retail environment.
+{% hint style="danger" %}
+**XRP will always be the native token on the XRPL but over time, it’s dominance will fade as other tokens get more use in the retail environment.**
+{% endhint %}
 
 You will see that XRP is still highlighted on the home screen, displayed predominantly at the top of the token list, but with more screen space for filtering/sorting & ready for ecosystem expansion.
 
@@ -22,11 +24,11 @@ Xumm includes an xApp that displays the values of **all** the tokens in your acc
 
 To find it, just launch Xumm and press the “**x√**” button at the bottom of the screen.
 
-![https://support.xumm.app/hc/article\_attachments/5881817535762/mceclip0.png](https://support.xumm.app/hc/article\_attachments/5881817535762/mceclip0.png)
+<figure><img src="../.gitbook/assets/xumm home button QR scan button" alt=""><figcaption><p>Xumm Home / QR Scanner / xApp open button</p></figcaption></figure>
 
 You should see _**Account Worth**_ listed in the second row.
 
-![https://support.xumm.app/hc/article\_attachments/5882016149138/mceclip1.png](https://support.xumm.app/hc/article\_attachments/5882016149138/mceclip1.png)
+<figure><img src="../.gitbook/assets/account worth xapp.png" alt=""><figcaption><p>Account Worth xApp</p></figcaption></figure>
 
 **Addition reading**
 
