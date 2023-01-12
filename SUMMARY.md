@@ -4,8 +4,8 @@
 
 ## About Xumm & XRPL Labs
 
-* [What Xumm is & isn't](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/README.md)
-  * [Common misconceptions](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
+* [What is Xumm?](about-xumm-and-xrpl-labs/what-is-xumm/README.md)
+  * [Common misconceptions](about-xumm-and-xrpl-labs/what-is-xumm/common-misconceptions.md)
 * [About XRPL Labs](about-xumm-and-xrpl-labs/about-xrpl-labs.md)
 
 ## Getting started
