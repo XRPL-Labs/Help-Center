@@ -10,13 +10,14 @@
 * [How to activate a new XRPL account](getting-started/how-to-activate-a-new-xrpl-account.md)
 * [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
 
-## Learning more about Xumm
-
-* [Page 1](learning-more-about-xumm/page-1.md)
-
 ## All about xApps
 
-* [Why does Xumm not display value of XRP anymore?](specific-xumm-features/why-does-xumm-not-display-value-of-xrp-anymore.md)
+* [Account Worth](all-about-xapps/account-worth.md)
+* [Token Trasher ](all-about-xapps/token-trasher.md)
+* [Vanity](all-about-xapps/vanity.md)
+* [Tangem Backup ](all-about-xapps/tangem-backup.md)
+* [Account Merge](all-about-xapps/account-merge.md)
+* [DEX Trade](all-about-xapps/dex-trade.md)
 
 ## XRP Ledger resources
 
