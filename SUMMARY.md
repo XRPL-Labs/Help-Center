@@ -13,13 +13,40 @@
 * [Where can I find your Terms of Service?](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
 * [Where can I find your Responsible Disclosure Policy?](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
 
-## Getting started
+## Getting started with Xumm
 
-* [Creating your first XRP Ledger account using Xumm](getting-started/creating-your-first-xrp-ledger-account-using-xumm.md)
-* [Importing your existing XRPL account](getting-started/importing-your-existing-xrpl-account.md)
-* [Some terms and definitions related to Xumm and the XRPL](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
-* [How to activate a new XRPL account](getting-started/how-to-activate-a-new-xrpl-account.md)
-* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
+* [Creating your first XRP Ledger account using Xumm](getting-started-with-xumm/creating-your-first-xrp-ledger-account-using-xumm.md)
+* [Importing your existing XRPL account](getting-started-with-xumm/importing-your-existing-xrpl-account.md)
+* [Some terms and definitions related to Xumm and the XRPL](getting-started-with-xumm/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
+* [How to activate a new XRPL account](getting-started-with-xumm/how-to-activate-a-new-xrpl-account.md)
+* [📱 Phone migration procedure: moving XUMM to a new / replaced phone](getting-started-with-xumm/phone-migration-procedure-moving-xumm-to-a-new-replaced-phone.md)
+
+## Learning more about Xumm
+
+* [Page 1](learning-more-about-xumm/page-1.md)
+
+## All about xApps
+
+* [Why does Xumm not display value of XRP anymore?](all-about-xapps/why-does-xumm-not-display-value-of-xrp-anymore.md)
+
+## XRP Ledger resources
+
+* [About Trust Lines](xrp-ledger-resources/about-trust-lines.md)
+* [About Regular Keys](xrp-ledger-resources/about-regular-keys.md)
+
+## Xumm Pro beta
+
+* [Page 1](xumm-pro-beta/page-1.md)
+
+## Security and Xumm
+
+* [Best practices](security-and-xumm/best-practices.md)
+* [Security advisory](security-and-xumm/security-advisory.md)
+* [Xumm (Tangem) card](security-and-xumm/xumm-tangem-card.md)
+
+## Announcements & release notes
+
+* [Page 1](announcements-and-release-notes/page-1.md)
 
 ## Hot Topics
 
@@ -34,18 +61,3 @@
 * [Flare Airdrop](hot-topics/flare-airdrop.md)
 * [Secret key lost](hot-topics/secret-key-lost.md)
 * [Pin/Passcode forgotten](hot-topics/pin-passcode-forgotten.md)
-
-## XRP Ledger resources
-
-* [About Trust Lines](xrp-ledger-resources/about-trust-lines.md)
-* [About Regular Keys](xrp-ledger-resources/about-regular-keys.md)
-
-## Security
-
-* [Best practices](security/best-practices.md)
-* [Security advisory](security/security-advisory.md)
-* [Xumm (Tangem) card](security/xumm-tangem-card.md)
-
-## Specific Xumm Features
-
-* [Why does Xumm not display value of XRP anymore?](specific-xumm-features/why-does-xumm-not-display-value-of-xrp-anymore.md)
