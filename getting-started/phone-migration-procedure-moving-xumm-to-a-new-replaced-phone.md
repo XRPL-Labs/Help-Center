@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 📱 Phone migration procedure: moving XUMM to a new / replaced phone
 
 #### When you get a new phone, even after migrating all your data and settings, XUMM accounts will not be automatically available in XUMM on your new phone.
