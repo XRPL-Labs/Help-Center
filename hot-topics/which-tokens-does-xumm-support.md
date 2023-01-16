@@ -59,7 +59,6 @@ No. XDC is the native token on the XinFin blockchain. The XinFin blockchain and 
 ### **Where can I see a list of the tokens that you support?**
 
 We are not aware of a definitive list of tokens on the XRP Ledger, but you can do a search for most of them here:\
-\
 
 
 {% embed url="https://xrpl.services/tokens" %}
