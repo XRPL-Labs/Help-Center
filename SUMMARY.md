@@ -75,6 +75,7 @@
     * [Uphold](hot-topics/deposit-to-xumm/exchange-deposit/uphold.md)
     * [Bitstamp](hot-topics/deposit-to-xumm/exchange-deposit/bitstamp.md)
 * [Destination Tags](hot-topics/destination-tags.md)
+* [Which tokens does Xumm support?](hot-topics/which-tokens-does-xumm-support.md)
 * [Flare Airdrop](hot-topics/flare-airdrop.md)
 * [Secret key lost](hot-topics/secret-key-lost.md)
 * [Pin/Passcode forgotten](hot-topics/pin-passcode-forgotten.md)
