@@ -5,22 +5,20 @@
 **Summary**
 
 * Xumm is exclusively an XRP Ledger wallet.
-* We support XRP and the 8200-plus tokens issued on the XRPL.
+* We support XRP and the 8200+ tokens issued on the XRPL.
 * As long as the token was issued on the XRP Ledger, Xumm supports it.
 
 ### **Which ones are you affiliated with and which ones do you endorse?**
 
 _Xumm is **not** affiliated with any token on the XRPL and we **do not** endorse any of them._
 
-By “support” we mean that you can use Xumm to interact with any token issued on the XRPL. We support all transaction types and you can use the DEX Trade xApp in Xumm to buy and sell any XRPL token.
+By “support” we mean that you can use Xumm to interact with any token issued on the XRPL. We support all transaction types and you can use the DEX Trade xApp in Xumm to buy and sell any XRPL token via the XRPL DEX.
 
-We do not provide technical support for any specific token or project. Each individual token issuer provides support for their own token.
+We **do not** provide technical support for any specific token or project. Each individual token issuer provides support for their own token.
 
 ### **Why doesn’t Xumm support other blockchains?**
 
-Our team focuses on the XRP Ledger. We are committed to the XRPL and developing the XRPL ecosystem.
-
-The XRP Ledger is a versatile blockchain that has many use cases. It is super inexpensive to operate on, very secure, very fast and has all of the features a blockchain should have.
+While there are other blockchain technologies that might show promise or potential,  we are committed developing the XRPL ecosystem. To do this correctly, it requires focus, a great team of professionals and the perseverance to endure the ups and downs associated with emerging technologies.
 
 We feel that diverting our focus or becoming a “jack of all trades” wallet, would not benefit the XRP Community. The XRPL is our passion and our specialty. Why would we want to mess with that?
 
@@ -60,9 +58,11 @@ No. XDC is the native token on the XinFin blockchain. The XinFin blockchain and 
 
 ### **Where can I see a list of the tokens that you support?**
 
-We are not aware of a definitive list of tokens on the XRP Ledger, but you can do a search for most of them here:
+We are not aware of a definitive list of tokens on the XRP Ledger, but you can do a search for most of them here:\
+\
+\-
 
-* [https://xrpl.services/tokens](https://xrpl.services/tokens)
+* XRPL Services
 
 ![https://support.xumm.app/hc/article\_attachments/6148269375250/mceclip0.png](https://support.xumm.app/hc/article\_attachments/6148269375250/mceclip0.png)
 
