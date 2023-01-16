@@ -74,7 +74,7 @@ Flare Support Contact
 
 ### **How do I tell if my XRP account is eligible and is registered?**
 
-Go here:[https://xrpscan.com/](https://xrpscan.com/) then enter your r-address then click on the Search button.
+Go here: [https://xrpscan.com/](https://xrpscan.com/) then enter your r-address then click on the **Search** button.
 
 Click on the **Flare** tab.
 
@@ -102,14 +102,13 @@ Flare Support Contact
 
 ****
 
-**Can I send Flare tokens (Spark) to my XRPL account managed by Xumm?**
+### **Can I send Flare tokens (Spark) to my XRPL account managed by Xumm?**
 
 No. FLR is the native token on the Flare blockchain. The Flare blockchain and the XRPL are separate and incompatible networks. You can not access the Flare network with Xumm.
 
+****\
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **XUMM Support xApp** in XUMM or you can simply scan this QR code with XUMM and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png](https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png)
-
-Support\_banner.png
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
