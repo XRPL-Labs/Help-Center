@@ -30,7 +30,9 @@ The Flare network is not compatible with the XRP Ledger, so there is no way to m
 
 For more information, please contact Flare Support. They can be reached at:
 
-[https://flare.xyz/contact/](https://flare.xyz/contact/)
+{% embed url="https://flare.xyz/contact/" %}
+Flare Support Contact
+{% endembed %}
 
 ### **Can I still claim my Flare tokens?**
 
@@ -40,7 +42,9 @@ On September 17, 2021, the SGB network was launched and the SGB tokens were dist
 
 For more information, please contact Flare Support. They can be reached at:
 
-[https://flare.xyz/contact/](https://flare.xyz/contact/)
+{% embed url="https://flare.xyz/contact/" %}
+Flare Support Contact
+{% endembed %}
 
 ### **Is Xumm compatible with the Flare network?**
 
@@ -56,7 +60,7 @@ Gatehub has issued both Songbird and Flare tokens on the XRP Ledger. You can cre
 
 This article explains:
 
-[How do Gatehub’s issued tokens work](https://support.xumm.app/hc/en-us/articles/4619198806802)
+{% embed url="https://support.xumm.app/hc/en-us/articles/4619198806802" %}
 
 ### **Do you recommend a Flare compatible wallet?**
 
@@ -64,7 +68,9 @@ No. We don’t know enough about the SGB/Flare network or the various wallets to
 
 You can contact Flare Support for their recommendation. They can be reached at:
 
-[https://flare.xyz/contact/](https://flare.xyz/contact/)
+{% embed url="https://flare.xyz/contact/" %}
+Flare Support Contact
+{% endembed %}
 
 ### **How do I tell if my XRP account is eligible and is registered?**
 
@@ -72,19 +78,29 @@ Go here:[https://xrpscan.com/](https://xrpscan.com/) then enter your r-address t
 
 Click on the **Flare** tab.
 
-![https://support.xumm.app/hc/article\_attachments/5270017214482/mceclip0.png](https://support.xumm.app/hc/article\_attachments/5270017214482/mceclip0.png)
+<figure><img src="../.gitbook/assets/XRPScan - Flare claim.png" alt=""><figcaption><p>XRPScan</p></figcaption></figure>
 
 
 
 You may find the your account is listed as, “**Not eligible**” or “**Not registered**”, in both cases, you need to contact Flare support for assistance in resolving this.
 
-Flare Networks Support can be reached at:[https://flare.xyz/contact/](https://flare.xyz/contact/)
+Flare Networks Support can be reached at:
 
-**Does Xumm provide technical support for Flare Networks?**
+{% embed url="https://flare.xyz/contact/" %}
+Flare Support Contact
+{% endembed %}
+
+### **Does Xumm provide technical support for Flare Networks?**
 
 No. We provide support for our own products and applications.
 
-For support on anything to do with Flare, please visit their website here:[https://flare.xyz/contact/](https://flare.xyz/contact/)
+For support on anything to do with Flare, please visit their website here:
+
+{% embed url="https://flare.xyz/contact/" %}
+Flare Support Contact
+{% endembed %}
+
+****
 
 **Can I send Flare tokens (Spark) to my XRPL account managed by Xumm?**
 
