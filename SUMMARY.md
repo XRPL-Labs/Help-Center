@@ -77,5 +77,6 @@
 * [Destination Tags](hot-topics/destination-tags.md)
 * [Which tokens does Xumm support?](hot-topics/which-tokens-does-xumm-support.md)
 * [Flare Networks and Xumm](hot-topics/flare-airdrop.md)
+* [How do Gatehub’s issued tokens work](hot-topics/how-do-gatehubs-issued-tokens-work.md)
 * [Secret key lost](hot-topics/secret-key-lost.md)
 * [Pin/Passcode forgotten](hot-topics/pin-passcode-forgotten.md)
