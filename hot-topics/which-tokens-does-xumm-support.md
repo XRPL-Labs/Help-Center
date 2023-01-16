@@ -8,7 +8,7 @@
 * We support XRP and the 8200-plus tokens issued on the XRPL.
 * As long as the token was issued on the XRP Ledger, Xumm supports it.
 
-**Which ones are you affiliated with and which ones do you endorse?**
+### **Which ones are you affiliated with and which ones do you endorse?**
 
 _Xumm is **not** affiliated with any token on the XRPL and we **do not** endorse any of them._
 
@@ -16,7 +16,7 @@ By “support” we mean that you can use Xumm to interact with any token issued
 
 We do not provide technical support for any specific token or project. Each individual token issuer provides support for their own token.
 
-**Why doesn’t Xumm support other blockchains?**
+### **Why doesn’t Xumm support other blockchains?**
 
 Our team focuses on the XRP Ledger. We are committed to the XRPL and developing the XRPL ecosystem.
 
@@ -24,11 +24,11 @@ The XRP Ledger is a versatile blockchain that has many use cases. It is super in
 
 We feel that diverting our focus or becoming a “jack of all trades” wallet, would not benefit the XRP Community. The XRPL is our passion and our specialty. Why would we want to mess with that?
 
-**Do you plan to support other blockchains?**
+### **Do you plan to support other blockchains?**
 
 No. Our focus is the XRP Ledger.
 
-**… But there I see BTC, ETH, SGB, FLR, USD, etc. tokens on the XRPL. How does that make sense?**
+### **… But there I see BTC, ETH, SGB, FLR, USD, etc. tokens on the XRPL. How does that make sense?**
 
 Anyone can create a token on the XRP Ledger. (Xumm actually contains an xApp called _**Token Creator**_ to walk you through the process.)
 
@@ -42,23 +42,23 @@ If your are interested in learning more about this, check out this article:
 
 * [How do Gatehub’s issued tokens work](https://support.xumm.app/hc/en-us/articles/4619198806802)
 
-**So can I send ETH to the XRPL?**
+### **So can I send ETH to the XRPL?**
 
 No. ETH is the native token on the Ethereum blockchain. The Ethereum blockchain and the XRPL are separate and incompatible networks.
 
-**What about XLM?**
+### **What about XLM?**
 
 No. XLM is the native token on the Stellar blockchain. The Stellar blockchain and the XRPL are separate and incompatible networks.
 
-**SGB?**
+### **SGB?**
 
 No. SGB is the native token on the Songbird blockchain. The Songbird blockchain and the XRPL are separate and incompatible networks.
 
-**How about XDC?**
+### **How about XDC?**
 
 No. XDC is the native token on the XinFin blockchain. The XinFin blockchain and the XRPL are separate and incompatible networks.
 
-**Where can I see a list of the tokens that you support?**
+### **Where can I see a list of the tokens that you support?**
 
 We are not aware of a definitive list of tokens on the XRP Ledger, but you can do a search for most of them here:
 
@@ -66,8 +66,10 @@ We are not aware of a definitive list of tokens on the XRP Ledger, but you can d
 
 ![https://support.xumm.app/hc/article\_attachments/6148269375250/mceclip0.png](https://support.xumm.app/hc/article\_attachments/6148269375250/mceclip0.png)
 
-mceclip0.png
+
 
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
