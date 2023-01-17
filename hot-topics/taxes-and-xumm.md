@@ -46,7 +46,9 @@ In Xumm, you should be able to find it by pressing the “x√” button at the 
 
 If it is not listed there, you scan the QR with Xumm here:
 
-{% embed url="https://xumm.app/detect/xapp:xrpl365.txexporter" %}
+{% embed url="https://xumm.app/detect/xapp:xrpl365.txexporter?launch=true" %}
+Transaction Exporter Link
+{% endembed %}
 
 ### **The .CSV file I exported does not work with my tax software.**
 
