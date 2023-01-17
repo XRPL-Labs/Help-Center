@@ -10,9 +10,7 @@ The Flare Network is a new network which hopes to position themselves as a unive
 
 For more information and to keep up to date on Flare’s progress, check out their home page.
 
-{% embed url="https://flare.network/news/" %}
-Flare News Page
-{% endembed %}
+[Flare News Page](https://flare.network/news/)
 
 ### **Is Xumm involved in Flare Networks?**
 
