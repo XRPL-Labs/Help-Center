@@ -38,11 +38,11 @@ We **do not** provide tax forms of any kind. It is just not possible for us to k
 
 ### **My accountant / tax software needs a list of all of the trades for last year. How can I export the transactions from my XRP Ledger account?**
 
-Most people use the “**Transaction Exporter**” xApp in Xumm to do this.
+Most people use the **Transaction Exporter** xApp in Xumm to do this.
 
 <figure><img src="../.gitbook/assets/Transaction exporter.png" alt=""><figcaption></figcaption></figure>
 
-In Xumm, you should be able to find it by pressing the “x√” button at the bottom of the screen, then selecting “View more xApps”.
+In Xumm, you should be able to find it by pressing the **x√** button at the bottom of the screen, then selecting **View more xApps**.
 
 If it is not listed there, you scan the QR with Xumm here:
 
