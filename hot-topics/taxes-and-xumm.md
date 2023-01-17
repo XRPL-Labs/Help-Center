@@ -44,7 +44,7 @@ Most people use the **Transaction Exporter** xApp in Xumm to do this.
 
 In Xumm, you should be able to find it by pressing the **x√** button at the bottom of the screen, then selecting **View more xApps**.
 
-If it is not listed there, you scan the QR with Xumm here:
+If it is not listed there, you scan the QR code with Xumm here:
 
 {% embed url="https://xumm.app/detect/xapp:xrpl365.txexporter?launch=true" %}
 Transaction Exporter Link
@@ -72,9 +72,15 @@ then enter your r-address and select the **Transactions** option, then press **E
 
 Here are a couple of other things you can try:
 
-The Transaction Exporter xApp was actually created by one of the XRPL community developers. You might want to try contacting him (Chris) directly and discuss expanding specific compatibility to your perfered tax software. Here's his Twitter account:
+* The Transaction Exporter xApp was actually created by one of the XRPL community developers. You might want to try contacting him (Chris) directly and discuss expanding specific compatibility to your preferred tax software. Here's his Twitter account:
 
 {% embed url="https://twitter.com/xrpl365" %}
+
+If you are interested in viewing the code for the xApp, you can find it here:
+
+{% embed url="https://github.com/xrpl365/tx-exporter" %}
+Transaction Exporter
+{% endembed %}
 
 &#x20;
 
