@@ -70,8 +70,16 @@ then enter your r-address and select the **Transactions** option, then press **E
 
 You still have a couple of options:
 
-1. The **Transaction Exporter** xApp was actually created by one of the XRPL community developers known on Twitter as:[https://twitter.com/xrpl365](https://twitter.com/xrpl365) (Chris) He is always happy to answer questions about Transaction Exporter and discuss feature requests. (If you are interested, you can view the code for the xApp here:[https://github.com/xrpl365/tx-exporter](https://github.com/xrpl365/tx-exporter))
-2. You can contact **Gatehub** and discuss the possibility of having them expand their export capabilities. ([https://support.gatehub.net/hc/en-us](https://support.gatehub.net/hc/en-us))
+1. The **Transaction Exporter** xApp was actually created by one of the XRPL community developers known on Twitter as:\
+   \
+   [https://twitter.com/xrpl365](https://twitter.com/xrpl365) \
+   \
+   Chris is always happy to answer questions about Transaction Exporter and discuss feature requests. (If you are interested, you can view the code for the xApp here:\
+   \
+   [https://github.com/xrpl365/tx-exporter](https://github.com/xrpl365/tx-exporter))
+2. You can contact **Gatehub** and discuss the possibility of having them expand their export capabilities. \
+   \
+   ([https://support.gatehub.net/hc/en-us](https://support.gatehub.net/hc/en-us))
 3. You can contact your **tax software provider**. Some companies offer a feature to configure your own manual mapping for alternative imports. They might also consider updating their software to support the .CSV output of either Transaction Exporter or Gatehub.
 
 #### **Notes:**
