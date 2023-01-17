@@ -74,7 +74,9 @@ You need to visit Gatehub and create an account with them. Once you have done th
 
 For more information about the process, you can contact Gatehub support at:
 
-[https://support.gatehub.net/hc/en-us](https://support.gatehub.net/hc/en-us)
+{% embed url="https://support.gatehub.net/hc/en-us" %}
+Gatehub Support
+{% endembed %}
 
 ### **How do I convert my Gatehub issued USDC, USDT, GALA or WXRP back to Ethereum based tokens?**
 
@@ -82,9 +84,11 @@ If you have purchased any of the tokens issued by Gatehub on the XRP Ledger and 
 
 For more information about this process, you can contact Gatehub support at:
 
-[https://support.gatehub.net/hc/en-us](https://support.gatehub.net/hc/en-us)
+{% embed url="https://support.gatehub.net/hc/en-us" %}
+Gatehub Support
+{% endembed %}
 
-### **What about other exchanges (Uphold, Coinbase, Binance, etc.) Will they accept Gatehub issued USDC, USDT, GALA, SGB, etc.?**
+### **What about other exchanges (Uphold, Coinbase, Binance, etc.) Will they accept any of Gatehub's 16 issued tokens?**
 
 There are three questions that need to be answered:
 
@@ -108,6 +112,4 @@ Unfortunately we do not keep track of which exchanges support which tokens.  You
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/5000029830162/Support\_banner\_-Xumm.png](https://support.xumm.app/hc/article\_attachments/5000029830162/Support\_banner\_-Xumm.png)
-
-Support\_banner\_-Xumm.png
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption><p>Xumm Support QR Code</p></figcaption></figure>
