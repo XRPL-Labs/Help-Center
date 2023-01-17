@@ -70,11 +70,15 @@ then enter your r-address and select the **Transactions** option, then press **E
 
 ### **That did not help. It still does not work with my tax software.**
 
-You still have a couple of options:
+Here are a couple of other things you can try:
 
-1. The **Transaction Exporter** xApp was actually created by one of the XRPL community developers known on Twitter as:\
-   \
-   [https://twitter.com/xrpl365](https://twitter.com/xrpl365) \
+The Transaction Exporter xApp was actually created by one of the XRPL community developers. You might want to try contacting him (Chris) directly and discuss expanding specific compatibility to your perfered tax software. Here's his Twitter account:
+
+{% embed url="https://twitter.com/xrpl365" %}
+
+&#x20;
+
+1. The **Transaction Exporter** xApp was actually created by one of the XRPL community developers known on Twitter as: [https://twitter.com/xrpl365](https://twitter.com/xrpl365) \
    \
    Chris is always happy to answer questions about Transaction Exporter and discuss feature requests. (If you are interested, you can view the code for the xApp here:\
    \
