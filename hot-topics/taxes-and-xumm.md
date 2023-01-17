@@ -82,17 +82,11 @@ If you are interested in viewing the code for the xApp, you can find it here:
 Transaction Exporter
 {% endembed %}
 
-&#x20;
+* You can contact **Gatehub** and discuss the possibility of having them expand their export capabilities.
 
-1. The **Transaction Exporter** xApp was actually created by one of the XRPL community developers known on Twitter as: [https://twitter.com/xrpl365](https://twitter.com/xrpl365) \
-   \
-   Chris is always happy to answer questions about Transaction Exporter and discuss feature requests. (If you are interested, you can view the code for the xApp here:\
-   \
-   [https://github.com/xrpl365/tx-exporter](https://github.com/xrpl365/tx-exporter))
-2. You can contact **Gatehub** and discuss the possibility of having them expand their export capabilities. \
-   \
-   ([https://support.gatehub.net/hc/en-us](https://support.gatehub.net/hc/en-us))
-3. You can contact your **tax software provider**. Some companies offer a feature to configure your own manual mapping for alternative imports. They might also consider updating their software to support the .CSV output of either Transaction Exporter or Gatehub.
+{% embed url="https://support.gatehub.net/hc/en-us" %}
+
+You can contact your **tax software provider**. Some companies offer a feature to configure your own manual mapping for alternative imports. They might also consider updating their software to support the .CSV output of either Transaction Exporter or Gatehub.
 
 #### **Notes:**
 
@@ -106,6 +100,4 @@ Transaction Exporter
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/4999937279634/Support\_banner\_-Xumm.png](https://support.xumm.app/hc/article\_attachments/4999937279634/Support\_banner\_-Xumm.png)
-
-Support\_banner\_-Xumm.png
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
