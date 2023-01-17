@@ -32,9 +32,7 @@ The Flare network is not compatible with the XRP Ledger, so there is no way to m
 
 For more information, please contact Flare Support. They can be reached at:
 
-{% embed url="https://flare.network/contact/" %}
-Flare Contact Pafe
-{% endembed %}
+[Contact Flare](https://flare.network/contact/)
 
 ### **Can I still claim my Flare tokens?**
 
@@ -44,9 +42,7 @@ On September 17, 2021, the SGB network was launched and the SGB tokens were dist
 
 For more information, please contact Flare Support. They can be reached at:
 
-{% embed url="https://flare.network/contact/" %}
-Flare Contact Page
-{% endembed %}
+[Contact Flare](https://flare.network/contact/)
 
 ### **Is Xumm compatible with the Flare network?**
 
@@ -70,9 +66,7 @@ No. We don’t know enough about the SGB/Flare network or the various wallets to
 
 You can contact Flare Support for their recommendation. They can be reached at:
 
-{% embed url="https://flare.network/contact/" %}
-Flare Contact Page
-{% endembed %}
+[Contact Flare](https://flare.network/contact/)
 
 ### **How do I tell if my XRP account is eligible and is registered?**
 
@@ -92,9 +86,7 @@ You may find the your account is listed as, “**Not eligible**” or “**Not r
 
 Flare Networks Support can be reached at:
 
-{% embed url="https://flare.network/contact/" %}
-Flare Contact Page
-{% endembed %}
+[Contact Flare](https://flare.network/contact/)
 
 ### **Does Xumm provide technical support for Flare Networks?**
 
@@ -102,11 +94,7 @@ No. We provide support for our own products and applications.
 
 For support on anything to do with Flare, please visit their website here:
 
-{% embed url="https://flare.network/contact/" %}
-Flare Contact Page
-{% endembed %}
-
-****
+[Contact Flare](https://flare.network/contact/)
 
 ### **Can I send Flare tokens (Spark) to my XRPL account managed by Xumm?**
 
