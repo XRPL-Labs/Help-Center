@@ -58,6 +58,10 @@ Gatehub has issued both Songbird and Flare tokens on the XRP Ledger. You can cre
 
 This article explains:
 
+{% content-ref url="how-do-gatehubs-issued-tokens-work.md" %}
+[how-do-gatehubs-issued-tokens-work.md](how-do-gatehubs-issued-tokens-work.md)
+{% endcontent-ref %}
+
 {% embed url="https://support.xumm.app/hc/en-us/articles/4619198806802" %}
 
 ### **Do you recommend a Flare compatible wallet?**
