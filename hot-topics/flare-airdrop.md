@@ -111,5 +111,5 @@ No. FLR is the native token on the Flare blockchain. The Flare blockchain and th
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **XUMM Support xApp** in XUMM or you can simply scan this QR code with XUMM and be directed there automatically.
 
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption><p>Xumm Support QR Code</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
