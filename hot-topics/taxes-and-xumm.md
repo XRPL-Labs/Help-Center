@@ -40,7 +40,7 @@ We **do not** provide tax forms of any kind. It is just not possible for us to k
 
 Most people use the “**Transaction Exporter**” xApp in Xumm to do this.
 
-<figure><img src="../.gitbook/assets/Transaction exporter.png" alt=""><figcaption><p>Transaction Exporter xApp</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Transaction exporter.png" alt=""><figcaption></figcaption></figure>
 
 In Xumm, you should be able to find it by pressing the “x√” button at the bottom of the screen, then selecting “View more xApps”.
 
