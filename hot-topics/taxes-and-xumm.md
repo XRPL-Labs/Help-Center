@@ -74,7 +74,7 @@ Here are a couple of other things you can try:
 
 * The Transaction Exporter xApp was actually created by one of the XRPL community developers. You might want to try contacting him (Chris) directly and discuss expanding specific compatibility to your preferred tax software. Here's his Twitter account:
 
-{% embed url="https://twitter.com/xrpl365" %}
+``[`@XRPL365`](https://twitter.com/xrpl365)``
 
 If you are interested in viewing the code for the xApp, you can find it here:
 
