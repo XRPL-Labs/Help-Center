@@ -75,6 +75,7 @@
     * [Uphold](hot-topics/deposit-to-xumm/exchange-deposit/uphold.md)
     * [Bitstamp](hot-topics/deposit-to-xumm/exchange-deposit/bitstamp.md)
 * [Which tokens does Xumm support?](hot-topics/which-tokens-does-xumm-support.md)
+* [How to Send Funds Using Xumm](hot-topics/how-to-send-funds-using-xumm.md)
 * [Flare Networks and Xumm](hot-topics/flare-airdrop.md)
 * [Where are your funds stored? (Explainer video 2/5)](hot-topics/where-are-your-funds-stored-explainer-video-2-5.md)
 * [How do Gatehub’s issued tokens work](hot-topics/how-do-gatehubs-issued-tokens-work.md)
