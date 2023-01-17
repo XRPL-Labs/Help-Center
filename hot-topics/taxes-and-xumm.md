@@ -54,11 +54,16 @@ There are other utilities in the XRP community that will also allow you to expor
 
 Gatehub has one such utility that may help.
 
-To use it, go here:[https://gatehub.net/explorer](https://gatehub.net/explorer) then enter your r-address and select the “Transactions” option, then press “Export CSV”.
+To use it, go here:
 
-![https://support.xumm.app/hc/article\_attachments/4947091950866/mceclip2.png](https://support.xumm.app/hc/article\_attachments/4947091950866/mceclip2.png)
+{% embed url="https://gatehub.net/explorer" %}
+Gatehub Explorer
+{% endembed %}
 
-mceclip2.png
+\
+&#x20;then enter your r-address and select the “Transactions” option, then press “Export CSV”.
+
+<figure><img src="../.gitbook/assets/Export CSV.png" alt=""><figcaption><p>Export CSV</p></figcaption></figure>
 
 ### **That did not help. It still does not work with my tax software.**
 
