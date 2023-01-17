@@ -31,6 +31,8 @@ The Flare network is not compatible with the XRP Ledger, so there is no way to m
 For more information, please contact Flare Support. They can be reached at:
 
 {% embed url="https://flare.network/contact/" %}
+Flare Contact Pafe
+{% endembed %}
 
 ### **Can I still claim my Flare tokens?**
 
@@ -41,6 +43,8 @@ On September 17, 2021, the SGB network was launched and the SGB tokens were dist
 For more information, please contact Flare Support. They can be reached at:
 
 {% embed url="https://flare.network/contact/" %}
+Flare Contact Page
+{% endembed %}
 
 ### **Is Xumm compatible with the Flare network?**
 
@@ -64,15 +68,19 @@ No. We don’t know enough about the SGB/Flare network or the various wallets to
 
 You can contact Flare Support for their recommendation. They can be reached at:
 
-{% embed url="https://flare.xyz/contact/" %}
-Flare Support Contact
+{% embed url="https://flare.network/contact/" %}
+Flare Contact Page
 {% endembed %}
 
 ### **How do I tell if my XRP account is eligible and is registered?**
 
-Go here: [https://xrpscan.com/](https://xrpscan.com/) then enter your r-address then click on the **Search** button.
+Go here:
 
-Click on the **Flare** tab.
+{% embed url="https://xrpscan.com" %}
+XRPScan
+{% endembed %}
+
+then enter your r-address then click on the **Search** button, then select the **Flare** tab.
 
 <figure><img src="../.gitbook/assets/XRPScan - Flare claim.png" alt=""><figcaption><p>XRPScan</p></figcaption></figure>
 
@@ -82,8 +90,8 @@ You may find the your account is listed as, “**Not eligible**” or “**Not r
 
 Flare Networks Support can be reached at:
 
-{% embed url="https://flare.xyz/contact/" %}
-Flare Support Contact
+{% embed url="https://flare.network/contact/" %}
+Flare Contact Page
 {% endembed %}
 
 ### **Does Xumm provide technical support for Flare Networks?**
@@ -92,8 +100,8 @@ No. We provide support for our own products and applications.
 
 For support on anything to do with Flare, please visit their website here:
 
-{% embed url="https://flare.xyz/contact/" %}
-Flare Support Contact
+{% embed url="https://flare.network/contact/" %}
+Flare Contact Page
 {% endembed %}
 
 ****
