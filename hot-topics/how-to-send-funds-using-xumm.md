@@ -58,26 +58,24 @@ On the following screen, you will see the option to enter the **amount** you wou
 
 <figure><img src="../.gitbook/assets/Send screen.png" alt=""><figcaption></figcaption></figure>
 
-In our case, we are going to send 1 XRP from our account (**rAtLaNtiSod5cBiw4vjqtoPBLEbXNg**)
+In our case, we are going to send 1 XRP from our account.
 
 Press the **Next** button to continue.
 
 **Step 2**
 
-In this screen you can enter the **destination account** that you are sending your tokens to.
+In this screen you can enter the **recipient's** account that you are sending your tokens to.
 
 Keep in mind, there are two types of accounts on the XRPL.
 
-* Non custodial accounts - You are solely responsible for managing your private keys.
-* Custodial accounts - A company is responsible for the private keys to your account. (Usually a crypto exchange.)
+* **Non custodial** accounts - You are solely responsible for managing your private keys.
+* **Custodial** accounts - A company is responsible for managing the private keys to their account. (Usually a crypto exchange.) You are assigned an account number with the exchange called a destination tag.
 
 Both types of accounts will have an r-address but a custodial account will also require a destination tag. (More about destination tags later.)
 
 Press **Next** after you have entered/selected the correct destination r-address.
 
-![https://support.xumm.app/hc/article\_attachments/6760139672082/mceclip3.png](https://support.xumm.app/hc/article\_attachments/6760139672082/mceclip3.png)
-
-mceclip3.png
+<figure><img src="../.gitbook/assets/Recipient screen.png" alt=""><figcaption><p>Recipient screen</p></figcaption></figure>
 
 **Step 3**
 
@@ -85,9 +83,7 @@ Finally we reach the **Summary** screen. Here you can review your transaction to
 
 This is also where you would enter you your **destination tag** if you are sending to a custodial account.
 
-![https://support.xumm.app/hc/article\_attachments/7821236804242/mceclip0.png](https://support.xumm.app/hc/article\_attachments/7821236804242/mceclip0.png)
 
-mceclip0.png
 
 #### If you are sending to a non-custodial account, you can **Slide to send** your transaction.
 
