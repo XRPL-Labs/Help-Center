@@ -60,8 +60,9 @@ To use it, go here:
 Gatehub Explorer
 {% endembed %}
 
-\
-&#x20;then enter your r-address and select the “Transactions” option, then press “Export CSV”.
+then enter your r-address and select the **Transactions** option, then press **Export CSV**.
+
+
 
 <figure><img src="../.gitbook/assets/Export CSV.png" alt=""><figcaption><p>Export CSV</p></figcaption></figure>
 
