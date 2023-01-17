@@ -30,9 +30,7 @@ The Flare network is not compatible with the XRP Ledger, so there is no way to m
 
 For more information, please contact Flare Support. They can be reached at:
 
-{% embed url="https://flare.xyz/contact/" %}
-Flare Support Contact
-{% endembed %}
+{% embed url="https://flare.network/contact/" %}
 
 ### **Can I still claim my Flare tokens?**
 
@@ -42,9 +40,7 @@ On September 17, 2021, the SGB network was launched and the SGB tokens were dist
 
 For more information, please contact Flare Support. They can be reached at:
 
-{% embed url="https://flare.xyz/contact/" %}
-Flare Support Contact
-{% endembed %}
+{% embed url="https://flare.network/contact/" %}
 
 ### **Is Xumm compatible with the Flare network?**
 
