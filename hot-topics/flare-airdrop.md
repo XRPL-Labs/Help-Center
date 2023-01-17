@@ -8,7 +8,11 @@ description: Interested in the Flare airdrop or holding the Spark token?
 
 The Flare Network is a new network which hopes to position themselves as a universal bridging blockchain.
 
-For more information and to keep up to date on Flare’s progress, check out their [blog](https://flare.xyz/blog/).
+For more information and to keep up to date on Flare’s progress, check out their home page.
+
+{% embed url="https://flare.network/news/" %}
+Flare News Page
+{% endembed %}
 
 ### **Is Xumm involved in Flare Networks?**
 
