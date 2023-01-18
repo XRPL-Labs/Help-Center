@@ -81,6 +81,8 @@ Press **Next** after you have entered/selected the correct destination r-address
 
 Finally we reach the **Summary** screen. Here you can review your transaction to make sure it is correct.
 
+<figure><img src="../.gitbook/assets/Summary.png" alt=""><figcaption></figcaption></figure>
+
 This is also where you would enter you your **destination tag** if you are sending to a custodial account.
 
 
