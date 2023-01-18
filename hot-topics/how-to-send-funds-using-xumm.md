@@ -1,5 +1,6 @@
 ---
 description: Want to see XRP to your XRP Ledger account managed by Xumm?
+coverY: 0
 ---
 
 # How to Send Funds Using Xumm
@@ -83,21 +84,21 @@ Finally we reach the **Summary** screen. Here you can review your transaction to
 
 <figure><img src="../.gitbook/assets/Summary.png" alt=""><figcaption></figcaption></figure>
 
-This is also where you would enter you your **destination tag** if you are sending to a custodial account.
+If you are sending to a non-custodial account, you can simply **Slide to send** and your transaction will be sent to the XRP Ledger to process.
 
+However, if you are sending to a **custodial** account, (ie. an exchange account) this where you would enter your **destination tag**.
 
+<figure><img src="../.gitbook/assets/Summary + DT.png" alt=""><figcaption></figcaption></figure>
 
-#### If you are sending to a non-custodial account, you can **Slide to send** your transaction.
-
-#### If you are sending to a custodial account, make sure you enter your destination tag before you **Slide to send**.
-
-####
-
-![https://support.xumm.app/hc/article\_attachments/7821650753042/mceclip1.png](https://support.xumm.app/hc/article\_attachments/7821650753042/mceclip1.png)
+{% hint style="success" %}
+Remember, non-custodial accounts, like the ones managed with Xumm **do not** require destination tags. Only **custodial** accounts require them.
+{% endhint %}
 
 #### **A little bit more about destination tags**
 
-You may have noticed that most crypto exchanges have **one** receiving r-address for **all** of their XRP customers? Have you ever wondered how thousands of customers can use just one XRP account? How is this possible? The answer is called destination tags, which are a set numeric numbers that you enter into an XRPL transaction to identify a specific account at an exchange.
+You may have noticed that most crypto exchanges have **one** receiving r-address for **all** of their XRP customers? Have you ever wondered how thousands of customers can use just one XRP account?&#x20;
+
+Exchanges hold your funds for you in **their** XRP Ledger account(s) which they control. Then they issue you a customer account on their internal database and issue you a **destination tag**, which are a set numbers that you enter into an XRPL transaction to identify a specific customer account at an exchange. (So with a custodial account,&#x20;
 
 You can lean more about destination tags in this video:
 
