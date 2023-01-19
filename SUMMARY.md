@@ -84,3 +84,4 @@
 * [Taxes and Xumm](hot-topics/taxes-and-xumm.md)
 * [Reserves and Fees on the XRPL](hot-topics/reserves-and-fees-on-the-xrpl.md)
 * [Destination tags](hot-topics/destination-tags.md)
+* [Will Xumm Operate After a Natural Disaster](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
