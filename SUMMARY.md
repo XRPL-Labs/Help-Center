@@ -83,6 +83,6 @@
 * [What is Xumm?](hot-topics/what-is-xumm.md)
 * [Taxes and Xumm](hot-topics/taxes-and-xumm.md)
 * [Reserves and Fees on the XRPL](hot-topics/reserves-and-fees-on-the-xrpl.md)
-* [Page 2](hot-topics/page-2.md)
+* [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
 * [Destination tags](hot-topics/destination-tags.md)
 * [Will Xumm Operate After a Natural Disaster](hot-topics/will-xumm-operate-after-a-natural-disaster.md)

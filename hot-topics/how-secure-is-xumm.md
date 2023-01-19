@@ -1,8 +1,12 @@
-# Page 2
+# How secure is Xumm?
 
-## How secure is Xumm?
+## Comparing different wallets
 
-**It is a crazy time in the crypto world, how secure is Xumm?**
+It is not uncommon for people to want to try to compare to different wallets, different platforms and different devices in terms of how secure they are. They want the best security they can get when it comes to their assets so why not?  It makes sense to get the best when it comes to protecting your assets.
+
+The problem with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to understand. Simply reading an article and thinking you are in any way qualified to make a valid comparison is...dangerous. Certainly read as much as you can about this topic, but please, this article is not meant to be an exhaustive discussion on Xumm's security. It is merely a glimpse
+
+## **It is a crazy time in the crypto world, how secure is Xumm?**
 
 There are several ways to view security when it comes to your XRP Ledger account.
 
@@ -19,7 +23,7 @@ Here are the top 9 security threats to your phone.
 * Poor Password Habits
 * Lost or Stolen Mobile Devices
 
-Source:[https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/)
+Source: [The Nine most common security threats to mobile devices](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/) &#x20;
 
 So, here are some things to consider:
 
@@ -31,13 +35,13 @@ So, here are some things to consider:
 * Do you have strong passwords?
 * How often do you change your passwords?
 
-If your phone is not secure, the best software wallet in the world (aka Xumm) will not be able to protect your assets. Starting out with a modern, up to date, secure mobile device is essential when it comes to securing your assets.
+If your phone is not secure, the best, most secure software wallet in the world (aka Xumm) will not be able to protect your assets. Starting out with a modern, up to date, secure mobile device is essential when it comes to securing your assets.
 
-**No problem. My phone is secure.**
+## **No problem. My phone is secure.**
 
 So your phone has no spyware or malware installed. It is up to date. You use a top of the line VPN, anti-virus software and firewall. You have installed Xumm and you used Xumm to create your XRP Ledger account. Well done!
 
-Xumm can generate three hundred and forty undecillion, two hundred and eighty-two decillion, three hundred and sixty-six nonillion, nine hundred and twenty octillion, nine hundred and thirty-eight septillion, four hundred and sixty-three sextillion, four hundred and sixty-three quintillion, three hundred and seventy-four quadrillion, six hundred and seven trillion, four hundred and thirty-one billion, seven hundred and sixty-eight million, two hundred and eleven thousand, four hundred and fifty-six different accounts using the secret number standard. Xumm will provide you with one of those possible accounts.
+Let's consider your XRPL account. Xumm can generate three hundred and forty undecillion, two hundred and eighty-two decillion, three hundred and sixty-six nonillion, nine hundred and twenty octillion, nine hundred and thirty-eight septillion, four hundred and sixty-three sextillion, four hundred and sixty-three quintillion, three hundred and seventy-four quadrillion, six hundred and seven trillion, four hundred and thirty-one billion, seven hundred and sixty-eight million, two hundred and eleven thousand, four hundred and fifty-six different accounts using the secret number standard. Xumm will provide you with one of those possible accounts.
 
 It is hard to imagine how many accounts that actually is, so maybe this will help.
 
@@ -45,13 +49,13 @@ If you had a job that paid you 390 trillion euros per hour, you would have to wo
 
 It is unimaginably difficult for someone to guess your account number out of 340 undecillion possible accounts. you would need to make 390 trillion guess per hour for **99 quadrillion years** to guess them all.
 
-**How is that different from a cold/hard wallet?**
+## **How is that different from a cold/hard wallet?**
 
 It is no different. Whether an account is generated off line or online, there is no difference in the total number of possible accounts. The chances of guessing your account secret is the same.
 
-**There must be some difference…**
+## **There must be some difference…**
 
-It comes down to entropy.  How well does the software generate randomness? How does it pick from the 340 undecillion possibilities?
+It comes down to [entropy](https://en.wikipedia.org/wiki/Entropy\_\(information\_theory\)).  How well does the software generate randomness? How does it pick from the 340 undecillion possibilities?&#x20;
 
 **Is that why you are always telling people to protect their Secret Numbers?**
 
