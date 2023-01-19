@@ -5,7 +5,7 @@ coverY: 0
 
 # How to Send Funds Using Xumm
 
-### I**ntroduction**
+**roduction**
 
 If you are new to Xumm, it can be a little bit confusing to understand what all the buttons and features do. Trust us when we say, it does get easier after a little bit of practice! 😉
 
@@ -98,7 +98,7 @@ Remember, non-custodial accounts, like the ones managed with Xumm **do not** req
 
 You may have noticed that most crypto exchanges have **one** receiving r-address for **all** of their XRP customers? Have you ever wondered how thousands of customers can use just one XRP account?&#x20;
 
-Exchanges hold your funds for you in **their** XRP Ledger account(s) which they control. Then they issue you a customer account on their internal database and issue you a **destination tag**, which are a set numbers that you enter into an XRPL transaction to identify a specific customer account at an exchange. (So with a custodial account,&#x20;
+When you create an account with a crypto exchange, they issue you a customer account on their internal database. They also create a destination tag which points to your new customer account and they provide you with **their** XRP Ledger account which you can send and receive XRP. You do not own their XRPL account. They have complete control over it. Since thousands of customers are sending funds to and from the same XRPL account, the only way they can tell which funds belong to which customer is by the destination tag included in each transaction. &#x20;
 
 You can lean more about destination tags in this video:
 
@@ -114,6 +114,4 @@ You can lean more about destination tags in this video:
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/5000185728402/Support\_banner\_-Xumm.png](https://support.xumm.app/hc/article\_attachments/5000185728402/Support\_banner\_-Xumm.png)
-
-Support\_banner\_-Xumm.png
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
