@@ -2,9 +2,9 @@
 
 ## Comparing different wallets
 
-It is not uncommon for people to want to try to compare to different wallets, different platforms and different devices in terms of how secure they are. They want the best security they can get when it comes to their assets so why not?  It makes sense to get the best when it comes to protecting your assets.
+It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best".  When it comes to protecting your assets, for many people, only the best will do.  It only makes sense to get the best when it comes to protecting your funds, right...?
 
-The problem with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to understand. Simply reading an article and thinking you are in any way qualified to make a valid comparison is...dangerous. Certainly read as much as you can about this topic, but please, this article is not meant to be an exhaustive discussion on Xumm's security. It is merely a glimpse
+The problem with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to understand. Simply reading an article and thinking you are in any way qualified to make a valid comparison is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion on Xumm's security. It is merely a glimpse...
 
 ## **It is a crazy time in the crypto world, how secure is Xumm?**
 
@@ -49,19 +49,23 @@ If you had a job that paid you 390 trillion euros per hour, you would have to wo
 
 It is unimaginably difficult for someone to guess your account number out of 340 undecillion possible accounts. you would need to make 390 trillion guess per hour for **99 quadrillion years** to guess them all.
 
+{% hint style="success" %}
+Entire books have been dedicated to this topic but if you are interested in learning a bit more about it, you can check out this link on [entropy](https://en.wikipedia.org/wiki/Entropy\_\(information\_theory\)). It is not exactly "easy reading" but it will get you going in the right direction.
+{% endhint %}
+
 ## **How is that different from a cold/hard wallet?**
 
 It is no different. Whether an account is generated off line or online, there is no difference in the total number of possible accounts. The chances of guessing your account secret is the same.
 
-## **There must be some difference…**
+## **Why you are always telling people to protect their Secret Numbers?**
 
-It comes down to [entropy](https://en.wikipedia.org/wiki/Entropy\_\(information\_theory\)).  How well does the software generate randomness? How does it pick from the 340 undecillion possibilities?&#x20;
+The only way someone can access your XRP Ledger account is if they know your Secret Numbers. Keeping them safe is the best way to keep your assets safe. The second you share your Secret Numbers with anyone, you give them 100% access to your funds and give them permission to use your funds in any way they choose.&#x20;
 
-**Is that why you are always telling people to protect their Secret Numbers?**
+{% hint style="danger" %}
+**Never** give your Secret Numbers to anyone. If someone asks for them, that person is trying to steal your funds!
+{% endhint %}
 
-Exactly! The only way someone can access your account is if they know your Secret Numbers. The chances of someone figuring them out are 1 in 340 undecillion.
-
-**What about the 6 digit passcode to access Xumm. That is only 1 million possibilities. Anyone could guess that.**
+## **What about the 6 digit passcode to access Xumm. That is only 1 million possibilities. Anyone could guess that.**
 
 You are absolutely right. Let’s say that someone has acquired your phone and somehow circumvented your password and now has full access to it.
 
@@ -69,13 +73,27 @@ An attacker launches Xumm and tries to hack your 6 digit passcode. Six digits is
 
 **Except** for one small countermeasure we implemented in Xumm. We have configured Xumm to only allow 5 attempts before Xumm starts to add time to the next attempt. After the ninth wrong entry, Xumm requires a delay of **2 hours** to input again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all… Or about **228 years**.
 
-**Ha! So now its down from 99 quadrillion years to 228 years!**
+## **Ha! So now its down from 99 quadrillion years to 228 years!**
 
 However, let’s say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes.  In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it. Provided that you selected a strong signing password, this could take awhile to guess.
 
-**Basically you’re saying it is impossible. Why would I need the Xumm Tangem cards then?**
+## Does the Xumm passcode and signing password protect my XRPL account?
 
-It is basically impossible to guess the Secret Numbers in your lifetime and if your phone is lost or stolen, you have plenty to time to move your assets to another account. The Xumm Tangem cards are the perfect way of mitigating the risk of a compromised phone, especially if you follow our recommend guidelines here:
+Yes and no.&#x20;
+
+The passcode that you configure in Xumm is designed to keep people from accessing Xumm. It **does not** protect your Secret Numbers from being used by someone else.
+
+For example, let's say you have two phones and you have installed Xumm on both of them. You could import your secret numbers into both phones and access your XRP Ledger account from both devices. The passcode that you setup on one phone does not effect your second phone. You could configure one phone with one passcode and your other phone with a different passcode. Changin your passcode on either device does not effect the other device. In other words, the passcode is a local security measure on your device to prevent accessing the Xumm app. The same applies to any signing password you create.&#x20;
+
+The goal for Xumm is to protect your Secret Numbers **on your phone**. The passcode and signing passwords are designed to do this.
+
+## **Why would I need the Xumm Tangem cards then?**
+
+By this point, hopefully you realize it is basically impossible to **guess** the Secret Numbers in your lifetime. The amount of possibilities is just too great, but... there is the risk that your phone could be lost or stolen. If that were to happen, and given enough time and resources, your phone could be hacked and once someone gained access to your phone, they might be able to hack Xumm and if they did that they might be able to decrypt your secret numbers, and if they did that, they could access your funds! &#x20;
+
+if your phone is ever lost or stolen, you have plenty to time to move your assets to another account. There is a way to mitigate the risk of a lost or stolen phone though...
+
+The Xumm Tangem cards are the perfect way of mitigating the risk of a compromised phone, especially if you follow our recommend guidelines here:
 
 * [Tangem cards - Best Practices](https://support.xumm.app/hc/en-us/articles/4416929335186)
 
