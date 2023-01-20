@@ -5,7 +5,7 @@ coverY: 0
 
 # How to Send Funds Using Xumm
 
-**roduction**
+**Introduction**
 
 If you are new to Xumm, it can be a little bit confusing to understand what all the buttons and features do. Trust us when we say, it does get easier after a little bit of practice! 😉
 
