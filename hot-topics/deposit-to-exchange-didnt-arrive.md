@@ -4,30 +4,30 @@ description: You sent XRP to your exchange account and it did not arrive
 
 # Deposit to Exchange Didn’t Arrive
 
-## What to do When a Deposit to an Exchange Didn’t Arrive
-
-#### **Situation**
+## **Situation**
 
 You sent XRP to your crypto exchange account and it has not arrived.
 
-#### **General information**
+## **General information**
 
 In order to send XRP into an exchange account, you need to know **two** pieces of information:
 
 1. the correct exchange r-address to send the funds to
-2. the destination tag (some exchanges incorrectly call the destination tag a “memo”) for your exchange account
+2. the destination tag for your exchange account
 
-Both of these are provided by your crypto exchange.
+Both of these are provided by **your crypto exchange**.
 
-If you are unsure what a destination tag is, you can watch this video for more information:
+If you are unsure what a destination tag is, this video should help:
 
-* [Destination Tags (Explainer video 5/5)](https://support.xumm.app/hc/en-us/articles/4408087987346)
+{% content-ref url="destination-tags.md" %}
+[destination-tags.md](destination-tags.md)
+{% endcontent-ref %}
 
 or for a more detailed, you can read this article: [Introduction to Destination Tags](https://support.xumm.app/hc/en-us/articles/360018134720-An-introduction-to-Destination-Tags)
 
-#### **Why a deposit might not arrive**
+## **Why a deposit might not arrive**
 
-The first thing to check in Xumm is the **Events** list. You should confirm that transaction completed and is listed in the event log.
+The first thing to check in Xumm is the **Events** list. You should confirm that the transaction completed and is listed in the event log.
 
 ![https://support.xumm.app/hc/article\_attachments/7433217901074/mceclip0.png](https://support.xumm.app/hc/article\_attachments/7433217901074/mceclip0.png)
 
