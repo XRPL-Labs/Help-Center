@@ -68,7 +68,7 @@
 ## Hot Topics
 
 * [Deposit to Xumm](hot-topics/deposit-to-xumm/README.md)
-  * [Send from another wallet](hot-topics/deposit-to-xumm/send-from-another-wallet.md)
+  * [Sending XRP from another wallet](hot-topics/deposit-to-xumm/sending-xrp-from-another-wallet.md)
   * [Fiat conversion](hot-topics/deposit-to-xumm/fiat-conversion.md)
   * [Exchange deposit](hot-topics/deposit-to-xumm/exchange-deposit/README.md)
     * [Coinbase](hot-topics/deposit-to-xumm/exchange-deposit/coinbase.md)
