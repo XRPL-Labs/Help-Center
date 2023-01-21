@@ -68,7 +68,7 @@
 ## Hot Topics
 
 * [Deposit to Xumm](hot-topics/deposit-to-xumm/README.md)
-  * [Sending XRP from another wallet](hot-topics/deposit-to-xumm/sending-xrp-from-another-wallet.md)
+  * [Sending XRP from another wallet](hot-topics/deposit-to-xumm/send-from-another-wallet.md)
   * [Fiat conversion](hot-topics/deposit-to-xumm/fiat-conversion.md)
   * [Exchange deposit](hot-topics/deposit-to-xumm/exchange-deposit/README.md)
     * [Coinbase](hot-topics/deposit-to-xumm/exchange-deposit/coinbase.md)
@@ -85,4 +85,5 @@
 * [Reserves and Fees on the XRPL](hot-topics/reserves-and-fees-on-the-xrpl.md)
 * [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
 * [Destination tags](hot-topics/destination-tags.md)
+* [Deposit to Exchange Didn’t Arrive](hot-topics/deposit-to-exchange-didnt-arrive.md)
 * [Will Xumm Operate After a Natural Disaster](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
