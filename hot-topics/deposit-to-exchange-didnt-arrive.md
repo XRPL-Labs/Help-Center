@@ -29,17 +29,17 @@ or for a more detailed, you can read this article: [Introduction to Destination 
 
 The first thing to check in Xumm is the **Events** list. You should confirm that the transaction completed and is listed in the event log.
 
-![https://support.xumm.app/hc/article\_attachments/7433217901074/mceclip0.png](https://support.xumm.app/hc/article\_attachments/7433217901074/mceclip0.png)
-
-mceclip0.png
+<figure><img src="../.gitbook/assets/Events 2.png" alt=""><figcaption></figcaption></figure>
 
 As well, make sure the destination tag was entered **correctly**.
+
+<figure><img src="../.gitbook/assets/Crypto Transaction + Arrow.png" alt=""><figcaption><p>Sample transaction to a crypto exchange</p></figcaption></figure>
 
 This is the **number 1 reason** funds are not delivered. People either don’t enter a destination tag or enter a destination tag incorrectly.
 
 If the destination r-address and tag are both correct and the funds still have not arrived in your exchange account, it is most likely that your exchange has not processed that transaction on their side perhaps due to technical issues, a processing backlog, or because they are holding your funds for KYC/AML reasons.
 
-#### **What you can do to retrieve your funds**
+## **What you can do to retrieve your funds**
 
 Once Xumm submits a transaction to the XRP Ledger (XRPL) for processing, there is nothing that can be done to change or reverse it. This article explains how this works:
 
@@ -52,6 +52,25 @@ Start by contacting your exchange and explain what happened. They should provide
 (Note: Any fees an exchange charges has nothing to do with Xumm or the the XRP Ledger. Each exchange determines their own service fees.)
 
 To confirm, you should **contact your exchange** and they will work with you to determine what happened to your funds.
+
+## I contacted my exchange and they want me to send them a screenshot of the transaction
+
+Some exchanges demand that you provide proof that the transaction happened.
+
+This demand often includes a screenshot showing:
+
+* &#x20;Destination address
+* &#x20;Destination amount
+* &#x20;Date&#x20;
+* Blockchain transaction ID/Hash
+
+If you are required to provide such information here is how to get it in Xumm.
+
+1\) Launch Xumm, press Settings -> Security -> Block taking screenshots
+
+2\)&#x20;
+
+****
 
 **Additional reading**
 
