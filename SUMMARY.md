@@ -84,6 +84,7 @@
 * [Taxes and Xumm](hot-topics/taxes-and-xumm.md)
 * [Reserves and Fees on the XRPL](hot-topics/reserves-and-fees-on-the-xrpl.md)
 * [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
+* [How to change your Email Address](hot-topics/how-to-change-your-email-address.md)
 * [Destination tags](hot-topics/destination-tags.md)
 * [Deposit to Exchange Didn’t Arrive](hot-topics/deposit-to-exchange-didnt-arrive.md)
 * [Will Xumm Operate After a Natural Disaster](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
