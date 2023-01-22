@@ -66,11 +66,21 @@ This demand often includes a screenshot showing:
 
 If you are required to provide such information here is how to get it in Xumm.
 
-1\) Launch Xumm, press Settings -> Security -> Block taking screenshots
+1\) Launch Xumm, press **Settings** -> **Security** -> **Block taking screenshots**
 
-2\)&#x20;
+2\) Exit the Settings screen and press the **Events** button on the main screen of Xumm.
 
-****
+<figure><img src="../.gitbook/assets/Events 2.png" alt=""><figcaption><p>Events button</p></figcaption></figure>
+
+3\) The Event list is a live view of the transactions on the XRP Ledger. Search through the list and choose the transaction where you sent the funds to your crypto exchange. It might look something like this:
+
+&#x20;
+
+<figure><img src="../.gitbook/assets/Crypto Transaction.png" alt=""><figcaption><p>Sending to crypto exchange</p></figcaption></figure>
+
+4\) At this point you can take a screenshot of the transaction as it will contain all of the information your exchange requires.
+
+
 
 **Additional reading**
 
