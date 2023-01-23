@@ -33,7 +33,7 @@ Per our Privacy policy, your email address (along with any other information you
 As we continue to expand the XRPL ecosystem, you will notice we will forge more and more partnerships with 3rd party companies such as Banxa, BTC Direct, Gatehub, Stably, etc.
 
 {% hint style="warning" %}
-We have absolutely **no control** over what information a 3rd party vendor gathers, stores, maintains, etc.&#x20;
+Please note: We have absolutely **no control** over what information a 3rd party vendor gathers, stores and/or maintains.&#x20;
 {% endhint %}
 
 These companies have their own privacy and disclosure policies and each one collects and maintains their own records. In order to change your email address with them, you are going to need to contact them directly.
