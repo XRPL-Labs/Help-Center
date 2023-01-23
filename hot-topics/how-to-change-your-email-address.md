@@ -18,19 +18,43 @@ If you have subscribed to **Xumm Pro**, you have the option to enter an email ad
 
 If you have an account via our On/Off-Ramp service, you would have entered an email address as part of the on boarding process. As a regulated company, we need to store all information (including email addresses) for compliance reasons, but we can add an additional email address to your file of you like.
 
-Simply open a ticket using the [Xumm Support xApp](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your On/Off-Ramp account updated. (Don't forget to include your new email address in the message.)&#x20;
+Simply open a ticket using the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your On/Off-Ramp account updated. (Don't forget to include your new email address in the message.)&#x20;
+
+### Xumm Tangem orders
+
+When you place an order for Xumm Tangem cards, you are asked for your email address during the order process. We use it to send you "Trace and Trace" information from our shipping company. Since we usually ship our orders on the same day, there is a very small window where we could actually change your email information. If you contact us in time, we can change it for your order.
+
+As above, open a ticket using the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your Xumm Tangem order updated. (Don't forget to include your new email address in the message.)
+
+Per our Privacy policy, your email address (along with any other information you provide us in the order) gets **automatically purged** from our systems shortly after your order is sent.
 
 ### **3rd Party xApps**&#x20;
 
-As we continue to expand the XRPL ecosystem, you will notice more and more partnerships with 3rd party companies such as Banxa, BTC Direct, Gatehub, Stably, etc.
+As we continue to expand the XRPL ecosystem, you will notice we forge more and more partnerships with 3rd party companies such as Banxa, BTC Direct, Gatehub, Stably, etc.
 
-Each company collects and maintains their own records so in order to change your email address with them, you are going to need to contact them directly.
+{% hint style="warning" %}
+We have absolutely **no control** over what information a 3rd party vendor gathers, stores, maintains, etc.&#x20;
+{% endhint %}
+
+These companies have their own privacy and disclosure policies and each one collects and maintains their own records. In order to change your email address with them, you are going to need to contact them directly.
 
 * [Banxa Support](https://support.banxa.com/en/support/tickets/new)
 * [BTC Support](https://support.btcdirect.eu/hc/en-gb/requests/new)
 * [Gatehub Support](https://support.gatehub.net/hc/en-us/requests/new)
 * [Stably Support](https://www.stably.io/contact/)
 
-### **3rd Party xApps**&#x20;
+### **Xumm Developer Portal**&#x20;
 
-As we continue to expand the XRPL ecosystem, you will notice more and more partnerships with 3rd party companies such as Banxa, BTC Direct, Gatehub, Stably, etc.
+If you have signed up for our developer portal, you would have entered your email address.
+
+To get this changed, open a ticket using the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your developer portal account updated.&#x20;
+
+{% hint style="info" %}
+This is a laborious process so please try not to do this often
+{% endhint %}
+
+### **Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
