@@ -18,29 +18,17 @@ Have you ever sent or received an email? Checked your credit card balance online
 
 ### You just created the worlds first CRQC. What should we do?
 
-You've spent decades educating yourself in cryptography, physics, coding, mathematics and computer science. You've spent millions of dollars in equipment and research. You could easily work for any top end company in the world or get a top level government or military contact, but instead you decide to use your CRQC to pursue a life of crime....
+You've spent decades educating yourself in cryptography, physics, coding, mathematics and computer science. You've spent millions of dollars in equipment and research. You could easily work for any of the biggest companies in the world or get a top level government or military contact, but instead you decide to use your CRQC to pursue a life of crime....
 
-You decide to risk financial ruin, millions of dollars of highly technical and sophisticated equipment, federal prosecution and life in prison to break the encryption on the XRP Ledger.  You could break the encryption on any of the thousands of banks in the world, or any of the sites on the world wide web. You could decrypt military and government databases across the planet. You could go after any private or public blockchain in the word, but you decide that the XRP Ledger is the best place to start your criminal empire. That's simply brilliant. Let's go through this.
+You decide to risk financial ruin, millions of dollars of highly technical and sophisticated equipment, federal prosecution and life in prison to break the encryption on the XRP Ledger.  You could break the encryption on any of the thousands of banks in the world, or any of the sites on the world wide web. You could decrypt military and government databases across the planet. You could go after any private or public blockchain in the world, any crypto exchange, any company, but you decide that the XRP Ledger is the best place to start your criminal empire. That's simply brilliant. Let's go through this.
 
-and figure so you can  Rather than&#x20;
+You decide to skip over the 4 accounts with over 1 billion XRP in them and the 26 accounts with over 500  million XRP in them and the 55 accounts with over 100 million XRP in them and just go after the accounts with under 100 million. Good plan, you don't want to be greedy after all. Keep in mind the XRPL is a **public blockchain**, so all of the transactions that you do are public, easily traceable and that large transactions are monitored and flagged by many organizations and individuals around the world. You could have picked from thousands of private institutions, but you want to take the risk so you decrypt a couple of accounts and send them to your favorite crypto exchange to 'cash out".  &#x20;
 
-###
-
-### **Why would someone use a quantum computer to attack your XRP Ledger account?**
-
-It depends on the motivation of the attacker. If the motivation is money, it might make more sense to attack one of the 4 accounts with over 1 billion XRP in them, or maybe one of the 26 accounts with over 500 million XRP in them, or one of the 55 accounts with over 100 million XRP in them..
-
-There is a long list of accounts which have a large XRP balance, so if the attacker is motivated by money, let’s assume that your account is one of the high value accounts just mentioned.
-
-So the attacker successfully accesses your account and transfers all of your XRP into their XRPL account.
+So how does that work? You have already decrypted and accessed the crypto exchange and falsified your identity. You probably already erased your true identity from all government databases and created new identities around the world as well. Now you need to convince the crypto exchange to convert your crypto into fiat. In the meantime, word has gotten out about your little heist. People have noticed your transaction and have started to investigate and the word quickly spreads around the XRPL ecosystem that something is no quite right. What do you think happens to the price of XRP the second the community learns that multi-million dollar accounts are being decrypted? What do you think happens to the value of your tokens?
 
 Now what…? The second that word gets out that a quantum computer hacker is attacking any blockchain, the price of that token goes down to zero. Who would want to own a token that is worthless?
 
-Even if word did not get out, the XRP Ledger is a public blockchain. That means that anyone can view any transaction that occurs on the XRPL. What are they going to do with their XRP? It can be easily tracked.
-
-Why would anyone want to attack the XRP Ledger any way? Why not hack any one of a thousand different banks or how about about the US Federal reserve or maybe a big corporation?
-
-For that matter, why turn to crime if you have all of that computer power? It would be far easier to make legitimate money rather than becoming a criminal. Corporations would line up and pay substantial amounts of money for access to that kind of computing power. Plus a quantum computer will cost several million dollars to create and operate. Who would want to risk that kind of investment and serious criminal prosecution to hack your XRPL account?
+#### ****
 
 #### **But what if they wanted to risk multi-million dollar quantum computer and criminal prosecution to hack my account?**
 
