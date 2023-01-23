@@ -47,11 +47,7 @@ These companies have their own privacy and disclosure policies and each one coll
 
 If you have signed up for our developer portal, you would have entered your email address.
 
-To get this changed, open a ticket using the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your developer portal account updated.&#x20;
-
-{% hint style="info" %}
-This is a laborious process so please try not to do this often
-{% endhint %}
+To get this changed, open a ticket using the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your developer portal account updated.
 
 ### **Notes**
 
