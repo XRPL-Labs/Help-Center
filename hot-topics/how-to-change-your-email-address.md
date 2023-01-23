@@ -30,7 +30,7 @@ Per our Privacy policy, your email address (along with any other information you
 
 ### **3rd Party xApps**&#x20;
 
-As we continue to expand the XRPL ecosystem, you will notice we forge more and more partnerships with 3rd party companies such as Banxa, BTC Direct, Gatehub, Stably, etc.
+As we continue to expand the XRPL ecosystem, you will notice we will forge more and more partnerships with 3rd party companies such as Banxa, BTC Direct, Gatehub, Stably, etc.
 
 {% hint style="warning" %}
 We have absolutely **no control** over what information a 3rd party vendor gathers, stores, maintains, etc.&#x20;
