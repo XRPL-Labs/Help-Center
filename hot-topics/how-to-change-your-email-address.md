@@ -26,7 +26,7 @@ When you place an order for Xumm Tangem cards, you are asked for your email addr
 
 As above, open a ticket using the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your Xumm Tangem order updated. (Don't forget to include your new email address in the message.)
 
-Per our Privacy policy, your email address (along with any other information you provide us in the order) gets **automatically purged** from our systems shortly after your order is sent.
+Per our Privacy policy, your email address (along with any other information you provide us in your order) gets **automatically purged** from our systems shortly after your order is sent.
 
 ### **3rd Party xApps**&#x20;
 
