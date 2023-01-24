@@ -12,19 +12,17 @@ coverY: 112
 
 Our team is diverse, motivated and passionate about Xumm and about the future of blockchain . Here are our
 
-<figure><img src="../../.gitbook/assets/Team pictures.png" alt=""><figcaption><p>XRPL Lanbs Team - 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Team pictures.png" alt=""><figcaption><p>XRPL Lanbs Team - 2023</p></figcaption></figure>
 
 If you are interested in getting to know us a bit better, check these out!
 
-{% content-ref url="introducing-ali-richard-and-satish.md" %}
-[introducing-ali-richard-and-satish.md](introducing-ali-richard-and-satish.md)
+
+
+Introducing the team in this video series:
+
+{% content-ref url="the-xrpl-labs-xumm-team/introducing-ali-richard-and-satish.md" %}
+[introducing-ali-richard-and-satish.md](the-xrpl-labs-xumm-team/introducing-ali-richard-and-satish.md)
 {% endcontent-ref %}
-
-## Introducing: Ali, Satish, Koen
-
-{% embed url="https://www.youtube.com/watch?list=PL7cEYW-Kob0oOZ3N-dv4tIRqr7ckjUKXz&v=17U1Z4t42Xs" %}
-aweXumm - Episode 1
-{% endembed %}
 
 ## Introducing: Tristan, Richard
 
