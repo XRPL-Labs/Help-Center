@@ -22,27 +22,27 @@ This is why it's really important to keep your secrets stored offline in a secur
 **You must still have access to your existing account secrets: a family seed (s....), mnemonic (words) or 'Secret Numbers', the format XUMM generates.**
 {% endhint %}
 
-### Special Cases
+## Special cases
 
 The above applies to accounts created using standard XRP Ledger formats. There are cases where accounts were created using non-standard methods or specialized hardware.&#x20;
 
-#### Casino Coin
+## Casino Coin
 
 [https://support.xumm.app/hc/en-us/articles/360021843879-Recovering-CSC-Account-s-on-a-new-different-phone](https://support.xumm.app/hc/en-us/articles/360021843879-Recovering-CSC-Account-s-on-a-new-different-phone)&#x20;
 
-#### Tangem accounts
+## Tangem accounts
 
 If you are using a Tangem account, you don't need your written down secret(s) (family seed (s....), mnemonic (words) or 'Secret Numbers') as you can just import your Tangem account by tapping your card against your phone in the account Import flow.&#x20;
 
-#### Toast Wallet
+## Toast Wallet
 
 [https://support.xumm.app/hc/en-us/articles/360018135840-How-to-migrate-from-Toast-Wallet-to-XUMM](https://support.xumm.app/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCDLwNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCI9BwdJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJNL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxODEzNTg0MC1Ib3ctdG8tbWlncmF0ZS1)&#x20;
 
-#### Atomic Wallet
+## Atomic Wallet
 
 [https://support.xumm.app/hc/en-us/articles/360018166519-Porting-Atomic-Wallet-XRP-ledger-accounts-to-XUMM](https://support.xumm.app/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPdCwdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCEjLwNJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJWL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxODE2NjUxOS1Qb3J0aW5nLUF0b21pYy1)&#x20;
 
-#### Hardware Wallets
+## Hardware Wallets
 
 Please consult the documentation/support resources for the device.
 
