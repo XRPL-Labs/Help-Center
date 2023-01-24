@@ -2,7 +2,7 @@
 description: Exporting your XRP Ledger account for tax purposes
 ---
 
-# Taxes and Xumm
+# XRPL accounts & taxes
 
 ## **Introduction**
 

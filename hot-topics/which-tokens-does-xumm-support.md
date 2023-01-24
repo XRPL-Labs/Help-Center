@@ -1,4 +1,4 @@
-# Which tokens does Xumm support?
+# 🪙 Supported tokens
 
 ## Which tokens does Xumm support?
 

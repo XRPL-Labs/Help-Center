@@ -1,4 +1,4 @@
-# What is Xumm?
+# 💸 What is Xumm?
 
 Xumm is a non-custodial, un-hosted wallet &#x20;
 

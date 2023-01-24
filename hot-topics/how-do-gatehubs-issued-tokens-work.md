@@ -2,7 +2,7 @@
 description: Gatehub has issued several tokens. How do they work?
 ---
 
-# How do Gatehub’s issued tokens work
+# Gatehub’s issued tokens
 
 ### **What is Gatehub?**
 

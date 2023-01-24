@@ -3,7 +3,7 @@ description: Want to see XRP to your XRP Ledger account managed by Xumm?
 coverY: 0
 ---
 
-# How to Send Funds Using Xumm
+# 📨 Send funds with Xumm
 
 **Introduction**
 
