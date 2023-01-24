@@ -12,7 +12,7 @@ coverY: 112
 
 Our team is diverse, motivated and passionate about Xumm and about the future of blockchain. Here are our team members:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Wietse</strong></td><td>Founder</td><td></td><td><a href="../.gitbook/assets/wietse">wietse</a></td></tr><tr><td><strong>Tristan</strong></td><td>Designer</td><td></td><td><a href="../.gitbook/assets/Tristan">Tristan</a></td></tr><tr><td><strong>Alex</strong></td><td>Compliance officer</td><td></td><td><a href="../.gitbook/assets/alex">alex</a></td></tr><tr><td><strong>Ali</strong></td><td>Software developer</td><td></td><td><a href="../.gitbook/assets/ali">ali</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Wietse</strong></td><td>Founder</td><td></td><td><a href="../.gitbook/assets/wietse">wietse</a></td></tr><tr><td><strong>Tristan</strong></td><td>Designer</td><td></td><td><a href="../.gitbook/assets/Tristan">Tristan</a></td></tr><tr><td><strong>Alex</strong></td><td>Compliance Officer</td><td></td><td><a href="../.gitbook/assets/alex">alex</a></td></tr><tr><td><strong>Ali</strong></td><td>Software Developer</td><td></td><td><a href="../.gitbook/assets/ali">ali</a></td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/Team pictures.png" alt=""><figcaption><p>XRPL Lanbs Team - 2023</p></figcaption></figure>
 
