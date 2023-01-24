@@ -22,28 +22,30 @@
 ## All about xApps
 
 * [Xumm xApps](all-about-xapps/xumm-xapps/README.md)
-  * [Account Worth](all-about-xapps/xumm-xapps/account-worth.md)
-  * [Vanity Address](all-about-xapps/xumm-xapps/vanity-address.md)
-  * [Account Merge](all-about-xapps/xumm-xapps/account-merge.md)
-  * [DEX Trade](all-about-xapps/xumm-xapps/dex-trade.md)
-* [Token Trasher ](all-about-xapps/token-trasher.md)
-* [Tangem Backup ](all-about-xapps/tangem-backup.md)
-* [Gatehub Trade](all-about-xapps/gatehub-trade.md)
-* [Xumm Support](all-about-xapps/xumm-support.md)
-* [Buy/Sell XRP](all-about-xapps/buy-sell-xrp.md)
-* [Banxa](all-about-xapps/banxa.md)
-* [BTC Direct](all-about-xapps/btc-direct.md)
-* [Get cards (Tangem)](all-about-xapps/get-cards-tangem.md)
-* [Path Finding](all-about-xapps/path-finding.md)
-* [Escrow creator](all-about-xapps/escrow-creator.md)
-* [Peerkat NFT viewer](all-about-xapps/peerkat-nft-viewer.md)
-* [CasinoCoin Lobby](all-about-xapps/casinocoin-lobby.md)
-* [XRP Ledger TipBot](all-about-xapps/xrp-ledger-tipbot.md)
-* [Token creator](all-about-xapps/token-creator.md)
-* [ChiSpend - Cash Out](all-about-xapps/chispend-cash-out.md)
-* [Transaction Exporter](all-about-xapps/transaction-exporter.md)
-* [xApp History](all-about-xapps/xapp-history.md)
-* [Xumm Pro Beta](all-about-xapps/xumm-pro-beta.md)
+  * [Account Worth](all-about-xapps/account-worth.md)
+  * [Vanity Address](all-about-xapps/vanity.md)
+  * [Account Merge](all-about-xapps/account-merge.md)
+  * [DEX Trade](all-about-xapps/dex-trade.md)
+  * [Path Finding](all-about-xapps/xumm-xapps/path-finding.md)
+  * [xApp History](all-about-xapps/xumm-xapps/xapp-history.md)
+  * [Tangem Backup ](all-about-xapps/xumm-xapps/tangem-backup.md)
+  * [Xumm Support](all-about-xapps/xumm-xapps/xumm-support.md)
+  * [Get cards (Tangem)](all-about-xapps/xumm-xapps/get-cards-tangem.md)
+  * [Xumm Pro Beta](all-about-xapps/xumm-xapps/xumm-pro-beta.md)
+  * [Buy/Sell XRP](all-about-xapps/xumm-xapps/buy-sell-xrp/README.md)
+    * [Banxa](all-about-xapps/xumm-xapps/buy-sell-xrp/banxa.md)
+    * [BTC Direct](all-about-xapps/xumm-xapps/buy-sell-xrp/btc-direct.md)
+* [XRPL Services](all-about-xapps/xrpl-services/README.md)
+  * [Token Trasher ](all-about-xapps/xrpl-services/token-trasher.md)
+  * [Escrow creator](all-about-xapps/xrpl-services/escrow-creator.md)
+  * [Token creator](all-about-xapps/xrpl-services/token-creator.md)
+* [XRP Community](all-about-xapps/xrp-community/README.md)
+  * [Peerkat NFT viewer](all-about-xapps/xrp-community/peerkat-nft-viewer.md)
+  * [CasinoCoin Lobby](all-about-xapps/xrp-community/casinocoin-lobby.md)
+  * [XRP Ledger TipBot](all-about-xapps/xrp-community/xrp-ledger-tipbot.md)
+  * [ChiSpend - Cash Out](all-about-xapps/xrp-community/chispend-cash-out.md)
+  * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
+  * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
 
 ## XRP Ledger resources
 
@@ -55,8 +57,14 @@
 
 * [How to subscribe to Pro](xumm-pro-beta/how-to-subscribe-to-pro.md)
 * [Features of Pro](xumm-pro-beta/features-of-pro.md)
+  * [Push notifications](xumm-pro-beta/features-of-pro/push-notifications.md)
   * [Accounts](xumm-pro-beta/features-of-pro/accounts.md)
+  * [Xumm App early access](xumm-pro-beta/features-of-pro/xumm-app-early-access.md)
   * [Profiles](xumm-pro-beta/features-of-pro/profiles.md)
+  * [Free Tangem Card](xumm-pro-beta/features-of-pro/free-tangem-card.md)
+  * [Premium Support](xumm-pro-beta/features-of-pro/premium-support.md)
+  * [Vanity addresses](xumm-pro-beta/features-of-pro/vanity-addresses.md)
+  * [On/Off Ramp](xumm-pro-beta/features-of-pro/on-off-ramp.md)
 
 ## Security and Xumm
 
@@ -64,17 +72,9 @@
 * [Security advisory](security/security-advisory.md)
 * [Xumm (Tangem) card](security/xumm-tangem-card.md)
 
-## Announcements & release notes
+## Release notes
 
-* [Page 1](announcements-and-release-notes/page-1.md)
-
-## Xumm for Retail
-
-* [Page 1](xumm-for-retail/page-1.md)
-
-## Xumm for Developers
-
-* [Page 1](xumm-for-developers/page-1.md)
+* [Page 1](release-notes/page-1.md)
 
 ## About Xumm & XRPL Labs
 
