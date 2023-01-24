@@ -2,6 +2,8 @@
 description: >-
   When you get a new phone, even after migrating all your data and settings,
   Xumm accounts will not be automatically available in Xumm on your new phone.
+cover: >-
+  https://images.unsplash.com/photo-1621330396173-e41b1cafd17f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxwaG9uZXN8ZW58MHx8fHwxNjc0NTczMDQ4&ixlib=rb-4.0.3&q=80
 coverY: 0
 ---
 

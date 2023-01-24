@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1533988902751-0fad628013cb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx0b2tlbnN8ZW58MHx8fHwxNjc0NTczMTM3&ixlib=rb-4.0.3&q=80
+coverY: 0
+---
+
 # 🪙 Supported tokens
 
 ## Which tokens does Xumm support?

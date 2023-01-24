@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx3YWxsZXR8ZW58MHx8fHwxNjc0NTczMDg3&ixlib=rb-4.0.3&q=80
+coverY: -42
+---
+
 # 💸 What is Xumm?
 
 Xumm is a non-custodial, un-hosted wallet &#x20;

@@ -1,6 +1,8 @@
 ---
 description: Want to see XRP to your XRP Ledger account managed by Xumm?
-coverY: 0
+cover: >-
+  https://images.unsplash.com/photo-1608111283577-43d930222227?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxzZW5kJTIwbW9uZXl8ZW58MHx8fHwxNjc0NTczMTU5&ixlib=rb-4.0.3&q=80
+coverY: 121
 ---
 
 # 📨 Send funds with Xumm
