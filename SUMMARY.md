@@ -56,8 +56,6 @@
 
 ## About Xumm & XRPL Labs
 
-* [What is Xumm?](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/README.md)
-  * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
 * [Who is the team behind Xumm?](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
 * [Is Xumm owned by Ripple?](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
 * [What is XRPL Labs?](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
@@ -70,7 +68,8 @@
 * [What is Xumm?](hot-topics/what-is-xumm.md)
   * [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
   * [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
-  * [Xumm & natural disasters](hot-topics/what-is-xumm/xumm-and-natural-disasters.md)
+  * [Xumm & natural disasters](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
+  * [Common misconceptions about Xumm](hot-topics/what-is-xumm/common-misconceptions-about-xumm.md)
 * [Deposit to Xumm](hot-topics/deposit-to-xumm/README.md)
   * [Sending XRP from another wallet](hot-topics/deposit-to-xumm/send-from-another-wallet.md)
   * [Fiat conversion](hot-topics/deposit-to-xumm/fiat-conversion.md)
