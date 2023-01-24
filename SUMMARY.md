@@ -4,10 +4,16 @@
 
 ## Getting started with Xumm
 
+* [💸 What is Xumm?](getting-started-with-xumm/what-is-xumm/README.md)
+  * [Where are your funds stored?](getting-started-with-xumm/what-is-xumm/where-are-your-funds-stored.md)
+  * [How secure is Xumm?](getting-started-with-xumm/what-is-xumm/how-secure-is-xumm.md)
+  * [Xumm & natural disasters](getting-started-with-xumm/what-is-xumm/xumm-and-natural-disasters.md)
+  * [Common misconceptions about Xumm](getting-started-with-xumm/what-is-xumm/common-misconceptions-about-xumm.md)
 * [Your first XRP Ledger account](getting-started/creating-your-first-xrp-ledger-account-using-xumm.md)
+* [Activating an account](getting-started-with-xumm/activating-an-account.md)
 * [Importing your account](getting-started-with-xumm/importing-your-account.md)
+* [Accessing your XRP account](getting-started-with-xumm/accessing-your-xrp-account.md)
 * [Terms and definitions](getting-started-with-xumm/terms-and-definitions.md)
-* [How to activate a new XRPL account](getting-started/how-to-activate-a-new-xrpl-account.md)
 
 ## Learning more about Xumm
 
@@ -65,11 +71,6 @@
 
 ## Hot Topics
 
-* [💸 What is Xumm?](hot-topics/what-is-xumm.md)
-  * [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
-  * [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
-  * [Xumm & natural disasters](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
-  * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
 * [💷 Deposit to Xumm](hot-topics/deposit-to-xumm/README.md)
   * [Sending XRP from another wallet](hot-topics/deposit-to-xumm/send-from-another-wallet.md)
   * [Fiat conversion](hot-topics/deposit-to-xumm/fiat-conversion.md)
@@ -80,7 +81,6 @@
 * [🪙 Supported tokens](hot-topics/which-tokens-does-xumm-support.md)
 * [📨 Send funds with Xumm](hot-topics/how-to-send-funds-using-xumm.md)
 * [Xumm & the Flare network](hot-topics/flare-airdrop.md)
-* [Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [Gatehub’s issued tokens](hot-topics/how-do-gatehubs-issued-tokens-work.md)
 * [XRPL accounts & taxes](hot-topics/taxes-and-xumm.md)
 * [Reserves and Fees on the XRPL](hot-topics/reserves-and-fees-on-the-xrpl.md)
