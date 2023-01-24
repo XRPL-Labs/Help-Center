@@ -4,16 +4,16 @@
 
 ## Getting started with Xumm
 
-* [💸 What is Xumm?](getting-started-with-xumm/what-is-xumm/README.md)
-  * [Where are your funds stored?](getting-started-with-xumm/what-is-xumm/where-are-your-funds-stored.md)
-  * [How secure is Xumm?](getting-started-with-xumm/what-is-xumm/how-secure-is-xumm.md)
-  * [Xumm & natural disasters](getting-started-with-xumm/what-is-xumm/xumm-and-natural-disasters.md)
-  * [Common misconceptions about Xumm](getting-started-with-xumm/what-is-xumm/common-misconceptions-about-xumm.md)
+* [💸 What is Xumm?](hot-topics/what-is-xumm.md)
+  * [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
+  * [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
+  * [Xumm & natural disasters](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
+  * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
 * [Your first XRP Ledger account](getting-started/creating-your-first-xrp-ledger-account-using-xumm.md)
-* [Activating an account](getting-started-with-xumm/activating-an-account.md)
-* [Importing your account](getting-started-with-xumm/importing-your-account.md)
-* [Accessing your XRP account](getting-started-with-xumm/accessing-your-xrp-account.md)
-* [Terms and definitions](getting-started-with-xumm/terms-and-definitions.md)
+* [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
+* [Importing your account](getting-started/importing-your-existing-xrpl-account.md)
+* [Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
+* [Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 
 ## Learning more about Xumm
 
