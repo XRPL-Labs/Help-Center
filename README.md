@@ -1,10 +1,9 @@
 ---
-description: Xumm Help Center
 cover: .gitbook/assets/xumm header
 coverY: 0
 ---
 
-# Welcome
+# 😁 Welcome to the Xumm Help Center!
 
 This is where we will help you as good as we can with FAQ's, help articles, background information & knowledge shared.
 
