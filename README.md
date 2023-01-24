@@ -10,6 +10,12 @@ coverY: 0
 
 We've divided our site into various categories that you browse at your convenience or simply use the Search button at the top of the page to get a quick list of articles related to search criteria.
 
+### Getting Started with Xumm
+
+This area is for new users and people who are interested in learning the basics of the Xumm platform
+
+
+
 | **Categories**                | **What kind of articles**                                |
 | ----------------------------- | -------------------------------------------------------- |
 | Getting started with Xumm     | Articles for users that just get started                 |
