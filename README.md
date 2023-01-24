@@ -8,7 +8,7 @@ coverY: 0
 
 # Welcome to the Xumm Help Center!
 
-
+We've divided our site into various categories that you browse at your convenience or simply use the Search button at the top of the page to get a quick list of articles related to search criteria.
 
 | **Categories**                | **What kind of articles**                                |
 | ----------------------------- | -------------------------------------------------------- |
