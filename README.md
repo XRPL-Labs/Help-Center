@@ -14,20 +14,41 @@ We've divided our site into various categories that you browse at your convenien
 
 This area is for new users and people who are interested in learning the basics of the Xumm platform
 
+### Learning more about Xumm
 
+Here you will learn a bit more about Xumm's features.
 
-| **Categories**                | **What kind of articles**                                |
-| ----------------------------- | -------------------------------------------------------- |
-| Getting started with Xumm     | Articles for users that just get started                 |
-| Learning more about Xumm      | More deep dive articles                                  |
-| All about xApps               | Articles that are related external AND internal xApps    |
-| XRP Ledger resources          | For everything that XRPL related community, websites etc |
-| Xumm Pro beta                 | All articles that are related to Xumm Pro Beta           |
-| Security and Xumm             | Seperate category becuse we are security minded          |
-| Announcements & release notes | The last 3 releases notes and the other in archive       |
-| Xumm for Retail               | Articles that are relevant for retail                    |
-| Xumm for Developers           | Articles that are relevant for developers                |
-| About Xumm & XRPL Labs        | General articles about Xumm and XRPL Labs                |
+### All about xApps
+
+Are you interested in what xApp are and how they work? You've come to the right place!
+
+### Xumm Pro (Beta)
+
+All about Xumm Pro, why you need it and what's coming in the future
+
+### Security and Xumm
+
+Worried about how safe your funds are? This is where you want to be.
+
+### Xumm for Retail
+
+Ever thought about integration Xumm into your business?
+
+### Xumm for Developers
+
+You know you want to intergrate Xumm into your project. Here's how!
+
+### XRP Ledger Resources
+
+Want to learn the basics of the XRPL?&#x20;
+
+### Release Notes
+
+A little bit of history on the features we've added over the years
+
+### About Xumm and XRPL Labs
+
+Meet the team and get to know us! 🤗
 
 
 
