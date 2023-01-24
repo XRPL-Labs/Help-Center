@@ -23,10 +23,20 @@
 
 * [Account Worth](all-about-xapps/account-worth.md)
 * [Token Trasher ](all-about-xapps/token-trasher.md)
-* [Vanity](all-about-xapps/vanity.md)
+* [Vanity Address](all-about-xapps/vanity-address.md)
 * [Tangem Backup ](all-about-xapps/tangem-backup.md)
 * [Account Merge](all-about-xapps/account-merge.md)
 * [DEX Trade](all-about-xapps/dex-trade.md)
+* [Gatehub Trade](all-about-xapps/gatehub-trade.md)
+* [Xumm Pro Beta](all-about-xapps/xumm-pro-beta.md)
+* [Xumm Support](all-about-xapps/xumm-support.md)
+* [Buy/Sell XRP](all-about-xapps/buy-sell-xrp.md)
+* [Banxa](all-about-xapps/banxa.md)
+* [BTC Direct](all-about-xapps/btc-direct.md)
+* [Get cards (Tangem)](all-about-xapps/get-cards-tangem.md)
+* [Path Finding](all-about-xapps/path-finding.md)
+* [Escrow creator](all-about-xapps/escrow-creator.md)
+* [Peerkat NFT viewer](all-about-xapps/peerkat-nft-viewer.md)
 
 ## XRP Ledger resources
 
