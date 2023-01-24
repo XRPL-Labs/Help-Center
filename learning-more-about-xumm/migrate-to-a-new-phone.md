@@ -1,13 +1,13 @@
 ---
 description: >-
   When you get a new phone, even after migrating all your data and settings,
-  XUMM accounts will not be automatically available in XUMM on your new phone.
+  Xumm accounts will not be automatically available in Xumm on your new phone.
 coverY: 0
 ---
 
 # 📱 Migrate to a new phone
 
-For security reasons, XUMM does not store accounts / account secrets in your Google / Apple iCloud backups. If XUMM would store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
+For security reasons, Xumm does not store accounts / account secrets in your Google / Apple iCloud backups. If Xumm would store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
 
 {% hint style="info" %}
 This means restoring Xumm from backup will not work. The app needs to re-installed from the play store.
@@ -20,7 +20,7 @@ This is why it's really important to keep your secrets stored offline in a secur
 {% hint style="warning" %}
 Accounts will then need to be imported using the credentials (seed/secret/mnemonic) on your new phone. \
 \
-You **must still have access** to your existing account secrets: a family seed (s....), mnemonic (words) or 'Secret Numbers', the format XUMM generates.
+You **must still have access** to your existing account secrets: a family seed (s....), mnemonic (words) or 'Secret Numbers', the format Xumm generates.
 {% endhint %}
 
 ## Special cases
@@ -41,11 +41,11 @@ If you are using a Tangem account, you don't need your written down secret(s) (f
 
 ## Toast Wallet
 
-[https://support.xumm.app/hc/en-us/articles/360018135840-How-to-migrate-from-Toast-Wallet-to-XUMM](https://support.xumm.app/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCDLwNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCI9BwdJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJNL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxODEzNTg0MC1Ib3ctdG8tbWlncmF0ZS1)&#x20;
+[https://support.xumm.app/hc/en-us/articles/360018135840](https://support.xumm.app/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCDLwNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCI9BwdJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJNL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxODEzNTg0MC1Ib3ctdG8tbWlncmF0ZS1)
 
 ## Atomic Wallet
 
-[https://support.xumm.app/hc/en-us/articles/360018166519-Porting-Atomic-Wallet-XRP-ledger-accounts-to-XUMM](https://support.xumm.app/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPdCwdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCEjLwNJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJWL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxODE2NjUxOS1Qb3J0aW5nLUF0b21pYy1)&#x20;
+[https://support.xumm.app/hc/en-us/articles/360018166519](https://support.xumm.app/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPdCwdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCEjLwNJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJWL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxODE2NjUxOS1Qb3J0aW5nLUF0b21pYy1)
 
 ## Hardware Wallets
 
