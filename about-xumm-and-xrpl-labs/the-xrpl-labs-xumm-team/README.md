@@ -8,13 +8,17 @@ cover: >-
 coverY: 112
 ---
 
-# 👨👩👧👧 The team behind Xumm
+# 👨👩👧👧 The XRPL Labs/Xumm team
 
 Our team is diverse, motivated and passionate about Xumm and about the future of blockchain . Here are our
 
-<figure><img src="../.gitbook/assets/Team pictures.png" alt=""><figcaption><p>XRPL Lanbs Team - 2023</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Team pictures.png" alt=""><figcaption><p>XRPL Lanbs Team - 2023</p></figcaption></figure>
 
 If you are interested in getting to know us a bit better, check these out!
+
+{% content-ref url="introducing-ali-richard-and-satish.md" %}
+[introducing-ali-richard-and-satish.md](introducing-ali-richard-and-satish.md)
+{% endcontent-ref %}
 
 ## Introducing: Ali, Satish, Koen
 
