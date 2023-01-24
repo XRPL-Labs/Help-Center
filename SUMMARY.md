@@ -67,6 +67,10 @@
 
 ## Hot Topics
 
+* [What is Xumm?](hot-topics/what-is-xumm/README.md)
+  * [Where are your funds stored?](hot-topics/what-is-xumm/where-are-your-funds-stored.md)
+  * [How secure is Xumm?](hot-topics/what-is-xumm/how-secure-is-xumm.md)
+  * [Will Xumm Operate After a Natural Disaster](hot-topics/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
 * [Deposit to Xumm](hot-topics/deposit-to-xumm/README.md)
   * [Sending XRP from another wallet](hot-topics/deposit-to-xumm/send-from-another-wallet.md)
   * [Fiat conversion](hot-topics/deposit-to-xumm/fiat-conversion.md)
@@ -77,15 +81,11 @@
 * [Which tokens does Xumm support?](hot-topics/which-tokens-does-xumm-support.md)
 * [How to Send Funds Using Xumm](hot-topics/how-to-send-funds-using-xumm.md)
 * [Flare Networks and Xumm](hot-topics/flare-airdrop.md)
-* [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
 * [How can you access your XRPL account?](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [How do Gatehub’s issued tokens work](hot-topics/how-do-gatehubs-issued-tokens-work.md)
-* [What is Xumm?](hot-topics/what-is-xumm.md)
 * [Taxes and Xumm](hot-topics/taxes-and-xumm.md)
 * [Reserves and Fees on the XRPL](hot-topics/reserves-and-fees-on-the-xrpl.md)
-* [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
 * [Quantum Attacks and Xumm](hot-topics/quantum-attacks-and-xumm.md)
 * [How to change your Email Address](hot-topics/how-to-change-your-email-address.md)
 * [Destination tags](hot-topics/destination-tags.md)
 * [Deposit to Exchange Didn’t Arrive](hot-topics/deposit-to-exchange-didnt-arrive.md)
-* [Will Xumm Operate After a Natural Disaster](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
