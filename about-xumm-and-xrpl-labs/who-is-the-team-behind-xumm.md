@@ -1,6 +1,13 @@
-# The team behind Xumm
+---
+description: >-
+  Xumm is the result of many talented and dedicated people who work tirelessly,
+  day in and day out to develop the safest, most powerful and user friendly
+  application in all of blockchain.
+---
 
-Xumm is the result of many talented and dedicated people who work tirelessly, day in and day out to develop the safest, most powerful and user friendly application in all of blockchain. Our team is diverse, motivated and passionate about Xumm and about the future of blockchain . Here are our
+# 👨👩👧👧 The team behind Xumm
+
+Our team is diverse, motivated and passionate about Xumm and about the future of blockchain . Here are our
 
 <figure><img src="../.gitbook/assets/Team pictures.png" alt=""><figcaption><p>XRPL Lanbs Team - 2023</p></figcaption></figure>
 
