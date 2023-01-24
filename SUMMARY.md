@@ -67,10 +67,10 @@
 
 ## Hot Topics
 
-* [What is Xumm?](hot-topics/what-is-xumm/README.md)
-  * [Where are your funds stored?](hot-topics/what-is-xumm/where-are-your-funds-stored.md)
-  * [How secure is Xumm?](hot-topics/what-is-xumm/how-secure-is-xumm.md)
-  * [Will Xumm Operate After a Natural Disaster](hot-topics/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
+* [What is Xumm?](hot-topics/what-is-xumm.md)
+  * [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
+  * [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
+  * [Xumm & natural disasters](hot-topics/what-is-xumm/xumm-and-natural-disasters.md)
 * [Deposit to Xumm](hot-topics/deposit-to-xumm/README.md)
   * [Sending XRP from another wallet](hot-topics/deposit-to-xumm/send-from-another-wallet.md)
   * [Fiat conversion](hot-topics/deposit-to-xumm/fiat-conversion.md)
