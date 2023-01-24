@@ -25,21 +25,7 @@ This is where we will help you as good as we can with FAQ's, help articles, back
 
 
 
-### Some article list
 
-[Broken link](broken-reference "mention")
-
-[flare-airdrop.md](hot-topics/flare-airdrop.md "mention")
-
-
-
-### Some table
-
-| Header         | Another header     |
-| -------------- | ------------------ |
-| Something here | Something there    |
-| And more info  | And something else |
-|                |                    |
 
 ### Hot topics
 
