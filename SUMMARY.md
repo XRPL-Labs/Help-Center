@@ -4,9 +4,9 @@
 
 ## Getting started with Xumm
 
-* [Your first XRP Ledger account](getting-started-with-xumm/your-first-xrp-ledger-account.md)
-* [Importing your existing XRPL account](getting-started/importing-your-existing-xrpl-account.md)
-* [Some terms and definitions related to Xumm and the XRPL](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
+* [Your first XRP Ledger account](getting-started/creating-your-first-xrp-ledger-account-using-xumm.md)
+* [Importing your account](getting-started-with-xumm/importing-your-account.md)
+* [Terms and definitions](getting-started-with-xumm/terms-and-definitions.md)
 * [How to activate a new XRPL account](getting-started/how-to-activate-a-new-xrpl-account.md)
 
 ## Learning more about Xumm
