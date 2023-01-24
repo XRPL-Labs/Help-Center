@@ -21,14 +21,14 @@
 
 ## All about xApps
 
-* [Account Worth](all-about-xapps/account-worth.md)
+* [Xumm xApps](all-about-xapps/xumm-xapps/README.md)
+  * [Account Worth](all-about-xapps/xumm-xapps/account-worth.md)
+  * [Vanity Address](all-about-xapps/xumm-xapps/vanity-address.md)
+  * [Account Merge](all-about-xapps/xumm-xapps/account-merge.md)
+  * [DEX Trade](all-about-xapps/xumm-xapps/dex-trade.md)
 * [Token Trasher ](all-about-xapps/token-trasher.md)
-* [Vanity Address](all-about-xapps/vanity.md)
 * [Tangem Backup ](all-about-xapps/tangem-backup.md)
-* [Account Merge](all-about-xapps/account-merge.md)
-* [DEX Trade](all-about-xapps/dex-trade.md)
 * [Gatehub Trade](all-about-xapps/gatehub-trade.md)
-* [Xumm Pro Beta](all-about-xapps/xumm-pro-beta.md)
 * [Xumm Support](all-about-xapps/xumm-support.md)
 * [Buy/Sell XRP](all-about-xapps/buy-sell-xrp.md)
 * [Banxa](all-about-xapps/banxa.md)
@@ -43,6 +43,7 @@
 * [ChiSpend - Cash Out](all-about-xapps/chispend-cash-out.md)
 * [Transaction Exporter](all-about-xapps/transaction-exporter.md)
 * [xApp History](all-about-xapps/xapp-history.md)
+* [Xumm Pro Beta](all-about-xapps/xumm-pro-beta.md)
 
 ## XRP Ledger resources
 
