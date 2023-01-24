@@ -1,20 +1,20 @@
 ---
 description: >-
   If you're interested in learning about Xumm and the XRP Ledger, you've come to
-  the right place.
+  the right place!
 cover: .gitbook/assets/xumm header
 coverY: 0
 ---
 
 # Welcome to the Xumm Help Center!
 
-We've divided our site into various categories that you browse at your convenience or simply use the Search button at the top of the page to get a quick list of articles related to search criteria.
+We've divided this site into various categories that you can browse at your convenience or simply use the Search button at the top of the page to get a quick list of articles related to your search criteria.
 
-### Getting Started with Xumm
+### [Getting Started with Xumm](broken-reference)
 
 This area is for new users and people who are interested in learning the basics of the Xumm platform
 
-### Learning more about Xumm
+### [Learning more about Xumm](broken-reference)
 
 Here you will learn a bit more about Xumm's features.
 
