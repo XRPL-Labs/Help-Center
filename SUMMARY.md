@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😁 Welcome to the Xumm Help Center!](README.md)
+* [Welcome to the Xumm Help Center!](README.md)
 
 ## Getting started with Xumm
 
