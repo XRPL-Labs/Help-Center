@@ -1,6 +1,2 @@
----
-description: How to create your first account in Xumm
----
-
-# Your first XRP Ledger account
+# Creating your first XRP Ledger account using Xumm
 

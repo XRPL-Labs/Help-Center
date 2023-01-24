@@ -1,3 +1,7 @@
+---
+description: Is Xumm safe to store my secret keys? Has it been audited? How secure is Xumm?
+---
+
 # How secure is Xumm?
 
 ## Comparing different wallets
