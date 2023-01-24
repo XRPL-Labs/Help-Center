@@ -2,7 +2,7 @@
 description: Interested in the Flare airdrop or holding the Spark token?
 ---
 
-# Flare Networks and Xumm
+# Xumm & the Flare network
 
 ### **What is the Flare network?**
 
@@ -58,8 +58,8 @@ Gatehub has issued both Songbird and Flare tokens on the XRP Ledger. You can cre
 
 This article explains:
 
-{% content-ref url="how-do-gatehubs-issued-tokens-work.md" %}
-[how-do-gatehubs-issued-tokens-work.md](how-do-gatehubs-issued-tokens-work.md)
+{% content-ref url="gatehubs-issued-tokens.md" %}
+[gatehubs-issued-tokens.md](gatehubs-issued-tokens.md)
 {% endcontent-ref %}
 
 {% embed url="https://support.xumm.app/hc/en-us/articles/4619198806802" %}
