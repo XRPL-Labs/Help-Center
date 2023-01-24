@@ -30,9 +30,9 @@ The above applies to accounts created using standard XRP Ledger formats. There a
 
 Please use the link below to import your Casino Coin secret (starting with a lower case 's')
 
-{% embed url="https://xumm.app/detect/secret?type=alt-family-seed&name=CasinoCoin&alphabet=cpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2brdeCg65jkm8oFqi1tuvAxyz" %}
-Casino Coin secret import link
-{% endembed %}
+{% hint style="info" %}
+Click [here to import your Casino Coin secret](https://xumm.app/detect/secret?type=alt-family-seed\&name=CasinoCoin\&alphabet=cpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2brdeCg65jkm8oFqi1tuvAxyz) (open in Xumm)
+{% endhint %}
 
 ## Tangem accounts
 
