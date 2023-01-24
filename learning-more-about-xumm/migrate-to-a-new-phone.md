@@ -1,10 +1,11 @@
 ---
+description: >-
+  When you get a new phone, even after migrating all your data and settings,
+  XUMM accounts will not be automatically available in XUMM on your new phone.
 coverY: 0
 ---
 
 # 📱 Migrate to a new phone
-
-#### When you get a new phone, even after migrating all your data and settings, XUMM accounts will not be automatically available in XUMM on your new phone.
 
 For security reasons, XUMM does not store accounts / account secrets in your Google / Apple iCloud backups. If XUMM would store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
 
@@ -17,9 +18,9 @@ So: even when moving all data of your phone or restoring a backup, you'll have t
 This is why it's really important to keep your secrets stored offline in a secure place, but ready for use.&#x20;
 
 {% hint style="warning" %}
-**Accounts will then need to be imported using the credentials (seed/secret/mnemonic) on your new phone.** \
-****\
-**You must still have access to your existing account secrets: a family seed (s....), mnemonic (words) or 'Secret Numbers', the format XUMM generates.**
+Accounts will then need to be imported using the credentials (seed/secret/mnemonic) on your new phone. \
+\
+You **must still have access** to your existing account secrets: a family seed (s....), mnemonic (words) or 'Secret Numbers', the format XUMM generates.
 {% endhint %}
 
 ## Special cases
