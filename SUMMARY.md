@@ -23,7 +23,7 @@
 
 * [Account Worth](all-about-xapps/account-worth.md)
 * [Token Trasher ](all-about-xapps/token-trasher.md)
-* [Vanity Address](all-about-xapps/vanity-address.md)
+* [Vanity Address](all-about-xapps/vanity.md)
 * [Tangem Backup ](all-about-xapps/tangem-backup.md)
 * [Account Merge](all-about-xapps/account-merge.md)
 * [DEX Trade](all-about-xapps/dex-trade.md)
@@ -37,6 +37,12 @@
 * [Path Finding](all-about-xapps/path-finding.md)
 * [Escrow creator](all-about-xapps/escrow-creator.md)
 * [Peerkat NFT viewer](all-about-xapps/peerkat-nft-viewer.md)
+* [CasinoCoin Lobby](all-about-xapps/casinocoin-lobby.md)
+* [XRP Ledger TipBot](all-about-xapps/xrp-ledger-tipbot.md)
+* [Token creator](all-about-xapps/token-creator.md)
+* [ChiSpend - Cash Out](all-about-xapps/chispend-cash-out.md)
+* [Transaction Exporter](all-about-xapps/transaction-exporter.md)
+* [xApp History](all-about-xapps/xapp-history.md)
 
 ## XRP Ledger resources
 
