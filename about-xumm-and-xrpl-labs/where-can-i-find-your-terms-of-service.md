@@ -1,4 +1,4 @@
-# Where can I find your Terms of Service?
+# Terms of Service
 
 One of our company priorities is to be open and transparent when it comes to our business practices.&#x20;
 

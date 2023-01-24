@@ -1,4 +1,4 @@
-# Who is the team behind Xumm?
+# The team behind Xumm
 
 Xumm is the result of many talented and dedicated people who work tirelessly, day in and day out to develop the safest, most powerful and user friendly application in all of blockchain. Our team is diverse, motivated and passionate about Xumm and about the future of blockchain . Here are our
 

@@ -55,12 +55,12 @@
 
 ## About Xumm & XRPL Labs
 
-* [About XRPL Labs](about-xumm-and-xrpl-labs/about-xrpl-labs.md)
-* [The team behind Xumm?](about-xumm-and-xrpl-labs/the-team-behind-xumm.md)
-* [Xumm vs. Ripple](about-xumm-and-xrpl-labs/xumm-vs.-ripple.md)
-* [Privacy Statement](about-xumm-and-xrpl-labs/privacy-statement.md)
-* [Terms of Service](about-xumm-and-xrpl-labs/terms-of-service.md)
-* [Responsible Disclosure Policy](about-xumm-and-xrpl-labs/responsible-disclosure-policy.md)
+* [About XRPL Labs](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
+* [The team behind Xumm](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
+* [Xumm vs. Ripple](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
+* [Privacy Statement](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
+* [Terms of Service](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
+* [Responsible Disclosure Policy](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
 
 ## Hot Topics
 
