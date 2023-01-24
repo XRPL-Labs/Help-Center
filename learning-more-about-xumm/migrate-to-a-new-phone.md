@@ -28,7 +28,11 @@ The above applies to accounts created using standard XRP Ledger formats. There a
 
 ## Casino Coin
 
-[https://support.xumm.app/hc/en-us/articles/360021843879-Recovering-CSC-Account-s-on-a-new-different-phone](https://support.xumm.app/hc/en-us/articles/360021843879-Recovering-CSC-Account-s-on-a-new-different-phone)&#x20;
+Please use the link below to import your Casino Coin secret (starting with a lower case 's')
+
+{% embed url="https://xumm.app/detect/secret?type=alt-family-seed&name=CasinoCoin&alphabet=cpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2brdeCg65jkm8oFqi1tuvAxyz" %}
+Casino Coin secret import link
+{% endembed %}
 
 ## Tangem accounts
 
