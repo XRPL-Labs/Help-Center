@@ -19,8 +19,8 @@ Both of these are provided by **your crypto exchange**.
 
 If you are unsure what a destination tag is, this video should help:
 
-{% content-ref url="destination-tags.md" %}
-[destination-tags.md](destination-tags.md)
+{% content-ref url="../learning-more-about-xumm/destination-tags.md" %}
+[destination-tags.md](../learning-more-about-xumm/destination-tags.md)
 {% endcontent-ref %}
 
 or for a more detailed, you can read this article: [Introduction to Destination Tags](https://support.xumm.app/hc/en-us/articles/360018134720-An-introduction-to-Destination-Tags)

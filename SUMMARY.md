@@ -14,10 +14,15 @@
 * [Importing your account](getting-started/importing-your-existing-xrpl-account.md)
 * [Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
+* [📨 Send funds with Xumm](getting-started-with-xumm/send-funds-with-xumm.md)
 
 ## Learning more about Xumm
 
 * [📱 Migrate to a new phone](learning-more-about-xumm/migrate-to-a-new-phone.md)
+* [🪙 Supported tokens](learning-more-about-xumm/supported-tokens.md)
+* [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
+* [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
+* [Destination tags](learning-more-about-xumm/destination-tags.md)
 
 ## All about xApps
 
@@ -52,6 +57,10 @@
 * [About Trust Lines](xrp-ledger-resources/about-trust-lines.md)
 * [About Regular Keys](xrp-ledger-resources/about-regular-keys.md)
 * [About Reserves](xrp-ledger-resources/about-reserves.md)
+* [Gatehub’s issued tokens](xrp-ledger-resources/gatehubs-issued-tokens.md)
+* [XRPL accounts & taxes](xrp-ledger-resources/xrpl-accounts-and-taxes.md)
+* [Reserves and Fees on the XRPL](xrp-ledger-resources/reserves-and-fees-on-the-xrpl.md)
+* [Deposit to Exchange Didn’t Arrive](xrp-ledger-resources/deposit-to-exchange-didnt-arrive.md)
 
 ## Xumm Pro beta
 
@@ -64,13 +73,21 @@
   * [Free Tangem Card](xumm-pro-beta/features-of-pro/free-tangem-card.md)
   * [Premium Support](xumm-pro-beta/features-of-pro/premium-support.md)
   * [Vanity addresses](xumm-pro-beta/features-of-pro/vanity-addresses.md)
-  * [On/Off Ramp](xumm-pro-beta/features-of-pro/on-off-ramp.md)
+  * [On/Off Ramp](xumm-pro-beta/features-of-pro/on-off-ramp/README.md)
+    * [💷 Deposit to Xumm](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/README.md)
+      * [Sending XRP from another wallet](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/sending-xrp-from-another-wallet.md)
+      * [Fiat conversion](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/fiat-conversion.md)
+      * [Exchange deposit](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/README.md)
+        * [Coinbase](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/coinbase.md)
+        * [Uphold](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/uphold.md)
+        * [Bitstamp](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/bitstamp.md)
 
 ## Security and Xumm
 
 * [Best practices](security/best-practices.md)
 * [Security advisory](security/security-advisory.md)
 * [Xumm (Tangem) card](security/xumm-tangem-card.md)
+* [Quantum Attacks and Xumm](security-and-xumm/quantum-attacks-and-xumm.md)
 
 ## Release notes
 
@@ -85,23 +102,3 @@
 * [Privacy Statement](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
 * [Terms of Service](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
 * [Responsible Disclosure Policy](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
-
-## Hot Topics
-
-* [💷 Deposit to Xumm](hot-topics/deposit-to-xumm/README.md)
-  * [Sending XRP from another wallet](hot-topics/deposit-to-xumm/send-from-another-wallet.md)
-  * [Fiat conversion](hot-topics/deposit-to-xumm/fiat-conversion.md)
-  * [Exchange deposit](hot-topics/deposit-to-xumm/exchange-deposit/README.md)
-    * [Coinbase](hot-topics/deposit-to-xumm/exchange-deposit/coinbase.md)
-    * [Uphold](hot-topics/deposit-to-xumm/exchange-deposit/uphold.md)
-    * [Bitstamp](hot-topics/deposit-to-xumm/exchange-deposit/bitstamp.md)
-* [🪙 Supported tokens](hot-topics/which-tokens-does-xumm-support.md)
-* [📨 Send funds with Xumm](hot-topics/how-to-send-funds-using-xumm.md)
-* [Xumm & the Flare network](hot-topics/flare-airdrop.md)
-* [Gatehub’s issued tokens](hot-topics/how-do-gatehubs-issued-tokens-work.md)
-* [XRPL accounts & taxes](hot-topics/taxes-and-xumm.md)
-* [Reserves and Fees on the XRPL](hot-topics/reserves-and-fees-on-the-xrpl.md)
-* [Quantum Attacks and Xumm](hot-topics/quantum-attacks-and-xumm.md)
-* [How to change your Email Address](hot-topics/how-to-change-your-email-address.md)
-* [Destination tags](hot-topics/destination-tags.md)
-* [Deposit to Exchange Didn’t Arrive](hot-topics/deposit-to-exchange-didnt-arrive.md)
