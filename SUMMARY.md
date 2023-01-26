@@ -95,6 +95,9 @@
 * [Xumm v2.3.0](release-notes/xumm-v2.3.0.md)
 * [Xumm v2.2.8](release-notes/xumm-v2.2.8.md)
 * [Xumm v2.2.6](release-notes/xumm-v2.2.6.md)
+* [Xumm v2.2.5](release-notes/xumm-v2.2.5.md)
+* [Xumm v2.2.3 / v2.2.4](release-notes/xumm-v2.2.3-v2.2.4.md)
+* [Xumm v2.0](release-notes/xumm-v2.0.md)
 * [Xumm v2.21](release-notes/page-1.md)
 
 ## About Xumm & XRPL Labs
