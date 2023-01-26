@@ -84,6 +84,7 @@
 
 ## Security and Xumm
 
+* [How secure is Xumm?](security-and-xumm/how-secure-is-xumm.md)
 * [Best practices](security/best-practices.md)
 * [Security advisory](security/security-advisory.md)
 * [Xumm (Tangem) card](security/xumm-tangem-card.md)

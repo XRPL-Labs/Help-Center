@@ -1,7 +1,7 @@
 ---
 description: Is Xumm safe to store my secret keys? Has it been audited? How secure is Xumm?
 cover: ../.gitbook/assets/password-gfcb59b985_1280.jpg
-coverY: 39
+coverY: 35
 ---
 
 # How secure is Xumm?
