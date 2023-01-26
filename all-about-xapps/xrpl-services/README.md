@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/XRPL Services.png
-coverY: 0
+coverY: 7
 ---
 
 # XRPL Services
