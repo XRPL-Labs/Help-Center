@@ -4,10 +4,6 @@ description: How to subscribe to Xumm Pro
 
 # How to subscribe
 
-## How to Subscribe to Xumm Pro (Beta)
-
-## How to subscribe to Xumm Pro Beta 🎉
-
 ### **Background**
 
 In this article we will explore the features of Xumm Pro Beta and how you can subscribe and how to give Xumm Pro as a gift.
