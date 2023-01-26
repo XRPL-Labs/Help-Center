@@ -91,7 +91,7 @@
 
 ## Release notes
 
-* [Page 1](release-notes/page-1.md)
+* [Xumm v2.21](release-notes/xumm-v2.21.md)
 
 ## About Xumm & XRPL Labs
 
