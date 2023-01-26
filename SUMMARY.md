@@ -26,19 +26,11 @@
 
 ## ALL ABOUT XAPPS
 
-* [📱 Migrate to a new phone](all-about-xapps/migrate-to-a-new-phone.md)
-* [🪙 Supported tokens](all-about-xapps/supported-tokens.md)
-* [Xumm & the Flare network](all-about-xapps/xumm-and-the-flare-network.md)
-* [How to change your Email Address](all-about-xapps/how-to-change-your-email-address.md)
-* [Destination tags](all-about-xapps/destination-tags.md)
-
-## All about xApps
-
 * [Xumm xApps](all-about-xapps/xumm-xapps/README.md)
-  * [Account Worth](all-about-xapps/account-worth.md)
-  * [Vanity Address](all-about-xapps/vanity.md)
-  * [Account Merge](all-about-xapps/account-merge.md)
-  * [DEX Trade](all-about-xapps/dex-trade.md)
+  * [Account Worth](all-about-xapps/xumm-xapps/account-worth.md)
+  * [Vanity Address](all-about-xapps/xumm-xapps/vanity-address.md)
+  * [Account Merge](all-about-xapps/xumm-xapps/account-merge.md)
+  * [DEX Trade](all-about-xapps/xumm-xapps/dex-trade.md)
   * [Path Finding](all-about-xapps/xumm-xapps/path-finding.md)
   * [xApp History](all-about-xapps/xumm-xapps/xapp-history.md)
   * [Tangem Backup ](all-about-xapps/xumm-xapps/tangem-backup.md)
