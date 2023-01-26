@@ -1,6 +1,6 @@
 # Xumm v2.0
 
-<figure><img src="../.gitbook/assets/Xumm 20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xumm 20.png" alt=""><figcaption></figcaption></figure>
 
 This version (XUMM 2.0) is the second major XUMM update adding xApps, dark mode and much more.
 
