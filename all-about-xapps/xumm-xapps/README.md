@@ -7,7 +7,7 @@ coverY: -81
 
 Here is a list of our home-grown, native xApps developed by our fabulous team of developers.
 
-To find them, you can simply press the **x√** button at the bottom of the screen in Xumm, then select **View more xApps** or you can open a link to a QR that you can scan with Xumm
+To find them, you can simply press the **x√** button at the bottom of the screen in Xumm, then select **View more xApps** or from here, you can select the **open** hyperlink beside the one you would like to use.
 
 | Icon                                                                    | Title & description                                                                                                                                                                              | Link                                                |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
