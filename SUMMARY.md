@@ -65,7 +65,7 @@
 ## Xumm Pro beta
 
 * [All About Xumm Pro](xumm-pro-beta/all-about-xumm-pro/README.md)
-  * [How to subscribe](xumm-pro-beta/how-to-subscribe-to-pro.md)
+  * [What is Xumm Pro?](xumm-pro-beta/all-about-xumm-pro/what-is-xumm-pro.md)
   * [Features of Pro](xumm-pro-beta/features-of-pro.md)
     * [Push notifications](xumm-pro-beta/features-of-pro/push-notifications.md)
     * [Accounts](xumm-pro-beta/features-of-pro/accounts.md)
@@ -82,7 +82,7 @@
           * [Coinbase](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/coinbase.md)
           * [Uphold](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/uphold.md)
           * [Bitstamp](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/bitstamp.md)
-  * [What is Xumm Pro?](xumm-pro-beta/all-about-xumm-pro/what-is-xumm-pro.md)
+  * [How to subscribe](xumm-pro-beta/how-to-subscribe-to-pro.md)
 
 ## Security and Xumm
 
