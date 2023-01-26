@@ -7,7 +7,7 @@ coverY: -81
 
 &#x20;is a list of our home-grown, native xApps developed by our fabulous team of developers.
 
-To find them, you can simply press the <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> button at the bottom of the screen in Xumm, then select **View more xApps** or from here, you can select the **open** hyperlink beside the one you would like to use.
+To find them, you can simply press the <img src="../../.gitbook/assets/Xumm Home Screen Button" alt="" data-size="line"> button at the bottom of the screen in Xumm, then select **View more xApps** or from here, you can select the **open** hyperlink beside the one you would like to use.
 
 | Icon                                           | Title & description                                                                                                                                                                                                                     | Link                                                    |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
