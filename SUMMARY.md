@@ -91,9 +91,20 @@
 
 ## Release notes
 
-* [Xumm v2.3.1](release-notes/xumm-v2.3.1.md)
-* [Xumm v2.3.0](release-notes/xumm-v2.3.0.md)
-* [Xumm v2.21](release-notes/page-1.md)
+* [Current release](release-notes/current-release/README.md)
+  * [Xumm v2.3.1](release-notes/current-release/xumm-v2.3.1.md)
+* [Previous releases](release-notes/previous-releases/README.md)
+  * [Xumm v2.3.0](release-notes/previous-releases/xumm-v2.3.0.md)
+  * [Xumm v2.2.8](release-notes/previous-releases/xumm-v2.2.8.md)
+  * [Xumm v2.2.6](release-notes/previous-releases/xumm-v2.2.6.md)
+  * [Xumm v2.2.5](release-notes/previous-releases/xumm-v2.2.5.md)
+  * [Xumm v2.2.3 / v2.2.4](release-notes/previous-releases/xumm-v2.2.3-v2.2.4.md)
+  * [Xumm v2.21](release-notes/page-1.md)
+  * [Xumm v2.0](release-notes/previous-releases/xumm-v2.0.md)
+  * [Xumm v1.0.0](release-notes/previous-releases/xumm-v1.0.0.md)
+  * [Xumm v0.6.0](release-notes/previous-releases/xumm-v0.6.0.md)
+  * [Xumm v0.5.2](release-notes/previous-releases/xumm-v0.5.2.md)
+  * [Xumm v0.5.1](release-notes/previous-releases/xumm-v0.5.1.md)
 
 ## About Xumm & XRPL Labs
 
