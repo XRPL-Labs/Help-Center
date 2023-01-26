@@ -38,6 +38,7 @@
   * [Xumm Support](all-about-xapps/xumm-xapps/xumm-support.md)
   * [Xumm Pro Beta](all-about-xapps/xumm-xapps/xumm-pro-beta.md)
   * [Buy/Sell XRP](all-about-xapps/xumm-xapps/buy-sell-xrp/README.md)
+    * [Xumm On/Off-Ramp Service](all-about-xapps/xumm-xapps/buy-sell-xrp/xumm-on-off-ramp-service.md)
     * [Banxa](all-about-xapps/xumm-xapps/buy-sell-xrp/banxa.md)
     * [BTC Direct](all-about-xapps/xumm-xapps/buy-sell-xrp/btc-direct.md)
 * [XRPL Services](all-about-xapps/xrpl-services/README.md)
