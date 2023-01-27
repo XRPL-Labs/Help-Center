@@ -2,7 +2,7 @@
 
 ## Background
 
-In Xumm, we **do not** gather or store any person information about you or your account. (This includes email). If you are interested, you can view our Privacy police here:
+In Xumm, we **do not** gather or store any personal information about you or your account. (This includes email). If you are interested, you can view our Privacy police here:
 
 [XRPL Labs Privacy Statement](https://xrpl-labs.com/static/documents/XRPL-Labs-Privacy-Statement-V1.pdf)
 
