@@ -10,9 +10,9 @@ coverY: 57
 
 When referring to Paystring you are typically referring to one of two things:
 
-1\) The payment identifier protocol developed by Ripple that allows you to create a single ID which can be used to send or receive money across all supported networks.
+1\) The <mark style="color:blue;">**Paystring network**</mark> - The payment identifier protocol that allows you to create a single ID which can be used to send or receive money across all supported networks.&#x20;
 
-2\) The <mark style="color:blue;">**Paystring ID**</mark>** **<mark style="color:orange;">****</mark> that is an easily readable identifier allows you to send or receive money on any network that supports the Paystring protocol.
+2\) The <mark style="color:blue;">**Paystring ID**</mark> - An easily readable identifier that allows you to send or receive money on any network that supports the Paystring network.
 
 ### What problem does Paystring solve?
 
