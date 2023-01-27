@@ -14,7 +14,7 @@ When referring to Paystring you are typically referring to one of two things:
 
 2\) The <mark style="color:blue;">**Paystring ID**</mark> - An easily readable identifier that allows you to send or receive money on any network that supports the Paystring network.
 
-### What problem does Paystring solve?
+### What problem does Paystring solve? Why do I need a Paystring ID?
 
 
 
@@ -32,31 +32,9 @@ Here is an example of a Paystring ID: will$xumm.me
 
 {% embed url="https://xumm.me/will" %}
 
-
-
-
-
-###
-
-###
-
-###
-
-&#x20;
-
-
-
 PayString is a simple, web-based protocol designed to make it as easy to send someone money as it is to send them an email. With the PayString protocol, you use human-readable addresses to transmit value in the currency of your choice. The PayString network allows participants to reach one another through standardized addresses.
 
 PayString is fully peer-to-peer with no central counterparty.
-
-### What problem does Paystring solve?
-
-
-
-### Why would I want a Paystring?
-
-
 
 ### How do I use my Paystring?
 
