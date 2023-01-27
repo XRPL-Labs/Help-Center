@@ -4,21 +4,25 @@ description: How does the Profiles feature in Xumm Pro work?
 
 # All about Profiles
 
-#### **What exactly is Profiles?**
+### **What exactly is Profiles?**
 
-Profiles is basically an easy way to identify yourself on the XRP Ledger blockchain. It allows you to create and publish an identity profile page so other people can identify who you are. Here’s what a Profile page looks like:
+Profiles is basically an easy way to identify yourself on the XRP Ledger blockchain. It allows you to create and publish an identity profile page so other people can identify who you are.&#x20;
 
-[https://support.xumm.app/hc/article\_attachments/8353780721554](https://support.xumm.app/hc/article\_attachments/8353780721554)
+Here’s what a Profile page looks like:
 
-mceclip1.png
+<figure><img src="../../../../.gitbook/assets/Profiles - Main page.png" alt=""><figcaption></figcaption></figure>
 
-#### **Why would I want to create a public Profile on the XRPL?**
+### **Why would I want to create a public Profile on the XRPL?**
 
-The XRP Ledger community is made up of people from all over the world. In most societies, people prefer to know who they are dealing with when it comes to matters of finance and financial payments. Creating a public profile is a good way add trust between Xumm users and their payments.
+There are a couple of reasons you might want to do this.
 
-As well, as governments around the world move closer towards regulating public blockchains, creating a public profile is a safe and secure way to add transparency to the XRPL and stay ahead of the coming regulations.
+The XRP Ledger community is made up of people from all over the world. In most societies, people prefer to know who they are dealing with when it comes to matters of finance and financial payments. Creating a public profile is a good way add **trust** between Xumm users.
 
-#### **How does it work?**
+As governments around the world move closer towards regulating public blockchains, creating a verified public profile is a safe and secure way to add **transparency** to the XRPL and stay ahead of the coming regulations.
+
+It is a pretty cool way to represent yourself. Future updates to Profiles will also include "Xumm badges" for achievements such as Contributor, Validator, Beta Tester, Supporter and many more. A public profile allows you to control your public image in the XRP community.
+
+### **How does it work?**
 
 To begin, a user goes through the KYC process in Xumm Pro.
 
