@@ -10,7 +10,7 @@
   * [Xumm & natural disasters](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
   * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
 * [Your first XRP Ledger account](getting-started/creating-your-first-xrp-ledger-account-using-xumm.md)
-* [Activating an account](getting-started-with-xumm/activating-an-account/README.md)
+* [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
   * [From Wirex to Xumm](getting-started-with-xumm/activating-an-account/from-wirex-to-xumm.md)
   * [From Uphold to Xumm](getting-started-with-xumm/activating-an-account/from-uphold-to-xumm.md)
   * [From Kraken to Xumm](getting-started-with-xumm/activating-an-account/from-kraken-to-xumm.md)
