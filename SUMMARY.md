@@ -60,16 +60,6 @@
   * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
   * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
 
-## XRP Ledger resources
-
-* [About Trust Lines](xrp-ledger-resources/about-trust-lines.md)
-* [About Regular Keys](xrp-ledger-resources/about-regular-keys.md)
-* [About Reserves](xrp-ledger-resources/about-reserves.md)
-* [Gatehub’s issued tokens](xrp-ledger-resources/gatehubs-issued-tokens.md)
-* [XRPL accounts & taxes](xrp-ledger-resources/xrpl-accounts-and-taxes.md)
-* [📺 Reserves and Fees on the XRPL](xrp-ledger-resources/reserves-and-fees-on-the-xrpl.md)
-* [Deposit to Exchange Didn’t Arrive](xrp-ledger-resources/deposit-to-exchange-didnt-arrive.md)
-
 ## Xumm Pro beta
 
 * [All About Xumm Pro](xumm-pro-beta/all-about-xumm-pro/README.md)
@@ -92,6 +82,16 @@
           * [Bitstamp](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/bitstamp.md)
   * [How to subscribe](xumm-pro-beta/how-to-subscribe-to-pro.md)
 
+## XRP Ledger resources
+
+* [About Trust Lines](xrp-ledger-resources/about-trust-lines.md)
+* [About Regular Keys](xrp-ledger-resources/about-regular-keys.md)
+* [About Reserves](xrp-ledger-resources/about-reserves.md)
+* [Gatehub’s issued tokens](xrp-ledger-resources/gatehubs-issued-tokens.md)
+* [XRPL accounts & taxes](xrp-ledger-resources/xrpl-accounts-and-taxes.md)
+* [📺 Reserves and Fees on the XRPL](xrp-ledger-resources/reserves-and-fees-on-the-xrpl.md)
+* [Deposit to Exchange Didn’t Arrive](xrp-ledger-resources/deposit-to-exchange-didnt-arrive.md)
+
 ## Security and Xumm
 
 * [How secure is Xumm?](security-and-xumm/how-secure-is-xumm.md)
@@ -100,16 +100,6 @@
 * [Security advisory](security/security-advisory.md)
 * [Xumm (Tangem) card](security/xumm-tangem-card.md)
 * [Quantum Attacks and Xumm](security-and-xumm/quantum-attacks-and-xumm.md)
-
-## About Xumm & XRPL Labs
-
-* [About XRPL Labs](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
-* [👨👩👧👧 The XRPL Labs/Xumm team](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
-  * [🧑🤝🧑 Introducing: Ali, Richard & Satish](about-xumm-and-xrpl-labs/the-xrpl-labs-xumm-team/introducing-ali-richard-and-satish.md)
-* [Xumm vs. Ripple](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
-* [Privacy Statement](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
-* [Terms of Service](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
-* [Responsible Disclosure Policy](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
 
 ## Release notes
 
@@ -127,3 +117,13 @@
   * [Xumm v0.6.0](release-notes/previous-releases/xumm-v0.6.0.md)
   * [Xumm v0.5.2](release-notes/previous-releases/xumm-v0.5.2.md)
   * [Xumm v0.5.1](release-notes/previous-releases/xumm-v0.5.1.md)
+
+## About Xumm & XRPL Labs
+
+* [About XRPL Labs](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
+* [👨👩👧👧 The XRPL Labs/Xumm team](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
+  * [🧑🤝🧑 Introducing: Ali, Richard & Satish](about-xumm-and-xrpl-labs/the-xrpl-labs-xumm-team/introducing-ali-richard-and-satish.md)
+* [Xumm vs. Ripple](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
+* [Privacy Statement](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
+* [Terms of Service](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
+* [Responsible Disclosure Policy](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
