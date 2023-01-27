@@ -20,6 +20,10 @@ PayString is fully peer-to-peer with no central counterparty.
 
 
 
+### How do I use my Paystring?
+
+
+
 
 
 
