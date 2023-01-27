@@ -18,15 +18,13 @@ When referring to Paystring you are typically referring to one of two things:
 
 
 
-Using email, you can send a picture or a file anywhere across the world in seconds. Similarly, using your phone, you can send a text message SMSfor all payments. One PayString can represent addresses on any network. At GateHub, a PayString represents an XRPL address.
-
 ### Which networks support the Paystring protocol?
 
 The XRP Ledger, Bitcoin and Ethereum to name a few...
 
 ### Does Xumm support those other networks?
 
-Since Xumm is exclusively an XRP Ledger wallet, it only supports the XRP Ledger.
+No. Xumm is exclusively an XRP Ledger wallet. We only support the XRP Ledger.
 
 ### How does the Paystring ID work in Xumm?
 
