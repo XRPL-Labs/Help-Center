@@ -1,5 +1,7 @@
 ---
 description: What is a Paystring and why is it useful?
+cover: ../../../../.gitbook/assets/Paystring.png
+coverY: 57
 ---
 
 # What is a Paystring?
@@ -16,9 +18,23 @@ When referring to Paystring you are typically referring to one of two things:
 
 The XRP Ledger, Bitcoin and Ethereum to name a few...
 
-### &#x20;Does Xumm support those other networks?
+### Does Xumm support those other networks?
 
-Since Xumm is exclusively an XRP Ledger wallet, you can use the Paystring ID that you create in Profiles to send and receive XRP and any token issued on the XRPL Ledger. &#x20;
+Since Xumm is exclusively an XRP Ledger wallet, it only supports the XRP Ledger.
+
+### How does the Paystring ID work in Xumm?
+
+Here is an example of a Paystring ID: will$xumm.me
+
+{% embed url="https://xumm.me/will" %}
+
+
+
+
+
+###
+
+###
 
 ### What problem does Paystring solve?
 
