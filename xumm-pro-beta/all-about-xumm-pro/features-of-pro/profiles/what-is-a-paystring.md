@@ -10,9 +10,15 @@ coverY: 57
 
 When referring to Paystring you are typically referring to one of two things:
 
-1\) The payment identifier protocol developed by Ripple that allows you to create a single ID that can be used to send or receive money across all supported networks.
+1\) The payment identifier protocol developed by Ripple that allows you to create a single ID which can be used to send or receive money across all supported networks.
 
-2\) The Paystring ID that is an easily readable identifier allows you to send or receive money on any network that supports the Paystring protocol.
+2\) The <mark style="color:blue;">**Paystring ID**</mark>** **<mark style="color:orange;">****</mark> that is an easily readable identifier allows you to send or receive money on any network that supports the Paystring protocol.
+
+### What problem does Paystring solve?
+
+
+
+Using email, you can send a picture or a file anywhere across the world in seconds. Similarly, using your phone, you can send a text message SMSfor all payments. One PayString can represent addresses on any network. At GateHub, a PayString represents an XRPL address.
 
 ### Which networks support the Paystring protocol?
 
@@ -36,31 +42,11 @@ Here is an example of a Paystring ID: will$xumm.me
 
 ###
 
-### What problem does Paystring solve?
-
-for all payments. One PayString can represent addresses on any network. At GateHub, a PayString represents an XRPL address.
+###
 
 &#x20;
 
-This means that you will be able to use a PayString to send payments to any network that PayString will support.
 
-&#x20;
-
-When a payment is made to a PayString, the server returns an eligible address (for example, a Bitcoin address for a BTC payment). If no eligible address is found with the PayString, the server will return a notification that the payment channel is not available.
-
-&#x20;
-
-See the full list of companies who use PayString [here](https://payid.org/about-us/).
-
-&#x20;
-
-See also:&#x20;
-
-[PayString deposit](https://support.gatehub.net/hc/en-us/articles/360014480399)
-
-
-
-PayString is a payment identifier protocol developed by Ripple and provides a single ID for anyone needing to send or receive money.
 
 PayString is a simple, web-based protocol designed to make it as easy to send someone money as it is to send them an email. With the PayString protocol, you use human-readable addresses to transmit value in the currency of your choice. The PayString network allows participants to reach one another through standardized addresses.
 
