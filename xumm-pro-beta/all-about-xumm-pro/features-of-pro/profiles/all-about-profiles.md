@@ -34,7 +34,7 @@ KYC involves providing government-issued ID and verifying that the ID matches th
 Going through the KYC process is an opt-in part of Xumm Pro but it is **required** if you are interested in using the Profiles feature.
 {% endhint %}
 
-Going through the KYC process is an opt-in part of Xumm Pro but it is **required** if you are interested in using the Profiles feature.
+
 
 #### **Ok. I’ve successfully completed the KYC process in Pro. What now?**
 
