@@ -34,13 +34,11 @@ KYC involves providing government-issued ID and verifying that the ID matches th
 Going through the KYC process is an opt-in part of Xumm Pro but it is **required** if you are interested in using the Profiles feature.
 {% endhint %}
 
-
-
-#### **Ok. I’ve successfully completed the KYC process in Pro. What now?**
+### **Ok. I’ve successfully completed the KYC process in Pro. What now?**
 
 The next step is to create a “user ID” known as a _slug_ which closely matches the verified ID provided during the KYC process. You can choose your own slug, but it must be similar to what is on your government issued ID.
 
-#### **What the heck is a “slug”?**
+### **What the heck is a “slug”?**
 
 In Xumm, there are two types of slugs: a **profile slug** and **account slugs**.
 
@@ -78,7 +76,7 @@ You could create separate accounts attached to your Profile page such as:
 
 mceclip0.png
 
-#### **How do I access my Profile page?**
+### **How do I access my Profile page?**
 
 Your profile page can be accessed by anyone who knows your profile slug.
 
