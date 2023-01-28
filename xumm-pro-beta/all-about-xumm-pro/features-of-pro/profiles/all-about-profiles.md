@@ -28,9 +28,11 @@ To begin, a user goes through the KYC process in Xumm Pro.
 
 <figure><img src="../../../../.gitbook/assets/Xumm Pro - KYC screen - 1.png" alt=""><figcaption></figcaption></figure>
 
-
-
+{% hint style="warning" %}
 KYC involves providing government-issued ID and verifying that the ID matches the person providing it.
+{% endhint %}
+
+
 
 Going through the KYC process is an opt-in part of Xumm Pro but it is **required** if you are interested in using the Profiles feature.
 
