@@ -21,6 +21,7 @@
 * [Importing your account](getting-started/importing-your-existing-xrpl-account.md)
 * [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
+* [Deposit from Exchange Didn't Arrive](getting-started-with-xumm/deposit-from-exchange-didnt-arrive.md)
 * [Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [📨 Send funds with Xumm](getting-started-with-xumm/send-funds-with-xumm.md)
 
