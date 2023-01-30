@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/cs-go-g98e587d47_1280.jpg
-coverY: 0
+cover: ../../.gitbook/assets/smartphone van gogh style.png
+coverY: -141
 ---
 
 # All About Xumm Pro

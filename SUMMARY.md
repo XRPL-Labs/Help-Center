@@ -20,6 +20,7 @@
   * [From Binance](getting-started-with-xumm/activating-an-account/from-binance.md)
 * [Importing your account](getting-started/importing-your-existing-xrpl-account.md)
 * [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
+* [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
 * [Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [📨 Send funds with Xumm](getting-started-with-xumm/send-funds-with-xumm.md)
 
@@ -30,6 +31,8 @@
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
 * [📺 Destination tags](learning-more-about-xumm/destination-tags.md)
+* [Gatehub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
+* [XRPL accounts & taxes](learning-more-about-xumm/xrpl-accounts-and-taxes.md)
 
 ## ALL ABOUT XAPPS
 
@@ -84,24 +87,23 @@
           * [Bitstamp](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/bitstamp.md)
   * [How to subscribe](xumm-pro-beta/how-to-subscribe-to-pro.md)
 
-## XRP Ledger resources
-
-* [About Trust Lines](xrp-ledger-resources/about-trust-lines.md)
-* [About Regular Keys](xrp-ledger-resources/about-regular-keys.md)
-* [About Reserves](xrp-ledger-resources/about-reserves.md)
-* [Gatehub’s issued tokens](xrp-ledger-resources/gatehubs-issued-tokens.md)
-* [XRPL accounts & taxes](xrp-ledger-resources/xrpl-accounts-and-taxes.md)
-* [📺 Reserves and Fees on the XRPL](xrp-ledger-resources/reserves-and-fees-on-the-xrpl.md)
-* [Deposit to Exchange Didn’t Arrive](xrp-ledger-resources/deposit-to-exchange-didnt-arrive.md)
-
 ## Security and Xumm
 
-* [How secure is Xumm?](security-and-xumm/how-secure-is-xumm.md)
-* [Xumm Tangem Cards](security-and-xumm/xumm-tangem-cards.md)
-* [Best practices](security/best-practices.md)
-* [Security advisory](security/security-advisory.md)
-* [Xumm (Tangem) card](security/xumm-tangem-card.md)
-* [Quantum Attacks and Xumm](security-and-xumm/quantum-attacks-and-xumm.md)
+* [All About Security](security-and-xumm/all-about-security/README.md)
+  * [Security advisory](security-and-xumm/all-about-security/security-advisory.md)
+  * [How secure is Xumm?](security-and-xumm/all-about-security/how-secure-is-xumm.md)
+  * [Best practices](security-and-xumm/all-about-security/best-practices.md)
+  * [Xumm Tangem Cards](security-and-xumm/all-about-security/xumm-tangem-cards.md)
+  * [Xumm (Tangem) card](security-and-xumm/all-about-security/xumm-tangem-card.md)
+  * [Quantum Attacks and Xumm](security-and-xumm/all-about-security/quantum-attacks-and-xumm.md)
+
+## XRP Ledger resources
+
+* [XRP Ledger Concepts](xrp-ledger-resources/xrp-ledger-concepts/README.md)
+  * [📺 Reserves and Fees on the XRPL](xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
+  * [About Trust Lines](xrp-ledger-resources/xrp-ledger-concepts/about-trust-lines.md)
+  * [About Regular Keys](xrp-ledger-resources/xrp-ledger-concepts/about-regular-keys.md)
+  * [About Reserves](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
 
 ## Release notes
 
