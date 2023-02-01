@@ -87,6 +87,7 @@
           * [Uphold](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/uphold.md)
           * [Bitstamp](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/bitstamp.md)
   * [How to subscribe](xumm-pro-beta/how-to-subscribe-to-pro.md)
+  * [Introducing: Xumm On/Off-Ramps](xumm-pro-beta/all-about-xumm-pro/introducing-xumm-on-off-ramps.md)
 
 ## Security and Xumm
 
