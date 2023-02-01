@@ -1,14 +1,20 @@
 # Common misconceptions about Xumm
 
-Xumm is a hardware wallet. It is not.
+When it comes to platforms as powerful as Xumm, it is normal for misinformation to circulate around some of it features and capabilities. Let's see if we can clear some of this up...
 
-Xumm stores your XRP - It does not.
+### Xumm is a hardware wallet
 
-Xumm has access to your funds - It does not.
+### Xumm stores your XRP&#x20;
 
-Xumm is a custodial wallet - It is not.
+### Xumm has access to your funds - It does not.
 
-You can't buy XRP using Xumm - You certainly can.
+### Xumm is a custodial wallet - It is not.
+
+### You can't buy XRP using Xumm - You certainly can.
+
+### Xumm is not as safe as a cold wallet
+
+### Xumm offers staking
 
 &#x20;
 
