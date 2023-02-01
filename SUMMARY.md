@@ -8,7 +8,7 @@
   * [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
   * [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
   * [Xumm & natural disasters](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
-  * [Common misconceptions about Xumm](about-xumm-and-xrpl-labs/what-xumm-is-and-isnt/common-misconceptions.md)
+  * [Common misconceptions](getting-started-with-xumm/what-is-xumm/common-misconceptions.md)
 * [Your first XRP Ledger account](getting-started/creating-your-first-xrp-ledger-account-using-xumm.md)
 * [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
   * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
