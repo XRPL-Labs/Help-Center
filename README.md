@@ -1,7 +1,7 @@
 ---
 description: >-
-  If you're interested in learning about Xumm and the XRP Ledger, you've come to
-  the right place!
+  If you're interested in learning about Xumm and the XRP ecosystem, you've come
+  to the right place!
 cover: .gitbook/assets/xumm header
 coverY: 0
 ---
