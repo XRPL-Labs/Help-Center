@@ -6,7 +6,15 @@ coverY: -42
 
 # 💸 What is Xumm?
 
-Put simply, Xumm is a self-custodial, un-hosted XRP Ledger wallet.&#x20;
+Put simply, Xumm _the only_ feature complete, security first wallet for self custody on the XRP Ledger.
+
+It is a self-custodial, un-hosted XRP Ledger wallet, that empowering devs and users to collaborate in a secure way, where user keys are kept safely on their device, and their device only.
+
+That the team behind Xumm cares about security & user satisfaction like no other team in the blockchain space.&#x20;
+
+.That Xumm great because it's not just the wallet, but also the entire ecosystem,&#x20;
+
+&#x20;
 
 But there is nothing "simple" about the the Xumm platform...
 
