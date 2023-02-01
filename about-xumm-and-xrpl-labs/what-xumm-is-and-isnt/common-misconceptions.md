@@ -4,9 +4,11 @@ When it comes to platforms as powerful as Xumm, it is normal for misinformation 
 
 ### Xumm stores your XRP&#x20;
 
-The native currency of the XRP Ledger is called XRP. XRP exists on the XRPL and can not be moved off of the XRPL so technically, XRP is always "stored" on the XRP Ledger. What Xumm actually stores is the private key to access your XRP Ledger account.&#x20;
+The native currency on the XRP Ledger is called XRP. XRP exists on the XRPL and can not be moved off of the XRPL so technically, XRP is always "stored" on the XRP Ledger. What Xumm actually stores is the private key to access your XRP Ledger account.&#x20;
 
-### Xumm has access to your funds - It does not.
+### Xumm has access to your funds
+
+No. Once you enter your private key into Xumm, it is immediately encrypted and placed into an area we call, "The Vault". There is no way to access the Vault
 
 ### Xumm is a custodial wallet - It is not.
 
