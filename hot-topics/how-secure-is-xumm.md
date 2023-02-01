@@ -8,17 +8,15 @@ coverY: 39
 
 ## Comparing different wallets
 
-It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best".  When it comes to protecting your assets, for many people, only the best will do.  It only makes sense to get the best when it comes to protecting your funds, right...?
+It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best".  When it comes to protecting your assets, for many people, only the best will do so it only makes sense to get the best when it comes to protecting your funds, right...?
 
-The problem with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to understand. Simply reading an article and thinking you are in any way qualified to make a valid comparison is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion on Xumm's security. It is merely a glimpse...
+The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or two and thinking you have enough information to make a comprehensive comparison is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion on Xumm's security. It is merely a glimpse...
 
 ## **It is a crazy time in the crypto world, how secure is Xumm?**
 
-There are several ways to view security when it comes to your XRP Ledger account.
+There are several ways to view security when it comes to your XRP Ledger account but your first line of security always starts with your mobile device.
 
-Your first line of security starts with your phone.
-
-Here are the top 9 security threats to your phone.
+Here are the top 9 security threats to look out for when it comes to your phone.
 
 * Social Engineering
 * Data Leakage via Malicious Apps
@@ -31,7 +29,7 @@ Here are the top 9 security threats to your phone.
 
 Source: [The Nine most common security threats to mobile devices](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/) &#x20;
 
-So, here are some things to consider:
+So before you even get around to installing Xumm, here are some things to consider:
 
 * Is your mobile device up to date with all security and OS updates?
 * Do you use a VPN?
