@@ -20,7 +20,7 @@ This is false. Xumm offers several ways to purchase XRP. Simply select [**this l
 
 ### Xumm is not as safe as a cold wallet
 
-There are many attack vectors for both cold and hot wallets and both types have their uses, their strengths and their **potential** weaknesses.
+There are many attack vectors for both cold and hot wallets and both types have their uses, their strengths and their **potential** weaknesses. A well designed and coded cold wallet will have just as many potential vulnerabilities as a well designed and coded hot wallet. Xumm was designed and coded by one of the strongest coding teams in the entire blockchain space and has been audited by one of the most advanced security audit firms in the world.  We would argue that there is no safer wallet on the planet, either hot or cold, than Xumm.  &#x20;
 
 ### Xumm offers staking
 
