@@ -24,3 +24,5 @@ Xumm can only be download from 1 of 2 places:
 
 </div>
 
+Once you have download Xumm the installation goes like this:
+
