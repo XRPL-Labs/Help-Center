@@ -16,11 +16,11 @@ Xumm can only be download from 1 of 2 places:
 
 <div>
 
-<figure><img src="../.gitbook/assets/Google play.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Google play.png" alt="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm&#x26;pli=1"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Apple App Store.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Apple App Store.png" alt="https://apps.apple.com/us/app/xumm/id1492302343"><figcaption></figcaption></figure>
 
 </div>
 
