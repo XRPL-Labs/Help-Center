@@ -14,15 +14,7 @@ Installing Xumm is a simple and straightforward process. From start to finish it
 
 Xumm can only be download from 1 of 2 places:
 
-<div>
-
-<figure><img src="../.gitbook/assets/Google play.png" alt="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm&#x26;pli=1"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Apple App Store.png" alt="https://apps.apple.com/us/app/xumm/id1492302343"><figcaption></figcaption></figure>
-
-</div>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Xumm for iOS</td><td><a href="../.gitbook/assets/Apple App Store.png">Apple App Store.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td>Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
 
 Once you have download Xumm the installation goes like this:
 
