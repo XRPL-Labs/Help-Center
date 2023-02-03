@@ -30,5 +30,5 @@ Press the **Start** button to begin.
 
 Press **Go** to get to the passcode setup page.
 
-
+<figure><img src="../.gitbook/assets/Install - Page 3.png" alt=""><figcaption></figcaption></figure>
 
