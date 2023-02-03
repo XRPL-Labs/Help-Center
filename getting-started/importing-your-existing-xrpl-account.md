@@ -24,3 +24,7 @@ Xumm is compatible with all industry standard account secrets. Choose the approp
 {% hint style="info" %}
 Remember, **no one** should ever ask you for your account secret and you should **never** give it to anyone.&#x20;
 {% endhint %}
+
+We are going to choose Secret numbers and correctly enter them then press **Next**.
+
+<figure><img src="../.gitbook/assets/Secret numbers - Confirmation.png" alt=""><figcaption></figcaption></figure>
