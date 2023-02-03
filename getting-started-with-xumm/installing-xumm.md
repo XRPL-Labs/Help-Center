@@ -18,7 +18,9 @@ Xumm can only be download from 1 of 2 places:
 
 Just select on of the above link and press the **Install** button begin the download.
 
+<figure><img src="../.gitbook/assets/Google play - Xumm.png" alt=""><figcaption></figcaption></figure>
+
+Once the download has completed, press the **Open** button to begin the Xumm installation process.
 
 
-Once you have download Xumm the installation goes like this:
 
