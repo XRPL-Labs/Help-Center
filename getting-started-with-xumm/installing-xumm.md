@@ -32,3 +32,11 @@ Press **Go** to get to the passcode setup page.
 
 <figure><img src="../.gitbook/assets/Install - Page 3.png" alt=""><figcaption></figcaption></figure>
 
+Here is where you enter the 6 digit passcode which you can use to unlock and access Xumm once the installation has completed. When done, press **Next** then re-enter your new passcode and press the **Save** button.&#x20;
+
+{% hint style="warning" %}
+Try to avoid using a simple passcode such as 123456, 000000, 111111, 222222, etc. since these could be easily guessed.&#x20;
+{% endhint %}
+
+The ensuing 6 pages display import information about &#x20;
+
