@@ -1,6 +1,6 @@
 ---
 description: Is Xumm safe to store my secret keys? Has it been audited? How secure is Xumm?
-cover: ../.gitbook/assets/Tokens and coins -1.png
+cover: ../.gitbook/assets/Tokens and coins -1 (1).png
 coverY: 0
 ---
 
