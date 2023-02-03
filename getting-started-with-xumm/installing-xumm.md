@@ -44,6 +44,8 @@ The ensuing 7 pages display import information about how Xumm and the XRP Ledger
 
 <figure><img src="../.gitbook/assets/Install - Page 4.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Install - Page 5.png" alt=""><figcaption></figcaption></figure>
+
 Terms of service
 
 Displays release notes - Press Close to&#x20;
