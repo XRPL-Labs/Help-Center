@@ -15,3 +15,12 @@ You can import an XRP Ledger in either:\
 **Read only** access - Choose this option if you would like to simply follow the activity of an XRPL account. This option does not allow you to sign transactions on your account.&#x20;
 
 Most people choose to import their accounts with **Full access** so they can interact with the XRPL community.\
+
+
+<figure><img src="../.gitbook/assets/Secret type.png" alt=""><figcaption></figcaption></figure>
+
+Xumm is compatible with all industry standard account secrets. Choose the appropriate one which applies to your account.
+
+{% hint style="info" %}
+Remember, **no one** should ever ask you for your account secret and you should **never** give it to anyone.&#x20;
+{% endhint %}
