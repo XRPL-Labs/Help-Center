@@ -28,3 +28,7 @@ Remember, **no one** should ever ask you for your account secret and you should 
 We are going to choose Secret numbers and correctly enter them then press **Next**.
 
 <figure><img src="../.gitbook/assets/Secret numbers - Confirmation.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Public Address - 2.png" alt=""><figcaption></figcaption></figure>
