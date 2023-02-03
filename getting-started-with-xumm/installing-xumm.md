@@ -53,3 +53,9 @@ The ensuing 9 screens display import information about how Xumm and the XRP Ledg
 ...of course, you are not using Xumm to manage any of your XRP Ledger accounts at this point, so you are probably going to want to press the **+ Add account** button then decide how you would like to proceed..
 
 <figure><img src="../.gitbook/assets/Install - Page 7.png" alt=""><figcaption></figcaption></figure>
+
+Here is where you can decide which account you would like to manage with Xumm.
+
+<figure><img src="../.gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>How to create a new XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Create a new account.png">Create a new account.png</a></td></tr><tr><td>How to import an existing XRP Ledger Account</td><td></td><td></td><td><a href="../.gitbook/assets/Import an existing account.png">Import an existing account.png</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
