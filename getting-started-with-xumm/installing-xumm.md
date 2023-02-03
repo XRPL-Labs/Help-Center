@@ -48,5 +48,8 @@ The ensuing 9 screens display import information about how Xumm and the XRP Ledg
 
 <figure><img src="../.gitbook/assets/Install - Page 6.png" alt=""><figcaption></figcaption></figure>
 
-...and there you have it You have sucessfully installed Xumm!
+...and there you have it You have successfully installed Xumm!
 
+...of course, you are not using Xumm to manage any of your XRP Ledger accounts at this point, so you are probably going to want to press the **+ Add account** button then decide how you would like to proceed..
+
+<figure><img src="../.gitbook/assets/Install - Page 7.png" alt=""><figcaption></figcaption></figure>
