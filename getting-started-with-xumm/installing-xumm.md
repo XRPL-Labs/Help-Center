@@ -24,11 +24,11 @@ Once the download has completed, press the **Open** button to begin the Xumm ins
 
 <figure><img src="../.gitbook/assets/Install - Page 1.png" alt=""><figcaption></figcaption></figure>
 
-Press the **Start** button to begin and you see this page:
+Press the **Start** button to begin.
 
 <figure><img src="../.gitbook/assets/Install - Page 2.png" alt=""><figcaption></figcaption></figure>
 
-
+Press **Go** to get to the passcode setup page.
 
 
 
