@@ -20,7 +20,9 @@ Just select on of the above link and press the **Install** button begin the down
 
 <figure><img src="../.gitbook/assets/Google play - Xumm.png" alt=""><figcaption></figcaption></figure>
 
-Once the download has completed, press the **Open** button to begin the Xumm installation process.
+Once the download has completed, press the **Open** button to begin the Xumm installation process and you should be presented with this screen:
+
+<figure><img src="../.gitbook/assets/Install - Page 1.png" alt=""><figcaption></figcaption></figure>
 
 
 
