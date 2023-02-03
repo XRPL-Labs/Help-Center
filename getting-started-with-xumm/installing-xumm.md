@@ -40,13 +40,13 @@ Here is where you enter the 6 digit passcode which you can use to unlock and acc
 Try to avoid using a simple passcode such as 123456, 000000, 111111, 222222, etc. since these could be easily guessed.&#x20;
 {% endhint %}
 
-The ensuing 7 pages display import information about how Xumm and the XRP Ledger work. You will need to acknowledge that you have read through each page to continue.
+The ensuing 9 screens display import information about how Xumm and the XRP Ledger work, our Terms of Service and the current release notes. You will need to acknowledge that you have read through each page to continue.
 
 <figure><img src="../.gitbook/assets/Install - Page 4.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Install - Page 5.png" alt=""><figcaption></figcaption></figure>
 
-Terms of service
+<figure><img src="../.gitbook/assets/Install - Page 6.png" alt=""><figcaption></figcaption></figure>
 
-Displays release notes - Press Close to&#x20;
+...and there you have it You have sucessfully installed Xumm!
 
