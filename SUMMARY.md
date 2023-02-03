@@ -12,6 +12,7 @@
 * [Installing Xumm](getting-started-with-xumm/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xumm/your-first-xrp-ledger-account/README.md)
   * [How to create an XRPL account](getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
+* [Setting up a Xumm Tangem card](getting-started-with-xumm/setting-up-a-xumm-tangem-card.md)
 * [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
   * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
   * [From Uphold](getting-started-with-xumm/activating-an-account/from-uphold.md)
