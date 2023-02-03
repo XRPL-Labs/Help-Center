@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Natural disaster - EMP -1.png
+coverY: 227
+---
+
 # Xumm & natural disasters
 
 Have you ever wondered how well Xumm would survive a natural disaster, an EMP, a Solar Flare or other catastrophic event? Although such events are historically rare or hypothetical, they do present a possible danger when it comes to your funds, so let’s consider the possibilities…
