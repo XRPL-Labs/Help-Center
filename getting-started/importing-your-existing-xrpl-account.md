@@ -31,4 +31,6 @@ We are going to choose Secret numbers and correctly enter them then press **Next
 
 
 
+Please take notice of the r-address that is displayed. It should reflect the XRP Ledger account that you are trying to import. If it is correct, press the **Confirm** button.
+
 <figure><img src="../.gitbook/assets/Public Address - 2.png" alt=""><figcaption></figcaption></figure>
