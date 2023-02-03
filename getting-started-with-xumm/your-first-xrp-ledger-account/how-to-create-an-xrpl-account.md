@@ -29,5 +29,10 @@ You will need to **carefully** write all of the numbers down in the correct orde
 <figure><img src="../../.gitbook/assets/Secret numbers - 2.png" alt=""><figcaption></figcaption></figure>
 
 The next part of the process is to manually enter all of the secret numbers back into Xumm. You can use the <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line">buttons and the <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line">buttons to do this. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
-\
-1\) During the installation process&#x20;
+
+
+<figure><img src="../../.gitbook/assets/Public address - 1.png" alt=""><figcaption></figcaption></figure>
+
+You should receive see your public address, also known as your r-address. Press the **Next** button to complete the process and get back to the main page of Xumm.
+
+Well done. You've generated a new account on the XRP Ledger!
