@@ -8,7 +8,7 @@ coverY: -42
 
 Put simply, Xumm _the only_ feature complete, security first wallet for self custody on the XRP Ledger.
 
-It is a self-custodial, un-hosted XRP Ledger wallet, that empowers devs and users to collaborate in a secure way, where user keys are kept safely on their device, and their device only.
+It is a self-custodial, XRP Ledger wallet, that empowers developers and users to collaborate in a secure way, where user keys are kept safely on their device, and their device only.
 
 
 
