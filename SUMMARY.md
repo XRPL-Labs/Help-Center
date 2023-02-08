@@ -12,7 +12,7 @@
 * [Installing Xumm](getting-started-with-xumm/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xumm/your-first-xrp-ledger-account/README.md)
   * [How to create an XRPL account](getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
-  * [Importing your account](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/README.md)
+  * [Importing your account](getting-started/importing-your-existing-xrpl-account.md)
     * [...with Secret Numbers](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md)
     * [...with a Family Seed](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md)
     * [...with a Mnemonic](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md)
