@@ -1,12 +1,8 @@
 ---
-description: How to import your existing XRP Ledger account with Secret Numbers
+description: About importing your existing XRP Ledger account
 ---
 
 # Importing your account
-
-From the main screen of Xumm, press **Settings** -> **Accounts** -> **+ Add account** -> **Import an existing account**. You should see this screen:
-
-<figure><img src="../.gitbook/assets/Account type.png" alt=""><figcaption></figcaption></figure>
 
 You can import an XRP Ledger in either of these two modes:\
 \
@@ -16,14 +12,9 @@ You can import an XRP Ledger in either of these two modes:\
 
 Most people choose to import their accounts with **Full access** so they can interact with the XRPL community.
 
-Once you have decided, you will be able to choose which secret type that you have:\
+As well, Xumm is compatible with all industry standard account secrets. Choose the appropriate one which applies to your account.
 
-
-<figure><img src="../.gitbook/assets/Secret type.png" alt=""><figcaption></figcaption></figure>
-
-Xumm is compatible with all industry standard account secrets. Choose the appropriate one which applies to your account.
-
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td></td></tr></tbody></table>
 
 
 
