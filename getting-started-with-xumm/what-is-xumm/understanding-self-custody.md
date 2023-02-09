@@ -54,4 +54,8 @@ You may find that other wallets or companies refer to self-custodial accounts as
 
 ### Xumm - A self-custodial wallet
 
-Xumm is self-custodial wallet the allows you to transact directly with the XRP Ledger. It provides you with an easy way to create a new XRPL account in a safe and secure way, and helps you interact and manage your account(s)
+Xumm is a self-custodial wallet the allows you to transact directly with the XRP Ledger. It provides you with an easy way to create a new XRPL account in a safe and secure way, and helps you interact with the XRPL and manage your XRPL account(s).
+
+
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
