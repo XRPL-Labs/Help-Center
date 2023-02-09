@@ -50,7 +50,7 @@ Self-custodial accounts on the XRPL are not controlled by banks or businesses or
 
 ### What about non-custodial or un-hosted accounts?
 
-
+Non-custodial or un-hosted accounts are just another way of saying self-custodial.&#x20;
 
 ### Xumm - A self-custodial wallet
 
