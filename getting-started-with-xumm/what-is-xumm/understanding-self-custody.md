@@ -54,4 +54,4 @@ Non-custodial or un-hosted accounts are just another way of saying self-custodia
 
 ### Xumm - A self-custodial wallet
 
-Xumm is self-custodial wallet the allows you to transact directly with the XRP Ledger. It allows you to create a new XRPL account in a safe and secure way, and help you store ahave a pretty good idea of what Xumm is u
+Xumm is self-custodial wallet the allows you to transact directly with the XRP Ledger. It provides you with an easy way to create a new XRPL account in a safe and secure way, and helps you interact and manage your account(s)
