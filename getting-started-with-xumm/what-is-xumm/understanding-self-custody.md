@@ -40,10 +40,10 @@ This does create a potential question as to who actually owns the XRP since it i
 
 {% embed url="https://www.reuters.com/business/finance/us-judge-says-celsius-network-owns-most-customer-crypto-deposits-2023-01-05/" %}
 
-
-
 However... on the XRP Ledger, there is a **second option**.
 
 ### &#x20;Self-custodial accounts
+
+One of the great features on the XRP Ledger is that you can actually create and own your own account on the network. This means that you can create your own r-address and have complete control over it. It also means that you, and only you, can make decisions on how and where you will manage your funds.
 
 A self-custodial account (also called a non-custodial or un-hosted account) is one which is not controlled or owned by business. It differs in that instead of&#x20;
