@@ -16,4 +16,22 @@ Most of the time accessing your funds is a fairly easy and straight forward proc
 * If a creditor has a claim against your funds
 * If the government determines you owe them money (taxes, fines, penalties, etc.)
 
-There are situations though, where a bank&#x20;
+Banks can also decide who and where you can send your money to if they don't think you are making good financial decisions.
+
+For example, a large, multinational bank in the UK informed their customers...
+
+"It’s our responsibility to help protect your money. With this in mind we’ve taken the decision to stop payments made by credit/debit card to Binance until further notice, to help keep your money safe."
+
+Source:
+
+{% embed url="https://www.forbes.com/uk/advisor/personal-finance/2021/07/06/barclays-stops-customers-making-binance-transfers/" %}
+
+Fortunately, many people want their banks and governments to make these types of financial decisions for them so custodial accounts make a lot of sense for those who prefer to leave their funds in control of someone else.&#x20;
+
+
+
+
+
+
+
+&#x20; where they can spend their funds.There are situations though, where a bank&#x20;
