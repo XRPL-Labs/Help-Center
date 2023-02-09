@@ -30,7 +30,10 @@ Fortunately, many people want their banks and governments to make these types of
 
 ### A second choice...
 
-When it comes to the XRP Ledger, there are several **crypto exchanges** which offer **custodial accounts**. Similar to bank account, you can open an account with a crypto exchange and deposit money into that account. The crypto exchange holds that money for you until you decide how you would like to use it.  This is another example of a "custodial" or "hosted" account. The exchange created an account on their "hosted" system (on their computers which they own and operate) and agree to take "custody" of your funds. Most people will use their funds to purchase various crypto currencies, which the exchange "holds" for them in their exchange accounts.
+When it comes to the XRP Ledger, there are several **crypto exchanges** which offer **custodial accounts**. Similar to a bank account, you can open an account with a crypto exchange and deposit money into that account. The crypto exchange holds that money for you until you decide how you would like to use it.  Since the exchange created an account on their "hosted" system (on their computers which they own and operate) and agree to take "custody" of your funds, we refer to them as **custodial accounts**.&#x20;
 
-&#x20;
+However... on the XRP Ledger, there is a **second option**.
 
+### &#x20;Self-custodial accounts
+
+A self-custodial account (also called a non-custodial or un-hosted account) is one which is not controlled or owned by business. It differs in that instead of&#x20;
