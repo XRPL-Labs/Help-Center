@@ -48,6 +48,10 @@ One of the great features on the XRP Ledger is that you can actually create your
 
 Self-custodial accounts on the XRPL are not controlled by banks or businesses or governments. They are completely controlled by you.&#x20;
 
+### What about non-custodial or un-hosted accounts?
+
+
+
 ### Xumm - A self-custodial wallet
 
 Xumm is self-custodial wallet the allows you to transact directly with the XRP Ledger. It allows you to create a new XRPL account in a safe and secure way, and help you store ahave a pretty good idea of what Xumm is u
