@@ -18,7 +18,7 @@ Here is an example:
 
 rGCEB4TQDkdU6GLjc5py15yT1ksrGqPebK
 
-R-addresses can be difficult to remember due to their complexity so a standard was developed to map an r-address to an easy-to remember address.&#x20;
+R-addresses can be difficult to remember (due to their complexity) so a standard was developed to map an r-address to an easy-to remember address.&#x20;
 
 Having a Paystring makes it Easier to remember than an r-address, easier to verify that it's you, if the sender trusts the issuer.
 
