@@ -81,7 +81,7 @@
   * [Features of Pro](xumm-pro-beta/features-of-pro.md)
     * [Profiles](xumm-pro-beta/features-of-pro/profiles.md)
       * [All about Profiles](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/all-about-profiles.md)
-      * [What is a Paystring?](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/what-is-a-paystring.md)
+      * [What is a PayString?](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/what-is-a-paystring.md)
     * [Push notifications](xumm-pro-beta/features-of-pro/push-notifications.md)
     * [Accounts](xumm-pro-beta/features-of-pro/accounts.md)
     * [Xumm App early access](xumm-pro-beta/features-of-pro/xumm-app-early-access.md)
