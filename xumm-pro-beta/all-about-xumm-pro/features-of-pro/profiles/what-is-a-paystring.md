@@ -12,7 +12,7 @@ Put simply, PayString is like a phone book for the XRP Ledger. It is a protocol 
 
 ### What problem does PayString solve?
 
-The public address on the XRP Ledger is a string of numbers and letters called an r-address.
+The public address on the XRP Ledger is a string of numbers and letters called an **r-address**.
 
 Here is an example:
 
