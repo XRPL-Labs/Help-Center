@@ -10,7 +10,7 @@ Profiles is basically an easy way to identify yourself on the XRP Ledger blockch
 
 Here’s what a Profile page looks like:
 
-<figure><img src="../../../../.gitbook/assets/Profiles - Main page.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Profile picture - Kevin -2.png" alt=""><figcaption></figcaption></figure>
 
 ### **Why would I want to create a public Profile on the XRPL?**
 
