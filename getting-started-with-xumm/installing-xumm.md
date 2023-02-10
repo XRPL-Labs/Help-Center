@@ -10,7 +10,7 @@ If you are reading this, you’ve decided to install Xumm on your mobile device.
 
 ### **Getting started…**
 
-Installing Xumm is a simple and straightforward process. From start to finish it should take you about 10 minutes to complete.. but don’t rush through it! You are going to need to write down some **very** information so take your time, grab a pen and some paper and get comfortable. Together we going to go through this...
+Installing Xumm is a simple and straightforward process. From start to finish it should take you about 10 minutes to complete.. but don’t rush through it! You are going to need to write down some **very** important information so take your time, grab a pen and some paper and get comfortable. Together we going to go through this...
 
 Xumm can only be download from 1 of 2 places:
 

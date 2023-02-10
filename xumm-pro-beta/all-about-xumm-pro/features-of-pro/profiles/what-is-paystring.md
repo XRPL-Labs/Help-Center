@@ -1,10 +1,10 @@
 ---
-description: What is a PayString and why is it useful?
+description: What is PayString and why is it useful?
 cover: ../../../../.gitbook/assets/Paystring.png
 coverY: 57
 ---
 
-# What is a PayString?
+# What is PayString?
 
 ### What is PayString?
 
