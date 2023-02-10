@@ -8,11 +8,7 @@ coverY: 57
 
 ### What is Paystring?
 
-When referring to Paystring you are typically referring to one of two things:
-
-1\) The <mark style="color:blue;">**Paystring protocol**</mark> - The payment identifier protocol that allows you to create a single ID which can be used to send or receive money across all supported networks.&#x20;
-
-2\) The <mark style="color:blue;">**Paystring ID**</mark> - An easily readable identifier that allows you to send or receive money on any network that supports the Paystring protocol.
+Put simply
 
 ### What problem does Paystring solve? Why do I need a Paystring ID?
 
