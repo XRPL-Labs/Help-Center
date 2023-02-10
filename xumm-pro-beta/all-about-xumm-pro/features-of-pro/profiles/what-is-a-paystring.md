@@ -26,19 +26,19 @@ Currently, only the XRP Ledger supports the PayString protocol.
 
 ### How does the Paystring ID work in Xumm?
 
-Here is an example of a Paystring ID: will$xumm.me
+PayString is part of the Profiles feature in Xumm Pro.
 
-{% embed url="https://xumm.me/will" %}
+More information about about Profiles (and how it works) please refer to this article:
 
-PayString is a simple, web-based protocol designed to make it as easy to send someone money as it is to send them an email. With the PayString protocol, you use human-readable addresses to transmit value in the currency of your choice. The PayString protocol allows participants to reach one another through standardized addresses.
+{% content-ref url="all-about-profiles.md" %}
+[all-about-profiles.md](all-about-profiles.md)
+{% endcontent-ref %}
 
-PayString is fully peer-to-peer with no central counterparty.
+**Notes**
 
-### How do I use my Paystring?
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-
-
-
+<figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
 
 
