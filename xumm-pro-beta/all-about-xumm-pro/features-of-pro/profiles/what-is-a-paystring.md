@@ -14,11 +14,11 @@ Put simply, PayString is like a phone book for the XRP Ledger. It is a protocol 
 
 The public address on the XRP Ledger is a string of numbers and letters called an **r-address**.
 
-Here is an example:
+For example:
 
 rGCEB4TQDkdU6GLjc5py15yT1ksrGqPebK
 
-R-addresses can be difficult to remember (due to their complexity) so a standard was developed to map an r-address to an easy-to remember address.&#x20;
+Due to their complexity, r-addresses can be difficult to remember. PayString solves this issue by mapping an r-address to an easy-to remember address.&#x20;
 
 ### Which networks support PayString?
 
