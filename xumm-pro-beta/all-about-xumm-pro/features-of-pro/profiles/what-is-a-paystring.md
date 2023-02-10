@@ -8,7 +8,7 @@ coverY: 57
 
 ### What is Paystring?
 
-Put simply
+Put simply, Paystring is like a phone book for the XRP Ledger. It is a protocol that maps human-readable addresses to their corresponding payment addresses.
 
 ### What problem does Paystring solve? Why do I need a Paystring ID?
 
