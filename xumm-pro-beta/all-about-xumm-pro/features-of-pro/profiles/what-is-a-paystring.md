@@ -22,13 +22,9 @@ R-addresses can be difficult to remember (due to their complexity) so a standard
 
 Having a Paystring makes it Easier to remember than an r-address, easier to verify that it's you, if the sender trusts the issuer.
 
-### Which networks support the Paystring protocol?
+### Which networks support PayString?
 
-The XRP Ledger, Bitcoin and Ethereum to name a few...
-
-### Does Xumm support those other networks?
-
-No. Xumm is exclusively an XRP Ledger wallet. We only support the XRP Ledger.
+Currently, only the XRP Ledger supports the PayString protocol.
 
 ### How does the Paystring ID work in Xumm?
 
