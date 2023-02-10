@@ -12,7 +12,15 @@ Put simply, Paystring is like a phone book for the XRP Ledger. It is a protocol 
 
 ### What problem does Paystring solve? Why do I need a Paystring ID?
 
+The public address on the XRP Ledger is a string of numbers and letters called an r-address.
 
+Here is an example:
+
+rGCEB4TQDkdU6GLjc5py15yT1ksrGqPebK
+
+R-addresses can be difficult to remember due to their complexity so a standard was developed to map an r-address to an easy-to remember address.&#x20;
+
+Having a Paystring makes it Easier to remember than an r-address, easier to verify that it's you, if the sender trusts the issuer.
 
 ### Which networks support the Paystring protocol?
 
