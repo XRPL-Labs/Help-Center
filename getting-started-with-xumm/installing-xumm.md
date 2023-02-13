@@ -38,9 +38,11 @@ Here is where you enter the 6 digit passcode which you can use to unlock and acc
 Try to avoid using a simple passcode such as 123456, 000000, 111111, 222222, etc. since these could be easily guessed.&#x20;
 {% endhint %}
 
-You will see the Biometric Authentication screen.&#x20;
+You will see the Biometric Authentication screen next. Here you can choose **Yes** if you would like to be given the option to sign into Xumm using biometrics and/or sign transactions using biometrics. If you are unsure about this, you can always enable this feature later.
 
 <figure><img src="../.gitbook/assets/Install - Page 8.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Install - Push notification screen.png" alt=""><figcaption></figcaption></figure>
 
 The ensuing 9 screens display import information about how Xumm and the XRP Ledger work, our Terms of Service and the current release notes. You will need to acknowledge that you have read through each page to continue.
 
