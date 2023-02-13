@@ -4,7 +4,7 @@ description: How to send tokens from your XRP Ledger account managed by Xumm
 
 # Sending tokens from Xumm
 
-### **Sending funds using Xumm**
+### **Sending tokens using Xumm**
 
 Now that you know where to send your assets to and you know a bit about how Trust Lines work, you are ready to use Xumm to send funds.
 
