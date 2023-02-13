@@ -50,3 +50,17 @@ However, if you are sending to a **custodial** account, (ie. an exchange account
 
 
 <figure><img src="../.gitbook/assets/Summary + DT.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Remember, non-custodial accounts, like the ones managed with Xumm **do not** require destination tags. Only **custodial** accounts require them.
+{% endhint %}
+
+#### **A little bit more about destination tags**
+
+You may have noticed that most crypto exchanges have **one** receiving r-address for **all** of their XRP customers? Have you ever wondered how thousands of customers can use just one XRP account?&#x20;
+
+When you create an account with a crypto exchange, they issue you a customer account on their internal database. They also create a destination tag which points to your new customer account and they provide you with **their** XRP Ledger account which you can send and receive XRP. You do not own their XRPL account. They have complete control over it. Since thousands of customers are sending funds to and from the same XRPL account, the only way they can tell which funds belong to which customer is by the destination tag included in each transaction. &#x20;
+
+If you would like to learn a bit more about destination tags, check out this video:
+
+{% embed url="https://www.youtube.com/watch?index=5&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp_l&v=gAWnIw4gzW8" %}
