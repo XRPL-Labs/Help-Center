@@ -38,7 +38,7 @@ In this case, you can use it to create a Trust Line.
 
 ### Quick instructions
 
-1\) Click on this link:  <img src="../.gitbook/assets/image (1).png" alt="https://xrpl.services/tokens" data-size="line">
+1\) Click on this link:  [https://xrpl.services/tokens](https://xrpl.services/tokens)
 
 2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
 
@@ -56,7 +56,7 @@ In this case, you can use it to create a Trust Line.
 
 ### Quick instructions with pictures
 
-1\) Click on this link: https://xrpl.services/tokens
+1\) Click on this link: [https://xrpl.services/tokens](https://xrpl.services/tokens)
 
 <figure><img src="../.gitbook/assets/XRPL Services - 1.png" alt=""><figcaption></figcaption></figure>
 
