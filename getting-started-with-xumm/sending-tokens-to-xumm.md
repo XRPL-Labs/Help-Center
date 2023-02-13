@@ -26,5 +26,7 @@ In all of the above cases, the relevant Trust Line needs to be set before the to
 
 For more information on Trust Lines and how to create one, check out this article:
 
-
+{% content-ref url="how-to-create-a-trust-line.md" %}
+[how-to-create-a-trust-line.md](how-to-create-a-trust-line.md)
+{% endcontent-ref %}
 
