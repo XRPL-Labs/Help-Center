@@ -72,7 +72,9 @@ In this case, you can use it to create a Trust Line.
 
 <figure><img src="../.gitbook/assets/XRPL Services - 4.png" alt=""><figcaption></figcaption></figure>
 
+5\) Press the **Open in the Xumm app** button.
 
+<figure><img src="../.gitbook/assets/XRPL Services - 5.png" alt=""><figcaption></figcaption></figure>
 
 
 
