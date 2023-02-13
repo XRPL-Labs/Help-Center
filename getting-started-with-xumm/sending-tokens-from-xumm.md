@@ -4,7 +4,7 @@ description: How to send tokens from your XRP Ledger account managed by Xumm
 
 # Sending tokens from Xumm
 
-Sending token from Xumm is a very easy process. In fact, sending tokens is one if its primary functions! Here is how it's done...
+Sending tokens from Xumm is a very easy process. In fact, sending tokens is one if its primary functions! Here is how it's done...
 
 #### **Step 1**
 
@@ -17,3 +17,21 @@ On the following screen, you will see the option to enter the **amount** you wou
 (You can also change the account you would like to send the tokens **from** and you can change the **type** of token you would like to send.)
 
 <figure><img src="../.gitbook/assets/Send screen - 2.png" alt=""><figcaption></figcaption></figure>
+
+In our case, we are going to send 1 XRP from our account.
+
+Press the **Next** button to continue.
+
+**Step 2**
+
+In this screen you can enter the **recipient's** account that you are sending your tokens to.
+
+Keep in mind, there are two types of accounts on the XRPL.
+
+* **Non custodial** accounts - You are solely responsible for managing your private keys.
+* **Custodial** accounts - A company is responsible for managing the private keys to their account. (Usually a crypto exchange.) You are assigned an account number with the exchange called a destination tag.
+
+Both types of accounts will have an r-address but a custodial account will also require a destination tag. (More about destination tags later.)
+
+Press **Next** after you have entered/selected the correct destination r-address.
+
