@@ -82,3 +82,8 @@ In this case, you can use it to create a Trust Line.
 
 8\) **Slide to sign**.
 
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
