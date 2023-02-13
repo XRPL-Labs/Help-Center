@@ -37,7 +37,15 @@ Both types of accounts will have an r-address but a custodial account will also 
 
 Press **Next** after you have entered/selected the correct destination r-address.
 
+### **Step 3**
 
+Finally we reach the **Summary** screen. Here you can review your transaction to make sure it is correct.
+
+<figure><img src="../.gitbook/assets/Summary.png" alt=""><figcaption></figcaption></figure>
+
+If you are sending to a self-custodial account, you can simply **Slide to send** and your transaction will be sent to the XRP Ledger to process.
+
+However, if you are sending to a **custodial** account, (ie. an exchange account) this where you would enter your **destination tag**.
 
 
 
