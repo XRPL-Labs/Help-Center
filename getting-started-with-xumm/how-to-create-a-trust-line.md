@@ -6,9 +6,9 @@ description: How to create a Trust Line on the XRP Ledger
 
 There are two easy ways to create Trust Line using Xumm:
 
-1\) Selecting one of the pre-vetted tokens from our short list
+1\) Selecting one of the pre-vetted tokens from our **short list**
 
-2\) Visiting XRPL.Services and sign using Xumm
+2\) Visiting **XRPL.Services** and sign using Xumm
 
 ### **What is the Xumm short list?**
 
@@ -30,7 +30,53 @@ You should see a warning message cautioning you about the potential dangers, the
 
 Finally, either enter your **passcode/signing password/biometrics** to sign the transaction and the Trust Line will be created.
 
+### **What is XRPL.Services?**
 
+XRPL.Services is a website which allows you to interact with the XRP Ledger in various ways and to easily create transactions that you can sign with Xumm.&#x20;
+
+In this case, you can use it to create a Trust Line.
+
+### Quick instructions
+
+1\) Click on this link:  <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">
+
+2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
+
+3\) When the desired token is displayed, press the **Set Trustline** link beside the token.
+
+4\) Press the **Confirm** button.
+
+5\) Press the **Open in the Xumm app** button.
+
+6\) Sign into Xumm.
+
+7\) Review the transaction to make sure it is correct.
+
+8\) Slide to sign.
+
+### Quick instructions with pictures
+
+1\) Click on this link: https://xrpl.services/tokens
+
+<figure><img src="../.gitbook/assets/XRPL Services - 1.png" alt=""><figcaption></figcaption></figure>
+
+2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
+
+<figure><img src="../.gitbook/assets/XRPL Services - 2.png" alt=""><figcaption></figcaption></figure>
+
+3\) When the desired token is displayed, press the **Set Trustline** link beside the token.
+
+<figure><img src="../.gitbook/assets/XRPL Services - 3.png" alt=""><figcaption></figcaption></figure>
+
+4\) Press the **Confirm** button.
+
+
+
+
+
+
+
+&#x20;he "short list" is the list of tokens that is presented when you press the _**+Add**_ button on the main screen of Xumm.
 
 there some tokens which have been vetted by our internal compliance department which have been included on our 'short list'. Creating a Trust Line from the short list is the easiest way to create a Trust Line.
 
