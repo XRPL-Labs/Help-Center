@@ -8,13 +8,3 @@ Most people who are new to Xumm will create their first XRP Ledger account durin
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>How to create an XRPL account</td><td></td><td></td><td><a href="how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td><td><a href="../../.gitbook/assets/Tokens and coins -3.png">Tokens and coins -3.png</a></td></tr><tr><td>How to import an XRP Ledger account</td><td></td><td></td><td><a href="../../getting-started/importing-your-existing-xrpl-account.md">importing-your-existing-xrpl-account.md</a></td><td><a href="../../.gitbook/assets/Man holding a lantern.png">Man holding a lantern.png</a></td></tr><tr><td>How to add a Xumm Tangem card</td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/Vault -1.png">Vault -1.png</a></td></tr></tbody></table>
 
-
-
-here are two way to create an XRP Ledger account using Xumm.\
-\
-1\) During the installation process&#x20;
-
-2\) After Xumm has been installed
-
-### Installing Xumm
-
