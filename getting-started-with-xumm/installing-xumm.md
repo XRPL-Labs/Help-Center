@@ -42,6 +42,8 @@ You will see the Biometric Authentication screen next. Here you can choose **Yes
 
 <figure><img src="../.gitbook/assets/Install - Page 8.png" alt=""><figcaption></figcaption></figure>
 
+On this screen, you get the option to enable push notifications on your phone. If you are unsure about this, you can always enable the feature later.
+
 <figure><img src="../.gitbook/assets/Install - Push notification screen.png" alt=""><figcaption></figcaption></figure>
 
 The ensuing 9 screens display import information about how Xumm and the XRP Ledger work, our Terms of Service and the current release notes. You will need to acknowledge that you have read through each page to continue.
