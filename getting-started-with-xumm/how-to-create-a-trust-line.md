@@ -38,7 +38,7 @@ In this case, you can use it to create a Trust Line.
 
 ### Quick instructions
 
-1\) Click on this link:  <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">
+1\) Click on this link:  <img src="../.gitbook/assets/image (1).png" alt="https://xrpl.services/tokens" data-size="line">
 
 2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
 
