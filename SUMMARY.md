@@ -27,11 +27,12 @@
   * [From Coinbase](getting-started-with-xumm/activating-an-account/from-coinbase.md)
   * [From Bitstamp](getting-started-with-xumm/activating-an-account/from-bitstamp.md)
   * [From Binance](getting-started-with-xumm/activating-an-account/from-binance.md)
-* [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
+* [Sending tokens to Xumm](getting-started-with-xumm/sending-tokens-to-xumm.md)
+* [Sending tokens from Xumm](getting-started-with-xumm/sending-tokens-from-xumm.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
-* [Deposit from Exchange Didn't Arrive](getting-started-with-xumm/deposit-from-exchange-didnt-arrive.md)
-* [Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
-* [📨 Send funds with Xumm](getting-started-with-xumm/send-funds-with-xumm.md)
+* [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
+* [General Terms and definitions](getting-started-with-xumm/general-terms-and-definitions.md)
+* [📨 Sending funds with Xumm](getting-started-with-xumm/sending-funds-with-xumm.md)
 
 ## Learning more about Xumm
 
