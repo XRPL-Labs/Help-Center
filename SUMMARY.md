@@ -32,7 +32,6 @@
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
 * [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [General Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
-* [📨 Sending funds with Xumm](getting-started-with-xumm/send-funds-with-xumm.md)
 * [How to create a Trust Line](getting-started-with-xumm/how-to-create-a-trust-line.md)
 
 ## Learning more about Xumm
