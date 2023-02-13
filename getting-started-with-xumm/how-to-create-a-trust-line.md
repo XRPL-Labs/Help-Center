@@ -70,7 +70,7 @@ In this case, you can use it to create a Trust Line.
 
 4\) Press the **Confirm** button.
 
-
+<figure><img src="../.gitbook/assets/XRPL Services - 4.png" alt=""><figcaption></figcaption></figure>
 
 
 
