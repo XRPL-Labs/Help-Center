@@ -38,7 +38,7 @@ In this case, you can use it to create a Trust Line.
 
 ### Quick instructions
 
-1\) Click on this link:  [https://xrpl.services/tokens](https://xrpl.services/tokens)
+1\) Click on this link: [**XRPL Services**](https://xrpl.services/tokens)****
 
 2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
 
@@ -56,7 +56,7 @@ In this case, you can use it to create a Trust Line.
 
 ### Quick instructions with pictures
 
-1\) Click on this link: [https://xrpl.services/tokens](https://xrpl.services/tokens)
+1\) Click on this link: [**XRPL Services**](https://xrpl.services/tokens)****
 
 <figure><img src="../.gitbook/assets/XRPL Services - 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,12 +74,11 @@ In this case, you can use it to create a Trust Line.
 
 5\) Press the **Open in the Xumm app** button.
 
-<figure><img src="../.gitbook/assets/XRPL Services - 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/XRPL Services - 6.png" alt=""><figcaption></figcaption></figure>
 
+6\) Sign into Xumm.
 
+7\) Review the transaction to make sure it is correct.
 
-&#x20;he "short list" is the list of tokens that is presented when you press the _**+Add**_ button on the main screen of Xumm.
+8\) **Slide to sign**.
 
-there some tokens which have been vetted by our internal compliance department which have been included on our 'short list'. Creating a Trust Line from the short list is the easiest way to create a Trust Line.
-
-If the token you are looking for is not on the short list, you can manually add one by visiting XRPL.Services and following the instructions below.
