@@ -24,9 +24,78 @@ Now, let’s say you want to send another token to your account, for example, Ca
 
 In all of the above cases, the relevant Trust Line needs to be set before the token will show as an asset in the destination account.
 
-For more information on Trust Lines and how to create one, check out this article:
+For more information how to create a Trust Line, check out this article:
 
 {% content-ref url="how-to-create-a-trust-line.md" %}
 [how-to-create-a-trust-line.md](how-to-create-a-trust-line.md)
 {% endcontent-ref %}
 
+### **Each Trust Line has its own r-address…**
+
+In order to receive and hold a particular XRP Ledger token, (there are over 82010 of them), you need to create a Trust Line to their project.
+
+Let’s look at the CasinoCoin (CSC) project for example.
+
+The CasinoCoin project issued the CSC token back in March of 2021 from this r-address:
+
+**rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr**
+
+If you would like to hold CSC tokens in your account, you will need to create a Trust Line to their issuing account.&#x20;
+
+{% hint style="warning" %}
+When you create a Trust Line, you are basically saying that you have researched their project and are satisfied that they are a trustworthy company.
+{% endhint %}
+
+For more information about Trust Lines and how they work, check out this link:
+
+* [All about Trust Lines](https://xrpl.org/trust-lines-and-issuing.html#trust-lines-and-issuing)
+
+### **Sending funds using Xumm**
+
+Now that you know where to send your assets to and you know a bit about how Trust Lines work, you are ready to use Xumm to send funds.
+
+#### **Step 1**
+
+From the main screen in Xumm, press the **Send** button.
+
+<figure><img src="../.gitbook/assets/Send button -2.png" alt=""><figcaption></figcaption></figure>
+
+On the following screen, you will see the option to enter the **amount** you would like to send.
+
+
+
+(You can also change the account you would like to send the tokens **from** and you can change the **type** of token you would like to send.)
+
+
+
+
+
+If you are sending to a non-custodial account, you can simply **Slide to send** and your transaction will be sent to the XRP Ledger to process.
+
+However, if you are sending to a **custodial** account, (ie. an exchange account) this where you would enter your **destination tag**.
+
+<figure><img src="../.gitbook/assets/Summary + DT.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Remember, non-custodial accounts, like the ones managed with Xumm **do not** require destination tags. Only **custodial** accounts require them.
+{% endhint %}
+
+#### **A little bit more about destination tags**
+
+You may have noticed that most crypto exchanges have **one** receiving r-address for **all** of their XRP customers? Have you ever wondered how thousands of customers can use just one XRP account?&#x20;
+
+When you create an account with a crypto exchange, they issue you a customer account on their internal database. They also create a destination tag which points to your new customer account and they provide you with **their** XRP Ledger account which you can send and receive XRP. You do not own their XRPL account. They have complete control over it. Since thousands of customers are sending funds to and from the same XRPL account, the only way they can tell which funds belong to which customer is by the destination tag included in each transaction. &#x20;
+
+You can lean more about destination tags in this video:
+
+* [All about destination tags](https://www.youtube.com/watch?v=gAWnIw4gzW8)
+
+**Additional reading**
+
+* [What is the destination tag for your XRP Ledger account managed with XUMM?](https://support.xumm.app/hc/en-us/articles/360018135860)
+* [What to do When a Deposit to an Exchange Didn’t Arrive](https://support.xumm.app/hc/en-us/articles/360018433819)
+* [An introduction to Destination Tags](https://support.xumm.app/hc/en-us/articles/360018134720)
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
