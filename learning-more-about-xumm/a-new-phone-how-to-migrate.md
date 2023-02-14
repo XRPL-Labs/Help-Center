@@ -1,13 +1,13 @@
 ---
-description: >-
-  When you get a new phone, even after migrating all your data and settings,
-  Xumm accounts will not be automatically available in Xumm on your new phone.
+description: Did you just get a new phone? Here is how to setup Xumm on your new device.
 cover: >-
   https://images.unsplash.com/photo-1621330396173-e41b1cafd17f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxwaG9uZXN8ZW58MHx8fHwxNjc0NTczMDQ4&ixlib=rb-4.0.3&q=80
 coverY: 0
 ---
 
-# 📱 Migrate to a new phone
+# 📱 A new phone? How to migrate
+
+
 
 For security reasons, Xumm does not store accounts / account secrets in your Google / Apple iCloud backups. If Xumm would store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
 
