@@ -36,7 +36,7 @@
 
 ## Learning more about Xumm
 
-* [📱 Got a new phone? How to migrate](learning-more-about-xumm/got-a-new-phone-how-to-migrate.md)
+* [📱 Got a new phone?](learning-more-about-xumm/got-a-new-phone.md)
 * [🪙 Supported tokens](learning-more-about-xumm/supported-tokens.md)
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)

@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 📱 Got a new phone? How to migrate
+# 📱 Got a new phone?
 
 
 
