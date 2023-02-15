@@ -1,5 +1,5 @@
 ---
-description: Did you just get a new phone? Here is how to setup Xumm on your new device.
+description: Here is how to setup Xumm on your new device.
 cover: >-
   https://images.unsplash.com/photo-1621330396173-e41b1cafd17f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxwaG9uZXN8ZW58MHx8fHwxNjc0NTczMDQ4&ixlib=rb-4.0.3&q=80
 coverY: 0
@@ -7,7 +7,31 @@ coverY: 0
 
 # 📱 Got a new phone?
 
+### Three things to get you started...
 
+Congratulations! Getting a new phone can be exciting, but before you get started migrating everything over from your old phone, here are a couple of suggestions to make the process a little bit smoother...
+
+1\) Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
+
+2\) Ensure that you have your account secret(s) (secret numbers, family seed(s), mnemonic(s)) for all of your XRP Ledger accounts&#x20;
+
+3\) In you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the Xumm Support xApp.
+
+### Configuring Xumm on your new phone
+
+When getting a new mobile device, Xumm will need to be installed fresh and your XRP Ledger account(s) many people will try to copy over existing applications and files from backup. While this process might work for many apps, it will not work for Xumm.
+
+
+
+#### When you get a new phone, even after migrating all your data and settings, XUMM accounts will not be automatically available in XUMM on your new phone.
+
+For security reasons, XUMM does not store accounts / account secrets in your Google / Apple iCloud backups. If XUMM would store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
+
+_This means restoring Xumm from backup will not work. The app needs to re-installed from the play store._
+
+### Why can't I restore Xumm from backup?
+
+The first thing to know is that you can not&#x20;
 
 For security reasons, Xumm does not store accounts / account secrets in your Google / Apple iCloud backups. If Xumm would store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
 
