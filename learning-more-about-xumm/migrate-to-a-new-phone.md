@@ -27,7 +27,7 @@ Just select one of the above links and press the **Install** button begin the do
 
 For step by step instructions (with pictures) on how to install Xumm, you can refer to this article:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How to install Xumm</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../getting-started-with-xumm/installing-xumm.md">installing-xumm.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>     How to install Xumm</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../getting-started-with-xumm/installing-xumm.md">installing-xumm.md</a></td></tr></tbody></table>
 
 &#x20;
 
