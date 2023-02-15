@@ -11,17 +11,25 @@ coverY: 0
 
 Congratulations! Getting a new phone can be exciting, but before you get started migrating everything over from your old phone, here are a couple of suggestions to make the process a little bit smoother...
 
-1\) Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
-
-2\) Ensure that you have your account secret(s) (secret numbers, family seed(s), mnemonic(s)) for all of your XRP Ledger accounts&#x20;
-
-3\) In you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the Xumm Support xApp.
+* &#x20;Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
+* Ensure that you have your account secret(s) (secret numbers, family seed(s), mnemonic(s)) for all of your XRP Ledger accounts&#x20;
+* In you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the Xumm Support xApp.
 
 ### Configuring Xumm on your new phone
 
-When getting a new mobile device, Xumm will need to be installed fresh and your XRP Ledger account(s) many people will try to copy over existing applications and files from backup. While this process might work for many apps, it will not work for Xumm.
+The first thing you need to know about getting Xumm working on your new device is that **you can not restore or copy** Xumm from one device to another. Xumm needs to be **installed fresh** on your new phone and your account secret(s) will need to be imported in Xumm in order to access your XRP Ledger account(s).
 
+To install Xumm on your new phone, you can download it from 1 of 2 places:
 
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
+
+Just select one of the above links and press the **Install** button begin the download.
+
+For step by step instructions (with pictures) on how to install Xumm, you can refer to this article:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How to install Xumm</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../getting-started-with-xumm/installing-xumm.md">installing-xumm.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+&#x20;
 
 #### When you get a new phone, even after migrating all your data and settings, XUMM accounts will not be automatically available in XUMM on your new phone.
 

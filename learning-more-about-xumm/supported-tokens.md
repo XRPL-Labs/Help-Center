@@ -1,5 +1,4 @@
 ---
-description: Which tokens does Xumm support?
 cover: >-
   https://images.unsplash.com/photo-1533988902751-0fad628013cb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx0b2tlbnN8ZW58MHx8fHwxNjc0NTczMTM3&ixlib=rb-4.0.3&q=80
 coverY: 0
@@ -7,25 +6,41 @@ coverY: 0
 
 # 🪙 Supported tokens
 
-Xumm is exclusively an XRP Ledger wallet. It supports XRP and all of the 8300+ tokens issued on the XRPL.
+## Which tokens does Xumm support?
+
+**Summary**
+
+* Xumm is exclusively an XRP Ledger wallet.
+* We support XRP and the 8200+ tokens issued on the XRPL.
+* As long as the token was issued on the XRP Ledger, Xumm supports it.
+
+### **Which ones are you affiliated with and which ones do you endorse?**
+
+_Xumm is **not** affiliated with any token on the XRPL and we **do not** endorse any of them._
+
+By “support” we mean that you can use Xumm to interact with any token issued on the XRPL. We support all transaction types and you can use the DEX Trade xApp in Xumm to buy and sell any XRPL token via the XRPL DEX.
+
+We **do not** provide technical support for any specific token or project. Each individual token issuer provides support for their own token.
 
 ### **Why doesn’t Xumm support other blockchains?**
 
-The XRPL is our passion and our specialty and while there are other blockchain technologies that might show promise or potential, we are committed to developing the XRPL ecosystem. Splitting our focus between various blockchains or becoming a “jack of all trades” wallet does help the XRPL community. &#x20;
+While there are other blockchain technologies that might show promise or potential,  we are committed developing the XRPL ecosystem. To do this correctly, it requires focus, a great team of professionals and the perseverance to endure the ups and downs associated with emerging technologies.
+
+We feel that diverting our focus or becoming a “jack of all trades” wallet, would not benefit the XRP Community. The XRPL is our passion and our specialty. Why would we want to mess with that?
 
 ### **Do you plan to support other blockchains?**
 
 No. Our focus is the XRP Ledger.
 
-### **… But I see BTC, ETH, SGB, FLR, etc. tokens on the XRPL. How does that make sense if you don't support those networks?**
+### **… But there I see BTC, ETH, SGB, FLR, USD, etc. tokens on the XRPL. How does that make sense?**
 
 Anyone can create a token on the XRP Ledger. (Xumm actually contains an xApp called _**Token Creator**_ to walk you through the process.)
 
-The BTC/ETH/SGB/FLR tokens that were issued on the XRPL are not the same as the native BTC/ETH/SGB/FLR tokens on their respective blockchains.&#x20;
+For example, a BTC token on the XRP Ledger is not the same as the native BTC mined on the Bitcoin blockchain.
 
-For example, you can not send BTC issued on the XRPL to the Bitcoin network because the Bitcoin network and the XRP Ledger are separate and incompatible networks.&#x20;
+You can not send BTC issued on the XRPL to the Bitcoin network and you can not send BTC from the Bitcoin network to the XRPL.
 
-People/companies issue tokens on XRPL to enjoy all the benefits of the XRPL but with none of the limitations or issues associated with other blockchains.
+The XRP Ledger and the Bitcoin blockchain are separate and incompatible networks.
 
 If your are interested in learning more about this, check out this article:
 
@@ -56,12 +71,6 @@ XRPL Services Tokens page
 {% endembed %}
 
 <figure><img src="../.gitbook/assets/XRPL Servceis - Search Bar.png" alt=""><figcaption><p>Search function on XRPL Services</p></figcaption></figure>
-
-### **Which XRPL tokens are you affiliated with and which ones do you endorse?**
-
-_Xumm is **not** affiliated with any token on the XRPL and we **do not** endorse any of them._
-
-
 
 **Notes**
 
