@@ -8,7 +8,7 @@ description: How does the Profiles feature in Xumm Pro work?
 
 Profiles is basically an easy way to identify yourself on the XRP Ledger blockchain. It allows you to create and publish an identity profile page so other people can identify who you are.&#x20;
 
-Here’s what a Profile page looks like:
+Here’s what a Profile page for one of our developers, Kevin:
 
 <figure><img src="../../../../.gitbook/assets/Profile picture - Kevin -2.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,21 +30,33 @@ For example, to get to Kevin's page, you would enter:&#x20;
 
 In your case, your Profile page would match your identity much closer than Kevin's test page. So if your name is John Shepard, your Profile page could be:
 
-xumm.me/johnshepard
+<mark style="color:blue;">xumm.me/johnshepard</mark>
 
 or if your name is Daniel Jackson, your Profile page could be:
 
-xumm.me/danieljackson
+<mark style="color:blue;">xumm.me/danieljackson</mark>
 
 The idea is that your Profile page matches you actual identity.
 
-&#x20;
+### What is my Paystring?
+
+Your PayString address is an easy way for people to send you funds on the XRP Ledger.
+
+In Kevin's case, his Paystring is:
+
+kevin$xumm.me
+
+<figure><img src="../../../../.gitbook/assets/Profiles - Kevin.png" alt=""><figcaption></figcaption></figure>
+
+If you wanted to send XRP to Kevin account, you could always enter his r-address: **rUBvs5S....**
+
+but many people have trouble remembering r-addresses. It is much easier to send the XRP to: **kevin$xumm.me**&#x20;
 
 
 
-The next step is to create a “user ID” known as a _slug_ which closely matches the verified ID provided during the KYC process. You can choose your own slug, but it must be similar to what is on your government issued ID.
 
-Your profile page can be accessed by anyone who knows your profile slug.
+
+###
 
 ****
 
