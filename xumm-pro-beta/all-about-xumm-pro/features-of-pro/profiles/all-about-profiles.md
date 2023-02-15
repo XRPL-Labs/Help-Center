@@ -24,11 +24,21 @@ There are a couple of reasons you might want to do this.
 
 You just need to open your favorite internet browser and enter your Profile page address.
 
-To get to Kevin's page, you would enter:&#x20;
+For example, to get to Kevin's page, you would enter:&#x20;
 
 [xumm.me/kevin](https://xumm.me/kevin)
 
+In your case, your Profile page would match your identity much closer than Kevin's test page. So if your name is John Shepard, your Profile page could be:
 
+xumm.me/johnshepard
+
+or if your name is Daniel Jackson, your Profile page could be:
+
+xumm.me/danieljackson
+
+The idea is that your Profile page matches you actual identity.
+
+&#x20;
 
 
 
