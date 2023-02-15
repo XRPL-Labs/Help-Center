@@ -25,7 +25,7 @@ To install Xumm on your new phone, you can download it from 1 of 2 places:
 
 Just select one of the above links and press the **Install** button begin the download.
 
-Although the installation of Xumm is quite straight-forward and simple, you can always refer to our step by step instructions on how to install Xumm...
+Although the installation of Xumm is quite straight-forward and user-friendly , you can always refer to our step by step instructions on how to install Xumm...
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to install Xumm</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../getting-started-with-xumm/installing-xumm.md">installing-xumm.md</a></td></tr></tbody></table>
 
