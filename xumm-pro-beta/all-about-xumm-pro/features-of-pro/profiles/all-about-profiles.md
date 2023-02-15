@@ -20,71 +20,21 @@ There are a couple of reasons you might want to do this.
 * As governments around the world move closer towards regulating public blockchains, creating a verified public profile is a safe and secure way to add **transparency** to the XRPL and stay ahead of the coming regulations.
 * It is a pretty cool way to represent yourself and it allows you to control your imagine in the XRPL community. You get your own personal page on the internet which provides an easy way for people to send you funds. As well, future updates to Profiles will also include "Xumm badges" for achievements such as Contributor, Validator, Beta Tester, Supporter and many more..
 
+### **How do I access my Profile page?**
 
+You just need to open your favorite internet browser and enter your Profile page address.
 
-### **How does it work?**
+To get to Kevin's page, you would enter:&#x20;
 
-To begin, a user goes through the KYC process in Xumm Pro.
-
-<figure><img src="../../../../.gitbook/assets/Xumm Pro - KYC screen - 1.png" alt=""><figcaption></figcaption></figure>
-
-KYC involves providing government-issued ID and verifying that the ID matches the person providing it.
-
-{% hint style="info" %}
-Going through the KYC process is an opt-in part of Xumm Pro but it is **required** if you are interested in using the Profiles feature.
-{% endhint %}
-
-### **Ok. I’ve successfully completed the KYC process in Pro. What now?**
+[xumm.me/kevin](https://xumm.me/johnsmith)
 
 The next step is to create a “user ID” known as a _slug_ which closely matches the verified ID provided during the KYC process. You can choose your own slug, but it must be similar to what is on your government issued ID.
-
-### **What the heck is a “slug”?**
-
-In Xumm, there are two types of slugs: a **profile slug** and **account slugs**.
-
-_**Profile Slug**_
-
-A Profile Slug is a unique way to identify yourself on the XRP Ledger. It is the main slug that you will choose for your Profile page in Xumm Pro. It needs to be similar to your real name. (Based on the government ID you used during the KYC process.)
-
-For example, if your name is John Smith, your Profile slug in Xumm Pro might be:
-
-johnsmith
-
-so your Profile page would be:
-
-[https://xumm.me/johnsmith](https://xumm.me/johnsmith)
-
-The goal is to ensure that you pick a slug that allows you to be identified on the XRPL. This way, when people interact with you in the XRP community, they know who you are - and you will know who they are if they create a Profile as well. They will be able to trust your user profile is legitimate and they will not confuse you with someone else.
-
-_**Account Slugs**_
-
-Once you have created a Profile slug, you will be able to create separate accounts under your main Profile page.
-
-For example, let’s say you have several XRPL accounts, one for your your wife, daughter, son, and one for your business account. Each XRPL account could have its own account slug under your account.
-
-So, if your Profile page is:
-
-[https://xumm.me/johnsmith](https://xumm.me/johnsmith)
-
-You could create separate accounts attached to your Profile page such as:
-
-[johnsmith+daughter$xumm.me](http://johnsmith+daughter$xumm.me)
-
-[johnsmith+business$xumm.me](http://johnsmith+business$xumm.me)
-
-[https://support.xumm.app/hc/article\_attachments/8483471853458](https://support.xumm.app/hc/article\_attachments/8483471853458)
-
-mceclip0.png
-
-### **How do I access my Profile page?**
 
 Your profile page can be accessed by anyone who knows your profile slug.
 
-You just need to open your favorite internet browser and enter your profile slug.
+****
 
-[https://xumm.me/johnsmith](https://xumm.me/johnsmith)
-
-The next step is to create a “user ID” known as a _slug_ which closely matches the verified ID provided during the KYC process. You can choose your own slug, but it must be similar to what is on your government issued ID.
+****
 
 **Additional reading**
 
