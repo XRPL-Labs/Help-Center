@@ -31,7 +31,11 @@ Although the installation of Xumm is quite straight-forward and simple, you can 
 
 When you get to the end of the installation, you will be presented with this screen:
 
+<figure><img src="../.gitbook/assets/Install - Page 7.png" alt=""><figcaption></figcaption></figure>
 
+Simple press the **+ Add account** button then choose **Import an existing account**.&#x20;
+
+<figure><img src="../.gitbook/assets/Import an existin account button.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
