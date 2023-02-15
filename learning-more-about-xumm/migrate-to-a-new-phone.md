@@ -37,19 +37,15 @@ Simply press the **+ Add account** button then choose **Import an existing accou
 
 <figure><img src="../.gitbook/assets/Import an existin account button.png" alt=""><figcaption></figcaption></figure>
 
-Next you can choose the appropriate account secret for your XRP Ledger account then enter your account secret to complete the process.
+Next you can choose the appropriate account secret for your XRP Ledger account then enter it to complete the process.
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md">...with-a-mnemonic.md</a></td></tr></tbody></table>
 
 
 
+### Why did you ask me to keep my old phone?
+
 &#x20;
-
-#### When you get a new phone, even after migrating all your data and settings, XUMM accounts will not be automatically available in XUMM on your new phone.
-
-For security reasons, XUMM does not store accounts / account secrets in your Google / Apple iCloud backups. If XUMM would store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
-
-_This means restoring Xumm from backup will not work. The app needs to re-installed from the play store._
 
 ### Why can't I restore Xumm from backup?
 
