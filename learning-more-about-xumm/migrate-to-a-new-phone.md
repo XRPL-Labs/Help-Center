@@ -33,11 +33,11 @@ When you get to the end of the installation, you will be presented with this scr
 
 <figure><img src="../.gitbook/assets/Install - Page 7.png" alt=""><figcaption></figcaption></figure>
 
-Simple press the **+ Add account** button then choose **Import an existing account**.&#x20;
+Simply press the **+ Add account** button then choose **Import an existing account**.&#x20;
 
 <figure><img src="../.gitbook/assets/Import an existin account button.png" alt=""><figcaption></figcaption></figure>
 
-Next you can choose the appropriate account secret for your XRP Ledger account.
+Next you can choose the appropriate account secret for your XRP Ledger account then enter your account secret to complete the process.
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md">...with-a-mnemonic.md</a></td></tr></tbody></table>
 
