@@ -16,5 +16,10 @@ When you launch Xumm Pro, your screen will look like this:
 
 
 
-The first thing you will need to do is go through the KYC process.
+The first thing to do is to go through the **KYC process**.  You can do this by pressing the _**Open KYC xApp**_ button.&#x20;
 
+Once have completed the process, the next step is to press the **Create Profile** button.
+
+<figure><img src="../../../../.gitbook/assets/Create Profile button (1).png" alt=""><figcaption></figcaption></figure>
+
+then&#x20;
