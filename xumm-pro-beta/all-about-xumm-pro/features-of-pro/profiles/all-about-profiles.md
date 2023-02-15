@@ -60,7 +60,7 @@ In Xumm, you can actually search for people's PayString directly from the Send f
 
 <figure><img src="../../../../.gitbook/assets/Profiles - Search.png" alt=""><figcaption></figcaption></figure>
 
-It is almost like a phone book, you can look up someone's r-address just by knowing their name!  🎉🎉
+It is just like a phone book, you can look up someone's r-address just by knowing their name!  🎉
 
 
 
