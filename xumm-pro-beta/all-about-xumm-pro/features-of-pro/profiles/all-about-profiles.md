@@ -26,7 +26,11 @@ You just need to open your favorite internet browser and enter your Profile page
 
 To get to Kevin's page, you would enter:&#x20;
 
-[xumm.me/kevin](https://xumm.me/johnsmith)
+[xumm.me/kevin](https://xumm.me/kevin)
+
+
+
+
 
 The next step is to create a “user ID” known as a _slug_ which closely matches the verified ID provided during the KYC process. You can choose your own slug, but it must be similar to what is on your government issued ID.
 
