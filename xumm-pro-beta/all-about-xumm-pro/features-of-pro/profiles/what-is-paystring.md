@@ -30,9 +30,7 @@ PayString is part of the Profiles feature in Xumm Pro.
 
 More information about about Profiles (and how it works) please refer to this article:
 
-{% content-ref url="all-about-profiles.md" %}
-[all-about-profiles.md](all-about-profiles.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">All about Profiles</td><td></td><td></td><td><a href="../../../../.gitbook/assets/van gogh office.png">van gogh office.png</a></td><td><a href="all-about-profiles.md">all-about-profiles.md</a></td></tr></tbody></table>
 
 **Notes**
 
