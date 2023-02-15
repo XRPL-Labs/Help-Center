@@ -23,14 +23,18 @@ Here is how to do this:
 
 On the main page of Xumm Pro, press the _**Open KYC xApp**_ button and complete the KYC process.&#x20;
 
-
+\<Enter main Xumm Pro imagine here>
 
 Next, press the **Accounts** button then decide which account(s) you would like to link to your public profile and press the **Edit** button.
 
 <figure><img src="../../../../.gitbook/assets/Accounts button in Pro.png" alt=""><figcaption></figcaption></figure>
 
-Once have completed the process, the next step is to press the **Create Profile** button.
+Once have completed the process, the next step is to press the **Create Profile** button...
 
 <figure><img src="../../../../.gitbook/assets/Create Profile button (1).png" alt=""><figcaption></figcaption></figure>
 
-then&#x20;
+then you can create your Profile.
+
+<figure><img src="../../../../.gitbook/assets/Profiles - Setup.png" alt=""><figcaption></figcaption></figure>
+
+<table><thead><tr><th>Option</th><th>Information</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/image.png" alt=""></td><td></td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (3).png" alt=""></td><td></td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (2).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (1).png" alt=""></td><td></td><td></td></tr></tbody></table>
