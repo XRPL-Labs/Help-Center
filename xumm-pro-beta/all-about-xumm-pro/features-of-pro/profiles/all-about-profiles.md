@@ -36,7 +36,7 @@ or if your name is Daniel Jackson, your Profile page could be:
 
 <mark style="color:blue;">xumm.me/danieljackson</mark>
 
-The idea is that your Profile page matches you actual identity.
+The idea is that your Profile page matches your actual identity.
 
 ### What is my Paystring?
 
@@ -51,6 +51,16 @@ kevin$xumm.me
 If you wanted to send XRP to Kevin account, you could always enter his r-address: **rUBvs5S....**
 
 but many people have trouble remembering r-addresses. It is much easier to send the XRP to: **kevin$xumm.me**&#x20;
+
+### How can people find my PayString?
+
+Since all Xumm Profile pages start with: **xumm.me/**\<yourname> you could simply tell people how to find your page, or, since all PayStrings end with: \<yourname>**$xumm.me** your could simply tell them your PayString but we have taken it one step further.
+
+In Xumm, you can actually search for people's PayString directly from the Send flow. In this case, we search for "kevin" and Xumm will display the results for you to choose.
+
+<figure><img src="../../../../.gitbook/assets/Profiles - Search.png" alt=""><figcaption></figcaption></figure>
+
+It is almost like a phone book, you can look up someone's r-address just by knowing their name!  🎉🎉
 
 
 
