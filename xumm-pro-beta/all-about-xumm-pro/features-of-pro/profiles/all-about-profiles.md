@@ -64,24 +64,8 @@ It is just like a phone book, you can look up someone's r-address just by knowin
 
 
 
-
-
-###
-
-****
-
-****
-
-**Additional reading**
-
-If you are interested in learning more about the new features in Xumm v2.3, check out this article:
-
-* [Xumm v2.3.0 - Release Notes](https://support.xumm.app/hc/en-us/articles/5569334061330)
-
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/5000139234962/Support\_banner\_-Xumm.png](https://support.xumm.app/hc/article\_attachments/5000139234962/Support\_banner\_-Xumm.png)
-
-Support\_banner\_-Xumm.png
+<figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
