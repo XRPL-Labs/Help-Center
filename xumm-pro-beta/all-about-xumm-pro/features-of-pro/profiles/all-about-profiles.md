@@ -18,7 +18,7 @@ There are a couple of reasons you might want to do this.
 
 * The XRP Ledger community is made up of people from all over the world. In most societies, people prefer to know who they are dealing with when it comes to matters of finance and financial payments. Creating a public profile is a good way add **trust** between Xumm users.
 * As governments around the world move closer towards regulating public blockchains, creating a verified public profile is a safe and secure way to add **transparency** to the XRPL and stay ahead of the coming regulations.
-* It is a pretty cool way to represent yourself and it allows you to control your imagine in the XRPL community. You get your own personal page on the internet which provides an easy way for people to send you funds. As well, future updates to Profiles will also include "Xumm badges" for achievements such as Contributor, Validator, Beta Tester, Supporter and many more..
+* It is a pretty cool way to represent yourself and it allows you to control your image in the XRPL community. You get your own personal page on the internet which provides an easy way for people to send you funds. As well, future updates to Profiles will also include "Xumm badges" for achievements such as Contributor, Validator, Beta Tester, Supporter and many more..
 
 ### **How do I access my Profile page?**
 
@@ -42,7 +42,7 @@ The idea is that your Profile page matches your actual identity.
 
 Your PayString address is an easy way for people to send you funds on the XRP Ledger.
 
-In Kevin's case, his Paystring is:
+In Kevin's case, his PayString is:
 
 kevin$xumm.me
 
