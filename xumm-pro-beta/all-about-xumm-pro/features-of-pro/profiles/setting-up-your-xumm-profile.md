@@ -29,7 +29,7 @@ Next, press the **Accounts** button then decide which account(s) you would like 
 
 <figure><img src="../../../../.gitbook/assets/Accounts button in Pro.png" alt=""><figcaption></figcaption></figure>
 
-Once have completed the process, the next step is to press the **Create Profile** button...
+Once you have completed the process, the next step is to press the **Create Profile** button...
 
 <figure><img src="../../../../.gitbook/assets/Create Profile button (1).png" alt=""><figcaption></figcaption></figure>
 
