@@ -24,7 +24,7 @@ Due to their complexity, r-addresses can be difficult to remember. PayString sol
 
 Currently, only the XRP Ledger supports the PayString protocol.
 
-### How does the Paystring ID work in Xumm?
+### How does PayString work in Xumm?
 
 PayString is part of the Profiles feature in Xumm Pro.
 
