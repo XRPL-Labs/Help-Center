@@ -6,9 +6,9 @@ description: How to configure your Xumm profile
 
 ### Before you get started...
 
-This article will walk you through the steps to create your Xumm Profile and public Paystring link.
+This article will walk you through the steps to create your Xumm Profile and public PayString link.
 
-It assumes that you have already reviewed both of these articles and understand what Xumm Profiles and Paystring are all about.&#x20;
+It assumes that you have already reviewed both of these articles and understand what Xumm Profiles and PayString are all about.&#x20;
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">All about Profiles</td><td></td><td></td><td><a href="../../../../.gitbook/assets/van gogh notebook.png">van gogh notebook.png</a></td><td><a href="all-about-profiles.md">all-about-profiles.md</a></td></tr><tr><td align="center">What is PayString?</td><td></td><td></td><td><a href="../../../../.gitbook/assets/van gogh blockchain.png">van gogh blockchain.png</a></td><td><a href="what-is-paystring.md">what-is-paystring.md</a></td></tr></tbody></table>
 
