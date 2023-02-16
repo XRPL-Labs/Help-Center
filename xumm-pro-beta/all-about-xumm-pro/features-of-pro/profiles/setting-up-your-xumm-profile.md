@@ -23,7 +23,7 @@ Here is how to do this:
 
 On the main page of Xumm Pro, press the _**Open KYC xApp**_ button and complete the KYC process.&#x20;
 
-\<Enter main Xumm Pro imagine here>
+<figure><img src="../../../../.gitbook/assets/Pro - Main page -1.png" alt=""><figcaption></figcaption></figure>
 
 Next, press the **Accounts** button then decide which account(s) you would like to link to your public profile and press the **Edit** button.
 
