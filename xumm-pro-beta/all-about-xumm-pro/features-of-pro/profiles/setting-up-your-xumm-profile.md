@@ -39,7 +39,7 @@ then you can create your Profile.
 
 
 
-<table><thead><tr><th>Option</th><th>Information</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/image (13).png" alt=""></td><td>Enter your full name as it appears on your KYC document. (See section below for more information)</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (3).png" alt=""></td><td>Here you can upload a picture of yourself. We recommend a picture of 128 by 128 pixels.</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (2).png" alt="" data-size="original"></td><td>Here you can add additional information about yourself to your profile page in this space. (To a maximum of 255 characters.)</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (1).png" alt=""></td><td>You can choose any Paystring you like as long as it contains a least 4 characters. (Numbers, letters, capitals and special characters are all accepted.)</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (4).png" alt=""></td><td>You can select any of your XRP Ledger accounts that are linked to Xumm Pro. Use the <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line">to display a list of accounts to choose from.</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (14).png" alt=""></td><td>In order to access your <mark style="color:blue;">xumm.me</mark> profile page, this option must be enabled, otherwise your page will not be displayed on the internet.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Option</th><th>Information</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/image (13).png" alt=""></td><td>Enter your full name as it appears on your KYC document. (See section below for more information)</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (3).png" alt=""></td><td>Here you can upload a picture of yourself. We recommend a picture of 128 by 128 pixels.</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (2).png" alt="" data-size="original"></td><td>Here you can add additional information about yourself to your profile page in this space. (To a maximum of 255 characters.)</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (1).png" alt=""></td><td>You can choose any Paystring you like as long as it contains a least 4 characters. (Numbers, letters, capitals and special characters are all accepted.)</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (4).png" alt=""></td><td>You can select any of your XRP Ledger accounts that are linked to Xumm Pro. Use the <img src="../../../../.gitbook/assets/image (5).png" alt="" data-size="line">to display a list of accounts to choose from.</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/image (14).png" alt=""></td><td>In order to access your <mark style="color:blue;">xumm.me</mark> profile page, this option must be enabled, otherwise your page will not be displayed on the internet.</td><td></td></tr></tbody></table>
 
 After you have completed entering your Profile and PayString information, press the **Finish** button to complete the process. You should see this screen:
 
@@ -51,11 +51,23 @@ Press the **Go back** button to get back to the main screen of Xumm Pro.
 
 After you enter your name in the **Setup you profile** page,
 
-![](<../../../../.gitbook/assets/image (5).png>)
+![](../../../../.gitbook/assets/image.png)
 
-Xumm will compare it to the KYC document that you submitted during the KYC process. While the name that you choose does not need to match the KYC document exactly, it needs to be very close, otherwise you will receive this message:
+Xumm will compare it to the KYC document that you submitted during the KYC process. While the name that you choose does not need to match the KYC document exactly, it does need to be very close, otherwise you will receive this message:
 
 <figure><img src="../../../../.gitbook/assets/Request an exception.png" alt=""><figcaption></figcaption></figure>
 
-Remember, the point of Profiles is to create an honest identity for yourself. One that can b
+Remember, the point of Profiles is to create an **honest identity** for yourself. One that can be **trusted** by others in the XRPL community.&#x20;
+
+If you name is: <mark style="color:blue;">John Smith</mark>
+
+but you enter the name: <mark style="color:red;">Elon Musk</mark>
+
+Xumm will reject this since the entered name is not reflected on your KYC document.
+
+In this example, Xumm would accept slight variations of you name such as: <mark style="color:blue;">JSmith</mark>, <mark style="color:blue;">JohnS</mark> or <mark style="color:blue;">Johnny Smith</mark>
+
+
+
+&#x20;
 
