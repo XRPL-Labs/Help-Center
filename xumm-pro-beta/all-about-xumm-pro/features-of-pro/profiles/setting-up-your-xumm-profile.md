@@ -47,6 +47,8 @@ After you have completed entering your Profile and PayString information, press 
 
 Press the **Go back** button to get back to the main screen of Xumm Pro.
 
+\-----------------------------------------------------------------------------------------------------
+
 ### Understanding how your Profile name works
 
 After you enter your name in the **Setup you profile** page,
