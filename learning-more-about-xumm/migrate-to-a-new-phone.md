@@ -9,9 +9,9 @@ coverY: 0
 
 ### Three things to get you started...
 
-Congratulations! Getting a new phone can be exciting, but before you get started migrating everything over from your old phone, here are a couple of suggestions to make the process a little bit smoother...
+Congratulations! Getting a new phone can be exciting, but before you get started migrating everything over from your old phone, here are a couple of suggestions to make the process a little smoother...
 
-* &#x20;Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
+* Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
 * Ensure that you have your account secret(s) (secret numbers, family seed(s), mnemonic(s)) for all of your XRP Ledger accounts&#x20;
 * In you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the Xumm Support xApp.
 
