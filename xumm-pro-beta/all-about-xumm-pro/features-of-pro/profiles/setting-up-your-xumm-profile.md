@@ -92,7 +92,7 @@ After you upload your picture in the **Setup you profile** page,
 
 Xumm will compare it to the KYC document that you submitted during the KYC process. The image that you upload should be a picture of you, otherwise you will receive this message:
 
-\<Enter error message here>
+<figure><img src="../../../../.gitbook/assets/Profile Picture - Error-1.png" alt=""><figcaption></figcaption></figure>
 
 Remember, the point of Profiles is to create an **honest identity** for yourself. One that can be **trusted** by others in the XRPL community.&#x20;
 
