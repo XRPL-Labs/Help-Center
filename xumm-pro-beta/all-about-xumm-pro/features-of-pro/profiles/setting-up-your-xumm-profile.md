@@ -17,7 +17,7 @@ If you have not had a chance to check them out, please do so before continuing.&
 There are two steps that you need to do before you can create your Xumm profile:
 
 * Go through the **KYC process**
-* Choose which **accounts** you would like to add to your profile
+* Ensure one or more **accounts** are linked to Xumm Pro and ensure at least one of them is public
 
 Here is how to do this:
 

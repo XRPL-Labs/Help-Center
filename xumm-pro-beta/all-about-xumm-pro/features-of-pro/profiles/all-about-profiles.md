@@ -48,9 +48,11 @@ kevin$xumm.me
 
 <figure><img src="../../../../.gitbook/assets/Profiles - Kevin.png" alt=""><figcaption></figcaption></figure>
 
-If you wanted to send XRP to Kevin account, you could always enter his r-address: **rUBvs5S....**
+If you wanted to send XRP to Kevin's account, you could always enter his r-address: **rUBvs5S....**
 
 but many people have trouble remembering r-addresses. It is much easier to send the XRP to: **kevin$xumm.me**&#x20;
+
+Paystring is like a phone book that links an r-address to an easy-to-remember&#x20;
 
 ### How can people find my PayString?
 
