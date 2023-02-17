@@ -12,12 +12,12 @@ coverY: 0
 Congratulations! Getting a new phone can be exciting, but before you get started migrating everything over from your old phone, here are a couple of suggestions to make the process a little smoother...
 
 * Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
-* Ensure that you have your account secret(s) (secret numbers, family seed(s), mnemonic(s)) for all of your XRP Ledger accounts&#x20;
-* In you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the Xumm Support xApp.
+* Ensure that you have the account secret (Secret numbers, Family seed, Mnemonic) for your XRP Ledger account.&#x20;
+* If you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the [Xumm Support xApp](https://xumm.app/detect/xapp:xumm.support).
 
 ### Configuring Xumm on your new phone
 
-The first thing you need to know about getting Xumm working on your new device is that **you can not restore or copy** Xumm from one device to another. Xumm needs to be **installed fresh** on your new phone and your account secret(s) will need to be imported in Xumm in order to access your XRP Ledger account(s).
+The first thing you need to know about getting Xumm working on your new device is that **you can not restore or copy** Xumm from one device to another. Xumm needs to be **installed fresh** on your new phone and your account secret(s) will need to be imported into Xumm in order to access your XRP Ledger account(s).
 
 To install Xumm on your new phone, you can download it from 1 of 2 places:
 
