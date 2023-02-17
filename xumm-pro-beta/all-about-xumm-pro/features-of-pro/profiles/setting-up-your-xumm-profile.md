@@ -29,6 +29,10 @@ Next, press the **Accounts** button then decide which account(s) you would like 
 
 <figure><img src="../../../../.gitbook/assets/Accounts button in Pro.png" alt=""><figcaption></figcaption></figure>
 
+Enabling the **Show on Profile** option will make the account publicly viewable on your Profile page.
+
+<figure><img src="../../../../.gitbook/assets/Profiles - Accounting Settings (1).png" alt=""><figcaption></figcaption></figure>
+
 Once you have completed the process, the next step is to press the **Create Profile** button...
 
 <figure><img src="../../../../.gitbook/assets/Create Profile button (1).png" alt=""><figcaption></figcaption></figure>
