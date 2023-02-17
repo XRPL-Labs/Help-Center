@@ -51,44 +51,33 @@ After you have completed entering your Profile and PayString information, press 
 
 Press the **Go back** button to get back to the main screen of Xumm Pro.
 
-\-----------------------------------------------------------------------------------------------------
 
-### Understanding how your Profile name works
+
+### Additional Information
+
+#### Understanding how your Profile name works
 
 After you enter your name in the **Setup you profile** page,
 
 ![](<../../../../.gitbook/assets/image (3).png>)
 
-Xumm will compare it to the KYC document that you submitted during the KYC process. While the name that you choose does not need to match the KYC document exactly, it does need to be very close, otherwise you will receive this message:
+Xumm will compare it to the KYC document that you submitted during the KYC process. While the name that you choose does not need to match the KYC document exactly, it should be very close, otherwise you will receive this message:
 
 <figure><img src="../../../../.gitbook/assets/Request an exception.png" alt=""><figcaption></figcaption></figure>
 
 Remember, the point of Profiles is to create an **honest identity** for yourself. One that can be **trusted** by others in the XRPL community.&#x20;
 
-If your name is: <mark style="color:blue;">John Smith</mark>
+Here is an example of how to choose your name.
 
-but you enter the name: <mark style="color:red;">Elon Musk</mark>
+If your name is <mark style="color:blue;">John Smith</mark> but you enter the name: <mark style="color:red;">Elon Musk</mark> Xumm will reject this since the entered name you entered is not reflected on your KYC document.
 
-Xumm will reject this since the entered name is not reflected on your KYC document.
+Xumm would accept slight variations of you name such as: <mark style="color:blue;">JSmith</mark>, <mark style="color:blue;">JohnS</mark> or <mark style="color:blue;">Johnny Smith</mark>
 
-In this example, Xumm would accept slight variations of you name such as: <mark style="color:blue;">JSmith</mark>, <mark style="color:blue;">JohnS</mark> or <mark style="color:blue;">Johnny Smith</mark>
-
-### Requesting an exception
-
-We appreciate that in some rare cases, you might have a legitimate reason why you would not use your legal name.
-
-For example, &#x20;
-
-\<enter example here>\
-\
-and&#x20;
-
-\<enter a second example here>\
-
+If you are receiving a message saying that you name does not match your legal document, try a couple of variations of your name or request an exception along with an explanation as to why you think you should receive an exception.
 
 Exceptions will be considered on a case by case basis.
 
-### Understanding how your Profile picture works
+#### Understanding how your Profile picture works
 
 After you upload your picture in the **Setup you profile** page,
 
@@ -98,20 +87,9 @@ Xumm will compare it to the KYC document that you submitted during the KYC proce
 
 <figure><img src="../../../../.gitbook/assets/Profile Picture - Error-1.png" alt=""><figcaption></figcaption></figure>
 
-Remember, the point of Profiles is to create an **honest identity** for yourself. One that can be **trusted** by others in the XRPL community.&#x20;
-
-### Requesting an exception
-
-We appreciate that in some rare cases, you might have a legitimate reason why you would not use an actual picture of you.
-
-For example, &#x20;
-
-\<enter example here>\
-\
-and&#x20;
-
-\<enter a second example here>\
-
+Remember, the point of Profiles is to create an **honest identity** for yourself. One that can be **trusted** by others in the XRPL community. If you still receive the above message after trying a couple of variations of your picture, try submitting an exception request with an explanation as to why you think you should receive an exception.
 
 Exceptions will be considered on a case by case basis.
+
+###
 
