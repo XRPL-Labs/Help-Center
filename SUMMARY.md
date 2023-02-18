@@ -40,6 +40,7 @@
 * [🪙 Supported tokens](learning-more-about-xumm/supported-tokens.md)
 * [How to take a screenshot](learning-more-about-xumm/how-to-take-a-screenshot.md)
 * [Adding an Icon/Logo to a Trust Line in Xumm](learning-more-about-xumm/adding-an-icon-logo-to-a-trust-line-in-xumm.md)
+* [Cashing out your XRP](learning-more-about-xumm/cashing-out-your-xrp.md)
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
 * [📺 Destination tags](learning-more-about-xumm/destination-tags.md)
