@@ -16,11 +16,18 @@ If you are not located in the Netherlands or the UK, we have partnered with two 
 
 | Exchange                                | Link                                                                           | Article             |
 | --------------------------------------- | ------------------------------------------------------------------------------ | ------------------- |
-| ![](../.gitbook/assets/image.png)       | ****[**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)****         | All About Banxa     |
+| ![](<../.gitbook/assets/image (2).png>) | ****[**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)****         | All About Banxa     |
 | ![](<../.gitbook/assets/image (5).png>) | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
 |                                         |                                                                                |                     |
 
-Combined, both Banxa and BTCDirect offer exchange services to most countries in the world. We plan to partner will other exchanges in the future to expand and improve our coverage along with extending our our services.
+Combined, both Banxa and BTCDirect offer exchange services to most countries in the world. You can find both of them in Xumm by pressing the <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> then selecting the **Buy/Sell XRP** xApp. (Or just click here:
+
+![https://xumm.app/detect/xapp:xumm.buysellxrp](../.gitbook/assets/image.png)
+
+[https://xumm.app/detect/xapp:xumm.buysellxrp\
+](https://xumm.app/detect/xapp:xumm.buysellxrp)
+
+We plan to partner will other exchanges in the future to expand and improve our coverage along with extending our our services.
 
 ### What about other crypto exchanges?
 
