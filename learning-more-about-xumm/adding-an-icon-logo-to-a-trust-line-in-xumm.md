@@ -20,17 +20,19 @@ When we talk about the Trust Line icons in Xumm, we are talking about the little
 
 <figure><img src="../.gitbook/assets/Icon-Logos.png" alt=""><figcaption></figcaption></figure>
 
-Xumm fetches all token information from the [**xrplmeta.org**](http://xrplmeta.org) project ([https://xrplmeta.org](https://xrplmeta.org)) and filters on only tokens where [**xrplmeta.org**](http://xrplmeta.org) indicates “trust level 1”.
+Xumm fetches all token information (including icons/logos) from the [**xrplmeta.org**](http://xrplmeta.org) project.
 
-If you have any questions about the instructions, please contact [xrplmeta.org](http://xrplmeta.org) at:
+You can find the setup instructions here: [**xrplmeta.org**](http://xrplmeta.org)&#x20;
+
+If you need assistance with the instructions, xrplmeta.org can be reached here:
 
 [https://twitter.com/xrplmeta](https://twitter.com/xrplmeta)
 
 ### **What exactly are the requirements to get an icon/logo added in Xumm?**
 
-[Xrplmeta.org](http://xrplmeta.org) is an external data feed Xumm references for token attributes.
+[Xrplmeta.org](http://xrplmeta.org) is an external data feed that Xumm references for token attributes.
 
-**In addition** to being added to [Xrplmeta.org](http://xrplmeta.org), your project must also feature these traits as reflected by the data we retrieve from [**xrplmeta.org**](http://xrplmeta.org):
+Your project must also feature these traits as reflected by the data we retrieve from them.
 
 * At least _“trust level 1”_ on [**xrplmeta.org**](http://xrplmeta.org)
 * Token name
@@ -65,6 +67,6 @@ We only digest the _**first**_ occurrence automatically. If you change the icon 
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
