@@ -43,31 +43,15 @@ If you need assistance on how to do this, select one of these three articles for
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md">...with-a-mnemonic.md</a></td></tr></tbody></table>
 
-
-
 ### Why did you ask me to keep my old phone?
 
-&#x20;
+We have seen cases where people have forgotten their account secret or recorded their account secret incorrectly. Your old phone should still be able to access your XRP Ledger account(s) in case you run into any trouble configuring your new phone. Once you are able to access and sign transactions on your new device, you can uninstall Xumm from your old device.&#x20;
 
 ### Why can't I restore Xumm from backup?
 
-The first thing to know is that you can not&#x20;
+If Xumm were to store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.&#x20;
 
-For security reasons, Xumm does not store accounts / account secrets in your Google / Apple iCloud backups. If Xumm would store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
-
-{% hint style="info" %}
-This means restoring Xumm from backup will not work. The app needs to re-installed from the play store.
-{% endhint %}
-
-So: even when moving all data of your phone or restoring a backup, you'll have to [re-import your accounts with their secrets again using the procedure in this article](https://support.xumm.app/hc/en-us/articles/360019307399).
-
-This is why it's really important to keep your secrets stored offline in a secure place, but ready for use.&#x20;
-
-{% hint style="warning" %}
-Accounts will then need to be imported using the credentials (seed/secret/mnemonic) on your new phone. \
-\
-You **must still have access** to your existing account secrets: a family seed (s....), mnemonic (words) or 'Secret Numbers', the format Xumm generates.
-{% endhint %}
+This is why it's really important to keep your account secret stored offline, in a secure place.
 
 ## Special cases
 
