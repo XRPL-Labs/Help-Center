@@ -22,9 +22,9 @@ If you are not located in the Netherlands or the UK, we have partnered with two 
 
 Combined, both Banxa and BTCDirect offer exchange services to most countries in the world. We plan to partner will other exchanges in the future to expand and improve our coverage along with extending our our services.
 
-&#x20;but you can also to other regions but There are several crypto exchanges which deal in XRP.
+### What about other crypto exchanges?
 
-Some of the bigger players in the crypto exchange space include:
+There are several exchanges in the blockchain space who you can use to convert XRP into fiat. Some of the bigger players include:
 
 * Gatehub ([https://gatehub.net](https://gatehub.net/))
 * Bitstamp ([https://bitstamp.net](https://bitstamp.net/))
