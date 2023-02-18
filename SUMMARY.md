@@ -42,6 +42,7 @@
 * [Adding an Icon/Logo to a Trust Line in Xumm](learning-more-about-xumm/adding-an-icon-logo-to-a-trust-line-in-xumm.md)
 * [Cashing out your XRP](learning-more-about-xumm/cashing-out-your-xrp.md)
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
+* [Page 1](learning-more-about-xumm/page-1.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
 * [📺 Destination tags](learning-more-about-xumm/destination-tags.md)
 * [Gatehub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)

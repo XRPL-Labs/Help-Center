@@ -14,11 +14,11 @@ If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp ser
 
 If you are not located in the Netherlands or the UK, we have partnered with two crypto exchanges which should be able to meet your needs.
 
-| Exchange                                | Link           | Article |
-| --------------------------------------- | -------------- | ------- |
-| ![](../.gitbook/assets/image.png)       | Banxa xApp     |         |
-| ![](<../.gitbook/assets/image (5).png>) | BTCDirect xApp |         |
-|                                         |                |         |
+| Exchange                                | Link                                                                           | Article             |
+| --------------------------------------- | ------------------------------------------------------------------------------ | ------------------- |
+| ![](../.gitbook/assets/image.png)       | ****[**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)****         | All About Banxa     |
+| ![](<../.gitbook/assets/image (5).png>) | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
+|                                         |                                                                                |                     |
 
 There are several crypto exchanges which deal in XRP.
 
