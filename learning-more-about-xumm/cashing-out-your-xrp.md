@@ -20,7 +20,9 @@ If you are not located in the Netherlands or the UK, we have partnered with two 
 | ![](<../.gitbook/assets/image (5).png>) | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
 |                                         |                                                                                |                     |
 
-There are several crypto exchanges which deal in XRP.
+Combined, both Banxa and BTCDirect offer exchange services to most countries in the world. We plan to partner will other exchanges in the future to expand and improve our coverage along with extending our our services.
+
+&#x20;but you can also to other regions but There are several crypto exchanges which deal in XRP.
 
 Some of the bigger players in the crypto exchange space include:
 
