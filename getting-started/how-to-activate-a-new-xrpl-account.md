@@ -22,9 +22,9 @@ For most people, this fast, convenient and secure service will more than meet th
 
 ### **Option 2**
 
-If you are not located in the Netherlands or the UK, we have partnered with two crypto exchanges where you can purchase XRP and activate your account.
+If you are not located in the Netherlands or the UK, we have partnered with two crypto exchanges where you can purchase XRP to activate your account.
 
-| Exchange                                | Link                                                                           | Article             |
+| Exchange                                | Link to xApp                                                                   | Article             |
 | --------------------------------------- | ------------------------------------------------------------------------------ | ------------------- |
 | ![](<../.gitbook/assets/image (2).png>) | ****[**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)****         | All About Banxa     |
 | ![](<../.gitbook/assets/image (5).png>) | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
@@ -34,15 +34,13 @@ Combined, both Banxa and BTCDirect offer exchange services to most countries in 
 
 <mark style="color:blue;">****</mark>[<mark style="color:blue;">**Buy/Sell XRP xApp**</mark>](https://xumm.app/detect/xapp:xumm.buysellxrp)<mark style="color:blue;">****</mark>
 
+### Option 3
 
-
-### What about other crypto exchanges?
-
-There are several exchanges in the blockchain space where you can convert XRP into fiat. Some of the bigger players include:
+There are several crypto exchanges in the blockchain space where you can purchase XRP using fiat. Some of the bigger players include:
 
 Every account on the XRP Ledger needs to be
 
-| Icon                                                                             | Exchange                                                                                        | Link                               |
+| Icon                                                                             | How to transfer XRP from:                                                                       | Link to open exchange website      |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------- |
 | ![](../.gitbook/assets/wirex.png)                                                | ****[**Wirex**](../getting-started-with-xumm/activating-an-account/from-wirex.md)****           | [Open](https://www.binance.com/en) |
 | <img src="../.gitbook/assets/image (1) (1) (1) (2).png" alt="" data-size="line"> | ****[**Uphold**](../getting-started-with-xumm/activating-an-account/from-uphold.md)****         | [Open](https://uphold.com/)        |
@@ -52,5 +50,17 @@ Every account on the XRP Ledger needs to be
 | ![](<../.gitbook/assets/image (1) (1) (1).png>)                                  | ****[**Bitstamp**](../getting-started-with-xumm/activating-an-account/from-bitstamp.md)****     | [Open](https://www.bitstamp.net/)  |
 | <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line">        | ****[**Binance**](../getting-started-with-xumm/activating-an-account/from-binance.md)****       | [Open](https://www.binance.com/en) |
 
+**Please** make sure that you **thoroughly research** the crypto exchange that you decide to purchase from. Each exchange has their own rules and fee structures that you should fully understand before signing up. As well, just because we provided a list of exchanges, it does not mean that we support or endorse any of them in any way. It is entirely up to you to decide which crypto exchange you use.
 
+{% hint style="warning" %}
+If you decide to go with one of the exchanges above, we have provided instructions on how to transfer XRP from them to your XRPL account.
+{% endhint %}
+
+
+
+
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
