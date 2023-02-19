@@ -20,17 +20,13 @@ Unfortunately, some unscrupulous people have discovered these two features and c
 
 ### **How it works**
 
-The amount of spam on the XRP Ledger has increased over the last couple of years. The goal of the spammers is to get your assets and they stop at nothing to get your XRP.
-
-They have figured out that they can combine the low fees of the XRPL with the Memo field to send low value transactions to a large number of accounts.
+Some people have figured out that they can combine the low fees of the XRPL with the Memo field to send low value transactions to a large number of accounts.
 
 By doing this, they can get their “message” out to thousands of people at a very low cost.
 
 ### **Why do token issuers send spam?**
 
-It is simply a marketing ploy to get you to participate in their scam project.
-
-While it is up to you to decide, we feel that any project that distributes mass transactions in order to market their token is not worthy of our time, energy and shouldn’t be allowed to use Xumm and take advantage of the servers and network capabilities we provide to the XRP Ledger network.
+It is simply a marketing ploy to get you to participate in their project. People who send unsolicited transactions on the XRPL are trying to get you to buy their token or their NFT, or whatever it is that they are promoting. Legitimate projects do not send unsolicited transactions across public networks.
 
 ### **What can I do about spam on the XRPL?**
 
@@ -48,9 +44,9 @@ Nobody can delete a transaction from the XRP Ledger or from Xumm. If it exists o
 
 No. It costs the sender to send them. The sender pays the XRPL transaction fees, not you.
 
-### **Should I return the XRP to them?**
+### **Should I return the tokens to them?**
 
-That is completely up to you. These spammers **want** to get some sort of reply from you. That way they know you are reading their messages. Once you reply, they will most likely send you **targeted** messages and perhaps even try to convince you to purchase their token or get you to send them your private keys.
+That is completely up to you. These spammers **want** to get some sort of reply from you. That way they know you are reading their messages. Once you reply, they will most likely send you **targeted** messages and perhaps even try to convince you to purchase their token or get you to send them your private keys. There is no telling what their intentions are.
 
 ### **If I return it will I be charged a transaction fee?**
 
@@ -58,32 +54,32 @@ Yes. The XRPL automatically charges transaction fees in order to process transac
 
 ### **Can they access my account in any way?**
 
-No. The only way someone can access your XRPL account is if you give them your account secret. (Secret Numbers/ Family Seed / Mnemonic) See this article for more information:
+Absolutely not. No one can access you XRPL account unless they know your account secret. (Secret numbers / Family seed / Mnemonic) As long as you keep your account secret safe and secure, your funds are safe. The only way someone can access your XRPL account is if you give them your account secret. See this article for more information:
 
 * [How secure is Xumm?](https://support.xumm.app/hc/en-us/articles/4427109779986)
 
-### **I clicked on the memo in a transaction. Am I in any danger??**
+### **I clicked on the memo in a transaction. Am I in any danger?**
 
-No. The only way someone can access your XRPL account is if they get access to your account secret. (Secret Numbers/ Family Seed / Mnemonic) See this article for more information:
+No. Reviewing a transaction on the XRPL is not dangerous. The only way someone can access your XRPL account is if they get access to your account secret. See this article for more information:
 
 * [How secure is Xumm?](https://support.xumm.app/hc/en-us/articles/4427109779986)
 
 ### **How did they get my r-address? I’ve been very careful who I’ve interacted with in the XRP community…**
 
-A token issuer does not need to get r-addresses by scraping the XRPL, they can simply get them straight from the ledger and filter on balance and/or tokens held. In fact, anyone can do this. (Remember, the XRPL is an open, decentralized and permissionless blockchain..) There’s no preventing this from happening so all addresses can potentially be spammed.
+Since the XRP Ledger is a public blockchain, there are many ways to get a list of random r-addresses. If you have created a Trust Line or sent funds to/from a crypto exchange, or participated in an airdrop, your r-address can be filtered and obtained.
+
+There’s currently no way of preventing this from happening so all addresses can potentially be spammed.
 
 ### **How does Xumm handle spam?**
 
-Xumm is constantly searching the XRP Ledger for accounts which send multiple spam transactions. When we find them, the account is immediately flagged, the memo field is suppressed and a notification is added to the flagged transactions.
+We have numerous ways of identifying spam including searching the XRP Ledger for token issuers who send multiple transactions with memos. When we find accounts that appear to be sending spam, we analyse the history of the account, immediately suppress the memo field and add a notification indicating the transaction may be dangerous. As well, for our [**Xumm Pro**](https://support.xumm.app/hc/en-us/articles/6138022550418) users, the push notifications are suppressed so you are not notified when the spam transactions arrive in your account.
 
-As well, for our [**Xumm Pro**](https://support.xumm.app/hc/en-us/articles/6138022550418) users, the push notifications are suppressed so you are not notified when the spam transactions arrive in your account.
+### **Is Xumm working on some way to fix this?**
 
-### **But you’re Xumm, you must be working on some way to fix this…**
-
-You are 100% correct! Spam is an abuse of the XRPL and is not acceptable so here is a sneak peek of what we are working on…
+We certainly are! Here is a sneak peek of what we are working on…
 
 * We are considering a proposal to amend the XRPL. If transactions with long memos were subjected to escalating fees, it would make it more far more expensive for people to spam the network. It could still be done, but the amendment would make it prohibitively expensive.
-* We have been developing a project that we call **Hooks**. (Hooks are basically smart contracts on the XRPL.) If Hooks makes it to the XRPL (via an amendment), people will be able to install a “hook” that would filter out spam transactions. Think of it like a firewall that woud block “shady” or questionable transactions.
+* We have been developing a project that we call **Hooks**. (Hooks are basically smart contracts on the XRPL.) If Hooks makes it to the XRPL (via an amendment), people will be able to install a “hook” that would filter out spam transactions. Think of it like a firewall that would block “shady” or questionable transactions.
 
 **Notes**
 
