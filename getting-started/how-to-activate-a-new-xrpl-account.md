@@ -4,13 +4,13 @@ description: How to activate a new XRP Ledger account
 
 # Activating an account
 
-In order to be able to hold XRP (or any of the 8300+ tokens issued on the XRP Ledger) in an XRPL account, it must first be activated with a minimum of 10 XRP. The first 10 XRP deposited into an XRPL account is used to meet the reserve requirements &#x20;
+In order to be able to hold XRP (or any of the 8300+ tokens issued on the XRP Ledger) in an XRPL account, it must first be activated with a minimum of 10 XRP. An account can be activated many different ways but regardless of how it is activated, the first 10 XRP deposited into an XRPL account is used to meet the reserve requirements so it will not be spendable.
 
-This video explains how reserves and fees on the XRP Ledger work.
+If you're interested, this video explains how reserves and fees on the XRP Ledger work.
 
 {% embed url="https://www.youtube.com/watch?t=50s&v=7E52W4dKmBE" %}
 
-There are many way to activate an XRPL account.
+Here are four ways you can activate an XRP Ledger account:
 
 ### Option 1&#x20;
 
