@@ -56,7 +56,15 @@ Every account on the XRP Ledger needs to be
 If you decide to go with one of the exchanges above, we have provided instructions on how to transfer XRP from them to your XRPL account.
 {% endhint %}
 
+### Option 4
 
+You can activate an XRPL account by sending 10 XRP from **another** XRPL account to it.
+
+For example, if you have a friend, family member, co-worker, etc. who have an activated account, you can have them activate your account by having them send 10 XRP to it.
+
+Here is how to send XRP using Xumm:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Sending XRP using Xumm</td><td></td><td></td><td><a href="../getting-started-with-xumm/sending-tokens-to-xumm.md">sending-tokens-to-xumm.md</a></td><td><a href="../.gitbook/assets/store  van gogh style.png">store  van gogh style.png</a></td></tr></tbody></table>
 
 
 
