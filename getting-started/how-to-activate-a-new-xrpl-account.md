@@ -4,7 +4,7 @@ description: How to activate a new XRP Ledger account
 
 # Activating an account
 
-In order to be able to hold XRP (or any of the 8300+ tokens issued on the XRP Ledger) in an XRPL account, it must first be activated with a minimum of 10 XRP. An account can be activated many different ways but regardless of how it is activated, the first 10 XRP deposited into an XRPL account is used to meet the reserve requirements so it will not be spendable.
+In order to be able to hold XRP (or any of the 8300+ tokens issued on the XRP Ledger) in an XRPL account, it must first be activated with a minimum of 10 XRP. An account can be activated several ways but regardless of how it is activated, the first 10 XRP deposited into an XRPL account is used to meet the reserve requirements so it will not be spendable.
 
 If you're interested, this video explains how reserves and fees on the XRP Ledger work.
 
@@ -38,7 +38,7 @@ Combined, both Banxa and BTCDirect offer exchange services to most countries in 
 
 There are several crypto exchanges in the blockchain space where you can purchase XRP using fiat. Some of the bigger players include:
 
-Every account on the XRP Ledger needs to be
+
 
 | Icon                                                                             | How to transfer XRP from:                                                                       | Link to open exchange website      |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------- |
