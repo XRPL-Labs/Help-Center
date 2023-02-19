@@ -24,14 +24,12 @@ Enter in your current passcode, then enter in your new passcode.  You have 1 mil
 
 In a case where your passcode is no longer working, you are going to need to uninstall Xumm, then [<mark style="color:blue;">**reinstall Xumm**</mark>](../getting-started-with-xumm/installing-xumm.md) and [<mark style="color:blue;">**re-import your account**</mark> ](../getting-started/importing-your-existing-xrpl-account.md)using your account secret.&#x20;
 
-#### **I lost my 6 digit code and I need to create a new one**
+### **I lost my 6 digit code and I need to create a new one**
 
-In a case where you have lost your passcode, the solution is the same as if your passcode is not working. Uninstall Xumm, then reinstall Xumm and reimport your account using your account secret.  This article explains:
+In a case where you have lost your passcode, the solution is the same as if your passcode is not working. Uninstall Xumm, then [<mark style="color:blue;">**reinstall Xumm**</mark>](../getting-started-with-xumm/installing-xumm.md) and [<mark style="color:blue;">**re-import your account**</mark> ](../getting-started/importing-your-existing-xrpl-account.md)using your account secret.&#x20;
 
-[How to import an XRP Ledger account using the account secret](https://support.xumm.app/hc/en-us/articles/360019307399)
+**Notes**
 
-#### **Summary**
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-As mentioned earlier in this article, there are 1 million different combinations to choose from when deciding on a passcode (000,000 to 999,999). Your passcode is required to open Xumm, which of course means that, to be abused, someone would first need to obtain access to your phone, and unlock your phone.
-
-This is one of the primary security measures for protecting your funds so do not choose, 123456, 000000, 11111 or something similar. Your passcode should be difficult to guess in the event that you phone is ever stolen.
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
