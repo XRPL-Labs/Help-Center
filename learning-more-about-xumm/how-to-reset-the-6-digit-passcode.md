@@ -22,9 +22,7 @@ Enter in your current passcode, then enter in your new passcode.  You have 1 mil
 
 ### **My 6 digit passcode code is not working**
 
-In a case where your passcode is no longer working, you are going to need to uninstall Xumm, then reinstall Xumm and re-import your account using your account secret. This article explains:
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to import your account</td><td></td><td></td><td><a href="../getting-started/importing-your-existing-xrpl-account.md">importing-your-existing-xrpl-account.md</a></td><td><a href="../.gitbook/assets/van gogh blockchain.png">van gogh blockchain.png</a></td></tr></tbody></table>
+In a case where your passcode is no longer working, you are going to need to uninstall Xumm, then [<mark style="color:blue;">**reinstall Xumm**</mark>](../getting-started-with-xumm/installing-xumm.md) and [<mark style="color:blue;">**re-import your account**</mark> ](../getting-started/importing-your-existing-xrpl-account.md)using your account secret.&#x20;
 
 #### **I lost my 6 digit code and I need to create a new one**
 
