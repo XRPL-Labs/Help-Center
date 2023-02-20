@@ -88,7 +88,7 @@ If you are required to provide such information here is how to get it in Xumm.
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 ![https://support.xumm.app/hc/article\_attachments/4999922554258/Support\_banner\_-Xumm.png](https://support.xumm.app/hc/article\_attachments/4999922554258/Support\_banner\_-Xumm.png)
 
