@@ -14,11 +14,11 @@ If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp ser
 
 If you are not located in the Netherlands or the UK, we have partnered with two crypto exchanges which should be able to meet your needs.
 
-| Exchange                                | Link                                                                           | Article             |
-| --------------------------------------- | ------------------------------------------------------------------------------ | ------------------- |
-| ![](<../.gitbook/assets/image (2).png>) | ****[**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)****         | All About Banxa     |
-| ![](<../.gitbook/assets/image (5).png>) | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
-|                                         |                                                                                |                     |
+| Exchange                                    | Link                                                                           | Article             |
+| ------------------------------------------- | ------------------------------------------------------------------------------ | ------------------- |
+| ![](<../.gitbook/assets/image (2) (5).png>) | ****[**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)****         | All About Banxa     |
+| ![](<../.gitbook/assets/image (5) (2).png>) | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
+|                                             |                                                                                |                     |
 
 Combined, both Banxa and BTCDirect offer exchange services to most countries in the world. You can find both of them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp. (Or just click here:
 
