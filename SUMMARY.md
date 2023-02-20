@@ -47,7 +47,7 @@
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
 * [📺 Destination tags](learning-more-about-xumm/destination-tags.md)
 * [Gatehub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
-* [XRPL accounts & taxes](learning-more-about-xumm/xrpl-accounts-and-taxes.md)
+* [Taxes and your XRPL account](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
 * [How to convert a Read only account](learning-more-about-xumm/how-to-convert-a-read-only-account.md)
 * [How to reset the 6 digit passcode](learning-more-about-xumm/how-to-reset-the-6-digit-passcode.md)
 * [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)

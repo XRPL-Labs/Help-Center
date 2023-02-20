@@ -2,7 +2,7 @@
 description: Exporting your XRP Ledger account for tax purposes
 ---
 
-# XRPL accounts & taxes
+# Taxes and your XRPL account
 
 ### **Introduction**
 
@@ -12,41 +12,31 @@ It is your responsibility to investigate and settle these tax obligations with y
 
 ### **How do I get a list of taxable transactions so I can file my taxes?**
 
-There are several ways you can export your XRP Ledger account transactions into .CSV format.
+There are several ways you can export your XRP Ledger account transactions into .CSV format.&#x20;
+
+Here are two of the more popular options:
 
 1\) Use the **Transaction Exporter** xApp in Xumm.
-
-<figure><img src="../.gitbook/assets/Transaction exporter.png" alt=""><figcaption></figcaption></figure>
-
-In Xumm, you should be able to find it by pressing the **x√** button at the bottom of the screen, then selecting **View more xApps**.
-
-If it is not listed there, you scan the QR code with Xumm here:
 
 {% embed url="https://xumm.app/detect/xapp:xrpl365.txexporter?launch=true" %}
 Transaction Exporter Link
 {% endembed %}
 
-### **The .CSV file I exported does not work with my tax software.**
+2\) Try the **Gatehub utility**.
 
-
-
-and select the **Transactions** option, then press **Export CSV**.
-
-
+Click on this link: [https://gatehub.net/explorer](https://gatehub.net/explorer) then enter your r-address, select the **Transactions** option, then **Export CSV**.
 
 <figure><img src="../.gitbook/assets/Export CSV.png" alt=""><figcaption><p>Export CSV</p></figcaption></figure>
 
-### **That did not help. It still does not work with my tax software.**
+###
+
+### **What if my tax software does not support .CSV files?**
 
 Here are a couple of other things you can try:
 
 * The Transaction Exporter xApp was actually created by one of the XRPL community developers. You might want to try contacting him (Chris) directly and discuss expanding specific compatibility to your preferred tax software. Here's his Twitter account: [@XRPL365](https://twitter.com/xrpl365)
 
-If you are interested in viewing the code for the xApp, you can find it here:
 
-{% embed url="https://github.com/xrpl365/tx-exporter" %}
-Transaction Exporter
-{% endembed %}
 
 * You can contact **Gatehub** and discuss the possibility of having them expand their export capabilities.
 
