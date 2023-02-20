@@ -17,6 +17,7 @@
     * [...with Secret Numbers](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md)
     * [...with a Family Seed](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md)
     * [...with a Mnemonic](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md)
+    * [Should I import my Mnemonic into Xumm?](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/should-i-import-my-mnemonic-into-xumm.md)
     * [...in Read Only mode](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...in-read-only-mode.md)
   * [Adding a Xumm Tangem card](getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md)
 * [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
