@@ -6,7 +6,7 @@ description: How does the Profiles feature in Xumm Pro work?
 
 ### **What exactly is Profiles?**
 
-Profiles is basically an easy way to identify yourself on the XRP Ledger blockchain. It allows you to create and publish an identity profile page so other people can identify who you are.&#x20;
+Profiles is basically a way to make n easy way to identify yourself on the XRP Ledger blockchain. It allows you to create and publish an identity profile page so other people can identify who you are.&#x20;
 
 Here’s what a Profile page looks like for one of our developers, Kevin:
 
