@@ -49,6 +49,7 @@
 * [XRPL accounts & taxes](learning-more-about-xumm/xrpl-accounts-and-taxes.md)
 * [How to convert a Read only account](learning-more-about-xumm/how-to-convert-a-read-only-account.md)
 * [How to reset the 6 digit passcode](learning-more-about-xumm/how-to-reset-the-6-digit-passcode.md)
+* [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 
 ## ALL ABOUT XAPPS
 

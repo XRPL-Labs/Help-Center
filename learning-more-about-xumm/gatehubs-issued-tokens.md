@@ -102,14 +102,10 @@ Any exchange can easily honor Gatehub’s issued tokens and Gatehub can easily h
 
 Unfortunately we do not keep track of which exchanges support which tokens.  You can reach out to your exchange and ask them.
 
-**Additional reading**
-
-* [https://support.gatehub.net/hc/en-us/articles/4408729874450-What-to-do-with-GateHub-Fifth-SGB-in-Xumm](https://support.gatehub.net/hc/en-us/articles/4408729874450-What-to-do-with-GateHub-Fifth-SGB-in-Xumm)
-* [Flare Networks and Xumm](https://support.xumm.app/hc/en-us/articles/5182883580178)
-* [Staking and XUMM](https://support.xumm.app/hc/en-us/articles/4480744402834)
+****
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
