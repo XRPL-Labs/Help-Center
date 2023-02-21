@@ -28,7 +28,7 @@ You can find the the Account Merge xApp by selecting the following link:
 
 {% embed url="https://xumm.app/detect/xapp:xumm.accountmerge" %}
 
-or simply press the ![](<../../.gitbook/assets/image (15).png>)button at the bottom of the main page then select **View more xApps**. &#x20;
+or simply press the ![](<../../.gitbook/assets/image (7).png>)button at the bottom of the main page then select **View more xApps**. &#x20;
 
 ### **Using the Account Merge xApp**
 
