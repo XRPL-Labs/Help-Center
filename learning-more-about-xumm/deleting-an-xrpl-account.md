@@ -4,7 +4,19 @@ description: How to delete an XRP Ledger account from the XRPL.
 
 # Deleting an XRPL account
 
-### **History**
+### The instructions..
+
+1\) Go to [<mark style="color:blue;">**XRPL Services**</mark>](https://xrpl.services)<mark style="color:blue;">****</mark>
+
+2\) Sign in with Xumm using the account you would like to delete
+
+3\) Select the **Account delete** option
+
+4\) Enter the r-address where you would like your funds delivered to.
+
+5\) Sign the transaction.
+
+### The explanation...
 
 All XRP Ledger accounts need to be activated with a minimum of 10 XRP before you can send and receive tokens to them. The first 10 XRP delivered to an account is marked as un-spendable and is used to meet the base reserve requirements of the XRPL. (Sometimes called the account reserve or wallet reserve)
 
