@@ -12,7 +12,7 @@ If you're interested, this video explains how reserves and fees on the XRP Ledge
 
 After you create a new account in Xumm, you are presented with the following screen:
 
-<figure><img src="../.gitbook/assets/Account is not activated.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Account is not activated (1).png" alt=""><figcaption></figcaption></figure>
 
 Here are four ways you can activate an XRP Ledger account:
 
