@@ -56,13 +56,7 @@ No. Xumm is exclusively an XRP Ledger wallet. We support XRP and all of the 8200
 
 Gatehub has issued both Songbird and Flare tokens on the XRP Ledger. You can create a Trust Line to either of these assets, but they were issued on the XRPL, not the Songbird or Flare networks.
 
-This article explains:
-
-{% content-ref url="gatehubs-issued-tokens.md" %}
-[gatehubs-issued-tokens.md](gatehubs-issued-tokens.md)
-{% endcontent-ref %}
-
-{% embed url="https://support.xumm.app/hc/en-us/articles/4619198806802" %}
+This article explains: (Enter article here)
 
 ### **Do you recommend a Flare compatible wallet?**
 
