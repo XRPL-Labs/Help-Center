@@ -43,15 +43,27 @@ If you need assistance on how to do this, select one of these three articles for
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md">...with-a-mnemonic.md</a></td></tr></tbody></table>
 
-### Why did you ask me to keep my old phone?
+### Frequently asked questions
+
+#### Why did you ask me to keep my old phone?
 
 We have seen cases where people have forgotten their account secret or recorded their account secret incorrectly. Your old phone should still be able to access your XRP Ledger account(s) in case you run into any trouble configuring your new phone. Once you are able to access and sign transactions on your new device, you can uninstall Xumm from your old device.&#x20;
 
-### Why can't I restore Xumm from backup?
+#### Why can't I restore Xumm from backup?
 
-If Xumm were to store sensitive data like your account secrets in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.&#x20;
+If Xumm were to store sensitive data, (like your account secrets) in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.&#x20;
 
 This is why it's really important to keep your account secret stored offline, in a secure place.
+
+#### What about my Xumm Tangem card accounts?
+
+If you have Xumm Tangem cards, you will need to re-import them into Xumm on your new phone.
+
+If you need assist doing this, check out this article:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How to add a Xumm Tangem card</td><td></td><td></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md">adding-a-xumm-tangem-card.md</a></td></tr></tbody></table>
+
+you don't need your written down secret(s) (family seed (s....), mnemonic (words) or 'Secret Numbers') as you can just import your Tangem account by tapping your card against your phone in the account Import flow.&#x20;
 
 ## Special cases
 
@@ -68,14 +80,6 @@ Click [here to import your Casino Coin secret](https://xumm.app/detect/secret?ty
 ## Tangem accounts
 
 If you are using a Tangem account, you don't need your written down secret(s) (family seed (s....), mnemonic (words) or 'Secret Numbers') as you can just import your Tangem account by tapping your card against your phone in the account Import flow.&#x20;
-
-## Toast Wallet
-
-[https://support.xumm.app/hc/en-us/articles/360018135840](https://support.xumm.app/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCDLwNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCI9BwdJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJNL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxODEzNTg0MC1Ib3ctdG8tbWlncmF0ZS1)
-
-## Atomic Wallet
-
-[https://support.xumm.app/hc/en-us/articles/360018166519](https://support.xumm.app/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPdCwdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCEjLwNJTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJWL2hjL2VuLXVzL2FydGljbGVzLzM2MDAxODE2NjUxOS1Qb3J0aW5nLUF0b21pYy1)
 
 ## Hardware Wallets
 
