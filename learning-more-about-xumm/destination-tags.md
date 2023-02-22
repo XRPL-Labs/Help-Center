@@ -1,5 +1,5 @@
 ---
-description: Explainer video 5 of 5
+description: Destination tags - Video
 ---
 
 # 📺 Destination tags
