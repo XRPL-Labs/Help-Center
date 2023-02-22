@@ -1,6 +1,6 @@
 # Common misconceptions
 
-When it comes to platforms as powerful as Xumm, it is normal for misinformation to circulate around some of its features and capabilities. Let's see if we can clear some of this up...
+When it comes to platforms as powerful as Xumm, it is normal for misinformation to circulate around some of it features and capabilities. Let's see if we can clear some of this up...
 
 ### Xumm stores your XRP&#x20;
 
@@ -8,7 +8,7 @@ The native currency on the XRP Ledger is called XRP. XRP exists on the XRPL and 
 
 ### Xumm has access to your funds
 
-Once you enter your private key into Xumm, it is immediately encrypted and placed into an area secure location we call, "The Vault". There is no way for us to access the Vault remotely.
+No. Once you enter your private key into Xumm, it is immediately encrypted and placed into an area secure location we call, "The Vault". There is no way for us to access the Vault remotely.
 
 ### Xumm is a custodial wallet
 
@@ -24,12 +24,7 @@ There are many attack vectors for both cold and hot wallets and both types have 
 
 ### Xumm offers staking
 
-No, the XRP Ledger is not a Proof of Stake network so there is no way to offer staking natively on the XRPL. Furthermore, there is no need to stake coins since the validation process is a cooperative based system, not a competitive based system. All fees charged by the XRP Ledger are destroyed so there is no way to generate "rewards" for users.
+No, the XRP Ledger is not a Proof of Stake network so there is no way to offer staking natively on the XRPL. Furthermore, there is no need to stake coins since the validation process is a cooperative based system, not a competitive based system. All fees charged by the XRP Ledger are destroyed so their is no way to generate "rewards" for users.
 
 &#x20;
 
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

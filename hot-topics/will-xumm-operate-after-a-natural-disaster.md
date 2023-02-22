@@ -40,10 +40,13 @@ Tangem cards pass rigorous testing and can withstand environmental extremes, occ
 
 Xumm is a non custodial (un-hosted), XRP Ledger wallet that allows you to create and manage XRP Ledger accounts in a safe, secure and user friendly way. It is not effected by EMPs, Solar Flares or Natural Disasters. What could be effected by these events is the infrastructure required to access the XRP Ledger. If you are unable to access the XRPL, Xumm is not going to be much use to you.
 
+**Additional reading**
 
+* [How secure is XUMM?](https://support.xumm.app/hc/en-us/articles/4427109779986)
+* [Where are your funds stored? (Explainer video 2/5)](https://support.xumm.app/hc/en-us/articles/4408081411474)
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
