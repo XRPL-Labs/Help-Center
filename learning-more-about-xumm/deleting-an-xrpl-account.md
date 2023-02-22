@@ -23,42 +23,31 @@ description: How to delete an XRP Ledger account from the XRPL.
 * A new account on the XRP Ledger **can not** be activated by the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction. If you try to do this, it will be rejected and you will still be charged the 2 XRP fee.&#x20;
 * Even after you delete your account, you should **not throw away your account secret**. Someone may send funds to your account in the future and you will need your account secret to access them.
 
+### Frequently asked questions
 
-
-
-
-
-
-### **I removed my account from Xumm. Why didn't I get the base reserve?**
+#### **I removed my account from Xumm. Why didn't I get the base reserve?**
 
 Removing an account from Xumm is not the same as deleting an account from the XRP Ledger.
 
-(Settings -> Accounts -> Select the _Edit_ button beside the account to be removed -> Press the _Remove from Xumm_ button and confirm on the warning screen.
+When an account is removed from Xumm, the account secret (Secret numbers / Family seed / Mnemonic) is deleted from Xumm, but the XRPL account still exists on the XRP Ledger.
 
-When an account is removed from Xumm, the account secret is deleted from Xumm, but the account still exists on the XRP Ledger.
+To delete an XRPL account, you need to follow the instructions above.
 
-&#x20;
+{% hint style="warning" %}
+&#x20;If your XRPL account was removed from Xumm in error, it can be imported back into Xumm using the account secret (Secret numbers / Family Seed / Mnemonic) by following the instructions here:\
+\
+[**Importing your account into Xumm**](../getting-started/importing-your-existing-xrpl-account.md)****
+{% endhint %}
 
-If your XRPL account got removed from Xumm in error, it can be imported back into Xumm using the account secret (Secret numbers, Family Seed, Mnemonic) by following the instructions in the following article;
+#### **I deleted my XRPL account and sent the funds to my exchange account**
 
-&#x20;
+If you already deleted your account and sent the remaining funds to a crypto exchange or wallet that does not support the [accountdelete](https://xrpl.org/accounts.html#deletion-of-accounts) transaction, you will need to **contact your exchange/wallet** and explain what happened.&#x20;
 
-https://support.xumm.app/hc/en-us/articles/360019307399-How-to-import-an-XRP-Ledger-account-using-the-account-secret
+They will need to locate your funds in their system and deliver them to your exchange account.&#x20;
 
-#### &#x20;
+Unfortunately there is **nothing Xumm Support can do** to help you recover your funds. Only your exchange is capable of delivering your funds to your account.&#x20;
 
-### **I already deleted my XRPL account and sent the funds to my exchange account**
-
-If you already deleted your account and sent the remaining funds to a crypto exchange or wallet that does not support the AccountDelete transaction, you will need to **contact your exchange/wallet** and explain what happened. They will need to locate your funds in their system and deliver them to your exchange account. Unfortunately there is **nothing Xumm Support can do** to help you recover your funds. Only your exchange is capable of delivering your funds to your account.&#x20;
-
-&#x20;
-
-### **Summary**
-
-* **Do not throw away your account secret** (Secret numbers, Family Seed, Mnemonic) after you have deleted your account. You may need it in the future.
-* Contact your crypto exchange or destination wallet **before** you delete your account.
-
-&#x20;
+****
 
 **Notes**
 
