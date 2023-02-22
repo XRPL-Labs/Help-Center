@@ -23,9 +23,9 @@ To install Xumm on your new phone, you can download it from 1 of 2 places:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td><td></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td><td></td></tr></tbody></table>
 
-Just select one of the above links and press the **Install** button begin the download.
+Just select one of the above links and press the **Install** button to begin the download.
 
-Although the installation of Xumm is quite straight-forward and user-friendly , you can always refer to our step by step instructions on how to install Xumm...
+Although the installation of Xumm is quite straight-forward and user-friendly , you can always refer to our step by step instructions...
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to install Xumm</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../getting-started-with-xumm/installing-xumm.md">installing-xumm.md</a></td></tr></tbody></table>
 
