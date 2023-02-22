@@ -10,10 +10,10 @@ description: Destination tags - Video
 
 Also available in this video series:
 
-| Video                                                                                                                             | Description                            |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| [What is Xumm?](https://www.youtube.com/watch?v=9sL63Uc0-7I\&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp\_l)                            | Explaining the Xumm app                |
-| [Where are your funds stored?](https://www.youtube.com/watch?v=gLkVNm5Su1o\&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp\_l\&index=2)    | XRP is on the XRPL, not in Xumm        |
-| [Protecting your account secret](https://www.youtube.com/watch?v=m1OUr13\_xv4\&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp\_l\&index=3) | Tips on protecting your secret numbers |
-| [Reserves and Fees](https://www.youtube.com/watch?v=7E52W4dKmBE\&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp\_l\&index=4)               | Base reserve and XRPL Fees             |
+| Video                                                                                             | Description                            |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| [What is Xumm?](../hot-topics/what-is-xumm.md)                                                    | Explaining the Xumm app                |
+| [Where are your funds stored?](../hot-topics/where-are-your-funds-stored.md)                      | XRP is on the XRPL, not in Xumm        |
+| [Protecting your account secret](../hot-topics/how-can-you-access-your-xrpl-account.md)           | Tips on protecting your secret numbers |
+| [Reserves and Fees](../xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md) | Base reserve and XRPL Fees             |
 
