@@ -12,7 +12,7 @@ coverY: 0
 Congratulations! Getting a new phone can be exciting, but before you get started migrating everything over from your old phone, here are a couple of suggestions to make the process a little smoother...
 
 * Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
-* Ensure that you have the account secret (Secret numbers, Family seed, Mnemonic) for your XRP Ledger account.&#x20;
+* Ensure that you have the account secret (Secret numbers / Family seed / Mnemonic) for your XRP Ledger account.&#x20;
 * If you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the [Xumm Support xApp](https://xumm.app/detect/xapp:xumm.support).
 
 ### Configuring Xumm on your new phone
