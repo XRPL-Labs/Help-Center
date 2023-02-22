@@ -6,6 +6,10 @@ description: How to reset the signing password on your account
 
 ### **Background**
 
+When Xumm is installed,&#x20;
+
+<figure><img src="../.gitbook/assets/Install - Extra Security screen - 1.png" alt=""><figcaption></figcaption></figure>
+
 When you install Xumm, the first thing it asks you to do is to enter a 6 digit passcode/pin.
 
 #### A procedure to recover access to an account with only the secret numbers
