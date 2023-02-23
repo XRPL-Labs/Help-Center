@@ -12,9 +12,12 @@ If you are interested in learning about the changes and features of Xumm v2.4, y
 
 ### Get the value of your XRP on the main screen
 
-When our customers speak, we listen, so when you asked for Xumm to display the fiat value of your XRP on the main page, we added it. Just touch the balance of your XRP and voila, the cash equivant.&#x20;
+When our customers speak, we listen, so when you asked for Xumm to display the fiat value of your XRP on the main page, we added it. Just touch the balance of your XRP and voila, the cash equivalent.&#x20;
 
 <figure><img src="../.gitbook/assets/v24 - 1.png" alt=""><figcaption></figcaption></figure>
 
+### Improved NFT handling
 
+Would you like to see a list of all the NFTs that you own? Would you like to view them? How about the ability to cancel your NFT orders or to accept NFT offers? Now you can.
 
+<figure><img src="../.gitbook/assets/v24 - Tokens page.png" alt=""><figcaption></figcaption></figure>
