@@ -26,7 +26,7 @@ Simply press the **Tokens** button..
 
 Then choose **NFT**...
 
-<figure><img src="../.gitbook/assets/v24 - Tokens page.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/v24 - Tokens page -3.png" alt=""><figcaption></figcaption></figure>
 
 and...
 
