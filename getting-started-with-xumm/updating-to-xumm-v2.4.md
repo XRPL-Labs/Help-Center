@@ -8,7 +8,7 @@ coverY: 238
 
 ### Welcome to the latest version!
 
-If you are interested in learning about the changes and features of Xumm v2.4, you're at the right place! This version includes over 50 different upgrades, user features, tweaks and improvements and while many of them are backend improvements, there are some things you will notice and appreciate, so let's get started...&#x20;
+If you are interested in learning about some of the main changes and features of Xumm v2.4, you're at the right place! This version includes over 50 different upgrades, user features, tweaks and improvements and while many of them are "behind the scene" improvements, there are some things you will notice and appreciate, so let's get started...&#x20;
 
 ### Get the value of your XRP on the main screen
 
