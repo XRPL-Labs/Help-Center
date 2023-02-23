@@ -38,7 +38,7 @@ If you are interested in learning more about how Xumm interacts with NFTs, check
 
 ### Improved security
 
-If you have ever wondered what the team does between releases of Xumm? Well, we figure out ways to make it even stronger. We've improved our encryption algorithms to levels where even our auditors were impressed! If you would like to upgrade the encryption on your accounts, simply press the **Settings** button the choose **Accounts** and press the **Update encryption** button.
+If you have ever wondered what the team does between releases of Xumm? Well, one of the things is we figure out ways to make it even stronger. We've improved our encryption algorithms to levels where even our auditors were impressed! If you would like to upgrade the encryption on your accounts, simply press the **Settings** button the choose **Accounts** and press the **Update encryption** button.
 
 <figure><img src="../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,15 @@ For more information on this, check out his article:
 
 \<Enter article here>
 
+### More control over Third party apps&#x20;
 
+This version includes the ability to **revoke access** from third party sites and xApps.
+
+In Xumm, press **Settings** then **Third party apps** to get a list of apps / sites which you can revoke access from.&#x20;
+
+<figure><img src="../.gitbook/assets/v24 - Third party apps.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;&#x20;
 
 ###
 
