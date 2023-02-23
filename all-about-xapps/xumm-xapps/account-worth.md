@@ -1,22 +1,23 @@
+---
+description: All about the Account Worth xApp
+---
+
 # Account Worth
 
 ### **Background**
 
-With the release of Xumm v2.3, the _**Account Worth**_ xApp takes a more prominent role in Xumm.
-
-In previous versions, you could simply touch your XRP balance and it would immediately display the fiat equivalent.
-
-&#x20;
-
-![mceclip3.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5881361968658/mceclip3.png)
-
-This is not the case now.
-
-In order to see the value of your XRP and the value of **all** the tokens in your account, you need to use the  _**Account Worth**_ xApp.
-
-&#x20;
+The Account Worth xApp is designed to display the **total** current value of all of the tokens held in your XRP Ledger account.&#x20;
 
 ### **How do I find it?**
+
+Simple touch this link:
+
+****[**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth)****
+
+or you can find it by pressing the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm.\
+
+
+
 
 &#x20;To find it, just launch Xumm and press the "**x√**" button at the bottom of the screen. ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5881817535762/mceclip0.png) You should see _**Account Worth**_ listed in the second row. ![mceclip1.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5882016149138/mceclip1.png)
 
