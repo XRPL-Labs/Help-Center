@@ -36,5 +36,83 @@ If you are interested in learning more about how Xumm interacts with NFTs, check
 
 \<Enter article here>
 
-&#x20;
+### Improved security
+
+If you have ever wondered what the team does between releases of Xumm? Well, one of the things is we figure out ways to make it even stronger. We've improved our encryption algorithms to levels where even our auditors were impressed! If you would like to upgrade the encryption on your accounts, simply press the **Settings** button the choose **Accounts** and press the **Update encryption** button.
+
+<figure><img src="../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
+
+For more information on this, check out his article:
+
+\<Enter article here>
+
+
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+### &#x20;
 

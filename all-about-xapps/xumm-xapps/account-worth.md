@@ -14,7 +14,7 @@ Simply touch this link:
 
 ****[**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth)****
 
-or you can find it by pressing the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm.\
+or you can find it by pressing the <img src="../../.gitbook/assets/image (2) (5).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm.\
 
 
 <figure><img src="../../.gitbook/assets/Account Worth - xApp - 1.png" alt=""><figcaption></figcaption></figure>
