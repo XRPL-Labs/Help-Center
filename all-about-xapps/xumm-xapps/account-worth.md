@@ -8,7 +8,7 @@ description: All about the Account Worth xApp
 
 The Account Worth xApp is designed to display the **total** current value of all of the tokens held in your XRP Ledger account.&#x20;
 
-### **How do I find it?**
+### **How do I find it**
 
 Simply touch this link:
 
