@@ -10,30 +10,24 @@ The Account Worth xApp is designed to display the **total** current value of all
 
 ### **How do I find it?**
 
-Simple touch this link:
+Simply touch this link:
 
 ****[**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth)****
 
 or you can find it by pressing the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm.\
 
 
-
-
-&#x20;To find it, just launch Xumm and press the "**x√**" button at the bottom of the screen.&#x20;
-
 <figure><img src="../../.gitbook/assets/Account Worth - xApp - 1.png" alt=""><figcaption></figcaption></figure>
-
-![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5881817535762/mceclip0.png) You should see _**Account Worth**_ listed in the second row. ![mceclip1.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5882016149138/mceclip1.png)
-
-&#x20;
 
 ### **How does Account Worth calculate the "value" of my tokens?**
 
-&#x20;For each token in your account, the Account Worth xApp looks at the XRPL DEX and calculates what the liquidation value would be based on the open orders currently on the DEX.  &#x20;
+For each token in your account, the Account Worth xApp looks at the XRPL DEX and calculates what the liquidation value would be based on the open orders currently on the DEX.  &#x20;
 
-![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/6006931870866/mceclip0.png)
+<figure><img src="../../.gitbook/assets/Account Worth - xApp - 2.png" alt=""><figcaption></figcaption></figure>
 
-&#x20; Xumm shows the _real_ representation of each asset based on the _current_ DEX liquidity. It shows the amount you can _actually_ trade your tokens for, which is, in case of illiquid pairs, a lot less than the fake price most platforms show.&#x20;
+{% hint style="info" %}
+Xumm shows the _real_ representation of each asset based on the _current_ DEX liquidity. It shows the amount you can _actually_ trade your tokens for, which is, in case of illiquid pairs, a lot less than the fake price most platforms show.&#x20;
+{% endhint %}
 
 ### **What about the base reserve and owner reserves? Are they counted in the total value?**
 
