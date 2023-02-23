@@ -18,6 +18,13 @@ When our customers speak, we listen, so when you asked for Xumm to display the f
 
 ### Improved NFT handling
 
-Would you like to see a list of all the NFTs that you own? Would you like to view them? How about the ability to cancel your NFT orders or to accept NFT offers? Now you can.
+Would you like to see a list of all the NFTs that you own? Would you like to view them? How about the ability to view your buy and sell NFT orders? Well, now you can.\
+\
+Simply press the **Tokens** button..
+
+<figure><img src="../.gitbook/assets/v24 - Tokens page -1.png" alt=""><figcaption></figcaption></figure>
+
+Then choose **NFT**...
 
 <figure><img src="../.gitbook/assets/v24 - Tokens page.png" alt=""><figcaption></figcaption></figure>
+
