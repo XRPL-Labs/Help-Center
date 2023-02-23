@@ -6,54 +6,36 @@ description: How to reset the signing password on your account
 
 ### **Background**
 
-When Xumm is installed,&#x20;
+When Xumm is installed, you are presented with the option to select Standard security or Extra security.
 
 <figure><img src="../.gitbook/assets/Install - Extra Security screen - 1.png" alt=""><figcaption></figcaption></figure>
 
-When you install Xumm, the first thing it asks you to do is to enter a 6 digit passcode/pin.
+The following table explains the differences.
 
-#### A procedure to recover access to an account with only the secret numbers
+| Option                                      | Explanation                                                                                                                                                         |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../.gitbook/assets/image (1) (2).png>) | Standard security is a great option your daily spending account. You can sign with your 6 digit passcode or enable biometrics and sign with your face/finger print. |
+| ![](<../.gitbook/assets/image (3).png>)     | Extra security allows you to enter a separate signing password. This is the best option for your long term storage account.                                         |
 
-When creating accounts, XUMM offers two security levels: bio-metric (suitable for holding smaller amounts intended to be used more frequently) and password (higher security but somewhat harder to use).
 
-This article is for **accounts set to use passwords only** and _does not apply to accounts using bio-metric security_.
 
-The procedure below allows users to recreate the account which provides an opportunity to input a new password.
+If you selected **Extra security** you would have created a separate signing password. If you have forgotten that signing password or if it is not working or you would like to change it. This article explains how to do this.
 
-**Before starting**
 
-**Have a copy of the secret numbers ready to use.**
 
-It is a good idea to have a pen and paper.
+### Step 1 - Remove the account from Xumm
 
-This will take 15-20 minutes minimum and will require full concentration.
+1. Launch Xumm and press **Settings** -> **Accounts** -> then press the **Edit** button beside the account to be removed.
+2. Select **Remove from Xumm** then **Yes, I’m Sure**’ on the warning screen.
 
-### Remove the Account from XUMM
+### Step 2 - Import your account secret back into Xumm
 
-1. Click the gear icon at the bottom-right of the home screen to open the Settings screen
-2. Select **Accounts**
-3. Select the ‘**Edit**’ option on the account to be deleted
-4. Select ‘**Remove from Xumm**’ (in red at the bottom of the screen)
-5. Select ‘**Yes, I’m Sure**’ on the warning screen
+1. Your account secret will come in the the form of a set of secret numbers / Family seed /Mnemonic. This article will guide you through importing your account with which ever one you have:\
+   \
+   [<mark style="color:blue;">**Importing your account into Xumm**</mark>](../getting-started/importing-your-existing-xrpl-account.md)<mark style="color:blue;">****</mark>
 
-### Recreate the Account in XUMM
+**Notes**
 
-1. Click the **gear icon at the bottom-right** of the home screen to open the Settings screen
-2. Select **Accounts**
-3. Select ‘**+ Add Account**’
-4. Select ‘**Import existing account**’
-5. The next screen defaults to the correct choice - ‘**Full Access**’ - so just touch the Next button
-6. The next screen defaults to the correct choice - ‘**Secret Numbers**’ - so just touch the Next button. If you want to re-import a [previously imported CSC account, see this FAQ](https://support.xumm.app/hc/en-us/articles/360021843879).
-7. Input the secret numbers from the original account using the **‘+/-’** buttons to change the number and the ‘>’ to move to the next number.
-8. **The next screen asks about security level. The choices are ‘biometric’ (face scan/fingerprint) or password (which is more secure).**
-9. Choose ‘**Password**’
-10. Input a trading password long enough to be difficult to guess.`Good idea to work it out on paper first.`**If upper-case letters or non-alphanumeric symbols (like !@#$) are used to make the password then they will have to be input EXACTLY the same way when doing a transaction. The same goes for any space characters.**
-11. Confirm the password and hit next
-12. Copy the public address if you want in the next screen
-13. Provide a label for the account
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-Store the secret numbers and the password securely offline.
-
-Offline or ‘cold’ storage is outside the scope of this article. There are several methods each having pros and cons.
-
-_**Anyone who has access to the credentials (secret numbers, password) has control of the digital assets in that account. There is no way to recover digital assets lost in this manner.**_
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
