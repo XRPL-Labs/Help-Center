@@ -32,3 +32,9 @@ and...
 
 <figure><img src="../.gitbook/assets/v24 - Tokens page -2.png" alt=""><figcaption></figcaption></figure>
 
+If you are interested in learning more about how Xumm interacts with NFTs, check out this article:
+
+\<Enter article here>
+
+&#x20;
+
