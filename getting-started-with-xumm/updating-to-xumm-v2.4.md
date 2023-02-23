@@ -28,3 +28,7 @@ Then choose **NFT**...
 
 <figure><img src="../.gitbook/assets/v24 - Tokens page.png" alt=""><figcaption></figcaption></figure>
 
+and...
+
+<figure><img src="../.gitbook/assets/v24 - Tokens page -2.png" alt=""><figcaption></figcaption></figure>
+
