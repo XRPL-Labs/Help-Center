@@ -19,7 +19,11 @@ or you can find it by pressing the <img src="../../.gitbook/assets/image (2).png
 
 
 
-&#x20;To find it, just launch Xumm and press the "**x√**" button at the bottom of the screen. ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5881817535762/mceclip0.png) You should see _**Account Worth**_ listed in the second row. ![mceclip1.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5882016149138/mceclip1.png)
+&#x20;To find it, just launch Xumm and press the "**x√**" button at the bottom of the screen.&#x20;
+
+<figure><img src="../../.gitbook/assets/Account Worth - xApp - 1.png" alt=""><figcaption></figcaption></figure>
+
+![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5881817535762/mceclip0.png) You should see _**Account Worth**_ listed in the second row. ![mceclip1.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5882016149138/mceclip1.png)
 
 &#x20;
 
