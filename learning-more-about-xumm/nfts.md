@@ -42,9 +42,17 @@ While the XRP Ledger has an NFT standard (XLS-20), the **metadata** standards fo
 
 Until the XRPL community can agree on a set of metadata standards for NFTs, Xumm will rely on NFT minters to publish their own standards.
 
-You can try opening your NFT using one of the NFT viewer xApps list.
+You can try opening your NFT using one of the NFT viewer xApps list. In this case, we used Peerkat NFT viewer to view this one.
 
 <figure><img src="../.gitbook/assets/v24 - Tokens page -5.png" alt=""><figcaption></figcaption></figure>
+
+You'll notice that you have three additional options:
+
+| Option                                  | Explanation                                                                                                       |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ![](<../.gitbook/assets/image (8).png>) | Displays any offers you have made or received for this NFT                                                        |
+| ![](../.gitbook/assets/image.png)       | Copies a link to your NFT.                                                                                        |
+| ![](<../.gitbook/assets/image (9).png>) | Open a blockchain explore where you can view additional details about your NFT including the history of your NFT. |
 
 
 
