@@ -16,7 +16,7 @@ All versions of Xumm prior to v2.4 use the AES 256-CBC encryption algorithm to e
 
 ### Pushing the envelope...
 
-While the AES 256 (Advanced Encryption Standard) still remains the encryption algorithm of choice for governments and financial institutions around the world, it is still decades old and the latest AES 512-GCM algorithm is much more advanced. Updating Xumm to this enhanced standard just extends our lead in the crypto space and to be honest, Xumm users have come to expect nothing less than the best. If there was a better way to encrypt your private keys, we would have already implemented it.
+While the AES 256 (Advanced Encryption Standard) still remains the encryption algorithm of choice for governments and financial institutions around the world, it is still decades old and the latest AES 512-GCM algorithm is much more computationally complex. Updating Xumm to this enhanced standard just extends our lead in the crypto space and to be honest, Xumm users have come to expect nothing less than the best. If there was a better way to encrypt your private keys, we would have already implemented it.
 
 ### How to upgrade &#x20;
 
