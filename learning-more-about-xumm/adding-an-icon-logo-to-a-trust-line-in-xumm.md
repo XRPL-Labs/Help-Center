@@ -61,10 +61,6 @@ For new, valid assets, Xumm users may need to restart Xumm before they can see t
 
 As well, issuer icons (add Trust Line, remove Trust Line, Sign Request, Event List) have a 24h cache policy _on a per device, client side_ basis, so depending on the user it may show instantly or after 24h.
 
-### **What if I change my icon at a future date or want to publish another token?**
-
-We only digest the _**first**_ occurrence automatically. If you change the icon or want publish another token from the same r-address, you will need to create a ticket via the Xumm Support xApp and we will review your changes. This process can take up to **two business days**.
-
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
