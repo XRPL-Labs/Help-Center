@@ -38,9 +38,21 @@ Press the ![](<../../.gitbook/assets/image (3).png>) button beside the account y
 
 <figure><img src="../../.gitbook/assets/Authenticate screen.png" alt=""><figcaption></figcaption></figure>
 
-The upgrade only takes a few seconds... and..
+The upgrade only takes a few seconds... and.. all done, It's as easy as that!
 
 <figure><img src="../../.gitbook/assets/Encryption - 3.png" alt=""><figcaption></figcaption></figure>
+
+### Frequently asked questions
+
+#### What if it create a new account in Xumm v2.4?
+
+Any new account that is created with Xumm v2.4 uses the new encryption algorithm. There is no need to upgrade it.
+
+#### What if I import an existing account into Xumm v2.4?
+
+All account that are imported into Xumm v2.4 will be automatically upgraded to use the new exncryption algorithm. There is no need to upgrade it.
+
+
 
 **Notes**
 
