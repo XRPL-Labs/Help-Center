@@ -1,5 +1,5 @@
 ---
-description: New features included in Xumm v2.4
+description: New features, updates and more..
 cover: ../.gitbook/assets/Path - 1.png
 coverY: 238
 ---
