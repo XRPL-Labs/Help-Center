@@ -4,10 +4,10 @@ description: How to upgrade your account to a stronger encryption algorithm
 
 # Upgrading your encryption
 
-/hint
-
 {% hint style="info" %}
-Before we continue, we want to assure you that the whichever version of Xumm that you are currently using is incredibly **safe**. Upgrading your accounts using our new algorithm simply increases the security from '**insane**' level to '**crazy insane'** level. This process is completely optional and while we recommend that you go through the process, it is not required.&#x20;
+Before we continue, we want to assure you that the whichever version of Xumm that you are currently using is incredibly **safe**. Upgrading your accounts using our new algorithm simply increases the security from extremely secure to "even our security auditors feel we outdid ourselves secure". This process is completely optional and while we recommend that you go through the process, it is not required.&#x20;
+
+
 {% endhint %}
 
 ### A Brief background
@@ -27,6 +27,12 @@ Launch Xumm and press **Settings** then **Accounts**:
 <figure><img src="../../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
 
 then press the ![](../../.gitbook/assets/image.png) button.
+
+<figure><img src="../../.gitbook/assets/Encryption - 2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+You may have noticed in our example that the "Card 1" account is not displayed in the above image. The "Card 1" account is a Xumm Tangem card account so it can be upgraded. (Since the private key is stored on the card itself, not in Xumm.)
+{% endhint %}
 
 
 
