@@ -65,13 +65,13 @@ If you need assist doing this, check out this article:
 
 #### My account was created during the Casino Coin swap. How do I access it?
 
-The CasinoCoin team has documented a process to access accounts created during the CSC swap. You can find the instructions here:
+If you have access to your old CasinoCoin wallet secret in the form of a code that starts with a lower case **s**, you can **import your CasinoCoin wallet secret** [**with this link (scan the QR with Xumm)**](https://xumm.app/detect/secret?type=alt-family-seed\&name=CasinoCoin\&alphabet=cpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2brdeCg65jkm8oFqi1tuvAxyz).
+
+If you do not have your CasinoCoin secret mentioned above, the CasinoCoin team has documented a process to access accounts created during the CSC swap. You can find the instructions here:
 
 [How to recover a CasinoCoin account](https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account)
 
-If you run into any trouble with the recovery process, please contact the CasinoCoin support staff here:
-
-****[**CasinoCoin Support**](https://eminence.freshdesk.com/support/tickets/new)****
+If you run into any trouble with the recovery process, please contact the CasinoCoin support staff here: [CasinoCoin Support](https://eminence.freshdesk.com/support/tickets/new)
 
 
 
