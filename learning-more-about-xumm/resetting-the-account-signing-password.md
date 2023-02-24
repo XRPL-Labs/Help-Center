@@ -15,7 +15,7 @@ The following table explains the differences.
 | Option                                      | Explanation                                                                                                                                                         |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](<../.gitbook/assets/image (1) (2).png>) | Standard security is a great option your daily spending account. You can sign with your 6 digit passcode or enable biometrics and sign with your face/finger print. |
-| ![](<../.gitbook/assets/image (3).png>)     | Extra security allows you to enter a separate signing password. This is the best option for your long term storage account.                                         |
+| ![](<../.gitbook/assets/image (3) (1).png>) | Extra security allows you to enter a separate signing password. This is the best option for your long term storage account.                                         |
 
 
 
