@@ -1,5 +1,7 @@
 ---
 description: All about NFTs
+cover: ../.gitbook/assets/Rock with NFT carved in it.png
+coverY: 82
 ---
 
 # NFTs
@@ -18,28 +20,33 @@ For more information, this link provides an excellent conceptual view of NFTs:
 
 ### **Can I view my NFT in Xumm?**
 
-While the XRP Ledger has an NFT standard, the **metadata** standards for NFTs are still being developed.
+There are a couple of options for viewing NFTs in Xumm.
 
-When it comes to NFTs on the XRPL, metdata and file properties are important because they tell us specific things about the NFTs.
+1\) From the main screen, press the **Tokens** button,
 
-For example:
+<figure><img src="../.gitbook/assets/v24 - Tokens page -1.png" alt=""><figcaption></figcaption></figure>
 
-* Title
-* File format
-* Author
-* Writer
-* Music label
-* Movie length
-* Photo category
-* Land registry coordinates
+then select **NFT**,
 
-There are many types of metadata as well, including: legal metadata, statistical, reference, administrative and structural.
+<figure><img src="../.gitbook/assets/v24 - Tokens page -3.png" alt=""><figcaption></figcaption></figure>
+
+You should see a list of all of your NFT listed.&#x20;
+
+2\) If you would like to view one of the NFTs in a larger format or view more information about a particular NFT, select it,  and it should display a screen similar to this:
+
+<figure><img src="../.gitbook/assets/v24 - Tokens page -4.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+While the XRP Ledger has an NFT standard (XLS-20), the **metadata** standards for NFTs are still being developed. This means that not all NFTs may be displayed in all NFT viewers since they may have been minted using different metadata information.
+{% endhint %}
 
 Until the XRPL community can agree on a set of metadata standards for NFTs, Xumm will rely on NFT minters to publish their own standards.
 
-Furthermore, in order to view an NFT in Xumm, an NFT viewing xApp will need to be created. These xApps will allow users to interact with the minter's NFTs and will be able to customize their user experience to meet their customer's needs. We have made the process of creating a Xumm xApp **extremely** **easy**, so if your NFT provider does not have an NFT viewer in Xumm, reach out to them and encourage them to contact us.
+You can try opening your NFT using one of the NFT viewer xApps list.
 
-* [Guidelines and review process of publishing xApps in XUMM](https://support.xumm.app/hc/en-us/articles/4416361592210)
+<figure><img src="../.gitbook/assets/v24 - Tokens page -5.png" alt=""><figcaption></figcaption></figure>
+
+
 
 **Do I own the NFT?**
 
