@@ -115,6 +115,7 @@
 ## Security and Xumm
 
 * [All About Security](security-and-xumm/all-about-security/README.md)
+  * [Upgrading your encryption](security-and-xumm/all-about-security/upgrading-your-encryption.md)
   * [Security advisory](security-and-xumm/all-about-security/security-advisory.md)
   * [How secure is Xumm?](security-and-xumm/all-about-security/how-secure-is-xumm.md)
   * [Best practices](security-and-xumm/all-about-security/best-practices.md)
