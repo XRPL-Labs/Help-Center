@@ -54,7 +54,9 @@ In Xumm, press **Settings** then **Third party apps** to get a list of apps / si
 
 <figure><img src="../.gitbook/assets/v24 - Third party apps.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;&#x20;
+This are just a few of the updates but if you would like to learn more, you can review our release notes here:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm v2.4</td><td></td><td></td><td><a href="../.gitbook/assets/Rock with 24 carved in it.png">Rock with 24 carved in it.png</a></td><td><a href="../release-notes/xumm-v2.4.md">xumm-v2.4.md</a></td></tr></tbody></table>
 
 ###
 

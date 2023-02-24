@@ -131,9 +131,10 @@
 
 ## Release notes
 
-* [Current release](release-notes/current-release/README.md)
-  * [Xumm v2.3.1](release-notes/current-release/xumm-v2.3.1.md)
+* [Current release](release-notes/current-release.md)
+* [Xumm v2.4](release-notes/xumm-v2.4.md)
 * [Previous releases](release-notes/previous-releases/README.md)
+  * [Xumm v2.3.1](release-notes/previous-releases/xumm-v2.3.1.md)
   * [Xumm v2.3.0](release-notes/previous-releases/xumm-v2.3.0.md)
   * [Xumm v2.2.8](release-notes/previous-releases/xumm-v2.2.8.md)
   * [Xumm v2.2.6](release-notes/previous-releases/xumm-v2.2.6.md)

@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/fireworks-gd7b280d6a_1280.jpg
-coverY: -124
----
-
 # Xumm v2.3.1
 
 ## Xumm v2.3.1 - Release notes
