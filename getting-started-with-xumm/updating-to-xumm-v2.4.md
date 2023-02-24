@@ -1,7 +1,7 @@
 ---
 description: New features, updates and more..
-cover: ../.gitbook/assets/Path - 1.png
-coverY: 238
+cover: ../.gitbook/assets/Rock with 24 carved in it.png
+coverY: -28
 ---
 
 # 🥳 Updating to Xumm v2.4 !
@@ -56,7 +56,7 @@ In Xumm, press **Settings** then **Third party apps** to get a list of apps / si
 
 This was just a quick overview of a couple of the new features in this release but there are more if you are interested. Check out our release notes for more details:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm v2.4</td><td></td><td></td><td><a href="../.gitbook/assets/Rock with 24 carved in it.png">Rock with 24 carved in it.png</a></td><td><a href="../release-notes/xumm-v2.4.md">xumm-v2.4.md</a></td></tr></tbody></table>
+* ****[**Xumm v2.4 Release notes**](../release-notes/xumm-v2.4.md)****
 
 **Notes**
 
