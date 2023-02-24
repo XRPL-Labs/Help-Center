@@ -44,7 +44,7 @@ We've improved our encryption algorithms in this version of Xumm! If you would l
 
 For more information on this, check out his article:
 
-\<Enter article here>
+****[**Upgrading your encryption**](../security-and-xumm/all-about-security/upgrading-your-encryption.md)****
 
 ### More control over Third party apps&#x20;
 
