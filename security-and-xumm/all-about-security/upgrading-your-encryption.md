@@ -20,7 +20,13 @@ While the AES 256 (Advanced Encryption Standard) still remains the encryption al
 
 ### How to upgrade &#x20;
 
+We have made the upgrade process super easy, so if you are ready to upgrade your accounts here are the steps:
 
+Launch Xumm and press **Settings** then **Accounts**:
+
+<figure><img src="../../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
+
+then press the ![](../../.gitbook/assets/image.png) button.
 
 
 
