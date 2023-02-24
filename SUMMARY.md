@@ -47,7 +47,7 @@
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [Spam on the XRP Ledger](learning-more-about-xumm/page-1.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
-* [📺 Destination tags](learning-more-about-xumm/destination-tags.md)
+* [Destination tags](learning-more-about-xumm/destination-tags.md)
 * [How to recover a swapped Casinocoin (CSC) account](learning-more-about-xumm/how-to-recover-a-swapped-casinocoin-csc-account.md)
 * [Gatehub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
 * [Taxes and your XRPL account](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
@@ -55,6 +55,7 @@
 * [How to reset the 6 digit passcode](learning-more-about-xumm/how-to-reset-the-6-digit-passcode.md)
 * [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 * [Deleting an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
+* [NFTs](learning-more-about-xumm/nfts.md)
 
 ## ALL ABOUT XAPPS
 

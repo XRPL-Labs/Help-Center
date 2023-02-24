@@ -34,7 +34,7 @@ and...
 
 If you are interested in learning more about how Xumm interacts with NFTs, check out this article:
 
-\<Enter article here>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">About NFTs</td><td></td><td></td><td><a href="../.gitbook/assets/Rock with NFT carved in it.png">Rock with NFT carved in it.png</a></td><td></td><td><a href="../learning-more-about-xumm/nfts.md">nfts.md</a></td></tr></tbody></table>
 
 ### Improved security
 
