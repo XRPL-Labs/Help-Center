@@ -56,6 +56,7 @@
 * [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 * [Deleting an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
 * [NFTs](learning-more-about-xumm/nfts.md)
+* [Does Xumm of Staking?](learning-more-about-xumm/does-xumm-of-staking.md)
 
 ## ALL ABOUT XAPPS
 
