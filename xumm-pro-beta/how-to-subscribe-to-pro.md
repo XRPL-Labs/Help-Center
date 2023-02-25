@@ -56,21 +56,17 @@ You certainly can but please be aware, there are a couple of countries where we 
 * Ukraine
 * Vietnam
 
-So while you can subscribe to and enjoy all of the great features of Xumm Pro, unfortunately we will be unable to send you your free Xumm cards.  Reach out to us via the Xumm Support xApp if you have any additional questions about this.
+So while you can subscribe to and enjoy all of the great features of Xumm Pro, unfortunately we will be unable to send you the free Xumm cards.  Reach out to us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
 
 ### **I already purchased the Xumm Tangem Pro pack.** **Do I get free access to Xumm Pro Beta?**
 
 You sure do! (Thanks for your early support by the way… 😁) Just make sure you switch to the account that you purchased the Pro pack with and launch Pro Beta from the icon on the bottom of the screen.
 
-![https://support.xumm.app/hc/article\_attachments/6138283995026/mceclip0.png](https://support.xumm.app/hc/article\_attachments/6138283995026/mceclip0.png)
-
-mceclip0.png
+<figure><img src="../.gitbook/assets/Pro - 1.png" alt=""><figcaption></figcaption></figure>
 
 then press the _**Open Pro Beta**_ button.
 
-![https://support.xumm.app/hc/article\_attachments/6141010994834/mceclip0.png](https://support.xumm.app/hc/article\_attachments/6141010994834/mceclip0.png)
-
-mceclip0.png
+<figure><img src="../.gitbook/assets/Pro - 2.png" alt=""><figcaption></figcaption></figure>
 
 ### **Tell me all about the features of Pro Beta.**
 
