@@ -6,19 +6,15 @@ description: How does the Profiles feature in Xumm Pro work?
 
 ### **What exactly is Profiles?**
 
-Profiles is basically a way to make n easy way to identify yourself on the XRP Ledger blockchain. It allows you to create and publish an identity profile page so other people can identify who you are.&#x20;
+The Profiles feature allows you to create an identity page and PayString so people can easily send you funds and locate your account on the XRPL.
 
-Here’s what a Profile page looks like for one of our developers, Kevin:
+Here’s what a Profile page looks like:&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Profile picture - Kevin -2.png" alt=""><figcaption></figcaption></figure>
 
 ### **Why would I want to create a public Profile on the XRPL?**
 
-There are a couple of reasons you might want to do this.
-
-* The XRP Ledger community is made up of people from all over the world. In most societies, people prefer to know who they are dealing with when it comes to matters of finance and financial payments. Creating a public profile is a good way add **trust** between Xumm users.
-* As governments around the world move closer towards regulating public blockchains, creating a verified public profile is a safe and secure way to add **transparency** to the XRPL and stay ahead of the coming regulations.
-* It is a pretty cool way to represent yourself and it allows you to control your image in the XRPL community. You get your own personal page on the internet which provides an easy way for people to send you funds. As well, future updates to Profiles will also include "Xumm badges" for achievements such as Contributor, Validator, Beta Tester, Supporter and many more..
+It is a pretty cool way to represent yourself and it allows you to control your image in the XRPL community. You get your own personal page on the internet which provides an easy way for people to send you funds.&#x20;
 
 ### **How do I access my Profile page?**
 
@@ -36,7 +32,7 @@ or if your name is Daniel Jackson, your Profile page could be:
 
 <mark style="color:blue;">xumm.me/danieljackson</mark>
 
-The idea is that your Profile page matches your actual identity.
+The general idea is that your Profile page matches your actual identity.
 
 ### What is my Paystring?
 
@@ -44,7 +40,7 @@ Your PayString address is an easy way for people to send you funds on the XRP Le
 
 In Kevin's case, his PayString is:
 
-kevin$xumm.me
+<mark style="color:blue;">kevin$xumm.me</mark>
 
 <figure><img src="../../../../.gitbook/assets/Profiles - Kevin.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,19 +48,23 @@ If you wanted to send XRP to Kevin's account, you could always enter his r-addre
 
 but many people have trouble remembering r-addresses. It is much easier to send the XRP to: **kevin$xumm.me**&#x20;
 
-Paystring is like a phone book that links an r-address to an easy-to-remember&#x20;
+Think of PayString like a phone book that links your r-address to an easy-to-remember PayString address.
 
 ### How can people find my PayString?
 
-Since all Xumm Profile pages start with: **xumm.me/**\<yourname> you could simply tell people how to find your page, or, since all PayStrings end with: \<yourname>**$xumm.me** your could simply tell them your PayString but we have taken it one step further.
+Since all Xumm Profile pages start with: **xumm.me/**\<yourname> you could simply tell people how to find your Profile page, or, since all PayStrings end with: \<yourname>**$xumm.me** your could simply tell them your PayString but we have taken it one step further.
 
-In Xumm, you can actually search for people's PayString directly from the Send flow. In this case, we search for "kevin" and Xumm will display the results for you to choose.
+In Xumm, you can actually search for a PayString directly from the Send flow. In this case, we search for "kevin" and Xumm will display the results for you to choose.
 
 <figure><img src="../../../../.gitbook/assets/Profiles - Search.png" alt=""><figcaption></figcaption></figure>
 
 It is just like a phone book, you can look up someone's r-address just by knowing their name!  🎉
 
+### How do I create my Profile page?
 
+We have created an article to walk you through the process:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Setting up your Profile</td><td></td><td></td><td><a href="setting-up-your-xumm-profile.md">setting-up-your-xumm-profile.md</a></td><td><a href="../../../../.gitbook/assets/Bench.png">Bench.png</a></td></tr></tbody></table>
 
 **Notes**
 
