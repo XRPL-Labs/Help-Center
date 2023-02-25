@@ -14,31 +14,33 @@ If you have already subscribed to Pro Beta, check out our [Features of Pro](feat
 
 It has been a long wait for Xumm Pro and now that the beta version is available, you just want to get immediate access. We completely understand!
 
-1. Press the _**Pro Beta**_ icon at the bottom of the screen in Xumm.
+1\) Press the _**Pro Beta**_ icon at the bottom of the screen in Xumm.
 
 <figure><img src="../.gitbook/assets/Pro - 1.png" alt=""><figcaption></figcaption></figure>
 
-1. Press the _**Open Pro Beta**_ button.
+2\) Press the _**Open Pro Beta**_ button.
 
 <figure><img src="../.gitbook/assets/Pro - 2.png" alt=""><figcaption></figcaption></figure>
 
-1. Scroll down and press the _**Get Pro**_ button.
+3\) Scroll down and press the _**Get Pro**_ button.
 
 <figure><img src="../.gitbook/assets/Pro - 3.png" alt=""><figcaption></figcaption></figure>
 
-1. Pay for your subscription in XRP. You’re a set to go! 👏
+4\) Pay for your subscription.
 
 ### **How much does it cost to subscribe to Xumm Pro Beta?**
 
-**$60 USD (paid in XRP)**
+A subscription to Xumm Pro Beta costs **$60 USD (paid in XRP)** but we are so excited about the beta release, we are offering **1 1/2 years** of Xumm Pro access for the price of a 1 year subscription! 🎁 🥳&#x20;
 
-…but we are so excited about the beta release, we are offering **1 1/2 years** of Xumm Pro access for the price of a 1 year subscription! 🎁 🥳 We truly appreciate your early and continued support and value your potential input, so if you subscribe now, you get access to the Pro beta program and your subscription does not officially start until the beta program ends.
+We truly appreciate your early and continued support and value your potential input, so if you subscribe now, you get access to the Pro beta program and your subscription does not officially start until the beta program ends.
 
-Note: As the price of XRP fluctuates in relation to USD, you will see that the XRP price of Pro Beta change to match.)
+{% hint style="info" %}
+Keep in mind, as the price of XRP fluctuates in relation to USD, you will see that the XRP price of Pro Beta changes to match.
+{% endhint %}
 
 ### **So I get to use Pro Beta for free until the beta period ends, then I get a 1 1/2 year subscription?**
 
-That is exactly right. If you subscribe now, you can enjoy all of the current features Pro Beta has to offer for free, then when the beta period ends, your 1 1/2 year subscription starts!
+That is exactly right. If you subscribe now, you can enjoy all of the current features Pro Beta has to offer for free, then, when the beta period ends, your 1 1/2 year subscription starts!
 
 ### **Is this a one time fee or a yearly subscription?**
 
