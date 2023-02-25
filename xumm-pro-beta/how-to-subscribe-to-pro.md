@@ -72,19 +72,29 @@ then press the _**Open Pro Beta**_ button.
 
 Here are a list of **current** features in Xumm Pro Beta.
 
-![https://support.xumm.app/hc/article\_attachments/6245948063890/mceclip1.png](https://support.xumm.app/hc/article\_attachments/6245948063890/mceclip1.png)
-
-mceclip1.png
+| Feature                       | Description                                                                                                                                     |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Push notifications            | <p>Get real time push notifications if a transaction affects your balance. </p><p>I.e. incoming transactions or background executed trades.</p> |
+| Opt-in KYC                    | Go through the KYC process to unlock more Pro features and get a blue checkmark on your account.                                                |
+| Two free Xumm (Tangem) cards  | Use our NFC cards to generate XRPL accounts off-line, in a safe and secure manner.                                                              |
+| Profiles & PayString          | Create your own Profile page and create your own PayString                                                                                      |
+| Early access to beta features | Participate in early beta versions of Xumm and get to test beta xApps.                                                                          |
+| Premium Support               | Your support tickets get priority service.                                                                                                      |
+| Xumm On/Off-Ramps             | Buy XRP with Euros/Pounds at great rates! (Netherlands and UK only)                                                                             |
 
 and here are some of the things we are working on…
 
-![https://support.xumm.app/hc/article\_attachments/6245965551122/mceclip2.png](https://support.xumm.app/hc/article\_attachments/6245965551122/mceclip2.png)
+| Feature               | Description                                   |
+| --------------------- | --------------------------------------------- |
+| Escrows - Auto finish | Manage your escrows from beginning to end     |
+| Encrypted Backups     | Create a backup of you private keys           |
+| Multi-sign xApp       | Authorize transactions with multiple accounts |
 
-mceclip2.png
+
 
 ### **Why should I subscribe to Pro beta now and not wait for the “completed” version of Xumm Pro?**
 
-Many people have requested access to the features that Pro Beta offers so we have been working night and day developing and refining them. While the Pro Beta features are ready to go, we really want to get your feedback and suggestions on how they work for you. Your input is a critical component in our development process, 🤗
+Many people have requested access to the features that Pro Beta offers so we have been working night and day developing and refining them. While the Pro Beta features are ready to go, we really want to get your feedback and suggestions on how they work for you. Your input is a critical component in our development process. 🤗
 
 So if you have any ideas/comments on how we can improve, we would be delighted to hear them. We even have a special site where you can share your suggestions with us:
 
@@ -97,47 +107,30 @@ Plus, by subscribing now, you get to enjoy all the features of Pro beta for free
 In a way, Xumm Pro will probably never be “completed”. We continue to develop new features and have a bunch of new ideas that we want to add but the beta version will “graduate” when the core features of Xumm Pro are done and working smoothly. These include:
 
 * Auto finish escrow
-* Contact sync
-* Personal profile
-* Hosted PayString
 * Encrypted backups
 * Payment requests
 
 We are very meticulous when it comes to coding Xumm and do not rush our features or product releases. They will be ready when they are ready.
 
-### **I’ve already purchased a couple of Xumm Tangem cards, can I get a discount on a Pro subscription?**
-
-Our website has a couple of options for people who wanted to receive Pro with their card order.
-
-![https://support.xumm.app/hc/article\_attachments/6884706507410/mceclip0.png](https://support.xumm.app/hc/article\_attachments/6884706507410/mceclip0.png)
-
-mceclip0.png
-
-You can view them here ->[https://xrpl-labs.com/tangem/pricing](https://xrpl-labs.com/tangem/pricing)
-
-Unfortunately we do not have an upgrade option for those people who already purchased cards, however, you will still receive an additional **two free cards** if you decide to purchase a subscription. Many people use the extra cards to create a second XRPL account or end up giving them away to friends or family.
-
 ### **I’m feeling generous! How do I give Pro Beta as a gift?**
 
 You are probably not surprised to hear this, but many people in the XRP community are VERY generous. For those who wish to give a Pro Beta subscription as a gift to someone else, we have created as special page to simplify this process for your you.
 
-* [https://xrpl-labs.com/gift-pro](https://xrpl-labs.com/gift-pro)
+{% embed url="https://xrpl-labs.com/gift-pro" %}
 
 This link takes you to a page that looks like this:
 
-![https://support.xumm.app/hc/article\_attachments/6393606056466/mceclip0.png](https://support.xumm.app/hc/article\_attachments/6393606056466/mceclip0.png)
-
-mceclip0.png
+<figure><img src="../.gitbook/assets/Gift Xumm Pro.png" alt=""><figcaption></figcaption></figure>
 
 Simply press the **Gift directly to r-address** button, enter the r-address of the lucky person and press the _**Purchase**_ button.
 
 ### **Is there a way I can test Xumm Pro to see if I like it?**
 
-No. Xumm is completly free to use so you have plenty of time to test it out.
+Unfortunately not. We do not offer a trial period.
 
-If you are looking for the additional features that Pro provides, including two Xumm cards, Profiles, KYC verification, push notifications and more, then the Pro subscription makes sense for you.
-
+{% hint style="warning" %}
 Please note, due to the costs associated with the cards and the KYC process, along with the integration of Profiles into Xumm and the XRP ecosystem, we do not offer refunds on Pro subscriptions, so please make sure you thoroughly review the features before subscribing.
+{% endhint %}
 
 ### **I love it! Where can I learn more?**
 
@@ -147,8 +140,6 @@ This article provides more details on how Xumm Pro actually works and answers so
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with XUMM and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png](https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png)
-
-Support\_banner.png
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
