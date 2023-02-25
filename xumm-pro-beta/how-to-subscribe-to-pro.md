@@ -6,9 +6,9 @@ description: How to subscribe to Xumm Pro
 
 ### **Background**
 
-In this article we will explore the features of Xumm Pro Beta and how you can subscribe and how to give Xumm Pro as a gift.
+In this article we will explore the features of Xumm Pro Beta and how you can subscribe.
 
-If you already subscribed to Pro Beta, check out our “[**Welcome to Xumm Pro Beta**](https://support.xumm.app/hc/en-us/articles/6123389868562)” article for more information about the app.
+If you have already subscribed to Pro Beta, check out our [Features of Pro](features-of-pro.md) section for more information about the app.
 
 ### **I just want to get access as quickly as possible. How do I do that?**
 
@@ -16,21 +16,15 @@ It has been a long wait for Xumm Pro and now that the beta version is available,
 
 1. Press the _**Pro Beta**_ icon at the bottom of the screen in Xumm.
 
-![https://support.xumm.app/hc/article\_attachments/6138283995026/mceclip0.png](https://support.xumm.app/hc/article\_attachments/6138283995026/mceclip0.png)
-
-mceclip0.png
+<figure><img src="../.gitbook/assets/Pro - 1.png" alt=""><figcaption></figcaption></figure>
 
 1. Press the _**Open Pro Beta**_ button.
 
-![https://support.xumm.app/hc/article\_attachments/6141010994834/mceclip0.png](https://support.xumm.app/hc/article\_attachments/6141010994834/mceclip0.png)
-
-mceclip0.png
+<figure><img src="../.gitbook/assets/Pro - 2.png" alt=""><figcaption></figcaption></figure>
 
 1. Scroll down and press the _**Get Pro**_ button.
 
-![https://support.xumm.app/hc/article\_attachments/6173402739474/mceclip1.png](https://support.xumm.app/hc/article\_attachments/6173402739474/mceclip1.png)
-
-mceclip1.png
+<figure><img src="../.gitbook/assets/Pro - 3.png" alt=""><figcaption></figcaption></figure>
 
 1. Pay for your subscription in XRP. You’re a set to go! 👏
 
