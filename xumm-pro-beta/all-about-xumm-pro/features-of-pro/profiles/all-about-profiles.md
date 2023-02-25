@@ -1,5 +1,7 @@
 ---
 description: How does the Profiles feature in Xumm Pro work?
+cover: ../../../../.gitbook/assets/van gogh notebook.png
+coverY: 216
 ---
 
 # All about Profiles

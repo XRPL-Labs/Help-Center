@@ -1,5 +1,7 @@
 ---
 description: How to configure your Xumm profile
+cover: ../../../../.gitbook/assets/Bench.png
+coverY: -321
 ---
 
 # Setting up your Xumm Profile
