@@ -136,7 +136,7 @@ Please note, due to the costs associated with the cards and the KYC process, alo
 
 This article provides more details on how Xumm Pro actually works and answers some additional questions you may have.
 
-* [Welcome to Xumm Pro Beta! 🎉](https://support.xumm.app/hc/en-us/articles/6123389868562)
+* [Welcome to Xumm Pro Beta](all-about-xumm-pro/welcome-to-xumm-pro-beta.md)
 
 **Notes**
 
