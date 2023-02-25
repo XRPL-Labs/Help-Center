@@ -26,7 +26,7 @@ Basically, a validator "locks up" a bunch of coins to prove that they are commit
 
 No. The XRP Ledger is not a Proof-of-Stake blockchain. The XRPL uses the XRPL Consensus Protocol to validate transactions and does not rely on staking like a PoS blockchain does. The XRPL validation process is not a competitive based system, it is a cooperative based system.
 
-### **Can I earn rewards using XUMM?**
+### **Can I earn rewards using Xumm?**
 
 Since the XRPL does not offer an incentivization model for holders and all fees charged by the XRP Ledger are destroyed, there is no way generate returns from the network and Xumm is a self-custodial wallet that is completely free to use.&#x20;
 
