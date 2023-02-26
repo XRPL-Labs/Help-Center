@@ -51,7 +51,7 @@ For more information about Trust Lines and how they work, check out this link:
 * [All about Trust Lines](https://xrpl.org/trust-lines-and-issuing.html#trust-lines-and-issuing)
 
 {% hint style="danger" %}
-One final note, you should never send tokens back to an issuing account. Doing this will destroy them.
+One final note, you should never send tokens back to an issuing account. Doing this will destroy them. If you are unsure about this, please contact us to discuss.
 {% endhint %}
 
 **Notes**
