@@ -32,7 +32,7 @@ For more information how to create a Trust Line, check out this article:
 
 ### **Each Trust Line has its own r-address…**
 
-In order to receive and hold a particular XRP Ledger token, (there are over 82010 of them), you need to create a Trust Line to their project.
+In order to receive and hold a particular XRP Ledger token, (there are over 8200 of them), you need to create a Trust Line to their project.
 
 Let’s look at the CasinoCoin (CSC) project for example.
 
@@ -49,6 +49,10 @@ When you create a Trust Line, you are basically saying that you have researched 
 For more information about Trust Lines and how they work, check out this link:
 
 * [All about Trust Lines](https://xrpl.org/trust-lines-and-issuing.html#trust-lines-and-issuing)
+
+{% hint style="danger" %}
+One final note, you should never send tokens back to an issuing account. Doing this will destroy them.
+{% endhint %}
 
 **Notes**
 
