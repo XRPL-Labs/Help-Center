@@ -67,7 +67,9 @@ Any reserve that is applied to your account, **stays in your account.** The XRP 
 
 ### &#x20;**How can I see my account reserves in Xumm?**
 
-On the main page of Xumm, press the **Explain** button.
+On the main page of Xumm, press the **Reserved** button.
+
+<figure><img src="../../.gitbook/assets/v24 - Reserves -1.png" alt=""><figcaption></figcaption></figure>
 
 Xumm should display your **Account balance**, the amount of XRP **available for spending** and a list of **reserves** on your account.
 
