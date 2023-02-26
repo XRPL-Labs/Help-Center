@@ -10,7 +10,9 @@ GateHub is a payment gateway platform that allows you to trade and store digital
 
 For more information, you can visit their site here:
 
-* [Gatehub](https://gatehub.net/)
+{% embed url="https://gatehub.net" %}
+Gatehub's Website
+{% endembed %}
 
 ### **What tokens has Gatehub issued?**
 
@@ -72,7 +74,9 @@ You need to visit Gatehub and create an account with them. Once you have done th
 
 For more information about the process, you can contact Gatehub support at:
 
-* [Gatehub Support](https://support.gatehub.net/hc/en-us)
+{% embed url="https://support.gatehub.net/hc/en-us" %}
+Gatehub Support
+{% endembed %}
 
 ### **How do I convert my Gatehub issued USDC, USDT, GALA or WXRP back to Ethereum based tokens?**
 
@@ -80,7 +84,9 @@ If you have purchased any of the tokens issued by Gatehub on the XRP Ledger and 
 
 For more information about this process, you can contact Gatehub support at:
 
-* [Gatehub Support](https://support.gatehub.net/hc/en-us)
+{% embed url="https://support.gatehub.net/hc/en-us" %}
+Gatehub Support
+{% endembed %}
 
 ### **What about other exchanges (Uphold, Coinbase, Binance, etc.) Will they accept any of Gatehub's 16 issued tokens?**
 
