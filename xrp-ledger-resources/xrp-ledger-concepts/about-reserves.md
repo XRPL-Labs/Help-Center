@@ -65,25 +65,23 @@ No. The base reserve and owner reserves are a function of the XRP Ledger. They h
 
 Any reserve that is applied to your account, **stays in your account.** The XRP Ledger simply marks the reserve amount as 'unspendable'. When the object is removed from your account, the reserve is marked as 'spendable' again. Xumm **does not** have access to your funds nor is Xumm involved in the XRPL reserves in any way.
 
-### &#x20;**How can I see my account reserves in Xumm?**
+### **How can I see my account reserves in Xumm?**
 
 On the main page of Xumm, press the **Reserved** button.
 
 <figure><img src="../../.gitbook/assets/v24 - Reserves -1.png" alt=""><figcaption></figcaption></figure>
 
-Xumm should display your **Account balance**, the amount of XRP **available for spending** and a list of **reserves** on your account.
+Xumm should display your **Account balance**, the amount of XRP A**vailable for spending** and a list of **Reserved on ledger** on your account.
 
-n the above example, you can see that the account has 10 XRP marked as un-spendable to meet the wallet reserve, 8 XRP marked as un-spendable to meet the owner reserves for the NFTs that are being offered for sale (2 XRP for each offer), and 2 XRP marked as un-spendable for **Other (see ledger explorer)**&#x20;
+<figure><img src="../../.gitbook/assets/v24 - Reserves -2.png" alt=""><figcaption></figcaption></figure>
 
-The total reserve amount is 20 XRP.
+In the above example, you can see that the account has 10 XRP marked as un-spendable to meet the wallet reserve and 2 XRP marked as un-spendable to meet the owner reserves for each of the Trust Lines created in the account. ****&#x20;
 
-&#x20;
-
-#### **Wait. What is the "Other" owner reserve and how do I get it back?**
+### **On my list is a line titled: NFTokenPages**
 
 When a NFT is minted on the XRPL, an object called _NFTokenpage_ is created to 'store" it.
 
-An NFTokenpage is an object on the XRPL so it requires a 2 XRP owner reserve. In Xumm, we list that under the **Other** category.
+An NFTokenpage is an object on the XRPL so it requires a 2 XRP owner reserve.&#x20;
 
 If you would like to recover the 2 XRP for this object you need to get rid of all of the NFTs stored on this page. The site where you minted/purchased your NFTs will have instructions on how to do this.
 
@@ -91,7 +89,7 @@ NFTokenpage concept is a bit of a complicated topic but if you are interested in
 
 * [https://xrpl.org/nftokenpage.html](https://xrpl.org/nftokenpage.html)
 
-#### **How do I recover the Wallet reserve?**
+### **How do I recover the Wallet reserve?**
 
 As mentioned above, each XRPL account **must** contain at least 10 XRP to meet the base reserve requirement of the XRP Ledger. If you would like to recover the base reserve, the only way to do this is to delete your account from the XRPL.
 
@@ -103,7 +101,7 @@ For more information about how to delete an account from the XRPL, please review
 
 * [How to delete your XRP Ledger account](https://support.xumm.app/hc/en-us/articles/360018166359)
 
-&#x20;**Notes**
+**Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
