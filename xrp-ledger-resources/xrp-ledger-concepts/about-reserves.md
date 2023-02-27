@@ -55,7 +55,7 @@ Owner reserves can recovered when the object is removed from the account. (i.e..
 
 Many of these operations can be performed in Xumm or by visiting XRPL Services at:
 
-* [https://xrpl.services/tools](https://xrpl.services/tools)
+* [XRPL Services](https://xrpl.services/tools)
 
 ### **Does Xumm impose the reserves on my account?**
 
@@ -99,7 +99,7 @@ There is a 2 XRP fee for doing this which is levied by the XRPL along with the n
 
 For more information about how to delete an account from the XRPL, please review this article:
 
-* [How to delete your XRP Ledger account](https://support.xumm.app/hc/en-us/articles/360018166359)
+* [How to delete your XRP Ledger account](../../learning-more-about-xumm/deleting-an-xrpl-account.md)
 
 **Notes**
 
