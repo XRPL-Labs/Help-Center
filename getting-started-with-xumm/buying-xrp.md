@@ -1,5 +1,5 @@
 ---
-description: How do I buy Xumm
+description: How to buy XRP using Xumm
 ---
 
 # Buying XRP
@@ -12,7 +12,7 @@ If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp ser
 
 For most people, this fast, convenient and secure service will more than meet their needs so if you are interested in learning more about how it works, check out this article:
 
-\<Enter link to article here>
+* [All about Xumm On/Off-ramps](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
 
 ### **Option 2**
 
