@@ -12,7 +12,7 @@ Put simply, it allows Xumm Pro users to quickly and efficiently send fiat curren
 
 When it comes time to “cash out” XRP, Xumm Pro users can use the service to convert XRP back into fiat and send their fiat back to their bank account.
 
-This article discusses how Xumm On/Off Ramps work, how to get started with the service and many other common questions.
+This article discusses how Xumm On/Off Ramps work, how to get started with the service and answers many common questions.
 
 Needless to say, we are very excited to bring this service to the XRP Community and we hope you find it useful. We certainly enjoyed making it! 😊
 
@@ -38,7 +38,7 @@ We are currently offering this service to our customers in the **Netherlands** a
 
 ### **What about North America? Asia? Africa?**
 
-The crypto space in North America is… complicated at the moment. When things settle down and the government is able to provide clarity and clear regulations, we will take another look into expanding across the pond.
+The crypto space in North America is… complicated at the moment. When things settle down and the various governments are able to provide clarity and clear regulations, we will take another look into expanding across the pond.
 
 We **are** working with industry partners to provide On/Off-Ramp services for North America (and other regions) but they may not provide rates as good as ours. Our services will still be a lot more convenient, user-friendly and secure compared to third-party exchanges but the rates might not be as competitive as they are here in Europe.
 
@@ -116,9 +116,23 @@ One of our main goals is to be able to offer this service to as many people as p
 
 Once we have completed the roll out, we will revisit our limits with our customers and see if the 15K limit still makes sense.
 
-### **Notes**
+{% hint style="danger" %}
+Please note!
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **XUMM Support xApp** in XUMM or you can simply scan this QR code with XUMM and be directed there automatically.
+In order to provide our service, we are forced to rely on existing financial systems when transferring fiat between bank accounts. Sometimes these transfers involve international institutions such as third party banks, clearinghouses, foreign exchanges, brokers or other business which we have no control over. This means that occasionally there may be delays when sending fiat between your bank account and ours. (Unfortunately these legacy systems are not nearly as efficient as the XRP Ledger when it comes to this process.)&#x20;
+
+In the vast majority of cases, fiat transfers usually take a couple of hours but it is also possible that a transfer could take a few hours or even longer, depending on factors outside of our control.  If you are encountering delays when sending or receiving fiat, please feel free to contact us and we can investigate.
+
+
+
+&#x20;
+{% endhint %}
+
+
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
