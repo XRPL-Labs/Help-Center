@@ -119,12 +119,16 @@ Once we have completed the roll out, we will revisit our limits with our custome
 {% hint style="danger" %}
 Please note!
 
-In order to provide this service, we are forced to rely on existing banking systems when transferring fiat between bank accounts. Sometimes these transfers involve international parties such as third party banks, payment service providers, foreign exchanges, or other business which we have no control over. This means that occasionally there may be delays when sending fiat between your bank account and ours.&#x20;
+While we certainly understand the importance of timely and efficient services, we are forced to rely on existing banking systems when transferring fiat between bank accounts. These transfers may involve international parties such as foreign exchanges, payment service providers, third party banks, or other businesses which could cause delays in processing.
 
 In most cases, fiat transfers will only take a few minutes, (i.e. for banks within SEPA (Single Euro Payments Area) but it is also possible that a transfer could take several hours (or even several days). It all depends on factors outside of our control.&#x20;
 
-Rest assured that once your funds are delivered to our account, they will be immediate converted into XRP and deposited into your XRPL account.  If you are encountering delays when sending or receiving fiat, please feel free to contact us and we can certainly investigate.&#x20;
+Nevertheless, rest assured that once we receive your funds, they will be immediately converted into XRP and deposited into your XRPL account.   If you encounter delays in sending or receiving fiat, please contact us, and we will investigate the matter.
 {% endhint %}
+
+### How can a bank transfer be delayed?
+
+A bank transfer can be delayed for various reasons, and most of these are outside the control of either the sender or the recipient. For example, delays can occur due to technical issues with the bank's systems or the recipient's bank, such as maintenance or system upgrades. International transfers, in particular, can be delayed due to the involvement of multiple banks, currency conversions, compliance with regulatory requirements or fraud prevention measures. (Which are designed to protect the security of the transfer and the accounts involved.) Moreover, if the transfer is flagged as suspicious, it may be subject to additional scrutiny, which can result in further delays. Errors in the transfer instructions or incomplete information can also cause delays.&#x20;
 
 
 
