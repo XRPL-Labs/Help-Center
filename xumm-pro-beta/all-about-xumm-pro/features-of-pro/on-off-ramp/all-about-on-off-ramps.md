@@ -119,9 +119,9 @@ Once we have completed the roll out, we will revisit our limits with our custome
 {% hint style="danger" %}
 Please note!
 
-In order to provide our service, we are forced to rely on existing financial systems when transferring fiat between bank accounts. Sometimes these transfers involve international institutions such as third party banks, clearinghouses, foreign exchanges, brokers or other business which we have no control over. This means that occasionally there may be delays when sending fiat between your bank account and ours. (Unfortunately these legacy systems are not nearly as efficient as the XRP Ledger when it comes to this process.)&#x20;
+In order to provide our service, we are forced to rely on existing banking systems when transferring fiat into our bank accounts. Sometimes these transfers involve international parties such as third party banks, payment service providers, foreign exchanges, or other business which we have no control over. This means that occasionally there may be delays when sending fiat between your bank account and ours.&#x20;
 
-In the vast majority of cases, fiat transfers usually take a couple of hours but it is also possible that a transfer could take several days, depending on factors outside of our control.  If you are encountering delays when sending or receiving fiat, please feel free to contact us and we can investigate.&#x20;
+In most cases, fiat transfers only take a few minutes, (for banks within SEPA (Single Euro Payments Area) but it is also possible that a transfer could take several hours or even several days, depending on factors outside of our control.  Rest assured that once your funds are delivered to our account, they will be immediate converted into XRP and deposited into your XRPL account.  If you are encountering delays when sending or receiving fiat, please feel free to contact us and we can certainly investigate.&#x20;
 {% endhint %}
 
 
