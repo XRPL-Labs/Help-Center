@@ -121,11 +121,7 @@ Please note!
 
 In order to provide our service, we are forced to rely on existing financial systems when transferring fiat between bank accounts. Sometimes these transfers involve international institutions such as third party banks, clearinghouses, foreign exchanges, brokers or other business which we have no control over. This means that occasionally there may be delays when sending fiat between your bank account and ours. (Unfortunately these legacy systems are not nearly as efficient as the XRP Ledger when it comes to this process.)&#x20;
 
-In the vast majority of cases, fiat transfers usually take a couple of hours but it is also possible that a transfer could take a few hours or even longer, depending on factors outside of our control.  If you are encountering delays when sending or receiving fiat, please feel free to contact us and we can investigate.
-
-
-
-&#x20;
+In the vast majority of cases, fiat transfers usually take a couple of hours but it is also possible that a transfer could take several hours or even longer, depending on factors outside of our control.  If you are encountering delays when sending or receiving fiat, please feel free to contact us and we can investigate.&#x20;
 {% endhint %}
 
 
