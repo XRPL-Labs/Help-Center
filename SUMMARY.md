@@ -48,6 +48,7 @@
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [Spam on the XRP Ledger](learning-more-about-xumm/page-1.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
+* [Guidelines and review process of publishing xApps](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
 * [Destination tags](learning-more-about-xumm/destination-tags.md)
 * [How to recover a swapped Casinocoin (CSC) account](learning-more-about-xumm/how-to-recover-a-swapped-casinocoin-csc-account.md)
 * [Gatehub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
