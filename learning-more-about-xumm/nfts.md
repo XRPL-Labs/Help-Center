@@ -48,11 +48,11 @@ You can try opening your NFT using one of the NFT viewer xApps list. In this cas
 
 You'll notice that you have three additional options:
 
-| Option                                  | Explanation                                                                                                       |
-| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| ![](<../.gitbook/assets/image (8).png>) | Displays any offers you have made or received for this NFT                                                        |
-| ![](<../.gitbook/assets/image (2).png>) | Copies a link to your NFT.                                                                                        |
-| ![](<../.gitbook/assets/image (9).png>) | Open a blockchain explore where you can view additional details about your NFT including the history of your NFT. |
+| Option                                      | Explanation                                                                                                       |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ![](<../.gitbook/assets/image (8).png>)     | Displays any offers you have made or received for this NFT                                                        |
+| ![](<../.gitbook/assets/image (2) (6).png>) | Copies a link to your NFT.                                                                                        |
+| ![](<../.gitbook/assets/image (9).png>)     | Open a blockchain explore where you can view additional details about your NFT including the history of your NFT. |
 
 
 
@@ -105,8 +105,6 @@ There is actually! Here is our founder, Wietse Wind talking a bit about NFT's.
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-&#x20;
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 

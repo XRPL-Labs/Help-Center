@@ -22,7 +22,7 @@ If you are not located in the Netherlands or the UK, we have partnered with seve
 | ----------------------------------------------- | ------------------------------------------------------------------------------ | ------------------- |
 | ![](<../.gitbook/assets/image (2) (2) (3).png>) | ****[**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)****         | All About Banxa     |
 | ![](<../.gitbook/assets/image (5) (1).png>)     | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
-| ![](../.gitbook/assets/image.png)               | ****[**Stably xApp**](https://xumm.app/detect/xapp:stably.ramp)****            | All About Stably    |
+| ![](<../.gitbook/assets/image (3).png>)         | ****[**Stably xApp**](https://xumm.app/detect/xapp:stably.ramp)****            | All About Stably    |
 
 Combined, Banxa, BTCDirect and Stably offer exchange services to most countries in the world. You can find them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp. (Or just click here:
 
@@ -36,7 +36,7 @@ There are several crypto exchanges in the blockchain space where you can purchas
 
 | Icon                                                                             | How to transfer XRP from:                                          | Link to open exchange website                                                                                                   |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">         | <mark style="color:blue;">**Gatehub**</mark>                       | <mark style="color:blue;"></mark>[<mark style="color:blue;">Open</mark>](https://gatehub.net/)<mark style="color:blue;"></mark> |
+| <img src="../.gitbook/assets/image (1) (1) (2).png" alt="" data-size="line">     | <mark style="color:blue;">**Gatehub**</mark>                       | <mark style="color:blue;"></mark>[<mark style="color:blue;">Open</mark>](https://gatehub.net/)<mark style="color:blue;"></mark> |
 | ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)                              | ****[**Bitstamp**](activating-an-account/from-bitstamp.md)****     | [Open](https://www.bitstamp.net/)                                                                                               |
 | ![](<../.gitbook/assets/image (1) (3).png>)                                      | ****[**Kraken**](activating-an-account/from-kraken.md)****         | [Open](https://www.kraken.com/)                                                                                                 |
 | ![](<../.gitbook/assets/image (2) (1) (2).png>)                                  | ****[**Crypto.com**](activating-an-account/from-crypto.com.md)**** | [Open](https://crypto.com/)                                                                                                     |

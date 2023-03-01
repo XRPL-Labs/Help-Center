@@ -26,7 +26,7 @@ Launch Xumm and press **Settings** then **Accounts**:
 
 <figure><img src="../../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
 
-Press the ![](<../../.gitbook/assets/image (1).png>) button. Xumm will list your accounts that are eligible to be upgraded.&#x20;
+Press the ![](<../../.gitbook/assets/image (1) (1).png>) button. Xumm will list your accounts that are eligible to be upgraded.&#x20;
 
 <figure><img src="../../.gitbook/assets/Encryption - 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ Press the ![](<../../.gitbook/assets/image (1).png>) button. Xumm will list your
 You may have noticed in our example that the "Card 1" account is not displayed in the above image. The "Card 1" account is a Xumm (Tangem) card account so it **can not** be upgraded. (Since the private key is stored on the card itself, not in Xumm.)
 {% endhint %}
 
-Press the ![](<../../.gitbook/assets/image (3).png>) button beside the account you would like to update then enter your 6 digit passcode.
+Press the ![](<../../.gitbook/assets/image (3) (3).png>) button beside the account you would like to update then enter your 6 digit passcode.
 
 <figure><img src="../../.gitbook/assets/Authenticate screen.png" alt=""><figcaption></figcaption></figure>
 
