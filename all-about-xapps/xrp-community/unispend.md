@@ -1,2 +1,0 @@
-# ChiSpend - Cash Out
-

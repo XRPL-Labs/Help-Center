@@ -14,9 +14,9 @@ Here is an example from a typical phone running Android:
 
 <figure><img src="../../.gitbook/assets/push notification - 2.png" alt=""><figcaption></figcaption></figure>
 
-Notice the <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> at the top of the image and the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> on the Xumm icon. These are indicators that there has been some activity on your account.
+Notice the <img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="line"> at the top of the image and the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> on the Xumm icon. These are indicators that there has been some activity on your account.
 
-If you tap the <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> you can view the details of the activity.
+If you tap the <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> you can view the details of the activity.
 
 <figure><img src="../../.gitbook/assets/push notification - 1.png" alt=""><figcaption></figcaption></figure>
 
