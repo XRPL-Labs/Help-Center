@@ -24,7 +24,7 @@ If you are not located in the Netherlands or the UK, we have partnered with seve
 | ![](<../.gitbook/assets/image (5) (1).png>)     | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
 | ![](<../.gitbook/assets/image (3) (1).png>)     | ****[**Stably xApp**](https://xumm.app/detect/xapp:stably.ramp)****            | All About Stably    |
 
-Combined, Banxa, BTCDirect and Stably offer exchange services to most countries in the world. You can find them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp. (Or just click here:
+Combined, Banxa, BTCDirect and Stably offer exchange services to most countries in the world. You can find them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp. (Or just click here:
 
 <mark style="color:blue;">****</mark>[<mark style="color:blue;">**Buy/Sell XRP xApp**</mark>](https://xumm.app/detect/xapp:xumm.buysellxrp)<mark style="color:blue;">****</mark>
 
