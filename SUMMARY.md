@@ -84,7 +84,7 @@
   * [Peerkat NFT viewer](all-about-xapps/xrp-community/peerkat-nft-viewer.md)
   * [CasinoCoin Lobby](all-about-xapps/xrp-community/casinocoin-lobby.md)
   * [XRP Ledger TipBot](all-about-xapps/xrp-community/xrp-ledger-tipbot.md)
-  * [ChiSpend - Cash Out](all-about-xapps/xrp-community/chispend-cash-out.md)
+  * [UniSpend](all-about-xapps/xrp-community/unispend.md)
   * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
   * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
 

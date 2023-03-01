@@ -16,13 +16,13 @@ Here is an example from a typical phone running Android:
 
 Notice the <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> at the top of the image and the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> on the Xumm icon. These are indicators that there has been some activity on your account.
 
-If you tap the <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> you can view the details of the activity.
+If you tap the <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> you can view the details of the activity.
 
 <figure><img src="../../.gitbook/assets/push notification - 1.png" alt=""><figcaption></figcaption></figure>
 
 In this case you can see that a payment of .000001 XRP was received in the XRPL account labelled "Will".
 
-
+#### Where can I find this in Pro?
 
 
 
