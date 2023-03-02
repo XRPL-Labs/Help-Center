@@ -6,6 +6,22 @@ By pressing the **Accounts** button... &#x20;
 
 <figure><img src="../../.gitbook/assets/Pro - Accounts option.png" alt=""><figcaption></figcaption></figure>
 
-...you can see the list of accounts that are already linked to Pro. From here you can also Link accounts already imported into Xumm, (by pressing the **Link account** button) or edit the options of accounts already linked to Pro. (by pressing the **Edit** button on the desired account.)
+...you can see the list of accounts that are already linked to Pro. From here you can also link accounts already imported into Xumm, (by pressing the **Link account** button) or edit the options of accounts already linked to Pro. (by pressing the **Edit** button on the desired account.)
 
-<figure><img src="../../.gitbook/assets/Pro - Accounts -Link account (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pro - Accounts -Link account.png" alt=""><figcaption></figcaption></figure>
+
+Editing the options on a linked account
+
+If you press the Edit button on an account you are pressed with a list of options that you can configure:
+
+<figure><img src="../../.gitbook/assets/Pro - Accounts - Account Settings scren.png" alt=""><figcaption></figcaption></figure>
+
+| Feature                   | Description                                                                                                                                                                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Selected Account          |                                                                                                                                                                                                                                     |
+| Account Title             |                                                                                                                                                                                                                                     |
+| Show on Profile           | If you would like this account to appear on your [Profiles](../all-about-xumm-pro/features-of-pro/profiles/all-about-profiles.md) page.                                                                                             |
+| Enable push notifications | Enable push notifications for this account.                                                                                                                                                                                         |
+| Enable push amounts       | You can decide whether or not to have Xumm include XRP amounts in push notifications.                                                                                                                                               |
+| Delete account link       | Select the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> button to un-link your account from Xumm Pro. This will not remove or delete your account from Xumm. It will just un-link your account from Pro. |
+
