@@ -24,5 +24,15 @@ In the first example, you can see that a payment of .000001 XRP was received in 
 
 #### Where can I find this in Pro?
 
+<figure><img src="../../.gitbook/assets/Pro - Pro Notifications option.png" alt=""><figcaption></figcaption></figure>
 
+Once you go into the **Push notifications** section, you should see a list of accounts you can enable push notifications for.
+
+<figure><img src="../../.gitbook/assets/push notification - 3 (1).png" alt=""><figcaption></figcaption></figure>
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
