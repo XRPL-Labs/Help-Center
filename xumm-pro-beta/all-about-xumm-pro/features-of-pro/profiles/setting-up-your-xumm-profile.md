@@ -61,7 +61,7 @@ Press the **Go back** button to get back to the main screen of Xumm Pro.
 
 After you enter your name in the **Setup you profile** page,
 
-![](<../../../../.gitbook/assets/image (3) (2).png>)
+![](<../../../../.gitbook/assets/image (3) (2) (1).png>)
 
 Xumm will compare it to the KYC document that you submitted during the KYC process. While the name that you choose does not need to match the KYC document exactly, it should be very close, otherwise you will receive this message:
 
