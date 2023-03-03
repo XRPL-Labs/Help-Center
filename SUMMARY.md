@@ -21,7 +21,7 @@
     * [Should I import my Mnemonic into Xumm?](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/should-i-import-my-mnemonic-into-xumm.md)
     * [...in Read Only mode](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...in-read-only-mode.md)
   * [Adding a Xumm Tangem card](getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md)
-* [Buying XRP](getting-started-with-xumm/buying-xrp/README.md)
+* [Buying XRP](getting-started-with-xumm/buying-xrp.md)
   * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
   * [BTCDirect](getting-started-with-xumm/buying-xrp/btcdirect.md)
   * [Stably](getting-started-with-xumm/buying-xrp/stably.md)
