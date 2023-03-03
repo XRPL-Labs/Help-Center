@@ -26,6 +26,16 @@ If you are reading this you probably have two Xumm (Tangem) cards and are wonder
 
 First off, the two cards appear differently.
 
+<figure><img src="../.gitbook/assets/Xumm Tangem card -3 (1).png" alt=""><figcaption></figcaption></figure>
+
+They are identical in every way other than their appearance.
+
+From now on we will refer to the cards your **Primary card** and your **Signing Card**. You can choose either card which one is which, but most people choose the _blue_ card as the Primary card and the _transparent_ card as the Signing card.
+
+When we are done with this process,
+
+* &#x20;you will put the Primary card in a safe place&#x20;
+* you will use the Signing card to sign transactions. If you plan to carry a card with you in your wallet/purse, this is the card you will carry.
 
 
 
@@ -34,15 +44,6 @@ First off, the two cards appear differently.
 
 
 
-band make it easy you need two things:
 
-1. An account on the XRP Ledger that is currently imported into XUMM and has been activated with at least 10 XRP. It can be another card account or a non-card account. Either one will work.
-2. A XUMM Tangem card that that has been imported into XUMM.
 
-For most people, they will choose to use two Tangem cards to do this procedure.
 
-While we have tried to make this procedure as easy as possible, we find that the single, biggest difficulty people make is that they do not import their two cards into Xumm before beginning the process. This is a critical step! If you are going to create a backup, **both cards have to be imported into XUMM.**&#x20;
-
-As well, one of the cards need to be activated with 10 XRP. The 2nd card does NOT need to be activated.
-
-If you do not know how to do this, please see this video:
