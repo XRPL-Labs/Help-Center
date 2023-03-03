@@ -43,3 +43,8 @@ Start by launching the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.ta
 
 
 
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

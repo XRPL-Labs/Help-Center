@@ -67,7 +67,7 @@
 ## XUMM (TANGEM) CARDS
 
 * [How to use the Tangem backup xApp](xumm-tangem-cards/how-to-use-the-tangem-backup-xapp.md)
-* [Xumm (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
+* [All about Xumm (Tangem) cards](xumm-tangem-cards/all-about-xumm-tangem-cards.md)
 
 ## ALL ABOUT XAPPS
 
