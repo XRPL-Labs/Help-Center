@@ -16,7 +16,7 @@ Don't worry if you can't quite understand it at first. This article will walk yo
 
 ### What we are trying to achieve...
 
-If you are reading this you probably have two Xumm (Tangem) cards and are wondering how to get started using them.
+You should have two Xumm (Tangem) cards and are wondering how to get started using them.
 
 First off, the two cards appear differently...
 
