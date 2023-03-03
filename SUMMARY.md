@@ -64,6 +64,11 @@
 * [NFTs](learning-more-about-xumm/nfts.md)
 * [Does Xumm offer Staking?](learning-more-about-xumm/does-xumm-offer-staking.md)
 
+## XUMM (TANGEM) CARDS
+
+* [How to use the Tangem backup xApp](xumm-tangem-cards/how-to-use-the-tangem-backup-xapp.md)
+* [Xumm (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
+
 ## ALL ABOUT XAPPS
 
 * [Xumm xApps](all-about-xapps/xumm-xapps/README.md)
