@@ -18,3 +18,24 @@ Each card comes with a built in NFC chip which you can clearly see in the transp
 
 <figure><img src="../.gitbook/assets/Xumm Tangem card -4.png" alt=""><figcaption></figcaption></figure>
 
+The cards are dust,water, heat and cold resistant. They can withstand environmental extremes from **-25℃ up to 85℃**, occasional mechanical deformation, electromagnetic pulse (EMP), electrostatic discharge (ESD) and X-rays within limits defined in [ISO7810](https://en.wikipedia.org/wiki/ISO/IEC\_7810) standard.
+
+
+
+
+
+Just like Xumm, the chances of guessing the account secret is 1 out of 340 undecillion.
+
+Here are some more facts about the cards.
+
+* Contains $0 & 0 XRP in value upon delivery: the card will generate a keypair when first used with Xumm, and the newly generated keypair (and r-address on the XRPL) will have to be [activated with 10 XRP as per XRP Ledger requirement](https://support.xumm.app/hc/en-us/articles/360018166079) first.
+* Card dimensions: 85.60 mm x 54.00 mm x 0.80 mm
+* Weight: about 4 grams
+* **S3D350A microchip from Samsung**
+* **Common Criteria EAL6+ Assurance Level**
+* Uses 3DES, AES, RSA, & ECC cryptography
+* **Arm SecurCore SC000 Core**
+* Compatible with Android 5.1+ or iPhone with NFC (select models, iOS 13+)
+* **Firmware** [**audited**](https://research.kudelskisecurity.com/2018/08/06/audit-of-tangems-smartcard-wallet-code/) **by Kudelski Security**
+* wallet can withstand temperatures ranging from -35 to 50 degrees Celsius for up to 50 years.
+* In fact, the card is so durable that it is one of the few hardware wallets to have received an IP68 certification
