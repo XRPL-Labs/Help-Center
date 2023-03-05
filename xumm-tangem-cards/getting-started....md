@@ -26,6 +26,8 @@ The main functions of a Xumm (Tangem) card are:
 * store that account secret securely on the card
 * sign transactions on the card with the account secret
 
+There are multiple use case and ways to configure the cards, which we will discuss, but the core feature of the card is that it allows you to sign transactions on your XRPL account.
+
 ### What the cards are not for...
 
 The cards can not connect to your bank account. You can not use them at an ATM.&#x20;
@@ -33,6 +35,10 @@ The cards can not connect to your bank account. You can not use them at an ATM.&
 They are not debit cards or a credit cards.&#x20;
 
 They do not store XRP on them and they do not come with XRP.
+
+### Our recommendations...
+
+
 
 ### What are the differences between the cards and regular Xumm account
 

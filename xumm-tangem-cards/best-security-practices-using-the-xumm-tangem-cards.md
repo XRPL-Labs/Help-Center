@@ -1,16 +1,10 @@
-# Best Security Practices Using a Xumm Card
+---
+description: How we recommend using the cards
+---
 
-**Overview**
+# Best Security Practices Using the Xumm (Tangem) Cards
 
-All crypto wallets, whether they are cold, hot, hard, soft, on-line or off-line have the potential to be hacked. There has yet to be a 'perfect', un-hackable system, but there are ways to raise the bar and make possible attacks impractical if not impossible.&#x20;
-
-We often get asked about how safe Xumm cards are and how they should be configured for maximum protection.
-
-In this article, we discuss the security of the Xumm Tangem card and how best to use it.
-
-&#x20;
-
-**A quick over view of a Xumm Tangem card**
+### **A quick over view of a Xumm Tangem card**
 
 A Xumm card is basically a self-custodial NFC hardware wallet. Its main functions are:
 
@@ -20,9 +14,7 @@ A Xumm card is basically a self-custodial NFC hardware wallet. Its main function
 
 Tangem is a vendor of NFC cards that creates and configures each Xumm card to our specifications and guarantees that it is not possible to export, import, restore or in some other way gain access to the account secret on each card. This means that the only place your account secret exists is on the card.&#x20;
 
-&#x20;
-
-**How the card generates the account secret**
+### **How the card generates the account secret**
 
 Xumm cards use a EAL 6+ certified microchip for secure operations.&#x20;
 
