@@ -4,7 +4,7 @@ description: Just received your Xumm (Tangem) cards?
 
 # Getting started...
 
-If you just received your Xumm (Tangem) cards and you are not sure what to do with them or how to configure them, this is exactly where you want to be. Here we are going to go over the basics of the cards, how to use them and some general common questions related to the cards. By the end of this article you should feel pretty comformtable...?
+If you just received your Xumm (Tangem) cards and you are not sure what to do with them or how to configure them, this is exactly where you want to be. Here we are going to go over the basics of the cards, how to use them and answer some common questions related to the cards.
 
 ### Taking a look at the cards
 
@@ -12,15 +12,36 @@ Most people will receive two cards:
 
 <figure><img src="../.gitbook/assets/Xumm Tangem card -3.png" alt=""><figcaption></figcaption></figure>
 
-and just to confirm, the cards are exactly the same, other than their appearance. We sent you two different cards so you can easily tell them apart. 😉
+and just to confirm, the cards are exactly the same, other than their appearance. We sent you two different cards so you can easily tell them apart! 😉
 
-Each card comes with a built in NFC chip which you can clearly see in the transparent card in the image below. (We circled the location of the chip in the _<mark style="color:blue;">blue</mark>_ card so you know where it is.) When you are scanning the card with your phone, make sure you align the NFC chip with the NFC reader on your phone.&#x20;
+Each card comes with a built in NFC chip which you can clearly see in the transparent card in the image below. (We circled the location of the chip in the _<mark style="color:blue;">blue</mark>_ card so you know where it is as well.) When you are scanning the card with your phone, make sure you align the NFC chip with the NFC reader on your phone.&#x20;
 
 <figure><img src="../.gitbook/assets/Xumm Tangem card -4.png" alt=""><figcaption></figcaption></figure>
 
-The cards are dust,water, heat and cold resistant. They can withstand environmental extremes from **-25℃ up to 85℃**, occasional mechanical deformation, electromagnetic pulse (EMP), electrostatic discharge (ESD) and X-rays within limits defined in [ISO7810](https://en.wikipedia.org/wiki/ISO/IEC\_7810) standard.
+### What are the cards for...
 
+The main functions of a Xumm (Tangem) card are:
 
+* to securely create an account secret for an XRP Ledger account
+* store that account secret securely on the card
+* sign transactions on the card with the account secret
+
+### What the cards are not for...
+
+The cards can not connect to your bank account. You can not use them at an ATM.&#x20;
+
+They are not debit cards or a credit cards.&#x20;
+
+They do not store XRP on them and they do not come with XRP.
+
+### What are the differences between the cards and regular Xumm account
+
+| Feature | Xumm (Tangem) card account | Regular Xumm account |
+| ------- | -------------------------- | -------------------- |
+|         |                            |                      |
+|         |                            |                      |
+|         |                            |                      |
+|         |                            |                      |
 
 
 
@@ -39,3 +60,4 @@ Here are some more facts about the cards.
 * **Firmware** [**audited**](https://research.kudelskisecurity.com/2018/08/06/audit-of-tangems-smartcard-wallet-code/) **by Kudelski Security**
 * wallet can withstand temperatures ranging from -35 to 50 degrees Celsius for up to 50 years.
 * In fact, the card is so durable that it is one of the few hardware wallets to have received an IP68 certification
+* The cards are dust,water, heat and cold resistant. They can withstand environmental extremes from **-25℃ up to 85℃**, occasional mechanical deformation, electromagnetic pulse (EMP), electrostatic discharge (ESD) and X-rays within limits defined in [ISO7810](https://en.wikipedia.org/wiki/ISO/IEC\_7810) standard.

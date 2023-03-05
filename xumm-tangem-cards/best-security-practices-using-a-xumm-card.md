@@ -12,7 +12,7 @@ In this article, we discuss the security of the Xumm Tangem card and how best to
 
 **A quick over view of a Xumm Tangem card**
 
-A Xumm card is basically a non-custodial NFC hardware wallet. Its main functions are:
+A Xumm card is basically a self-custodial NFC hardware wallet. Its main functions are:
 
 * to securely create an account secret for an XRP Ledger account
 * store that account secret securely on the card
