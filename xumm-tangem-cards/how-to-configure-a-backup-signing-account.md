@@ -48,6 +48,20 @@ You **do not** need to activate your **Signing account.** You just need to impor
 
 Click [here](https://xumm.app/detect/xapp:xumm.tangem-backup) to launch the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) or you can manually launch it in Xumm by pressing<img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">and select it from the list.
 
+Select **I'm ready, continue**
+
+<figure><img src="../.gitbook/assets/Tangem Backup - 2.png" alt=""><figcaption></figcaption></figure>
+
+Press **Select account.**
+
+This is where you get to choose your Primary card. This is the one that has been activated with at least 10 XRP. When you have completed the steps in this article, this is the card that will be stored away in a safe place. We refer to it here as **Primary**.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Tangem Backup - 1.png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 
 
