@@ -50,34 +50,24 @@ If any of these situations happened, you would lose access to your account and y
 
 #### Recommendation 1 - Make a backup card
 
-This is the main reason we send you two cards. We want you to create a "backup" card so in the event that your primary card is lost, stolen or damaged, you can still access your funds. Check out this article on how to do this:
+This is the main reason we send you two cards. We want you to create a "backup" card so you can still access your funds if your primary card is ever lost, stolen or damaged. Check out this article on how to do this:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Xumm (Tangem) card backup</td><td></td><td></td><td><a href="../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm (Tangem) card backup</td><td></td><td></td><td><a href="../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td><td><a href="how-to-use-the-tangem-backup-xapp.md">how-to-use-the-tangem-backup-xapp.md</a></td></tr></tbody></table>
 
-### What are the differences between the cards and regular Xumm account
+#### Recommendation 2 - Create a pin on your backup card
 
-| Feature | Xumm (Tangem) card account | Regular Xumm account |
-| ------- | -------------------------- | -------------------- |
-|         |                            |                      |
-|         |                            |                      |
-|         |                            |                      |
-|         |                            |                      |
+If you decide to follow our first recommendation, creating a pin on your backup card is an extra security feature which makes sense to help protect your funds. Each Xumm (Tangem) card offers has the ability create a pin code which will need to be entered before you can sign a transaction on  the account. If your card were ever stolen, a pin will help keep the card from being used by unauthorized people.
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Creating a pin on your Xumm (Tangem) card</td><td></td><td></td></tr></tbody></table>
 
+#### Recommendation 3 - Read the following article
 
-Just like Xumm, the chances of guessing the account secret is 1 out of 340 undecillion.
+We have compiled a set of suggestions on how to use your Xumm (Tangem) cards. A sort of "Do's and Don'ts" list of things to avoid and things to try to practice when it comes to your cards.
 
-Here are some more facts about the cards.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Best security practices for your Xumm (Tangem) card</td><td></td><td></td></tr></tbody></table>
 
-* Contains $0 & 0 XRP in value upon delivery: the card will generate a keypair when first used with Xumm, and the newly generated keypair (and r-address on the XRPL) will have to be [activated with 10 XRP as per XRP Ledger requirement](https://support.xumm.app/hc/en-us/articles/360018166079) first.
-* Card dimensions: 85.60 mm x 54.00 mm x 0.80 mm
-* Weight: about 4 grams
-* **S3D350A microchip from Samsung**
-* **Common Criteria EAL6+ Assurance Level**
-* Uses 3DES, AES, RSA, & ECC cryptography
-* **Arm SecurCore SC000 Core**
-* Compatible with Android 5.1+ or iPhone with NFC (select models, iOS 13+)
-* **Firmware** [**audited**](https://research.kudelskisecurity.com/2018/08/06/audit-of-tangems-smartcard-wallet-code/) **by Kudelski Security**
-* wallet can withstand temperatures ranging from -35 to 50 degrees Celsius for up to 50 years.
-* In fact, the card is so durable that it is one of the few hardware wallets to have received an IP68 certification
-* The cards are dust,water, heat and cold resistant. They can withstand environmental extremes from **-25℃ up to 85℃**, occasional mechanical deformation, electromagnetic pulse (EMP), electrostatic discharge (ESD) and X-rays within limits defined in [ISO7810](https://en.wikipedia.org/wiki/ISO/IEC\_7810) standard.
+### Summary
+
+The Xumm (Tangem) card is a hardware wallet that offers peace of mind by providing a reliable and secure storage solution for your private keys for your XRPL account. Should you have any additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
