@@ -58,9 +58,15 @@ then press **Select account.**
 
 This is where you get to choose your Primary card. This is the one that has been activated with at least 10 XRP. When you have completed the steps in this article, this is the card that will be stored away in a safe place. We refer to it here as **Primary**. Get the <mark style="color:blue;">blue</mark> card, **Slide to accept**, then scan it with your phone.
 
-<figure><img src="../.gitbook/assets/Tangem Backup - 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tangem Backup - 3 (1).png" alt=""><figcaption></figcaption></figure>
 
+Press **Select backup card**.
 
+<figure><img src="../.gitbook/assets/Tangem Backup - 4 (1).png" alt=""><figcaption></figcaption></figure>
+
+This is where you get to choose your Signing card. This is the one that does **not** need to be activated. This is the transparent card. When have completed the steps in this article, this is the card that you will use to sign transactions on the Primary card's account. We refer to it here as **Signing**. Get the transparent card, **Slide to accept**, then scan it with your phone.
+
+<figure><img src="../.gitbook/assets/Tangem Backup - 4.png" alt=""><figcaption></figcaption></figure>
 
 
 
