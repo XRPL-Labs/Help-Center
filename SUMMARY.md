@@ -66,12 +66,12 @@
 
 ## XUMM (TANGEM) CARDS
 
+* [All about Xumm (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
 * [Getting started...](xumm-tangem-cards/getting-started....md)
 * [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
 * [Creating a pin on your Xumm (Tangem) card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
-* [All about Xumm (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
-* [Lost, stolen or damaged cards](xumm-tangem-cards/lost-stolen-or-damaged-cards.md)
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
+* [Lost, stolen or damaged cards](xumm-tangem-cards/lost-stolen-or-damaged-cards.md)
 
 ## ALL ABOUT XAPPS
 
