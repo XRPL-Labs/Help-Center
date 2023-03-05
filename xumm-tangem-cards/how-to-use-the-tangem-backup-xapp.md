@@ -35,7 +35,7 @@ When we are done with this process,
 
 ### Getting started
 
-Start by launching the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) by pressing <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (9).png" alt="" data-size="line">
+Start by launching the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) by pressing <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">
 
 
 

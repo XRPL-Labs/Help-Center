@@ -18,9 +18,9 @@
     * [...with Secret Numbers](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md)
     * [...with a Family Seed](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md)
     * [...with a Mnemonic](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md)
-    * [...a Xumm Tangem card](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...a-xumm-tangem-card.md)
+    * [...a Xumm Tangem card](getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md)
     * [...in Read Only mode](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...in-read-only-mode.md)
-  * [Should I import my Mnemonic into Xumm?](getting-started-with-xumm/your-first-xrp-ledger-account/should-i-import-my-mnemonic-into-xumm.md)
+  * [Should I import my Mnemonic into Xumm?](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/should-i-import-my-mnemonic-into-xumm.md)
 * [Buying XRP](getting-started-with-xumm/buying-xrp.md)
   * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
   * [BTCDirect](getting-started-with-xumm/buying-xrp/btcdirect.md)
@@ -70,7 +70,7 @@
 * [How to use the Tangem backup xApp](xumm-tangem-cards/how-to-use-the-tangem-backup-xapp.md)
 * [All about Xumm (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
 * [Xumm Cards - Backup & Configuration](xumm-tangem-cards/xumm-cards-backup-and-configuration.md)
-* [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-the-xumm-tangem-cards.md)
+* [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
 
 ## ALL ABOUT XAPPS
 

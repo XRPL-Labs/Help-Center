@@ -1,6 +1,6 @@
 ---
 description: How to add a Xumm Tangem card
-cover: ../../../.gitbook/assets/Image - X.png
+cover: ../../.gitbook/assets/Image - X.png
 coverY: 0
 ---
 

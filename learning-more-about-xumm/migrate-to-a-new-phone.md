@@ -61,7 +61,7 @@ If you have Xumm Tangem cards, you will need to re-import them into Xumm on your
 
 If you need assist doing this, check out this article:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xumm (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xumm (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md">adding-a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
 #### My account was created during the Casino Coin swap. How do I access it?
 
