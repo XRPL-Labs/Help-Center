@@ -32,6 +32,16 @@ If you plan to carry one of the cards with you in your wallet/purse, you would c
 
 ### Getting started
 
+Before you can configure backup signing card, you will need to import both cards into Xumm.
+
+This article provides step by step instructions on how to do this:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xumm (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md">adding-a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+
+
+
+####
+
 Start by launching the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) by pressing <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">
 
 
