@@ -52,13 +52,11 @@ Select **I'm ready, continue**
 
 <figure><img src="../.gitbook/assets/Tangem Backup - 2.png" alt=""><figcaption></figcaption></figure>
 
-Press **Select account.**
-
-This is where you get to choose your Primary card. This is the one that has been activated with at least 10 XRP. When you have completed the steps in this article, this is the card that will be stored away in a safe place. We refer to it here as **Primary**.&#x20;
-
-
+then press **Select account.**
 
 <figure><img src="../.gitbook/assets/Tangem Backup - 1.png" alt=""><figcaption></figcaption></figure>
+
+This is where you get to choose your Primary card. This is the one that has been activated with at least 10 XRP. When you have completed the steps in this article, this is the card that will be stored away in a safe place. We refer to it here as **Primary**. Get the <mark style="color:blue;">blue</mark> card, **Slide to accept**, then scan it with your phone.
 
 <figure><img src="../.gitbook/assets/Tangem Backup - 3.png" alt=""><figcaption></figcaption></figure>
 
