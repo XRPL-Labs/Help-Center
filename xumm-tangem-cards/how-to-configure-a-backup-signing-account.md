@@ -60,7 +60,7 @@ This is where you get to choose your Primary card. This is the one that has been
 
 <figure><img src="../.gitbook/assets/Tangem Backup - 1.png" alt=""><figcaption></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/Tangem Backup - 3.png" alt=""><figcaption></figcaption></figure>
 
 
 
