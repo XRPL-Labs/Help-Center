@@ -68,7 +68,7 @@ This is where you get to choose your Signing card. This is the one that does **n
 
 <figure><img src="../.gitbook/assets/Tangem Backup - 4.png" alt=""><figcaption></figcaption></figure>
 
-
+Select the **Finnish** button then **Slide to accept** and you are all done.
 
 
 
