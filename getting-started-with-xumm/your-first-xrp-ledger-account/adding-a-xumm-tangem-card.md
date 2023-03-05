@@ -12,7 +12,7 @@ You should see this screen:&#x20;
 
 <figure><img src="../../.gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
 
-Choose **Add Tangem card**.
+Choose **Add Tangem card** then hold the card up to the NFC reader on your phone.
 
 <figure><img src="../../.gitbook/assets/Ready to scan -1.png" alt=""><figcaption></figcaption></figure>
 
