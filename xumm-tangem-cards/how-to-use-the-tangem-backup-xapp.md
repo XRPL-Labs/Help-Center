@@ -1,5 +1,7 @@
 ---
 description: Step by step instructions on how to use the Tangem backup xApp
+cover: ../.gitbook/assets/Rocky stream.png
+coverY: 0
 ---
 
 # How to use the Tangem backup xApp
