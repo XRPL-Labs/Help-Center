@@ -4,7 +4,7 @@ description: Just received your Xumm (Tangem) cards?
 
 # Getting started...
 
-If you just received your Xumm (Tangem) cards and you are not sure what to do with them or how to configure them, this is exactly where you want to be. Here we are going to go over the basics of the cards, how to use them and answer some common questions related to the cards.
+If you just received your Xumm (Tangem) cards and you are not sure what to do with them or how to configure them, this is exactly where you want to be. We are going to go over the basics of the cards, how to use them and answer some common questions related to the cards.
 
 ### Taking a look at the cards
 
@@ -26,7 +26,7 @@ The main functions of a Xumm (Tangem) card are:
 * store that account secret securely on the card
 * sign transactions on the card with the account secret
 
-There are multiple use case and ways to configure the cards, which we will discuss, but the core feature of the card is that it allows you to sign transactions on your XRPL account.
+There are multiple use case and ways to configure the cards, but the core feature of the card is that it allows you to sign transactions on your XRPL account.
 
 ### What the cards are not for...
 
