@@ -30,7 +30,7 @@ Ideally, you will put the Primary card in a safe, secure place and use the Signi
 If you plan to carry one of the cards with you in your wallet/purse, you would carry the Signing card, not the Primary card.
 {% endhint %}
 
-### Getting started
+### First things first...
 
 Before you can configure backup signing card, you will need to import both cards into Xumm.
 
@@ -38,11 +38,19 @@ This article provides step by step instructions on how to do this:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xumm (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md">adding-a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
+Since the <mark style="color:blue;">blue</mark> card is going to be your **Primary account**, you will need to activate it with at least 10 XRP.&#x20;
+
+{% hint style="warning" %}
+You **do not** need to activate your **Signing account.** You just need to import it into Xumm.
+{% endhint %}
+
+### Using the Tangem Backup xApp
+
+Click [here](https://xumm.app/detect/xapp:xumm.tangem-backup) to launch the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup).
 
 
-####
 
-Start by launching the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) by pressing <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">
+by press <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">and select th
 
 
 
