@@ -1,31 +1,5 @@
 # Xumm Cards - Backup & Configuration
 
-**I already purchased the XUMM Tangem cards, what now?**
-
-Congratulations! You have made the decision to upgrade your XRP Ledger account security to the next level. Well done!
-
-To start, we strongly recommend that you have **two** XUMM Tangem cards. We will call them Card 1 and Card 2, but you can label them anything you like in XUMM.
-
-**Card 1**
-
-* You will use this card to generate an account on the XRP Ledger
-* It needs to be activated with at least 10 XRP
-* Will be put in a vault, a safe or another secure place
-* Does not get a card enforced passcode (As this card stays safe in vault)
-
-**Card 2**
-
-* This card will be linked to the account on Card 1
-* Does **not** have to be activated
-* This is the card you carry with you. Your "daily signing card"
-* Needs a passcode so if you lose it, someone can't use it without your passcode
-
-**Wait! Why do the cards look different? How do I know which card to use as my backup?**
-
-Both cards are functionally identical. They just have different visual designs. We wanted to make it easier to tell them apart so we sent one of each design. You are welcome to choose either one for your backup.
-
-&#x20;
-
 **Start by configuring a backup card**
 
 Configuring a back-up card for you existing Tangem card provides another layer of safety for your assets.
