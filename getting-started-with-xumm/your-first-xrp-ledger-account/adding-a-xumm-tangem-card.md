@@ -16,4 +16,6 @@ Choose **Add Tangem card** then hold the card up to the NFC reader on your phone
 
 <figure><img src="../../.gitbook/assets/Ready to scan -1.png" alt=""><figcaption></figcaption></figure>
 
-Hold the card to your&#x20;
+Xumm will ask you test the card. Press the **Verify** button.
+
+<figure><img src="../../.gitbook/assets/Verify Tangem card.png" alt=""><figcaption></figcaption></figure>
