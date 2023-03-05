@@ -52,7 +52,7 @@ If any of these situations happened, you would lose access to your account and y
 
 This is the main reason we send you two cards. We want you to create a "backup" card so you can still access your funds if your primary card is ever lost, stolen or damaged. Check out this article on how to do this:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm (Tangem) card backup</td><td></td><td></td><td><a href="../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td><td><a href="how-to-use-the-tangem-backup-xapp.md">how-to-use-the-tangem-backup-xapp.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm (Tangem) card backup</td><td></td><td></td><td><a href="../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td><td><a href="how-to-configure-a-backup-signing-account.md">how-to-configure-a-backup-signing-account.md</a></td></tr></tbody></table>
 
 #### Recommendation 2 - Create a pin on your backup card
 

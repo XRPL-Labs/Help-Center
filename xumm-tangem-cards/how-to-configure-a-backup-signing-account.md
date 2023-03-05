@@ -1,0 +1,47 @@
+---
+description: Step by step instructions on how to use the Tangem backup xApp
+cover: ../.gitbook/assets/Rocky stream.png
+coverY: 0
+---
+
+# How to configure a backup signing account
+
+### **Understanding the process before you get started**
+
+The Tangem Backup xApp is designed to simplify the process of creating a regular key between two Xumm (Tangem) cards. By doing this, you will effectively configure one of the cards as a "backup" to the other one. This is not a cloning process where you would make a duplicate a card, this process configures one of the cards to be able to sign transactions on the other card's account.
+
+Don't worry if you can't quite understand it at first. This article will walk you through each step of the process and provide lots of pictures to help.&#x20;
+
+### What we are trying to achieve...
+
+To start, you should have two Xumm (Tangem) cards. Notice that the two cards appear differently...
+
+<figure><img src="../.gitbook/assets/Xumm Tangem card -3.png" alt=""><figcaption></figcaption></figure>
+
+From now on we will refer to the cards as your **Primary card** and your **Signing Card**.&#x20;
+
+It doesn't matter which one you choose to be your primary or signing card since they are functionally identical, but most people choose the _<mark style="color:blue;">blue</mark>_ card as the Primary card and the _transparent_ card as the Signing card.
+
+When we are done with this process, you will have created an XRPL account on your Primary card, activated it with at least 10 XRP and have created a "link" between your Primary card and your Signing card.
+
+Ideally, you will put the Primary card in a safe, secure place and use the Signing card to sign transactions on the Primary card's account.
+
+{% hint style="info" %}
+If you plan to carry one of the cards with you in your wallet/purse, you would carry the Signing card, not the Primary card.
+{% endhint %}
+
+### Getting started
+
+Start by launching the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) by pressing <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">
+
+
+
+
+
+
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

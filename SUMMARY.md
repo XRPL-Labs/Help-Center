@@ -67,7 +67,7 @@
 ## XUMM (TANGEM) CARDS
 
 * [Getting started...](xumm-tangem-cards/getting-started....md)
-* [How to use the Tangem backup xApp](xumm-tangem-cards/how-to-use-the-tangem-backup-xapp.md)
+* [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
 * [All about Xumm (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
 * [Xumm Cards - Backup & Configuration](xumm-tangem-cards/xumm-cards-backup-and-configuration.md)
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
