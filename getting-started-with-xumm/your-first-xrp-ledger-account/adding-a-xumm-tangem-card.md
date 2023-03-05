@@ -13,3 +13,7 @@ You should see this screen:&#x20;
 <figure><img src="../../.gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
 
 Choose **Add Tangem card**.
+
+<figure><img src="../../.gitbook/assets/Ready to scan -1.png" alt=""><figcaption></figcaption></figure>
+
+Hold the card to your&#x20;
