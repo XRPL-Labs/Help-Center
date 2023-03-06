@@ -12,11 +12,7 @@ For example, if you configure your cards as [recommended](getting-started....md)
 
 ### **If you forget the pin...**
 
-If you forget the pin on your Signing account, you will not be able to use the card to sign transactions on the Primary account. &#x20;
-
-This is why we mentioned that setting the pin is useful only in certain situations. You could setup a pin on a single card, but there is no recovery feature or "back door" option to reset your pin.  If you forget the pin, your your funds will remain un-accessible until you remember it.
-
-&#x20;
+There is no recovery feature or 'back door' option to reset a pin. If you forget the pin on your card, you will not be able to use the card to sign transactions. This is why we mentioned that setting the pin is useful only in certain situations. If you configure a backup card for your Primary account, forgetting your pin unfortunate, but you can still access your account with the Primary card. You would lose the ability to use the Signing card but you would not lose access to your funds. If you were to configure a pin on a card that has no backup card, you would not be able to access your funds if you forgot your pin.&#x20;
 
 **I understand, if I forget the passcode, it's the same as losing the card. I won't be able to access my account. I am not going to forget my passcode and want to set one up. How do I proceed?**
 
