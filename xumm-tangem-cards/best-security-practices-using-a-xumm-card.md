@@ -4,9 +4,7 @@ description: How we recommend using the cards
 
 # Best Security Practices Using the Xumm (Tangem) Cards
 
-### **A quick over view of a Xumm Tangem card**
-
-A Xumm card is basically a self-custodial NFC hardware wallet. Its main functions are:
+A Xumm (Tangem) card is basically a self-custodial, NFC hardware wallet. Its main functions are:
 
 * to securely create an account secret for an XRP Ledger account
 * store that account secret securely on the card
@@ -28,7 +26,7 @@ The private key is stored on the card securely. It is never revealed and is not 
 
 &#x20;
 
-**How the transactions are signed with the card**
+### **How the transactions are signed with the card**
 
 Xumm creates a sign request, then asks the user to sign that request by placing the card over the NFC reader on their mobile device. The sign request is sent to the card where it is signed or rejected **on the card**, then the sign request is returned to Xumm. The account secret never leaves the card.&#x20;
 
@@ -36,7 +34,7 @@ So, while the Xumm app starts the signing operation, the card is exclusively res
 
 &#x20;
 
-**Understanding how NFC works**
+### **Understanding how NFC works**
 
 Each Xumm card has a secure NFC smart-card chip with a Type A contactless interface embedded in it.  In case you're wondering,
 
@@ -48,7 +46,7 @@ The card uses the NFC smart-card chip to communicate with your phone directly to
 
 &#x20;****&#x20;
 
-**NFC vulnerabilities and possible attack vectors**
+### **NFC vulnerabilities and possible attack vectors**
 
 The primary attack vectors against a Xumm card fall under the category called "proximity" attacks. Proximity attacks are potential attack vectors for **all** NFC devices, not just Xumm cards.
 
@@ -58,7 +56,7 @@ Since NFC allows mobile devices to establish radio communication with each other
 
 &#x20;
 
-**What Xumm is doing to prevent proximity attacks**
+### **What Xumm is doing to prevent proximity attacks**
 
 We have implemented three main security features to combat proximity attacks.
 
