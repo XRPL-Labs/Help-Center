@@ -21,7 +21,7 @@ We strongly recommend that you **only configure a pin** if you have created a **
 ### **Setting up a pin**
 
 1. Launch XUMM and press **Settings** -> **Accounts**&#x20;
-2. Press the "**edit**" button side the account you would like to add a passcode on.
+2. Press the "**Edit**" button side the account you would like to add a passcode on.
 3. Select "**Card enforced security**"
 4. Select "**Passcode**"
 5. Press the "**Save**" button\
@@ -35,27 +35,12 @@ We strongly recommend that you **only configure a pin** if you have created a **
 7. Enter your new passcode.
 8. Sign with card.
 
-****
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
 ****
 
-**Create a passcode on Card 2**
-
-The XUMM Tangem card has the option to add a "Passcode" to a card. This feature provides another level of security to your account and can be easily configured.
-
-1. Launch XUMM and press **Settings** -> **Accounts**&#x20;
-2. Press the "**Edit**" button beside Card 2.
-3. Select "**Card enforced security**"
-4. Select "**Passcode**"
-5. Press the "**Save**" button\
-   \
-   **Notice the warning!**\
-   \
-   ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4420120240786/mceclip0.png)\
-   \
-
-6. Press "**Yes, I'm Sure**"
-7. Enter your new passcode.
-8. Sign with Card 2.
-
-Whenever you need to sign a transaction on Card 1's account with Card 2, you will now need to enter your Card 2 passcode.
+****
