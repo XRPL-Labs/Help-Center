@@ -10,12 +10,24 @@ There are a couple of different ways to configure the Xumm (Tangem) cards so let
 
 You have followed our recommendations and have created a Primary account on one card and configured your second card as a Signing account as explained [here](how-to-configure-a-backup-signing-account.md).
 
-If your Signing account is lost, stolen or damaged (LSD), you would simply "unlink" the card from your Primary account by removing the regular key. Just follow the instructions in this article:
+If your Signing account card is lost, stolen or damaged (LSD), you would simply "unlink" the card from your Primary account by removing the regular key. Just follow the instructions in this article:
 
 *
 
+### Case 2
+
+You have followed our recommendations and have created a Primary account on one card and configured your second card as a Signing account as explained [here](how-to-configure-a-backup-signing-account.md).
+
+If your Primary account card is LSD, you create a new XRPL account using Xumm, then move your funds over to the new account
+
+### **Case 3**
+
+You have not created a backup account
 
 
-_****_
+
+### Case 4
+
+You have configured a backup to another XRPL account.&#x20;
 
 _****_
