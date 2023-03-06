@@ -1,5 +1,7 @@
 ---
 description: How to create a passcode / pin for your card
+cover: ../.gitbook/assets/Waterfall.png
+coverY: -226
 ---
 
 # Creating a pin on your Xumm (Tangem) card

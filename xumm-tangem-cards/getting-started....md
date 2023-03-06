@@ -58,7 +58,7 @@ This is the main reason we send you two cards. We want you to create a "backup" 
 
 If you decide to follow our first recommendation, creating a pin on your backup card is an extra security feature which makes sense to help protect your funds. Each Xumm (Tangem) card offers has the ability create a pin code which will need to be entered before you can sign a transaction on  the account. If your card were ever stolen, a pin will help keep the card from being used by unauthorized people.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Creating a pin on your Xumm (Tangem) card</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Creating a pin on your Xumm (Tangem) card</td><td></td><td></td><td><a href="../.gitbook/assets/Waterfall.png">Waterfall.png</a></td><td><a href="creating-a-pin-on-your-xumm-tangem-card.md">creating-a-pin-on-your-xumm-tangem-card.md</a></td></tr></tbody></table>
 
 #### Recommendation 3 - Read the following article
 
