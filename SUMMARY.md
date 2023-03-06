@@ -73,6 +73,7 @@
 * [Creating a pin on your card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
 * [Lost, stolen or damaged cards](xumm-tangem-cards/lost-stolen-or-damaged-cards.md)
+* [How to remove a regular key from a card](xumm-tangem-cards/how-to-remove-a-regular-key-from-a-card.md)
 
 ## ALL ABOUT XAPPS
 
