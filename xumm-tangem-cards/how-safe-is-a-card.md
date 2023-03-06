@@ -70,6 +70,7 @@ We have implemented three main security features to combat proximity attacks.
 3.  Strict security settings\
     Tangem cards offer a large variety of settings that can only be configured at the factory. All Xumm cards leave the factory preconfigured to our specifications.&#x20;
 
+    \
     Among them are:&#x20;
 
     * NFC communication between the card and Xumm app is encrypted
