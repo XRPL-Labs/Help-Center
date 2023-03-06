@@ -4,15 +4,13 @@ description: How to create a passcode / pin for your card
 
 # Creating a pin on your Xumm (Tangem) card
 
-### **Is this really a good idea?**
-
 One of the security features on a Xumm (Tangem) card is the ability to create a passcode or pin. Once enabled, the pin/passcode must be entered in order to sign with the card account.&#x20;
 
 In certain situations, setting a pin can make a lot of sense.
 
 For example, if you configure your cards as [recommended](getting-started....md), you will create a Primary account then set up a second card as a Signing account. This configuration allows you to store your Primary card in safe/secure location while using the Signing account to sign transactions on your Primary account.  In this case, assigning a pin to your Signing card adds an additional level of protection in case your card is ever stolen.
 
-### **This sounds good, but what happens if I forget the pin?**
+### **If you forget the pin...**
 
 If you forget the pin on your Signing account, you will not be able to use the card to sign transactions on the Primary account. &#x20;
 
