@@ -1,10 +1,10 @@
 ---
-description: How to create a passcode / pin for your card
+description: How to create a passcode / pin for your Xumm (Tangem) card
 cover: ../.gitbook/assets/Waterfall.png
 coverY: -226
 ---
 
-# Creating a pin on your Xumm (Tangem) card
+# Creating a pin on your card
 
 One of the security features on a Xumm (Tangem) card is the ability to create a passcode or pin. Once enabled, the pin/passcode must be entered in order to sign with the card account.&#x20;
 
