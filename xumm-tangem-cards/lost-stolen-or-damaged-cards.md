@@ -1,8 +1,21 @@
+---
+description: What happens if your card is lost, stolen or damaged?
+---
+
 # Lost, stolen or damaged cards
 
-_**What happens if Card 2 is lost/stolen/damaged or destroyed?**_
+There are a couple of different ways to configure the Xumm (Tangem) cards so let's consider each scenario.&#x20;
 
-* If Card 2 is **lost or stolen**, it will not be able to sign transactions without the passcode that you just set. It is useless without that passcode.
-* If Card 2 is **damaged or destroyed**, you will go to your safe where Card 1 is and use it to sign transactions on your Card 1 account.
+### Case 1
 
-Regardless of what happens to Card 2, **Card 1** still has full signing access to your account.&#x20;
+You have followed our recommendations and have created a Primary account on one card and configured your second card as a Signing account as explained [here](how-to-configure-a-backup-signing-account.md).
+
+If your Signing account is lost, stolen or damaged (LSD), you would simply "unlink" the card from your Primary account by removing the regular key. Just follow the instructions in this article:
+
+*
+
+
+
+_****_
+
+_****_
