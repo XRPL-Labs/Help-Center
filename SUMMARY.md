@@ -63,6 +63,7 @@
 * [Deleting an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
 * [NFTs](learning-more-about-xumm/nfts.md)
 * [Does Xumm offer Staking?](learning-more-about-xumm/does-xumm-offer-staking.md)
+* [I've been scammed!](learning-more-about-xumm/ive-been-scammed.md)
 
 ## XUMM (TANGEM) CARDS
 
