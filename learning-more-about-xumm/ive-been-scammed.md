@@ -4,31 +4,25 @@ description: I've been scammed, what can I do?
 
 # I've been scammed!
 
-#### **Someone has stolen my funds**
+If you are the victim of a crime, it is vital that you report it to your local police department as soon as possible. They will have the resources, the expertise and experience to conduct a thorough investigation into your case and determine what the best course of action is to recover your funds.
 
-If you are the victim of a crime, you should report it to your local police department immediately.
+Some countries have a special "cyber crime" or "financial crime" unit that you can report crimes to as well. Your local police will provide you with all of your options.
 
-Xumm is not part of any governmental law enforcement agency and as such, we do not have the authority to conduct a criminal investigation. Some countries have a special "cyber crime" or "financial crime" unit that you can report crimes to as well. Your local police should be able to provide you with all of your options.
+## Frequently asked questions
 
-&#x20;
+### Can Xumm conduct its own investigation?
 
-#### **My police department doesn't know anything about crypto scams**
+Xumm is not part of any governmental law enforcement agency and as such, we do not have the authority to conduct a criminal investigation. We can not interfere in police matters.
+
+### **My police department doesn't know anything about crypto scams**
 
 In most countries around the world, the local police departments are getting better and better when it come to investigating cyber crimes. Investigating criminal matters, which now includes crypto and blockchain, is one of the primary responsibilities of law enforcement.  If there is any chance in recovering your funds, the police will need to be involved.
 
-&#x20;
+### **Why can't Xumm just reverse the transactions and get my funds back?**
 
-#### **Why can't Xumm just reverse the transactions and get my funds back?**
+The XRP Ledger does not have any administrative functions built into it, so there is no way for Xumm or anyone else to modify or change a completed transaction. &#x20;
 
-The XRP Ledger does not have any administrative functions built into it, so there is no way for Xumm or anyone else to modify or change a transaction. &#x20;
-
-For more information about this, please refer to this article:
-
-[Can Xumm reverse or undo a transaction?](https://support.xumm.app/hc/en-us/articles/4735501871122)
-
-&#x20;
-
-#### **What else should I do?**
+### **What else should I do?**
 
 After you have contacted the police, you should consider doing the following:
 
@@ -55,7 +49,7 @@ After you have contacted the police, you should consider doing the following:
    \
    [How to delete your XRP Ledger account](https://support.xumm.app/hc/en-us/articles/360018166359)
 
-#### **Why can't I just change my 6 digit passcode or my signing password?**
+### **Why can't I just change my 6 digit passcode or my signing password?**
 
 The 6 digit passcode is used to access the Xumm app and in some cases, sign transactions in Xumm. It is not used to access your XRPL account. (That's what the secret numbers are for.) Changing your passcode has no effect on your secret numbers.&#x20;
 
@@ -63,10 +57,10 @@ The same applies to your signing password. Both the passcode and the sign passwo
 
 &#x20;
 
-#### **Summary**
+### **Summary**
 
-* _**Never give your account secret (secret numbers, Family Seed, Mnemonic) to anyone for any reason.**_
 * Contact your local police immediately if you are the victim of a crime.
-* Either re-key the account
-* Or create a new account and move your assets over to the new account
-  * Be advised, trustlines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of trustlines until the move is complete.
+* Either re-key the account or
+* Create a new account and move your assets over to the new account
+
+Note: Be advised, trustlines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of trustlines until the move is complete.
