@@ -18,19 +18,25 @@ If your XRP Ledger account was created using Xumm, you had only had one opportun
 
 ## Frequently asked Questions
 
-#### **I created my XRPL account outside of Xumm...**
+**Can I see my account secret on my Xumm (Tangem) card?**
 
-Depending on how you created your XRPL account, it is possible that the website or application that you used might have kept a copy of your account secret or has the ability to recover it. You can try to contact them and see if they might be able to recover them for you.\
+When you first activate a Xumm (Tangem) card, an account secret is generated **on the card.** There is no opportunity to view the account secret and it is not displayed. It is encrypted on the card and can not be viewed.
+
+**Other wallets display their account secrets, why doesn't Xumm?**
+
+Mainly&#x20;
+
+**What if I created my XRPL account outside of Xumm?**
+
+Depending on how you created your XRPL account, it is possible that the website or application that you used might have kept a copy of your account secret or has the ability to recover it. You can try to contact them and see if they have a recovery option.\
 \
-
-
 **I created my XRPL account during the CasinoCoin swap...**
 
 Accounts that were created during the CasinoCoin swap used a slightly different method of generating an account secret.
 
 For information on how to access an account created during the CSC swap, check out this article:
 
-* [How to recover a swapped Casinocoin (CSC) account](https://support.xumm.app/hc/en-us/articles/360021843879)
+* [How to recover a swapped Casinocoin (CSC) account](../learning-more-about-xumm/how-to-recover-a-swapped-casinocoin-csc-account.md)
 
 **I have lost my account secret, what can I do?**
 
@@ -40,21 +46,8 @@ We have an article that explains your options. You can review it here:
 
 **What are some good practices for storing my account secret(s)?**
 
-Storing your account secret(s) is VERY important and it is vital that you keep them in a safe place and **never** reveal them to anyone. If in doubt, here are some good guidelines:
 
-* **Clearly** write your account secret down on a piece of paper and store them in a safe place. (Some people write and store them in multiple locations.)
-* **Never** store your account secret online.&#x20;
-* **Never** enter your account secret into a website
-* **Never** enter your account secret into an online support form
-* **Never** enter your account secret into a random wallet (even if it is from an app store) unless you trust it 100%
-* **Never** trust anyone asking you to "authenticate your wallet"
-
-You might also consider a product such as an [Arkplate](https://www.arkplate.com/product/xumm/5?cs=true\&cst=custom). A device like this allows you store your account secret on a metal plate which is fire proof and very durable.
-
-Finally, it is **not** a good idea to have a digit copy of your account secret stored on your phone or computer. Should your device ever get compromised, your account secret could fall into the wrong hands...
 
 &#x20;
 
-**What about a Xumm card?**
-
-Xumm cards are a great way to safely store an account secret for an XRP Ledger account. When you first activate a Xumm card an account secret is generated **on the card** and is not displayed. This means that you don't need to write down and store your account secret, it is safely stored on the card for you!
+****

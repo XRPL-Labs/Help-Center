@@ -20,6 +20,7 @@
     * [...with a Mnemonic](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md)
     * [...a Xumm Tangem card](getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md)
     * [...in Read Only mode](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...in-read-only-mode.md)
+  * [Good ideas for storing your secret numbers](getting-started-with-xumm/your-first-xrp-ledger-account/good-ideas-for-storing-your-secret-numbers.md)
   * [Should I import my Mnemonic into Xumm?](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/should-i-import-my-mnemonic-into-xumm.md)
 * [Buying XRP](getting-started-with-xumm/buying-xrp.md)
   * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
