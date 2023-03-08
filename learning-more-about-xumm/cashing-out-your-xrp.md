@@ -8,7 +8,7 @@ description: How can I convert my XRP into fiat?
 
 If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp service to our Xumm Pro users. You can buy and sell XRP from our [**On/Off-Ramp xApp**](https://xumm.app/detect/xapp:xumm.onofframp) and send funds back and forth between Xumm and your bank account. For most people, this fast, convenient and secure service will more than meet their needs so if you are interested in learning more about how it works, check out this article:
 
-\<Enter link to article here>
+* ****[**All about the Xumm On/Off-Ramp Service**](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)****
 
 ### **Are there other options?**
 
