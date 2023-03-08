@@ -48,3 +48,9 @@ There are several crypto exchanges in the blockchain space where you can purchas
 If you decide to go with one of the exchanges above, we have provided instructions on how to transfer XRP from them to your XRPL account.
 {% endhint %}
 
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+
