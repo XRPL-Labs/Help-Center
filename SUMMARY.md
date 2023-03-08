@@ -39,6 +39,7 @@
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
 * [Can Xumm reverse, freeze or undo a transaction?](getting-started-with-xumm/can-xumm-reverse-freeze-or-undo-a-transaction.md)
 * [Can I view/export my account secret?](getting-started-with-xumm/can-i-view-export-my-account-secret.md)
+* [I've lost my account secret!](getting-started-with-xumm/ive-lost-my-account-secret.md)
 * [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [General Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [How to create a Trust Line](getting-started-with-xumm/how-to-create-a-trust-line.md)
