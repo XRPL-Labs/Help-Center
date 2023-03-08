@@ -4,11 +4,7 @@ description: You sent XRP to your exchange account and it did not arrive
 
 # Deposit to Exchange Didn’t Arrive
 
-## **Situation**
-
-You sent XRP to your crypto exchange account and it has not arrived.
-
-## **General information**
+### **General information**
 
 In order to send XRP into an exchange account, you need to know **two** pieces of information:
 
@@ -25,21 +21,26 @@ If you are unsure what a destination tag is, this video should help:
 
 or for a more detailed, you can read this article: [Introduction to Destination Tags](https://support.xumm.app/hc/en-us/articles/360018134720-An-introduction-to-Destination-Tags)
 
-## **Why a deposit might not arrive**
+### **Why a deposit might not arrive**
 
-The first thing to check in Xumm is the **Events** list. You should confirm that the transaction completed and is listed in the event log.
+The main reasons why funds do not arrive are:
 
-<figure><img src="../.gitbook/assets/Events 2.png" alt=""><figcaption></figcaption></figure>
+* There was **no destination tag** entered in the transaction
+* There was **incorrect destination tag** entered in the transaction
 
-As well, make sure the destination tag was entered **correctly**.
+You can check this in Xumm under the **Events** section.
 
-<figure><img src="../.gitbook/assets/Crypto Transaction + Arrow.png" alt=""><figcaption><p>Sample transaction to a crypto exchange</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Events button -1.png" alt=""><figcaption></figcaption></figure>
 
-This is the **number 1 reason** funds are not delivered. People either don’t enter a destination tag or enter a destination tag incorrectly.
+When you review the transaction, make sure the destination tag was entered **correctly**.
+
+<figure><img src="../.gitbook/assets/Transaction - 1.png" alt=""><figcaption></figcaption></figure>
+
+Again, this is the **number 1 reason** funds are not delivered. People either don’t enter a destination tag or enter a destination tag incorrectly.
 
 If the destination r-address and tag are both correct and the funds still have not arrived in your exchange account, it is most likely that your exchange has not processed that transaction on their side perhaps due to technical issues, a processing backlog, or because they are holding your funds for KYC/AML reasons.
 
-## **What you can do to retrieve your funds**
+### **What you can do to retrieve your funds**
 
 Once Xumm submits a transaction to the XRP Ledger (XRPL) for processing, there is nothing that can be done to change or reverse it. This article explains how this works:
 
@@ -82,14 +83,8 @@ If you are required to provide such information here is how to get it in Xumm.
 
 
 
-**Additional reading**
-
-* [How to find the Transaction ID of a transaction?](https://support.xumm.app/hc/en-us/articles/360018392080)
-
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/4999922554258/Support\_banner\_-Xumm.png](https://support.xumm.app/hc/article\_attachments/4999922554258/Support\_banner\_-Xumm.png)
-
-Support\_banner\_-Xumm.png
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

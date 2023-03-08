@@ -36,6 +36,7 @@
 * [Sending tokens to Xumm](getting-started-with-xumm/sending-tokens-to-xumm.md)
 * [Sending tokens from Xumm](getting-started-with-xumm/sending-tokens-from-xumm.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
+* [Can Xumm reverse, freeze or undo a transaction?](getting-started-with-xumm/can-xumm-reverse-freeze-or-undo-a-transaction.md)
 * [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [General Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [How to create a Trust Line](getting-started-with-xumm/how-to-create-a-trust-line.md)
