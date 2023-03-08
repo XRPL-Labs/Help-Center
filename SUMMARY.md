@@ -24,7 +24,6 @@
 * [Buying XRP](getting-started-with-xumm/buying-xrp.md)
   * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
   * [BTCDirect](getting-started-with-xumm/buying-xrp/btcdirect.md)
-  * [Stably](getting-started-with-xumm/buying-xrp/stably.md)
 * [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
   * [From Gatehub](getting-started-with-xumm/activating-an-account/from-gatehub.md)
   * [From Bitstamp](getting-started-with-xumm/activating-an-account/from-bitstamp.md)
@@ -40,6 +39,7 @@
 * [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [General Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [How to create a Trust Line](getting-started-with-xumm/how-to-create-a-trust-line.md)
+* [Stably](getting-started-with-xumm/stably.md)
 
 ## Learning more about Xumm
 
