@@ -44,7 +44,7 @@ If the destination r-address and tag are both correct and the funds still have n
 
 Once Xumm submits a transaction to the XRP Ledger (XRPL) for processing, there is nothing that can be done to change or reverse it. This article explains how this works:
 
-* [Can Xumm reverse, freeze or undo a transaction?](https://support.xumm.app/hc/en-us/articles/4735501871122)
+* [Can Xumm reverse, freeze or undo a transaction?](can-xumm-reverse-freeze-or-undo-a-transaction.md)
 
 All crypto exchanges have a process that needs to be followed in order to investigate a transaction.
 
