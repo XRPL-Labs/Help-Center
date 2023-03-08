@@ -8,25 +8,19 @@ An account secret can come in various forms:
 * _Family Seed_: A 29 character string of numbers and letters starting with the letter "s".
 * _Mnemonic_: A set of 12, 16 or 24 words chosen from the [BIP 39 list](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
 
-Each account on the XRPL will have its own account secret and in order to access an XRP Ledger account, you need to know the correct account secret.
+Each account on the XRPL will have its own account secret and in order to access that account, you need to know the correct account secret.
 
-As well, every account secret maps to exactly one r-address. The same account secret always results in the same r-address so if you have 10 XRPL accounts, you will have 10 different account secrets.
-
-&#x20;
-
-**How do I see my account secret?**
+### **Can I see my account secret in Xumm?**
 
 Xumm does **not** display account secrets.
 
-If your XRP Ledger account was created using Xumm, you only see the secret numbers once, when the account is created. After that, there is no way to access, view or export them.
+If your XRP Ledger account was created using Xumm, you had only had one opportunity to see the secret numbers, (when the account is created), after that, there is no way to access, view or export them.
 
-&#x20;
+## Frequently asked Questions
 
-**I created my XRPL account outside of Xumm...**
+#### **I created my XRPL account outside of Xumm...**
 
-Xumm does **not** display account secrets.
-
-Depending on how you created your XRPL account, it is possible that the website or application that you used might have kept a copy of your account secret or has the ability to recover them. You can try to contact them and see if they might be able to recover them for you.\
+Depending on how you created your XRPL account, it is possible that the website or application that you used might have kept a copy of your account secret or has the ability to recover it. You can try to contact them and see if they might be able to recover them for you.\
 \
 
 
