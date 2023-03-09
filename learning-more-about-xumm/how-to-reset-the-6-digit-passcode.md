@@ -22,11 +22,11 @@ Enter in your current passcode, then enter in your new passcode.  You have 1 mil
 
 ### **My 6 digit passcode code is not working**
 
-In a case where your passcode is no longer working, you are going to need to uninstall Xumm, then [<mark style="color:blue;">**reinstall Xumm**</mark>](../getting-started-with-xumm/installing-xumm.md) and [<mark style="color:blue;">**re-import your account**</mark> ](../getting-started/importing-your-existing-xrpl-account.md)using your account secret.&#x20;
+In a case where your passcode is no longer working, you are going to need to uninstall Xumm, then [<mark style="color:blue;">**reinstall Xumm**</mark>](../getting-started-with-xumm/installing-xumm.md) and [<mark style="color:blue;">**re-import your account**</mark> ](../getting-started-with-xumm/importing-your-account/)using your account secret.&#x20;
 
 ### **I lost my 6 digit code and I need to create a new one**
 
-In a case where you have lost your passcode, the solution is the same as if your passcode is not working. Uninstall Xumm, then [<mark style="color:blue;">**reinstall Xumm**</mark>](../getting-started-with-xumm/installing-xumm.md) and [<mark style="color:blue;">**re-import your account**</mark> ](../getting-started/importing-your-existing-xrpl-account.md)using your account secret.&#x20;
+In a case where you have lost your passcode, the solution is the same as if your passcode is not working. Uninstall Xumm, then [<mark style="color:blue;">**reinstall Xumm**</mark>](../getting-started-with-xumm/installing-xumm.md) and [<mark style="color:blue;">**re-import your account**</mark> ](../getting-started-with-xumm/importing-your-account/)using your account secret.&#x20;
 
 **Notes**
 

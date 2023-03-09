@@ -36,7 +36,7 @@ To delete an XRPL account, you need to follow the instructions above.
 {% hint style="warning" %}
 &#x20;If your XRPL account was removed from Xumm in error, it can be imported back into Xumm using the account secret (Secret numbers / Family Seed / Mnemonic) by following the instructions here:\
 \
-[**Importing your account into Xumm**](../getting-started/importing-your-existing-xrpl-account.md)****
+[**Importing your account into Xumm**](../getting-started-with-xumm/importing-your-account/)****
 {% endhint %}
 
 #### **I deleted my XRPL account and sent the funds to my exchange account**

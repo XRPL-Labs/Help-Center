@@ -36,7 +36,7 @@ Before you can configure backup signing card, you will need to import both cards
 
 This article provides step by step instructions on how to do this:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xumm (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md">adding-a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xumm (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
 Since the <mark style="color:blue;">blue</mark> card is going to be your **Primary account**, you will need to activate it with at least 10 XRP.&#x20;
 

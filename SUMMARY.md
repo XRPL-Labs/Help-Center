@@ -14,17 +14,8 @@
 * [Installing Xumm](getting-started-with-xumm/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xumm/your-first-xrp-ledger-account/README.md)
   * [How to create an XRPL account](getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
-  * [Importing your account](getting-started/importing-your-existing-xrpl-account.md)
-    * [...with Secret Numbers](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-secret-numbers.md)
-    * [...with a Family Seed](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-family-seed.md)
-    * [...with a Mnemonic](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...with-a-mnemonic.md)
-    * [...a Xumm Tangem card](getting-started-with-xumm/your-first-xrp-ledger-account/adding-a-xumm-tangem-card.md)
-    * [...in Read Only mode](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/...in-read-only-mode.md)
   * [Good ideas for storing your secret numbers](getting-started-with-xumm/your-first-xrp-ledger-account/good-ideas-for-storing-your-secret-numbers.md)
   * [Should I import my Mnemonic into Xumm?](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/should-i-import-my-mnemonic-into-xumm.md)
-* [Buying XRP](getting-started-with-xumm/buying-xrp.md)
-  * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
-  * [BTCDirect](getting-started-with-xumm/buying-xrp/btcdirect.md)
 * [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
   * [From Gatehub](getting-started-with-xumm/activating-an-account/from-gatehub.md)
   * [From Bitstamp](getting-started-with-xumm/activating-an-account/from-bitstamp.md)
@@ -34,6 +25,15 @@
   * [From Uphold](getting-started-with-xumm/activating-an-account/from-uphold.md)
   * [From Binance](getting-started-with-xumm/activating-an-account/from-binance.md)
   * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
+* [Importing your account](getting-started-with-xumm/importing-your-account/README.md)
+  * [...with Secret Numbers](getting-started-with-xumm/importing-your-account/...with-secret-numbers.md)
+  * [...with a Family Seed](getting-started-with-xumm/importing-your-account/...with-a-family-seed.md)
+  * [...with a Mnemonic](getting-started-with-xumm/importing-your-account/...with-a-mnemonic.md)
+  * [...a Xumm Tangem card](getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+  * [...in Read Only mode](getting-started-with-xumm/importing-your-account/...in-read-only-mode.md)
+* [Buying XRP](getting-started-with-xumm/buying-xrp.md)
+  * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
+  * [BTCDirect](getting-started-with-xumm/buying-xrp/btcdirect.md)
 * [Sending tokens to Xumm](getting-started-with-xumm/sending-tokens-to-xumm.md)
 * [Sending tokens from Xumm](getting-started-with-xumm/sending-tokens-from-xumm.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
@@ -43,7 +43,6 @@
 * [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [General Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [How to create a Trust Line](getting-started-with-xumm/how-to-create-a-trust-line.md)
-* [Stably](getting-started-with-xumm/stably.md)
 
 ## Learning more about Xumm
 
@@ -108,6 +107,7 @@
   * [UniSpend](all-about-xapps/xrp-community/chispend-cash-out.md)
   * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
   * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
+  * [Stably](all-about-xapps/xrp-community/stably.md)
 
 ## Xumm Pro beta
 

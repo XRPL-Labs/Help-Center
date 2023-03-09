@@ -32,7 +32,7 @@ If you selected **Extra security** you would have created a separate signing pas
 
 1. Your account secret will come in the the form of a set of secret numbers / Family seed /Mnemonic. This article will guide you through importing your account with which ever one you have:\
    \
-   [<mark style="color:blue;">**Importing your account into Xumm**</mark>](../getting-started/importing-your-existing-xrpl-account.md)<mark style="color:blue;">****</mark>
+   [<mark style="color:blue;">**Importing your account into Xumm**</mark>](../getting-started-with-xumm/importing-your-account/)<mark style="color:blue;">****</mark>
 
 **Notes**
 
