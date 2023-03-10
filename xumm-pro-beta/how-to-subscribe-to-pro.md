@@ -12,21 +12,24 @@ If you have already subscribed to Pro Beta, check out our [Features of Pro](feat
 
 ### **I just want to get access as quickly as possible. How do I do that?**
 
-It has been a long wait for Xumm Pro and now that the beta version is available, you just want to get immediate access. We completely understand!
+The in-app purchase is option is temporarily disabled so you can purchase Pro in either of these to ways:\
 
-1\) Press the _**Pro Beta**_ icon at the bottom of the screen in Xumm.
 
-<figure><img src="../.gitbook/assets/Pro - 1.png" alt=""><figcaption></figcaption></figure>
+## Option1
 
-2\) Press the _**Open Pro Beta**_ button.
+1\) Click on this link: [https://xrpl-labs.com/gift-pro/raddr](https://xrpl-labs.com/gift-pro/raddr)
 
-<figure><img src="../.gitbook/assets/Pro - 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Gift Xumm Pro - 1.png" alt=""><figcaption></figcaption></figure>
+
+2\) Enter your r-address into the field and select the **Purchase** button.
+
+## Option 2
+
+1\) Press the _**Open Pro Beta**_ button.
 
 3\) Scroll down and press the _**Get Pro**_ button.
 
-<figure><img src="../.gitbook/assets/Pro - 3.png" alt=""><figcaption></figcaption></figure>
 
-4\) Pay for your subscription.
 
 ### **How much does it cost to subscribe to Xumm Pro Beta?**
 
