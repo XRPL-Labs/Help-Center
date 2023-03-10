@@ -10,7 +10,7 @@ One of the security features on a Xumm (Tangem) card is the ability to create a 
 
 In certain situations, setting a pin can make a lot of sense.
 
-For example, if you configure your cards as [recommended](getting-started....md), you will create a Primary account then set up a second card as a Signing account. This configuration allows you to store your Primary card in safe/secure location while using the Signing account to sign transactions on your Primary account.  In this case, assigning a pin to your Signing card adds an additional level of protection in case your card is ever stolen.
+For example, if you configure your cards as [recommended](getting-started.md), you will create a Primary account then set up a second card as a Signing account. This configuration allows you to store your Primary card in safe/secure location while using the Signing account to sign transactions on your Primary account.  In this case, assigning a pin to your Signing card adds an additional level of protection in case your card is ever stolen.
 
 ### **If you forget the pin...**
 
