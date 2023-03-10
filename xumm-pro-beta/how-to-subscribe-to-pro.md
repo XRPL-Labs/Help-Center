@@ -14,21 +14,21 @@ If you have already subscribed to Pro Beta, check out our [Features of Pro](feat
 
 The in-app purchase is option is temporarily disabled so you can purchase Pro in either of these to ways:
 
-## Option1
-
-1\) Click on this link: [https://xrpl-labs.com/gift-pro/raddr](https://xrpl-labs.com/gift-pro/raddr)
-
-<figure><img src="../.gitbook/assets/Gift Xumm Pro - 1.png" alt=""><figcaption></figcaption></figure>
-
-2\) Enter your r-address into the field and select the **Purchase** button.
-
-## Option 2
+## Option 1
 
 1\) Select this link: [https://xumm.app/detect/xapp:xumm.tangem-order](https://xumm.app/detect/xapp:xumm.tangem-order)
 
 2\) Select the **2 Xumm Tangem Card + Pro** option the press the **Select** button&#x20;
 
 <figure><img src="../.gitbook/assets/Tangem order -1.png" alt=""><figcaption></figcaption></figure>
+
+## Option 2
+
+1\) Click on this link: [https://xrpl-labs.com/gift-pro/raddr](https://xrpl-labs.com/gift-pro/raddr)
+
+<figure><img src="../.gitbook/assets/Gift Xumm Pro - 1.png" alt=""><figcaption></figcaption></figure>
+
+2\) Enter your r-address into the field and select the **Purchase** button.
 
 ### **How much does it cost to subscribe to Xumm Pro Beta?**
 
