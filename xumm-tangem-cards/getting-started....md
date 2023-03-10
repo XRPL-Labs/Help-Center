@@ -64,7 +64,7 @@ If you decide to follow our first recommendation, creating a pin on your backup 
 
 We have compiled a set of suggestions on how to use your Xumm (Tangem) cards. A sort of "Do's and Don'ts" list of things to avoid and things to try to practice when it comes to your cards.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Best security practices for your Xumm (Tangem) card</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Best security practices for your Xumm (Tangem) card</td><td></td><td></td><td><a href="../.gitbook/assets/Water fall - 2.png">Water fall - 2.png</a></td><td><a href="best-security-practices-using-a-xumm-card.md">best-security-practices-using-a-xumm-card.md</a></td></tr></tbody></table>
 
 ### Summary
 
