@@ -12,8 +12,7 @@ If you have already subscribed to Pro Beta, check out our [Features of Pro](feat
 
 ### **I just want to get access as quickly as possible. How do I do that?**
 
-The in-app purchase is option is temporarily disabled so you can purchase Pro in either of these to ways:\
-
+The in-app purchase is option is temporarily disabled so you can purchase Pro in either of these to ways:
 
 ## Option1
 
