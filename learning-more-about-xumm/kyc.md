@@ -72,31 +72,28 @@ Xumm does not currently have a place to verify that you went through the KYC pro
 
 <figure><img src="../.gitbook/assets/Bithomp - Verified.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;You can visit this site: [https://xrpscan.com/](https://xrpscan.com/) and enter your r-address and look for ->                          ![mceclip2.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4475788481810/mceclip2.png)
+* You can visit this site: [https://xrpscan.com/](https://xrpscan.com/) then enter your r-address and look for:                          ![mceclip2.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4475788481810/mceclip2.png)
 
-![mceclip1.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4475804425234/mceclip1.png)
+<figure><img src="../.gitbook/assets/XRPscan - Verified.png" alt=""><figcaption></figcaption></figure>
 
-**Note:**  To confirm, the only way to get "Xumm verified" to be displayed in Bithomp or XRPScan is to go through the KYC process via Xumm Pro.
+{% hint style="info" %}
+The only way to get "Xumm verified" to be displayed in Bithomp or XRPScan is to go through the KYC process via Xumm Pro.
+{% endhint %}
 
-&#x20;**Do I have to go through the KYC process to get an airdrop?**
+#### &#x20;**Do I have to go through the KYC process to get an airdrop?**
 
 That depends on the airdrop. Some projects on the XRPL require that you go through the KYC process in order to participate. Normally, the project would provide the means to do this.&#x20;
 
-### **Where can I learn more about the Global ID and the KYC process?**
+#### **You've mentioned Xumm Pro (beta) a couple of times, where do I learn more about it?**
 
-* [How often / when will GlobaliD profile information be updated?](https://support.xumm.app/hc/en-us/articles/4403121627794)
-* [What information shows when with GlobaliD + XUMM account verification?](https://support.xumm.app/hc/en-us/articles/4403121619218)
-* [How long before a "blue checkmark" shows after completing the GlobaliD + XUMM flow?](https://support.xumm.app/hc/en-us/articles/4403113347218)
-* [What are the requirements for a "blue checkmark" to show up next to an account?](https://support.xumm.app/hc/en-us/articles/4403113276946)
+We are super excited about the release of Xumm Pro Beta! 🎉.&#x20;
 
-&#x20;
+You can learn all about it here:
 
-### **I went through the KYC process with Global ID, why do I need to go through it again with Xumm Pro (Beta)?**
+* &#x20;[**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)****
 
-Xumm is a separate company from Global ID, and we have our own legal obligations that we need to meet. We cannot obtain the information gathered by Global ID to perform our own identification and verification. We need to do this ourselves as we need to ensure all documents are current and up to date.
+### **Notes**
 
-&#x20;
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-### **You've mentioned Xumm Pro (beta) a couple of times, where do I learn more about it?**
-
-We are super excited about the release of Xumm Pro Beta! 🎉. You can learn all about it here:
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
