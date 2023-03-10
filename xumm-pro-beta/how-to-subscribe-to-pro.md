@@ -25,11 +25,11 @@ The in-app purchase is option is temporarily disabled so you can purchase Pro in
 
 ## Option 2
 
-1\) Press the _**Open Pro Beta**_ button.
+1\) Select this link: [https://xumm.app/detect/xapp:xumm.tangem-order](https://xumm.app/detect/xapp:xumm.tangem-order)
 
-3\) Scroll down and press the _**Get Pro**_ button.
+2\) Select the **2 Xumm Tangem Card + Pro** option the press the **Select** button&#x20;
 
-
+<figure><img src="../.gitbook/assets/Tangem order -1.png" alt=""><figcaption></figcaption></figure>
 
 ### **How much does it cost to subscribe to Xumm Pro Beta?**
 
