@@ -1,5 +1,7 @@
 ---
 description: How we recommend using the cards
+cover: ../.gitbook/assets/Water fall - 2.png
+coverY: 0
 ---
 
 # Best Security Practices Using the Xumm (Tangem) Cards
