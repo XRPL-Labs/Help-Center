@@ -54,6 +54,7 @@
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [Spam on the XRP Ledger](learning-more-about-xumm/page-1.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
+* [KYC](learning-more-about-xumm/kyc.md)
 * [Guidelines and review process of publishing xApps](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
 * [How to Get a Token Added to the Xumm Short List](learning-more-about-xumm/how-to-get-a-token-added-to-the-xumm-short-list.md)
 * [Destination tags](learning-more-about-xumm/destination-tags.md)

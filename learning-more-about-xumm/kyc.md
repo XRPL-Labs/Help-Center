@@ -1,0 +1,129 @@
+# KYC
+
+### **What is KYC?**
+
+KYC is short for **Know Your Customer**.
+
+It is a requirement in the heavily regulated financial sector (such as banks, payment institutions, securities and also for virtual assets) to identify a client and then to verify the identity of the client.
+
+Many governments have already imposed KYC on the crypto industry and are requiring that crypto exchanges and other service providers enforce the KYC process for their clients.&#x20;
+
+&#x20;
+
+### **Do I have to go through the KYC process to use Xumm?**
+
+The short answer is no, not yet. It is for now, still entirely optional. Xumm is a non custodial wallet and those services are not yet regulated. However, countries and their national supervisors are working together in the Financial Action Task Force on Money Laundering (FATF) to introduce more obligations around virtual assets and virtual asset service providers in order to identify bad actors/people that use crypto for illegal purposes. Therefore, in time, KYC is expected to become more common/required.&#x20;
+
+&#x20;
+
+### **Do I have to go through the KYC process to get an airdrop?**
+
+That depends on the airdrop. Some projects on the XRPL require that you go through the KYC process in order to participate. Normally, the project would provide the means to do this.
+
+&#x20;
+
+### **Why would I want to go through the KYC process if it's optional?**&#x20;
+
+Many people feel that going through the KYC process is a way of adding legitimacy to their XRP Ledger account. At Xumm, we work together with professional partners to be able to properly identify and verify the identity of a person. The optional identification process already has many safeguards in place to make sure that it is the actual person registering... but there are always risks and uncertainties.
+
+&#x20;
+
+### **Which documents can I use to go through the KYC process?**
+
+The KYC process requires that you have an official government issued document to help identify who you are. For most countries, this means:
+
+* A valid passport
+* A valid driver's license
+* A valid ID card
+* A valid residence permit
+
+For a current list of supported documents, please refer to this link:
+
+[https://www.veriff.com/supported-countries](https://www.veriff.com/supported-countries)
+
+&#x20;
+
+### **What about Xumm Pro (Beta)?**&#x20;
+
+When you subscribe to Xumm Pro Beta, you will have the option to go through the KYC process, however, only those who go through KYC will be able to access to the Pro Bea features like a Profile, PayString, uploading your avatar and showing your real name when sending payment requests. It will also be required if you want to use the on/off ramps for fiat.&#x20;
+
+Because we only want to support trustworthy profiles & to prevent imposters, your avatar & display name will be compared to your KYC government ID information. This way, everybody in the ecosystem will be able to trust other users and their profiles, names, avatars, if they have a Pro Beta subscription.
+
+* [How to subscribe to Xumm Pro Beta 🎉](https://support.xumm.app/hc/en-us/articles/6138022550418)
+
+### **What about Xumm Pro with On-ramp and Off-ramp (fiat to XRP and vice versa)?**&#x20;
+
+**Note: On-ramp and Off-ramp is not yet available for all regions.**
+
+If you would like to use our On/Off-ramp feature, **you will need to go through the KYC process in Xumm Pro**. This is a requirement of the Dutch government under which we are regulated.
+
+&#x20;
+
+### **Will Xumm disclose my identity if I go through the KYC process?**
+
+Xumm does not disclose personal information to third parties, unless it is necessary due to legal obligations. We work together with industry experts to fulfil our commitment in building and maintaining a safe XRP ecosystem. In our privacy statement, you will find the personal data we process and the grounds for processing.&#x20;
+
+&#x20;
+
+### **Can I go through the KYC process using a "read only" account in Xumm?**
+
+Since anyone can import an XRPL account into Xumm as "read only", there is no way for us to verify that you own the account unless your have full signing access to it. (This is also why you can not go through the KYC process on an account that has been blackholed.) The idea behind KYC is to verify your identity **and associate this verification with an XRP Ledger account that you own.** In order to do that, you need to have "full access" to your XRPL account. This means that you know the secret keys for your account and you have imported them into Xumm. &#x20;
+
+&#x20;
+
+### **How do I go through the KYC process?**
+
+In Xumm Pro Beta, simply click on the _**Open KYC xApp**_ and follow the instructions on the screen.
+
+![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/6142051194770/mceclip0.png)
+
+If you do not have a Pro Beta subscription you still have a couple of  options:
+
+1\) **GlobaliD** - You can create an account here: [https://global.id/](https://global.id/) and go through the KYC process by following the instructions in this article:
+
+* [How to add your XRP Ledger account address verification credentials (attestation) to your GlobaliD identity profile](https://support.xumm.app/hc/en-us/articles/4403121678226)\
+  \
+
+
+2\) **Veriff or other KYC providers** - There are several KYC providers in the industry providing KYC services.
+
+&#x20;
+
+### **I went through the KYC process in Pro but I can't see it in Xumm.**
+
+Xumm does not currently have a place to verify that you went through the KYC process. (We assume that you already know that you completed it so there is no reason to display it. )
+
+...but just in case, here are a couple of ways to check:
+
+* You can visit this site: [https://bithomp.com/](https://bithomp.com/) and enter your r-address and look for:  **Xumm: verified √**&#x20;
+
+&#x20;
+
+![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4475742938002/mceclip0.png)
+
+* You can visit this site: [https://xrpscan.com/](https://xrpscan.com/) and enter your r-address and look for ->                          ![mceclip2.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4475788481810/mceclip2.png)
+
+![mceclip1.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4475804425234/mceclip1.png)
+
+**Note:**  To confirm, the only way to get "Xumm verified" to be displayed in Bithomp or XRPScan is to go through the KYC process via Xumm Pro.
+
+&#x20;
+
+### **Where can I learn more about the Global ID and the KYC process?**
+
+* [How often / when will GlobaliD profile information be updated?](https://support.xumm.app/hc/en-us/articles/4403121627794)
+* [What information shows when with GlobaliD + XUMM account verification?](https://support.xumm.app/hc/en-us/articles/4403121619218)
+* [How long before a "blue checkmark" shows after completing the GlobaliD + XUMM flow?](https://support.xumm.app/hc/en-us/articles/4403113347218)
+* [What are the requirements for a "blue checkmark" to show up next to an account?](https://support.xumm.app/hc/en-us/articles/4403113276946)
+
+&#x20;
+
+### **I went through the KYC process with Global ID, why do I need to go through it again with Xumm Pro (Beta)?**
+
+Xumm is a separate company from Global ID, and we have our own legal obligations that we need to meet. We cannot obtain the information gathered by Global ID to perform our own identification and verification. We need to do this ourselves as we need to ensure all documents are current and up to date.
+
+&#x20;
+
+### **You've mentioned Xumm Pro (beta) a couple of times, where do I learn more about it?**
+
+We are super excited about the release of Xumm Pro Beta! 🎉. You can learn all about it here:
