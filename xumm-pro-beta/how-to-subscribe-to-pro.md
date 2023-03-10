@@ -12,7 +12,11 @@ If you have already subscribed to Pro Beta, check out our [Features of Pro](feat
 
 ### **I just want to get access as quickly as possible. How do I do that?**
 
-The in-app purchase is option is temporarily disabled so you can purchase Pro in either of these to ways:
+{% hint style="warning" %}
+The in-app purchase for Xumm Pro (Beta) has been temporarily disabled.
+{% endhint %}
+
+You have two options:
 
 ## Option 1
 
