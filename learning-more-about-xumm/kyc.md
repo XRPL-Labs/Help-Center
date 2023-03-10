@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Boulder.png
+coverY: -253
+---
+
 # KYC
 
 ### **What is KYC?**
@@ -8,27 +13,17 @@ It is a requirement in the heavily regulated financial sector (such as banks, pa
 
 Many governments have already imposed KYC on the crypto industry and are requiring that crypto exchanges and other service providers enforce the KYC process for their clients.&#x20;
 
-&#x20;
+## Frequently asked questions
 
-### **Do I have to go through the KYC process to use Xumm?**
+#### **Do I have to go through the KYC process to use Xumm?**
 
-The short answer is no, not yet. It is for now, still entirely optional. Xumm is a non custodial wallet and those services are not yet regulated. However, countries and their national supervisors are working together in the Financial Action Task Force on Money Laundering (FATF) to introduce more obligations around virtual assets and virtual asset service providers in order to identify bad actors/people that use crypto for illegal purposes. Therefore, in time, KYC is expected to become more common/required.&#x20;
+No. It is entirely optional. Xumm is a self-custodial wallet and our services are not yet regulated. However, countries and their national supervisors are working together in the Financial Action Task Force on Money Laundering (FATF) to introduce more obligations around virtual assets and virtual asset service providers in order to identify bad actors/people that use crypto for illegal purposes. Therefore, in time, KYC is expected to become more common/required. &#x20;
 
-&#x20;
+#### **Why would I want to go through the KYC process if it's optional?**&#x20;
 
-### **Do I have to go through the KYC process to get an airdrop?**
+Many people feel that going through the KYC process is a way of adding legitimacy to their XRP Ledger account. At Xumm, we work together with professional partners to be able to properly identify and verify the identity of a person. In many countries, people prefer to know who they are dealing with financial transactions.
 
-That depends on the airdrop. Some projects on the XRPL require that you go through the KYC process in order to participate. Normally, the project would provide the means to do this.
-
-&#x20;
-
-### **Why would I want to go through the KYC process if it's optional?**&#x20;
-
-Many people feel that going through the KYC process is a way of adding legitimacy to their XRP Ledger account. At Xumm, we work together with professional partners to be able to properly identify and verify the identity of a person. The optional identification process already has many safeguards in place to make sure that it is the actual person registering... but there are always risks and uncertainties.
-
-&#x20;
-
-### **Which documents can I use to go through the KYC process?**
+#### **Which documents can I use to go through the KYC process?**
 
 The KYC process requires that you have an official government issued document to help identify who you are. For most countries, this means:
 
@@ -39,17 +34,15 @@ The KYC process requires that you have an official government issued document to
 
 For a current list of supported documents, please refer to this link:
 
-[https://www.veriff.com/supported-countries](https://www.veriff.com/supported-countries)
+* ****[**List of supported documents and counties**](https://www.veriff.com/supported-countries)&#x20;
 
-&#x20;
+#### **What about Xumm Pro (Beta)?**&#x20;
 
-### **What about Xumm Pro (Beta)?**&#x20;
-
-When you subscribe to Xumm Pro Beta, you will have the option to go through the KYC process, however, only those who go through KYC will be able to access to the Pro Bea features like a Profile, PayString, uploading your avatar and showing your real name when sending payment requests. It will also be required if you want to use the on/off ramps for fiat.&#x20;
+When you subscribe to Xumm Pro (Beta), you will have the option to go through the KYC process, however, only those who go through KYC will be able to access to the Pro Bea features like a Profiles, PayString, uploading your avatar and showing your real name when sending payment requests. It will also be required if you want to use our On/Off-ramp service for fiat.&#x20;
 
 Because we only want to support trustworthy profiles & to prevent imposters, your avatar & display name will be compared to your KYC government ID information. This way, everybody in the ecosystem will be able to trust other users and their profiles, names, avatars, if they have a Pro Beta subscription.
 
-* [How to subscribe to Xumm Pro Beta 🎉](https://support.xumm.app/hc/en-us/articles/6138022550418)
+* [How to subscribe to Xumm Pro Beta 🎉](../xumm-pro-beta/how-to-subscribe-to-pro.md)
 
 ### **What about Xumm Pro with On-ramp and Off-ramp (fiat to XRP and vice versa)?**&#x20;
 
@@ -107,7 +100,9 @@ Xumm does not currently have a place to verify that you went through the KYC pro
 
 **Note:**  To confirm, the only way to get "Xumm verified" to be displayed in Bithomp or XRPScan is to go through the KYC process via Xumm Pro.
 
-&#x20;
+&#x20;**Do I have to go through the KYC process to get an airdrop?**
+
+That depends on the airdrop. Some projects on the XRPL require that you go through the KYC process in order to participate. Normally, the project would provide the means to do this.&#x20;
 
 ### **Where can I learn more about the Global ID and the KYC process?**
 
