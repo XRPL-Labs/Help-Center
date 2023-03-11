@@ -19,7 +19,7 @@ Following these instructions will undo the backup procedure you did in [here](ho
 
 ### &#x20;Instructions
 
-1\) In Xumm ensure you are looking at your **Primary card** account and you have your Xumm (Tangem) card for your Primary account with you.
+1\) In Xumm ensure you switch to your **Primary card** account and you have your Xumm (Tangem) card for your Primary account with you.
 
 2\) Select this [**link**](https://xrpl.services/) and sign into XRPL.Services with your Primary account card.&#x20;
 
