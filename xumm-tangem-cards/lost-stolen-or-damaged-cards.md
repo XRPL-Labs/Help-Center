@@ -36,12 +36,13 @@ This article explains how to do this: [How to create a Trust Line](../getting-st
 If your _Primary account_ card is been **damaged or destroyed**, you have more time to decide how to proceed.
 {% endhint %}
 
-1\) If you carry your Signing card with you on a regular basis, you should stop doing this since the Signing card is the only way to access your Primary account now that the Primary account card is not longer functional.
+1\) If you carry your Signing card with you on a regular basis, you should stop doing this since the Signing card is the only way to access your Primary account now that the Primary account card is not longer functional. It should now be stored in a safe, secure place.
 
-2\) At this point, most people will decide to purchase another Xumm (Tangem) card to replace the damaged/destroyed one. Once the replacement card arrives, you can simply [add the card](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md), [activate it](../getting-started/how-to-activate-a-new-xrpl-account.md), it then use the Signing card to move your funds from your Primary account over to the new card's account using the Signing account card to sign transactions on your Primary account.
+2\) At this point, most people will decide to purchase another Xumm (Tangem) card to replace the damaged/destroyed one. Once the replacement card arrives, you can simply [add the card](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md), then [activate it](../getting-started/how-to-activate-a-new-xrpl-account.md), and use the Signing card to move your funds from your Primary account over to the new card's account.&#x20;
 
-3\) Once you have completed this process, you can configure the new card to be your new "Primary" account and link your existing Signing account card to your new card.  Here is how to do this: [How to configure backup signing account](how-to-configure-a-backup-signing-account.md) \
+3\) Once you have completed this process, you can configure the new card to be your new "Primary" account and link your existing Signing account card to your new card.  Here is how to do this: [How to configure backup signing account](how-to-configure-a-backup-signing-account.md)&#x20;
 
+Note:&#x20;
 
 ### **Case 3**
 
