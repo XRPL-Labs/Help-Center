@@ -14,7 +14,7 @@ For the purposes of this article, we assume the following:
 
 
 {% hint style="warning" %}
-Following these instructions will undo the backup procedure you did in [here](how-to-configure-a-backup-signing-account.md). After you have performed these steps your cards will no longer be linked.
+These instructions will undo the backup procedure you did [here](how-to-configure-a-backup-signing-account.md). After you have performed these steps your cards will no longer be linked.
 {% endhint %}
 
 ### &#x20;Instructions
@@ -23,4 +23,7 @@ Following these instructions will undo the backup procedure you did in [here](ho
 
 2\) Select this [**link**](https://xrpl.services/) and sign into XRPL.Services with your Primary account card.&#x20;
 
-3\)&#x20;
+3\) \<Tom to provide screenshots>
+
+
+
