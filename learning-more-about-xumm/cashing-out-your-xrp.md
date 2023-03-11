@@ -10,6 +10,10 @@ If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp ser
 
 * ****[**All about the Xumm On/Off-Ramp Service**](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)****
 
+{% hint style="warning" %}
+Please note: You can only off-ramp XRP that you purchased through our service. We do not allow off-ramping of XRP acquired by another means.
+{% endhint %}
+
 ### **Are there other options?**
 
 If you are not located in the Netherlands or the UK, we have partnered with two crypto exchanges which should be able to meet your needs.
@@ -19,9 +23,7 @@ If you are not located in the Netherlands or the UK, we have partnered with two 
 | ![](<../.gitbook/assets/image (2) (2) (3).png>) | ****[**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)****         | All About Banxa     |
 | ![](<../.gitbook/assets/image (5) (1) (1).png>) | ****[**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)**** | All About BTCDirect |
 
-Combined, both Banxa and BTCDirect offer exchange services to most countries in the world. You can find both of them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp. (Or just click here:
-
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Buy/Sell XRP xApp**</mark>](https://xumm.app/detect/xapp:xumm.buysellxrp)<mark style="color:blue;">****</mark>
+Combined, both Banxa and BTCDirect offer exchange services to most countries in the world. You can find both of them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp.&#x20;
 
 We plan to partner will other exchanges in the future to expand and improve our coverage along with extending our our services.
 
@@ -44,7 +46,7 @@ Some crypto exchanges support multiple XRP Ledger tokens along with XRP. This sh
 
 ### **Can't I just link my Xumm account directly to my bank account?**
 
-If you are located in the Netherlands or the uk and have signed up for the On/Off-Ramp service through Xumm Pro, then yes, you can link your XRPL account managed by Xumm to your bank account. For everyone else, Xumm does not have the option to do this.
+If you are located in the Netherlands or the United Kingdom and have signed up for the On/Off-Ramp service through Xumm Pro, then yes, you can link your XRPL account managed by Xumm to your bank account. For everyone else, Xumm does not have the option to do this.
 
 If your bank is interested in adding this feature, we would be happy to discuss it with them. Have them contact us!
 
