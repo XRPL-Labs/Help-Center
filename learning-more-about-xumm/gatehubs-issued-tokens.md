@@ -66,7 +66,7 @@ You can not send an XRPL token directly to the Ethereum network and you can not 
 
 **Gatehub** will allow you to redeem GALA and WXRP tokens issued on the XRPL for GALA and WXRP tokens issued on the Ethereum network and vice versa.
 
-**How do I bring my** **USDC, USDT, GALA,WXRP from Ethereum to the XRPL?**
+### **How do I bring my** **USDC, USDT, GALA,WXRP from Ethereum to the XRPL?**
 
 You need to visit Gatehub and create an account with them. Once you have done that, you can send your funds to their platform and convert them to their XRPL equivalent.
 
