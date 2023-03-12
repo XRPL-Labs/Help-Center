@@ -20,11 +20,15 @@ When choosing between and hot or cold wallet, there are three primary things you
 * How easy you would like to access your funds
 * How much crypto you intend to hold in you XRPL account
 
-Security
+#### Security
 
 A hot wallet such as Xumm stores your account secret on your mobile device. The assumption is that at some point, you will connect to the internet and that your account secret will be more vulnerable to potential attack vectors while online.
 
-A cold wallet such as a Xumm (Tangem) card stores your account secret on the card. Since the card is not directly connected to the internet, the card is less vulnerable potential attack vectors and therefore somehow "safer".
+A cold wallet such as a Ledger Nano stores your account secret on a USB device. Since the device is not directly connected to the internet, it less vulnerable to potential attack vectors and therefore somehow "safer".
+
+The truth is, determining how "safe" a particular wallet is does not come down to being online or offline. Every wallet type has its own potential attack vectors and your security habits, preferences  and preparations play a huge part in how safe your funds are. The most secure wallet in the world is useless if you voluntarily give your account secret away. The best cold wallet on the planet is not going to help keep your funds safe if the computer that you put in into is compromised. Simply saying a cold wallet is more secure or safer than a hot wallet is not an accurate way of describing security features.
+
+&#x20;&#x20;
 
 
 
