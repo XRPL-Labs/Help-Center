@@ -24,6 +24,8 @@ Please note: The in-app purchase option for Xumm Pro (Beta) has been temporarily
 
 <figure><img src="../.gitbook/assets/Tangem order -1.png" alt=""><figcaption></figcaption></figure>
 
+**Note:** You many have noticed that a Xumm Pro subscription includes two free Xumm (Tangem) cards and the purchase of two Xumm (Tangem) cards includes a free subscription to Xumm Pro. Both options cost the same amount and include the same features.
+
 ## Option 2
 
 1\) Click on this link: [https://xrpl-labs.com/gift-pro/raddr](https://xrpl-labs.com/gift-pro/raddr)
