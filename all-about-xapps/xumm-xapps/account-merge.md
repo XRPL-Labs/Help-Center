@@ -4,6 +4,10 @@ description: How to use the Account Merge xApp
 
 # Account Merge
 
+{% hint style="info" %}
+This article is currently under construction
+{% endhint %}
+
 ### **Background**
 
 The Account Merge xApp is used to delete an XRP Ledger account and send the remaining XRP balance to another XRPL account managed by Xumm.
