@@ -1,5 +1,9 @@
 # Quantum Attacks and Xumm
 
+{% hint style="info" %}
+This article is currently under construction
+{% endhint %}
+
 ## **Introduction**
 
 This article is not meant to be a definitive source of information about all things quantum related. It is meant to answer some basic questions about quantum computing and to explain our view on the future of quantum attacks as they relate to Xumm and the XRP Ledger.

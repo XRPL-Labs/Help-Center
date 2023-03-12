@@ -1,2 +1,0 @@
-# Xumm (Tangem) card
-

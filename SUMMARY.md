@@ -145,7 +145,6 @@
   * [How secure is Xumm?](security-and-xumm/all-about-security/how-secure-is-xumm.md)
   * [Best practices](security-and-xumm/all-about-security/best-practices.md)
   * [Xumm Tangem Cards](security-and-xumm/all-about-security/xumm-tangem-cards.md)
-  * [Xumm (Tangem) card](security-and-xumm/all-about-security/xumm-tangem-card.md)
   * [Quantum Attacks and Xumm](security-and-xumm/all-about-security/quantum-attacks-and-xumm.md)
 
 ## XRP Ledger resources
