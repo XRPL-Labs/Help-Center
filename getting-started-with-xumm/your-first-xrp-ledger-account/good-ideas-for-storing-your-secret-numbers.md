@@ -1,5 +1,9 @@
 # Good ideas for storing your secret numbers
 
+{% hint style="info" %}
+This article is currently under construction
+{% endhint %}
+
 Storing your account secret(s) is VERY important and it is vital that you keep them in a safe place and **never** reveal them to anyone. If in doubt, here are some good guidelines:
 
 * **Clearly** write your account secret down on a piece of paper and store them in a safe place. (Some people write and store them in multiple locations.)
