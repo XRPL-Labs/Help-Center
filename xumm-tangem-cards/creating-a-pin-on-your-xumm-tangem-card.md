@@ -26,6 +26,9 @@ We strongly recommend that you **only configure a pin** if you have created a **
 2. Press the "**Edit**" button side the account you would like to add a passcode on.
 3. Select "**Card enforced security**"
 4. Select "**Passcode**"
+
+<figure><img src="../.gitbook/assets/Card security.png" alt=""><figcaption></figcaption></figure>
+
 5. Press the "**Save**" button\
    \
    **Notice the warning!**\
