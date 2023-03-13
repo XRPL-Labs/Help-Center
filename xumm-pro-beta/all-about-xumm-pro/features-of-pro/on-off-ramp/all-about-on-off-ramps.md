@@ -116,16 +116,6 @@ One of our main goals is to be able to offer this service to as many people as p
 
 Once we have completed the roll out, we will revisit our limits with our customers and see if the 15K limit still makes sense.
 
-{% hint style="danger" %}
-Please note!
-
-While we certainly understand the importance of timely and efficient services, we are forced to rely on existing banking systems when transferring fiat between bank accounts. These transfers may involve international parties such as foreign exchanges, payment service providers, third party banks, or other businesses which could cause delays in processing.
-
-In most cases, fiat transfers will only take a few minutes, (i.e. for banks within SEPA (Single Euro Payments Area) but it is also possible that a transfer could take several hours (or even several days). It all depends on factors outside of our control.&#x20;
-
-Nevertheless, rest assured that once we receive your funds, they will be immediately converted into XRP and deposited into your XRPL account.   If you encounter delays in sending or receiving fiat, please contact us, and we will investigate the matter.
-{% endhint %}
-
 ### How can a bank transfer be delayed?
 
 A bank transfer can be delayed for various reasons, and most of these are outside the control of either the sender or the recipient. For example, delays can occur due to technical issues with the bank's systems or the recipient's bank, such as maintenance or system upgrades. International transfers, in particular, can be delayed due to the involvement of multiple banks, currency conversions, compliance with regulatory requirements or fraud prevention measures. (Which are designed to protect the security of the transfer and the accounts involved.) Moreover, if the transfer is flagged as suspicious, it may be subject to additional scrutiny, which can result in further delays. Errors in the transfer instructions or incomplete information can also cause delays.&#x20;
@@ -137,45 +127,3 @@ A bank transfer can be delayed for various reasons, and most of these are outsid
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-Xumm Pro is a paid subscription service which provides additional features to the Xumm wallet.&#x20;
-
-Some of these features include:
-
-**Profiles**
-
-* Claim & personalize your own profile (name & slug) for payment requests & invoice payment in XRP and IOUs
-* Show your verified name, profile icon & checkmark next to transactions and requests in Xumm and other XRPL ecosystem tools
-* Claim your **`xumm.me`** hosted PayID for multiple XRP ledger accounts
-* Publish your KYC status (not your personal details, just the fact that you successfully went through KYC) so 3rd party apps can unlock features based on your account trustworthiness
-
-**Push Notifications**
-
-* Receive notifications for incoming transactions
-
-**Fiat on/off boarding**
-
-* Currently available for our users in the Netherlands and the United Kingdom, this feature allows you to buy XRP direct from Xumm Pro. Stay tuned as plan to add more countries as the year progresses!
-
-**KYC**
-
-* This will allow you to go through the KYC process directly in Xumm
-
-**24 hour Technical Support**
-
-* 24 hour support with quicker response times and in multiple languages.
-
-****
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
-
