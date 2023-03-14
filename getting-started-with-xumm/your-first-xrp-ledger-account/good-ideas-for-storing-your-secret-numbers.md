@@ -4,6 +4,14 @@
 This article is currently under construction
 {% endhint %}
 
+When it comes to your secret numbers, it all comes down to one question:
+
+**Do you want to lose all of your XRP due to a silly mistake?**
+
+If the answer is **No**, keep reading...
+
+
+
 Storing your account secret(s) is VERY important and it is vital that you keep them in a safe place and **never** reveal them to anyone. If in doubt, here are some good guidelines:
 
 * **Clearly** write your account secret down on a piece of paper and store them in a safe place. (Some people write and store them in multiple locations.)
@@ -25,3 +33,9 @@ Flood proof
 Keep away from animals or pets
 
 Put an old phone to use
+
+Never keep private keys online, in the mail, or the cloud because they are most susceptible to getting hacked there. Many users take screenshots of their private keys, and their photo album is usually synced online. This creates a security risk and is something you should never do. Instead, store them in various other cold storage as discussed in this article: [_What Is Cold Storage In Cryptocurrency?_](https://coinsutra.com/cold-storage-cryptocurrency/)
+
+You should instead write down your private key.
+
+You can use a combination of Stonebook and Ghost pen to store your private keys on a piece of paper.
