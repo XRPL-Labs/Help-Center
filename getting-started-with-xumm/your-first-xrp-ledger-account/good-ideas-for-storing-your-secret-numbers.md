@@ -10,7 +10,17 @@ When it comes to your secret numbers, it all comes down to one question:
 
 If the answer is **No**, keep reading...
 
-\>Remove> - Old phone storage option
+One of the security features of Xumm is that it only displays your secret numbers once, when an account is created. Thi
+
+
+
+### Good ideas
+
+*
+
+### Not so good ideas
+
+* Old phone storage option
 
 Storing your account secret(s) is VERY important and it is vital that you keep them in a safe place and **never** reveal them to anyone. If in doubt, here are some good guidelines:
 
