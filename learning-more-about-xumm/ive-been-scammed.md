@@ -1,5 +1,5 @@
 ---
-description: I've been scammed, what can I do?
+description: What to do if you've been hacked or scammed
 ---
 
 # I've been scammed!
