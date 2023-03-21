@@ -44,6 +44,7 @@
 * [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [General Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [How to create a Trust Line](getting-started-with-xumm/how-to-create-a-trust-line.md)
+* [How to rekey your account](getting-started-with-xumm/how-to-rekey-your-account.md)
 
 ## Learning more about Xumm
 
