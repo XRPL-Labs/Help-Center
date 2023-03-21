@@ -18,7 +18,7 @@ The following steps explain how to manually configure a regular key pair between
 
 ### Step 1: Make sure you have a Primary account <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
-The Primary account must be imported into Xumm with **Full access**. (You must be able to sign transactions on this account.
+The Primary account must be imported into Xumm with **Full access**. (You must be able to sign transactions on this account.)
 
 This is the account that will have your XRP, your Trust Lines, Escrows, DEX transactions, etc.
 
@@ -26,35 +26,23 @@ If you are new to Xumm and don't have an XRP Ledger account yet, you can create 
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
 
+### Step 2: Make sure you have a Signing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+The Signing account must be imported into Xumm with **Full access**. (You must be able to sign transactions on this account.)
+
+This account does not need to contain XRP and does not even need to be activated. As long as you have full access to the account and it is imported with Full access, it can be used to sign transactions on the Primary account.
+
+If you don't have signing account yet, you can create one by following the instructions in this article:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
 
 
-Make sure you save the secret numbers in a safe way. You can read more about saving the secret key [here](https://support.xumm.app/hc/en-us/articles/360018136300).
 
-&#x20;
+### Step 2: How to set a Regular Key Pair <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-Go to settings → Accounts → ➕
+The Signing account must be imported into Xumm with **Full**
 
-Or switch accounts and click on add
-
-&#x20;
-
-Now you should see this screen and create a new account.
-
-![](https://downloads.intercomcdn.com/i/o/229401100/95f8a29ef989d854b9c5f1db/IMG\_5FA2A31D8A50-1.jpeg)
-
-&#x20;
-
-After walking through the process of generating a new account you should see it in your account list.
-
-&#x20;
-
-When you've generated your new key pair you're set to go to the next step where you will assign the new key pair to your account.
-
-&#x20;
-
-## Step 2: Assign key pair to account as a regular key pair <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
-
-This step will set the new key pair to your account using your master key. After completion you can sign using both your master key and the regular key.
+is step will set the new key pair to your account using your master key. After completion you can sign using both your master key and the regular key.
 
 &#x20;
 
