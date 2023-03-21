@@ -1,26 +1,22 @@
 ---
-description: Set / Add a regular key to your XRPL account
+description: Set / Add a regular key pai to your XRPL account
 ---
 
 # How to rekey your account
 
-#### How to add a regular key pair to your XRP account using Xumm
+The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign future transactions.&#x20;
 
-A regular key functions the same way a normal key or account does. It has a public 'r' address and a secret. Below is a description what it is used for and how to set it up using Xumm.
+A regular key pair is often used to protect your account, which can sign transactions for your account instead of using the master key.
 
-&#x20;
+### Concept and implementation
 
-Regular key is often used to protect your account, which can sign transactions for your account instead of using the master key.
+A good example of how this works would be to look at the recommended configuration of a pair of Xumm (Tangem) cards.
 
-If, for whatever reason, your regular key gets compromised and the master key is not, you can set a new regular key using a tool like [xrpl.services](https://xumm.community/) to regain control of your account.
+In this case, you have a Primary account on one card and you have a Signing account on another card. When you run the Tangem Backup xApp, it creates a "link" between the two accounts which is called a regular key pair. It connects the Primary account to the Signing account which allows you to sign transactions on the Primary account **using the Signing account**.
 
-&#x20;
+The following steps explain how to manually configure a regular key pair between two XRP Ledger accounts.
 
-If you already have a regular key pair with an XRP account you can just import your XRP account as a read-only account and the regular key pair as a full read/write account and you're set to go!
-
-&#x20;
-
-## Step 1: Generate a key pair <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
+### Step 1: Generate a key pair <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
 You can generate a new key pair using the Xumm app to generate a new key pair.
 
@@ -126,6 +122,10 @@ Under the option for Account Set there is a checkbox Disable Master Key, check i
 
 When you have signed the transaction your account is now fully re-keyed and is not able to sign using its own master key anymore.
 
-&#x20;
+If, for whatever reason, your regular key gets compromised and the master key is not, you can set a new regular key using a tool like [xrpl.services](https://xumm.community/) to regain control of your account.
+
+&#x20;If you already have a regular key pair with an XRP account you can just import your XRP account as a read-only account and the regular key pair as a full read/write account and you're set to go!
+
+&#x20;&#x20;
 
 Fully sign now with the regular key pair that you've just created 🎉
