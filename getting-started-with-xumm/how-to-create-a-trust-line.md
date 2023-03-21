@@ -22,11 +22,11 @@ Xumm will display a screen that looks like this:
 
 From here you can simply select an issuer, for example, **Gatehub**, then choose which Token you would like to create a Trust Line for, in this case, we'll choose **British Pound**, then **** press **Sign to add Token.**
 
-<figure><img src="../.gitbook/assets/Short List - 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Short List - 3 (1).png" alt=""><figcaption></figcaption></figure>
 
 Xumm will craft a transaction with the details of the Trust Line and after you have reviewed them, you can **Slide to accept**. &#x20;
 
-You should see a warning message cautioning you about the potential dangers.Make sure you read the message, then press **Continue**.&#x20;
+You should see a warning message cautioning you about the potential dangers. Make sure you read the message, then press **Continue**.&#x20;
 
 Finally, either enter your **passcode/signing password/biometrics** to sign the transaction and the Trust Line will be created.
 
