@@ -16,9 +16,17 @@ In this case, you have a Primary account on one card and you have a Signing acco
 
 The following steps explain how to manually configure a regular key pair between two XRP Ledger accounts.
 
-### Step 1: Generate a key pair <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
+### Step 1: Make sure you have a Primary account <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
-You can generate a new key pair using the Xumm app to generate a new key pair.
+The Primary account must be imported into Xumm with **Full access**. (You must be able to sign transactions on this account.
+
+This is the account that will have your XRP, your Trust Lines, Escrows, DEX transactions, etc.
+
+If you are new to Xumm and don't have an XRP Ledger account yet, you can create one by following the instructions in this article:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
+
+
 
 Make sure you save the secret numbers in a safe way. You can read more about saving the secret key [here](https://support.xumm.app/hc/en-us/articles/360018136300).
 

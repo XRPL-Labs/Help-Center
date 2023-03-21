@@ -1,5 +1,7 @@
 ---
 description: How to create an XRP Ledger account using Xumm
+cover: ../../.gitbook/assets/Creating in forest.png
+coverY: 143
 ---
 
 # How to create an XRPL account
