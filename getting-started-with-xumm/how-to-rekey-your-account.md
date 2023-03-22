@@ -42,15 +42,17 @@ If you don't have signing account yet, you can create one by following the instr
 
 After you have completed these steps, you will be able to sign transactions on your Primary account using both your Primary account and your Signing account.
 
-&#x20;1\) Launch Xumm and switch accounts to your Signing account.
+1\) Launch Xumm and switch accounts to your Signing account.
 
 <figure><img src="../.gitbook/assets/regular keys -2.png" alt=""><figcaption></figcaption></figure>
 
-Press the Request button then press the Copy button.
+2\) Press the **Request** button then press the **Copy** button.
 
 <figure><img src="../.gitbook/assets/regular keys -3.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Go to [**XRP Ledger Services**](https://xrpl.services/) then press **Set Regular Key**.
+3\) Now, switch accounts to your **Primary** account in Xumm.
+
+4\) Press this link to get to [**XRP Ledger Services**](https://xrpl.services/)**.**
 
 <figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
 
