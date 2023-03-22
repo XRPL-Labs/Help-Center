@@ -38,19 +38,15 @@ If you don't have signing account yet, you can create one by following the instr
 
 
 
-### Step 2: How to set a Regular Key Pair <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+### Step 3: How to set a Regular Key Pair <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-The Signing account must be imported into Xumm with **Full**
+After you have completed these steps, you will be able to sign transactions on your Primary account using both your Primary account and your Signing account.
 
-is step will set the new key pair to your account using your master key. After completion you can sign using both your master key and the regular key.
+&#x20;1\) Go to [**XRP Ledger Services**](https://xrpl.services/) then press **Set Regular Key**.
 
-&#x20;
-
-Use a tool like [xrpl.services](https://xumm.community/) where you can set a regular key and input your newly generated XRP account 'r' address.
+<figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
-
-![](https://downloads.intercomcdn.com/i/o/229403983/77793c6ec5a5713c0a8adf64/Schermafbeelding+2020-07-22+om+15.14.51.png)
 
 Be sure when submitting your regular key to your account to use the right account for this. After scanning the QR code, signing & submitting you should see this in the Xumm app:
 
