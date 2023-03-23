@@ -40,7 +40,7 @@ If you don't have signing account yet, you can create one by following the instr
 
 ### Step 3: How to set a Regular Key Pair <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-After you have completed these steps, you will be able to sign transactions on your Primary account using both your Primary account and your Signing account.
+Once you have completed the following steps, you will be able to sign transactions on your Primary account using **both** your Primary account **and** your Signing account.
 
 1\) Launch Xumm and switch accounts to your Signing account.
 
