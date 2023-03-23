@@ -26,6 +26,13 @@ Normally the account was installed on two devices and one of those devices recen
 
 ### The other possibility
 
-For older versions of Xumm, wh
+The other possibility is that someone else has a copy of your account secret and has imported it into another device.
 
-Alternatively there is of course the possibility that someone indeed has access to your secret. Good thing the account has been rekeyed. In that case it would be interesting to try to find out / discover / think of ways the secret could have been compromised, e.g. accidentally shared, cloud account with key compromised, key entered some place (airdrop, name it) in the past. This year March would be when that happened.
+Try to think of think of ways your account secret could have been compromised. Have you shared it with someone? Was it stored on a cloud account? On your PC? Mobile device? Have you entered your account secret someplace? A google form? A crypto wallet? Website? Airdrop?&#x20;
+
+If you can't think of anything, you should consider re-keying your account as a safety precaution.
+
+Here is how to do this:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr></tbody></table>
+
