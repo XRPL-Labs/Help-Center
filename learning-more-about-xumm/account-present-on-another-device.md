@@ -28,11 +28,18 @@ Normally the account was installed on two devices and one of those devices recen
 
 Are goal here is to warn you that something is possibly wrong with your account.
 
-off, if you didn't trigger this yourself by adding your account to another device.
-
 Try to think of think of ways your account secret could have been compromised. Have you shared it with someone? Was it stored on a cloud account? On your PC? Mobile device? Have you entered your account secret someplace? A google form? A crypto wallet? Website? Airdrop?&#x20;
 
-If you can't think of anything, you should consider re-keying your account as a safety precaution.
+If there is even a chance, it is time to act **immediately**. This warning means that your account secret is exposed &#x20;
+
+[\
+6:33 PM](https://mm.xrpledger.foundation/xrpl-labs/pl/snrjn8mntpb78xqba9etbksi5c)
+
+We have to make sure they understand this does not just happen: this means that their secret is exposed, and that this is not a Xumm issue but that their entire security (usernames, passwords), etc. can be at risk.
+
+As they have been compromised
+
+you should consider re-keying your account as a safety precaution.
 
 Here is how to do this:
 
