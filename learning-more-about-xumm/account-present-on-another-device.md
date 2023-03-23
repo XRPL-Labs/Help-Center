@@ -34,5 +34,9 @@ If you can't think of anything, you should consider re-keying your account as a 
 
 Here is how to do this:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to re-key your XRPL account</td><td></td><td></td><td><a href="../getting-started-with-xumm/how-to-rekey-your-account.md">how-to-rekey-your-account.md</a></td></tr></tbody></table>
+
+Re-keying your account you should disable the master keys for your compromised account.
+
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center">How to disable the Master keys on an account</td><td></td><td></td></tr></tbody></table>
 
