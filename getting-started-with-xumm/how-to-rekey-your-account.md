@@ -44,7 +44,7 @@ Once you have completed the following steps, you will be able to sign transactio
 
 1\) Launch Xumm and switch accounts to your Signing account.
 
-<figure><img src="../.gitbook/assets/regular keys -2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/regular keys -2 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Press the **Request** button then press the **Copy** button.
 
