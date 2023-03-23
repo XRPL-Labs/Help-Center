@@ -1,5 +1,7 @@
 ---
-description: Your XRPL account has been added to another device
+description: >-
+  Account present on another device. Your XRPL account has been added to another
+  device
 ---
 
 # Account present on another device
