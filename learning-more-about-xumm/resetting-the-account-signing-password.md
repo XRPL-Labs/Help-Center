@@ -28,6 +28,10 @@ If you selected **Extra security** you would have created a separate signing pas
 1. Launch Xumm and press **Settings** -> **Accounts** -> then press the **Edit** button beside the account to be removed.
 2. Select **Remove from Xumm** then **Yes, I’m Sure**’ on the warning screen.
 
+{% hint style="info" %}
+Note: In some c
+{% endhint %}
+
 ### Step 2 - Import your account secret back into Xumm
 
 1. Your account secret will come in the the form of a set of secret numbers / Family seed /Mnemonic. This article will guide you through importing your account with which ever one you have:\
