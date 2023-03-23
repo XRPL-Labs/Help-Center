@@ -70,6 +70,7 @@
 * [NFTs](learning-more-about-xumm/nfts.md)
 * [Does Xumm offer Staking?](learning-more-about-xumm/does-xumm-offer-staking.md)
 * [I've been scammed!](learning-more-about-xumm/ive-been-scammed.md)
+* [Account present on another device](learning-more-about-xumm/account-present-on-another-device.md)
 
 ## XUMM (TANGEM) CARDS
 
