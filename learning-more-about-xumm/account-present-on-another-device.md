@@ -24,9 +24,11 @@ It did not necessarily mean an account had been added to another device, it just
 
 Normally the account was installed on two devices and one of those devices recently tried to use it. (E.g. mobile & second smartphone, or tablet)
 
-### The other possibility
+### Take this warning seriously!
 
-The other possibility is that someone else has a copy of your account secret and has imported it into another device.
+Are goal here is to warn you that something is possibly wrong with your account.
+
+off, if you didn't trigger this yourself by adding your account to another device.
 
 Try to think of think of ways your account secret could have been compromised. Have you shared it with someone? Was it stored on a cloud account? On your PC? Mobile device? Have you entered your account secret someplace? A google form? A crypto wallet? Website? Airdrop?&#x20;
 
