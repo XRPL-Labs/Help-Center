@@ -131,7 +131,7 @@ Here are some interesting facts about the cards.
 
 Of course. check out this article:
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td><td><a href="../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
 
 ## **What about if I connect Xumm to a “questionable” website or I scan an untrusted QR code?**
 
