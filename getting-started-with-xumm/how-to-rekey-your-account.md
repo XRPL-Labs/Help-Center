@@ -1,5 +1,7 @@
 ---
 description: Set / Add a regular key pai to your XRPL account
+cover: ../.gitbook/assets/Large rock with Key.jpg
+coverY: 0
 ---
 
 # How to rekey your account
