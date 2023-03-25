@@ -12,6 +12,7 @@
   * [Hot wallets vs. Cold wallets](getting-started-with-xumm/what-is-xumm/hot-wallets-vs.-cold-wallets.md)
   * [Xumm & natural disasters](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
   * [Common misconceptions](getting-started-with-xumm/what-is-xumm/common-misconceptions.md)
+* [Will Xumm issue a Debit or Credit card?](getting-started-with-xumm/will-xumm-issue-a-debit-or-credit-card.md)
 * [Installing Xumm](getting-started-with-xumm/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xumm/your-first-xrp-ledger-account/README.md)
   * [How to create an XRPL account](getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
