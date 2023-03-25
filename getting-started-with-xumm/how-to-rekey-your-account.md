@@ -32,7 +32,7 @@ If you are new to Xumm and don't have an XRP Ledger account yet, you can create 
 
 The Signing account must be imported into Xumm with **Full access**. (You must be able to sign transactions on this account.)
 
-This account does not need to contain XRP and does not even need to be activated. As long as you have full access to the account and it is imported with Full access, it can be used to sign transactions on the Primary account.
+This account does not need to contain XRP and does not even need to be activated. As long as you have full access to the account, it can be used to sign transactions on the Primary account.
 
 If you don't have signing account yet, you can create one by following the instructions in this article:
 
@@ -54,17 +54,15 @@ Once you have completed the following steps, you will be able to sign transactio
 
 3\) Now, switch accounts to your **Primary** account in Xumm and press <mark style="color:blue;">**here**</mark> to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
 
-4\)&#x20;
-
-
+4\) Press the ![](../.gitbook/assets/image.png) button then press **Open in Xumm App** and sign in.
 
 <figure><img src="../.gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
 
-
-
-On the XRP Ledger Services page, select **Set Regular Key**
+5\) On the XRP Ledger Services page, select **Set Regular Key**
 
 <figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
+
+6\)&#x20;
 
 &#x20;
 
