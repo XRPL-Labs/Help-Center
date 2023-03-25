@@ -17,7 +17,11 @@ Congratulations! Getting a new phone can be exciting, but before you get started
 
 ### Configuring Xumm on your new phone
 
-The first thing you need to know about getting Xumm working on your new device is that **you can not restore or copy** Xumm from one device to another. Xumm needs to be **installed fresh** on your new phone and your account secret(s) will need to be imported into Xumm in order to access your XRP Ledger account(s).
+The first thing you need to know about getting Xumm working on your new device is that **you can not restore or copy** Xumm from one device to another. Xumm needs to be **installed fresh** on your new phone otherwise you will see this when you launch the app:
+
+<figure><img src="../.gitbook/assets/Wipe Xumm.jpg" alt=""><figcaption><p>Wipe Xumm</p></figcaption></figure>
+
+If you are already at this error screen, **uninstall** Xumm then continue reading...
 
 To install Xumm on your new phone, you can download it from 1 of 2 places:
 
