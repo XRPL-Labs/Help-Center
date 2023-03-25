@@ -1,5 +1,7 @@
 ---
 description: Overview and use cases
+cover: ../.gitbook/assets/monolith in stream.jpg
+coverY: 251
 ---
 
 # All about Xumm (Tangem) cards
