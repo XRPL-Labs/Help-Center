@@ -1,24 +1,22 @@
 ---
 description: Is Xumm safe to store my secret keys? Has it been audited? How secure is Xumm?
-cover: ../../.gitbook/assets/password-gfcb59b985_1280 (1).jpg
-coverY: 35
+cover: ../../.gitbook/assets/Tokens and coins -1 (1).png
+coverY: 0
 ---
 
 # How secure is Xumm?
 
 ## Comparing different wallets
 
-It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best".  When it comes to protecting your assets, for many people, only the best will do.  It only makes sense to get the best when it comes to protecting your funds, right...?
+It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best".  When it comes to protecting your assets, for many people, only the best will do so it only makes sense to get the best when it comes to protecting your funds, right...?
 
-The problem with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to understand. Simply reading an article and thinking you are in any way qualified to make a valid comparison is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion on Xumm's security. It is merely a glimpse...
+The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or two and thinking you have enough information to make a comprehensive comparison is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion on Xumm's security. It is merely a glimpse...
 
 ## **It is a crazy time in the crypto world, how secure is Xumm?**
 
-There are several ways to view security when it comes to your XRP Ledger account.
+There are several ways to view security when it comes to your XRP Ledger account but your first line of security always starts with your mobile device.
 
-Your first line of security starts with your phone.
-
-Here are the top 9 security threats to your phone.
+Here are the top 9 security threats to look out for when it comes to your phone.
 
 * Social Engineering
 * Data Leakage via Malicious Apps
@@ -31,7 +29,7 @@ Here are the top 9 security threats to your phone.
 
 Source: [The Nine most common security threats to mobile devices](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/) &#x20;
 
-So, here are some things to consider:
+So before you even get around to installing Xumm, here are some things to consider:
 
 * Is your mobile device up to date with all security and OS updates?
 * Do you use a VPN?
@@ -131,9 +129,9 @@ Here are some interesting facts about the cards.
 
 ## **I want to know more about the cards.**
 
-Of course. check out this article.
+Of course. check out this article:
 
-* [Safer savings: Introducing the Xumm Tangem Card!](https://support.xumm.app/hc/en-us/articles/360018166539)
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td><td><a href="../../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
 
 ## **What about if I connect Xumm to a “questionable” website or I scan an untrusted QR code?**
 
@@ -150,6 +148,8 @@ Unfortunately there is nothing that can be done to stop prevent spam on the XRP 
 Although annoying, most people are choosing to ignore the messages.
 
 If you are interested in learning more about spam on the XRPL, check out this article:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../../learning-more-about-xumm/page-1.md">page-1.md</a></td></tr></tbody></table>
 
 [https://support.xumm.app/hc/en-us/articles/6156825861394-Spam-on-the-XRP-Ledger](https://support.xumm.app/hc/en-us/articles/6156825861394-Spam-on-the-XRP-Ledger)
 
@@ -170,14 +170,10 @@ Finally, Xumm will run regardless if XRPL Labs exists or not. Xumm does not need
 * **Xumm is designed with security in mind. Security is number one priority (but Xumm can’t be safer than your device and your own practices are)**
 * **Xumm Tangem cards are the best solution for maximum security**
 
-**Additional reading**
-
-* [2FA and XUMM](https://support.xumm.app/hc/en-us/articles/4417265298834)
-* [XUMM Security Measures](https://support.xumm.app/hc/en-us/articles/360018166719)
-* [Will XUMM operate after a Natural Disaster?](https://support.xumm.app/hc/en-us/articles/4499411625618)
+****
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

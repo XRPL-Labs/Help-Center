@@ -8,7 +8,6 @@
 * [💸 What is Xumm?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xumm/what-is-xumm/understanding-self-custody.md)
   * [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
-  * [How secure is Xumm?](hot-topics/how-secure-is-xumm.md)
   * [Hot wallets vs. Cold wallets](getting-started-with-xumm/what-is-xumm/hot-wallets-vs.-cold-wallets.md)
   * [Xumm & natural disasters](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
   * [Common misconceptions](getting-started-with-xumm/what-is-xumm/common-misconceptions.md)
