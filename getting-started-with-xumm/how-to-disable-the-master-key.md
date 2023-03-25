@@ -12,9 +12,13 @@ Before you can disable the master key of an XRP Ledger account, you must have co
 
 This article explains how to do this:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center">How ti rekey your account</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to rekey your account</td><td></td><td></td><td><a href="how-to-disable-the-master-key.md">how-to-disable-the-master-key.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr></tbody></table>
 
-&#x20;It is vital that you have confirmed that you A very important step especially before disabling your master key on the account. Check if the regular key pair works. But you don't have to disable your master key that is up to you.
+You should have already tested that the regular keys works properly by doing several transactions to confirm that you can sign transactions on the Primary account with the regular key account (aka. SIgning account)&#x20;
+
+Once you are sure it works, you can procced to the next step..
+
+
 
 &#x20;
 
