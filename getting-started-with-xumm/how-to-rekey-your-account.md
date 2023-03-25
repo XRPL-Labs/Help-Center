@@ -62,7 +62,9 @@ Once you have completed the following steps, you will be able to sign transactio
 
 <figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
 
-6\)&#x20;
+6\) In the filed below paste the r-address for the Signing account, then press the **Send Set Regular Key to Xumm** button.
+
+<figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
