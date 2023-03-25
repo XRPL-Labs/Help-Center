@@ -149,7 +149,7 @@ Although annoying, most people are choosing to ignore the messages.
 
 If you are interested in learning more about spam on the XRPL, check out this article:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../../learning-more-about-xumm/page-1.md">page-1.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Spam on the XRP Ledger</td><td></td><td></td><td><a href="../../learning-more-about-xumm/page-1.md">page-1.md</a></td><td><a href="../../.gitbook/assets/Monolith.png">Monolith.png</a></td></tr></tbody></table>
 
 [https://support.xumm.app/hc/en-us/articles/6156825861394-Spam-on-the-XRP-Ledger](https://support.xumm.app/hc/en-us/articles/6156825861394-Spam-on-the-XRP-Ledger)
 

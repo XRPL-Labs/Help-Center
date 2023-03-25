@@ -1,5 +1,7 @@
 ---
 description: Understanding spam
+cover: ../.gitbook/assets/Monolith.png
+coverY: 438
 ---
 
 # Spam on the XRP Ledger
