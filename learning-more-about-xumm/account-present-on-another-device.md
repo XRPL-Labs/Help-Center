@@ -45,7 +45,7 @@ You could consider re-keying your account:\
 
 then disabling the master keys for your compromised account.
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center">How to disable the Master keys on an account</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to disable the Master keys on an account</td><td></td><td></td><td><a href="../.gitbook/assets/Large rock with Lock.jpg">Large rock with Lock.jpg</a></td></tr></tbody></table>
 
 This will prevent anyone from accessing your compromised account.
 
