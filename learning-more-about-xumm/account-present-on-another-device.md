@@ -51,9 +51,15 @@ This will prevent anyone from accessing your compromised account.
 
 Once your account / funds are secure again, try to think of ways your account secret could have been compromised. Have you shared it with someone? Was it stored on a cloud account? On your PC? Mobile device? Have you entered your account secret someplace? A google form? A crypto wallet? Website? Airdrop? If you can't think of anything, there is a good chance your mobile device has been hacked.
 
+At this point we strongly recommend wiping your phone and start reinstalling applications one at a time. Do not restore from backup! Without knowing how your phone was compromised, restoring from backup could be dangerous.\
 
 
+Apple
 
+{% embed url="https://support.apple.com/en-ca/guide/personal-safety/ips4603248a8/web" %}
 
+Android
 
+\
+For instructions on how to wipe your Android phone, contact your phone manufacture.
 
