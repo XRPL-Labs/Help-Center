@@ -8,7 +8,7 @@ coverY: 0
 
 The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign future transactions.&#x20;
 
-A regular key pair is often used to protect your account, which can sign transactions for your account instead of using the master key.
+A regular key pair is often used to protect your account by allowing you to sign transactions for your account instead of using the master key.
 
 ### Concept and implementation
 
