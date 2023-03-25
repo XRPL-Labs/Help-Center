@@ -129,9 +129,9 @@ Here are some interesting facts about the cards.
 
 ## **I want to know more about the cards.**
 
-Of course. check out this article.
+Of course. check out this article:
 
-* [Safer savings: Introducing the Xumm Tangem Card!](https://support.xumm.app/hc/en-us/articles/360018166539)
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td></tr></tbody></table>
 
 ## **What about if I connect Xumm to a “questionable” website or I scan an untrusted QR code?**
 
