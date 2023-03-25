@@ -70,7 +70,7 @@ If you have found yourself in this situation, you should consider the following 
 * **Xumm (Tangem) cards** - these cards are an excellent way to take the security of your XRPL account to the next level. You can learn how here:\
   &#x20;&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How safe are Xumm (Tangem) cards?</td><td></td><td></td><td><a href="../xumm-tangem-cards/how-safe-is-a-card.md">how-safe-is-a-card.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How safe are Xumm (Tangem) cards?</td><td></td><td></td><td><a href="../xumm-tangem-cards/how-safe-is-a-card.md">how-safe-is-a-card.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
 
 * Review the following article and consider how you plan to interact with the XRP Ledger in the future.&#x20;
 

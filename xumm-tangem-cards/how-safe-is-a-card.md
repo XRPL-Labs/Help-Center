@@ -1,5 +1,7 @@
 ---
 description: How secure/safe is a Xumm (Tangem) card?
+cover: ../.gitbook/assets/Large rock with Lock -2.jpg
+coverY: 107
 ---
 
 # How safe is a card?
