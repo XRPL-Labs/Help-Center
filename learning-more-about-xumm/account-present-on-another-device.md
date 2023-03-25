@@ -41,7 +41,7 @@ Move your funds out of your XRP Ledger account  now.
 You could consider re-keying your account:\
 
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to re-key your XRPL account</td><td></td><td></td><td><a href="../getting-started-with-xumm/how-to-rekey-your-account.md">how-to-rekey-your-account.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to re-key your XRPL account</td><td></td><td></td><td><a href="../getting-started-with-xumm/how-to-rekey-your-account.md">how-to-rekey-your-account.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr></tbody></table>
 
 then disabling the master keys for your compromised account.
 
