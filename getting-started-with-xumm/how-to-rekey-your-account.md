@@ -66,25 +66,21 @@ Once you have completed the following steps, you will be able to sign transactio
 
 <figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+7\) Sign the transaction in Xumm and you're all done!&#x20;
 
-Be sure when submitting your regular key to your account to use the right account for this. After scanning the QR code, signing & submitting you should see this in the Xumm app:
+Now when you look at your Signing account, notice how Xumm now reports "Regular key for Primary Acct".
 
-![](https://downloads.intercomcdn.com/i/o/231461350/c510dbed9f8364587b4bdd83/Done+submitting.png)
+<figure><img src="../.gitbook/assets/regular keys -4.png" alt=""><figcaption></figcaption></figure>
 
-Now you can sign using your newly generated account and is now a regular key. Now under your new account there is a button like this.
+### Next steps..
 
-![](https://downloads.intercomcdn.com/i/o/229411704/3f1926600a0a39af91f2feaf/IMG\_34FE7BFE2A75-1.jpeg)
+If you configured the regular key so you would have a second signing account (E.g. as a "backup" account) you are all set to go. You should be able to sign transactions on your Primary Account wih either your Signing account or your Primary account.
 
-The next step is a verification if the account is properly set up and if you can sign using your newly generated key pair.
+...but if you configured the regular key because your Primary account has been **compromised**, you are only half way there. The next step is to disable the master key for your Primary account.
 
-&#x20;
+&#x20;This article explains how to proceed:
 
-If you configured a "Regular Key" as a [**back up** account](https://support.xumm.app/hc/en-us/articles/360019049920), you should **stop** following this tutorial **right here**.
-
-If you want to **re-key** your account because you **believe** your [**keys** may be **compromised**](https://support.xumm.app/hc/en-us/articles/360020672759), please **continue** following this tutorial.
-
-&#x20;
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to disable the Master key</td><td></td><td></td><td><a href="how-to-disable-the-master-key.md">how-to-disable-the-master-key.md</a></td></tr></tbody></table>
 
 ## Step 3: Verify the Regular Key Pair <a href="#h_d534a6dc19" id="h_d534a6dc19"></a>
 
