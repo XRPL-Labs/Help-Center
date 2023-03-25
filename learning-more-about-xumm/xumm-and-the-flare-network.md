@@ -46,7 +46,7 @@ For more information, please contact Flare Support. They can be reached at:
 
 ### **Is Xumm compatible with the Flare network?**
 
-No. Xumm is exclusively an XRP Ledger wallet. We support XRP and all of the 8200+ tokens on the XRPL. You can not access the Flare network with Xumm.
+No. Xumm is exclusively an XRP Ledger wallet. We support XRP and all of the 8200+ tokens on the XRPL. You can not access or interact with the Flare network with Xumm.&#x20;
 
 ### **Does XUMM allow FTSO delegation?**
 
@@ -56,9 +56,11 @@ No. Xumm is exclusively an XRP Ledger wallet. We support XRP and all of the 8200
 
 Gatehub has issued both Songbird and Flare tokens on the XRP Ledger. You can create a Trust Line to either of these assets, but they were issued on the XRPL, not the Songbird or Flare networks.
 
-This article explains: (Enter article here)
+For more information about this, please refer to this article:\
+\
+[All about Gatehub's issued tokens](gatehubs-issued-tokens.md)&#x20;
 
-### **Do you recommend a Flare compatible wallet?**
+### **Can you recommend a Flare compatible wallet?**
 
 No. We don’t know enough about the SGB/Flare network or the various wallets to give an honest recommendation.
 
