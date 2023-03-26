@@ -17,8 +17,7 @@ This article is designed to assist you with this process and outline the steps r
 3. Submit your code with a detailed explanation as to what your xApp does.
 4. Our development team will review your code, test your xApp and if approved,  will be made available through a direct URL available to all Xumm users.
 
-It is important to note, this **does not** imply that your app will be listed in the Xumm "more xApps" section. For more information about getting included in the short list, please see:
-
+It is important to note, this **does not** imply that your app will be listed in the Xumm "more xApps" section.
 
 ### **Requirements for an xApp**
 
