@@ -34,17 +34,17 @@ Xumm does **not** display account secrets.
 
 Once your account secret has been imported into Xumm, it is immediately encrypted and there is no way to access, view or export it. In the case of the secret numbers, they were only displayed once so if they are lost or destroyed, there is no way to access the account they belong to.
 
-If your XRPL account was created in an application other than Xumm, (e.g. - website, application, wallet), it is possible that there is a way to view or access the account secrets, but it would depend
+If your XRPL account was created in an application other than Xumm, (e.g. - website, application, wallet), it is possible that there is a way to view or access the account secrets, but it would depend on if they have some kind of backup or recovery method.
 
 ## Frequently asked Questions
 
-**Can I see my account secret on my Xumm (Tangem) card?**
+#### **Can I see my account secret on my Xumm (Tangem) card?**
 
 When you first activate a Xumm (Tangem) card, an account secret is generated **on the card.** There is no opportunity to view the account secret and it is not displayed. It is encrypted on the card and can not be viewed.
 
-**Other wallets display their account secrets, why doesn't Xumm?**
+#### **Some wallets display their account secrets, why doesn't Xumm?**
 
-Mainly&#x20;
+Since Xumm is an application for mobile devices, if your phone was ever compromised, it is possible that you account secret could be compromised as well.&#x20;
 
 **What if I created my XRPL account outside of Xumm?**
 
