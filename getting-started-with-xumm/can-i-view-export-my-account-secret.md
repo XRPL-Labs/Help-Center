@@ -44,6 +44,8 @@ When you first activate a Xumm (Tangem) card, an account secret is generated **o
 
 #### **Some wallets display their account secrets, why doesn't Xumm?**
 
+If an application is storing your account secret on your behalf, they own and control your crypto, you don’t. Once you enter your account secret into Xumm, it is encrypted so you can trust that no one, not you, not us, not anyone can view it. As well, there are several scenarios where displaying your account secret could be dangerous (think compromised phone, malware, viruses, malicious apps, spyware, etc.) o we decided to remove this option from Xumm. consider the possi
+
 Since Xumm is an application for mobile devices, if your phone was ever compromised, it is possible that your account secret could be compromised as well. There are several other scenarios  where displaying your account secret could be dangerous so we decided to remove this option from Xumm.&#x20;
 
 #### **What if I created my XRPL account outside of Xumm?**
