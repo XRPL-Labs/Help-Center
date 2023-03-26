@@ -1,12 +1,28 @@
 # Can I view/export my account secret?
 
+### Overview
+
 On the XRP Ledger, a private key is called an **account secret**.
 
-An account secret can come in various forms:
+An account secret comes in three main forms:
 
-* _Secret Numbers_: If your XRP Ledger account was created using Xumm, you would have received a set of secret numbers. (8 rows, A-H, each with 6 digits)
-* _Family Seed_: A 29 character string of numbers and letters starting with the letter "s".
-* _Mnemonic_: A set of 12, 16 or 24 words chosen from the [BIP 39 list](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
+#### _Secret Numbers_
+
+If your XRP Ledger account was created using Xumm, you would have received a set of secret numbers. (8 rows, A-H, each with 6 digits)
+
+<figure><img src="../.gitbook/assets/Secret numbers - 7.png" alt=""><figcaption></figcaption></figure>
+
+#### _Family Seed_
+
+A 29 character string of numbers and letters starting with the letter "s".
+
+A typical familt seed looks something like this:
+
+
+
+#### _Mnemonic_
+
+_Mnemonic_: A set of 12, 16 or 24 words chosen from the [BIP 39 list](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
 
 Each account on the XRPL will have its own account secret and in order to access that account, you need to know the correct account secret.
 
