@@ -16,13 +16,15 @@ If your XRP Ledger account was created using Xumm, you would have received a set
 
 A 29 character string of numbers and letters starting with the letter "s".
 
-A typical familt seed looks something like this:
+A typical family seed looks something like this:
 
-
+&#x20;                         sn3e4r5t6ygtfr5tgy6tr4edse3wq
 
 #### _Mnemonic_
 
-_Mnemonic_: A set of 12, 16 or 24 words chosen from the [BIP 39 list](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
+A set of 12, 16 or 24 words chosen from the [BIP 39 list](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
+
+
 
 Each account on the XRPL will have its own account secret and in order to access that account, you need to know the correct account secret.
 
@@ -30,7 +32,9 @@ Each account on the XRPL will have its own account secret and in order to access
 
 Xumm does **not** display account secrets.
 
-If your XRP Ledger account was created using Xumm, you had only had one opportunity to see the secret numbers, (when the account is created), after that, there is no way to access, view or export them.
+Once your account secret has been imported into Xumm, there is no way to access, view or export it. Ithem.If your XRP Ledger account was created using Xumm, you had only had one opportunity to see the secret numbers, (when the account is created), after that, there is no way to access, view or export them.
+
+If your account was created in another
 
 ## Frequently asked Questions
 
