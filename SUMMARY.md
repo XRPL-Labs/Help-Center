@@ -61,7 +61,7 @@
 * [Guidelines and review process of publishing xApps](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
 * [How to Get a Token Added to the Xumm Short List](learning-more-about-xumm/how-to-get-a-token-added-to-the-xumm-short-list.md)
 * [Destination tags](learning-more-about-xumm/destination-tags.md)
-* [How to recover a swapped Casinocoin (CSC) account](learning-more-about-xumm/how-to-recover-a-swapped-casinocoin-csc-account.md)
+* [How to recover a Casinocoin (CSC) account](learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md)
 * [Gatehub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
 * [Taxes and your XRPL account](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
 * [How to convert a Read only account](learning-more-about-xumm/how-to-convert-a-read-only-account.md)

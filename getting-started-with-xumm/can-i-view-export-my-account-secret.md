@@ -44,19 +44,21 @@ When you first activate a Xumm (Tangem) card, an account secret is generated **o
 
 #### **Some wallets display their account secrets, why doesn't Xumm?**
 
-Since Xumm is an application for mobile devices, if your phone was ever compromised, it is possible that you account secret could be compromised as well.&#x20;
+Since Xumm is an application for mobile devices, if your phone was ever compromised, it is possible that your account secret could be compromised as well. There are several other scenarios  where displaying your account secret could be dangerous so we decided to remove this option from Xumm.&#x20;
 
-**What if I created my XRPL account outside of Xumm?**
+#### **What if I created my XRPL account outside of Xumm?**
 
-Depending on how you created your XRPL account, it is possible that the website or application that you used might have kept a copy of your account secret or has the ability to recover it. You can try to contact them and see if they have a recovery option.\
-\
-**I created my XRPL account during the CasinoCoin swap...**
+Depending on how you created your XRPL account, it is possible that the website or application that you used might have kept a copy of your account secret or has the ability to recover it. You can try to contact them and see if they have a recovery option.
 
-Accounts that were created during the CasinoCoin swap used a slightly different method of generating an account secret.
+#### **I created my XRPL account during the CasinoCoin swap...**
+
+Accounts that were created during the CasinoCoin swap used a slightly different method of generating an account secret. You can read all about this here:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Recover a CasinoCoin account</td><td></td><td></td><td><a href="../learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md">how-to-recover-a-casinocoin-csc-account.md</a></td></tr></tbody></table>
 
 For information on how to access an account created during the CSC swap, check out this article:
 
-* [How to recover a swapped Casinocoin (CSC) account](../learning-more-about-xumm/how-to-recover-a-swapped-casinocoin-csc-account.md)
+* [How to recover a swapped Casinocoin (CSC) account](../learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md)
 
 **I have lost my account secret, what can I do?**
 
