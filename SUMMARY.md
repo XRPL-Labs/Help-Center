@@ -41,7 +41,7 @@
 * [Can Xumm reverse, freeze or undo a transaction?](getting-started-with-xumm/can-xumm-reverse-freeze-or-undo-a-transaction.md)
 * [Can I view/export my account secret?](getting-started-with-xumm/can-i-view-export-my-account-secret.md)
 * [I've lost my account secret!](getting-started-with-xumm/ive-lost-my-account-secret.md)
-* [📺 Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
+* [Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [General Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [How to create a Trust Line](getting-started-with-xumm/how-to-create-a-trust-line.md)
 * [How to rekey your account](getting-started-with-xumm/how-to-rekey-your-account.md)
@@ -89,7 +89,7 @@
 * [Xumm xApps](all-about-xapps/xumm-xapps/README.md)
   * [Account Worth](all-about-xapps/xumm-xapps/account-worth.md)
   * [Account Merge](all-about-xapps/xumm-xapps/account-merge.md)
-  * [Tangem Backup ](all-about-xapps/xumm-xapps/tangem-backup.md)
+  * [Tangem Backup](all-about-xapps/xumm-xapps/tangem-backup.md)
   * [Vanity Address](all-about-xapps/xumm-xapps/vanity-address.md)
   * [Get cards (Tangem)](all-about-xapps/xumm-xapps/get-cards-tangem.md)
   * [DEX Trade](all-about-xapps/xumm-xapps/dex-trade.md)
@@ -102,7 +102,7 @@
     * [Banxa](all-about-xapps/xumm-xapps/buy-sell-xrp/banxa.md)
     * [BTC Direct](all-about-xapps/xumm-xapps/buy-sell-xrp/btc-direct.md)
 * [XRPL Services](all-about-xapps/xrpl-services/README.md)
-  * [Token Trasher ](all-about-xapps/xrpl-services/token-trasher.md)
+  * [Token Trasher](all-about-xapps/xrpl-services/token-trasher.md)
   * [Escrow creator](all-about-xapps/xrpl-services/escrow-creator.md)
   * [Token creator](all-about-xapps/xrpl-services/token-creator.md)
 * [XRP Community](all-about-xapps/xrp-community/README.md)
@@ -154,7 +154,7 @@
 ## XRP Ledger resources
 
 * [XRP Ledger Concepts](xrp-ledger-resources/xrp-ledger-concepts/README.md)
-  * [📺 Reserves and Fees on the XRPL](xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
+  * [Reserves and Fees on the XRPL](xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
   * [About Trust Lines](xrp-ledger-resources/xrp-ledger-concepts/about-trust-lines.md)
   * [About Regular Keys](xrp-ledger-resources/xrp-ledger-concepts/about-regular-keys.md)
   * [About Reserves](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
@@ -180,8 +180,8 @@
 ## About Xumm & XRPL Labs
 
 * [About XRPL Labs](about-xumm-and-xrpl-labs/what-is-xrpl-labs.md)
-* [👨👩👧👧 The XRPL Labs/Xumm team](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
-  * [🧑🤝🧑 Introducing: Ali, Richard & Satish](about-xumm-and-xrpl-labs/the-xrpl-labs-xumm-team/introducing-ali-richard-and-satish.md)
+* [👨👩👧👧 👨👩👧👧 The XRPL Labs/Xumm team](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm.md)
+  * [🧑🤝🧑 🧑🤝🧑 Introducing: Ali, Richard & Satish](about-xumm-and-xrpl-labs/the-xrpl-labs-xumm-team/introducing-ali-richard-and-satish.md)
 * [Xumm vs. Ripple](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
 * [Privacy Statement](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
 * [Terms of Service](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
