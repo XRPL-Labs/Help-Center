@@ -56,11 +56,7 @@ Accounts that were created during the CasinoCoin swap used a slightly different 
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to Recover a CasinoCoin account</td><td></td><td></td><td><a href="../learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md">how-to-recover-a-casinocoin-csc-account.md</a></td><td><a href="../.gitbook/assets/Castle.png">Castle.png</a></td></tr></tbody></table>
 
-For information on how to access an account created during the CSC swap, check out this article:
-
-* [How to recover a swapped Casinocoin (CSC) account](../learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md)
-
-**I have lost my account secret, what can I do?**
+#### **I have lost my account secret, what can I do?**
 
 We have an article that explains your options. You can review it here:
 
