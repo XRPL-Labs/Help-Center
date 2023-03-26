@@ -32,9 +32,9 @@ Each account on the XRPL will have its own account secret and in order to access
 
 Xumm does **not** display account secrets.
 
-Once your account secret has been imported into Xumm, there is no way to access, view or export it. Ithem.If your XRP Ledger account was created using Xumm, you had only had one opportunity to see the secret numbers, (when the account is created), after that, there is no way to access, view or export them.
+Once your account secret has been imported into Xumm, it is immediately encrypted and there is no way to access, view or export it. In the case of the secret numbers, they were only displayed once so if they are lost or destroyed, there is no way to access the account they belong to.
 
-If your account was created in another
+If your XRPL account was created in an application other than Xumm, (e.g. - website, application, wallet), it is possible that there is a way to view or access the account secrets, but it would depend
 
 ## Frequently asked Questions
 
