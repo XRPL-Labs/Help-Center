@@ -64,3 +64,49 @@ The same applies to your signing password. Both the passcode and the sign passwo
 * Create a new account and move your assets over to the new account
 
 Note: Be advised, trustlines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of trustlines until the move is complete.
+
+* master key.\
+
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to re-key your XRPL account</td><td></td><td></td><td><a href="../getting-started-with-xumm/how-to-rekey-your-account.md">how-to-rekey-your-account.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr></tbody></table>
+
+then disabling the master keys for your compromised account.
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to disable the Master keys on an account</td><td></td><td></td><td><a href="../.gitbook/assets/Large rock with Lock.jpg">Large rock with Lock.jpg</a></td></tr></tbody></table>
+
+This will prevent anyone from accessing your compromised account.
+
+Once your account / funds are secure again, try to think of ways your account secret could have been compromised. Have you shared it with someone? Was it stored on a cloud account? On your PC? Mobile device? Have you entered your account secret someplace? A google form? A crypto wallet? Website? Airdrop? If you can't think of anything, there is a good chance your mobile device has been hacked.
+
+At this point we strongly recommend wiping your phone and start reinstalling applications one at a time. Do not restore from backup! Without knowing how your phone was compromised, restoring from backup could be dangerous.\
+
+
+**Apple**
+
+{% embed url="https://support.apple.com/en-ca/guide/personal-safety/ips4603248a8/web" %}
+
+**Android**
+
+\
+For instructions on how to wipe your Android phone, contact your phone manufacture.
+
+### Moving forward
+
+We take security VERY seriously.
+
+If you have found yourself in this situation, you should consider the following suggestions moving forward:
+
+* **Xumm (Tangem) cards** - these cards are an excellent way to take the security of your XRPL account to the next level. You can learn how here:\
+  &#x20;&#x20;
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How safe are Xumm (Tangem) cards?</td><td></td><td></td><td><a href="../xumm-tangem-cards/how-safe-is-a-card.md">how-safe-is-a-card.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
+
+* Review the following article and consider how you plan to interact with the XRP Ledger in the future.&#x20;
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xumm?</td><td></td><td></td><td><a href="../security-and-xumm/all-about-security/how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../.gitbook/assets/Tokens and coins -1 (1).png">Tokens and coins -1 (1).png</a></td></tr></tbody></table>
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

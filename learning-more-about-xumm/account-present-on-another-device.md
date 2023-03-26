@@ -34,44 +34,12 @@ Move your funds out of your XRPL account immediately!
 
 * If you have a **Xumm (Tangem) account**, move your funds to this account. The account secret is stored on the card and as long as you have configured it correctly, your account can not be accessed without physical access to your cards. (Primary and Signing)
 * If do not have a Xumm (Tangem) account but you have an **exchange** account, it might make sense to move your funds there.&#x20;
-* If do not have a Xumm (Tangem) account but you have an **hardware** walle, it might make sense to move your funds there. (Although some hardware wallets are less secure than exchange accounts.
+* If do not have a Xumm (Tangem) account but you have an **hardware** wallet, it might make sense to move your funds there. (Although some hardware wallets are less secure than exchange accounts.
+* If do not have a Xumm (Tangem) account, you could consider [**re-keying**](../getting-started-with-xumm/how-to-rekey-your-account.md) your account then [**disabling the master key**](../getting-started-with-xumm/how-to-disable-the-master-key.md)****
+*
 
-You could consider re-keying your account:\
+**Notes**
 
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to re-key your XRPL account</td><td></td><td></td><td><a href="../getting-started-with-xumm/how-to-rekey-your-account.md">how-to-rekey-your-account.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr></tbody></table>
-
-then disabling the master keys for your compromised account.
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to disable the Master keys on an account</td><td></td><td></td><td><a href="../.gitbook/assets/Large rock with Lock.jpg">Large rock with Lock.jpg</a></td></tr></tbody></table>
-
-This will prevent anyone from accessing your compromised account.
-
-Once your account / funds are secure again, try to think of ways your account secret could have been compromised. Have you shared it with someone? Was it stored on a cloud account? On your PC? Mobile device? Have you entered your account secret someplace? A google form? A crypto wallet? Website? Airdrop? If you can't think of anything, there is a good chance your mobile device has been hacked.
-
-At this point we strongly recommend wiping your phone and start reinstalling applications one at a time. Do not restore from backup! Without knowing how your phone was compromised, restoring from backup could be dangerous.\
-
-
-**Apple**
-
-{% embed url="https://support.apple.com/en-ca/guide/personal-safety/ips4603248a8/web" %}
-
-**Android**
-
-\
-For instructions on how to wipe your Android phone, contact your phone manufacture.
-
-### Moving forward
-
-We take security VERY seriously.
-
-If you have found yourself in this situation, you should consider the following suggestions moving forward:
-
-* **Xumm (Tangem) cards** - these cards are an excellent way to take the security of your XRPL account to the next level. You can learn how here:\
-  &#x20;&#x20;
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How safe are Xumm (Tangem) cards?</td><td></td><td></td><td><a href="../xumm-tangem-cards/how-safe-is-a-card.md">how-safe-is-a-card.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
-
-* Review the following article and consider how you plan to interact with the XRP Ledger in the future.&#x20;
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xumm?</td><td></td><td></td><td><a href="../security-and-xumm/all-about-security/how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../.gitbook/assets/Tokens and coins -1 (1).png">Tokens and coins -1 (1).png</a></td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
