@@ -22,11 +22,13 @@ For older versions of Xumm, when an account tries to reach out to our backend se
 
 Xumm did not know which device it was, only that your r-address tried to connect to the XRPL via our servers.&#x20;
 
-Normally the account had been installed on two devices and one of those devices had just recently tried to use it. (E.g. mobile & second smartphone, or tablet)
+Normally the account had been installed on two devices and one of those devices had just recently been used. (E.g. mobile & second smartphone, or tablet)
 
 ### Take this warning seriously!
 
-Our goal here is to warn you that something is possibly wrong with your account and your mobile device. This is not something that just happens. This section only **this only applies if this is unexpected and you didn't import your account one a new or replaced device,** otherwise your entire device could be compromised, (user names, passwords, account information, etc.) and could be at risk.  If there is even a chance of this, it is time to act **immediately**.&#x20;
+Our goal here is to warn you that something is possibly wrong with your account and your mobile device. This is not something that just happens. This section **only applies if this is unexpected and you didn't import your account on a new or replaced device.**
+
+If you have not imported your account on a new/replacement device, it is possible that your entire device could be compromised, (user names, passwords, account information, etc.) and could be at risk.  If there is even a chance of this, it is time to act **immediately**.&#x20;
 
 {% hint style="danger" %}
 Move your funds out of your XRPL account immediately!
@@ -36,7 +38,8 @@ Move your funds out of your XRPL account immediately!
 * If do not have a Xumm (Tangem) account but you have an **exchange** account, it might make sense to move your funds there.&#x20;
 * If do not have a Xumm (Tangem) account but you have an **hardware** wallet, it might make sense to move your funds there. (Although some hardware wallets are less secure than exchange accounts.
 * If do not have a Xumm (Tangem) account, you could consider [**re-keying**](../getting-started-with-xumm/how-to-rekey-your-account.md) your account then [**disabling the master key**](../getting-started-with-xumm/how-to-disable-the-master-key.md)****
-*
+
+
 
 **Notes**
 
