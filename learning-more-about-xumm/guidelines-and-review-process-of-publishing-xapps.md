@@ -19,9 +19,6 @@ This article is designed to assist you with this process and outline the steps r
 
 It is important to note, this **does not** imply that your app will be listed in the Xumm "more xApps" section. For more information about getting included in the short list, please see:
 
-\<Enter article here>
-
-&#x20;
 
 ### **Requirements for an xApp**
 
