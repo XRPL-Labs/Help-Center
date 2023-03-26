@@ -20,19 +20,19 @@ If you just imported your account into a new device, there is nothing to worry a
 
 For older versions of Xumm, when an account tries to reach out to our backend servers to interact with the XRP Ledger via an xApp or a sign request, it would trigger an automated push notification and deliver the above message.&#x20;
 
-It did not necessarily mean your account had been added to another device, it just meant that the account had contacted our backend for the first time. Xumm did not know which device it was, only that your r-address tried to connect to the XRPL via our servers.&#x20;
+Xumm did not know which device it was, only that your r-address tried to connect to the XRPL via our servers.&#x20;
 
 Normally the account had been installed on two devices and one of those devices had just recently tried to use it. (E.g. mobile & second smartphone, or tablet)
 
 ### Take this warning seriously!
 
-Our goal here is to warn you that something is possibly wrong with your account and your mobile device. This is not something that just happens. Your entire device could be compromised, (user names, passwords, account information, etc.) and could be at risk.  If there is even a chance of this, it is time to act **immediately**.&#x20;
+Our goal here is to warn you that something is possibly wrong with your account and your mobile device. This is not something that just happens. This section only **this only applies if this is unexpected and you didn't import your account one a new or replaced device,** otherwise your entire device could be compromised, (user names, passwords, account information, etc.) and could be at risk.  If there is even a chance of this, it is time to act **immediately**.&#x20;
 
 {% hint style="danger" %}
 Move your funds out of your XRPL account immediately!
 {% endhint %}
 
-* &#x20;If you have a **Xumm (Tangem) account**, move your funds to this account. The account secret is stored on the card and as long as you have configured it correctly, your account can not be accessed without physical access to your cards. (Primary and Signing)
+* If you have a **Xumm (Tangem) account**, move your funds to this account. The account secret is stored on the card and as long as you have configured it correctly, your account can not be accessed without physical access to your cards. (Primary and Signing)
 * If do not have a Xumm (Tangem) account but you have an **exchange** account, it might make sense to move your funds there.&#x20;
 * If do not have a Xumm (Tangem) account but you have an **hardware** walle, it might make sense to move your funds there. (Although some hardware wallets are less secure than exchange accounts.
 
