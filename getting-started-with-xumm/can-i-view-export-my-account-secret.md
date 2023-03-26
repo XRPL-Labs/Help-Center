@@ -54,7 +54,7 @@ Depending on how you created your XRPL account, it is possible that the website 
 
 Accounts that were created during the CasinoCoin swap used a slightly different method of generating an account secret. You can read all about this here:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Recover a CasinoCoin account</td><td></td><td></td><td><a href="../learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md">how-to-recover-a-casinocoin-csc-account.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to Recover a CasinoCoin account</td><td></td><td></td><td><a href="../learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md">how-to-recover-a-casinocoin-csc-account.md</a></td><td><a href="../.gitbook/assets/Castle.png">Castle.png</a></td></tr></tbody></table>
 
 For information on how to access an account created during the CSC swap, check out this article:
 
