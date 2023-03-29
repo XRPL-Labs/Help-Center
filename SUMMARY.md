@@ -102,7 +102,7 @@
     * [Banxa](all-about-xapps/xumm-xapps/buy-sell-xrp/banxa.md)
     * [BTC Direct](all-about-xapps/xumm-xapps/buy-sell-xrp/btc-direct.md)
 * [XRPL Services](all-about-xapps/xrpl-services/README.md)
-  * [Token Trasher](all-about-xapps/xrpl-services/token-trasher/README.md)
+  * [Token Trasher](all-about-xapps/xrpl-services/token-trasher.md)
     * [How to remove a Trust Line](all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
   * [Escrow creator](all-about-xapps/xrpl-services/escrow-creator.md)
   * [Token creator](all-about-xapps/xrpl-services/token-creator.md)
