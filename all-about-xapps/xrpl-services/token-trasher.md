@@ -19,6 +19,12 @@ Click [here](https://xumm.app/detect/xapp:nixer.tokentrasher) to launch the [Tok
 
 <figure><img src="../../.gitbook/assets/Token Trasher  (1).png" alt=""><figcaption></figcaption></figure>
 
+#### Can I select multiple tokens or Trust Lines to be removed at once?
+
+The XRP Ledger does not allow batch signing. This means that you can only remove one Trust Line at a time.
+
+&#x20;&#x20;
+
 #### How do I remove an empty Trust Line?
 
 When you launch the Token Trasher xApp, you should see a list of the Trust Lines in your account:
