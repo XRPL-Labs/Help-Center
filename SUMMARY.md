@@ -104,6 +104,7 @@
 * [XRPL Services](all-about-xapps/xrpl-services/README.md)
   * [Token Trasher](all-about-xapps/xrpl-services/token-trasher.md)
     * [How to remove a Trust Line](all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
+    * [How to get rid of tokens](all-about-xapps/xrpl-services/token-trasher/how-to-get-rid-of-tokens.md)
   * [Escrow creator](all-about-xapps/xrpl-services/escrow-creator.md)
   * [Token creator](all-about-xapps/xrpl-services/token-creator.md)
 * [XRP Community](all-about-xapps/xrp-community/README.md)
