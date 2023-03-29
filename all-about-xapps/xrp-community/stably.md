@@ -20,11 +20,11 @@ No. Stably does not offer the ability to purchase XRP for fiat. They offer the a
 
 #### Is Stably a crypto exchange?
 
-No, not in a traditional sense. They exclusively sell their own issued coins.
+No, not in a traditional sense. They exclusively sell their own issued tokens.
 
 #### Do I need to create a Trust Line to the Stably issuing account?
 
-Yes. In order to hold the USD token that they issued, you need to have a Trust Line to their account. If you purchase their token via the Stably xApp in Xumm, a Trust Line to their issuing account will be created automatically during the purchase process.
+Yes. In order to hold the USD token that they have issued, you need to have a Trust Line configured to their issuing account. If you purchase their token via the Stably xApp in Xumm, a Trust Line to their issuing account will be created automatically during the purchase process.
 
 #### Can I buy the Stably-USD token for XRP?
 
@@ -32,9 +32,20 @@ Yes, but you can not purchase their token from them for XRP. You will need to pl
 
 1\) You can create a market/limit order on the XRPL DEX using a utility such as the DEX Trade xApp
 
-2\) You can tap the&#x20;
+2\) You can tap the Stably Trust Line in Xumm, then press the **Exchange** button to get into the exchange flow.
 
+#### How to I contact Stably for more information or if I have more questions about their service?
 
+The Stably xApp in Xumm has a way to contact Stably Customer Service.
 
+Just Launch Stably and press the hamburger menu,&#x20;
 
+<figure><img src="../../.gitbook/assets/Stably -1.png" alt=""><figcaption></figcaption></figure>
 
+then press **Support & FAQ**
+
+<figure><img src="../../.gitbook/assets/Stably -2.png" alt=""><figcaption></figcaption></figure>
+
+then press **Help**.
+
+<figure><img src="../../.gitbook/assets/Stably -3.png" alt=""><figcaption></figcaption></figure>
