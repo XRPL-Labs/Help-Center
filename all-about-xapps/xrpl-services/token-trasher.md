@@ -25,7 +25,11 @@ When you launch the Token Trasher xApp, you should see a list of the Trust Lines
 
 <figure><img src="../../.gitbook/assets/Token Trasher  (1).png" alt=""><figcaption></figcaption></figure>
 
+In this case we'll remove the Schmeckles Trust Line by pressing the **Remove** button beside it.
 
+The xApp will indicate that the Trust Line is empty and eligible to be removed. Press the **Next** button.
+
+<figure><img src="../../.gitbook/assets/Token Trasher -1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This article is currently under construction
