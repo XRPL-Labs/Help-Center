@@ -1,7 +1,7 @@
 ---
 description: All about Token Trasher
-cover: ../../.gitbook/assets/Token Trasher.png
-coverY: 76
+cover: ../../.gitbook/assets/Token Trasher monster.png
+coverY: 88
 ---
 
 # Token Trasher
