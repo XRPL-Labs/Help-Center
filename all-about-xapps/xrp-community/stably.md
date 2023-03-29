@@ -34,11 +34,9 @@ Yes, but you can not purchase their token from them for XRP. You will need to pl
 
 2\) You can tap the Stably Trust Line in Xumm, then press the **Exchange** button to get into the exchange flow.
 
-#### How to I contact Stably for more information or if I have more questions about their service?
+#### How do I contact Stably for more information or if I have more questions about their service?
 
-The Stably xApp in Xumm has a way to contact Stably Customer Service.
-
-Just Launch Stably and press the hamburger menu,&#x20;
+To contact Stably Customer Service, just launch the Stably xApp and press the hamburger menu,&#x20;
 
 <figure><img src="../../.gitbook/assets/Stably -1.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,3 +47,9 @@ then press **Support & FAQ**
 then press **Help**.
 
 <figure><img src="../../.gitbook/assets/Stably -3.png" alt=""><figcaption></figcaption></figure>
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
