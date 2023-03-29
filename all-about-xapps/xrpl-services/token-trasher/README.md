@@ -23,7 +23,7 @@ Click [here](https://xumm.app/detect/xapp:nixer.tokentrasher) to launch the [Tok
 
 #### Can I select multiple tokens or Trust Lines to be removed at once?
 
-The XRP Ledger does not allow batch signing. This means that you can only remove one Trust Line at a time.
+Unfortunately no. The XRP Ledger does not allow batch signing. This means that you can only remove one Trust Line at a time.
 
 #### Will I get my 2 XRP back for the owner reserve?
 
@@ -43,5 +43,5 @@ The developer for this xApp can be reached via Twitter at:
 
 #### Any tips on how to use the xApp?
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">How to remove a Trust LIne using Token Trasher</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to remove a Trust LIne using Token Trasher</td><td></td><td></td><td><a href="how-to-remove-a-trust-line.md">how-to-remove-a-trust-line.md</a></td></tr></tbody></table>
 
