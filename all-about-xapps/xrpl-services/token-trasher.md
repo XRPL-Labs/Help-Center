@@ -1,5 +1,7 @@
 ---
 description: All about Token Trasher
+cover: ../../.gitbook/assets/Token Trasher.png
+coverY: 76
 ---
 
 # Token Trasher
@@ -23,7 +25,15 @@ Click [here](https://xumm.app/detect/xapp:nixer.tokentrasher) to launch the [Tok
 
 The XRP Ledger does not allow batch signing. This means that you can only remove one Trust Line at a time.
 
-&#x20;&#x20;
+#### Will I get my 2 XRP back for the owner reserve?
+
+Yes. Once your Trust Line has been removed, the 2 XRP held in reserve by the XRPL will be made available for spending.
+
+#### Can I recover my 10 XRP held for the base reserve with this?
+
+No. The Base Reserve is a minimum amount of XRP that is required for each address in the ledger. The only way to recover the base reserve is to delete your account from the XRPL
+
+[How to delete an account from the XRP Ledger](../../learning-more-about-xumm/deleting-an-xrpl-account.md)
 
 #### How do I remove an empty Trust Line?
 
@@ -45,7 +55,11 @@ Token Trasher will craft a transaction to remove the Trust Line and display it f
 
 <figure><img src="../../.gitbook/assets/Token Trasher -3.png" alt=""><figcaption></figcaption></figure>
 
-You should&#x20;
+#### Who do I contact for help?
+
+The developer for this xApp can be reached via Twitter at:
+
+[https://twitter.com/nixerFFM](https://twitter.com/nixerFFM)
 
 
 
