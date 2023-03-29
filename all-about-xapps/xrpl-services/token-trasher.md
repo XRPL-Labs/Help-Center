@@ -19,7 +19,11 @@ Click [here](https://xumm.app/detect/xapp:nixer.tokentrasher) to launch the [Tok
 
 <figure><img src="../../.gitbook/assets/Token Trasher .png" alt=""><figcaption></figcaption></figure>
 
+#### How do I remove an empty Trust Line?
 
+When you launch the Token Trasher xApp, you should see a list of the Trust Lines in your account:
+
+<figure><img src="../../.gitbook/assets/Token Trasher  (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
