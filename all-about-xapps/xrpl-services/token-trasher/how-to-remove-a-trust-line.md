@@ -1,5 +1,7 @@
 ---
 description: Removing a Trust Line using Token Trasher
+cover: ../../../.gitbook/assets/Token Trasher.png
+coverY: 0
 ---
 
 # How to remove a Trust Line
