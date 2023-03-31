@@ -1,5 +1,7 @@
 ---
 description: Using Token Trasher to get rid of unwanted tokens
+cover: ../../../.gitbook/assets/Token Trasher.png
+coverY: 339
 ---
 
 # How to get rid of tokens
