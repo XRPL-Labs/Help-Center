@@ -4,6 +4,10 @@ description: How to "unlink" a Xumm (Tangem) card from another account
 
 # How to remove a regular key from a card
 
+{% hint style="info" %}
+This page is under construction
+{% endhint %}
+
 For the purposes of this article, we assume the following:
 
 * You have a correctly followed this instructions in this article:\
