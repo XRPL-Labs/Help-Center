@@ -4,6 +4,10 @@ description: What happens if your card is lost, stolen or damaged?
 
 # Lost, stolen or damaged cards
 
+{% hint style="info" %}
+This article is still under construction
+{% endhint %}
+
 There are a **four** possible ways to configure the Xumm (Tangem) cards. Ideally Case 1 will apply to your situation but if not, one of the other cases will.&#x20;
 
 ### Case 1 - Signing account is LSD
