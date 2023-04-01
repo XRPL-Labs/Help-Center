@@ -32,11 +32,9 @@ Press “**External Wallet**”
 
 Press “**+ Add Wallet Address**”
 
-![https://support.xumm.app/hc/article\_attachments/4527717082002/mceclip6.png](https://support.xumm.app/hc/article\_attachments/4527717082002/mceclip6.png)
+<figure><img src="../../.gitbook/assets/Crypto - 7.png" alt=""><figcaption></figcaption></figure>
 
-mceclip6.png
-
-Press “Ripple”
+Press “**Ripple**”
 
 ![https://support.xumm.app/hc/article\_attachments/4527810816146/mceclip9.png](https://support.xumm.app/hc/article\_attachments/4527810816146/mceclip9.png)
 
