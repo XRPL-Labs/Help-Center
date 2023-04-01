@@ -50,14 +50,12 @@ Review the transaction and if correct, press the “**Confirm**” button.
 
 <figure><img src="../../.gitbook/assets/Crypto - 92 (1).png" alt=""><figcaption></figcaption></figure>
 
-![https://support.xumm.app/hc/article\_attachments/4527840895122/mceclip13.png](https://support.xumm.app/hc/article\_attachments/4527840895122/mceclip13.png)
+Enter your Crypto.Com **passcode**.
 
-mceclip13.png
+
 
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **XUMM Support xApp** in XUMM or you can simply scan this QR code with XUMM and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png](https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png)
-
-Support\_banner.png
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
