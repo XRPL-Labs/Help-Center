@@ -56,9 +56,6 @@
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [Spam on the XRP Ledger](learning-more-about-xumm/spam-on-the-xrp-ledger.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
-* [Page 1](learning-more-about-xumm/page-1.md)
-* [Page 2](learning-more-about-xumm/page-2.md)
-* [Security Option](learning-more-about-xumm/security-option.md)
 * [KYC](learning-more-about-xumm/kyc.md)
 * [Guidelines and review process of publishing xApps](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
 * [How to Get a Token Added to the Xumm Short List](learning-more-about-xumm/how-to-get-a-token-added-to-the-xumm-short-list.md)
@@ -75,6 +72,11 @@
 * [I've been scammed!](learning-more-about-xumm/ive-been-scammed.md)
 * [Account present on another device](learning-more-about-xumm/account-present-on-another-device.md)
 * [How to take a screenshot](learning-more-about-xumm/how-to-take-a-screenshot.md)
+
+## Configuring Xumm
+
+* [How to take a screenshot](configuring-xumm/how-to-take-a-screenshot.md)
+* [Security Option](configuring-xumm/security-option.md)
 
 ## XUMM (TANGEM) CARDS
 
