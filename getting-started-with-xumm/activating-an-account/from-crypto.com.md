@@ -16,9 +16,7 @@ Select **XRP**.
 
 Press “**Transfer**”
 
-![https://support.xumm.app/hc/article\_attachments/4527646994962/mceclip2.png](https://support.xumm.app/hc/article\_attachments/4527646994962/mceclip2.png)
-
-mceclip2.png
+<figure><img src="../../.gitbook/assets/Crypto - 3.png" alt=""><figcaption></figcaption></figure>
 
 Press “**Withdraw**”
 
