@@ -50,7 +50,7 @@ Review the transaction and if correct, press the “**Confirm**” button.
 
 <figure><img src="../../.gitbook/assets/Crypto - 92 (1).png" alt=""><figcaption></figcaption></figure>
 
-Enter your Crypto.Com **passcode**.
+Enter your Crypto.Com **passcode** when prompted and you should be done.
 
 
 
