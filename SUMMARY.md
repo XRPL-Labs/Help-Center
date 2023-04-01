@@ -75,6 +75,7 @@
 
 ## Configuring Xumm
 
+* [Understanding the Settings Options](configuring-xumm/understanding-the-settings-options.md)
 * [How to take a screenshot](configuring-xumm/how-to-take-a-screenshot.md)
 * [Security Option](configuring-xumm/security-option.md)
 
