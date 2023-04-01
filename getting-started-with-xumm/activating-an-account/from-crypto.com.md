@@ -24,9 +24,7 @@ Press “**Withdraw**”
 
 Press “**Crypto**”
 
-![https://support.xumm.app/hc/article\_attachments/4527650332690/mceclip4.png](https://support.xumm.app/hc/article\_attachments/4527650332690/mceclip4.png)
-
-mceclip4.png
+<figure><img src="../../.gitbook/assets/Crypto - 5.png" alt=""><figcaption></figcaption></figure>
 
 Press “**External Wallet**”
 
