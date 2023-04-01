@@ -28,9 +28,7 @@ Press “**Crypto**”
 
 Press “**External Wallet**”
 
-![https://support.xumm.app/hc/article\_attachments/4527711763602/mceclip5.png](https://support.xumm.app/hc/article\_attachments/4527711763602/mceclip5.png)
-
-mceclip5.png
+<figure><img src="../../.gitbook/assets/Crypto - 6.png" alt=""><figcaption></figcaption></figure>
 
 Press “**+ Add Wallet Address**”
 
