@@ -2,15 +2,13 @@
 description: How to send XRP from Crypto.com to Xumm (deposit)
 ---
 
-# From Crypto.Com to Xumm
+# From Crypto.Com
 
 ### **How to do I send XRP from my** [**Crypto.com**](http://crypto.com) **account to my XRP Ledger account managed by XUMM?**
 
 Launch the [Crypto.com](http://crypto.com) wallet.
 
-![https://support.xumm.app/hc/article\_attachments/4527642204050/mceclip0.png](https://support.xumm.app/hc/article\_attachments/4527642204050/mceclip0.png)
-
-mceclip0.png
+<figure><img src="../../.gitbook/assets/Crypto - 1.png" alt=""><figcaption></figcaption></figure>
 
 Select **XRP**.
 
