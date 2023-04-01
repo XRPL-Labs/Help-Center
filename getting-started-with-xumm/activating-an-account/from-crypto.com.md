@@ -12,9 +12,7 @@ Launch the [Crypto.com](http://crypto.com) wallet.
 
 Select **XRP**.
 
-![https://support.xumm.app/hc/article\_attachments/4527590989330/mceclip1.png](https://support.xumm.app/hc/article\_attachments/4527590989330/mceclip1.png)
-
-mceclip1.png
+<figure><img src="../../.gitbook/assets/Crypto - 2.png" alt=""><figcaption></figcaption></figure>
 
 Press “**Transfer**”
 
