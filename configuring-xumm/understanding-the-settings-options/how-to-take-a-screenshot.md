@@ -10,7 +10,7 @@ Here is how to temporarily disable this security feature.
 
 From the main page in Xumm, press **Settings** then **Security**.
 
-<figure><img src="../.gitbook/assets/Block taking screenshots.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Block taking screenshots.png" alt=""><figcaption></figcaption></figure>
 
 Toggle the switch beside **Block taking screenshots**.
 
@@ -24,5 +24,5 @@ All devices have various attack vectors and in the event that your phone was eve
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 

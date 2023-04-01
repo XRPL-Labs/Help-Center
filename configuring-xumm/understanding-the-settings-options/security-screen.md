@@ -1,12 +1,14 @@
-# Security Option
+---
+description: Security screen
+---
 
-## Xumm Security screen
+# Security screen
 
-![](https://support.xumm.app/system/photos/360213923800/IMG\_20190705\_182623\_01.jpg) Will
+{% hint style="info" %}
+This page is still under construction
+{% endhint %}
 
-* July 13, 2022 14:30
-* &#x20;
-* Updated
+##
 
 &#x20;
 

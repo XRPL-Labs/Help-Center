@@ -75,9 +75,9 @@
 
 ## Configuring Xumm
 
-* [Understanding the Settings Options](configuring-xumm/understanding-the-settings-options.md)
-* [How to take a screenshot](configuring-xumm/how-to-take-a-screenshot.md)
-* [Security Option](configuring-xumm/security-option.md)
+* [Understanding the Settings Options](configuring-xumm/understanding-the-settings-options/README.md)
+  * [How to take a screenshot](configuring-xumm/understanding-the-settings-options/how-to-take-a-screenshot.md)
+  * [Security screen](configuring-xumm/understanding-the-settings-options/security-screen.md)
 
 ## XUMM (TANGEM) CARDS
 
