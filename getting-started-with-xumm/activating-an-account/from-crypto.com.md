@@ -36,31 +36,19 @@ Press “**+ Add Wallet Address**”
 
 Press “**Ripple**”
 
-![https://support.xumm.app/hc/article\_attachments/4527810816146/mceclip9.png](https://support.xumm.app/hc/article\_attachments/4527810816146/mceclip9.png)
+<figure><img src="../../.gitbook/assets/Crypto - 8.png" alt=""><figcaption></figcaption></figure>
 
-mceclip9.png
+Enter your **XRP r-address** managed by Xumm, select “**No destination tag required for my wallet**”  and add a “**Wallet Name**” then press “**Continue**”. You find you r-address in Xumm here…
 
-Enter your **XRP r-address** managed by XUMM, select “**No destination tag required for my wallet**”  and add a “**Wallet Name**” then press “**Continue**”. You can see where to find you r-address here…
+<figure><img src="../../.gitbook/assets/Crypto - 9.png" alt=""><figcaption></figcaption></figure>
 
-![https://support.xumm.app/hc/article\_attachments/4527760309906/mceclip8.png](https://support.xumm.app/hc/article\_attachments/4527760309906/mceclip8.png)
+Press the “**Withdraw XRP**” link, then enter the amount your would like to Withdraw and press the “**Withdraw**” button.&#x20;
 
-mceclip8.png
-
-![https://support.xumm.app/hc/article\_attachments/4527811843986/mceclip10.png](https://support.xumm.app/hc/article\_attachments/4527811843986/mceclip10.png)
-
-mceclip10.png
-
-![https://support.xumm.app/hc/article\_attachments/4527836917906/mceclip11.png](https://support.xumm.app/hc/article\_attachments/4527836917906/mceclip11.png)
-
-mceclip11.png
-
-Press the “**Withdraw XRP**” link, then enter the amount your would like to Withdraw and press the “**Withdraw**” button. You should see this screen:
-
-![https://support.xumm.app/hc/article\_attachments/4527832262802/mceclip12.png](https://support.xumm.app/hc/article\_attachments/4527832262802/mceclip12.png)
-
-mceclip12.png
+<figure><img src="../../.gitbook/assets/Crypto - 91.png" alt=""><figcaption></figcaption></figure>
 
 Review the transaction and if correct, press the “**Confirm**” button.
+
+<figure><img src="../../.gitbook/assets/Crypto - 92 (1).png" alt=""><figcaption></figcaption></figure>
 
 ![https://support.xumm.app/hc/article\_attachments/4527840895122/mceclip13.png](https://support.xumm.app/hc/article\_attachments/4527840895122/mceclip13.png)
 
