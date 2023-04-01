@@ -98,11 +98,6 @@ This options prevents screenshots from being taken. Should you ever need to take
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **XUMM Support xApp** in XUMM or you can simply scan this QR code with XUMM and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![Support\_banner.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4420057706002/Support\_banner.png)
-
-*
-* &#x20;
-*
-* &#x20;
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
