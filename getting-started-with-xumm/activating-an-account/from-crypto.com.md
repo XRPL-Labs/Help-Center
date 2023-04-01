@@ -20,9 +20,7 @@ Press “**Transfer**”
 
 Press “**Withdraw**”
 
-![https://support.xumm.app/hc/article\_attachments/4527676574994/mceclip3.png](https://support.xumm.app/hc/article\_attachments/4527676574994/mceclip3.png)
-
-mceclip3.png
+<figure><img src="../../.gitbook/assets/Crypto - 4.png" alt=""><figcaption></figcaption></figure>
 
 Press “**Crypto**”
 
