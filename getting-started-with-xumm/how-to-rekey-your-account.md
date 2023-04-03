@@ -1,14 +1,12 @@
 ---
-description: Set / Add a regular key pai to your XRPL account
+description: Set / Add a regular key pair to your XRPL account
 cover: ../.gitbook/assets/Large rock with Key.jpg
 coverY: 0
 ---
 
 # How to rekey your account
 
-The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign future transactions.&#x20;
-
-A regular key pair is often used to protect your account by allowing you to sign transactions for your account instead of using the master key.
+The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on an account. It is often used to protect your account by allowing you to sign transactions for your account instead of using the master key.
 
 ### Concept and implementation
 
