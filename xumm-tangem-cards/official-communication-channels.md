@@ -4,7 +4,7 @@ description: Official communication channels for Xumm
 
 # Official communication channels
 
-&#x20;The primary way to contact is via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) located in Xumm.
+For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) located in Xumm.
 
 
 
@@ -22,23 +22,21 @@ description: Official communication channels for Xumm
 
 ### Xumm Domain names <a href="#h_772bad7bdc" id="h_772bad7bdc"></a>
 
-### **Primary** <a href="#h_640ba6991b" id="h_640ba6991b"></a>
+#### **Primary** <a href="#h_640ba6991b" id="h_640ba6991b"></a>
 
-* https://xumm**.app** and subdomains
+* [**https://xumm.app**](https://xumm.app/) and subdomains
 
-### **Alternatively** <a href="#h_1bf826eada" id="h_1bf826eada"></a>
+#### **Alternatively** <a href="#h_1bf826eada" id="h_1bf826eada"></a>
 
-* https://xumm**.dev** and subdomains (for Developers & Developer docs)
-* https://xumm**.pro** and subdomains (for Xumm Pro subscriptions)
-* https://xumm**.me** and subdomains (for user profile pages & hosted PayID)
-* https://xumm**.io** and subdomains (for App redirects)
+* [**https://xumm.readme.io**](https://xumm.readme.io/) and subdomains (for Developers & Developer docs)
+* [**https://xrpl-labs.com/pro**](official-communication-channels.md#h\_c79d5ef4b1) and subdomains (for Xumm Pro subscriptions)
 
-## **Xumm - Latest versions of the app** <a href="#h_c79d5ef4b1" id="h_c79d5ef4b1"></a>
+### **Xumm - Latest versions of the app** <a href="#h_c79d5ef4b1" id="h_c79d5ef4b1"></a>
 
 * [**Apple App Store**](https://apps.apple.com/us/app/xumm/id1492302343?l=nl\&ls=1)
 * [**Google Play Store**](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm)
 
-## XRPL Labs (Xumm creators) <a href="#h_ab0f4368eb" id="h_ab0f4368eb"></a>
+### XRPL Labs (Xumm creators) <a href="#h_ab0f4368eb" id="h_ab0f4368eb"></a>
 
 * XRPL Labs [**website**](https://xrpl-labs.com/)
 * [**@XRPLLabs**](https://twitter.com/XRPLLabs) on Twitter
