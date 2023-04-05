@@ -18,13 +18,9 @@ description: Official communication channels for Xumm
 
 &#x20;
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the Xumm Support xApp in XUMM or you can simply scan this QR code with XUMM and be directed there automatically.
 
-&#x20;
 
-## ![XummSupportQR.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4566923926418/XummSupportQR.png)
-
-## XUMM Domain names <a href="#h_772bad7bdc" id="h_772bad7bdc"></a>
+### Xumm Domain names <a href="#h_772bad7bdc" id="h_772bad7bdc"></a>
 
 ### **Primary** <a href="#h_640ba6991b" id="h_640ba6991b"></a>
 
@@ -33,16 +29,16 @@ We understand that you might have additional questions regarding this topic so y
 ### **Alternatively** <a href="#h_1bf826eada" id="h_1bf826eada"></a>
 
 * https://xumm**.dev** and subdomains (for Developers & Developer docs)
-* https://xumm**.pro** and subdomains (for XUMM Pro subscriptions)
+* https://xumm**.pro** and subdomains (for Xumm Pro subscriptions)
 * https://xumm**.me** and subdomains (for user profile pages & hosted PayID)
 * https://xumm**.io** and subdomains (for App redirects)
 
-## **XUMM releases** <a href="#h_c79d5ef4b1" id="h_c79d5ef4b1"></a>
+## **Xumm - Latest versions of the app** <a href="#h_c79d5ef4b1" id="h_c79d5ef4b1"></a>
 
 * [**Apple App Store**](https://apps.apple.com/us/app/xumm/id1492302343?l=nl\&ls=1)
 * [**Google Play Store**](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm)
 
-## XRPL Labs (XUMM creators) <a href="#h_ab0f4368eb" id="h_ab0f4368eb"></a>
+## XRPL Labs (Xumm creators) <a href="#h_ab0f4368eb" id="h_ab0f4368eb"></a>
 
 * XRPL Labs [**website**](https://xrpl-labs.com/)
 * [**@XRPLLabs**](https://twitter.com/XRPLLabs) on Twitter
