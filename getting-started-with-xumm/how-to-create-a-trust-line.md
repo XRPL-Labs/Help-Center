@@ -20,7 +20,7 @@ Xumm will display a screen that looks like this:
 
 <figure><img src="../.gitbook/assets/Short List - 2.png" alt=""><figcaption></figcaption></figure>
 
-From here you can simply select an issuer, for example, **Gatehub**, then choose which Token you would like to create a Trust Line for, in this case, we'll choose **British Pound**, then **** press **Sign to add Token.**
+From here you can simply select an issuer, for example, **Gatehub**, then choose which Token you would like to create a Trust Line for, in this case, we'll choose **British Pound**, then press **Sign to add Token.**
 
 <figure><img src="../.gitbook/assets/Short List - 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ In this case, you can use it to create a Trust Line.
 
 ### Quick instructions
 
-1\) Click on this link: [**XRPL Services**](https://xrpl.services/tokens)****
+1\) Click on this link: [**XRPL Services**](https://xrpl.services/tokens)
 
 2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
 
@@ -56,7 +56,7 @@ In this case, you can use it to create a Trust Line.
 
 ### Quick instructions with pictures
 
-1\) Click on this link: [**XRPL Services**](https://xrpl.services/tokens)****
+1\) Click on this link: [**XRPL Services**](https://xrpl.services/tokens)
 
 <figure><img src="../.gitbook/assets/XRPL Services - 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -82,10 +82,10 @@ In this case, you can use it to create a Trust Line.
 
 8\) **Slide to sign**.
 
-****
+
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
