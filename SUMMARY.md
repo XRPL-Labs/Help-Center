@@ -89,6 +89,7 @@
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
 * [Lost, stolen or damaged cards](xumm-tangem-cards/lost-stolen-or-damaged-cards.md)
 * [How to remove a regular key from a card](xumm-tangem-cards/how-to-remove-a-regular-key-from-a-card.md)
+* [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
 
 ## ALL ABOUT XAPPS
 
