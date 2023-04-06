@@ -12,7 +12,7 @@ The Account Worth xApp is designed to display the **total** current value of all
 
 Simply touch this link:
 
-****[**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth)****
+[**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth)
 
 or you can find it by pressing the <img src="../../.gitbook/assets/image (2) (5).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm.\
 
@@ -33,7 +33,7 @@ Xumm shows the _real_ representation of each asset based on the _current_ DEX li
 
 The Account Worth xApp **includes** the base reserve and owner reserves when calculating the value of your XRP.  The reason for this is that while the reserves are marked as "un-spendable" on the XRPL, they are still **in your account** so they are counted when Account Worth calculates the total value of your XRP. &#x20;
 
-### ****
+###
 
 **Notes**
 

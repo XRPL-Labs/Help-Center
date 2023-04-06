@@ -32,7 +32,7 @@ So how does that work? You have already decrypted and accessed the crypto exchan
 
 Now what…? The second that word gets out that a quantum computer hacker is attacking any blockchain, the price of that token goes down to zero. Who would want to own a token that is worthless?
 
-#### ****
+####
 
 #### **But what if they wanted to risk multi-million dollar quantum computer and criminal prosecution to hack my account?**
 

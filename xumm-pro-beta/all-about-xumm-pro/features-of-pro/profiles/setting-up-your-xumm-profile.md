@@ -93,7 +93,7 @@ Remember, the point of Profiles is to create an **honest identity** for yourself
 
 Exceptions will be considered on a case by case basis.
 
-****
+
 
 **Notes**
 

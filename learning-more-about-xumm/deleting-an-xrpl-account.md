@@ -6,7 +6,7 @@ description: How to delete an XRP Ledger account from the XRPL.
 
 ### The instructions..
 
-1\) Go to [<mark style="color:blue;">**XRPL Services**</mark>](https://xrpl.services)<mark style="color:blue;">****</mark>
+1\) Go to [<mark style="color:blue;">**XRPL Services**</mark>](https://xrpl.services)
 
 2\) Sign in with Xumm using the account you would like to delete
 
@@ -36,7 +36,7 @@ To delete an XRPL account, you need to follow the instructions above.
 {% hint style="warning" %}
 &#x20;If your XRPL account was removed from Xumm in error, it can be imported back into Xumm using the account secret (Secret numbers / Family Seed / Mnemonic) by following the instructions here:\
 \
-[**Importing your account into Xumm**](../getting-started-with-xumm/importing-your-account/)****
+[**Importing your account into Xumm**](../getting-started-with-xumm/importing-your-account/)
 {% endhint %}
 
 #### **I deleted my XRPL account and sent the funds to my exchange account**
@@ -47,7 +47,7 @@ They will need to locate your funds in their system and deliver them to your exc
 
 Unfortunately there is **nothing Xumm Support can do** to help you recover your funds. Only your exchange is capable of delivering your funds to your account.&#x20;
 
-****
+
 
 **Notes**
 

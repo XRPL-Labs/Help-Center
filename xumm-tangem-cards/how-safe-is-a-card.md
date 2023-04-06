@@ -42,7 +42,7 @@ _Source:_ [_Wikipedia_](https://en.wikipedia.org/wiki/Near-field\_communication)
 
 The card uses the NFC smart-card chip to communicate with your phone directly to Xumm.
 
-&#x20;****&#x20;
+&#x20;
 
 ### **NFC vulnerabilities and possible attack vectors**
 

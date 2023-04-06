@@ -96,7 +96,7 @@ Any exchange can easily honor Gatehub’s issued tokens and Gatehub can easily h
 
 Unfortunately we do not keep track of which exchanges support which tokens.  You can reach out to your exchange and ask them.
 
-****
+
 
 **Notes**
 

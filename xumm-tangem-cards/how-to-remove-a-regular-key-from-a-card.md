@@ -12,8 +12,8 @@ For the purposes of this article, we assume the following:
 
 * You have a correctly followed this instructions in this article:\
   \
-  [**How to configure a backup signing account**](how-to-configure-a-backup-signing-account.md)****\
-  ****
+  [**How to configure a backup signing account**](how-to-configure-a-backup-signing-account.md)\
+
 * You would like to remove the regular key which links your Primary card to your Signing card.\
 
 

@@ -70,4 +70,3 @@ We understand that you might have additional questions regarding this topic so y
 
 &#x20;
 
-****

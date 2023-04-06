@@ -24,7 +24,7 @@ Simply open a ticket using the [**Xumm Support xApp**](https://xumm.app/detect/x
 
 When you place an order for Xumm Tangem cards, you are asked for your email address during the order process. (We use it to send your "Trace and Trace" information from our shipping company.) Since we usually ship our orders on the same day, there is a very small window where we could actually change your email information. If you contact us in time, we can change it for your order. 🤞
 
-As above, open a ticket using the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your Xumm Tangem order updated. (Don't forget to include your new email address in the message.)
+As above, open a ticket using the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your Xumm Tangem order updated. (Don't forget to include your new email address in the message.)
 
 Per our Privacy policy, your email address (along with any other information you provide us in your order) gets **automatically purged** from our systems shortly after your order is sent.
 
@@ -47,10 +47,10 @@ These companies have their own privacy and disclosure policies and each one coll
 
 If you have signed up for our developer portal, you would have entered your email address.
 
-To get this changed, open a ticket using the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your developer portal account updated.
+To get this changed, open a ticket using the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your developer portal account updated.
 
 ### **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

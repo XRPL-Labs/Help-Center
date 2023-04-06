@@ -75,7 +75,7 @@ Xumm should display your **Account balance**, the amount of XRP A**vailable for 
 
 <figure><img src="../../.gitbook/assets/v24 - Reserves -2.png" alt=""><figcaption></figcaption></figure>
 
-In the above example, you can see that the account has 10 XRP marked as un-spendable to meet the wallet reserve and 2 XRP marked as un-spendable to meet the owner reserves for each of the Trust Lines created in the account. ****&#x20;
+In the above example, you can see that the account has 10 XRP marked as un-spendable to meet the wallet reserve and 2 XRP marked as un-spendable to meet the owner reserves for each of the Trust Lines created in the account. &#x20;
 
 ### **On my list is a line titled: NFTokenPages**
 
@@ -107,5 +107,5 @@ We understand that you might have additional questions regarding this topic so y
 
 <figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
-****
+
 

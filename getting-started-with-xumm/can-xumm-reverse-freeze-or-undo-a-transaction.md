@@ -4,7 +4,7 @@
 
 The XRP Ledger is a decentralized blockchain. Part of that means, that no single person, entity, group or company has control over it.  Once data has been saved on the XRP Ledger, it can not be modified or altered by anyone. _All transactions on the XRPL are final and permanent._&#x20;
 
-****
+
 
 ### **Why can't Xumm do something to reverse my transaction?**
 

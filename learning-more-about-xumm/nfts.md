@@ -16,7 +16,7 @@ In simple terms, an NFT is a unique identifier **on** the XRPL that points to an
 
 For more information, this link provides an excellent conceptual view of NFTs:
 
-* ****[**An overview of NFTs on the XRP Ledger**](https://xrpl.org/non-fungible-tokens.html)****
+* [**An overview of NFTs on the XRP Ledger**](https://xrpl.org/non-fungible-tokens.html)
 
 ### **Viewing NFTs in Xumm**
 
@@ -68,7 +68,7 @@ No. In order to sell an NFT you will have to go through an NFT marketplace. Xumm
 
 This link provides an great conceptual view of NFT transfers:
 
-* ****[**Trading NFTs on the XRPL**](https://xrpl.org/non-fungible-token-transfers.html)****
+* [**Trading NFTs on the XRPL**](https://xrpl.org/non-fungible-token-transfers.html)
 
 #### **Can I transfer an NFT from another network to Xumm?**
 
@@ -84,7 +84,7 @@ Prior to the adoption of the XLS-20 amendment, several projects created "NFTs" u
 
 Since we have no way of knowing how their 'NFTs' were created, which specifications they adhered to or if they cut any corners in their minting process, we recommend that you contact the people who minted your NFT and see if they have a plan to ensure compatibility with the XLS-20 standard. It will be up to the NFT minter to provide support for their products.
 
-****
+
 
 **Do I need to configure a Trust Line for an NFTs?**
 
@@ -100,7 +100,7 @@ Some of the older, proprietary "NFTs" used Trust Lines though. If you have an "N
 
 There is actually! Here is our founder, Wietse Wind talking a bit about NFT's.
 
-* ****[**How do NFTs work on the XRPL?**](https://www.youtube.com/watch?v=vpmXgguMP8Q)****
+* [**How do NFTs work on the XRPL?**](https://www.youtube.com/watch?v=vpmXgguMP8Q)
 
 **Notes**
 
@@ -108,4 +108,3 @@ We understand that you might have additional questions regarding this topic so y
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
-****

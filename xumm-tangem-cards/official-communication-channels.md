@@ -4,11 +4,15 @@ description: Official communication channels for Xumm
 
 # Official communication channels
 
-For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) located in Xumm.
+For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image (15).png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
+
+<figure><img src="../.gitbook/assets/Xumm Support xApp.png" alt=""><figcaption></figcaption></figure>
+
+## The official Xumm blog  <a href="#h_e9d18079e4" id="h_e9d18079e4"></a>
+
+* [**https://blog.xumm.app/**](https://blog.xumm.app/)
 
 
-
-## Xumm <a href="#h_e9d18079e4" id="h_e9d18079e4"></a>
 
 * [**@XummWallet**](https://twitter.com/XummWallet) (news & updates) on Twitter
 * [**@XummSupport**](https://twitter.com/XummSupport) (questions & troubleshooting) on Twitter

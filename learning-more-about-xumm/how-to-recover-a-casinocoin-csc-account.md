@@ -2,7 +2,7 @@
 description: Recovering an XRPL account created during the CasinoCoin swap
 ---
 
-# How to recover a swapped Casinocoin (CSC) account
+# How to recover a Casinocoin (CSC) account
 
 ### If you have your s... Secret&#x20;
 
@@ -28,4 +28,4 @@ CasinoCoin has not released an official video, but one of the XRPL community mem
 
 * [CSC Swap Account Recovery](https://www.youtube.com/watch?v=fVeOKCOsKpM)
 
-#### ****
+####

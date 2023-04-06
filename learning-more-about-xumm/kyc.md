@@ -34,7 +34,7 @@ The KYC process requires that you have an official government issued document to
 
 For a current list of supported documents, please refer to this link:
 
-* ****[**List of supported documents and counties**](https://www.veriff.com/supported-countries)&#x20;
+* [**List of supported documents and counties**](https://www.veriff.com/supported-countries)&#x20;
 
 #### **What about Xumm Pro (Beta)?**&#x20;
 
@@ -42,7 +42,7 @@ When you subscribe to Xumm Pro (Beta), you will have the option to go through th
 
 Because we only want to support trustworthy profiles & to prevent imposters, your avatar & display name will be compared to your KYC government ID information. This way, everybody in the ecosystem will be able to trust other users and their profiles, names, avatars, if they have a Pro Beta subscription.
 
-* ****[**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)****
+* [**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)
 
 #### **Do I need to go through KYC to use your On/Off-Ramp service?**&#x20;
 
@@ -90,10 +90,10 @@ We are super excited about the release of Xumm Pro Beta! 🎉.&#x20;
 
 You can learn all about it here:
 
-* &#x20;[**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)****
+* &#x20;[**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)
 
 ### **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **** [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

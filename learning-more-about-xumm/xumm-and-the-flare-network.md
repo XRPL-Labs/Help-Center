@@ -100,7 +100,7 @@ For support on anything to do with Flare, please visit their website here:
 
 No. FLR is the native token on the Flare blockchain. The Flare blockchain and the XRPL are separate and incompatible networks. You can not access the Flare network with Xumm.
 
-****\
+\
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.

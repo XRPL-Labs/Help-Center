@@ -16,7 +16,7 @@ You have followed our recommendations and have created a Primary account on one 
 
 If your _Signing account_ card is lost, stolen or damaged, you would simply "unlink" the card from your Primary account by removing the regular key. Here is how to this:
 
-* ****[**How to "unlink" and Xumm (Tangem) card account**](how-to-remove-a-regular-key-from-a-card.md)****
+* [**How to "unlink" and Xumm (Tangem) card account**](how-to-remove-a-regular-key-from-a-card.md)
 
 ### Case 2 - Primary account is LSD
 
@@ -58,4 +58,3 @@ You have not created a backup account.
 
 You have configured a backup to another XRPL account.&#x20;
 
-_****_

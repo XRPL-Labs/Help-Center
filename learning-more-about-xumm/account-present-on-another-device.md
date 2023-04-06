@@ -37,7 +37,7 @@ Move your funds out of your XRPL account immediately!
 * If you have a **Xumm (Tangem) account**, move your funds to this account. The account secret is stored on the card and as long as you have configured it correctly, your account can not be accessed without physical access to your cards. (Primary and Signing)
 * If do not have a Xumm (Tangem) account but you have an **exchange** account, it might make sense to move your funds there.&#x20;
 * If do not have a Xumm (Tangem) account but you have an **hardware** wallet, it might make sense to move your funds there. (Although some hardware wallets are less secure than exchange accounts.
-* If do not have a Xumm (Tangem) account, you could consider [**re-keying**](../getting-started-with-xumm/how-to-rekey-your-account.md) your account then [**disabling the master key**](../getting-started-with-xumm/how-to-disable-the-master-key.md)****
+* If do not have a Xumm (Tangem) account, you could consider [**re-keying**](../getting-started-with-xumm/how-to-rekey-your-account.md) your account then [**disabling the master key**](../getting-started-with-xumm/how-to-disable-the-master-key.md)
 
 
 

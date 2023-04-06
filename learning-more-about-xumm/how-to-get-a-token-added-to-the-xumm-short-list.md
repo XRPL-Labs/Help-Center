@@ -39,7 +39,7 @@ Make sure that you visit the XRPL Foundation assessment site and thoroughly revi
 
 * [info@xrplf.org](mailto:info@xrplf.org)
 
-&#x20;****&#x20;
+&#x20;
 
 **Additional reading**
 

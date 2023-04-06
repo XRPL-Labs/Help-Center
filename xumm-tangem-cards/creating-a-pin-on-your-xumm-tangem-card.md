@@ -46,6 +46,5 @@ We understand that you might have additional questions regarding this topic so y
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
-****
 
-****
+
