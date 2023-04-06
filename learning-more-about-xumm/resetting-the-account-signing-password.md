@@ -28,8 +28,8 @@ If you selected **Extra security** you would have created a separate signing pas
 1. Launch Xumm and press **Settings** -> **Accounts** -> then press the **Edit** button beside the account to be removed.
 2. Select **Remove from Xumm** then **Yes, I’m Sure**’ on the warning screen.
 
-{% hint style="info" %}
-Note: This assumes that you have the passcode to remove the account. If you do not have the passcode (or your passcode does not work), you are going to need uninstall Xumm, then reinstall in Xumm then move on to Step 2 below.
+{% hint style="warning" %}
+Note: This assumes that you have the passcode to remove the account. If you do not have the passcode (or your passcode does not work), you are going to need **uninstall** Xumm, then **reinstall** in Xumm then move on to Step 2 below.
 {% endhint %}
 
 ### Step 2 - Import your account secret back into Xumm
