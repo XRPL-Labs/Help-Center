@@ -4,6 +4,12 @@ description: Official communication channels for Xumm
 
 # Official communication channels
 
+{% hint style="danger" %}
+Important!\
+\
+We no longer provide customer support for Xumm via Twitter. Do not fill out forms on social media. Do not reply to DM's from people claiming to be "Xumm Support". The **only 100% trustworthy** way to reach us is via the Xumm Support xApp.
+{% endhint %}
+
 ### Xumm customer support
 
 For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image.png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
@@ -18,12 +24,6 @@ For all customer support and technical questions related to the Xumm application
 
 * [**@XummWallet**](https://twitter.com/XummWallet)&#x20;
 * [**@XummSupport**](https://twitter.com/XummSupport)
-
-{% hint style="danger" %}
-Important!\
-\
-We no longer provide customer support for Xumm via Twitter. Do not fill out forms on social media. Do not reply to DM's from people claiming to be "Xumm Support". The **only 100% trustworthy** way to reach us is via the Xumm Support xApp.
-{% endhint %}
 
 
 
