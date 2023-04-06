@@ -10,10 +10,6 @@ For all customer support and technical questions related to the Xumm application
 
 <figure><img src="../.gitbook/assets/Xumm Support xApp.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
-Please note: The **only 100% trustworthy** way to reach us is via the Xumm Support xApp!
-{% endhint %}
-
 ### Xumm blog  <a href="#h_e9d18079e4" id="h_e9d18079e4"></a>
 
 * [**https://blog.xumm.app/**](https://blog.xumm.app/)
