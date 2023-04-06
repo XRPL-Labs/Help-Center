@@ -4,6 +4,10 @@ description: How to reset the signing password on your account
 
 # Resetting the (account) signing password
 
+{% hint style="danger" %}
+This article assumes that you have the account secret for your XRP Ledger account. You **must** know the account secret in order to proceed. You will not be able to access your XRPL account without it.
+{% endhint %}
+
 ### **Background**
 
 When Xumm is installed, you are presented with the option to select Standard security or Extra security.
