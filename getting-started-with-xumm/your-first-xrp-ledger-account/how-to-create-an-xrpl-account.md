@@ -26,7 +26,7 @@ You will need to **carefully** write all of the numbers down in the correct orde
 
 <figure><img src="../../.gitbook/assets/Secret numbers - 2.png" alt=""><figcaption></figcaption></figure>
 
-The next part of the process is to manually enter all of the secret numbers back into Xumm. You can use the <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line">buttons and the <img src="../../.gitbook/assets/image (11) (2).png" alt="" data-size="line">buttons to do this. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
+The next part of the process is to manually enter all of the secret numbers back into Xumm. You can use the <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line">buttons and the <img src="../../.gitbook/assets/image (11) (2).png" alt="" data-size="line">buttons to do this. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
 
 
 <figure><img src="../../.gitbook/assets/Public address - 1.png" alt=""><figcaption></figcaption></figure>

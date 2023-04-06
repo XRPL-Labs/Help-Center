@@ -4,9 +4,9 @@ description: Official communication channels for Xumm
 
 # Official communication channels
 
-### Xumm customer/technical support
+### Xumm customer support
 
-For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image (12).png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
+For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image.png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
 
 <figure><img src="../.gitbook/assets/Xumm Support xApp.png" alt=""><figcaption></figcaption></figure>
 
