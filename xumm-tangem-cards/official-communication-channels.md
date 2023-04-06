@@ -6,7 +6,7 @@ description: Official communication channels for Xumm
 
 ### Xumm customer/technical support
 
-For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image.png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
+For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image (12).png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
 
 <figure><img src="../.gitbook/assets/Xumm Support xApp.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,16 +22,14 @@ For all customer support and technical questions related to the Xumm application
 {% hint style="danger" %}
 Important!\
 \
-We no longer provide customer support for Xumm via Twitter. The **only 100% trustworthy** way to rach us is via the Xumm Support xApp.&#x20;
+We no longer provide customer support for Xumm via Twitter. Do not fill out forms on social media. Do not reply to DM's from people claiming to be "Xumm Support". The **only 100% trustworthy** way to reach us is via the Xumm Support xApp.
 {% endhint %}
 
 
 
-* Suggestions & upvote at [**https://feedback.xumm.dev**](https://feedback.xumm.dev/)
+### Suggestions and Feedback
 
-&#x20;The \*ONLY\* 100% trustworthy channel for[@XummWallet](https://twitter.com/XummWallet)support is through our in-app support. Forms on social media? Scams. DM's by so called Xumm Support? Scams. Stay vigilant. Xumm offers in app support. Use it.
-
-
+* [**https://feedback.xumm.dev**](https://feedback.xumm.dev/)
 
 ### Xumm Domain names <a href="#h_772bad7bdc" id="h_772bad7bdc"></a>
 
