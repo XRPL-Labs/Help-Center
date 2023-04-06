@@ -4,23 +4,28 @@ description: Official communication channels for Xumm
 
 # Official communication channels
 
-For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image (15).png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
+### Xumm customer/technical support
+
+For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
 
 <figure><img src="../.gitbook/assets/Xumm Support xApp.png" alt=""><figcaption></figcaption></figure>
 
-## The official Xumm blog  <a href="#h_e9d18079e4" id="h_e9d18079e4"></a>
+{% hint style="danger" %}
+Please note: The **only 100% trustworthy** way to reach us is via the Xumm Support xApp!
+{% endhint %}
+
+### Xumm blog  <a href="#h_e9d18079e4" id="h_e9d18079e4"></a>
 
 * [**https://blog.xumm.app/**](https://blog.xumm.app/)
 
-
+### Follow us on Twitter
 
 * [**@XummWallet**](https://twitter.com/XummWallet) (news & updates) on Twitter
-* [**@XummSupport**](https://twitter.com/XummSupport) (questions & troubleshooting) on Twitter
-* E-mail support: [**support@xumm.app**](mailto:support@xumm.app)
-* FAQ and Web Chat at&#x20;
+* [**@XummSuppor**](https://twitter.com/XummSupport)**t**
+*
 * Suggestions & upvote at [**https://feedback.xumm.dev**](https://feedback.xumm.dev/)
 
-&#x20;
+&#x20;The \*ONLY\* 100% trustworthy channel for[@XummWallet](https://twitter.com/XummWallet)support is through our in-app support. Forms on social media? Scams. DM's by so called Xumm Support? Scams. Stay vigilant. Xumm offers in app support. Use it.
 
 
 
