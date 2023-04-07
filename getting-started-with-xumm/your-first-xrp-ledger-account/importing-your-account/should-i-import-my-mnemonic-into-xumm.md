@@ -53,7 +53,13 @@ The truth is, determining how "safe" a particular wallet is does not come down t
 
 The most secure wallet in the world is useless if you voluntarily give your account secret away and the best cold wallet on the planet is not going to help keep your funds safe if the computer that you put in into is compromised.&#x20;
 
-You are welcome to import your XRPL account managed by your Ledger device into Xumm, please consider what your plans are when it comes to your funds. How are you plan
+You are welcome to import your XRPL account managed by your Ledger device into Xumm, but please consider what your plans are when it comes to your funds before you do so. How are you planning on interacting with the XRP Ledger? Are you interested airdrops? Trading on the XRPL DEX? NFTs? Gambling? Gift cards? Creating tokens? Escrows?&#x20;
+
+This article should help you decide:
+
+
+
+
 
 &#x20;&#x20;
 
