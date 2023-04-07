@@ -26,6 +26,7 @@
   * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
 * [Importing your account](getting-started-with-xumm/importing-your-account/README.md)
   * [Should I import my XRPL account into Xumm?](getting-started-with-xumm/your-first-xrp-ledger-account/importing-your-account/should-i-import-my-mnemonic-into-xumm.md)
+  * [Should I import my XRPL account into Xumm?](getting-started-with-xumm/importing-your-account/should-i-import-my-xrpl-account-into-xumm.md)
   * [...with Secret Numbers](getting-started-with-xumm/importing-your-account/...with-secret-numbers.md)
   * [...with a Family Seed](getting-started-with-xumm/importing-your-account/...with-a-family-seed.md)
   * [...with a Mnemonic](getting-started-with-xumm/importing-your-account/...with-a-mnemonic.md)
