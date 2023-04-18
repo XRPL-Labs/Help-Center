@@ -20,7 +20,7 @@ In most countries around the world, the local police departments are getting bet
 
 ### **Why can't Xumm just reverse the transactions and get my funds back?**
 
-The XRP Ledger does not have any administrative functions built into it, so there is no way for Xumm or anyone else to modify or change a completed transaction. &#x20;
+Transactions on the XRP Ledger can not be reversed, blocked or "undone". (The XRPL does not have any administrative functions built into it, so there is no way for Xumm or anyone else to modify or change a completed transaction.) &#x20;
 
 ### **Why can't I just change my 6 digit passcode or my signing password?**
 
@@ -67,7 +67,7 @@ After you have contacted the police, you should consider doing the following:
 **Android**
 
 \
-For instructions on how to wipe your Android phone, contact your phone manufacture.
+For instructions on how to wipe your Android phone, contact your phone manufacturer.
 
 ### Moving forward
 
