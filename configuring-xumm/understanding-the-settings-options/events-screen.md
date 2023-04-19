@@ -23,3 +23,8 @@ This tab shows the most recent **1000** transactions.
 
 <figure><img src="../../.gitbook/assets/Events tab - All.png" alt=""><figcaption></figcaption></figure>
 
+The **Planned** tab displays the historical events which were written to the XRP Ledger for your XRPL account.
+
+<figure><img src="../../.gitbook/assets/Events tab - Planned.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Events tab - Requests.png" alt=""><figcaption></figcaption></figure>
