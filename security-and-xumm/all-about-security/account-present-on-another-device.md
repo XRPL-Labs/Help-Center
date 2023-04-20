@@ -64,6 +64,19 @@ Once you have taken the steps to secure your phone, you need to consider if/how 
 
 * Have you entered your account secret into a web form? Into another wallet? Into a website?
 * Have you stored your account secret on your computer? On your phone? On the internet?
+* Have you given your account secret to anyone?
+
+If you can not figure out how your account might have been compromised, it is a good idea to create a new XRP Ledger account then transfer your assets to your new account. This way, you will get a new set of secret numbers and you can ensure no one buy you has access to them.
+
+This article explains how to create a new XRP Ledger account using Xumm:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr></tbody></table>
+
+For more information about this, check out this article:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xumm?</td><td></td><td></td><td><a href="how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../../.gitbook/assets/Tokens and coins -2.png">Tokens and coins -2.png</a></td></tr></tbody></table>
+
+&#x20;
 
 **Notes**
 
