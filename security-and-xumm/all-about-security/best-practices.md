@@ -17,3 +17,9 @@ By limiting the location of where you use the card(s), you limit to potential pl
 Some people have gone so far as to have multiple Xumm (Tangem) accounts and divide their funds between them. Having your funds spread out in several different accounts, ensures that if someone were to somehow get access to one account, they would not get access to all of your funds. &#x20;
 
 &#x20;    3\) Having a dedicated "spending" account further limits your potential loss in case your account is compromised. A separate spending account that you actively manage helps to keep your "savings account(s)" safe by only exposing it to the world. Your Tangem card(s) remain at home, in a safe environment.&#x20;
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
