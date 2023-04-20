@@ -170,10 +170,8 @@ Finally, Xumm will run regardless if XRPL Labs exists or not. Xumm does not need
 * **Xumm is designed with security in mind. Security is number one priority (but Xumm can’t be safer than your device and your own practices are)**
 * **Xumm Tangem cards are the best solution for maximum security**
 
-
-
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
