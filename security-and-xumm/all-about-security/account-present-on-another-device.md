@@ -43,21 +43,24 @@ Move your funds out of your XRPL account immediately!
 
 ### Dealing with a compromised phone
 
-Once your funds have been moved to a safe location, you need to consider if/how your phone was compromised, things like:&#x20;
+Once your funds have been moved to a safe location, you need to consider if/how your phone was compromised. Things like:&#x20;
 
 * Have you recently updated your phone? The operating system?
 * Have you recently installed a new application on your phone?
 * Have you recently updated any applications on your phone?
 * Have you recently visited "questionable" website?
 * Have you recently installed any web extensions?
+* Have you recently downloaded any files to your phone?
 
 It is highly recommended that your take the necessary steps to make sure your mobile device is secure before you continue. Having a secure phone is vital before moving funds back into self-custody. For more information about this, check out this article:
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xumm?</td><td></td><td></td><td><a href="how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../../.gitbook/assets/Tokens and coins -2.png">Tokens and coins -2.png</a></td></tr></tbody></table>
 
 &#x20;
 
 ### Dealing with a compromised account
 
-Once your funds have been moved to a safe location, you need to consider if/how your phone was compromised, things like:&#x20;
+Once you have taken the steps to secure your phone, you need to consider if/how your XRPL account might have been compromised. Things like:&#x20;
 
 * Have you entered your account secret into a web form? Into another wallet? Into a website?
 * Have you stored your account secret on your computer? On your phone? On the internet?
