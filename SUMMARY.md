@@ -69,7 +69,6 @@
 * [NFTs](learning-more-about-xumm/nfts.md)
 * [Does Xumm offer Staking?](learning-more-about-xumm/does-xumm-offer-staking.md)
 * [I've been scammed!](learning-more-about-xumm/ive-been-scammed.md)
-* [Account present on another device](learning-more-about-xumm/account-present-on-another-device.md)
 * [How to take a screenshot](learning-more-about-xumm/how-to-take-a-screenshot.md)
 
 ## Configuring Xumm
@@ -161,6 +160,7 @@
   * [Xumm Tangem Cards](security-and-xumm/all-about-security/xumm-tangem-cards.md)
   * [2FA and Xumm](security-and-xumm/all-about-security/2fa-and-xumm.md)
   * [Quantum Attacks and Xumm](security-and-xumm/all-about-security/quantum-attacks-and-xumm.md)
+  * [Account present on another device](security-and-xumm/all-about-security/account-present-on-another-device.md)
 
 ## XRP Ledger resources
 

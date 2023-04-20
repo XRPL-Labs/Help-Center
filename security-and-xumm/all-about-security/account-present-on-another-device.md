@@ -8,11 +8,11 @@ description: >-
 
 You have just received the following message in Xumm:
 
-<figure><img src="../.gitbook/assets/Account Present.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Account Present.png" alt=""><figcaption></figcaption></figure>
 
 ### Explanation
 
-In most cases, this is an automated message sent when you get a new phone and install Xumm for the first time. Once you import your existing account secret into Xumm, it recognizes that you have a new device which sends the above notification.
+In most cases, this is an automated message sent when you get a new phone and install Xumm for the first time. Once you import your existing account secret into Xumm, it recognizes that you have a new device and sends the above notification.
 
 If you just imported your account into a new device, there is nothing to worry about.
 
@@ -26,7 +26,7 @@ Normally the account had been installed on two devices and one of those devices 
 
 ### Take this warning seriously!
 
-Our goal here is to warn you that something is possibly wrong with your account and your mobile device. This is not something that just happens. This section **only applies if this is unexpected and you didn't import your account on a new or replaced device.**
+Our goal here is to warn you that something is possibly wrong with your account and your mobile device. This is not something that just happens. This section **only applies if this message is unexpected and you didn't import your account on a new or replaced device.**
 
 If you have not imported your account on a new/replacement device, it is possible that your entire device could be compromised, (user names, passwords, account information, etc.) and could be at risk.  If there is even a chance of this, it is time to act **immediately**.&#x20;
 
@@ -35,14 +35,14 @@ Move your funds out of your XRPL account immediately!
 {% endhint %}
 
 * If you have a **Xumm (Tangem) account**, move your funds to this account. The account secret is stored on the card and as long as you have configured it correctly, your account can not be accessed without physical access to your cards. (Primary and Signing)
-* If do not have a Xumm (Tangem) account but you have an **exchange** account, it might make sense to move your funds there.&#x20;
+* If do not have a Xumm (Tangem) account but you have an **exchange** account, it might make sense to temporarily move your funds there.&#x20;
 * If do not have a Xumm (Tangem) account but you have an **hardware** wallet, it might make sense to move your funds there. (Although some hardware wallets are less secure than exchange accounts.
-* If do not have a Xumm (Tangem) account, you could consider [**re-keying**](../getting-started-with-xumm/how-to-rekey-your-account.md) your account then [**disabling the master key**](../getting-started-with-xumm/how-to-disable-the-master-key.md)
+* If do not have a Xumm (Tangem) account, you could consider [**re-keying**](../../getting-started-with-xumm/how-to-rekey-your-account.md) your account then [**disabling the master key**](../../getting-started-with-xumm/how-to-disable-the-master-key.md)
 
 
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
