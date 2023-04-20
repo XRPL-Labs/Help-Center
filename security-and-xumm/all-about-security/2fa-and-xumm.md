@@ -86,3 +86,5 @@ XRP Ledger accounts created using Xumm are already incredibly safe but we certai
 Instead of using a hardware wallet, or a static, written down secret (that can't be used easily), the Xumm Tangem cards contain a chip and use NFC ([near field communication](https://nl.wikipedia.org/wiki/Near-field\_communication)). The chip **generates** an account secret, while being powered using NFC (by your iOS/Android device). This means the cards are shipped without an account secret on them, and can only be generated on the card, by the owner of the card. The chip used in Xumm Tangem cards offers bank grade security and have been fully audited.
 
 If you are interested in learning more about the cards, check out this article:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td></tr></tbody></table>
