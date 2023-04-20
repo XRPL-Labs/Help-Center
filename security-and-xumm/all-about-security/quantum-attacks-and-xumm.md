@@ -98,3 +98,9 @@ But assuming that someone is dumb enough to try to attack my account, (rather th
 2. Create a new XRPL account and re-key my existing account to point to my new account then disable the master key on my existing account and leave it alone, As long as I do not perform any transactions on the new re-keyed account, it will not be vulnerable to quantum attacks.
 
 The current encryption methods were not meant to remain secure indefinitely. Even when quantum cryptography arrives, it will only replace current cryptographic methods until the next class of computers arrive. (Which will probably be ones that can overcome the Church-Turning thesis) At that time quantum cryptography will become obsolete. After that, I’m sure another system based on a yet-to-be-determined branch of physics will make all other forms of cryptography useless. The cycle never ends.
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
