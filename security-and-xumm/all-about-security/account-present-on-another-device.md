@@ -70,7 +70,7 @@ If you can not figure out how your account might have been compromised, it is a 
 
 This article explains how to create a new XRP Ledger account using Xumm:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to create an XRPL account</td><td></td><td></td><td><a href="../../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="../../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
 
 For more information about this, check out this article:
 
