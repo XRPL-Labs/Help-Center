@@ -43,18 +43,24 @@ Move your funds out of your XRPL account immediately!
 
 ### Dealing with a compromised phone
 
-Once your funds have been moved to a safe location, you need to consider how your phone or account was compromised, things like:&#x20;
+Once your funds have been moved to a safe location, you need to consider if/how your phone was compromised, things like:&#x20;
 
-* Have you entered your account secret into a web form? Into another wallet? Into a website?
-* Have you stored your account secret on your computer? On your phone? On the internet?
 * Have you recently updated your phone? The operating system?
 * Have you recently installed a new application on your phone?
+* Have you recently updated any applications on your phone?
+* Have you recently visited "questionable" website?
+* Have you recently installed any web extensions?
 
-It is highly recommended that your take the necessary steps to make sure your mobile device is secure before you consiis highly recommended before&#x20;
+It is highly recommended that your take the necessary steps to make sure your mobile device is secure before you continue. Having a secure phone is vital before moving funds back into self-custody. For more information about this, check out this article:
+
+&#x20;
 
 ### Dealing with a compromised account
 
+Once your funds have been moved to a safe location, you need to consider if/how your phone was compromised, things like:&#x20;
 
+* Have you entered your account secret into a web form? Into another wallet? Into a website?
+* Have you stored your account secret on your computer? On your phone? On the internet?
 
 **Notes**
 
