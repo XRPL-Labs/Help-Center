@@ -10,11 +10,13 @@ This article is currently under construction
 
 ### A hot wallet vs. a cold wallet
 
-When choosing between and hot or cold wallet, there are three primary things you need to consider:
+Basically a hot wallet and a cold wallet do the same thing. They store the account secret (Secret numbers / Family Seed / Mnemonic) for your XRP Ledger account. That's all. They may store the account secret in various ways, but they all perform the exact same function...storing the private keys for your XRPL account.
+
+When it comes to choosing which type of wallet is best for you, there are three primary things you need to consider:
 
 * Your security habits and preferences
-* How easy you would like to access your funds
-* How much crypto you intend to hold in you XRPL account
+* How easily and how often you would like to interact with the XRP Ledger
+* How much XRP you intend to hold in you XRPL account
 
 #### Security
 
