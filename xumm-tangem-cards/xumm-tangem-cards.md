@@ -39,7 +39,7 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   No, you cannot. While all Tangem cards feature a bank grade secure chip, the chip is programmed to work only for crypto-currencies with Apps supporting the cards. ATM's and retail payment terminals **will not recognize** a Xumm (Tangem) card.\
 
 * **Can I use a Xumm Tangem card to pay bills, buy things in a store or pay for services?**\
-  This all depends if the business supports the XRP Ledger.  For example, if you have a VISA card and you go into a store that only accepts Mastercard, you can not use your VISA to pay for items in that store. Some stores will accept your VISA card, but some stores will not. The same applies to the XRP Ledger. If the business accepts XRP as a form of payment, you can certainly pay using the Xumm (Tangem) cards.\
+  This all depends if the business supports the XRP Ledger.  For example, if you have a debit card and you go into a store that only accepts cash, you can not use your debit card to pay for items in that store. Some stores will allow you to pay with your debit card, but some stores will not. The same applies to the XRP Ledger. If the business accepts XRP as a form of payment, you can certainly pay using the Xumm (Tangem) cards.\
   &#x20;
 * **Can I use an existing XRP Tangem cards with Xumm?**\
   Yes, definitely! All existing & future Tangem XRP cards will work with Xumm. All XRPL features will be available to all Tangem card owners using Xumm.\
