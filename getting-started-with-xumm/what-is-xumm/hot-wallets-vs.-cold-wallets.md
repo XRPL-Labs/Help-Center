@@ -8,9 +8,17 @@ description: Hot or cold? Which is better?
 This article is currently under construction
 {% endhint %}
 
-### A hot wallet vs. a cold wallet
+### What do hot and cold wallets do?
 
 Basically a hot wallet and a cold wallet do the same thing. They store the account secret (Secret numbers / Family Seed / Mnemonic) for your XRP Ledger account. That's all. They may store the account secret in various ways, but they all perform the exact same function...storing the private keys for your XRPL account.
+
+### What don't hot and cold wallets do?
+
+**Neither one** stores your XRP. Your XRP exists on the XRP Ledger, not in your wallet. You wallet stores the account secret for your account which allows you to access your XRP Ledger account. It does not store your crypto.
+
+Neither one&#x20;
+
+
 
 When it comes to choosing which type of wallet is best for you, there are three primary things you need to consider:
 
