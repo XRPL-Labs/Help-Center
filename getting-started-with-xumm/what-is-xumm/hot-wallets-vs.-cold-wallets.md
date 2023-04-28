@@ -28,6 +28,8 @@ When it comes to choosing which type of wallet is best for you, there are three 
 
 #### Security
 
+Xumm is an ecosystem specific wallet focused exclusively on the XRP Ledger and supports all tokens issued on the XRPL.
+
 A hot wallet such as Xumm stores your account secret on your mobile device. The assumption is that at some point, you will connect to the internet and that your account secret will be more vulnerable to potential attack vectors while online.
 
 A cold wallet stores your account secret on separate device. Since the device is not directly connected to the internet and exposed to the internet less frequently, it is less vulnerable to potential attack vectors and therefore somehow "safer".
