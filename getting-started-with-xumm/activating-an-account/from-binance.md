@@ -24,5 +24,9 @@ Make sure that you enter your **r-address** correctly and choose the correct net
 
 You should not need to enter anything into the MEMO field.
 
+<figure><img src="../../.gitbook/assets/Binance -5.png" alt=""><figcaption></figcaption></figure>
+
+Finally, **enter the amount of XRP** you would like to withdraw and press the **Withdraw** button.
+
 
 
