@@ -4,8 +4,6 @@ description: How to send XRP from Binance to Xumm(deposit)
 
 # From Binance
 
-### **How to do I send XRP from my** [**Crypto.com**](http://crypto.com/) **account to my XRP Ledger account managed by XUMM?** <a href="#how-to-do-i-send-xrp-from-my-crypto.com-account-to-my-xrp-ledger-account-managed-by-xumm" id="how-to-do-i-send-xrp-from-my-crypto.com-account-to-my-xrp-ledger-account-managed-by-xumm"></a>
-
 Go to the Binance website and sign into you Binance account, then choose the **Wallet** menu then **Fiat and Spot**.
 
 <figure><img src="../../.gitbook/assets/Binance -1.png" alt=""><figcaption></figcaption></figure>
