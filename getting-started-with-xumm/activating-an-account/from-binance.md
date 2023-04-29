@@ -4,7 +4,7 @@ description: How to send XRP from Binance to Xumm(deposit)
 
 # From Binance
 
-Go to the Binance website and sign into you Binance account, then choose the **Wallet** menu then **Fiat and Spot**.
+Go to the Binance website and sign into you Binance account, choose the **Wallet** menu then **Fiat and Spot**.
 
 <figure><img src="../../.gitbook/assets/Binance -1.png" alt=""><figcaption></figcaption></figure>
 
