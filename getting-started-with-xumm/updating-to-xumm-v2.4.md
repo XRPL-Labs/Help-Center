@@ -34,7 +34,7 @@ and...
 
 If you are interested in learning more about how Xumm interacts with NFTs, check out this article:
 
-* ****[**About NFTs**](../learning-more-about-xumm/nfts.md)****
+* [**About NFTs**](../learning-more-about-xumm/nfts.md)
 
 ### Improved security
 
@@ -44,7 +44,7 @@ We've improved our encryption algorithms in this version of Xumm! If you would l
 
 For more information on this, check out his article:
 
-****[**Upgrading your encryption**](../security-and-xumm/all-about-security/upgrading-your-encryption.md)****
+[**Upgrading your encryption**](../security-and-xumm/all-about-security/upgrading-your-encryption.md)
 
 ### More control over Third party apps&#x20;
 
@@ -56,11 +56,11 @@ In Xumm, press **Settings** then **Third party apps** to get a list of apps / si
 
 This was just a quick overview of a couple of the new features in this release but there are more if you are interested. Check out our release notes for more details:
 
-* ****[**Xumm v2.4 Release notes**](../release-notes/xumm-v2.4.md)****
+* [**Xumm v2.4 Release notes**](../release-notes/xumm-v2.4.md)
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
