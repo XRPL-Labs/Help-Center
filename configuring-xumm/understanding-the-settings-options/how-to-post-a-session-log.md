@@ -24,3 +24,6 @@ On the Session Log screen, press the **meatballs menu**
 
 <figure><img src="../../.gitbook/assets/Session Log - 2.png" alt=""><figcaption></figcaption></figure>
 
+then press the **Copy** option.
+
+<figure><img src="../../.gitbook/assets/Copy option.png" alt=""><figcaption></figcaption></figure>
