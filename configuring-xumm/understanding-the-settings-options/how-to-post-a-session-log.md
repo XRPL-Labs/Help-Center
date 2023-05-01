@@ -19,3 +19,8 @@ Tap the **Advanced** option.
 Tap the **Session Log** option.
 
 <figure><img src="../../.gitbook/assets/Session log option.png" alt=""><figcaption></figcaption></figure>
+
+On the Session Log screen, press the **meatballs menu**
+
+<figure><img src="../../.gitbook/assets/Session Log - 2.png" alt=""><figcaption></figcaption></figure>
+
