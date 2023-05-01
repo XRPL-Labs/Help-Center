@@ -27,3 +27,20 @@ On the Session Log screen, press the **meatballs menu**
 then press the **Copy** option.
 
 <figure><img src="../../.gitbook/assets/Copy option.png" alt=""><figcaption></figcaption></figure>
+
+Press the back arrow.
+
+Press the back arrow again.
+
+Press Questions & Support
+
+Press Ask a question (New ticket) or choose an open ticket.
+
+Press Write a reply.
+
+Press and hold inside the text box then choose Paste.
+
+
+
+&#x20;
+
