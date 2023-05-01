@@ -77,6 +77,7 @@
   * [How to take a screenshot](configuring-xumm/understanding-the-settings-options/how-to-take-a-screenshot.md)
   * [Events screen](configuring-xumm/understanding-the-settings-options/events-screen.md)
   * [Security screen](configuring-xumm/understanding-the-settings-options/security-screen.md)
+  * [How to post a Session Log](configuring-xumm/understanding-the-settings-options/how-to-post-a-session-log.md)
 
 ## XUMM (TANGEM) CARDS
 
