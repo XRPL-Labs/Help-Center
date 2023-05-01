@@ -11,3 +11,11 @@ To view attach a Session Log to an Xumm Support ticket, please follow these inst
 Launch Xumm, then press the **Settings** button.&#x20;
 
 <figure><img src="../../.gitbook/assets/Settings button.png" alt=""><figcaption></figcaption></figure>
+
+Tap the **Advanced** option.
+
+<figure><img src="../../.gitbook/assets/Advanced button.png" alt=""><figcaption></figcaption></figure>
+
+Tap the **Session Log** option.
+
+<figure><img src="../../.gitbook/assets/Session log option.png" alt=""><figcaption></figcaption></figure>
