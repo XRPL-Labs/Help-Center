@@ -28,11 +28,15 @@ then press the **Copy** option.
 
 <figure><img src="../../.gitbook/assets/Copy option.png" alt=""><figcaption></figcaption></figure>
 
-Press the back arrow.
+Press the **back arrow**.
 
-Press the back arrow again.
+<figure><img src="../../.gitbook/assets/Session Log - 3.png" alt=""><figcaption></figcaption></figure>
 
-Press Questions & Support
+Press the **back arrow** again.
+
+<figure><img src="../../.gitbook/assets/Session log - option - 2.png" alt=""><figcaption></figcaption></figure>
+
+Press **Questions & Support** option
 
 Press Ask a question (New ticket) or choose an open ticket.
 
