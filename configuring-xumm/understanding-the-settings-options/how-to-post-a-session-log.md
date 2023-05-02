@@ -44,8 +44,6 @@ If you are already dealing with a support agent and they have requested that you
 
 Press **Write a reply**.
 
-<figure><img src="../../.gitbook/assets/Write a reply.png" alt=""><figcaption></figcaption></figure>
-
 Press and **hold inside the text box** then choose **Paste**.
 
 <figure><img src="../../.gitbook/assets/Add a Reply.png" alt=""><figcaption></figcaption></figure>
