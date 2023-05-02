@@ -38,13 +38,21 @@ Press the **back arrow** again.
 
 Press **Questions & Support** option
 
-Press Ask a question (New ticket) or choose an open ticket.
+<figure><img src="../../.gitbook/assets/Questions and Support option.png" alt=""><figcaption></figcaption></figure>
 
-Press Write a reply.
+If you are already dealing with a support agent and they have requested that you send a Session Log, choose **the ticket you have been working with**. (Otherwise, choose **Ask a question**)
 
-Press and hold inside the text box then choose Paste.
+Press **Write a reply**.
 
+<figure><img src="../../.gitbook/assets/Write a reply.png" alt=""><figcaption></figcaption></figure>
 
+Press and **hold inside the text box** then choose **Paste**.
 
-&#x20;
+<figure><img src="../../.gitbook/assets/Add a Reply.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
