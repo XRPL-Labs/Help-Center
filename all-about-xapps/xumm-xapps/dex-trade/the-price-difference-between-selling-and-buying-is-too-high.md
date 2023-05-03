@@ -1,3 +1,7 @@
+---
+description: The price difference between selling and buying is too high
+---
+
 # The price difference between selling and buying is too high
 
 ### Situation
@@ -23,7 +27,38 @@ A market order is a transaction that tries to buy or sell tokens at the best ava
 
 ### How Xumm works
 
-Any market order placed on the DEX tries to buy/sell the tokens **immediately** based on the current order books and token liquidity. We built safety features into Xumm that prevents unexpected results when placing an order so, if the **Spread is more than 4%**, you will receive above message.
+Any market order placed on the DEX tries to buy/sell the tokens **immediately** based on the current order books and token liquidity. We built safety features into Xumm that prevents unexpected results when placing an order so, if the **Spread is more than 4%**, you will receive above message. In other words, Xumm does not allow the instant market swap/trade on a token pair that results in a user receiving significantly less than the current spot price. (Which could happen with illiquid tokens.) If Xumm allowed this to happen, you could lose a significant percentage of your funds if you decided to trade back to your original asset.
 
-Xumm does not allow the instant market swap/trade on a token pair that results in a user receiving significantly less than the current spot price. (Which could happen with illiquid tokens.) If Xumm allowed this to happen, you would lose a significant percentage of your funds if you decided to trade back to your original asset.
+### How to exchange tokens
 
+{% hint style="danger" %}
+Only proceed if you understand and accept that by trading the selected asset you are at risk of getting bad exchange rates.&#x20;
+{% endhint %}
+
+Trading in assets that have low liquidity can be risky. One of the better options to limit this risk is to create a **limit order** and specify the exact price you would like your order to be executed at. This allows the DEX to match your order at your desired price when it becomes available.&#x20;
+
+Xumm comes with an xApp that will allow you to create a limit order called the [**DEX Trade xApp**](https://xumm.app/detect/xapp:xumm.dex).&#x20;
+
+
+
+### **What are these "3rd party Xumm enabled applications"?**
+
+There are several other ways to place orders on the DEX, but remember, dealing with illiquid tokens can result unexpected results.&#x20;
+
+*   Browser:
+
+    * [https://www.xrptoolkit.com](https://www.xrptoolkit.com/)
+    * [https://dex.onxrp.com](https://dex.onxrp.com/)
+    * [https://unhosted.exchange/?base=XRP\&quote=EUR\_rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq](https://unhosted.exchange/?base=XRP\&quote=EUR\_rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq)
+
+
+* xApp:
+  * Gatehub Trade - [https://gatehub.net/trade-xapp](https://gatehub.net/trade-xapp)
+  * DEX Trade - [https://xumm.app/detect/xapp:xumm.dex](https://xumm.app/detect/xapp:xumm.dex)
+  * Pathfinding - [https://xumm.app/detect/xapp:xumm.pathfinding](https://xumm.app/detect/xapp:xumm.pathfinding)
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

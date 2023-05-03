@@ -75,3 +75,7 @@ If, for whatever reason, your regular key gets compromised and the master key is
 &#x20;&#x20;
 
 Fully sign now with the regular key pair that you've just created 🎉
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
