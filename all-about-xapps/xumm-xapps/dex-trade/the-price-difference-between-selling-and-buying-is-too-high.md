@@ -27,7 +27,7 @@ A market order is a transaction that tries to buy or sell tokens at the best ava
 
 ### How Xumm works
 
-Any market order placed on the DEX tries to buy/sell the tokens **immediately** based on the current order books and token liquidity. We built safety features into Xumm that prevents unexpected results when placing an order so, if the **Spread is more than 4%**, you will receive above message. In other words, Xumm does not allow the instant market swap/trade on a token pair that results in a user receiving significantly less than the current spot price. (Which could happen with illiquid tokens.) If Xumm allowed this to happen, you could lose a significant percentage of your funds if you decided to trade back to your original asset.
+Any market order placed on the DEX tries to buy/sell the tokens **immediately** based on the current order books and token liquidity. We built safety features into Xumm that prevents unexpected results when placing an order so, if the **Spread is more than 4%**, you will receive above message. In other words, Xumm does not allow the instant market swap/trade of a token pair that results in a user receiving significantly less than the current spot price. (Which could happen with illiquid tokens.) If Xumm allowed this to happen, you could lose a significant percentage of your funds if you decided to trade back to your original asset.
 
 ### How to exchange tokens
 
