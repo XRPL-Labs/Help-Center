@@ -165,10 +165,10 @@ Finally, Xumm will run regardless if XRPL Labs exists or not. Xumm does not need
 
 ## **Ok. Summarize it for me.**
 
-* **Keep your phone safe, up to date and free of spyware and malware**
+* **Keep your phone safe (physically), up to date and free of spyware and malware**
+* **While security is our number one priority, Xumm can be made safer if you avoid risky interactions with the internet (eg. - public wifi, shady websites, etc.), install a good firewall and use a VPN when possible.**
 * **Never give your account secret (Secret Numbers/Family Seed/Mnemonic) to anyone, for any reason**
-* **Xumm is designed with security in mind. Security is number one priority (but Xumm can’t be safer than your device and your own practices are)**
-* **Xumm Tangem cards are the best solution for maximum security**
+* **Xumm (Tangem) cards are the best solution for long term storage, large account balances and maximum security**
 
 **Notes**
 
