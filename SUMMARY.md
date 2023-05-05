@@ -34,6 +34,7 @@
 * [Buying XRP](getting-started-with-xumm/buying-xrp.md)
   * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
   * [BTCDirect](getting-started-with-xumm/buying-xrp/btcdirect.md)
+  * [Guardarian](getting-started-with-xumm/buying-xrp/guardarian.md)
 * [Sending tokens to Xumm](getting-started-with-xumm/sending-tokens-to-xumm.md)
 * [Sending tokens from Xumm](getting-started-with-xumm/sending-tokens-from-xumm.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
