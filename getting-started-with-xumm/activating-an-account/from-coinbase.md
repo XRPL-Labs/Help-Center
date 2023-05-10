@@ -22,9 +22,7 @@ description: How to send XRP from Coinbase to Xumm (deposit)
 
 4. Select “**Yes, I’m sure**”.
 
-![https://support.xumm.app/hc/article\_attachments/5373253943314/mceclip2.png](https://support.xumm.app/hc/article\_attachments/5373253943314/mceclip2.png)
-
-mceclip2.png
+<figure><img src="../../.gitbook/assets/Coinbase - 4.png" alt=""><figcaption></figcaption></figure>
 
 ⚠️ Please note: When sending to your non custodial XRP Ledger account managed by Xumm, a destination tag/ XRP Tag is not required.
 
