@@ -28,15 +28,11 @@ description: How to send XRP from Coinbase to Xumm (deposit)
 
 5. Tap the **“Send now”** button and wait for Coinbase to process your transaction.
 
-![https://support.xumm.app/hc/article\_attachments/5373321238802/mceclip4.png](https://support.xumm.app/hc/article\_attachments/5373321238802/mceclip4.png)
-
-mceclip4.png
+<figure><img src="../../.gitbook/assets/Coinbase - 5.png" alt=""><figcaption></figcaption></figure>
 
 6. Press “**Done**”.
 
-![https://support.xumm.app/hc/article\_attachments/5373382279826/mceclip5.png](https://support.xumm.app/hc/article\_attachments/5373382279826/mceclip5.png)
-
-mceclip5.png
+<figure><img src="../../.gitbook/assets/Coinbase - 6.png" alt=""><figcaption></figcaption></figure>
 
 Your XRP will arrive in your XRP Ledger account managed with XUMM shortly 🎉
 
