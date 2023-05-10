@@ -18,9 +18,7 @@ description: How to send XRP from Coinbase to Xumm (deposit)
 
 3. **Enter your r-address** from Xumm, (No XRP Tag is needed.) then press “**Preview send**”.
 
-![https://support.xumm.app/hc/article\_attachments/5373402274962/mceclip6.png](https://support.xumm.app/hc/article\_attachments/5373402274962/mceclip6.png)
-
-mceclip6.png
+<figure><img src="../../.gitbook/assets/Coinbase - 3.png" alt=""><figcaption></figcaption></figure>
 
 4. Select “**Yes, I’m sure**”.
 
