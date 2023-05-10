@@ -2,21 +2,17 @@
 description: How to send XRP from Coinbase to Xumm (deposit)
 ---
 
-# From Coinbase to Xumm
+# From Coinbase
 
 #### **How to do I send XRP from my Coinbase account to my XRP Ledger account managed by XUMM?**
 
 1. Open the Coinbase app, select the "**Send"** button.
 
-![https://support.xumm.app/hc/article\_attachments/5373105352466/mceclip0.png](https://support.xumm.app/hc/article\_attachments/5373105352466/mceclip0.png)
-
-mceclip0.png
+<figure><img src="../../.gitbook/assets/Coinbase - 1.png" alt=""><figcaption></figcaption></figure>
 
 2. **Enter the amount** you would like to send to your XRP Ledger account Xumm then press, “**Continue**”.
 
-![https://support.xumm.app/hc/article\_attachments/5373403738002/mceclip7.png](https://support.xumm.app/hc/article\_attachments/5373403738002/mceclip7.png)
-
-mceclip7.png
+<figure><img src="../../.gitbook/assets/Coinbase - 2.png" alt=""><figcaption></figcaption></figure>
 
 ⚠️ Please note: If you are trying to activate an account on the XRP Ledger, you will need to send at least **10 XRP**
 
@@ -52,8 +48,6 @@ For your you convenience, we have created this short video to guide you through 
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **XUMM Support xApp** in XUMM or you can simply scan this QR code with XUMM and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png](https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png)
-
-Support\_banner.png
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
