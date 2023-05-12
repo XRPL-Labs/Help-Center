@@ -25,3 +25,7 @@ If you have imported an account in Read only mode and would like to convert it i
 then choose **Full access**.
 
 <figure><img src="../.gitbook/assets/Read only -3.png" alt=""><figcaption></figcaption></figure>
+
+3\) Press **Yes, I'm sure**.
+
+<figure><img src="../.gitbook/assets/Read only -5.png" alt=""><figcaption></figcaption></figure>
