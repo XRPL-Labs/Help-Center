@@ -18,6 +18,6 @@ If you have imported an account in Read only mode and would like to convert it i
 
 <figure><img src="../.gitbook/assets/Read only -1.png" alt=""><figcaption></figcaption></figure>
 
-2\) Press the&#x20;
+2\) Tap the **Access level** option.&#x20;
 
 <figure><img src="../.gitbook/assets/Read only -2.png" alt=""><figcaption></figcaption></figure>
