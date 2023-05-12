@@ -29,3 +29,9 @@ then choose **Full access**.
 3\) Press **Yes, I'm sure**.
 
 <figure><img src="../.gitbook/assets/Read only -5.png" alt=""><figcaption></figcaption></figure>
+
+4\) Choose the account secret type for your account.
+
+<figure><img src="../.gitbook/assets/Secret type.png" alt=""><figcaption></figcaption></figure>
+
+Note:&#x20;
