@@ -29,7 +29,7 @@ The safest way to protect your funds is to [**create a** **new XRPL account**](.
 * After a new account is generated, the [**account secret is encrypted**](../../security-and-xumm/all-about-security/upgrading-your-encryption.md) and immediately stored in Xumm. The AES 512-GCM algorithm we use to encrypt it exceptionally secure.  &#x20;
 * If something were to ever "go wrong", it is much easier to narrow down the source of the issue. \
   \
-  Which one is easier to keep track of:
+  Which situation is easier to keep track of in your opinion?
 
 {% hint style="info" %}
 **Situation 1** - A customer generated an XRPL account on a website several years ago, then imported it into a random wallet they found on the internet. They upgraded their phone and imported the account into a different wallet on the new phone. After a couple of years, they replaced the phone and imported the account into another wallet for a few months before deciding to import it into Xumm.
@@ -39,7 +39,7 @@ The safest way to protect your funds is to [**create a** **new XRPL account**](.
 **Situation 2** - A customer got a new phone, installed Xumm, created a new account.
 {% endhint %}
 
-
+In most cases, situation 2 is much easier to troubleshoot.
 
 ### Frequently asked questions
 
