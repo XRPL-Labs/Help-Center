@@ -10,9 +10,13 @@ This article is currently under construction
 
 ### What is Banxa?
 
-Banxa is a financial technology platform who provides On/Off ramp solutions for XRP. Banxa is not a bank / authorised deposit taking institution. Crypto Assets are not FDIC-insured products.
+Banxa is a financial technology platform that provides On/Off ramp solutions for XRP. Banxa is not a bank / authorised deposit taking institution. Crypto Assets are not FDIC-insured products.
 
-### Where are the located?
+### What kind of partnership does Banxa have with Xumm?
+
+We have partnered with Banxa (among others) in order to provide On/Off-ramp services to our user around the world. &#x20;
+
+### Where are they located?
 
 Banxa has offices in:
 
@@ -32,8 +36,12 @@ Piet Heinkade 95b, 1019GM\
 Amsterdam\
 The Netherlands Au
 
-How do I contact Banxa if I have questions about their services?
+### How do I use their services via Xumm?
+
+### How do I contact Banxa if I have questions about their services?
 
 Banxa can be reached via their site at:
 
 {% embed url="https://support.banxa.com/en/support/tickets/new" %}
+
+###
