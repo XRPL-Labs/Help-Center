@@ -17,3 +17,7 @@ If you have imported an account in Read only mode and would like to convert it i
 1\) Launch Xumm then press the **Settings** button, choose **Accounts** then press the **Edit** button beside the account you would like to convert.
 
 <figure><img src="../.gitbook/assets/Read only -1.png" alt=""><figcaption></figcaption></figure>
+
+2\) Press the&#x20;
+
+<figure><img src="../.gitbook/assets/Read only -2.png" alt=""><figcaption></figcaption></figure>
