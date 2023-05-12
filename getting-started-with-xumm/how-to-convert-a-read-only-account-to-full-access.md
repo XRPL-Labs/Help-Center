@@ -34,4 +34,4 @@ then choose **Full access**.
 
 <figure><img src="../.gitbook/assets/Secret type.png" alt=""><figcaption></figcaption></figure>
 
-Note:&#x20;
+Note: Xumm is compatible with all industry standard account secrets. When you created your XRP Ledger account you would have received one of them. You need to have the correct account secret for your account.
