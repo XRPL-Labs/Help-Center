@@ -5,7 +5,7 @@ description: How to upgrade your account to a stronger encryption algorithm
 # Upgrading your encryption
 
 {% hint style="info" %}
-Before we continue, we want to assure you that the whichever version of Xumm that you are currently using is incredibly **safe**. Upgrading your accounts using our new algorithm simply increases the security from extremely secure to "even our security auditors feel we outdid ourselves secure". This process is completely optional and while we recommend that you go through the process, it is not required.&#x20;
+Before we continue, we want to assure you that the whichever version of Xumm that you are currently using, it is still **very** **safe**. Upgrading your accounts using our new algorithm simply increases the security from very secure to extremely secure. This process is completely optional and while we recommend that you go through the process, it is not required.&#x20;
 
 
 {% endhint %}
@@ -16,7 +16,7 @@ All versions of Xumm prior to v2.4 use the AES 256-CBC encryption algorithm to e
 
 ### Pushing the envelope...
 
-While the AES 256-CBC (Advanced Encryption Standard) still remains the encryption algorithm of choice for governments and financial institutions, it is still decades old and the latest AES 256-GCM algorithm is much more computationally complex. Updating Xumm to this enhanced standard just extends our lead in the crypto space and to be honest, Xumm users have come to expect nothing less than the best. If there was a better way to encrypt your private keys, we would have already implemented it.
+While the AES 256-CBC (Advanced Encryption Standard) still remains the encryption algorithm of choice for governments and financial institutions, it provides only confidentiality (encryption). AES-GCM is "state of the art", it's faster and provides both confidentiality and built-in authentication (integrity check). Updating Xumm to this enhanced standard just extends our lead in the crypto space and to be honest, Xumm users have come to expect nothing less than the best. If there was a better way to encrypt your private keys, we would have already implemented it.
 
 ### How to upgrade &#x20;
 
