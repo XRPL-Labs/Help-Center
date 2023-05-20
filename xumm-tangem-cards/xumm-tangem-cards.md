@@ -45,8 +45,15 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   Yes, definitely! All existing & future Tangem XRP cards will work with Xumm. All XRPL features will be available to all Tangem card owners using Xumm.\
 
 * **Can I use a Xumm (Tangem) card in the Tangem wallet application?**\
-  Yes. You can load a card into the Tangem wallet app, but the features of the app are limited to receiving and sending XRP. You will not be able to access your XRPL issued tokens, NFTs, escrows, etc. \
+  Yes. You can load a card into the Tangem wallet app, but the features of the app are limited to receiving and sending XRP. You will not be able to access your XRPL issued tokens, NFTs, escrows, etc.\
   &#x20;
+* **How do I purchase the cards?**\
+  You can purchase the cards via our website:\
+  [https://xrpl-labs.com/tangem/pricing](https://xrpl-labs.com/tangem/pricing)\
+  \
+  or via Xumm:\
+  [https://xumm.app/detect/xapp:xumm.tangem-order](https://xumm.app/detect/xapp:xumm.tangem-order)\
+
 * **Xumm Pro (Beta) is a paid subscription, do I need Pro to use Xumm (Tangem) cards?**\
   When you subscribe to Xumm Pro (Beta), you will receive two free Xumm (Tangem) cards with your order.(Note: Not all countries are eligible to receive the cards due to customs restrictions.) [**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)\
   &#x20;
