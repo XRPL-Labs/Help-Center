@@ -24,7 +24,10 @@ into the **Withdrawal Address** field:
 
 <figure><img src="../../.gitbook/assets/Mexc - 4.png" alt=""><figcaption></figcaption></figure>
 
-* The amount of XRP you would like to withdraw
-*
+4\) Confirm the **XRP** network.
+
+<figure><img src="../../.gitbook/assets/Mexc - 5.png" alt=""><figcaption></figcaption></figure>
+
+5\)&#x20;
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
