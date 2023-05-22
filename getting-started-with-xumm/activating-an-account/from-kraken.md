@@ -4,8 +4,6 @@ description: How to send XRP from Kraken to Xumm (deposit)
 
 # From Kraken
 
-#### **How to do I send XRP from my Kraken account to my XRP Ledger account managed by XUMM?**
-
 1. Sign into your account on the Kraken website.
 2. Select the “**Funding**” menu.
 
@@ -28,15 +26,13 @@ description: How to send XRP from Kraken to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/Kraken - 1d.png" alt=""><figcaption></figcaption></figure>
 
-**Note:** A Destination Tag/memo is not required when sending to a non custodial XRP Ledger account, like accounts managed with XUMM.
+**Note:** A Destination Tag/memo is not required when sending to a self-custodial XRP Ledger account, like accounts managed with Xumm.
 
 1. Press the “**Add withdrawal address**” button.
 
 **Note:** Your r-address in Xumm can be found on the main screen as indicated in this picture:
 
-####
-
-![https://support.xumm.app/hc/article\_attachments/4527760309906/mceclip8.png](https://support.xumm.app/hc/article\_attachments/4527760309906/mceclip8.png)
+<figure><img src="../../.gitbook/assets/raddress (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the “**OK**” button.
 
