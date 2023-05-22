@@ -32,4 +32,6 @@ into the **Withdrawal Address** field:
 
 <figure><img src="../../.gitbook/assets/Mexc - 6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+Note: Self-custodial accounts, (like the ones managed by Xumm), **do not** require a MEMO be entered.
+
+6\)&#x20;
