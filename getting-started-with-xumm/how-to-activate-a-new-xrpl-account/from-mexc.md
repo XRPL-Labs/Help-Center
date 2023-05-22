@@ -16,9 +16,13 @@ description: How to send XRP from Mexc to Xumm(deposit)
 
 <figure><img src="../../.gitbook/assets/Mexc - 3.png" alt=""><figcaption></figcaption></figure>
 
+3\) Copy your r-address from Xumm,
 
+<figure><img src="../../.gitbook/assets/raddress (1).png" alt=""><figcaption></figcaption></figure>
 
-3\) You need enter the following:
+into the **Withdrawal Address** field:
+
+<figure><img src="../../.gitbook/assets/Mexc - 4.png" alt=""><figcaption></figcaption></figure>
 
 * The amount of XRP you would like to withdraw
 *
