@@ -28,6 +28,8 @@ into the **Withdrawal Address** field:
 
 <figure><img src="../../.gitbook/assets/Mexc - 5.png" alt=""><figcaption></figcaption></figure>
 
-5\)&#x20;
+5\) Enter the amount you would like to withdraw (at least 12 XRP) then press press the **Withdraw** button.
+
+<figure><img src="../../.gitbook/assets/Mexc - 6.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
