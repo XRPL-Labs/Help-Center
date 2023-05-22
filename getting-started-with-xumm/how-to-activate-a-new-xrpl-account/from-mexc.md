@@ -37,3 +37,14 @@ Note: Self-custodial accounts, (like the ones managed by Xumm), **do not** requi
 6\) Press the **Confirm withdrawal** button.
 
 <figure><img src="../../.gitbook/assets/Mexc - 7.png" alt=""><figcaption></figcaption></figure>
+
+Note: You may need to verify the transaction before the transaction processes:
+
+<figure><img src="../../.gitbook/assets/Mexc - 8.png" alt=""><figcaption></figcaption></figure>
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+
