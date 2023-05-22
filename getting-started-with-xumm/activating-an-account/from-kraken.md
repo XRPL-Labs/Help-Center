@@ -44,14 +44,10 @@ description: How to send XRP from Kraken to Xumm (deposit)
 
 1. In the “Withdrawal amount” field, enter the amount of XRP you would like to send then press the “**Withdraw xx.xx XRP**” button.
 
-![https://support.xumm.app/hc/article\_attachments/5243253235346/mceclip9.png](https://support.xumm.app/hc/article\_attachments/5243253235346/mceclip9.png)
-
-mceclip9.png
+<figure><img src="../../.gitbook/assets/Kraken - 1g.png" alt=""><figcaption></figcaption></figure>
 
 **Notes**
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png](https://support.xumm.app/hc/article\_attachments/4420057706002/Support\_banner.png)
-
-Support\_banner.png
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
