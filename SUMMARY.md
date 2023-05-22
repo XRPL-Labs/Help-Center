@@ -13,7 +13,6 @@
 * [Installing Xumm](getting-started-with-xumm/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xumm/your-first-xrp-ledger-account/README.md)
   * [How to create an XRPL account](getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
-  * [Good ideas for storing your secret numbers](getting-started-with-xumm/your-first-xrp-ledger-account/good-ideas-for-storing-your-secret-numbers.md)
 * [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
   * [From Bitstamp](getting-started-with-xumm/activating-an-account/from-bitstamp.md)
   * [From Kraken](getting-started-with-xumm/activating-an-account/from-kraken.md)
