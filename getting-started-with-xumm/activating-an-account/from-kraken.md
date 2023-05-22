@@ -21,16 +21,12 @@ description: How to send XRP from Kraken to Xumm (deposit)
 
 1. Press the “**Add Ripple address**” button.
 
-![https://support.xumm.app/hc/article\_attachments/5243063955730/mceclip4.png](https://support.xumm.app/hc/article\_attachments/5243063955730/mceclip4.png)
-
-mceclip4.png
+<figure><img src="../../.gitbook/assets/Kraken - 1c.png" alt=""><figcaption></figcaption></figure>
 
 1. Enter the name of your Xumm account in the “**Address description**” field.
 2. Enter the r-address of your Xumm account to the “**Withdrawal address**” field.
 
-![https://support.xumm.app/hc/article\_attachments/5243104554898/mceclip6.png](https://support.xumm.app/hc/article\_attachments/5243104554898/mceclip6.png)
-
-mceclip6.png
+<figure><img src="../../.gitbook/assets/Kraken - 1d.png" alt=""><figcaption></figcaption></figure>
 
 **Note:** A Destination Tag/memo is not required when sending to a non custodial XRP Ledger account, like accounts managed with XUMM.
 
