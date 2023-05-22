@@ -14,3 +14,7 @@ description: How to send XRP from Uphold to XUMM (deposit)
 6. **Paste** your XRP Ledger account (managed with XUMM) address copied in the first step in the **XRP address** field. **Don’t enter a destination tag**, this is [**not required**](https://support.xumm.app/hc/en-us/articles/360018135860) for XRP Ledger accounts managed with XUMM
 7. **Confirm** your transaction
 8. Your XRP will arrive in your XRP Ledger account managed with XUMM shortly 🎉
+
+Note: For your you convenience, we have created this short video to guide you through the above steps.
+
+{% embed url="https://www.youtube.com/watch?v=IUVoApmooHs" %}

@@ -2,9 +2,7 @@
 description: How to send XRP from Bitstamp to Xumm (deposit)
 ---
 
-# From Bitstamp to Xumm
-
-#### How to withdraw XRP from Bitstamp to your XRP Ledger account managed with XUMM in the Bitstamp mobile app
+# From Bitstamp
 
 1. Open your XUMM app, and tap and hold your account address (r…) and **Copy** your account address
 2. Switch to the Bitstamp app, select **Wallet**

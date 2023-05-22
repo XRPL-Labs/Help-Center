@@ -34,7 +34,9 @@ description: How to send XRP from Coinbase to Xumm (deposit)
 
 Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
 
-For your you convenience, we have created this short video to guide you through the above steps.
+
+
+Note: For your you convenience, we have created this short video to guide you through the above steps.
 
 {% embed url="https://www.youtube.com/watch?v=RyzRS-rtbVc" %}
 
