@@ -21,6 +21,7 @@
   * [From Coinbase](getting-started-with-xumm/activating-an-account/from-coinbase.md)
   * [From Uphold](getting-started-with-xumm/activating-an-account/from-uphold.md)
   * [From Binance](getting-started-with-xumm/activating-an-account/from-binance.md)
+  * [From Mexc](getting-started-with-xumm/how-to-activate-a-new-xrpl-account/from-mexc.md)
   * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
 * [Importing your account](getting-started-with-xumm/importing-your-account/README.md)
   * [Should I import my XRPL account into Xumm?](getting-started-with-xumm/importing-your-account/should-i-import-my-xrpl-account-into-xumm.md)

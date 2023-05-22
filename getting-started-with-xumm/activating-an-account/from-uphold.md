@@ -2,11 +2,11 @@
 description: How to send XRP from Uphold to XUMM (deposit)
 ---
 
-# From Uphold to Xumm
+# From Uphold
 
 #### How to withdraw XRP from Uphold to your XRP Ledger account managed with XUMM in the Uphold mobile app
 
-1. Open your XUMM app, and tap and hold your account address (r…) and **Copy** your account address
+1. Open Xumm and tap and hold your account address (r…) and **Copy** your account address.
 2. Switch to the Uphold app, select a **Card**
 3. Tap the **Transact** button at the bottom of your screen
 4. Enter an **amount** to send to XUMM ⚠️ Please note: if your XRP Ledger account (managed with XUMM) has not been activated, send at **least 21 XRP** (Normally, the XRP reserve is 10 XRP but Uphold has not updated their system to reflect this.)
