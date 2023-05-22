@@ -4,6 +4,10 @@ description: How to send XRP from Bitstamp to Xumm (deposit)
 
 # From Bitstamp
 
+{% hint style="info" %}
+This article is under construction.
+{% endhint %}
+
 1. Open your XUMM app, and tap and hold your account address (r…) and **Copy** your account address
 2. Switch to the Bitstamp app, select **Wallet**
 3. Tap the **XRP** wallet
