@@ -50,7 +50,7 @@ description: How to send XRP from Crypto.com to Xumm (deposit)
 
 12\) Enter your Crypto.Com **passcode** when prompted.
 
-
+Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
 
 **Notes**
 

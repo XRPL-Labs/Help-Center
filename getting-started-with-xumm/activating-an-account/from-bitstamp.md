@@ -11,4 +11,10 @@ description: How to send XRP from Bitstamp to Xumm (deposit)
 5. **Paste** your XRP Ledger account (managed with XUMM) address copied in the first step in the **XRP withdrawal address** field. **Don’t enter a Destination tag**, this is [**not required**](https://support.xumm.app/hc/en-us/articles/360018135860) for XRP Ledger accounts managed with XUMM.
 6. Confirm by tapping the **Withdraw** button
 7. Optionally, if requested: enter your 2FA code and confirm your withdrawal with the e-mail Bitstamp may send you
-8. Your XRP will arrive in your XRP Ledger account managed with XUMM shortly 🎉
+8. Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

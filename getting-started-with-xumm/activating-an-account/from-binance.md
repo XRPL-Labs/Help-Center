@@ -26,7 +26,7 @@ You should not need to enter anything into the MEMO field.
 
 Finally, **enter the amount of XRP** you would like to withdraw and press the **Withdraw** button.
 
-
+Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
 
 **Notes**
 
