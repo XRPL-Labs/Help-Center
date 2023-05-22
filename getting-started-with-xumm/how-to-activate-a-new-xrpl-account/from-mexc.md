@@ -34,4 +34,6 @@ into the **Withdrawal Address** field:
 
 Note: Self-custodial accounts, (like the ones managed by Xumm), **do not** require a MEMO be entered.
 
-6\)&#x20;
+6\) Press the **Confirm withdrawal** button.
+
+<figure><img src="../../.gitbook/assets/Mexc - 7.png" alt=""><figcaption></figcaption></figure>
