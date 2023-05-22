@@ -26,14 +26,15 @@ For most people, this fast, convenient and secure service will more than meet th
 
 ### **Option 2**
 
-If you are not located in the Netherlands or the UK, we have partnered with the following crypto exchanges where you can purchase XRP to activate your account.
+If you are not located in the Netherlands or the UK, we have partnered with Banxa, BTCDirect and Guardarian which all offer the option to purchase XRP from various countries around the world.
 
-| Exchange                                        | Link to xApp                                                           | Article             |
-| ----------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
-| ![](<../.gitbook/assets/image (2) (2) (3).png>) | [**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)         | All About Banxa     |
-| ![](<../.gitbook/assets/image (5) (1) (1).png>) | [**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp) | All About BTCDirect |
+| Exchange                                        | Link to xApp                                                             | Article                                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| ![](<../.gitbook/assets/image (2) (2) (3).png>) | [**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)           | [All About Banxa](../all-about-xapps/xumm-xapps/buy-sell-xrp/banxa.md)          |
+| ![](<../.gitbook/assets/image (5) (1) (1).png>) | [**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)   | [All About BTCDirect](../all-about-xapps/xumm-xapps/buy-sell-xrp/btc-direct.md) |
+| ![](<../.gitbook/assets/image (3).png>)         | [**Guardarian xApp**](https://xumm.app/detect/xapp:guardarian.onofframp) | [All About Guardarian](../getting-started-with-xumm/buying-xrp/guardarian.md)   |
 
-Combined, Banxa and BTCDirect offer exchange services to most countries in the world. You can find them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> button then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp.
+Combined, Banxa, BTCDirect and Guardarian offer exchange services to most countries in the world. You can find them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp. (Or just click here: [<mark style="color:blue;">**Buy/Sell XRP xApp**</mark>](https://xumm.app/detect/xapp:xumm.buysellxrp))
 
 ### Option 3
 
