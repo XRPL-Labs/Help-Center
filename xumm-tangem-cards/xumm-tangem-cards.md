@@ -42,11 +42,32 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   This all depends if the business supports the XRP Ledger.  For example, if you have a debit card and you go into a store that only accepts cash, you can not use your debit card to pay for items in that store. Some stores will allow you to pay with your debit card, but some stores will not. The same applies to the XRP Ledger. If the business accepts XRP as a form of payment, you can certainly pay using the Xumm (Tangem) cards.\
   &#x20;
 * **Can I use an existing XRP Tangem cards with Xumm?**\
-  Yes, definitely! All existing & future Tangem XRP cards will work with Xumm. All XRPL features will be available to all Tangem card owners using Xumm.\
+  Yes, definitely! All existing & future Tangem XRP cards will work with Xumm.\
 
-* **Can I use a Xumm (Tangem) card in the Tangem wallet application?**\
-  Yes. You can load a card into the Tangem wallet app, but the features of the app are limited to receiving and sending XRP. You will not be able to access your XRPL issued tokens, NFTs, escrows, etc.\
-  &#x20;
+* **Can I use a Xumm (Tangem) card with in the Tangem app / with other blockchains?**\
+  Technically Xumm (Tangem) cards will "work" with the Tangem app but our cards have been configured to our specifications to increase their security, so some of the Tangem features are not supported. (Eg. Their "cloning" feature will not work and their access code can not be configured, among others.)\
+  \
+  Keep in mind, if you do use our cards to try to interact with other blockchains, **all support related questions should be directed** **to Tangem support**. Our cards are meant to be used in conjunction with Xumm, which is an XRP Ledger wallet. \
+  \
+  As well, you should be aware, Tangem's current support of the XRP Ledger is minimal. You will not be able see your issued XRPL tokens, escrows, NFTs, DEX orders, etc.\
+  \
+  If your plan is to interact with multiple blockchains, you might find that you get a better experience by purchasing the Tangem Multi-currency cards:\
+  \
+  [https://tangem.com/en/#product-component-6864268689474](https://tangem.com/en/#product-component-6864268689474)\
+  \
+  If your plan is to interact with the XRP Ledger, our cards are way to go.\
+  \
+  This table might help explain...\
+
+
+| Feature                          | Xumm card | Tangem Multi Card |
+| -------------------------------- | --------- | ----------------- |
+| Full XRPL support with Xumm      | ✔️        | -                 |
+| Works with Tangem app            | Partial   | ✔️                |
+| Multi blockchain                 | Partial   | ✔️                |
+| Multi asset (on XRPL) with Xumm  | ✔️        | -                 |
+| Increased security configuration | ✔️        | -                 |
+
 * **How do I purchase the cards?**\
   You can purchase the cards via our website:\
   [https://xrpl-labs.com/tangem/pricing](https://xrpl-labs.com/tangem/pricing)\
