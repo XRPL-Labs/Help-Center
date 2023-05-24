@@ -15,7 +15,7 @@ This article is under construction.
 5. **Paste** your XRP Ledger account (managed with XUMM) address copied in the first step in the **XRP withdrawal address** field. **Don’t enter a Destination tag**, this is [**not required**](https://support.xumm.app/hc/en-us/articles/360018135860) for XRP Ledger accounts managed with XUMM.
 6. Confirm by tapping the **Withdraw** button
 7. Optionally, if requested: enter your 2FA code and confirm your withdrawal with the e-mail Bitstamp may send you
-8. Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
+8. Your XRP will arrive in your XRP Ledger account managed with Xumm shortly. 🎉
 
 **Notes**
 
