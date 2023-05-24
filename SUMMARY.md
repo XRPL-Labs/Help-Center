@@ -15,6 +15,7 @@
   * [How to create an XRPL account](getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 * [Activating an account](getting-started/how-to-activate-a-new-xrpl-account.md)
   * [From Bitstamp](getting-started-with-xumm/activating-an-account/from-bitstamp.md)
+  * [From Gatehub](getting-started-with-xumm/how-to-activate-a-new-xrpl-account/from-gatehub.md)
   * [From Kraken](getting-started-with-xumm/activating-an-account/from-kraken.md)
   * [From Crypto.Com](getting-started-with-xumm/activating-an-account/from-crypto.com.md)
   * [From Coinbase](getting-started-with-xumm/activating-an-account/from-coinbase.md)

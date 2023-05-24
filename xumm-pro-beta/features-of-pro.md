@@ -1,14 +1,3 @@
 # Features of Pro
 
-| Feature               | Related Articles                                 |
-| --------------------- | ------------------------------------------------ |
-| Profiles              | <p>All about Profiles<br>What is a Paystring</p> |
-| Push notifications    | Understanding Push notifications                 |
-| Accounts              | Understanding Accounts                           |
-| Xumm App early access | What is early access all about?                  |
-| Free Tangem Card      | How to collect your free Xumm Tangem cards       |
-| Premium Support       | How Premium support works                        |
-| Vanity address        | All about Vanity accounts                        |
-| On/Off-Ramp           | Welcome to our On/Off-Ramp services              |
-|                       |                                                  |
-|                       |                                                  |
+<table><thead><tr><th width="345">Feature</th><th>Related Articles</th></tr></thead><tbody><tr><td>Profiles</td><td>All about Profiles<br>What is a Paystring</td></tr><tr><td>Push notifications</td><td>Understanding Push notifications</td></tr><tr><td>Accounts</td><td>Understanding Accounts</td></tr><tr><td>Xumm App early access</td><td>What is early access all about?</td></tr><tr><td>Free Tangem Card</td><td>How to collect your free Xumm Tangem cards</td></tr><tr><td>Premium Support</td><td>How Premium support works</td></tr><tr><td>Vanity address</td><td>All about Vanity accounts</td></tr><tr><td>On/Off-Ramp</td><td>Welcome to our On/Off-Ramp services</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>

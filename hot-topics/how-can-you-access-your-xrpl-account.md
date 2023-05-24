@@ -10,10 +10,5 @@ description: Explainer video 3 of 5
 
 Also available in this video series:
 
-| Video                                                                                             | Description                     |
-| ------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [What is Xumm?](what-is-xumm.md)                                                                  | Explaining the Xumm app         |
-| [Where are your funds stored?](where-are-your-funds-stored.md)                                    | XRP is on the XRPL, not in Xumm |
-| [Reserves and Fees](../xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md) | Base reserve and XRPL Fees      |
-| [Destination Tags](../learning-more-about-xumm/destination-tags.md)                               | About Destination Tags/XRP Tags |
+<table><thead><tr><th width="370">Video</th><th>Description</th></tr></thead><tbody><tr><td><a href="what-is-xumm.md">What is Xumm?</a></td><td>Explaining the Xumm app</td></tr><tr><td><a href="where-are-your-funds-stored.md">Where are your funds stored?</a></td><td>XRP is on the XRPL, not in Xumm</td></tr><tr><td><a href="../xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md">Reserves and Fees</a></td><td>Base reserve and XRPL Fees</td></tr><tr><td><a href="../learning-more-about-xumm/destination-tags.md">Destination Tags</a></td><td>About Destination Tags/XRP Tags</td></tr></tbody></table>
 
