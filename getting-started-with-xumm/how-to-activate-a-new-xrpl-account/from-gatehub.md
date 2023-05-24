@@ -17,3 +17,5 @@ description: How to send XRP from Gatehub to Xumm (deposit)
 <figure><img src="../../.gitbook/assets/Gatehub - 3.png" alt=""><figcaption></figcaption></figure>
 
 4\)&#x20;
+
+<figure><img src="../../.gitbook/assets/Gatehub -5.png" alt=""><figcaption></figcaption></figure>
