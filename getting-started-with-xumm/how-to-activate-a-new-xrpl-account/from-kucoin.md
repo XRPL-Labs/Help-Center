@@ -19,3 +19,7 @@ description: How to send XRP from Kucoin to Xumm (deposit)
 4\) Enter the amount you would like to send in the **Amount** field. (Kucoin has a minimum of 20.5 XRP) then press the **Withdraw** button.
 
 <figure><img src="../../.gitbook/assets/KuCoin -4.png" alt=""><figcaption></figcaption></figure>
+
+5\) Self-custodial accounts, like the ones managed by Xumm do not require destination tags. Press the **Continue** button.
+
+<figure><img src="../../.gitbook/assets/KuCoin -5.png" alt=""><figcaption></figcaption></figure>
