@@ -20,6 +20,7 @@
   * [From Kraken](getting-started-with-xumm/activating-an-account/from-kraken.md)
   * [From Crypto.Com](getting-started-with-xumm/activating-an-account/from-crypto.com.md)
   * [From Coinbase](getting-started-with-xumm/activating-an-account/from-coinbase.md)
+  * [From Kucoin](getting-started-with-xumm/how-to-activate-a-new-xrpl-account/from-kucoin.md)
   * [From Binance](getting-started-with-xumm/activating-an-account/from-binance.md)
   * [From Mexc](getting-started-with-xumm/how-to-activate-a-new-xrpl-account/from-mexc.md)
   * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
