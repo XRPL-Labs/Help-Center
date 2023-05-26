@@ -20,6 +20,12 @@ description: How to send XRP from Kucoin to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/KuCoin -4.png" alt=""><figcaption></figcaption></figure>
 
-5\) Self-custodial accounts, like the ones managed by Xumm do not require destination tags. Press the **Continue** button.
+5\) Press the **Continue** button.\
+\
+Note: Self-custodial accounts, like the ones managed by Xumm do not require destination tags.&#x20;
 
 <figure><img src="../../.gitbook/assets/KuCoin -5.png" alt=""><figcaption></figcaption></figure>
+
+6\) Press the **Confirm** button to complete the transaction.
+
+<figure><img src="../../.gitbook/assets/KuCoin -6.png" alt=""><figcaption></figcaption></figure>
