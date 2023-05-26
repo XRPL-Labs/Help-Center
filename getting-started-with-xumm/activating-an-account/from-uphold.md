@@ -24,7 +24,7 @@ description: How to send XRP from Uphold to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/Uphold - 4.png" alt=""><figcaption></figcaption></figure>
 
-6\)&#x20;
+6\) Press the **Preview Withdrawal** button.
 
 <figure><img src="../../.gitbook/assets/Uphold - 5.png" alt=""><figcaption></figcaption></figure>
 
