@@ -36,6 +36,10 @@ Note: In Xumm, you can find your r-address in Xumm here:
 
 <figure><img src="../../.gitbook/assets/raddress (2).png" alt=""><figcaption></figcaption></figure>
 
+8\) Press the **Confirm withdrawal** button.
+
+<figure><img src="../../.gitbook/assets/Uphold - 7.png" alt=""><figcaption></figcaption></figure>
+
 1. Open Xumm and tap and hold your account address (r…) and **Copy** your account address.
 2. Switch to the Uphold app, select a **Card**
 3. Tap the **Transact** button at the bottom of your screen
