@@ -52,7 +52,7 @@ Once you have completed the following steps, you will be able to sign transactio
 
 3\) Now, switch accounts to your **Primary** account in Xumm and press <mark style="color:blue;">**here**</mark> to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
 
-4\) Press the ![](<../.gitbook/assets/image (1).png>) button then press **Open in Xumm App** and sign in.
+4\) Press the ![](<../.gitbook/assets/image (1) (5).png>) button then press **Open in Xumm App** and sign in.
 
 <figure><img src="../.gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
 
