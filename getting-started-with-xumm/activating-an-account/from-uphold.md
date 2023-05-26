@@ -12,6 +12,14 @@ description: How to send XRP from Uphold to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/Uphold - 2.png" alt=""><figcaption></figcaption></figure>
 
+3\) Enter the amount of XRP to send.
+
+<figure><img src="../../.gitbook/assets/Uphold - 2a.png" alt=""><figcaption></figcaption></figure>
+
+4\)  Press the **down arrow** in the **To** field.
+
+<figure><img src="../../.gitbook/assets/Uphold - 3.png" alt=""><figcaption></figcaption></figure>
+
 1. Open Xumm and tap and hold your account address (r…) and **Copy** your account address.
 2. Switch to the Uphold app, select a **Card**
 3. Tap the **Transact** button at the bottom of your screen
