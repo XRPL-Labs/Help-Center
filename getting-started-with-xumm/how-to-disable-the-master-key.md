@@ -12,7 +12,7 @@ This article is under construction...
 
 ## Make sure you have configured a Regular Key Pair <a href="#h_d534a6dc19" id="h_d534a6dc19"></a>
 
-Before you can disable the master key of an XRP Ledger account, you must have configured a regular key pair pointing another XRPL account. For example, if you have a Primary account, and you wish to disable the master key for it, you must have configured a Signing account in order to proceed.
+Before you can disable the master key of an XRP Ledger account, you must have configured a regular key pair pointing to another XRPL account. For example, if you have a Primary account, and you wish to disable the master key for it, you must have configured a Signing account in order to proceed.
 
 This article explains how to do this:
 
@@ -20,7 +20,7 @@ This article explains how to do this:
 
 You should have already tested that the regular keys works properly by doing several transactions to confirm that you can sign transactions on the Primary account with the regular key account (aka. SIgning account)&#x20;
 
-Once you are sure it works, you can procced to the next step..
+Once you are sure it works, you can proceed to the next step..
 
 
 
@@ -54,7 +54,7 @@ This is an additional step which will disable your master key.
 
 &#x20;
 
-The only way to disable your master key is to import your master key again, just by upgrading the account from read only to full access read/write.
+The only way to enable your master key is to import your master key again, just by upgrading the account from read only to full access read/write.
 
 ![](https://downloads.intercomcdn.com/i/o/231464654/28341805c635e28b2aae300a/Change+access.png)
 
