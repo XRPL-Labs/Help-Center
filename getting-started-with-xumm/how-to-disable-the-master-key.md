@@ -15,15 +15,20 @@ There are two main reasons why you would want to disable the Master key for an X
 
 ### Before you get started
 
-You should be aware of the following before you proceed:
+You should confirm that you have the correct account secret for your account.
+
+\<Enter link to article - How to check your account secret>
+
+Once you have done this, you should be aware of the following before you proceed:
 
 1\) To disable the master key pair, **you must use the master key pair.**&#x20;
 
-2\) Your account must have at least one method of authorizing transactions other than the master key pair. e.g. - assign a regular key or configure multi-signing.
+2\) Your account must have at least one method of authorizing transactions other than the master key pair. e.g. - assign a regular key
 
-3\) You should confirm that you have the correct account secret for your account.\
+3\) Once the Master key has been disabled, you will not be able to use it to re-enable your Master key. It can only be re-enabled using the assigned regular key account.
+
 \
-\<Enter link to article - How to check your account secret>
+
 
 The XRP Ledger will not let you disable the Master key unless there is an alternate way to sign and submit transactions. This article explains how to do by adding a regular key to your account.
 
