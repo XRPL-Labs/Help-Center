@@ -18,3 +18,9 @@ You should see this screen:
 
 <figure><img src="../.gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
 
+2\) Press the **Import an existing account** button. You will see:
+
+<figure><img src="../.gitbook/assets/Account type.png" alt=""><figcaption></figcaption></figure>
+
+3\) Press the **Next** button.
+
