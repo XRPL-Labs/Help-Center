@@ -6,9 +6,19 @@ coverY: 168
 
 # How to disable the Master key
 
-{% hint style="info" %}
-This article is under construction...
-{% endhint %}
+### Why disable the Master key?
+
+
+
+### Before you get started
+
+You should be aware of the following before you proceed:
+
+1\) To disable the master key pair, **you must use the master key pair.**&#x20;
+
+2\) You can _re-enable_ the master key pair using any other method of authorizing transactions
+
+3\) Your account must have at least one method of authorizing transactions other than the master key pair. e.g. - assign a regular key or configure multi-signing.
 
 ## Make sure you have configured a Regular Key Pair <a href="#h_d534a6dc19" id="h_d534a6dc19"></a>
 
