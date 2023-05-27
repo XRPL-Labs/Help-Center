@@ -8,7 +8,10 @@ coverY: 168
 
 ### Why disable the Master key?
 
+There are two main reasons why you would want to disable the Master key for an XRPL account:
 
+* Your account has been compromised
+* You want to configure your account so that you can only sign and submit transactions using a regular keyed account.&#x20;
 
 ### Before you get started
 
@@ -16,15 +19,9 @@ You should be aware of the following before you proceed:
 
 1\) To disable the master key pair, **you must use the master key pair.**&#x20;
 
-2\) You can _re-enable_ the master key pair using any other method of authorizing transactions
+2\) Your account must have at least one method of authorizing transactions other than the master key pair. e.g. - assign a regular key or configure multi-signing.
 
-3\) Your account must have at least one method of authorizing transactions other than the master key pair. e.g. - assign a regular key or configure multi-signing.
-
-## Make sure you have configured a Regular Key Pair <a href="#h_d534a6dc19" id="h_d534a6dc19"></a>
-
-Before you can disable the master key of an XRP Ledger account, you must have configured a regular key pair pointing to another XRPL account. For example, if you have a Primary account, and you wish to disable the master key for it, you must have configured a Signing account in order to proceed.
-
-This article explains how to do this:
+The XRP Ledger will not let you disable the Master key unless there is an alternate way to sign and submit transactions. This article explains how to rekey your account so you can disable the Master key:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to rekey your account</td><td></td><td></td><td><a href="how-to-disable-the-master-key.md">how-to-disable-the-master-key.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr></tbody></table>
 
