@@ -43,7 +43,15 @@ You will not be able to access your XRP Ledger account using your Master key aft
 
 1\) Go to [XRPL.services](https://xrpl.services/)
 
-2\) Sign in with Xumm.
+2\) On the XRP Ledger Services page, select **Set Regular Key**
+
+<figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
+
+6\) In the filed below paste the r-address for the Signing account, then press the **Send Set Regular Key to Xumm** button.
+
+<figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
+
+7\) Sign the transaction in Xumm and you're all done!&#x20;
 
 
 
