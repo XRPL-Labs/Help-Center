@@ -57,7 +57,7 @@ You will not be able to access your XRP Ledger account using your Master key aft
 
 7\) Sign the transaction in Xumm and you're all done!&#x20;
 
-
+8\) Your Master Key should now be disabled and you should now be able to send and submit transactions to the XRP Ledger exclusively using your Regular key account.
 
 
 
