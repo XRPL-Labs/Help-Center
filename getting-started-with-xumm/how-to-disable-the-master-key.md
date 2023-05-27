@@ -21,37 +21,19 @@ You should be aware of the following before you proceed:
 
 2\) Your account must have at least one method of authorizing transactions other than the master key pair. e.g. - assign a regular key or configure multi-signing.
 
-The XRP Ledger will not let you disable the Master key unless there is an alternate way to sign and submit transactions. This article explains how to rekey your account so you can disable the Master key:
+3\) You should confirm that you have the correct account secret for your account.\
+\
+\<Enter link to article - How to check your account secret>
+
+The XRP Ledger will not let you disable the Master key unless there is an alternate way to sign and submit transactions. This article explains how to do by adding a regular key to your account.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to rekey your account</td><td></td><td></td><td><a href="how-to-disable-the-master-key.md">how-to-disable-the-master-key.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr></tbody></table>
 
-You should have already tested that the regular keys works properly by doing several transactions to confirm that you can sign transactions on the Primary account with the regular key account (aka. SIgning account)&#x20;
-
-Once you are sure it works, you can proceed to the next step..
+&#x20;
 
 
 
 &#x20;
-
-To check if the account can sign using your new key you can now change your account access level to read only.
-
-&#x20;
-
-You can change this in settings → accounts → click on the account you want your master key to be removed from the app. Now you should see this screen and can change the access level to read only.
-
-![](https://downloads.intercomcdn.com/i/o/231463605/a5930079a15c05eebb16892e/IMG\_6C951E5DB3BB-1.jpg)
-
-For the actual check use the tools tab on the [xrpl.services](https://xumm.community/) website and go to Raw JSON Transactions. Select the account set template and delete everything except the first two lines. The important part is that the account is correctly set, it should be the account which you just changed the access level of to read only. Just like this.
-
-&#x20;
-
-![](https://downloads.intercomcdn.com/i/o/229435940/78e1ad65f8be3d3a300e7249/Schermafbeelding+2020-07-22+om+16.20.39.png)
-
-Now you can sign and submit the transaction. If it shows that it was successful you're set to continue to disable your master key. Or to leave it as is.
-
-&#x20;
-
-![](https://downloads.intercomcdn.com/i/o/231464089/fb48afa992e64a07d984e30e/success+acc+set+tx.png)
 
 ## Optional Step 4: Disable your master key ⚠️ <a href="#h_a7c3b8f5aa" id="h_a7c3b8f5aa"></a>
 
