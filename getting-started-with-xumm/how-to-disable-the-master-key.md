@@ -43,13 +43,17 @@ You will not be able to access your XRP Ledger account using your Master key aft
 
 1\) Go to [XRPL.services](https://xrpl.services/)
 
-2\) On the XRP Ledger Services page, select **Set Regular Key**
+2\) Press the ![](<../.gitbook/assets/image (1) (5).png>) button then press **Open in Xumm App** and sign in with the account the you would like to disable your Master key on.
 
-<figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
 
-6\) In the filed below paste the r-address for the Signing account, then press the **Send Set Regular Key to Xumm** button.
+5\) On the XRP Ledger Services page, select **Account Set.**
 
-<figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/XRPL Services - Dsiable Master Key - 1.png" alt=""><figcaption></figcaption></figure>
+
+6\) Choose **Disable Master Key**, then press the **Send Account Settings to Xumm** button.
+
+<figure><img src="../.gitbook/assets/XRPL Services - Dsiable Master Key - 2.png" alt=""><figcaption></figcaption></figure>
 
 7\) Sign the transaction in Xumm and you're all done!&#x20;
 
