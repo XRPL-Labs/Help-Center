@@ -17,7 +17,7 @@ There are two main reasons why you would want to disable the Master key for an X
 
 You should confirm that you have the correct account secret for your account.
 
-\<Enter link to article - How to check your account secret>
+[**How to test your Account Secret**](how-to-test-your-account-secret.md)
 
 Once you have done this, you should be aware of the following before you proceed:
 
