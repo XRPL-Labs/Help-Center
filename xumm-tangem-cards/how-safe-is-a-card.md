@@ -12,7 +12,7 @@ There are lots of different cold wallets to choose from in the crypto space. Her
 
 Xumm cards use a EAL 6+ certified microchip for secure operations.&#x20;
 
-Upon first use, a private key is generated on the card using its cryptographically secure pseudo random generator that lives inside the chip present in the plastic card.
+Upon first use, a private key is generated on the card using its cryptographically secure True Random Number Generator that lives inside the chip present in the plastic card.
 
 The public key is then derived from the private key using Elliptic curve point multiplication.
 
