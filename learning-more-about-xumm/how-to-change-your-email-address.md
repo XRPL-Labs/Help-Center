@@ -22,7 +22,7 @@ Simply open a ticket using the [**Xumm Support xApp**](https://xumm.app/detect/x
 
 ### Xumm Tangem orders
 
-When you place an order for Xumm Tangem cards, you are asked for your email address during the order process. (We use it to send your "Trace and Trace" information from our shipping company.) Since we usually ship our orders on the same day, there is a very small window where we could actually change your email information. If you contact us in time, we can change it for your order. 🤞
+When you place an order for Xumm Tangem cards, you are asked for your email address during the order process. (We use it to send your "track and trace" information from our shipping company.) Since we usually ship our orders on the same day, there is a very small window where we could actually change your email information. If you contact us in time, we can change it for your order. 🤞
 
 As above, open a ticket using the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your Xumm Tangem order updated. (Don't forget to include your new email address in the message.)
 
