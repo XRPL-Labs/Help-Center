@@ -74,7 +74,7 @@ This is the main reason we send you two cards. We want you to create a "backup" 
 
 #### Recommendation 2 - Create a pin on your backup card
 
-If you decide to follow our first recommendation, creating a pin on your backup card is an extra security feature which makes sense to help protect your funds. Each Xumm (Tangem) card offers has the ability create a pin code which will need to be entered before you can sign a transaction on  the account. If your card were ever stolen, a pin will help keep the card from being used by unauthorized people.
+If you decide to follow our first recommendation, creating a pin on your backup card is an extra security feature which makes sense to help protect your funds. Each Xumm card offers the ability to create a pin code which will need to be entered before you can sign a transaction using the card. If your card were ever stolen, a pin will help keep the card from being used by unauthorized people.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Creating a pin on your card</td><td></td><td></td><td><a href="../.gitbook/assets/Waterfall.png">Waterfall.png</a></td><td><a href="creating-a-pin-on-your-xumm-tangem-card.md">creating-a-pin-on-your-xumm-tangem-card.md</a></td></tr></tbody></table>
 
@@ -86,6 +86,6 @@ We have compiled a set of suggestions on how to use your Xumm (Tangem) cards. A 
 
 ### Summary
 
-The Xumm (Tangem) card is a hardware wallet that offers peace of mind by providing a reliable and secure storage solution for your private keys for your XRPL account. Should you have any additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+The Xumm card is a hardware wallet that offers peace of mind by providing a reliable and secure storage solution for your private keys for your XRPL account. Should you have any additional questions regarding this topic, you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
