@@ -6,7 +6,7 @@ coverY: 0
 
 # Best Security Practices Using the Xumm (Tangem) Cards
 
-Here are our top 5 recommendations when using the cards...
+Here are our top 5 recommendations when using our cards...
 
 ### Never use your card in an untrusted environment
 
