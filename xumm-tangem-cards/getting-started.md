@@ -48,7 +48,7 @@ From here, there are two main paths to follow:
 
 #### Option 1
 
-Once your assets have been moved to your Primary card account, you can delete your existing account (and recover your base reserve) and just use your Signing card when you want to interact with the XRP Ledger. This is the simplest and easiest way to manage your XRPL accounts.&#x20;
+Once your assets have been moved to your Primary card account, you can delete your existing account (and [recover your base reserve](../learning-more-about-xumm/deleting-an-xrpl-account.md)) and just use your Signing card when you want to interact with the XRP Ledger. This is the simplest and easiest way to manage your XRPL accounts.&#x20;
 
 **Option 2**
 
