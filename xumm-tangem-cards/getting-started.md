@@ -86,6 +86,8 @@ We have compiled a set of suggestions on how to use your Xumm (Tangem) cards. A 
 
 ### Summary
 
-The Xumm card is a hardware wallet that offers peace of mind by providing a reliable and secure storage solution for your private keys for your XRPL account. Should you have any additional questions regarding this topic, you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+The Xumm card is a hardware wallet that offers peace of mind by providing a reliable and secure storage solution for your private keys for your XRPL account. Should you have any additional questions regarding this topic, you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

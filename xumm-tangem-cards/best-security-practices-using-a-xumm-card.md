@@ -34,12 +34,12 @@ Public WiFi can be very dangerous. The list of possible attack vectors using pub
 
 ### Consider having at least two XRPL accounts
 
-In some cases, having two or more separate XRPL accounts can be a good idea. By spreading your funds between multiple accounts, it ensures that if someone were to somehow get access to one account, they would not get access to all of your funds. Some people have gone so far as to have multiple Xumm accounts (each with their own backup card configured) and divide their funds between them. Having a single account is like having all of your eggs in one basket. Even if it is the most secure basket in the world, everything is still in one place.&#x20;
+In some cases, having two or more separate XRPL accounts can be a good idea. By spreading your funds between multiple accounts, it ensures that if someone were to somehow get access to one account, they would not get access to **all** of your funds. Some people have gone so far as to have multiple Xumm accounts (each with their own backup card configured) and divide their funds between them. Having a single account is like having all of your eggs in one basket. Even if it is the most secure basket in the world, everything is still in one place.&#x20;
 
 &#x20;
 
-#### **Notes**
+**Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
