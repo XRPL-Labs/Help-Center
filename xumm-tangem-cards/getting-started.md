@@ -38,7 +38,19 @@ They do not store XRP on them and they do not come with XRP.
 
 ### Existing XRPL accounts
 
+Most people will already have an existing XRP Ledger account and may not be sure how to integrate their existing accounts with their new Xumm cards. There are several possible configurations but both configurations start with the following;
 
+* Import two Xumm cards into Xumm
+* Create a Primary and Signing account and link them together
+* Move the majority of your assets to the Primary account, then put the card into a safe, secure storage location.
+
+For here, there are two main paths to follow:
+
+#### Option 1
+
+Once your
+
+At this point they can carry their Signing card with them, but if they decide not to, they can just move smaller amounts of XRP to their existing "regular" account for daily use.  Basically they just transfer between the Primary account and the regular account using the Signing card to sign. So, three accounts total. The regular account for daily spending. The Primary account for longer term storage, the Signing card account to sign transactions on the Primary card account.
 
 ### Our recommendations...
 
