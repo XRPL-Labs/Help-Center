@@ -81,4 +81,10 @@ We have implemented three main security features to combat proximity attacks.
     * All card features that are not specifically used by Xumm are disabled to narrow the attack surface
     * Various security checks are enabled to distinguish valid cards produced by Tangem from potentially malicious cards&#x20;
 
-&#x20;
+### I just received my cards and customs opened the package. How do I know the cards are still safe?
+
+When you add a Xumm card into Xumm, you will receive the following message:
+
+<figure><img src="../.gitbook/assets/Notice - Your Tangem card does not.png" alt=""><figcaption></figcaption></figure>
+
+This means that the card has not generated a set of private keys yet and that the card has not been used. Once you select **Generate Account**, the card will randomly generate a set of private keys and encrypt them on the card. As long as you see the above message, your card has not been accessed.
