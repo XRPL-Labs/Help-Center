@@ -52,11 +52,11 @@ Once your assets have been moved to your Primary card account, you can delete yo
 
 **Option 2**
 
-Once your assets have been moved to your Primary card account, you can continue to use your existing XRPL account in **conjunction** with your new Primary account. For example, you could transfer small amounts of XRP from your Primary card account to your existing account and use it for your daily interactions and leave your Signing card at home. This way, you never have to card your Signing card, so there is no chance of it getting lost or stolen, and you will have access to some XRP in your existing account, but the majority of your XRP is safely stored in your Primary account.
+Once your assets have been moved to your Primary card account, you can continue to use your existing XRPL account in **conjunction** with your new Primary account. For example, you could transfer small amounts of XRP from your Primary card account to your existing account and use it for your daily interactions and leave your Signing card at home. This way, you never have to card your Signing card, so there is no chance of it getting lost or stolen, and you will have access to some XRP in your existing account, but the majority of your XRP is safely stored in your Primary account. In other words, your Primary card account is used for long term storage and your existing account would be used for day to day transactions.
 
+#### Option 3
 
-
-You At this point they can carry their Signing card with them, but if they decide not to, they can just move smaller amounts of XRP to their existing "regular" account for daily use.  Basically they just transfer between the Primary account and the regular account using the Signing card to sign. So, three accounts total. The regular account for daily spending. The Primary account for longer term storage, the Signing card account to sign transactions on the Primary card account.
+There are several other ways to configure the cards as well, including making a Xumm card a backup to an existing account, making an existing card and backup to an Xumm card account, managing multiple Xumm card accounts alongside multiple regular accounts or configuring multiple accounts using the multi-sign feature of the XRPL, but each of these have their pros and cons. For most people, the above two options will be a better solution.
 
 ### Our recommendations...
 
