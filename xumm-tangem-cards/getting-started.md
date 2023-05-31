@@ -20,11 +20,11 @@ The main functions of a Xumm (Tangem) card are:
 
 * to securely create an account secret for an XRP Ledger account
 * store that account secret securely on the card
-* sign transactions on the card with the account secret
+* sign transactions on the card's account
 
-There are multiple use case and ways to configure the cards, but the core feature of the card is that it allows you to sign transactions on your XRPL account.
+There are multiple use cases and ways to configure the cards, but the core feature of the card is that it allows you to sign transactions on your XRPL account.
 
-Keep in mind, since the account secret is stored on the card, this means that the only way you can sign transactions on your XRPL account, is if you **physically have** the card. While this feature certainly proves security, for some people it might be considered less convenient than a regular XRPL account.&#x20;
+Keep in mind, since the account secret is stored on the card, this means that the only way you can sign transactions on your XRPL account, is if you **physically have** the card. While this feature certainly improves security, for some people it might be considered less convenient than a regular XRPL account.&#x20;
 
 We make a couple of recommendations below which you should review to better understand this.
 
@@ -35,6 +35,10 @@ The cards can not connect to your bank account. You can not use them at an ATM.&
 They are not debit cards or a credit cards.&#x20;
 
 They do not store XRP on them and they do not come with XRP.
+
+### Existing XRPL accounts
+
+
 
 ### Our recommendations...
 
