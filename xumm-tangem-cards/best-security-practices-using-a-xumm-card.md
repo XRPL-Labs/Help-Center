@@ -10,9 +10,9 @@ Here are our top 5 recommendations when using our cards...
 
 ### Never use your card in an untrusted environment
 
-You should think of your card account as a **savings account**. The card is best used for your higher value accounts or long term savings. For maximum security, you should be using it at home, in a private and trusted environment.  It is generally no a good idea to sign transactions in large public areas. (Think grocery stores, malls, crowded streets, etc.)
+For maximum security, you should be using your Xumm cards at home, in a private, secure and trusted environment.  It is generally not a good idea to sign transactions in large public areas. (Think grocery stores, malls, crowded streets, etc.)
 
-For daily spending it is recommended to use a regular XRPL account managed by Xumm. Think of this account as your **daily spending account**. It is the account that you would use in a public place, restaurant, shopping mall, etc. It is best used to store **limited funds** that will used on a daily basis. If your balance gets too low you can top it up from your saving account or if it gets too high you can send the excess to your saving account.
+If you do a lot of transactions in public environments, consider using the cards in conjunction with a regular XRPL account managed by Xumm. Such an account could be used to store **limited funds** that will used on a daily basis, keeping the majority of your funds safely managed by your Xumm cards. If your balance gets too low you can top it up from your Primary card account or if it gets too high you can send the excess to your saving account.
 
 ### Keep your pin/passcode safe&#x20;
 
