@@ -1,5 +1,5 @@
 ---
-description: Just received your Xumm (Tangem) cards?
+description: Just received your Xumm cards?
 ---
 
 # Getting started
@@ -22,26 +22,26 @@ The main functions of a Xumm (Tangem) card are:
 * store that account secret securely on the card
 * sign transactions on the card's account
 
-There are multiple use cases and ways to configure the cards, but the core feature of the card is that it allows you to sign transactions on your XRPL account.
+There are multiple use cases and ways to configure the cards, but the core feature of a card is that it allows you to sign transactions on the XRPL account that the card creates.
 
-Keep in mind, since the account secret is stored on the card, this means that the only way you can sign transactions on your XRPL account, is if you **physically have** the card. While this feature certainly improves security, for some people it might be considered less convenient than a regular XRPL account.&#x20;
+Keep in mind, since the account secret is stored on the card, this means that the only way you can sign transactions on the card's account, is if you **physically have** the card. While this feature certainly improves security, for some people it might be considered less convenient than a regular XRPL account. (Without the card, you can't interact with the XRPL.)
 
 We make a couple of recommendations below which you should review to better understand this.
 
 ### What the cards are not for...
 
-The cards can not connect to your bank account. You can not use them at an ATM.&#x20;
+You should be aware, the cards **can not** be used:
 
-They are not debit cards or a credit cards.&#x20;
-
-They do not store XRP on them and they do not come with XRP.
+* to connect to your bank account. You can not use them at an ATM.&#x20;
+* as debit cards or a credit cards
+* They do not store XRP on them and they do not come with XRP.
 
 ### Existing XRPL accounts
 
 Most people will already have an existing XRP Ledger account and may not be sure how to integrate their existing accounts with their new Xumm cards. There are several possible configurations but they all involve the following:
 
 * Import two Xumm cards into Xumm
-* Create a Primary and Signing account and link them together
+* Create a Primary and Signing account then link them together using the Tangem Backup xApp.
 * Move the majority of your assets to the Primary account, then put the card into a safe, secure storage location.
 
 From here, there are two main paths to follow:
