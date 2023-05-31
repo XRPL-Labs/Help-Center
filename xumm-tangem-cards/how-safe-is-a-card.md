@@ -88,3 +88,11 @@ When you add a Xumm card into Xumm, you will receive the following message:
 <figure><img src="../.gitbook/assets/Notice - Your Tangem card does not.png" alt=""><figcaption></figcaption></figure>
 
 This means that the card has not generated a set of private keys yet and that the card has not been used. Once you select **Generate Account**, the card will randomly generate a set of private keys and encrypt them on the card. As long as you see the above message, your card has not been accessed.
+
+
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
