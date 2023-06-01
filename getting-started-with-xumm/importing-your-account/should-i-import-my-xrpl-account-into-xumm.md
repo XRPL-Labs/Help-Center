@@ -61,15 +61,15 @@ Depending on how you answered some of these questions, you might find that a Xum
 
 [**All about Xumm cards**](../../xumm-tangem-cards/xumm-tangem-cards.md)
 
-#### I created my account during the CasinoCoin swap. Should I create a new XRPL account?
+#### I created my account during the CasinoCoin swap. Should I consider creating a new XRPL account?
 
-The XRPL accounts that were created during the CasinoCoin swap process used a process that some people might find difficult to understand. If you ever need to import the accounts that were created during that process, there is a special set of instructions to assist you:
+The XRPL accounts that were created during the CasinoCoin swap used a process that some people might find a little difficult to understand. If you ever need to import one of those accounts, there is a special set of instructions to assist you:
 
 [How to recover a CasinoCoin account](https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account)
 
-### Frequently asked &#x20;
+As you can see, it can be a bit more complicated than a regular XRPL account. If you are interested in avoiding those complications, it might make sense to consider creating a new account.&#x20;
 
-
+&#x20;[**How to create a** **new XRPL account**](../your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)&#x20;
 
 
 
