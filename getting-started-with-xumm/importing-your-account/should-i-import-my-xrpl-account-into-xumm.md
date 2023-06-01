@@ -61,7 +61,9 @@ Depending on how you answered some of these questions, you might find that a Xum
 
 [**All about Xumm cards**](../../xumm-tangem-cards/xumm-tangem-cards.md)
 
+#### I created my account during the CasinoCoin swap. Should I create a new XRPL account?
 
+The A  hardware wallet such as&#x20;
 
 
 
