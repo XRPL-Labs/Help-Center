@@ -45,11 +45,13 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   Yes, definitely! All existing & future Tangem XRP cards will work with Xumm.\
 
 * **Can I use a Xumm (Tangem) card with in the Tangem app / with other blockchains?**\
-  Technically Xumm (Tangem) cards will "work" with the Tangem app but our cards have been configured to our specifications to increase their security, so some of the Tangem features are not supported. (Eg. Their "cloning" feature will not work and their access code can not be configured, among others.)\
+  Technically Xumm (Tangem) cards will "work" with the Tangem app, although we recommend against it. \
   \
-  Keep in mind, if you do use our cards to try to interact with other blockchains, **all support related questions should be directed** **to Tangem support**. Our cards are meant to be used in conjunction with Xumm, which is an XRP Ledger wallet. \
+  Xumm cards have been configured to our specifications to increase their security, so some of the Tangem features are not supported. (Eg. Their "cloning" feature will not work and their access code can not be configured, among others.)\
   \
-  As well, you should be aware, Tangem's current support of the XRP Ledger is minimal. You will not be able see your issued XRPL tokens, escrows, NFTs, DEX orders, etc.\
+  You can also try to use our cards to interact with other blockchains, since you will find the Tangem application offers this possibility. If you do, please note,   **all support related questions should be directed** **to Tangem support**. Our cards are meant to be used in conjunction with Xumm, which is an XRP Ledger wallet. We do not support the use of our cards on other blockchains.\
+  \
+  You should also be aware, Tangem's current support of the XRP Ledger is minimal. You will not be able see your issued XRPL tokens, escrows, NFTs, DEX orders, etc.\
   \
   If your plan is to interact with multiple blockchains, you might find that you get a better experience by purchasing the Tangem Multi-currency cards:\
   \
@@ -57,16 +59,6 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   \
   If your plan is to interact with the XRP Ledger, our cards are way to go.\
   \
-  This table might help explain...\
-
-
-| Feature                          | Xumm card | Tangem Multi Card |
-| -------------------------------- | --------- | ----------------- |
-| Full XRPL support with Xumm      | ✔️        | -                 |
-| Works with Tangem app            | Partial   | ✔️                |
-| Multi blockchain                 | Partial   | ✔️                |
-| Multi asset (on XRPL) with Xumm  | ✔️        | -                 |
-| Increased security configuration | ✔️        | -                 |
 
 * **How do I purchase the cards?**\
   You can purchase the cards via our website:\
@@ -89,6 +81,13 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   &#x20;\
   See: [**Creating a pin on your card**](creating-a-pin-on-your-xumm-tangem-card.md)\
   &#x20; &#x20;
+* **I just received my new cards? How do I configure them?**\
+  \
+  This article will walk you through the process of getting them setup.\
+  \
+  [**Getting started with your new cards**](getting-started.md)
+
+
 
 **Notes**
 
