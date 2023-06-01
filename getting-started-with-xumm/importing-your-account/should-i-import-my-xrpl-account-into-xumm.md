@@ -47,17 +47,17 @@ In most cases, situation 2 is much easier to troubleshoot.
 
 #### I want to import my Ledger Nano account into Xumm.
 
-A  cold wallet such as a Ledger Nano generates and stores your account secret on a USB device. The assumption is that since the device is not directly connected to the internet, it is less vulnerable to potential attack vectors and therefore "safer".
+A  hardware wallet such as a Ledger Nano generates and stores your account secret on a USB device. The assumption is that since the device is not directly connected to the internet, it is less vulnerable to potential attack vectors and therefore "safer".
 
-Xumm stores your account secret on your mobile device that is connect to the internet and that your phone will be more vulnerable to potential attack vectors while online.
+Xumm stores your account secret on your mobile device that is connect to the internet. Many people assume and that your phone will be more vulnerable to potential attack vectors because it is "online".
 
 The truth is, determining how "safe" a particular wallet is does not come down to being online or offline. Every wallet type has its own potential attack vectors and your security habits, preferences  and preparations play a large part in how safe your funds are.&#x20;
 
-The most secure wallet in the world is useless if you voluntarily give your account secret away and the best cold wallet on the planet is not going to help keep your funds safe if the computer that you put in into is compromised.&#x20;
+The most secure wallet in the world is useless if you voluntarily give your account secret away and the best hardware wallet on the planet is not going to help keep your funds safe if it interacts with a compromised device.&#x20;
 
-You are welcome to import your XRPL account managed by your Ledger device into Xumm, but please consider what your plans are when it comes to your funds before you do so. How are you planning on interacting with the XRP Ledger? Are you interested airdrops? Trading on the XRPL DEX? NFTs? Gambling? Gift cards? Creating tokens? Escrows?&#x20;
+You are welcome to import your XRPL account managed by your Ledger device into Xumm, but please consider what your plans are when it comes to your funds before doing so. How are you planning on interacting with the XRP Ledger? Are you interested in airdrops? Trading on the XRPL DEX? NFTs? Gambling? Gift cards? Creating tokens? Escrows?&#x20;
 
-This article should help you decide:
+
 
 
 
