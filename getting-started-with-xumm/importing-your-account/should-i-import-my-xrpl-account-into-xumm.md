@@ -57,6 +57,10 @@ The most secure wallet in the world is useless if you voluntarily give your acco
 
 You are welcome to import your XRPL account managed by your Ledger device into Xumm, but please consider what your plans are when it comes to your funds before doing so. How are you planning on interacting with the XRP Ledger? Are you interested in airdrops? Trading on the XRPL DEX? NFTs? Gambling? Gift cards? Creating tokens? Escrows?&#x20;
 
+Depending on how you answered some of these questions, you might find that a Xumm card will serve you better.
+
+
+
 
 
 
