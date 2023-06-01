@@ -63,7 +63,11 @@ Depending on how you answered some of these questions, you might find that a Xum
 
 #### I created my account during the CasinoCoin swap. Should I create a new XRPL account?
 
-The A  hardware wallet such as&#x20;
+The XRPL accounts that were created during the CasinoCoin swap process used a process that some people might find difficult to understand. If you ever need to import the accounts that were created during that process, there is a special set of instructions to assist you:
+
+[How to recover a CasinoCoin account](https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account)
+
+### Frequently asked &#x20;
 
 
 
