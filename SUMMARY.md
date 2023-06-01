@@ -87,7 +87,7 @@
 
 * [All about Xumm (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
 * [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
-* [Getting started](xumm-tangem-cards/getting-started.md)
+* [Getting started with your new cards 🤗](xumm-tangem-cards/getting-started.md)
 * [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
 * [Creating a pin on your card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)

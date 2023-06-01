@@ -59,6 +59,8 @@ You are welcome to import your XRPL account managed by your Ledger device into X
 
 Depending on how you answered some of these questions, you might find that a Xumm card will serve you better.
 
+[**All about Xumm cards**](../../xumm-tangem-cards/xumm-tangem-cards.md)
+
 
 
 
