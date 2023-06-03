@@ -2,9 +2,9 @@
 description: Just received your Xumm cards?
 ---
 
-# Getting started
+# Getting started with your new cards 🤗
 
-If you just received your Xumm (Tangem) cards and you are not sure what to do with them or how to configure them, this is exactly where you want to be. We are going to go over the basics of the cards, how to use them and answer some common questions related to the cards.
+If you just received your Xumm (Tangem) cards and you are not sure what to do with them or how to configure them, this is exactly where you want to be. We are going to go over the basics of the cards, how to use them, and answer some common questions related to the cards.
 
 ### Taking a look at the cards
 
@@ -12,15 +12,15 @@ Most people will receive two cards:
 
 <figure><img src="../.gitbook/assets/Xumm Tangem card -3.png" alt=""><figcaption></figcaption></figure>
 
-and just to confirm, the cards are exactly the same, other than their appearance. We sent you two different cards so you can easily tell them apart! 😉
+Just to confirm, the cards are exactly the same, other than their appearance. We sent you two different cards so you can easily tell them apart!&#x20;
 
 ### What are the cards for...
 
-The main functions of a Xumm (Tangem) card are:
+The main functions of a Xumm card are:
 
 * to securely create an account secret for an XRP Ledger account
-* store that account secret securely on the card
-* sign transactions on the card's account
+* to safely store that account secret on the card
+* to sign transactions on the card's account
 
 There are multiple use cases and ways to configure the cards, but the core feature of a card is that it allows you to sign transactions on the XRPL account that the card creates.
 
@@ -33,8 +33,8 @@ We make a couple of recommendations below which you should review to better unde
 You should be aware, the cards **can not** be used:
 
 * to connect to your bank account. You can not use them at an ATM.&#x20;
-* as debit cards or a credit cards
-* They do not store XRP on them and they do not come with XRP.
+* as debit cards or a credit cards.
+* to store XRP on them and they do not come with XRP.
 
 ### Existing XRPL accounts
 
