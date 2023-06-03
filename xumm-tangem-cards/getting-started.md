@@ -60,11 +60,15 @@ There are several other ways to configure the cards as well, including: making a
 
 ### Our recommendations...
 
-We know that the Xumm (Tangem) card is basically an "account on a card", and that the only way to access the card account is if you physically possess the card, so consider this possibility...
+We know that the Xumm card is basically an "account on a card", and that the only way to access the card account is if you physically possess the card, so consider this possibility...
 
 What happens if your card is lost, stolen, damaged or destroyed?
 
-If any of these situations happened, you would lose access to your account and your **funds would be lost**.  The only way to access your card account is if you have the card, unless you configure a backup. This leads us to our recommendations...
+{% hint style="danger" %}
+If any of these situations happened, you would lose access to your account and your **funds would be lost**.  The only way to access your card account is if you have the card, unless you configure a backup.&#x20;
+{% endhint %}
+
+&#x20;This leads us to our recommendations...
 
 #### Recommendation 1 - Make a backup card
 
