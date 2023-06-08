@@ -155,7 +155,7 @@ If you are interested in learning more about spam on the XRPL, check out this ar
 
 ## **Can the government freeze my funds via Xumm? What happens if the government seized XRPL Labs?**
 
-The XRP Ledger is a decentralized blockchain. A governmental agency might be able to shut down some of the XRPL validators and nodes in a particular region, but a single government could not shut down all of them all over the world. The XRPL servers are distributed around the planet to form a global network. In other words, the XRP Ledger will still run and validate transactions regardless if a bunch of servers were shut down. That is part of the idea behind decentralization.
+The XRP Ledger is basically a giant, decentralized network. While it is possible that a governmental agency might be able to shut down parts of the XRPL in a particular region, (validators, nodes, internet access points) a single government could not shut down all of them all over the world. The XRPL servers are distributed around the planet to form a global network. It will still run and validate transactions regardless if a bunch of servers were shut down. (That is part of the idea behind decentralization.)
 
 Another feature of the XRPL is that no one, not a government or an exchange or even us can access your XRPL account. You are the only one with the account secret, so without that, there is no way to confiscate or freeze your XRP.
 
