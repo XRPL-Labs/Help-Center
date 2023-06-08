@@ -10,9 +10,17 @@ Before you proceed, please ensure that your wallet supports the XRP Ledger, alon
 
 [Download a tool to convert Secret Numbers to Family Seed](https://secret-numbers-to-family-seed.xumm.dev/)
 
+#### Risks associated with importing account secrets
+
+Whenever you import an account secret (secret numbers/family seed/mnemonic) into a wallet, website or mobile device, there is a risk of exposing your account secret to third parties.&#x20;
+
+Before you continue, we strongly recommend you consider reviewing this article:
+
+[**Should I import my XRPL account in Xumm?**](../getting-started-with-xumm/importing-your-account/should-i-import-my-xrpl-account-into-xumm.md)
 
 
-### Additional information
+
+#### Additional information
 
 Secret Numbers are a [proposed standard](https://github.com/xrp-community/standards-drafts/issues/15), and the source code to generate, read & convert them is [open source & publicly available](https://github.com/WietseWind/xrpl-secret-numbers).
 
