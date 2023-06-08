@@ -85,31 +85,31 @@ However, let’s say someone manages to guess your 6 digit passcode in under 228
 
 Yes and no.&#x20;
 
-The passcode that you configure in Xumm is designed to keep people from accessing Xumm. It **does not** protect your Secret Numbers from being used by someone else.
+The passcode that you configure in Xumm is designed to keep people from accessing the Xumm application. It **does not** protect your Secret Numbers from being used by someone else.
 
-For example, let's say you have two phones and you have installed Xumm on both of them. You could import your secret numbers into both phones and access your XRP Ledger account from both devices. The passcode that you setup on one phone does not effect your second phone. You could configure one phone with one passcode and your other phone with a different passcode. Changin your passcode on either device does not effect the other device. In other words, the passcode is a local security measure on your device to prevent accessing the Xumm app. The same applies to any signing password you create.&#x20;
+For example, let's say you have two phones and you have installed Xumm on both of them. You could import your secret numbers into both phones and access your XRP Ledger account from both devices. The passcode that you setup on one phone does not affect your second phone. You could configure one phone with one passcode and your other phone with a different passcode. Changing your passcode on either device does not affect the other device. In other words, the passcode is a local security measure on your device to prevent accessing the Xumm app. The same applies to any signing password you create.&#x20;
 
-The goal for Xumm is to protect your Secret Numbers **on your phone**. The passcode and signing passwords are designed to do this.
+The goal for Xumm is to protect your Secret Numbers **on your phone**. The passcode and signing passwords are designed to help do this.
 
 ## **Why would I need the Xumm Tangem cards then?**
 
 By this point, hopefully you realize it is basically impossible to **guess** the Secret Numbers in your lifetime. The amount of possibilities is just too great, but... there is the risk that your phone could be lost or stolen. If that were to happen, and given enough time and resources, your phone could be hacked and once someone gained access to your phone, they might be able to hack Xumm and if they did that they might be able to decrypt your secret numbers, and if they did that, they could access your funds! &#x20;
 
-We are talking theoretical here but still, it might be possible, so we decided to offer a way to mitigate the risk of a lost or stolen phone... enter **Xumm Tangem cards**.
+We are talking theoretical here but still, it might be possible, so we decided to offer a way to mitigate the risk of a lost or stolen phone... enter **Xumm (Tangem) cards**.
 
-The Xumm Tangem cards are the perfect way of alleviating the risk of a compromised phone, especially if you follow our recommend guidelines here:
+Xumm cards are the perfect way to alleviate the risk of a compromised phone, especially if you follow our recommend guidelines here:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Best Security Practices Using Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/best-security-practices-using-a-xumm-card.md">best-security-practices-using-a-xumm-card.md</a></td><td><a href="../../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td></tr></tbody></table>
 
 Although we believe that your phone is secure and that it will never get lost/damaged/stolen or hacked, having a pair of cards will ensure that even if your phone **was** ever compromised, your XRPL account would still be safe. Here’s how they work…
 
-A Xumm Tangem card will generate a set of private keys **on the card**. They never leave the card. No one will ever see them, (including you) and there is no way to access them. You can never be tricked into giving your account secret away and the only way to access your account is by having the card with you.
+A Xumm card will generate a set of private keys **on the card**. They never leave the card. No one will ever see them, (including you) and there is no way to access them. You can never be tricked into giving your account secret away and the only way to access your account is by having the card with you.
 
 ## **This sounds better than a cold wallet.**
 
-You’re right. Most cold wallets give you the account secret (Secret Numbers/Family Seed/Mnemonic) so you can be tricked into giving it away. This can not happen with the Xumm Tangem cards. As well, most cold wallets also require that you have a computer to use them and computers can be VERY difficult to secure. This is not an issue with the Xumm Tangem cards.
+You’re right. Most cold wallets give you the account secret (Secret Numbers/Family Seed/Mnemonic) so you can be tricked into giving it away. This can not happen with the Xumm cards. As well, most cold wallets also require that you have a computer to use them and computers can be VERY difficult to secure. This is not an issue with the Xumm cards.
 
-Your private key (keypair) is generated by a chip inside the Xumm Tangem card. The keypair **cannot be extracted or wiped** from the card and the [key generation by the chip inside the card is very secure](https://twitter.com/Tangem/status/1346555757009899520?s=20). (And has been audited.) There is no way for you to access them so you can never give them away. Like we said, the account secret is **on the card** and the only way to access your account is by physically having the card with you.
+Your private key (keypair) is generated by a chip inside the Xumm card. The keypair **cannot be extracted or wiped** from the card and the [key generation by the chip inside the card is very secure](https://twitter.com/Tangem/status/1346555757009899520?s=20). (And has been audited.) There is no way for you to access them so you can never give them away. Like we said, the account secret is **on the card** and the only way to access your account is by physically having the card with you.
 
 ## **Could someone hack the card?**
 

@@ -14,7 +14,7 @@ Before you proceed, please ensure that your wallet supports the XRP Ledger, alon
 
 Whenever you import an account secret (secret numbers/family seed/mnemonic) into a wallet, website or mobile device, there is a risk of exposing your account secret to third parties.&#x20;
 
-Before you continue, we strongly recommend you consider reviewing this article:
+We strongly recommend you consider reviewing this article so you better understand the risks associated with this process:
 
 [**Should I import my XRPL account in Xumm?**](../getting-started-with-xumm/importing-your-account/should-i-import-my-xrpl-account-into-xumm.md)
 
