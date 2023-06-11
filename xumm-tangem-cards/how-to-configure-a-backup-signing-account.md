@@ -32,7 +32,13 @@ If you plan to carry one of the cards with you in your wallet/purse, you would c
 
 ### First things first...
 
-Before you can configure backup signing card, you will need to import both cards into Xumm.
+Before you can begin this process, you need to have **two** Xumm cards and **both of them must** be imported into Xumm.
+
+{% hint style="danger" %}
+This is the number one question we get when it comes to configuring the cards.&#x20;
+
+This process requires that you have two cards and that **each one** of them needs to be added into Xumm before you can proceed.
+{% endhint %}
 
 This article provides step by step instructions on how to do this:
 
