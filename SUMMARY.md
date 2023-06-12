@@ -48,6 +48,7 @@
 * [How to test your Account Secret](getting-started-with-xumm/how-to-test-your-account-secret.md)
 * [How to rekey your account](getting-started-with-xumm/how-to-rekey-your-account.md)
 * [How to disable the Master key](getting-started-with-xumm/how-to-disable-the-master-key.md)
+* [How to configure biometrics](getting-started-with-xumm/how-to-configure-biometrics.md)
 
 ## Learning more about Xumm
 
