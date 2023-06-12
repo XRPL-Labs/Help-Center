@@ -4,11 +4,11 @@ description: How can I convert my XRP into fiat?
 
 # Cashing out your XRP
 
-If you are interested in converting some of your XRP into fiat, you have severa options
+If you are interested in converting some of your XRP into fiat, you have several options.
 
 ### **Option 1**
 
-If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp service to our Xumm Pro users. You can buy and sell XRP from our [**On/Off-Ramp xApp**](https://xumm.app/detect/xapp:xumm.onofframp) and send funds back and forth between Xumm and your bank account. For most people, this fast, convenient and secure service will more than meet their needs so if you are interested in learning more about how it works, check out this article:
+If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp service to our Xumm Pro users. You can sell XRP from our [**On/Off-Ramp xApp**](https://xumm.app/detect/xapp:xumm.onofframp) and send funds to your bank account. For most people, this fast, convenient and secure service will more than meet their needs so if you are interested in learning more about how it works, check out this article:
 
 * [**All about the Xumm On/Off-Ramp Service**](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
 
@@ -18,7 +18,7 @@ Please note: You can only off-ramp XRP that you purchased through our service. W
 
 ### Option 2
 
-If you are not located in the Netherlands or the UK, we have partnered with Banxa, BTCDirect and Guardarian which all offer the option to purchase XRP from various countries around the world.
+We have partnered with several exchanges including Banxa, BTCDirect and Guardarian, some of which offer off-ramp services.
 
 | Exchange                                        | Link                                                                     | Article              |
 | ----------------------------------------------- | ------------------------------------------------------------------------ | -------------------- |
@@ -26,9 +26,7 @@ If you are not located in the Netherlands or the UK, we have partnered with Banx
 | ![](<../.gitbook/assets/image (5) (1) (1).png>) | [**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)   | All About BTCDirect  |
 | ![](<../.gitbook/assets/image (12).png>)        | [**Guardarian xApp**](https://xumm.app/detect/xapp:guardarian.onofframp) | All About Guardarian |
 
-Combined, Banxa, BTCDirect and Guardarian offer exchange services to most countries in the world. You can find them by clicking on the above links or in Xumm by pressing the <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> then selecting the [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp. (Or just click here: [<mark style="color:blue;">**Buy/Sell XRP xApp**</mark>](https://xumm.app/detect/xapp:xumm.buysellxrp))
-
-We plan to partner will other exchanges in the future to expand and improve our coverage along with extending our our services.
+Due to the changing regulations in various countries, you'll need to reach out to your preferred exchange and see if they offer off-ramp services to your region.&#x20;
 
 ### Option 3
 
