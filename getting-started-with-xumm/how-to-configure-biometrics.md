@@ -26,8 +26,6 @@ As long as you have successfully setup your fingerprint and face scan on your ph
 
 ## Additional things to consider
 
-
-
 * Once biometrics has been enabled in Xumm, it will continually check the biometric configuration on your phone to see there have been any changes. Any updates/additions/modifications to the biometric config files on your device and Xumm automatically disable biometric authentication and revert exclusively to the six digit passcode configured during the initial Xumm setup.\
   \
   We did this because an attacker with access to your phone could add their own fingerprint, thus granting themselves access not only to your phone but also to your Xumm wallet.\
