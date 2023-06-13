@@ -26,43 +26,33 @@ As long as you have successfully setup your fingerprint and face scan on your ph
 
 ## Additional things to consider
 
-* Once biometrics has been enabled in Xumm, it will continually check the biometric configuration on your phone to see there have been any changes. Any updates/additions/modifications to the biometric config files on your device and Xumm automatically disable biometric authentication and revert exclusively to the six digit passcode configured during the initial Xumm setup.\
+* Once biometrics has been enabled in Xumm, it will continually check the biometric configuration on your phone to see there have been any changes. If it detects any updates/additions/modifications to the biometric config files on your device, Xumm will automatically disable biometric authentication and revert exclusively to the six digit passcode configured during the initial installation.\
   \
-  We did this because an attacker with access to your phone could add their own fingerprint, thus granting themselves access not only to your phone but also to your Xumm wallet.\
+  (Note: We did this because an attacker with access to your phone might be able to add their own fingerprint to your device, thus granting themselves access not only to your phone but also to your Xumm wallet.)\
   \
-  If this happens, just disabled Biometric authentication in Xumm, reboot your phone, then launch Xumm and re-enable Biometric authentication.
-*
-
-On most phones, you can re-enable the biometric authentication feature via the _**Security**_ section in _Xumm._ To get there, press _**Settings**_ -> _**Security**_ -> **Biometric authentication**   ![mceclip1.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5891226989970/mceclip1.png)&#x20;
-
-**Samsung phones**
+  If this happens, just disable Biometric authentication in Xumm, reboot your phone, then launch Xumm and re-enable Biometric authentication.
+* &#x20;**Samsung phones**
 
 On some phones, you may encounter the follow message,
 
-![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5968027431570/mceclip0.png)
+<figure><img src="../.gitbook/assets/Biometrics - Error - 1.png" alt=""><figcaption></figcaption></figure>
 
-In order to fix this, you need to have BOTH a Fingerprint and a Face ID configured in order for it to work.
+As mentioned above,  you must have **BOTH** a Fingerprint and a Face ID configured in order for either of them to work in Xumm.
 
-Go into _**Settings**_ on your phone and select _**Biometrics and security**_.
+On most Samsung phones, here is how to configure this:
+
+1\) Go into _**Settings**_ on your phone and select _**Biometrics and security**_.
+
+<figure><img src="../.gitbook/assets/Biometrics - Samsung config screen 1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
-
-![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/6061274483474/mceclip0.png)
 
 Make sure you have both face **and** fingerprints setup.
 
-&#x20;
-
-![mceclip1.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/6061259569810/mceclip1.png)
-
-&#x20;
-
-&#x20;
-
-&#x20;
+<figure><img src="../.gitbook/assets/Biometrics - Samsung config screen 2.png" alt=""><figcaption></figcaption></figure>
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the **Xumm Support xApp** in Xumm or you can simply scan this QR code with XUMM and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-![Support\_banner.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4420057706002/Support\_banner.png)
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
