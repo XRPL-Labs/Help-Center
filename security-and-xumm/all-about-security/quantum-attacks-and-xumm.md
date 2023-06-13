@@ -22,13 +22,7 @@ The truth is, public-key cryptography is being used by every government, every m
 
 ### **When will a quantum computer be ready to initiate a quantum attack?**
 
-crack encryption algorithms will compromise the security of the Internet and damage global security.
-
-Recently we have receive a number of questions about “quantum attacks” and what Xumm is doing to
-
-Any quantum-resistant standard will be secure against all envisioned and understood quantum computing capabilities.
-
-Have you ever sent or received an email? Checked your credit card balance online? Visited and e-commerce site?  All these sites and services use a web protocol called HTTPS that encrypts the data that is sent across the internet.
+Many estimates suggest CRQC's will be viable in about 5 years time.
 
 ### You just created the worlds first CRQC. What should we do?
 
