@@ -18,7 +18,7 @@ Theoretically, in the near future, there will be several different types of quan
 
 ### **Which cryptographic systems are at risk of being attacked?**
 
-The truth is, public-key cryptography is being used in almost every government sector, ever corporation, public communications, miltiary communications,&#x20;
+The truth is, public-key cryptography is being used by every government, every military, every corporation and by every person who uses the internet. Public-key cryptography is used by every bank, every financial institution, every hospital, every business and every blockchain. CRQC's can be programmed to attack any system that use cryptography in any capacity.
 
 ### **When will a quantum computer be ready to initiate a quantum attack?**
 
