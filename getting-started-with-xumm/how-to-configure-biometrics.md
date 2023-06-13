@@ -12,9 +12,10 @@ There are couple of things that you should be aware of before you configure Xumm
 
 * Xumm does not create or store your biometric information. It relies on your phone to manage this data.
 * Configuring Xumm to use biometrics does not replace your 6 digit passcode. You can still use your passcode to access Xumm.
-* You must configure **both** your fingerprint **and** your face scan on your phone before Xumm will enable biometrics. Configuring one or the other **will not work**.
+* On some older phones, you must configure **both** your fingerprint **and** your face scan on your phone before Xumm will enable biometrics. Configuring one or the other **will not work**.&#x20;
+* Some Apple phones, (iphone 12, 13 and 14) do not have the option to setup Touch ID. With those phones, you can only configure Face ID so Xumm will only support Face ID in those cases.&#x20;
 
-As long as you have successfully setup your fingerprint and face scan on your phone, enabling biometrics can be easily done by:
+So, depending on your phone, as long as you have successfully setup your fingerprint and/or face scan on your phone, enabling biometrics can be easily done by:
 
 1\) Launch Xumm and press the **Settings** button.
 
@@ -37,7 +38,7 @@ On some phones, you may encounter the follow message,
 
 <figure><img src="../.gitbook/assets/Biometrics - Error - 1.png" alt=""><figcaption></figcaption></figure>
 
-As mentioned above,  you must have **BOTH** a Fingerprint and a Face ID configured in order for either of them to work in Xumm.
+As mentioned above,  you can try configuring **BOTH** a Fingerprint and a Face ID configured.
 
 On most Samsung phones, here is how to configure this:
 
