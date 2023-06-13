@@ -1,3 +1,7 @@
+---
+description: A little bit about Quantum attacks
+---
+
 # Quantum Attacks and Xumm
 
 {% hint style="info" %}
@@ -10,9 +14,15 @@ This article is not meant to be a definitive source of information about all thi
 
 ### **What is a quantum computer?**
 
-Theoretically there will be several different types of quantum computers that can address some types of computation, but the ones you are going to be most concerned about are those which will be suitable for analyzing cryptographic algorithms. Those are referred to as CRQC's or “Cryptographically Relevant Quantum Computers”. CRQCs will theoretically be capable attacking real world cryptographic systems.&#x20;
+Theoretically, in the near future, there will be several different types of quantum computers that will be capable of doing certain types computation at very high speeds. Some of those computers will most likely be suitable for analyzing cryptographic algorithms. Those are referred to as CRQC's or “Cryptographically Relevant Quantum Computers”. CRQCs will theoretically be capable of attacking real world cryptographic systems.&#x20;
+
+### **Which cryptographic systems are at risk of being attacked?**
+
+The truth is, public-key cryptography is being used in almost every government sector, ever corporation, public communications, miltiary communications,&#x20;
 
 ### **When will a quantum computer be ready to initiate a quantum attack?**
+
+crack encryption algorithms will compromise the security of the Internet and damage global security.
 
 Recently we have receive a number of questions about “quantum attacks” and what Xumm is doing to
 
