@@ -35,7 +35,7 @@
   * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
   * [BTCDirect](getting-started-with-xumm/buying-xrp/btcdirect.md)
   * [Guardarian](getting-started-with-xumm/buying-xrp/guardarian.md)
-* [Poko](getting-started-with-xumm/poko.md)
+  * [Poko](getting-started-with-xumm/buying-xrp/poko.md)
 * [Sending tokens to Xumm](getting-started-with-xumm/sending-tokens-to-xumm.md)
 * [Sending tokens from Xumm](getting-started-with-xumm/sending-tokens-from-xumm.md)
 * [How to convert a Read only account to Full Access](getting-started-with-xumm/how-to-convert-a-read-only-account-to-full-access.md)
