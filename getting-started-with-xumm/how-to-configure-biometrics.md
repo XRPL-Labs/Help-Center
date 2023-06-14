@@ -37,6 +37,8 @@ If this happens, just disable Biometric authentication in Xumm, reboot your phon
 
 ## Troubleshoot tips
 
+In many cases, just toggling _**Settings** > **Security** > **Biometric Authentication**_ off then back on is enough to resolve most issues.
+
 **Samsung phones**
 
 On some phones, you may encounter the follow message,
