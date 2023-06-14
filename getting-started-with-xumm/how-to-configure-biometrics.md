@@ -27,16 +27,17 @@ As long as you have successfully setup your fingerprint and/or face scan on your
 
 <figure><img src="../.gitbook/assets/Biometrics.png" alt=""><figcaption></figcaption></figure>
 
+## Biometrics and Xumm security
 
+Once biometrics has been enabled in Xumm, it will continually check the biometric configuration on your phone to see there have been any changes. If the host parameters of biometrics change (e.g. iCloud account security settings updated, fingerprint/face added/removed, etc..) Xumm will  automatically disable biometric authentication and revert exclusively to the six digit passcode configured during the initial installation.\
+\
+We did this because an attacker with access to your phone might be able to add their own fingerprint to your device, thus granting themselves access not only to your phone but also to your Xumm wallet.)\
+\
+If this happens, just disable Biometric authentication in Xumm, reboot your phone, then launch Xumm and re-enable Biometric authentication.
 
-## Additional things to consider
+## Troubleshoot tips
 
-* Once biometrics has been enabled in Xumm, it will continually check the biometric configuration on your phone to see there have been any changes. If it detects any updates/additions/modifications to the biometric config files on your device, Xumm will automatically disable biometric authentication and revert exclusively to the six digit passcode configured during the initial installation.\
-  \
-  (Note: We did this because an attacker with access to your phone might be able to add their own fingerprint to your device, thus granting themselves access not only to your phone but also to your Xumm wallet.)\
-  \
-  If this happens, just disable Biometric authentication in Xumm, reboot your phone, then launch Xumm and re-enable Biometric authentication.
-* &#x20;**Samsung phones**
+**Samsung phones**
 
 On some phones, you may encounter the follow message,
 
