@@ -27,7 +27,7 @@ You can find a list of Poko's partner contacts, launch the Poko xApp then tap th
 
 <figure><img src="../../.gitbook/assets/Poko 1.png" alt=""><figcaption></figcaption></figure>
 
-Next press the ![](<../../.gitbook/assets/image (21).png>)
+Next press the ![](<../../.gitbook/assets/image (8).png>)
 
 <figure><img src="../../.gitbook/assets/Poko 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,3 +36,10 @@ then select the appropriate partner.
 <figure><img src="../../.gitbook/assets/Poko 3.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+
