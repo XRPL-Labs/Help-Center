@@ -15,15 +15,19 @@ There are couple of things that you should be aware of before you configure Xumm
 * On some older phones, you must configure **both** your fingerprint **and** your face scan on your phone before Xumm will enable biometrics. Configuring one or the other **will not work**.&#x20;
 * Some Apple phones, (iphone 12, 13 and 14) do not have the option to setup Touch ID. With those phones, you can only configure Face ID so Xumm will only support Face ID in those cases.&#x20;
 
-So, depending on your phone, as long as you have successfully setup your fingerprint and/or face scan on your phone, enabling biometrics can be easily done by:
+## Enabling biometrics in Xumm
 
-1\) Launch Xumm and press the **Settings** button.
+As long as you have successfully setup your fingerprint and/or face scan on your phone, enabling biometrics can be easily done by:
 
-2\) Tab the **Security** option.
+1\) Launching Xumm and pressing the **Settings** button.
 
-2\) Tap the **Biometric authentication** button.
+2\) Tapping the **Security** option.
+
+2\) Tapping the **Biometric authentication** button.
 
 <figure><img src="../.gitbook/assets/Biometrics.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Additional things to consider
 
