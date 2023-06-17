@@ -33,7 +33,13 @@ The next part of the process is to manually enter all of the secret numbers back
 
 You should receive your public address, also known as your r-address. Press the **Next** button to complete the process and get back to the main page of Xumm.
 
+
+
+<figure><img src="../../.gitbook/assets/Account Activation xApp.png" alt=""><figcaption></figcaption></figure>
+
 Well done. You've generated a new account on the XRP Ledger!
+
+
 
 **Notes**
 
