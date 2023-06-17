@@ -162,14 +162,13 @@
 ## Security and Xumm
 
 * [All About Security](security-and-xumm/all-about-security/README.md)
-  * [Upgrading your encryption](security-and-xumm/all-about-security/upgrading-your-encryption.md)
-  * [Security advisory](security-and-xumm/all-about-security/security-advisory.md)
   * [How secure is Xumm?](security-and-xumm/all-about-security/how-secure-is-xumm.md)
-  * [Best practices](security-and-xumm/all-about-security/best-practices.md)
+  * [Has Xumm been audited?](security-and-xumm/all-about-security/has-xumm-been-audited.md)
+  * [Upgrading your encryption](security-and-xumm/all-about-security/upgrading-your-encryption.md)
   * [Xumm Tangem Cards](security-and-xumm/all-about-security/xumm-tangem-cards.md)
   * [2FA and Xumm](security-and-xumm/all-about-security/2fa-and-xumm.md)
-  * [Quantum Attacks and Xumm](security-and-xumm/all-about-security/quantum-attacks-and-xumm.md)
   * [Account present on another device](security-and-xumm/all-about-security/account-present-on-another-device.md)
+  * [Quantum Attacks and Xumm](security-and-xumm/all-about-security/quantum-attacks-and-xumm.md)
 
 ## XRP Ledger resources
 

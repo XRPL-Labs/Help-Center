@@ -10,13 +10,15 @@ This article is currently under construction
 
 ## **Introduction**
 
-This article is not meant to be a definitive source of information about all things quantum related. It is meant to answer some basic questions about quantum computing and to explain our view on the future of quantum attacks as they relate to Xumm and the XRP Ledger.
+This article is meant to answer some basic questions about quantum computing and to explain our view on the future of quantum attacks as they relate to Xumm and the XRP Ledger.
 
 ### **What is a quantum computer?**
 
-Theoretically, in the near future, there will be several different types of quantum computers that will be capable of doing certain types computation at very high speeds. Some of those computers will most likely be suitable for analyzing cryptographic algorithms. Those are referred to as CRQC's or “Cryptographically Relevant Quantum Computers”. CRQCs will theoretically be capable of attacking real world cryptographic systems.&#x20;
+Theoretically, in the near future, there will be several different types of quantum computers that will be capable of doing certain types computation at very high speeds. Some of those computers will most likely be suitable for analyzing cryptographic algorithms. Those are referred to as CRQC's or “Cryptographically Relevant Quantum Computers”. CRQCs will theoretically be extremely adept at attacking and deciphering real world cryptographic systems.&#x20;
 
 ### **Which cryptographic systems are at risk of being attacked?**
+
+Also referred to as public-key algorithms, asymmetric-key algorithms use paired keys (a public and a private key) in performing their function. The public key is known to all, but the private key is controlled solely by the owner of that key pair. The private key cannot be mathematically calculated through the use of the public key even though they are cryptographically related. Asymmetric algorithms are used for:
 
 The truth is, public-key cryptography is being used by every government, every military, every corporation and by every person who uses the internet. Public-key cryptography is used by every bank, every financial institution, every hospital, every business and every blockchain. CRQC's can be programmed to attack any system that use cryptography in any capacity.
 
