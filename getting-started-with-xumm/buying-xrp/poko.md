@@ -27,7 +27,7 @@ You can find a list of Poko's partner contacts, launch the Poko xApp then tap th
 
 <figure><img src="../../.gitbook/assets/Poko 1.png" alt=""><figcaption></figcaption></figure>
 
-Next press the ![](<../../.gitbook/assets/image (20).png>)
+Next press the ![](<../../.gitbook/assets/image (19).png>)
 
 <figure><img src="../../.gitbook/assets/Poko 2.png" alt=""><figcaption></figcaption></figure>
 
