@@ -50,7 +50,7 @@ You'll notice that you have three additional options:
 
 | Option                                      | Explanation                                                                                                       |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| ![](<../.gitbook/assets/image (8).png>)     | Displays any offers you have made or received for this NFT                                                        |
+| ![](<../.gitbook/assets/image (8) (3).png>) | Displays any offers you have made or received for this NFT                                                        |
 | ![](<../.gitbook/assets/image (2) (6).png>) | Copies a link to your NFT.                                                                                        |
 | ![](<../.gitbook/assets/image (9).png>)     | Open a blockchain explore where you can view additional details about your NFT including the history of your NFT. |
 

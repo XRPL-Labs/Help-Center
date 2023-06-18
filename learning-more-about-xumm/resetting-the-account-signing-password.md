@@ -23,13 +23,11 @@ The following table explains the differences.
 
 
 
-If you selected **Extra security** you would have created a separate signing password. If you have forgotten that signing password or if it is not working or you would like to change it. This article explains how to do this.
-
-
+If you selected **Extra security** you would have created a separate signing password. If you have forgotten that signing password, if it is not working, or you would like to change it, here are the instructions on how to do this.
 
 ### Step 1 - Remove the account from Xumm
 
-1. Launch Xumm and press **Settings** -> **Accounts** -> then press the **Edit** button beside the account to be removed.
+1. Launch Xumm and press **Settings** -> **Accounts** -> then press the **Edit** button beside the account to be removed. (Note: This does not delete your account from the XRP Ledger, it simply removes your account from Xumm. )
 2. Select **Remove from Xumm** then **Yes, I’m Sure**’ on the warning screen.
 
 {% hint style="warning" %}
