@@ -60,7 +60,13 @@ Enter the account label, then touch **Done** and press the **Next** button**.**
 
 Press the **Hooray, let's go!**
 
+You should now be at the main screen of Xumm.
+
 <figure><img src="../../.gitbook/assets/Activate your account.png" alt=""><figcaption></figcaption></figure>
+
+Notice that your new account has **not been activated** yet.
+
+All XRPL accounts [need to be activated](https://help.xumm.app/getting-started-with-xumm/how-to-activate-a-new-xrpl-account) with at least 10 XRP in order to hold XRP in them.
 
 
 
