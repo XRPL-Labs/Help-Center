@@ -31,7 +31,15 @@ The next part of the process is to manually enter all of the secret numbers back
 
 <figure><img src="../../.gitbook/assets/Public address - 1.png" alt=""><figcaption></figcaption></figure>
 
-You should receive your public address, also known as your r-address. Press the **Next** button to complete the process and get back to the main page of Xumm.
+You should receive your public address, also known as your r-address. To continue, press the **Next** button.
+
+<figure><img src="../../.gitbook/assets/Activate screen - 1.png" alt=""><figcaption></figcaption></figure>
+
+Press the **Next, I understand** button to continue.
+
+
+
+&#x20;to complete the process and get back to the main page of Xumm.
 
 
 
