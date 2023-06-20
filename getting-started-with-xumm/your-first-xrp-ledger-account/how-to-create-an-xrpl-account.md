@@ -66,17 +66,21 @@ You should now be at the main screen of Xumm.
 
 Notice that your new account has **not been activated** yet.
 
-All XRPL accounts [need to be activated](https://help.xumm.app/getting-started-with-xumm/how-to-activate-a-new-xrpl-account) with at least 10 XRP in order to hold XRP in them.
+All XRPL accounts [need to be activated](../../getting-started/how-to-activate-a-new-xrpl-account.md) with at least 10 XRP in order to hold XRP in them.
 
-
+Pressing the **Activate your account** button gets you into the Account Activation flow.
 
 
 
 <figure><img src="../../.gitbook/assets/Account Activation xApp.png" alt=""><figcaption></figcaption></figure>
 
-Well done. You've generated a new account on the XRP Ledger!
+If you press the **Buy XRP** button you will be provided with several options to purchase XRP.
 
 <figure><img src="../../.gitbook/assets/Buy-Sell XRP.png" alt=""><figcaption></figcaption></figure>
+
+For more information about activating your new XRP Ledger account, please refer to this article:
+
+[**Activating an XRPL account**](../../getting-started/how-to-activate-a-new-xrpl-account.md)
 
 
 
