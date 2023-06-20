@@ -60,6 +60,8 @@ Enter the account label, then touch **Done** and press the **Next** button**.**
 
 Press the **Hooray, let's go!**
 
+<figure><img src="../../.gitbook/assets/Activate your account.png" alt=""><figcaption></figcaption></figure>
+
 
 
 
@@ -67,6 +69,8 @@ Press the **Hooray, let's go!**
 <figure><img src="../../.gitbook/assets/Account Activation xApp.png" alt=""><figcaption></figcaption></figure>
 
 Well done. You've generated a new account on the XRP Ledger!
+
+<figure><img src="../../.gitbook/assets/Buy-Sell XRP.png" alt=""><figcaption></figcaption></figure>
 
 
 

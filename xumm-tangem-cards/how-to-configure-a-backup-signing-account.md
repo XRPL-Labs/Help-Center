@@ -52,7 +52,7 @@ You **do not** need to activate your **Signing account.** You just need to impor
 
 ### Using the Tangem Backup xApp
 
-Click [here](https://xumm.app/detect/xapp:xumm.tangem-backup) to launch the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) or you can manually launch it in Xumm by pressing<img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (3) (5).png" alt="" data-size="line">and select it from the list.
+Click [here](https://xumm.app/detect/xapp:xumm.tangem-backup) to launch the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) or you can manually launch it in Xumm by pressing<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> then choosing <img src="../.gitbook/assets/image (3) (5).png" alt="" data-size="line">and select it from the list.
 
 Select **I'm ready, continue**
 
