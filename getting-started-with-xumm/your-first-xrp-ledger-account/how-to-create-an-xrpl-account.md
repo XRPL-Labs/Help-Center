@@ -37,9 +37,30 @@ You should receive your public address, also known as your r-address. To continu
 
 Press the **Next, I understand** button to continue.
 
+Next you should see the following screen:
+
+<figure><img src="../../.gitbook/assets/Install - Extra Security screen.png" alt=""><figcaption></figcaption></figure>
+
+The following table should help you decide which option is best for you.
 
 
-&#x20;to complete the process and get back to the main page of Xumm.
+
+| Option                                             | Explanation                                                                                                                                                         |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../../.gitbook/assets/image (1) (2) (3).png>) | Standard security is a great option your daily spending account. You can sign with your 6 digit passcode or enable biometrics and sign with your face/finger print. |
+| ![](<../../.gitbook/assets/image (3) (1) (2).png>) | Extra security allows you to enter a separate signing password. This is the best option for your long term storage account.                                         |
+
+Once you decide, select it and press the **Next** buton.
+
+<figure><img src="../../.gitbook/assets/Account label 1.png" alt=""><figcaption></figcaption></figure>
+
+Enter the account label, then touch **Done** and press the **Next** button**.**
+
+<figure><img src="../../.gitbook/assets/Hooray.png" alt=""><figcaption></figcaption></figure>
+
+Press the **Hooray, let's go!**
+
+
 
 
 
