@@ -36,9 +36,9 @@ In order to use the Account Merge xApp the following criteria needs to be met:
 
 Simply touch this link:
 
-****[**Account Merge**](https://xumm.app/detect/xapp:xumm.accountmerge)****
+[**Account Merge**](https://xumm.app/detect/xapp:xumm.accountmerge)
 
-or you can find it by pressing the <img src="../../.gitbook/assets/image (2) (5).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm then select ![](<../../.gitbook/assets/image (2) (6) (1).png>)\
+or you can find it by pressing the <img src="../../.gitbook/assets/image (2) (5) (1).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm then select ![](<../../.gitbook/assets/image (2) (6) (1).png>)\
 
 
 <figure><img src="../../.gitbook/assets/Account merge - xApp - 1.png" alt=""><figcaption></figcaption></figure>
