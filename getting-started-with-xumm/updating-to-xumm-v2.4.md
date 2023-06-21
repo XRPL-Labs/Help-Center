@@ -8,7 +8,9 @@ coverY: -28
 
 ### Welcome to the latest version!
 
-If you are interested in learning about some of the main changes and features of Xumm v2.4, you're at the right place! This version includes many different upgrades, new features, tweaks and improvements and while many of them are "behind the scene" improvements, there are some things you will notice and appreciate right away, so let's get started...&#x20;
+If you are interested in learning about some of the main changes and features of Xumm v2.4, you're at the right place!
+
+This version includes many different upgrades, new features, tweaks and improvements and while many of them are "behind the scene" improvements, there are some things you will notice and appreciate right away, so let's get started...&#x20;
 
 ### Get the value of your XRP on the main screen
 
@@ -34,7 +36,7 @@ and...
 
 If you are interested in learning more about how Xumm interacts with NFTs, check out this article:
 
-* [**About NFTs**](../learning-more-about-xumm/nfts.md)
+* [**About NFTs**](../learning-more-about-xumm/nfts/)
 
 ### Improved security
 
@@ -50,7 +52,7 @@ For more information on this, check out his article:
 
 This version includes the ability to **revoke access** from third party sites and xApps.
 
-In Xumm, press **Settings** then **Third party apps** to get a list of apps / sites which you can revoke access from.&#x20;
+In Xumm, press **Settings** then **Third party apps** to get a list of apps / sites from which you can revoke access.&#x20;
 
 <figure><img src="../.gitbook/assets/v24 - Third party apps.png" alt=""><figcaption></figcaption></figure>
 

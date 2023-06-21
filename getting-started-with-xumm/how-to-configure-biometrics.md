@@ -43,7 +43,7 @@ In many cases, just toggling _**Settings** > **Security** > **Biometric Authenti
 
 On some phones, you may encounter the follow message,
 
-<figure><img src="../.gitbook/assets/Biometrics - Error - 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Biometrics - Error - 1.png" alt=""><figcaption></figcaption></figure>
 
 As mentioned above,  you can try configuring **BOTH** a Fingerprint and a Face ID configured.
 

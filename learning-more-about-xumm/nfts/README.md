@@ -1,6 +1,6 @@
 ---
 description: All about NFTs
-cover: ../.gitbook/assets/Rock with NFT carved in it.png
+cover: ../../.gitbook/assets/Rock with NFT carved in it.png
 coverY: 82
 ---
 
@@ -8,7 +8,7 @@ coverY: 82
 
 ### **What is an NFT exactly?**
 
-Technically an NFT (non-fungible token) is an object on the XRP Ledger that can be uniquely identified, but in practice, an NFT can be used to **represent** almost anything you can think of.
+Technically an NFT (non-fungible token) is an object on the XRP Ledger that can be uniquely identified, but in practice, an NFT can be used to **represent** almost anything imaginable.
 
 For example, an NFT can be a concert ticket, a picture, a song, proof of ownership, a license or a lease.&#x20;
 
@@ -16,7 +16,7 @@ In simple terms, an NFT is a unique identifier **on** the XRPL that points to an
 
 For more information, this link provides an excellent conceptual view of NFTs:
 
-* [**An overview of NFTs on the XRP Ledger**](https://xrpl.org/non-fungible-tokens.html)
+* **XRPL Foundation:** [**An overview of NFTs on the XRP Ledger**](https://xrpl.org/non-fungible-tokens.html)
 
 ### **Viewing NFTs in Xumm**
 
@@ -24,17 +24,17 @@ There are a couple of options for viewing NFTs in Xumm.
 
 1\) From the main screen, press the **Tokens** button,
 
-<figure><img src="../.gitbook/assets/v24 - Tokens page -1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/v24 - Tokens page -1.png" alt=""><figcaption></figcaption></figure>
 
 then select **NFT**,
 
-<figure><img src="../.gitbook/assets/v24 - Tokens page -3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/v24 - Tokens page -3.png" alt=""><figcaption></figcaption></figure>
 
-You should see a list of all of your NFT listed.&#x20;
+You should see a list of all of your NFT's.&#x20;
 
-2\) If you would like to view one of the NFTs in a larger format or view more information about a particular NFT, select it,  and it should display a screen similar to this:
+2\) If you would like to view one of the NFT's in a larger format or view more information about a particular NFT, select it,  and it should display a screen similar to this:
 
-<figure><img src="../.gitbook/assets/v24 - Tokens page -4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/v24 - Tokens page -4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 While the XRP Ledger has an NFT standard (XLS-20), the **metadata** standards for NFTs are still being developed. This means that not all NFTs may be displayed in all NFT viewers since they may have been minted using different metadata information.
@@ -42,17 +42,17 @@ While the XRP Ledger has an NFT standard (XLS-20), the **metadata** standards fo
 
 Until the XRPL community can agree on a set of metadata standards for NFTs, Xumm will rely on NFT minters to publish their own standards.
 
-You can try opening your NFT using one of the NFT viewer xApps list. In this case, we used Peerkat NFT viewer to view this one.
+You can try opening your NFT using one of the NFT viewer xApps in the list. In this case, we used Peerkat NFT viewer to view this one.
 
-<figure><img src="../.gitbook/assets/v24 - Tokens page -5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/v24 - Tokens page -5.png" alt=""><figcaption></figcaption></figure>
 
 You'll notice that you have three additional options:
 
-| Option                                      | Explanation                                                                                                       |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| ![](<../.gitbook/assets/image (8) (3).png>) | Displays any offers you have made or received for this NFT                                                        |
-| ![](<../.gitbook/assets/image (2) (6).png>) | Copies a link to your NFT.                                                                                        |
-| ![](<../.gitbook/assets/image (9).png>)     | Open a blockchain explore where you can view additional details about your NFT including the history of your NFT. |
+| Option                                         | Explanation                                                                                                       |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ![](<../../.gitbook/assets/image (8).png>)     | Displays any offers you have made or received for this NFT                                                        |
+| ![](<../../.gitbook/assets/image (2) (6).png>) | Copies a link to your NFT.                                                                                        |
+| ![](<../../.gitbook/assets/image (9).png>)     | Open a blockchain explore where you can view additional details about your NFT including the history of your NFT. |
 
 
 
@@ -68,7 +68,7 @@ No. In order to sell an NFT you will have to go through an NFT marketplace. Xumm
 
 This link provides an great conceptual view of NFT transfers:
 
-* [**Trading NFTs on the XRPL**](https://xrpl.org/non-fungible-token-transfers.html)
+* **XRPL Foundation:** [**Trading NFTs on the XRPL**](https://xrpl.org/non-fungible-token-transfers.html)
 
 #### **Can I transfer an NFT from another network to Xumm?**
 
@@ -106,5 +106,5 @@ There is actually! Here is our founder, Wietse Wind talking a bit about NFT's.
 
 We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
 
