@@ -10,11 +10,17 @@ If you are just getting started with crypto and blockchain, one of the biggest c
 
 ### Your custodial bank account
 
-Most people are familiar with the general idea of what a bank is and how they work.
+Most people are familiar with the general idea of what a bank is and how they work. In simple terms, a bank is a business that deals with money.
 
 In simple terms, a bank is a business that deals with money. As a customer, you can open an account with a bank and deposit money into that account. The bank holds that money for you until you decide how you would like to use your funds.&#x20;
 
 This is an example of a "custodial" or "hosted" account. The bank created an account on their "hosted" system (on their computers which they own and operate) and agree to take "custody" of your funds when you deposit them. While your funds are in their custody, they have certain obligations and responsibilities which are, in theory, overseen by local/federal governments who are supposed to ensure that the banks act in a responsible and transparent way.
+
+As a customer, you can open an account with a bank and deposit money into that account. The bank holds that money for you until you decide how you would like to use your funds.&#x20;
+
+This is an example of a "custodial" or "hosted" account. The bank created an account on their "hosted" system (on their computers which they own and operate) and agree to take "custody" of your funds when you deposit them.
+
+While your funds are in their custody, they have certain obligations and responsibilities which are, in theory, overseen by local/federal governments who are supposed to ensure that the banks act in a responsible and transparent way.
 
 Most of the time accessing your funds is a fairly easy and straightforward process but there are several situations where a bank can decide to restrict access to your money,for example:
 

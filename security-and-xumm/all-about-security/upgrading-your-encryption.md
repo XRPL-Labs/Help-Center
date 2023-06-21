@@ -34,7 +34,7 @@ Press the ![](<../../.gitbook/assets/image (1) (1) (1).png>) button. Xumm will l
 You may have noticed in our example that the "Card 1" account is not displayed in the above image. The "Card 1" account is a Xumm (Tangem) card account so it **can not** be upgraded. (Since the private key is stored on the card itself, not in Xumm.)
 {% endhint %}
 
-Press the ![](<../../.gitbook/assets/image (3) (3) (1).png>) button beside the account you would like to update then enter your 6 digit passcode.
+Press the ![](<../../.gitbook/assets/image (3) (3).png>) button beside the account you would like to update then enter your 6 digit passcode.
 
 <figure><img src="../../.gitbook/assets/Authenticate screen.png" alt=""><figcaption></figcaption></figure>
 

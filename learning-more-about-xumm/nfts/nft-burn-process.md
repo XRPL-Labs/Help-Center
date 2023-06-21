@@ -50,15 +50,15 @@ N.B. The "Sequence" and "Fee" fields are not present since XUMM will take care o
 
 Submit the transaction to Xumm via the button under the code
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 Update the Memo if necessary and select Confirm
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 A QR Code screen appears
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 In Xumm, either respond to the notification or scan the QR code to bring up the transaction&#x20;
 

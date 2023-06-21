@@ -24,7 +24,7 @@ Transaction Exporter Link
 
 Click on this link: [https://gatehub.net/explorer](https://gatehub.net/explorer) then enter your r-address, select the **Transactions** option, then **Export CSV**.
 
-<figure><img src="../.gitbook/assets/Export CSV (1).png" alt=""><figcaption><p>Export CSV</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Export CSV.png" alt=""><figcaption><p>Export CSV</p></figcaption></figure>
 
 ### **What if my tax software does not support .CSV files?**
 

@@ -23,11 +23,11 @@ Some of their partners include:
 
 Since Poko simply facilitates transactions between you and their partners, they do not offer customer support or answer questions related to their service. If you have _**any questions**_ about a particular transaction, you will need to contact the appropriate partner for assistance.
 
-You can find a list of Poko's partner contacts, launch the Poko xApp then tap the ![](<../../.gitbook/assets/image (18).png>)
+You can find a list of Poko's partner contacts, launch the Poko xApp then tap the ![](<../../.gitbook/assets/image (26).png>)
 
 <figure><img src="../../.gitbook/assets/Poko 1.png" alt=""><figcaption></figcaption></figure>
 
-Next press the ![](<../../.gitbook/assets/image (16).png>)
+Next press the ![](<../../.gitbook/assets/image (24).png>)
 
 <figure><img src="../../.gitbook/assets/Poko 2.png" alt=""><figcaption></figcaption></figure>
 

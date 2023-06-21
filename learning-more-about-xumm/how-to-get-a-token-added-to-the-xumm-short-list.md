@@ -8,7 +8,7 @@ The "short list" is the list of tokens that is presented when you press the _**+
 
 This is what the short list looks like:
 
-<figure><img src="../.gitbook/assets/Short List - 2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Short List - 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **How do I get a token on the Xumm short list**&#x20;
 
