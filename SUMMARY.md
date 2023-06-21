@@ -34,6 +34,7 @@
   * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
   * [BTCDirect](getting-started-with-xumm/buying-xrp/btcdirect.md)
   * [Guardarian](getting-started-with-xumm/buying-xrp/guardarian.md)
+  * [Topper](getting-started-with-xumm/buying-xrp/topper.md)
   * [Poko](getting-started-with-xumm/buying-xrp/poko.md)
 * [Sending tokens to Xumm](getting-started-with-xumm/sending-tokens-to-xumm.md)
 * [Sending tokens from Xumm](getting-started-with-xumm/sending-tokens-from-xumm.md)

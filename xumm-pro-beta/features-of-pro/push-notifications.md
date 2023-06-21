@@ -14,7 +14,7 @@ Here is an example from a typical phone running Android:
 
 <figure><img src="../../.gitbook/assets/push notification - 2.png" alt=""><figcaption></figcaption></figure>
 
-Notice the <img src="../../.gitbook/assets/image (1) (2) (1).png" alt="" data-size="line"> at the top of the image and the <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> on the Xumm icon. These are indicators that there has been some activity on your account.
+Notice the <img src="../../.gitbook/assets/image (1) (2) (1).png" alt="" data-size="line"> at the top of the image and the <img src="../../.gitbook/assets/image (2) (1) (4).png" alt="" data-size="line"> on the Xumm icon. These are indicators that there has been some activity on your account.
 
 If you tap the <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> you can view the details of the activity. Here are a couple examples of push notifications sent by Xumm:
 
@@ -28,7 +28,7 @@ In the first example, you can see that a payment of .000001 XRP was received in 
 
 Once you go into the **Push notifications** section, you should see a list of accounts you can enable push notifications for.
 
-<figure><img src="../../.gitbook/assets/push notification - 3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/push notification - 3.png" alt=""><figcaption></figcaption></figure>
 
 **Notes**
 

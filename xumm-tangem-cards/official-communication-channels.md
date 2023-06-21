@@ -12,7 +12,7 @@ We no longer provide customer support for Xumm via Twitter. Do not fill out form
 
 ### Xumm customer support
 
-For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image (17).png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
+For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
 
 <figure><img src="../.gitbook/assets/Xumm Support xApp.png" alt=""><figcaption></figcaption></figure>
 

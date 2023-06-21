@@ -34,7 +34,7 @@ description: How to send XRP from Uphold to Xumm (deposit)
 
 Note: In Xumm, you can find your r-address in Xumm here:
 
-<figure><img src="../../.gitbook/assets/raddress.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raddress (2).png" alt=""><figcaption></figcaption></figure>
 
 8\) Press the **Confirm withdrawal** button.
 
