@@ -4,10 +4,6 @@ description: A little bit about Quantum attacks
 
 # Quantum Attacks and Xumm
 
-{% hint style="info" %}
-This article is currently under construction
-{% endhint %}
-
 ## **Introduction**
 
 This article is meant to answer some basic questions about quantum computing and to explain our view on the future of quantum attacks as they relate to Xumm and the XRP Ledger.
@@ -47,11 +43,11 @@ There are currently two options to options to help protect against quantum attac
 
 ### What is Xumm doing to prepare against quantum attacks?
 
-One of the major projects we have been developing is adding smart contact functionality to the XRP Ledger. We call it, "Hooks".
+One of the major projects the XRPL Labs team has been developing is adding smart contact functionality to the XRP Ledger. We call it, "Hooks".
 
-Theoretically, you can create a Hook to create any signing scheme you desire. For example, you could delegate a transaction through a Hook and ask it to emit it for you which would allow you to change your signing scheme until you were satisfied it was safe.
+A Hook can be developed to create any signing scheme you desire. For example, you could delegate a transaction through a Hook which would allow you to change your signing scheme to which ever algorithm you like. Such a hook would give you complete control over how your transactions would be signed and allow you to choose from various quantum resistant algorithms.
 
-Another option would be to create a Hook that simply blocks any transaction that doesn't include the additional quantum resistant signature. (Using this type of hook, you wouldn’t even need to re-emit the transaction.)
+Another option would be to create a Hook that simply blocks any transaction that doesn't include a quantum resistant signature. This type of hook would prevent you from accidentally signing a transaction using a non-quantum resistant algorithm.&#x20;
 
 
 
