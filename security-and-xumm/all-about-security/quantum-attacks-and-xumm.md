@@ -47,7 +47,7 @@ There are currently two options to options to help protect against quantum attac
 
 ### What is Xumm doing to prepare against quantum attacks?
 
-One of the major projects we have been developing is adding smart contact functionality for the XRP Ledger. We call it, "Hooks".
+One of the major projects we have been developing is adding smart contact functionality to the XRP Ledger. We call it, "Hooks".
 
 Theoretically, you can create a Hook to create any signing scheme you desire. For example, you could delegate a transaction through a Hook and ask it to emit it for you which would allow you to change your signing scheme until you were satisfied it was safe.
 
