@@ -18,9 +18,7 @@ Theoretically, in the near future, there will be several different types of quan
 
 ### **Which cryptographic systems are at risk of being attacked?**
 
-Also referred to as public-key algorithms, asymmetric-key algorithms use paired keys (a public and a private key) in performing their function. The public key is known to all, but the private key is controlled solely by the owner of that key pair. The private key cannot be mathematically calculated through the use of the public key even though they are cryptographically related. Asymmetric algorithms are used for:
-
-The truth is, public-key cryptography is being used by every government, every military, every corporation and by every person who uses the internet. Public-key cryptography is used by every bank, every financial institution, every hospital, every business and every blockchain. CRQC's can be programmed to attack any system that use cryptography in any capacity.
+The XRP Ledger uses asymmetric-key algorithms to secure XRPL account. Also referred to as public-key algorithms, asymmetric-key algorithms use paired keys (a public and a private key) in performing their function. The public key is known to all, but the private key is controlled solely by the owner of that key pair. The private key cannot currently be mathematically calculated through the use of the public key even though they are cryptographically related. In theory, CRQC's will be able to calculate the private key based solely on the information contained in the public transactions recorded on the XRPL.&#x20;
 
 ### **When will a quantum computer be ready to initiate a quantum attack?**
 
@@ -32,13 +30,11 @@ Currently, there is no agreed upon definition of what makes an algorithm quantum
 
 In theory, a quantum resistant algorithm for the XRP Ledger must be able to:
 
-* resist quantum factoring (which could break RSA encryption. See [Shor's algorithm](https://en.wikipedia.org/wiki/Shor's\_algorithm))
-* resist quantum searching (which could break elliptic curve encryption. See [Grover's algorithm](https://en.wikipedia.org/wiki/Grover's\_algorithm))
-* resist quantum machine learning (which could break hash-based signatures)
+* resist quantum factoring (See [Shor's algorithm](https://en.wikipedia.org/wiki/Shor's\_algorithm))
+* resist quantum searching (See [Grover's algorithm](https://en.wikipedia.org/wiki/Grover's\_algorithm))
+* resist quantum machine learning&#x20;
 
-The XRPL uses a cryptographic algorithm called RSA-2048. This algorithm is believed to be resistant to quantum factoring. In addition to RSA-2048, the XRPL uses elliptic curve cryptography which is believed to be resistant to quantum searching.
-
-Keep in mind, integrating a new algorithm into the XRPL is a simple matter. We has the ability to inegrate new&#x20;
+When such an algorithm is developed, integrating it into the XRPL should be a straight forward process. (Just as the Ed25519 algorithum was added).&#x20;
 
 
 
