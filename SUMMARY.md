@@ -5,7 +5,6 @@
 ## Getting started with Xumm
 
 * [🥳 Updating to Xumm v2.5!](getting-started-with-xumm/updating-to-xumm-v2.5.md)
-* [Updating to Xumm v2.4](getting-started-with-xumm/updating-to-xumm-v2.4.md)
 * [💸 What is Xumm?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xumm/what-is-xumm/understanding-self-custody.md)
   * [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
@@ -182,9 +181,11 @@
 
 ## Release notes
 
-* [Current release](release-notes/current-release.md)
-* [Xumm v2.4](release-notes/xumm-v2.4.md)
+* [Current release](release-notes/current-release/README.md)
+  * [Xumm v2.5](release-notes/current-release/xumm-v2.5.md)
 * [Previous releases](release-notes/previous-releases/README.md)
+  * [Updating to Xumm v2.4](release-notes/previous-releases/updating-to-xumm-v2.4.md)
+  * [Xumm v2.4](release-notes/previous-releases/xumm-v2.4.md)
   * [Xumm v2.3.1](release-notes/previous-releases/xumm-v2.3.1.md)
   * [Xumm v2.3.0](release-notes/previous-releases/xumm-v2.3.0.md)
   * [Xumm v2.2.8](release-notes/previous-releases/xumm-v2.2.8.md)

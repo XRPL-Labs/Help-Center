@@ -14,11 +14,11 @@ After you create a new XRP Ledger account in Xumm, you are presented with the fo
 
 <figure><img src="../.gitbook/assets/Activate your account.png" alt=""><figcaption></figcaption></figure>
 
-Press the ![](<../.gitbook/assets/image (2).png>) button to get into the Account Activation flow,
+Press the ![](<../.gitbook/assets/image (1).png>) button to get into the Account Activation flow,
 
 <figure><img src="../.gitbook/assets/Account Activation xApp.png" alt=""><figcaption></figcaption></figure>
 
-then press the ![](<../.gitbook/assets/image (7).png>) button to continue.
+then press the ![](<../.gitbook/assets/image (4).png>) button to continue.
 
 
 
@@ -31,7 +31,7 @@ Select the appropriate service provider by pressing he Open xApp and follow the 
 Here is a list of our current service providers:\
 
 
-<table><thead><tr><th>Exchange</th><th width="173.33333333333331">Link to xApp</th><th>Article</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (2) (2) (3).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:banxa.onofframp"><strong>Banxa xApp</strong></a></td><td>All About Banxa</td></tr><tr><td><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:btcdirect.onofframp"><strong>BTCDirect xApp</strong></a></td><td>All About BTCDirect</td></tr><tr><td><img src="../.gitbook/assets/image (3) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:guardarian.onofframp"><strong>Guardarian xApp</strong></a></td><td>All About Guardarian</td></tr><tr><td><img src="../.gitbook/assets/image (4).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:uphold.topper"><strong>Topper xApp</strong></a></td><td>All About Topper</td></tr><tr><td><img src="../.gitbook/assets/image (7) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:poko.onramp"><strong>Poko xApp</strong></a></td><td>All About Poko</td></tr></tbody></table>
+<table><thead><tr><th>Exchange</th><th width="173.33333333333331">Link to xApp</th><th>Article</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (2) (2) (3).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:banxa.onofframp"><strong>Banxa xApp</strong></a></td><td>All About Banxa</td></tr><tr><td><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:btcdirect.onofframp"><strong>BTCDirect xApp</strong></a></td><td>All About BTCDirect</td></tr><tr><td><img src="../.gitbook/assets/image (3) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:guardarian.onofframp"><strong>Guardarian xApp</strong></a></td><td>All About Guardarian</td></tr><tr><td><img src="../.gitbook/assets/image (4) (3).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:uphold.topper"><strong>Topper xApp</strong></a></td><td>All About Topper</td></tr><tr><td><img src="../.gitbook/assets/image (7) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:poko.onramp"><strong>Poko xApp</strong></a></td><td>All About Poko</td></tr></tbody></table>
 
 Combined, Xumm and our partners offer exchange services to most countries around the world.
 

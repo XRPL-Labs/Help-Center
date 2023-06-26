@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/fireworks-gd7b280d6a_1280.jpg
+cover: ../../.gitbook/assets/fireworks-gd7b280d6a_1280.jpg
 coverY: 0
 ---
 
