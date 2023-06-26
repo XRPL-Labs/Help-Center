@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Rock with 24 carved in it.png
 coverY: -28
 ---
 
-# 🥳 Updating to Xumm v2.4 !
+# Updating to Xumm v2.4
 
 ### Welcome to the latest version!
 
