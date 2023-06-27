@@ -54,7 +54,7 @@ Submit the transaction to Xumm via the button under the code
 
 Update the Memo if necessary and select Confirm
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 A QR Code screen appears
 

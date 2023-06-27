@@ -138,11 +138,7 @@ Unfortunately not. We do not offer a trial period.
 Please note, due to the costs associated with the cards and the KYC process, along with the integration of Profiles into Xumm and the XRP ecosystem, we do not offer refunds on Pro subscriptions, so please make sure you thoroughly review the features before subscribing.
 {% endhint %}
 
-### **I love it! Where can I learn more?**
-
-This article provides more details on how Xumm Pro actually works and answers some additional questions you may have.
-
-* [Welcome to Xumm Pro Beta](all-about-xumm-pro/welcome-to-xumm-pro-beta.md)
+###
 
 **Notes**
 

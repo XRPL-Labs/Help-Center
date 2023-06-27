@@ -20,11 +20,11 @@ Please note: You can only off-ramp XRP that you purchased through our service. W
 
 We have partnered with several exchanges including Banxa, BTCDirect and Guardarian, some of which offer off-ramp services.
 
-| Exchange                                        | Link                                                                     | Contact                                                                  |
-| ----------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![](<../.gitbook/assets/image (2) (2) (3).png>) | [**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)           | [Customer Service](https://support.banxa.com/en/support/tickets/new)     |
-| ![](<../.gitbook/assets/image (5) (1) (1).png>) | [**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)   | [Customer Service](https://btcdirect.eu/en-gb/contact)                   |
-| ![](<../.gitbook/assets/image (12) (2).png>)    | [**Guardarian xApp**](https://xumm.app/detect/xapp:guardarian.onofframp) | [Customer Service](https://guardarian.freshdesk.com/support/tickets/new) |
+| Exchange                                            | Link                                                                     | Contact                                                                  |
+| --------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| ![](<../.gitbook/assets/image (2) (2) (3).png>)     | [**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)           | [Customer Service](https://support.banxa.com/en/support/tickets/new)     |
+| ![](<../.gitbook/assets/image (5) (1) (1) (2).png>) | [**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)   | [Customer Service](https://btcdirect.eu/en-gb/contact)                   |
+| ![](<../.gitbook/assets/image (12) (2).png>)        | [**Guardarian xApp**](https://xumm.app/detect/xapp:guardarian.onofframp) | [Customer Service](https://guardarian.freshdesk.com/support/tickets/new) |
 
 Due to the changing regulations in various countries, you'll need to reach out to your preferred exchange and see if they offer off-ramp services to your region.&#x20;
 

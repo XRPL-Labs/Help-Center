@@ -138,7 +138,6 @@
 * [All About Xumm Pro](xumm-pro-beta/all-about-xumm-pro/README.md)
   * [😎 What is Xumm Pro?](xumm-pro-beta/all-about-xumm-pro/what-is-xumm-pro.md)
   * [How to subscribe](xumm-pro-beta/how-to-subscribe-to-pro.md)
-  * [Welcome to Xumm Pro Beta](xumm-pro-beta/all-about-xumm-pro/welcome-to-xumm-pro-beta.md)
   * [Features of Pro](xumm-pro-beta/features-of-pro.md)
     * [Profiles](xumm-pro-beta/features-of-pro/profiles.md)
       * [All about Profiles](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/all-about-profiles.md)
