@@ -15,3 +15,27 @@ and our on-ramp xApp at:  [xumm.app/detect/app:xumm.buysellxrp](https://xumm.app
 
 
 <figure><img src="../../.gitbook/assets/Topper - 3.png" alt=""><figcaption></figcaption></figure>
+
+### How to contact Topper Support <a href="#how-to-access-topper-on-xumm-wallet" id="how-to-access-topper-on-xumm-wallet"></a>
+
+While we have partnered with Uphold to offer services to purchase XRP via the Topper xApp in Xumm, unfortunately we not do have access to their internal systems.&#x20;
+
+To contact Topper Support, press the **FAQ** button.
+
+<figure><img src="../../.gitbook/assets/Topper - 4.png" alt=""><figcaption></figcaption></figure>
+
+Scroll down and press the **Contact Us** button.
+
+<figure><img src="../../.gitbook/assets/Topper - 5.png" alt=""><figcaption></figcaption></figure>
+
+Enter your question in the form.
+
+<figure><img src="../../.gitbook/assets/Topper - 6.png" alt=""><figcaption></figcaption></figure>
+
+**Notes**
+
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+
+<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+
+\
