@@ -34,7 +34,17 @@ Public WiFi can be very dangerous. The list of possible attack vectors using pub
 
 ### Consider having at least two XRPL accounts
 
-In some cases, having two or more separate XRPL accounts can be a good idea. By spreading your funds between multiple accounts, it ensures that if someone were to somehow get access to one account, they would not get access to **all** of your funds. Some people have gone so far as to have multiple Xumm accounts (each with their own backup card configured) and divide their funds between them. Having a single account is like having all of your eggs in one basket. Even if it is the most secure basket in the world, everything is still in one place.&#x20;
+In some cases, having two or more separate XRPL accounts can be a good idea. It really depends on how you plan to interact with the XRP Ledger community, but some people will have separate accounts for:
+
+* airdrops
+* DEX trading
+* NFTs
+* daily spending
+* long term savings
+* gambling
+* games
+
+By spreading your funds between multiple accounts, it ensures that if someone were to somehow get access to one account, they would not get access to **all** of your funds. Some people have gone so far as to have multiple Xumm card accounts (each with their own backup card configured) and divide their funds between them. Having a single account is like having all of your eggs in one basket. Even if it is the most secure basket in the world, everything is still in one place. Having multiple accounts helps minimize the risk.
 
 &#x20;
 
