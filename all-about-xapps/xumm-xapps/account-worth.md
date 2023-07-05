@@ -33,10 +33,22 @@ Xumm shows the _real_ representation of each asset based on the _current_ DEX li
 
 The Account Worth xApp **includes** the base reserve and owner reserves when calculating the value of your XRP.  The reason for this is that while the reserves are marked as "un-spendable" on the XRPL, they are still **in your account** so they are counted when Account Worth calculates the total value of your XRP. &#x20;
 
-###
+### **Why is there a difference been what Account Worth shows and what the DEX Trade xApp shows?**
+
+Account Worth shows the real value of each asset based on the current liquidity on the DEX. The DEX Trade xApp shows the last traded price. (It does not calculate the actual worth of token.)
+
+In other words, slippage and liquidity have been taken into account with Account Worth but not with the DEX Trade xApp.
+
+### **Why is there a difference been what Account Worth shows and what my exchange shows?**
+
+Account Worth shows the real value of each asset based on the current liquidity on the DEX.&#x20;
+
+Many crypto exchanges use a different method of calculating value. Some exchanges have their own liquidity pool which they use to calculate value. Some exchange rely on third parties to calculate value.  Account Worth relies on the XRP Ledger DEX to calculate value.
+
+
 
 **Notes**
 
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
+We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
 
 <figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
