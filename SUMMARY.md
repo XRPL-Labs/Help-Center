@@ -95,7 +95,6 @@
 * [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
 * [Creating a pin on your card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
-* [How to remove a regular key from a card](xumm-tangem-cards/how-to-remove-a-regular-key-from-a-card.md)
 * [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
 
 ## ALL ABOUT XAPPS
