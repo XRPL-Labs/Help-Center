@@ -20,6 +20,10 @@ XRP Ledger has a native decentralized exchange (DEX) that lets anyone buy or sel
 
 The spread is the difference between the bid and the ask prices of a token on the DEX. For example, if you place an order for 100 tokens for 100 XRP, but the current orders are for 100 tokens for 105 XRP, the spread is 5 XRP. You are bidding 100 XRP, people are asking for 105 XRP. The difference is 5 XRP. &#x20;
 
+**Slippage**
+
+Slippage is a crypto trading term that describes the difference between what was expected and what actually occurred. Slippage is the amount of money lost or gained as a result of market fluctuations while executing an order.
+
 **Market Order**&#x20;
 
 A market order is a transaction that tries to buy or sell tokens at the best available price on the DEX. If you are going to place a market order, you should review the charts and the order book depth before placing an order. Make sure that there is a market on both sides of the order book. This means lots of sellers and lots of buyers. If there is only a large number of sell orders, it means that you are trading in an illiquid asset.&#x20;
