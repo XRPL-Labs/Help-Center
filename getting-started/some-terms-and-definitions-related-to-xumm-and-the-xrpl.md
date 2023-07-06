@@ -24,6 +24,10 @@ The spread is the difference between the bid and the ask prices of a token on th
 
 Slippage is a crypto trading term that describes the difference between what was expected and what actually occurred. Slippage is the amount of money lost or gained as a result of market fluctuations while executing an order.
 
+**Liquidity**
+
+Liquidity is the measure of how easily you can convert an asset into another asset. It refers to the ease and speed with which tokens can be bought or sold without significant impact on its value. When a token has good liquidity, there are lots of buyers and sellers. If a token is illiquid, there are not many buyers and sellers and it can be very difficult to execute trades without having a significant impact on the price.
+
 **Market Order**&#x20;
 
 A market order is a transaction that tries to buy or sell tokens at the best available price on the DEX. If you are going to place a market order, you should review the charts and the order book depth before placing an order. Make sure that there is a market on both sides of the order book. This means lots of sellers and lots of buyers. If there is only a large number of sell orders, it means that you are trading in an illiquid asset.&#x20;
