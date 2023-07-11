@@ -1,5 +1,5 @@
 ---
-description: Understanding reservers on the XRP Ledger
+description: Understanding reserves on the XRP Ledger
 ---
 
 # About Reserves
