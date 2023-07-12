@@ -37,7 +37,7 @@ Before you can begin this process, you need to have **two** Xumm cards and **bot
 {% hint style="danger" %}
 This is the number one question we get when it comes to configuring the cards.&#x20;
 
-This process requires that you have two cards and that **each one** of them needs to be added into Xumm before you can proceed.
+This process requires that you have two cards and that **each one** of them needs to be added into Xumm **before** you can proceed.
 {% endhint %}
 
 This article provides step by step instructions on how to do this:
