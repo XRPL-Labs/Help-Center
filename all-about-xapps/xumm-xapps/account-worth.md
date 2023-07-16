@@ -14,10 +14,12 @@ Simply touch this link:
 
 [**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth)
 
-or you can find it by pressing the <img src="../../.gitbook/assets/image (2) (5).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm.\
+or you can find it by pressing the **xApps** button at the bottom of the main screen in Xumm.\
 
 
-<figure><img src="../../.gitbook/assets/Account Worth - xApp - 1.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Account Worth -2.png" alt=""><figcaption></figcaption></figure>
 
 ### **How does Account Worth calculate the "value" of my tokens?**
 
@@ -44,6 +46,8 @@ In other words, [slippage](../../getting-started/some-terms-and-definitions-rela
 Account Worth shows the real value of each asset based on the current liquidity on the DEX.&#x20;
 
 Many crypto exchanges use a different method of calculating value. Some exchanges have their own liquidity pool which they use to calculate value. Some exchange rely on third parties to calculate value.  Account Worth relies on the XRP Ledger DEX to calculate value.
+
+
 
 
 

@@ -50,7 +50,7 @@ N.B. The "Sequence" and "Fee" fields are not present since XUMM will take care o
 
 Submit the transaction to Xumm via the button under the code
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (6).png>)
 
 Update the Memo if necessary and select Confirm
 
