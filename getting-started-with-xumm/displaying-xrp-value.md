@@ -26,7 +26,11 @@ Anyone in the XRP Ledger community can query Oracle to get the current XRP value
 
 ### **What if I want to know the value of all my tokens?**
 
-###
+We have an xApp called [**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth) which displays that information.
+
+### **How do I change the currency that is displayed?**
+
+You can set the currency for Xumm by pressing **Settings** -> **General** -> **Currency**
 
 
 
