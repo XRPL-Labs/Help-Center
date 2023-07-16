@@ -50,6 +50,7 @@
 * [How to rekey your account](getting-started-with-xumm/how-to-rekey-your-account.md)
 * [How to disable the Master key](getting-started-with-xumm/how-to-disable-the-master-key.md)
 * [How to configure biometrics](getting-started-with-xumm/how-to-configure-biometrics.md)
+* [Displaying XRP value](getting-started-with-xumm/displaying-xrp-value.md)
 
 ## Learning more about Xumm
 
