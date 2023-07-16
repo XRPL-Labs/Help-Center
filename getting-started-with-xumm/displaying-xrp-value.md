@@ -32,8 +32,3 @@ We have an xApp called [**Account Worth**](https://xumm.app/detect/xapp:xumm.acc
 
 You can set the currency for Xumm by pressing **Settings** -> **General** -> **Currency**
 
-
-
-{% hint style="info" %}
-Xumm shows the _real_ representation of each asset b
-{% endhint %}
