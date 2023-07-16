@@ -18,9 +18,17 @@ Simply tap the amount of XRP that you have on the main screen...
 
 ### **How does Xumm calculate the "value" of my XRP?**
 
-Xumm looks at the XRPL DEX and calculates what the liquidation value would be based on the open orders currently on the DEX.  &#x20;
+We actually created an "XRPL Price Oracle" to provide this information.
 
-<figure><img src="../.gitbook/assets/Account Worth - xApp - 2.png" alt=""><figcaption></figcaption></figure>
+[https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087](https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087)
+
+Anyone in the XRP Ledger community can query the XRPL to get the current XRP value, which is a weighed average from multiple exchanges.
+
+### **What if I want to know the value of all my tokens?**
+
+###
+
+
 
 {% hint style="info" %}
 Xumm shows the _real_ representation of each asset b
