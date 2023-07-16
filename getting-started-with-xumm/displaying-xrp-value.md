@@ -22,7 +22,7 @@ We actually created an "XRPL Price Oracle" to provide this information.
 
 [https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087](https://dev.to/wietse/aggregated-xrp-usd-price-info-on-the-xrp-ledger-1087)
 
-Anyone in the XRP Ledger community can query the XRPL to get the current XRP value, which is a weighed average from multiple exchanges.
+Anyone in the XRP Ledger community can query Oracle to get the current XRP value, which is a weighted average from multiple exchanges.
 
 ### **What if I want to know the value of all my tokens?**
 
