@@ -20,6 +20,18 @@ Just select one of the above links and press the **Install** button begin the do
 
 <figure><img src="../.gitbook/assets/Google play - Xumm.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Xumm is only compatible with:
+
+⦁ Android 7 and up
+
+&#x20;⦁ iOS v13 and up
+
+If you have an older device that does not support one of these versions, you will **not** be able to download and install Xumm
+{% endhint %}
+
+
+
 Once the download has completed, press the **Open** button to begin the Xumm installation process and you should be presented with this screen:
 
 <figure><img src="../.gitbook/assets/Install - Page 1.png" alt=""><figcaption></figcaption></figure>
