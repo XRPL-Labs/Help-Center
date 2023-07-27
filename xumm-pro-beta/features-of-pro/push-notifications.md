@@ -20,7 +20,7 @@ If you tap the <img src="../../.gitbook/assets/image (10).png" alt="" data-size=
 
 <figure><img src="../../.gitbook/assets/push notification - 1.png" alt=""><figcaption></figcaption></figure>
 
-In the first example, you can see that a payment of .000001 XRP was received in the XRPL account labelled "Will" and in the second example you can see that the Xumm Support team has replied to a ticket created via the [Xumm Support xApp](../../all-about-xapps/xumm-xapps/xumm-support.md).
+In the first example, you can see that a payment of .000001 XRP was received in the XRPL account labelled "Will" and in the second example you can see that the Xumm Support team has replied to a ticket created via the [Xumm Support xApp](broken-reference).
 
 #### Where can I find this in Pro?
 
