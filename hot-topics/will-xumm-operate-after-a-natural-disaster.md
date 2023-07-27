@@ -17,24 +17,28 @@ A solar flare is an intense eruption of electromagnetic radiation in the Sun’s
 
 ### **What is the concern here?**
 
-The main concern is that any event that effects the electrical grid or the communication infrastructure of a country, continent, or even the world, would impact the XRP Ledger and therefore put your XRP in danger of being destroyed or becoming inaccessible.
+The main concern is that any event that affects the electrical grid or the communication infrastructure of a country, continent, or even the world, would impact the XRP Ledger and therefore put your XRP in danger of being destroyed or becoming inaccessible.
 
 ### **How the XRP Ledger works**
 
-The XRP Ledger is run on network validators and full history nodes which are distributed all over the world. With so many machines operated in different geographical locations, with different levels of redundancy on a per machine, per location basis and on a mixture of hardware, it is highly unlikely that the same disaster could effect a critical amount of them. Since your XRP exists on the XRPL, as long as even 1 validator or full history node exists, your XRP still exists.  EVERY validator and full history node would need to be destroyed in order for your funds to be lost.
+The XRP Ledger is run on network validators and full history nodes which are distributed all over the world. With so many machines operated in different geographical locations, with different levels of redundancy on a per machine, per location basis, it is highly unlikely that the same disaster could affect a critical amount of them. Since your XRP exists on the XRPL, as long as even 1 validator or full history node exists anywhere in the world, your XRP still exists.  EVERY validator and full history node would need to be destroyed in order for your funds to be lost.
 
 ### **How does this affect Xumm?**
 
-Since your XRP exists on the XRP Leger, your funds exist as long as the XRP Ledger is still operational. , however, there are other issues to consider.
+Since your XRP exists on the XRP Ledger, your funds exist as long as the XRP Ledger is still operational, however, there are other issues to consider.
 
-1. Xumm can only be installed on mobile devices which need to be fully operational in order for it to function. (Was your phone affected by the event? Does it still function properly? Can it still be charged?) Let’s assume that your phone has survived the event and is still fully functional and you have a way to charge it.
-2. Xumm needs a way to connect to the internet/cellular network in order to access the XRP Ledger. (Was the internet or cellular network effected by the event?) If you can not connect, you can not access your funds.
+1. Xumm can only be installed on mobile devices which need to be fully operational in order for it to function. (Was your phone affected by the event? Does it still function properly? Can it still be charged?) Let’s assume that your phone has survived the event and is still fully functional and you have a way to charge it?
+2. Xumm needs a way to connect to the internet in order to access the XRP Ledger. (Was the internet or cellular network affected by the event?) If you can not connect to the internet, you can not access your funds.
 3. What does a post EMP/Solar Flare/Natural Disaster world look like? Is your plan to use your XRP to barter/purchase items and services? Is the plan to replace the current system of finance with the XRPL after the event?
 4. Has anyone else been as diligent as you in preparing for the event? We certainly appreciate all of your preparations, but a network is only as useful as the people who use and maintain it. If you are the only one who has an operational validator, an operational phone and an operational cellular tower, than a network of one person is not going to be super helpful.
 
 ### **What about my Xumm Tangem cards?**
 
 Xumm (Tangem) cards pass rigorous testing and can withstand environmental extremes, occasional mechanical deformation, electromagnetic pulse (EMP), electrostatic discharge (ESD) and X-rays within limits defined in [ISO7810](https://en.wikipedia.org/wiki/ISO/IEC\_7810) standard.   You can learn more about technical specifications of the Tangem cards by visiting their website here:[https://developers.tangem.com/](https://developers.tangem.com/)
+
+### **What about the Xumm Servers?**
+
+Xumm does not require any of our servers in order to operate. If all our servers were destroyed, Xumm would still function just fine as long as your phone still works and you can connect to the internet.
 
 ### **Summary**
 
