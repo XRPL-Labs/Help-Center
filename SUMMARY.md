@@ -111,7 +111,7 @@
   * [Path Finding](all-about-xapps/xumm-xapps/path-finding.md)
     * [Page 1](all-about-xapps/xumm-xapps/path-finding/page-1.md)
   * [Xumm Pro Beta](all-about-xapps/xumm-xapps/xumm-pro-beta.md)
-  * [Buy/Sell XRP](all-about-xapps/xumm-xapps/buy-sell-xrp.md)
+  * [Buy/Sell XRP](all-about-xapps/xumm-xapps/buy-sell-xrp/README.md)
 * [XRPL Services](all-about-xapps/xrpl-services/README.md)
   * [Token Trasher](all-about-xapps/xrpl-services/token-trasher.md)
     * [How to remove a Trust Line](all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
@@ -147,11 +147,6 @@
       * [All about On/Off-Ramps](xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
       * [💷 Deposit to Xumm](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/README.md)
         * [Sending XRP from another wallet](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/sending-xrp-from-another-wallet.md)
-        * [Fiat conversion](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/fiat-conversion.md)
-        * [Exchange deposit](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/README.md)
-          * [Coinbase](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/coinbase.md)
-          * [Uphold](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/uphold.md)
-          * [Bitstamp](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/exchange-deposit/bitstamp.md)
 
 ## Security and Xumm
 
