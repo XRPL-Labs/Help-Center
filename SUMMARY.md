@@ -103,7 +103,6 @@
 * [Xumm xApps](all-about-xapps/xumm-xapps/README.md)
   * [Account Worth](all-about-xapps/xumm-xapps/account-worth.md)
   * [Account Merge](all-about-xapps/xumm-xapps/account-merge.md)
-  * [Tangem Backup](all-about-xapps/xumm-xapps/tangem-backup.md)
   * [Vanity Address](all-about-xapps/xumm-xapps/vanity-address.md)
   * [Get cards (Tangem)](all-about-xapps/xumm-xapps/get-cards-tangem.md)
   * [DEX Trade](all-about-xapps/xumm-xapps/dex-trade.md)
