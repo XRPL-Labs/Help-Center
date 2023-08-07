@@ -81,16 +81,27 @@ If you have access to a computer that is advanced enough to scan through 340 und
 
 ### I already have my account secret but it accesses another account!
 
-If you are importing your account secret into Xumm and you are getting a **different r-address**, you actually imported another XRPL account that has not been activated, and does not contain your balance and tokens. The account secret you entered belongs to the account that is being imported.
+If you are importing your account secret into Xumm and you are getting a **different r-address**, you actually imported another XRPL account that has not been activated, and does not contain your balance and tokens.&#x20;
 
-The only way to get access to your account, is by importing the correct account secret.
+The only way to get full access to your account, is by importing the correct account secret.
 
 Importing the account secret into Xumm will always result in the same r-address, with balance and tokens in place.
 
-
-
 ### ...but I'm sure my account secret is correct...
 
-If you have a set of secret numbers, th need to be entered exactly as they were displayed when the account was created. Every number needs to be correct, in the correct spot and in the correct row. If even one number is wrong. another account will be accessed. In cases such as this, sometimes people have confused a 1 with a 7, or a 6 with an 8 or a 3 with an 8 or some other number.
+If you have a set of secret numbers, they need to be entered exactly that same as they were displayed when the account was created. Every number needs to be correct, in the correct spot and in the correct row. If even one number is wrong. another XRPL account will be accessed.&#x20;
 
-Look at your secret numbers and consider the possibility that you have written one of them down wrong, then see if you can supplement one of the numbers with another possibility.
+In some cases, sometimes people have confused a 1 with a 7, a 6 with an 8, a 3 with an 8 or perhaps some other numbers.
+
+Take a close look at your secret numbers and consider the possibility that you have written one of them down wrong. If you think there is a chance that one of them is incorrect, see if you can supplement one of the numbers with another possibility and try importing them into Xumm. It may take several attempts with various numbers to get the correct combination. &#x20;
+
+### Do I have any other options?
+
+As mentioned earlier, there is only one way to access an XRP Ledger account... you know the correct account secret for it. (This is one of the main reasons for self-custody. You are the only person who can access your account.)
+
+The XRP Ledger does not have any administrator functions and there are no "back-doors" to get access to an account.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+
