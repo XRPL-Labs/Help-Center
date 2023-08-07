@@ -43,7 +43,11 @@ Xumm does not have the ability to display or recover your secret numbers. They a
 
 You can read more about this here:
 
-https://help.xumm.app/getting-started-with-xumm/can-i-view-export-my-account-secret
+{% content-ref url="can-i-view-export-my-account-secret.md" %}
+[can-i-view-export-my-account-secret.md](can-i-view-export-my-account-secret.md)
+{% endcontent-ref %}
+
+
 
 ### Only five possible options to access your XRPL account.
 
