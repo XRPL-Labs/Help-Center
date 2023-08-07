@@ -45,9 +45,7 @@ You can read more about this here:
 
 https://help.xumm.app/getting-started-with-xumm/can-i-view-export-my-account-secret
 
-### Only three possible options to access your XRPL account.
-
-Option 1 - You still have&#x20;
+### Only five possible options to access your XRPL account.
 
 #### Option 1 - You still have existing access on your device
 
@@ -57,4 +55,42 @@ If you still have access to your account on your phone **and** you can still sig
 
 2\) Choose **+ Add account** then **Create a new account**
 
-Once you have created a new account, you can activate it with 10 XRP, then move your XRP over to your new account using the **Send** feature on the main page. By creating a new account, you will get a new set of secret numbers which you can use to access your account on your phone. Alternatively you can "rekey" your account, resulting in getting a new XRP Ledger account. You don't have to activate the new account, but it will then become the new key to your existing account. More information can be found here: https://help.xumm.app/getting-started-with-xumm/how-to-rekey-your-account If you have any questions about this, just let me know.
+Once you have completed the steps (and written down your new secret numbers), you can activate it with 10 XRP, then start moving your assets over to your new account using the **Send** feature on the main page of Xumm.
+
+Note: You will need to create Trust Lines for any tokens you might have and arrange to move any NFTs with your NFT platform.
+
+By creating a new account, you will get a new set of secret numbers which you can use to access your account on your phone.&#x20;
+
+#### Option 2 - You have existing access on another device
+
+In some cases, people will have an old phone or mobile device which still has signing access to their account. If you have an old phone with signing access to your account, you can run through the steps in Option 1 to create a new account.
+
+#### Option 3 - You created your XRP Ledger account using another wallet or platform
+
+If you used another wallet to create your XRP Ledger account, it is possible that they have a recovery option or utility to recover your account secret. Try contacting them and see if they have any options for accessing your account secret.
+
+#### Option 4 - Your account was created during the CasinoCoin swap.
+
+If your account was created during the CasinoCoin swap, there is a special set of instructions for recovering an account. Check out this article for more information:
+
+{% embed url="https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account" %}
+
+#### Option 5 - You have access to the alien ship that crashed in Roswell, NM in 1947
+
+If you have access to a computer that is advanced enough to scan through 340 undecillion possible XRPL accounts, you can use it to determine your account secret.
+
+### I already have my account secret but it accesses another account!
+
+If you are importing your account secret into Xumm and you are getting a **different r-address**, you actually imported another XRPL account that has not been activated, and does not contain your balance and tokens. The account secret you entered belongs to the account that is being imported.
+
+The only way to get access to your account, is by importing the correct account secret.
+
+Importing the account secret into Xumm will always result in the same r-address, with balance and tokens in place.
+
+
+
+### ...but I'm sure my account secret is correct...
+
+If you have a set of secret numbers, th need to be entered exactly as they were displayed when the account was created. Every number needs to be correct, in the correct spot and in the correct row. If even one number is wrong. another account will be accessed. In cases such as this, sometimes people have confused a 1 with a 7, or a 6 with an 8 or a 3 with an 8 or some other number.
+
+Look at your secret numbers and consider the possibility that you have written one of them down wrong, then see if you can supplement one of the numbers with another possibility.
