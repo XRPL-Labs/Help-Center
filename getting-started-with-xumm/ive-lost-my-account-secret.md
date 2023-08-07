@@ -12,7 +12,7 @@ On the XRP Ledger, the account secret is the "holy grail" of your account.&#x20;
 
 Protecting your account secret and a helping you interact with the XRP Ledger is what Xumm specializes in.&#x20;
 
-...but what happens if you lose your account secret...🤔
+...but what happens if you lose your account secret?...🤔
 
 ### What is an account secret?
 
