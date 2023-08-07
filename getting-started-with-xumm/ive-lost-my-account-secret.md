@@ -18,9 +18,7 @@ On the XRP Ledger, the account secret is the "holy grail" of your account.&#x20;
 
 Protecting your account secret and a helping you interact with the XRP Ledger is what Xumm specializes in.&#x20;
 
-If you lose your account secret, **there is basically no way to recover it**.
-
-Still, there are a couple of options, depending on your situation...🤔
+If you have already lost your account secret, here are the few ways you might be able to access your account, depending on your situation...🤔
 
 ### What is an account secret?
 
