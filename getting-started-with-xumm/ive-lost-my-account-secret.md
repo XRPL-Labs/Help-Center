@@ -47,8 +47,6 @@ You can read more about this here:
 [can-i-view-export-my-account-secret.md](can-i-view-export-my-account-secret.md)
 {% endcontent-ref %}
 
-
-
 ### Only five possible options to access your XRPL account.
 
 #### Option 1 - You still have existing access on your device
@@ -79,9 +77,13 @@ If your account was created during the CasinoCoin swap, there is a special set o
 
 {% embed url="https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account" %}
 
-#### Option 5 - You have access to the alien ship that crashed in Roswell, NM in 1947
+#### Option 5 - You have access to a quantum computer
 
-If you have access to a computer that is advanced enough to scan through 340 undecillion possible XRPL accounts, you can use it to determine your account secret.
+In theory, a quantum computer will be able to calculate an account secret. f you have access to a computer that is advanced enough to scan through 340 undecillion possible XRPL accounts, you can use it to determine your account secret.
+
+{% content-ref url="../security-and-xumm/all-about-security/quantum-attacks-and-xumm.md" %}
+[quantum-attacks-and-xumm.md](../security-and-xumm/all-about-security/quantum-attacks-and-xumm.md)
+{% endcontent-ref %}
 
 ### I already have my account secret but it accesses another account!
 
