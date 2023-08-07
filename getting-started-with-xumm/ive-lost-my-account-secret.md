@@ -4,6 +4,12 @@ description: I can not find my Secret numbers / Family seed / Mnemonic
 
 # I've lost my account secret!
 
+### Introduction
+
+Xumm is a self-custody wallet.&#x20;
+
+Self-custody is all about controlling the account secret(s) for you XRP Ledger account(s).
+
 On the XRP Ledger, the account secret is the "holy grail" of your account.&#x20;
 
 * If you would like to access the funds in an XRP Ledger account, you need to know the account secret.
@@ -12,7 +18,9 @@ On the XRP Ledger, the account secret is the "holy grail" of your account.&#x20;
 
 Protecting your account secret and a helping you interact with the XRP Ledger is what Xumm specializes in.&#x20;
 
-...but what happens if you lose your account secret?...🤔
+If you lose your account secret, **there is basically no way to recover it**.
+
+Still, there are a couple of options, depending on your situation...🤔
 
 ### What is an account secret?
 
