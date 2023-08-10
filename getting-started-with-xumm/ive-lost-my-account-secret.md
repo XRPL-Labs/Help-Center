@@ -85,7 +85,7 @@ If your account was created during the CasinoCoin swap, there is a special set o
 
 #### Option 5 - You have access to a quantum computer
 
-In theory, a quantum computer will be able to calculate an account secret. f you have access to a computer that is advanced enough to scan through 340 undecillion possible XRPL accounts, you can use it to determine your account secret.
+In theory, a quantum computer will be able to calculate an account secret. If you have access to a computer that is advanced enough break the encryption algorithms on the XRPL, you can use it to determine your account secret.
 
 {% content-ref url="../security-and-xumm/all-about-security/quantum-attacks-and-xumm.md" %}
 [quantum-attacks-and-xumm.md](../security-and-xumm/all-about-security/quantum-attacks-and-xumm.md)
