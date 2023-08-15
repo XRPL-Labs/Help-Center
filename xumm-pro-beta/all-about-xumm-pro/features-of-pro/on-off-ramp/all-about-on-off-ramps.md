@@ -78,33 +78,9 @@ A deposit description will be provided so you can send funds from your IBAN (Int
 
 You can on-ramp a maximum of €15k (15000 EUR) per rolling 365 days.
 
-### **How does the Off-Ramp part of the service work?**
-
-You can off-ramp the maximum amount of XRP you on-ramped through us.
-
-For example, if you on-ramped 1000 Euro and converted it to 2000 XRP, now you can off-ramp 2000 XRP at the EUR rate the XRP is at when you want to Off-ramp.
-
-So, let’s say you on-ramped 1000 Euro and XRP had a value of .50 Euro per XRP. You would receive 2000 XRP.
-
-Now let’s say that the value of XRP goes up to 2 Euro per XRP. You could convert your 2000 XRP into 4000 Euro and off-ramp that amount …
-
-2000 XRP x 2 Euro/XRP = 4000 Euro
-
-… but, if the value of XRP went down to .25 Euro per XRP, you could convert your 2000 XRP into 500 Euro and still have the option to Off-ramp an additional 500 Euro at some future point.
-
-2000 XRP x .25 Euro/XRP = 500 Euro
-
-To confirm, if the price of XRP rises, you can get more EUR out than you sent in.
-
-### **I have an XRPL account managed with Xumm. Can I Off-ramp my XRP through this service?**
-
-Yes, as long as you purchased your XRP via our On-ramp service.
-
-This restriction makes our service less open to abuse and is a lot less of a compliance risk.&#x20;
-
 ### **Why the 15k limit?**
 
-We operate in a heavily regulated industry under the supervision of the Dutch government. One of the (many) regulations we need to comply with is how much fiat currency a customer can on-board/off-board during a given year. The higher the limits, the higher the compliance requirements and the higher the fees.
+We operate in a heavily regulated industry under the supervision of the Dutch government. One of the (many) regulations we need to comply with is how much fiat currency a customer can on-board during a given year. The higher the limits, the higher the compliance requirements and the higher the fees.
 
 One of our main goals is to be able to offer this service to as many people as possible in a convenient, secure and user friendly way. While there are certainly people who will be interested in higher limits, our research suggests that the vast majority of people will be satisfied with a 15K limit. As well, a 15K limit allows us to meet of compliance requirements with less interaction with our customers, which saves cost on our side and will allow us to roll out our services in other countries.
 
