@@ -8,11 +8,11 @@ We offer several easy ways to purchase XRP from the Xumm platform. Take a minute
 
 ### Option 1&#x20;
 
-If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp service to our Xumm Pro users. Using our service, you can quickly buy (and sell) XRP from our [**On/Off-Ramp xApp**](https://xumm.app/detect/xapp:xumm.onofframp) from with Xumm.&#x20;
+If you are in the Netherlands or the United Kingdom. we offer an On-Ramp service to our Xumm Pro users. Using our service, you can quickly buy XRP from our [**On-Ramp xApp**](https://xumm.app/detect/xapp:xumm.onofframp) from with Xumm.&#x20;
 
 For most people, this fast, convenient and secure service will more than meet their needs so if you are interested in learning more about how it works, check out this article:
 
-* [All about Xumm On/Off-ramps](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
+* [All about Xumm On-Ramps](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
 
 ### **Option 2**
 
