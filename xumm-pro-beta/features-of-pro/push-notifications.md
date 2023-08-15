@@ -4,7 +4,7 @@ description: What are push notifications?
 
 # Push notifications
 
-Push notifications are small, pop-up messages that Xumm will display on your phone to alert you of various transactions on your XRP Ledger account. Push notifications convery real-time transactional messages, updates, support messages and more, all of which will help keep you up-to-date on account.
+Push notifications are small, pop-up messages that Xumm will display on your phone to alert you of various transactions on your XRP Ledger account. Push notifications cover real-time transactional messages, updates, support messages and more, all of which will help keep you up-to-date on your XRPL account.
 
 ### _Frequently asked Questions_
 
