@@ -21,9 +21,9 @@ Some of these features include:
 
 * Receive notifications for incoming transactions
 
-### **Fiat on/off boarding**
+### **Fiat on-boarding**
 
-* Currently available for our users in the Netherlands and the United Kingdom, this feature allows you to buy XRP direct from Xumm Pro. Stay tuned as we plan to add more countries as the year progresses!
+* Currently available for our users in the Netherlands and the United Kingdom, this feature allows you to buy XRP directly from Xumm Pro. (Currently we support EUR deposits only.)
 
 ### **KYC**
 
