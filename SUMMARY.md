@@ -145,8 +145,6 @@
     * [Vanity addresses](xumm-pro-beta/features-of-pro/vanity-addresses.md)
     * [On-Ramp](xumm-pro-beta/features-of-pro/on-off-ramp/README.md)
       * [All about Xumm On-Ramps](xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
-      * [💷 Deposit to Xumm](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/README.md)
-        * [Sending XRP from another wallet](xumm-pro-beta/features-of-pro/on-off-ramp/deposit-to-xumm/sending-xrp-from-another-wallet.md)
 
 ## Security and Xumm
 
