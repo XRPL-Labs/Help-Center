@@ -13,7 +13,7 @@ If you have already subscribed to Pro Beta, check out our [Features of Pro](feat
 ### **I just want to get access as quickly as possible. How do I do that?**
 
 {% hint style="warning" %}
-Please note: The in-app purchase option for Xumm Pro (Beta) has been temporarily disabled due to complications associated with the upcoming release of Xumm v2.4. Until this is resolved, please choose one of the following two purchase options:&#x20;
+Please note: The in-app purchase option for Xumm Pro (Beta) has been temporarily disabled due to complications associated with the release of Xumm v2.5. Until this is resolved, please choose one of the following two purchase options:&#x20;
 {% endhint %}
 
 ## Option 1
@@ -86,7 +86,7 @@ Here are a list of **current** features in Xumm Pro Beta.
 | Profiles & PayString          | Create your own Profile page and create your own PayString                                                                                      |
 | Early access to beta features | Participate in early beta versions of Xumm and get to test beta xApps.                                                                          |
 | Premium Support               | Your support tickets get priority service.                                                                                                      |
-| Xumm On/Off-Ramps             | Buy XRP with Euros/Pounds at great rates! (Netherlands and UK only)                                                                             |
+| Xumm On-Ramp                  | Buy XRP with Euros at great rates! (Netherlands and UK only)                                                                                    |
 
 and here are some of the things we are working on…
 
