@@ -1,28 +1,26 @@
 ---
-description: All about our On/Off-Ramp service
+description: All about our On-Ramp service
 ---
 
-# All about On/Off-Ramps
+# All about Xumm On-Ramps
 
-### **Introducing Xumm On/Off-Ramps**
+### **Introducing the Xumm On-Ramp service**
 
-The Xumm On/Off-Ramps service allows users to move fiat currency to and from the XRP Ledger.
+The Xumm On-Ramp service allows users to move fiat currency (EUR) to the XRP Ledger.
 
 Put simply, it allows Xumm Pro users to quickly and efficiently send fiat currency (in EUR) from their traditional bank account to their Xumm account and convert it into XRP.
 
-When it comes time to “cash out” XRP, Xumm Pro users can use the service to convert XRP back into fiat and send their fiat back to their bank account.
-
-This article discusses how Xumm On/Off Ramps work, how to get started with the service and answers many common questions.
+This article discusses how the Xumm On-Ramp service works, how to get started with the service and answers many common questions.
 
 Needless to say, we are very excited to bring this service to the XRP Community and we hope you find it useful. We certainly enjoyed making it! 😊
 
-### **Who is the Xumm On/Off-Ramps service for?**
+### **Who is the Xumm On-Ramp service for?**
 
 If you are new to the XRPL, setting up and activating a new account can be a challenging and confusing task. One of our goals is to make this process easy and straightforward.
 
-The Xumm On/Off-Ramps service allows you send Euros from your bank account to your Xumm Pro account and convert it into XRP. You can then easily activate a new XRPL account and get started participating in the XRP community.
+The Xumm On-Ramp service allows you send Euros from your bank account to your Xumm Pro account and convert it into XRP. You can then easily activate a new XRPL account and get started participating in the XRP community.
 
-For those who are already familiar with the XRPL, the Xumm On/Off-Ramps service should be your go-to service for buying and selling XRP.
+For those who are already familiar with the XRPL, the Xumm On-Ramp service should be your go-to service for buying XRP.
 
 Our conversion rates are among the best in the industry, our service levels rival even the largest crypto exchanges and our security infrastructure is second to none.
 
@@ -30,15 +28,13 @@ Dare we say, you’re not going to find any company that can match our platform 
 
 
 
-### **Who can use the Xumm On/Off-Ramps service?**
+### **Who can use the Xumm On-Ramp service?**
 
 We are currently offering this service to our customers in the **Netherlands** and the **United Kingdom**.
 
 <figure><img src="../../../../.gitbook/assets/NL and UK Map.png" alt=""><figcaption></figcaption></figure>
 
 ### **What about North America? Asia? Africa?**
-
-The crypto space in North America is… complicated at the moment. When things settle down and the various governments are able to provide clarity and clear regulations, we will take another look into expanding across the pond.
 
 We **are** working with industry partners (Banxa / Gaurdarian) to provide On/Off-Ramp services for North America (and other regions) but they may not provide rates as good as ours. Our services will still be a lot more convenient, user-friendly and secure compared to third-party exchanges but the rates might not be as competitive as they are here in Europe.
 
