@@ -8,27 +8,13 @@ If you are interested in converting some of your XRP into fiat, you have several
 
 ### **Option 1**
 
-If you are in the Netherlands or the United Kingdom. we offer an On/Off-Ramp service to our Xumm Pro users. You can sell XRP from our [**On/Off-Ramp xApp**](https://xumm.app/detect/xapp:xumm.onofframp) and send funds to your bank account. For most people, this fast, convenient and secure service will more than meet their needs so if you are interested in learning more about how it works, check out this article:
+We have partnered with several exchanges, some of which offer off-ramp services.&#x20;
 
-* [**All about the Xumm On/Off-Ramp Service**](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
-
-{% hint style="warning" %}
-Please note: You can only off-ramp XRP that you purchased through our service. We do not allow off-ramping of XRP acquired by another means.
-{% endhint %}
-
-### Option 2
-
-We have partnered with several exchanges including Banxa, BTCDirect and Guardarian, some of which offer off-ramp services.
-
-| Exchange                                            | Link                                                                     | Contact                                                                  |
-| --------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![](<../.gitbook/assets/image (2) (2) (3).png>)     | [**Banxa xApp**](https://xumm.app/detect/xapp:banxa.onofframp)           | [Customer Service](https://support.banxa.com/en/support/tickets/new)     |
-| ![](<../.gitbook/assets/image (5) (1) (1) (2).png>) | [**BTCDirect xApp**](https://xumm.app/detect/xapp:btcdirect.onofframp)   | [Customer Service](https://btcdirect.eu/en-gb/contact)                   |
-| ![](<../.gitbook/assets/image (12) (2).png>)        | [**Guardarian xApp**](https://xumm.app/detect/xapp:guardarian.onofframp) | [Customer Service](https://guardarian.freshdesk.com/support/tickets/new) |
+<table><thead><tr><th>Exchange</th><th width="173.33333333333331">Link to xApp</th><th>Article</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (2) (2) (3).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:banxa.onofframp"><strong>Banxa xApp</strong></a></td><td>All About Banxa</td></tr><tr><td><img src="../.gitbook/assets/image (5) (1) (1) (2).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:btcdirect.onofframp"><strong>BTCDirect xApp</strong></a></td><td>All About BTCDirect</td></tr><tr><td><img src="../.gitbook/assets/image (3) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:guardarian.onofframp"><strong>Guardarian xApp</strong></a></td><td>All About Guardarian</td></tr><tr><td><img src="../.gitbook/assets/image (4) (2).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:uphold.topper"><strong>Topper xApp</strong></a></td><td><a href="../getting-started-with-xumm/buying-xrp/topper.md">All About Topper</a></td></tr><tr><td><img src="../.gitbook/assets/image (7) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:poko.onramp"><strong>Poko xApp</strong></a></td><td><a href="../getting-started-with-xumm/buying-xrp/poko.md">All About Poko</a></td></tr></tbody></table>
 
 Due to the changing regulations in various countries, you'll need to reach out to your preferred exchange and see if they offer off-ramp services to your region.&#x20;
 
-### Option 3
+### Option 2
 
 There are several exchanges in the blockchain space where you can convert XRP into fiat. Some of the bigger players include:
 
@@ -43,15 +29,20 @@ There are several exchanges in the blockchain space where you can convert XRP in
 
 ### **Frequently asked questions**
 
+#### **What about the Xumm On/Off-Ramp service? When will it be reinstated?**
+
+We are still searching for a banking partner:
+
+* with reasonable rates
+* has reliable service
+* supports the XRP Leger
+* supports multiple countries
+
+Hopefully by Q4 2023.
+
 #### **What about other XRP Ledger tokens? How to I cash them out?**
 
 Some crypto exchanges support multiple XRP Ledger tokens along with XRP. This should be one of the things that you research before you create an account with them. If you find that your current exchange does not support your desired XRP Ledger token, contact them directly and see if they have any plans to do so in the future.
-
-#### **Can't I just link my Xumm account directly to my bank account?**
-
-If you are located in the Netherlands or the United Kingdom and have signed up for the On/Off-Ramp service through Xumm Pro, then yes, you can link your XRPL account managed by Xumm to your bank account. For everyone else, Xumm does not have the option to do this.
-
-If your bank is interested in adding this feature, we would be happy to discuss it with them. Have them contact us!
 
 **Notes**
 
