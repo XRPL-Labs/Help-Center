@@ -14,11 +14,11 @@ Locate your XRP in the list and press the **Withdraw** link.
 
 In the _Network_ field, press the down arrow and select **XRPL**.
 
-In the _XRP Withdrawl Address_ field enter your **account r-address from Xumm**.
+In the _XRP Withdraw Address_ field enter your **account r-address from Xumm**.
 
 Check the **No Tag** option.
 
-In the _Amount_ filed, enter the amount you would like to send.
+In the _Amount_ field, enter the amount you would like to send.
 
 Press the the **Withdraw XRP** button.&#x20;
 
