@@ -36,25 +36,25 @@ We are currently offering this service to our customers in the **Netherlands** a
 
 ### **What about North America? Asia? Africa?**
 
-We **are** working with industry partners (Banxa / Gaurdarian) to provide On/Off-Ramp services for North America (and other regions) but they may not provide rates as good as ours. Our services will still be a lot more convenient, user-friendly and secure compared to third-party exchanges but the rates might not be as competitive as they are here in Europe.
+We are working with our industry partners to provide On-Ramp services for North America (and other regions) but they may not provide rates as good as ours. Our services will still be a lot more convenient, user-friendly and secure compared to third-party exchanges but the rates might not be as competitive as they are here in Europe.
 
-### **Do I need to subscribe to Xumm Pro in order to use the On/Off-Ramp service?**
-
-Yes.
-
-The On/Off-Ramp service is part of Xumm Pro. In order to access it you must subscribe to Xumm Pro. There is an annual **$60/€60** subscription fee to access Pro.&#x20;
-
-### **Are there any fees to setup the On/Off-ramp service?**
+### **Do I need to subscribe to Xumm Pro in order to use the On-Ramp service?**
 
 Yes.
 
-The Xumm On/Off-Ramp service costs **$5/€5** per year. This is in addition to the $60/€60 per year for Xumm Pro.
+The On-Ramp service is part of Xumm Pro. In order to access it you must subscribe to Xumm Pro. There is an annual **$60/€60** subscription fee to access Pro.&#x20;
 
-Once you have subscribed to Xumm Pro and been setup in the Xumm On/Off-Ramp xApp, there are **no additional fees**. Both deposits and withdrawal from your account are free.
+### **Are there any fees to setup the On-ramp service?**
+
+Yes.
+
+The Xumm On-Ramp service costs **$5/€5** per year. This is in addition to the $60/€60 per year for Xumm Pro.
+
+Once you have subscribed to Xumm Pro and have gone through the onboarding process, there are **no additional fees**. Deposits to your account are free.
 
 ### **What about exchange fees?**
 
-When converting your EURO into XRP and vice versa, we get you the best spot rates possible through our liquidity providers. There are no exchange fees for this. Our exchange rates are based on the average rate provided by the largest global crypto exchanges. We source the rates in real time so you always get the best exchange prices.
+When converting your EURO into XRP, we get you the best spot rates possible through our liquidity providers. There are no exchange fees for this. Our exchange rates are based on the average rate provided by the largest global crypto exchanges. We source the rates in real time so you always get the best exchange prices.
 
 ### **How do I prove I am a Dutch/UK citizen?**
 
@@ -70,15 +70,13 @@ As well, this service is not for businesses. People only.
 
 The entire on-boarding process takes about 30 minutes to complete.
 
-Once you go through the required KYC & Proof-of-Address steps, you are free to open the On/Off-Ramp xApp any time and purchase XRP.
+Once you go through the required KYC & Proof-of-Address steps, you are free to open the On-Ramp xApp any time and purchase XRP.
 
-A deposit description will be provided so you can send funds from your IBAN (International Bank Account Number) to our IBAN. Within minutes you’ll have the XRP in your XRPL account.
+A deposit description will be provided so you can send funds from your IBAN (International Bank Account Number) to our IBAN. During business hours, it usually takes a only few minutes for your XRP in your XRPL account. (Outside of business hours, it may take longer.)
 
-### **Are there amount limitations to the On-Ramp part of the service?**
+### **Are there amount limitations to the On-Ramp service?**
 
 You can on-ramp a maximum of €15k (15000 EUR) per rolling 365 days.
-
-If you on-ramp 15K, then withdraw 10K, you will be able to on-ramp an additional 10K over the remainder of the 365-day period (counting from the date of the initial deposit).
 
 ### **How does the Off-Ramp part of the service work?**
 
