@@ -29,7 +29,7 @@ There are several exchanges in the blockchain space where you can convert XRP in
 
 ### **Frequently asked questions**
 
-#### **What about the Xumm On/Off-Ramp service? When will it be reinstated?**
+#### **What about the Xumm On/Off-Ramp service?**&#x20;
 
 We are still searching for a banking partner:
 
