@@ -47,6 +47,14 @@ They will need to locate your funds in their system and deliver them to your exc
 
 Unfortunately there is **nothing Xumm Support can do** to help you recover your funds. Only your exchange is capable of delivering your funds to your account.&#x20;
 
+#### **I still have NFTs in my account so I can not delete it. What should I do?**
+
+You can not own **any objects** on the XRP Ledger in your XRP Ledger account, including NFTs. This means that you need to either sell your NFTs or delete them. For instructions on how to do this, contact the site where you acquired the NFTs and they should be able to assist you.
+
+#### **I removed all the NFTs in my account but I still can not delete it. What should I do?**
+
+If you ever minted an NFT and it still exists on the XRP Ledger, you will not be able to delete your account until the minted NFT has been burned. (This feature is part of the XLS-20 amendment and can not be by passed.)  You will need to track down the NFT you minted and make arrangements for it to be deleted. Once you have done that you should be able to delete your XRPL account.
+
 
 
 **Notes**
