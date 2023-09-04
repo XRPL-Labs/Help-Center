@@ -4,6 +4,8 @@ description: Why would I get a prepaid card?
 
 # Prepaid Xumm (Tangem) cards
 
+\<This article is still under construction>
+
 Let's face it, when it comes to getting started on the XRP Ledger, it can be a little bit complicated if you don't know what you're doing.  (First you have to create an XRPL account, then you have to figure out how to activate it.) We've create articles to try to make both steps as easy as possible...
 
 * [How to create an XRPL account](../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
