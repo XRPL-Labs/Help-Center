@@ -88,6 +88,24 @@ We have compiled a set of suggestions on how to use your Xumm (Tangem) cards. A 
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Best security practices for your Xumm (Tangem) card</td><td></td><td></td><td><a href="../.gitbook/assets/Water fall - 2.png">Water fall - 2.png</a></td><td><a href="best-security-practices-using-a-xumm-card.md">best-security-practices-using-a-xumm-card.md</a></td></tr></tbody></table>
 
+### Additional Questions
+
+#### I have three cards. What do I do with the third one?
+
+As mentioned above, we use the "regular key" feature of the XRP Ledger to "link' two card accounts together. (This effectively allows the "backup" card to sign transactions on the Primary card's account. ) The XRPL only allows for one regular key to be set per account, so this limits the number of backup cards that can be configured to one card.
+
+So what can a third card be used for?
+
+Basically it all depends on how you plan to interact with the XRP Ledger community. For some people. the third card is just put away in a safe place in case something happens to one of the other two card. (Sort of like a spare card in case one of the others are damaged or lost)
+
+Some people use it as a dedicated account for gambling, or of NFTs or a dedicated trading account. Some use it for testing features on the XRPL, as a daily spending account.
+
+Other people give it away to a friend or family member to introduce the XRP Leder to them.
+
+For advanced users, the XRP Ledger has a feature called [**Multi-signing**](https://xrpl.org/multi-signing.html) which allows multiple XRPL accounts to be linked together for signing purposes. The third card can be used in a multi-sign configuration if desired.
+
+
+
 ### Summary
 
 The Xumm card is a hardware wallet that offers peace of mind by providing a reliable and secure storage solution for your private keys for your XRPL account. Should you have any additional questions regarding this topic, you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
