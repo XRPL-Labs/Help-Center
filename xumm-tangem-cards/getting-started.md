@@ -100,7 +100,7 @@ Basically it all depends on how you plan to interact with the XRP Ledger communi
 
 Some people use it as a dedicated account for gambling, or of NFTs or a dedicated trading account. Some use it for testing features on the XRPL, as a daily spending account.
 
-Other people give it away to a friend or family member to introduce the XRP Leder to them.
+Other people give it away to a friend or family member to introduce the XRP Ledger to them.
 
 For advanced users, the XRP Ledger has a feature called [**Multi-signing**](https://xrpl.org/multi-signing.html) which allows multiple XRPL accounts to be linked together for signing purposes. The third card can be used in a multi-sign configuration if desired.
 
