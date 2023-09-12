@@ -30,6 +30,10 @@ You should see this screen:
 
 5\) Enter your Account Secret then press the **Next** button.\
 \
+For example, secret numbers would look like this:\
+\
+![](<../.gitbook/assets/image (7).png>)\
+\
 If your account is already imported into Xumm, you will receive the follow message:
 
 <figure><img src="../.gitbook/assets/Account Secret belongs.png" alt=""><figcaption></figcaption></figure>
