@@ -89,11 +89,3 @@ The XRPL accounts that were created during the CasinoCoin swap used a process th
 As you can see, it can be a bit more complicated than a regular XRPL account. If you are interested in avoiding those complications, it might make sense to consider creating a new account.&#x20;
 
 &#x20;[**How to create a** **new XRPL account**](../your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)&#x20;
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark> ](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
