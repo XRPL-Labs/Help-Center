@@ -39,10 +39,3 @@ It depends on the circumstances regarding your transaction.
 * **If you lost the account secret for your account or your account is in "Read only" mode.**\
   \
   Try to locate your account secret (secret numbers, family seed, mnemonic) for your account. (The **only** way to access an account is if you have the account secret.) If you still have signing access to your account on your phone, (or perhaps on an old phone), you can create a new XRP Ledger account using Xumm (**Settings** -> **Accounts** -> **+ Add account** -> **Create a new account**), then move your funds over to your new account using the **Send** feature on the main page. By creating a new account, you will get a new set of secret numbers which you can use to access your account on your phone. \
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

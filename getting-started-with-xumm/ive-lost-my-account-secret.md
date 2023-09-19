@@ -109,5 +109,3 @@ The XRP Ledger does not have any administrator functions and there are no "back-
 
 
 
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
-

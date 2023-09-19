@@ -31,13 +31,3 @@ We have an xApp called [**Account Worth**](https://xumm.app/detect/xapp:xumm.acc
 ### **How do I change the currency that is displayed?**
 
 You can set the currency for Xumm by pressing **Settings** -> **General** -> **Currency**
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

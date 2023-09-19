@@ -64,9 +64,3 @@ When you create an account with a crypto exchange, they issue you a customer acc
 If you would like to learn a bit more about destination tags, check out this video:
 
 {% embed url="https://www.youtube.com/watch?index=5&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp_l&v=gAWnIw4gzW8" %}
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

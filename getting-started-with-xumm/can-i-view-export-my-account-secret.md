@@ -62,11 +62,5 @@ We have an article that explains your options. You can review it here:
 
 * [I lost my secret numbers! What can I do?](https://support.xumm.app/hc/en-us/articles/360018166319)
 
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
-
 &#x20;
 
