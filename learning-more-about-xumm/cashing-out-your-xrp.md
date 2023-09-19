@@ -43,9 +43,3 @@ Hopefully by Q4 2023.
 #### **What about other XRP Ledger tokens? How to I cash them out?**
 
 Some crypto exchanges support multiple XRP Ledger tokens along with XRP. This should be one of the things that you research before you create an account with them. If you find that your current exchange does not support your desired XRP Ledger token, contact them directly and see if they have any plans to do so in the future.
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

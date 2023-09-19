@@ -95,11 +95,3 @@ When it comes to any token issued on the XRP Ledger, it all comes down to trust.
 Any exchange can easily honor Gatehub’s issued tokens and Gatehub can easily honor any other tokens issued on the XRPL. It comes down to who Gatehub trusts and who trusts Gatehub.
 
 Unfortunately we do not keep track of which exchanges support which tokens.  You can reach out to your exchange and ask them.
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

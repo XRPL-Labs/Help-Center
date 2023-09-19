@@ -37,9 +37,3 @@ Unfortunately, we do not recommend any specific tax software. There are too many
 ### **Last resort**
 
 Your transaction history is available to view on the XRP Ledger. You can always check your account via a blockchain explorer such as Bithomp or XRPscan and manually transcribe your transactions.
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

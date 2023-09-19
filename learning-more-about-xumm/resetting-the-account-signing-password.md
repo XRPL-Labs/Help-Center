@@ -39,9 +39,3 @@ Note: This assumes that you have the passcode to remove the account. If you do n
 1. Your account secret will come in the the form of a set of secret numbers / Family seed /Mnemonic. This article will guide you through importing your account with which ever one you have:\
    \
    [<mark style="color:blue;">**Importing your account into Xumm**</mark>](../getting-started-with-xumm/importing-your-account/)
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

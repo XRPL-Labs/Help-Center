@@ -89,11 +89,4 @@ If you have found yourself in this situation, you should consider the following 
 * Either re-key the account or
 * Create a new account and move your assets over to the new account
 
-Note: Be advised, trustlines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of trustlines until the move is complete.\
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
+Note: Be advised, trustlines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of trustlines until the move is complete.

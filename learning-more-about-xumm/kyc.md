@@ -91,9 +91,3 @@ We are super excited about the release of Xumm Pro Beta! 🎉.&#x20;
 You can learn all about it here:
 
 * &#x20;[**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)
-
-### **Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

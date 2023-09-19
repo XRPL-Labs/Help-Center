@@ -80,9 +80,3 @@ We certainly are! Here is a sneak peek of what we are working on…
 
 * We are considering a proposal to amend the XRPL. If transactions with long memos were subjected to escalating fees, it would make it more far more expensive for people to spam the network. It could still be done, but the amendment would make it prohibitively expensive.
 * We have been developing a project that we call **Hooks**. (Hooks are basically smart contracts on the XRPL.) If Hooks makes it to the XRPL (via an amendment), people will be able to install a “hook” that would filter out spam transactions. Think of it like a firewall that would block “shady” or questionable transactions.
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

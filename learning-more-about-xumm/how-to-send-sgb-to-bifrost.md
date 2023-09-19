@@ -39,9 +39,3 @@ No. You **can not** send a token that was issued on the Songbird network to the 
 Gatehub has their own support department which should be able to answer any questions related to their issued tokens. You can contact them here:
 
 [https://support.gatehub.net/hc/en-us/requests/new](https://support.gatehub.net/hc/en-us/requests/new)
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.&#x20;
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

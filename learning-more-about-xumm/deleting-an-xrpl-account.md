@@ -54,12 +54,3 @@ You can not own **any objects** on the XRP Ledger in your XRP Ledger account, in
 #### **I removed all the NFTs in my account but I still can not delete it. What should I do?**
 
 If you ever minted an NFT and it still exists on the XRP Ledger, you will not be able to delete your account until the minted NFT has been burned. (This is a requirement of the the NFT implementation on the XRP Ledger (See the [XLS-20 amendment](https://github.com/XRPLF/XRPL-Standards/discussions/46)), and as a XRPL requirement, cannot be bypassed)  You will need to track down the NFT you minted and make arrangements for it to be deleted. Once you have done that you should be able to delete your XRPL account.
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
-
