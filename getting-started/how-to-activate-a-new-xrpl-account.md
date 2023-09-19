@@ -60,11 +60,3 @@ For example, if you have a friend, family member, co-worker, etc. who has an act
 Here is how they can send XRP using Xumm:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Sending XRP using Xumm</td><td></td><td></td><td><a href="../getting-started-with-xumm/sending-tokens-to-xumm.md">sending-tokens-to-xumm.md</a></td><td><a href="../.gitbook/assets/store  van gogh style.png">store  van gogh style.png</a></td></tr></tbody></table>
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

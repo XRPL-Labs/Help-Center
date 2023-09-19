@@ -22,9 +22,3 @@ description: How to send XRP from Bitstamp to Xumm (deposit)
 While this video does not specifically show how to send XRP to your XRPL account managed by Xumm, it does should how to send XRP in general.&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=IWE8bmAdRjc" %}
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

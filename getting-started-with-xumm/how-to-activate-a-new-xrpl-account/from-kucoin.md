@@ -33,9 +33,3 @@ Note: Self-custodial accounts, like the ones managed by Xumm do not require dest
 7\) Press the **Confirm** button to complete the withdrawal.
 
 <figure><img src="../../.gitbook/assets/KuCoin -7.png" alt=""><figcaption></figcaption></figure>
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

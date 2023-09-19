@@ -81,11 +81,3 @@ If you press the **Buy XRP** button you will be provided with several options to
 For more information about activating your new XRP Ledger account, please refer to this article:
 
 [**Activating an XRPL account**](../../getting-started/how-to-activate-a-new-xrpl-account.md)
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
