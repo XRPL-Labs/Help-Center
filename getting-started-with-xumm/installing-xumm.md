@@ -75,9 +75,3 @@ Here is where you can decide which account you would like to manage with Xumm.
 <figure><img src="../.gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How to create a new XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Create a new account.png">Create a new account.png</a></td><td><a href="your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr><tr><td>How to import an existing XRP Ledger Account</td><td></td><td></td><td><a href="../.gitbook/assets/Import an existing account.png">Import an existing account.png</a></td><td><a href="importing-your-account/">importing-your-account</a></td></tr><tr><td>How to import a Xumm Tangem Card</td><td></td><td></td><td><a href="../.gitbook/assets/Add Tangem card card.png">Add Tangem card card.png</a></td><td><a href="importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td></tr></tbody></table>
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

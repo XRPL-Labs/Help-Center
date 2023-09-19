@@ -43,11 +43,3 @@ Xumm does not require any of our servers in order to operate. If all our servers
 ### **Summary**
 
 Xumm is a self custodial, XRP Ledger wallet that allows you to create and manage XRP Ledger accounts in a safe, secure and user friendly way. It is not effected by EMPs, solar flares or natural disasters. What could be effected by these events is the infrastructure required to access the XRP Ledger. If you are unable to access the XRPL, Xumm is not going to be much use to you.
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

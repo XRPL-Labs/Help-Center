@@ -25,11 +25,3 @@ There are many attack vectors for both cold and hot wallets and both types have 
 ### Xumm offers staking
 
 No, the XRP Ledger is not a Proof of Stake network so there is no way to offer staking natively on the XRPL. Furthermore, there is no need to stake coins since the validation process is a cooperative based system, not a competitive based system. All fees charged by the XRP Ledger are destroyed so there is no way to generate "rewards" for users.
-
-&#x20;
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
