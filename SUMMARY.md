@@ -111,7 +111,6 @@
   * [DEX Trade](all-about-xapps/xumm-xapps/dex-trade.md)
     * [The price difference between selling and buying is too high](all-about-xapps/xumm-xapps/dex-trade/the-price-difference-between-selling-and-buying-is-too-high.md)
   * [Path Finding](all-about-xapps/xumm-xapps/path-finding.md)
-    * [Page 1](all-about-xapps/xumm-xapps/path-finding/page-1.md)
   * [Xumm Pro Beta](all-about-xapps/xumm-xapps/xumm-pro-beta.md)
   * [Buy/Sell XRP](all-about-xapps/xumm-xapps/buy-sell-xrp/README.md)
 * [XRPL Services](all-about-xapps/xrpl-services/README.md)

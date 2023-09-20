@@ -46,13 +46,3 @@ In other words, [slippage](../../getting-started/some-terms-and-definitions-rela
 Account Worth shows the real value of each asset based on the current liquidity on the DEX.&#x20;
 
 Many crypto exchanges use a different method of calculating value. Some exchanges have their own liquidity pool which they use to calculate value. Some exchange rely on third parties to calculate value.  Account Worth relies on the XRP Ledger DEX to calculate value.
-
-
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
