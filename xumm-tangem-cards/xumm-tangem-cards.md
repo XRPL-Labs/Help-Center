@@ -86,11 +86,3 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   This article will walk you through the process of getting them setup.\
   \
   [**Getting started with your new cards**](getting-started.md)
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
