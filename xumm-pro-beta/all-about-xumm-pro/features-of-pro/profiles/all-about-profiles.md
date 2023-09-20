@@ -67,9 +67,3 @@ It is just like a phone book, you can look up someone's r-address just by knowin
 We have created an article to walk you through the process:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Setting up your Profile</td><td></td><td></td><td><a href="setting-up-your-xumm-profile.md">setting-up-your-xumm-profile.md</a></td><td><a href="../../../../.gitbook/assets/Bench.png">Bench.png</a></td></tr></tbody></table>
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

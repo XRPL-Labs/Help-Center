@@ -92,12 +92,3 @@ Xumm will compare it to the KYC document that you submitted during the KYC proce
 Remember, the point of Profiles is to create an **honest identity** for yourself. One that can be **trusted** by others in the XRPL community. If you still receive the above message after trying a couple of variations of your picture, try submitting an exception request with an explanation as to why you think you should receive an exception.
 
 Exceptions will be considered on a case by case basis.
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
-

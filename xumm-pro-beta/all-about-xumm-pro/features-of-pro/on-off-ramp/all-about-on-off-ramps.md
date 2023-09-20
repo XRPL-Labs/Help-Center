@@ -89,11 +89,3 @@ Once we have completed the roll out, we will revisit our limits with our custome
 ### How can a bank transfer be delayed?
 
 A bank transfer can be delayed for various reasons, and most of these are outside the control of either the sender or the recipient. For example, delays can occur due to technical issues with the bank's systems or the recipient's bank, such as maintenance or system upgrades. International transfers, in particular, can be delayed due to the involvement of multiple banks, currency conversions, compliance with regulatory requirements or fraud prevention measures. (Which are designed to protect the security of the transfer and the accounts involved.) Moreover, if the transfer is flagged as suspicious, it may be subject to additional scrutiny, which can result in further delays. Errors in the transfer instructions or incomplete information can also cause delays.&#x20;
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

@@ -32,11 +32,5 @@ More information about about Profiles (and how it works) please refer to this ar
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">All about Profiles</td><td></td><td></td><td><a href="../../../../.gitbook/assets/van gogh office.png">van gogh office.png</a></td><td><a href="all-about-profiles.md">all-about-profiles.md</a></td></tr></tbody></table>
 
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the <mark style="color:blue;">**Xumm Support xApp**</mark> in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
-
 
 
