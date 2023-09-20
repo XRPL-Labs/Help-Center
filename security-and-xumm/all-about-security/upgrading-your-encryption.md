@@ -55,11 +55,3 @@ Any new account that is created with Xumm v2.4 uses the new encryption algorithm
 #### What if I import an existing XRPL account into Xumm v2.4?
 
 All accounts that are imported into Xumm v2.4 will be automatically upgraded to use the new encryption algorithm. There is no need to upgrade it.
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>

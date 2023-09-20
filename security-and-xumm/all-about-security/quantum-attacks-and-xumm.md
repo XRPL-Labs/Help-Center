@@ -48,11 +48,3 @@ One of the major projects we have been developing is adding smart contact functi
 A Hook can be developed to create any signing scheme you desire. For example, you could delegate a transaction through a Hook which could allow you to change your signing scheme to which ever algorithm you like. Such a hook could give you complete control over how your transactions would be signed and allow you to choose from various quantum resistant algorithms.
 
 Another option could be to create a Hook that simply blocks any transaction that doesn't include a quantum resistant signature. This type of hook could prevent you from accidentally signing a transaction using a non-quantum resistant algorithm.&#x20;
-
-
-
-**Notes**
-
-We understand that you might have additional questions regarding this topic so you are welcome to contact us any time via the [<mark style="color:blue;">**Xumm Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xumm or you can simply scan this QR code with Xumm and be directed there automatically.
-
-<figure><img src="../../.gitbook/assets/Support banner Xumm.png" alt=""><figcaption></figcaption></figure>
