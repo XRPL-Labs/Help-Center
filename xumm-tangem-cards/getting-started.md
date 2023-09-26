@@ -96,13 +96,15 @@ As mentioned above, we use the "regular key" feature of the XRP Ledger to "link'
 
 So what can a third card be used for?
 
-Basically it all depends on how you plan to interact with the XRP Ledger community. For some people. the third card is just put away in a safe place in case something happens to one of the other two card. (Sort of like a spare card in case one of the others are damaged or lost)
+Basically it all depends on how you plan to interact with the XRP Ledger community. For some people. the third card is just put away in a safe place in case something happens to one of the other two cards. (Sort of like a spare card in case one of the others are damaged or lost.)
 
-Some people use it as a dedicated account for gambling, or of NFTs or a dedicated trading account. Some use it for testing features on the XRPL, as a daily spending account.
+Some people use it as a dedicated account for gambling, or for NFTs or a dedicated trading account. Some use it for testing features on the XRPL or as a daily spending account.
 
 Other people give it away to a friend or family member to introduce the XRP Ledger to them.
 
 For advanced users, the XRP Ledger has a feature called [**Multi-signing**](https://xrpl.org/multi-signing.html) which allows multiple XRPL accounts to be linked together for signing purposes. The third card can be used in a multi-sign configuration if desired.
+
+So it all comes down to how you are going to participate in the XRPL ecosystem.
 
 
 
