@@ -31,15 +31,15 @@ This is for the person who wants an easy way to get started on the XRP Ledger, f
 
 ### How much XRP can you purchase?
 
-Up to **50** EUR/USD worth of XRP **plus** the base reserve.
+Up to $**50** USD worth of XRP **plus** the base reserve.
 
 (Since the price of XRP varies from day to day, the amount of XRP you will receive varies as well.)
 
-For example, if XRP is worth 1 EURO each, you could purchase 50 EUR of XRP plus the base reserve. (The base reserve for an XRPL account is 10 XRP)&#x20;
+For example, if XRP is worth 1 USD each, you could purchase 50 USD of XRP plus the base reserve. (The base reserve for an XRPL account is 10 XRP)&#x20;
 
-So,  Base reserve = 10 XRP x 1 EUR each = 10 EUR\
-&#x20;      Additional 50 EUR x 1 EUR per XRP - 50 XRP\
-&#x20;      Total = 60 EUR
+So,  Base reserve = 10 XRP x 1 USD each = 10 USD\
+&#x20;      Additional 50 USD x 1 USD per XRP - 50 XRP\
+&#x20;      Total = You would receive 60 XRP for the cost of 60 USD.
 
 ### Can I order them with Xumm Pro?
 
