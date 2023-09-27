@@ -24,22 +24,12 @@ This is for the person who wants an easy way to get started on the XRP Ledger, f
 ### Top five reasons this is a good idea
 
 * No KYC required - You can purchase up to $50 USD along with the cards and you don't have to go through the KYC process!
-*
+* Safe - The cards are not shipped with an r-address, which means you don't have to worry your account has been accessed on route.
+* Convenient - One place to go to purchase the cards and XRP.
+* Risk free -&#x20;
+* Compliant - &#x20;
 
-\
-The&#x20;
-
-* he cards are shipped without an r-address.
-
-We record the serial number of the card.
-
-when you import the card into Xumm
-
-See this article for details on how it works
-
-
-
-### How much XRP comes with the card?
+### How much XRP can you purchase?
 
 Up to **50** EUR/USD worth of XRP **plus** the base reserve.
 
@@ -50,18 +40,6 @@ For example, if XRP is worth 1 EURO each, you could purchase 50 EUR of XRP plus 
 So,  Base reserve = 10 XRP x 1 EUR each = 10 EUR\
 &#x20;      Additional 50 EUR x 1 EUR per XRP - 50 XRP\
 &#x20;      Total = 60 EUR
-
-
-
-
-
-### Can i order a card with more than 10 XRP?
-
-No.
-
-### How do I order them?
-
-### Do they come with Xumm Pro?
 
 ### Can I order them with Xumm Pro?
 
