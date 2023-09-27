@@ -1,5 +1,5 @@
 ---
-description: Why would I get a prepaid card?
+description: All about prepaid cards
 ---
 
 # Prepaid Xumm (Tangem) cards
@@ -11,9 +11,9 @@ Let's face it, when it comes to getting started on the XRP Ledger, it can be a l
 * [How to create an XRPL account](../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 * [Activating an XRPL account](../getting-started/how-to-activate-a-new-xrpl-account.md)
 
-...but we thought to ourselves, "What else can we do to make it even complicated?" What if we could make it so people would just have to purchase a Xumm (Tangem) card and it would arrive **pre-activated**?
+...but we thought to ourselves, "What can we do to make the activation process easier?"&#x20;
 
-Well, you now have the ability to do exactly that...purchase Xumm (Tangem) cards with XRP ready to be added.&#x20;
+We figured if we could provide the option to purchase XRP along with the cards, that would certainly help. So we re-vamped the card purchasing process and added the option to purchase XRP along with the cards.
 
 This article talks about this idea and how to start your journey on the XRP Ledger with a new XRPL account and some XRP to get you going...💪
 
@@ -21,9 +21,15 @@ This article talks about this idea and how to start your journey on the XRP Ledg
 
 This is for the person who wants an easy way to get started on the XRP Ledger, for someone who might want to give a couple of Xumm (Tangem) cards as a gift, or for someone who just wants an XRP cold wallet without the hassle of having to deal with a third party to activate it.
 
-### Is it safe?
+### Top five reasons this is a good idea
 
-The cards are shipped without an r-address.
+* No KYC required - You can purchase up to $50 USD along with the cards and you don't have to go through the KYC process!
+*
+
+\
+The&#x20;
+
+* he cards are shipped without an r-address.
 
 We record the serial number of the card.
 
