@@ -21,13 +21,11 @@ This article talks about this idea and how to start your journey on the XRP Ledg
 
 This is for the person who wants an easy way to get started on the XRP Ledger, for someone who might want to give a couple of Xumm (Tangem) cards as a gift, or for someone who just wants an XRP cold wallet without the hassle of having to deal with a third party to activate it.
 
-### Top five reasons this is a good idea
+### Top three reasons you'll like this
 
 * No KYC required - You can purchase up to $50 USD along with the cards and you don't have to go through the KYC process!
 * Safe - The cards are not shipped with an r-address, which means you don't have to worry your account has been accessed on route.
-* Convenient - One place to go to purchase the cards and XRP.
-* Risk free -&#x20;
-* Compliant - &#x20;
+* Convenient - One place to go to purchase the cards and XRP. Easy to use as a gift.
 
 ### How much XRP can you purchase?
 
@@ -42,4 +40,8 @@ So,  Base reserve = 10 XRP x 1 USD each = 10 USD\
 &#x20;      Total = You would receive 60 XRP for the cost of 60 USD.
 
 ### Can I order them with Xumm Pro?
+
+All cards orders come with Xumm Pro, unless you already have a Pro subscription. For those who already have Xumm Pro, the app will detect this and Pro will **not** be included with your purchase.
+
+
 
