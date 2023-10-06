@@ -30,11 +30,11 @@ We make a couple of recommendations below which you should review to better unde
 
 ### What the cards are not for...
 
-You should be aware, the cards **can not** be used:
+The cards **can not** be used:
 
-* to connect to your bank account. You can not use them at an ATM.&#x20;
-* as debit cards or a credit cards.
-* to store XRP on them and they do not come with XRP.
+* to connect to your bank account.&#x20;
+* at an ATM or bank machine.&#x20;
+* as a debit card or a credit card.
 
 ### Existing XRPL accounts
 
