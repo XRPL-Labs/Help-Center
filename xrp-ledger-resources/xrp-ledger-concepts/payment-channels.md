@@ -1,6 +1,8 @@
-# Payment Channels
+---
+description: 'Understanding Payment Channels on the XRPL: A Simple Guide'
+---
 
-## Understanding Payment Channels on the XRPL: A Simple Guide
+# Payment Channels
 
 ### Introduction
 
