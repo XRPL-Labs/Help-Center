@@ -166,6 +166,7 @@
   * [About Trust Lines](xrp-ledger-resources/xrp-ledger-concepts/about-trust-lines.md)
   * [About Regular Keys](xrp-ledger-resources/xrp-ledger-concepts/about-regular-keys.md)
   * [About Reserves](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
+  * [Payment Channels](xrp-ledger-resources/xrp-ledger-concepts/payment-channels.md)
 
 ## Release notes
 
