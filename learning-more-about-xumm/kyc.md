@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/Boulder.png
-coverY: -253
----
-
 # KYC
 
 ### **What is KYC?**
