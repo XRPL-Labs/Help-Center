@@ -126,7 +126,7 @@
   * [UniSpend](all-about-xapps/xrp-community/chispend-cash-out.md)
   * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
   * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
-  * [Stably](all-about-xapps/xrp-community/stably.md)
+  * [Simple Swap xApp - Stably](all-about-xapps/xrp-community/stably.md)
 
 ## Xumm Pro beta
 

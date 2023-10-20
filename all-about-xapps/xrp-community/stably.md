@@ -1,8 +1,16 @@
 ---
-description: All about the Stably service
+description: All about the Stably and the Simple Swap xApp
 ---
 
-# Stably
+# Simple Swap xApp - Stably
+
+### Update
+
+Due complications with [_Nevada Financial Institution Division,_](https://fid.nv.gov/) Stably is is no longer able to offer their deposit/withdrawal services in the United States, and as such, the Simple Swap xApp will be removed from Xumm.
+
+For more information about this, please refer to the following link:
+
+{% embed url="https://support.stably.io/en/articles/8039846-prime-trust-halting-deposit-withdrawal" %}
 
 ### Background
 
