@@ -41,7 +41,7 @@ Because we only want to support trustworthy profiles & to prevent imposters, you
 
 #### **Do I need to go through KYC to use your On/Off-Ramp service?**&#x20;
 
-If you would like to use our On/Off-Ramp feature, **you will need to go through the KYC process in Xumm Pro**. This is a requirement of the Dutch government under which we are regulated.&#x20;
+If you would like to use our On-Ramp feature, **you will need to go through the KYC process in Onramp/Offramp xApp in Xumm Pro**. (This is a requirement of the Dutch government under which we are regulated.) This means that even if you may have already went through the KYC process in Xumm Pro,  you will need to go through it again via the **Onramp/Offramp xApp.**
 
 #### **Will Xumm disclose my identity if I go through the KYC process?**
 
