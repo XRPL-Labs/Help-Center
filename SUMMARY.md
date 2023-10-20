@@ -60,6 +60,7 @@
 * [Adding an Icon/Logo to a Trust Line in Xumm](learning-more-about-xumm/adding-an-icon-logo-to-a-trust-line-in-xumm.md)
 * [Cashing out your XRP](learning-more-about-xumm/cashing-out-your-xrp.md)
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
+* [Xumm & Fractal ID](learning-more-about-xumm/xumm-and-fractal-id.md)
 * [Spam on the XRP Ledger](learning-more-about-xumm/spam-on-the-xrp-ledger.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
 * [KYC](learning-more-about-xumm/kyc.md)
