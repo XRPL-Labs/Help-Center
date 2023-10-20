@@ -1,12 +1,12 @@
 ---
-description: All about the Stably and the Simple Swap xApp
+description: All about the Stably xApp
 ---
 
-# Simple Swap xApp - Stably
+# Stably xApp
 
 ### Update
 
-Due complications with [_Nevada Financial Institution Division,_](https://fid.nv.gov/) Stably is is no longer able to offer their deposit/withdrawal services in the United States, and as such, the Simple Swap xApp will be removed from Xumm.
+Due complications with [_Nevada Financial Institution Division,_](https://fid.nv.gov/) Stably is is no longer able to offer their deposit/withdrawal services in the United States, and as such, the Stably xApp will be removed from Xumm.
 
 For more information about this, please refer to the following link:
 

@@ -59,6 +59,7 @@
 * [🪙 Supported tokens](learning-more-about-xumm/supported-tokens.md)
 * [Adding an Icon/Logo to a Trust Line in Xumm](learning-more-about-xumm/adding-an-icon-logo-to-a-trust-line-in-xumm.md)
 * [Cashing out your XRP](learning-more-about-xumm/cashing-out-your-xrp.md)
+* [Cashing out with Gatehub](learning-more-about-xumm/cashing-out-with-gatehub.md)
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [Xumm & Fractal ID](learning-more-about-xumm/xumm-and-fractal-id.md)
 * [Spam on the XRP Ledger](learning-more-about-xumm/spam-on-the-xrp-ledger.md)
@@ -127,7 +128,7 @@
   * [UniSpend](all-about-xapps/xrp-community/chispend-cash-out.md)
   * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
   * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
-  * [Simple Swap xApp - Stably](all-about-xapps/xrp-community/stably.md)
+  * [Stably xApp](all-about-xapps/xrp-community/stably.md)
 
 ## Xumm Pro beta
 
