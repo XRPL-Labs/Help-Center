@@ -18,7 +18,7 @@ description: How to delete an XRP Ledger account from the XRPL.
 
 ### Important things to consider
 
-* If you plan to send your remaining funds to a crypto exchange or to another wallet, please make sure that they support the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction on the XRPL. Many do not.&#x20;
+* If you plan to send your remaining funds to a crypto exchange or to another wallet, please make sure that they support the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction on the XRPL. Quality exchanges such as [Gatehub](https://gatehub.net/) support it but many do not.&#x20;
 * The XRP Ledger has a 2 XRP fee to delete an account. (in addition to the regular transaction fee) This means that after you delete your account you should receive about 8 XRP from your 10 XRP base reserve.
 * A new account on the XRP Ledger **can not** be activated by the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction. If you try to do this, it will be rejected and you will still be charged the 2 XRP fee.&#x20;
 * Even after you delete your account, you should **not throw away your account secret**. Someone may send funds to your account in the future and you will need your account secret to access them.
