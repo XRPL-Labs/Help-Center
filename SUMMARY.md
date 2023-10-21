@@ -63,6 +63,7 @@
 * [Xumm & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [Xumm & Fractal ID](learning-more-about-xumm/xumm-and-fractal-id.md)
 * [Spam on the XRP Ledger](learning-more-about-xumm/spam-on-the-xrp-ledger.md)
+* [How to set the currency](learning-more-about-xumm/how-to-set-the-currency.md)
 * [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
 * [KYC](learning-more-about-xumm/kyc.md)
 * [xApp Publishing](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
