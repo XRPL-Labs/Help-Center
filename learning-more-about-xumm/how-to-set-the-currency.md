@@ -12,10 +12,22 @@ Xaman (formerly Xumm) supports hundreds of different currencies including the mo
 
 
 
-<figure><img src="../.gitbook/assets/Xaman - Main Screen - Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Xaman - Main Screen - Settings (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;2\) Tap the **General** category.
 
 
 
 <figure><img src="../.gitbook/assets/Xaman - Settings Screen - General.png" alt=""><figcaption></figcaption></figure>
+
+3\) Select the **Currency** option.
+
+
+
+<figure><img src="../.gitbook/assets/Xaman - Settings Screen - General - Currency.png" alt=""><figcaption></figcaption></figure>
+
+4\) Choose which currency you would like to use.
+
+
+
+<figure><img src="../.gitbook/assets/Xaman - Currency options.png" alt=""><figcaption></figcaption></figure>
