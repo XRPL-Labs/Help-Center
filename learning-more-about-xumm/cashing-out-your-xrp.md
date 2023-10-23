@@ -38,7 +38,7 @@ We are still searching for a banking partner:
 * supports the XRP Leger
 * supports multiple countries
 
-Hopefully by Q4 2023.
+Hopefully by Q1 2024.
 
 #### **What about other XRP Ledger tokens? How to I cash them out?**
 
