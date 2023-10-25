@@ -35,11 +35,11 @@ We are still searching for a banking partner:
 
 * with reasonable rates
 * has reliable service
-* supports the XRP Leger
+* supports the XRP Ledger
 * supports multiple countries
 
 Hopefully by Q1 2024.
 
 #### **What about other XRP Ledger tokens? How to I cash them out?**
 
-Some crypto exchanges support multiple XRP Ledger tokens along with XRP. This should be one of the things that you research before you create an account with them. If you find that your current exchange does not support your desired XRP Ledger token, contact them directly and see if they have any plans to do so in the future.
+Some crypto exchanges support multiple XRP Ledger tokens along with XRP. (Gatehub is a good example of one.) This should be one of the things that you research before you create an account with an exchange. If you find that your current exchange does not support your desired XRP Ledger token, contact them directly and see if they have any plans to do so in the future.
