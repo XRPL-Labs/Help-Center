@@ -92,7 +92,6 @@ In a way, Xumm Pro will probably never be “completed”. We continue to develo
 
 * Escrow auto finish
 * Encrypted backup xApp
-* Payment requests
 * Multi-sign xApp
 
 We are very meticulous when it comes to coding Xumm and do not rush our features or product releases. They will be ready when they are ready.
