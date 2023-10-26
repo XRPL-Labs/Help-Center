@@ -29,7 +29,7 @@ Or
 
 1. Sign in to XRPL.Services with the account that owns the NFT
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (7).png>)
 
 Navigate to _XRPL Tools > Raw JSON Transactions > NFTokenBurn Template_
 

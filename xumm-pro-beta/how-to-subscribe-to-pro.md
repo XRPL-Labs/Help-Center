@@ -18,31 +18,38 @@ For a more in depth look into Xumm Pro, why you should subscribe and the answers
 
 ### **How to subscribe**
 
-1\) You can order the cards from the [Get cards (Tangem) xApp](https://xumm.app/detect/xapp:xumm.tangem-order) from within Xumm or by launching Xumm, pressing the **xApps** button on the bottom of the screen then choosing:
+1\) You can order the cards from the [Get cards (Tangem) xApp](https://xumm.app/detect/xapp:xumm.tangem-order) from within Xumm or by launching Xumm, pressing the **xApps** button on the bottom of the screen then choosing **Get cards (Tangem)**.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-2\) Select the **2 Xumm Tangem Card + Pro** option the press the **Select** button&#x20;
+2\) Next, choose how many cards you'd like to receive along with you Pro subscription. Most people go with the **2 Xumm Tangem Card + Pro** option, but you choose 2,3,4 or 5 depending on your needs. Just press the **Select** under the one you would like.
 
 <figure><img src="../.gitbook/assets/Tangem order -1.png" alt=""><figcaption></figcaption></figure>
 
-**Note:** You many have noticed that a Xumm Pro subscription includes two free Xumm (Tangem) cards and the purchase of two Xumm (Tangem) cards includes a free subscription to Xumm Pro. Both options cost the same amount and include the same features.
+3\) After filling out your information, you get to the **Payment** section.
 
-## Option 2
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1\) Click on this link: [https://xrpl-labs.com/gift-pro/raddr](https://xrpl-labs.com/gift-pro/raddr)
+Here you have two options to pay.
 
-<figure><img src="../.gitbook/assets/Gift Xumm Pro - 1.png" alt=""><figcaption></figcaption></figure>
+* Pay with XRP using Xumm
+* Pay with USD using a credit card (Note: a 14% premium applies)
 
-2\) Enter your r-address into the field and select the **Purchase** button.
+We recommend **paying with Xumm using XRP**. It is quick, easy and will save you time and money, however we do offer the option to pay using a credit card.
 
-### **I just want to get access as quickly as possible. How do I do that?**
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Please note: The in-app purchase option for Xumm Pro (Beta) has been temporarily disabled due to complications associated with the release of Xumm v2.5. Until this is resolved, please choose one of the following two purchase options:&#x20;
+Just fill out the form and your credit card information and tap the **Pay** button.
+
+
+
+{% hint style="info" %}
+Note: If you pay with XRP, you will receive an email containing a link to activate your Pro subscription immediately.
+
+If you pay with a credit card, you will receive your activation email when the cards ship from our office. This normally happens the next business day, but depending on the volume of orders, it might take two business days before the cards ship and you receive your activation email.
 {% endhint %}
 
-## Option 1
+##
 
 ###
 

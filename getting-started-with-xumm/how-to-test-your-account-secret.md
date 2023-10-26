@@ -32,7 +32,7 @@ You should see this screen:
 \
 For example, secret numbers would look like this:\
 \
-![](<../.gitbook/assets/image (7).png>)\
+![](<../.gitbook/assets/image (7) (3).png>)\
 \
 If your account is already imported into Xumm, you will receive the follow message:
 
