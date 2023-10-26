@@ -6,19 +6,21 @@ description: How to subscribe to Xumm Pro (Beta)
 
 ### **Background**
 
-In this article we will explore how to subscribe to Xumm Pro (Beta) and an overview of some of its features. &#x20;
+Thank you for your interest Xumm Pro. We really do appreciate it! 🤗
+
+In this article we will explore how to subscribe to Xumm Pro (Beta) and provide a bit of an overview of some of its features. &#x20;
 
 For a more in depth look into Xumm Pro, why you should subscribe and the answers to some frequently asked questions, check out this article:
 
 
 
-We want to thank you for your interest Xumm Pro. We really do appreciate it! 🤗
+
 
 ### **How to subscribe**
 
-1\) You can order the cards from the [Get cards (Tangem) xApp](https://xumm.app/detect/xapp:xumm.tangem-order) from within Xumm.&#x20;
+1\) You can order the cards from the [Get cards (Tangem) xApp](https://xumm.app/detect/xapp:xumm.tangem-order) from within Xumm or by launching Xumm, pressing the **xApps** button on the bottom of the screen then choosing:
 
-Just launch Xumm, press the&#x20;
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 2\) Select the **2 Xumm Tangem Card + Pro** option the press the **Select** button&#x20;
 
