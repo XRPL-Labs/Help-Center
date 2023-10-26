@@ -1,24 +1,24 @@
 ---
-description: How to subscribe to Xumm Pro
+description: How to subscribe to Xumm Pro (Beta)
 ---
 
 # How to subscribe
 
 ### **Background**
 
-In this article we will explore the features of Xumm Pro Beta and how you can subscribe.
+In this article we will explore how to subscribe to Xumm Pro (Beta) and an overview of some of its features. &#x20;
 
-If you have already subscribed to Pro Beta, check out our [Features of Pro](features-of-pro.md) section for more information about the app.
+For a more in depth look into Xumm Pro, why you should subscribe and the answers to some frequently asked questions, check out this article:
 
-### **I just want to get access as quickly as possible. How do I do that?**
 
-{% hint style="warning" %}
-Please note: The in-app purchase option for Xumm Pro (Beta) has been temporarily disabled due to complications associated with the release of Xumm v2.5. Until this is resolved, please choose one of the following two purchase options:&#x20;
-{% endhint %}
 
-## Option 1
+We want to thank you for your interest Xumm Pro. We really do appreciate it! 🤗
 
-1\) Select this link: [https://xumm.app/detect/xapp:xumm.tangem-order](https://xumm.app/detect/xapp:xumm.tangem-order)
+### **How to subscribe**
+
+1\) You can order the cards from the [Get cards (Tangem) xApp](https://xumm.app/detect/xapp:xumm.tangem-order) from within Xumm.&#x20;
+
+Just launch Xumm, press the&#x20;
 
 2\) Select the **2 Xumm Tangem Card + Pro** option the press the **Select** button&#x20;
 
@@ -33,6 +33,16 @@ Please note: The in-app purchase option for Xumm Pro (Beta) has been temporarily
 <figure><img src="../.gitbook/assets/Gift Xumm Pro - 1.png" alt=""><figcaption></figcaption></figure>
 
 2\) Enter your r-address into the field and select the **Purchase** button.
+
+### **I just want to get access as quickly as possible. How do I do that?**
+
+{% hint style="warning" %}
+Please note: The in-app purchase option for Xumm Pro (Beta) has been temporarily disabled due to complications associated with the release of Xumm v2.5. Until this is resolved, please choose one of the following two purchase options:&#x20;
+{% endhint %}
+
+## Option 1
+
+###
 
 ### **How much does it cost to subscribe to Xumm Pro Beta?**
 
