@@ -12,7 +12,9 @@ In this article we will explore how to subscribe to Xumm Pro (Beta) and provide 
 
 For a more in depth look into Xumm Pro, why you should subscribe and the answers to some frequently asked questions, check out this article:
 
-
+{% content-ref url="all-about-xumm-pro/what-is-xumm-pro.md" %}
+[what-is-xumm-pro.md](all-about-xumm-pro/what-is-xumm-pro.md)
+{% endcontent-ref %}
 
 
 
