@@ -1,37 +1,78 @@
 ---
-description: What is Xumm Pro and why should I subscribe?
+description: What is Xumm Pro and why should you subscribe?
 cover: ../../.gitbook/assets/Apple - 1.png
 coverY: 145
 ---
 
 # 😎 What is Xumm Pro?
 
-Xumm Pro is a paid subscription service which provides additional features to the Xumm wallet.&#x20;
+### Background
 
-Some of these features include:
+Xumm is a self-custodial wallet designed from the ground up exclusively for the XRP Ledger. It has evolved over several years to become the most comprehensive and complete XRP wallet in the world, supporting all features of the XRPL. It is completely free to use and for most people, it is all they will ever need to interact with the XRP and Xahau communities.
 
-### **Profiles**
+While Xumm is feature complete, it became apparent that the XRP community wanted Xumm to do more than provide access to the XRPL. More and more people wanted additional features to enhance their user experience, so we listened and Xumm Pro was born.&#x20;
 
-* Claim & personalize your own profile page for payment requests & invoice payment in XRP and IOUs
-* Show your name, profile icon & checkmark next to transactions and requests in Xumm and other XRPL ecosystem tools
-* Claim your **`xumm.me`** hosted PayString ID for multiple XRP ledger accounts
-* Publish your KYC status (not your personal details, just the fact that you successfully went through KYC) so 3rd party apps can unlock features based on your account trustworthiness
+Xumm Pro is a paid subscription service which provides additional features to the Xumm wallet.
 
-### **Push Notifications**
+Please be aware, Xumm Pro is still in the beta phase of development. That means that we are still developing more features for it and refining existing features.  (More on this later in the article.)
 
-* Receive notifications for incoming transactions
+### Current features&#x20;
 
-### **Fiat on-boarding**
+Here are the current features of Xumm Pro.&#x20;
 
-* Currently available for our users in the Netherlands and the United Kingdom, this feature allows you to buy XRP directly from Xumm Pro. (Currently we support EUR deposits only.)
+#### [**Profiles and Paystring**](features-of-pro/profiles/all-about-profiles.md)
 
-### **KYC**
+The Profiles feature allows you to create an identity page and a PayString so people can easily send you funds and locate your account on the XRPL.
 
-* This will allow you to go through the KYC process directly in Xumm
+#### [**Push Notifications**](../features-of-pro/push-notifications.md)
 
-### **24 hour Technical Support**
+Push notifications are small, pop-up messages that Xumm will display on your phone to alert you of various transactions on your XRP Ledger account. Push notifications cover real-time transactional messages, updates, support messages and more, all of which will help keep you up-to-date on your XRPL account.
 
-* 24 hour support with quicker response times and in multiple languages.
+#### [KYC verification](../../learning-more-about-xumm/kyc.md) (Opt-in)
+
+This feature allows you to go through the KYC process to help verify your identity and add trust to your XRP Ledger and Xahau accounts.
+
+#### **Premium Support**
+
+All of our Xumm Pro subscribers receive 24 hour, multi-language customer support.
+
+#### **Early access to new features**
+
+For those people who want to get involved with the latest and greatest advancements in the XRP Ledger, this feature gets you early access to things we are working on.
+
+**Free Xumm (Tangem) cards**&#x20;
+
+Each Xumm Pro subscription comes with a pair of free Xumm (Tangem) cards. These NFC cards take your XRP savings accounts to the next level in security. (Note: 1 pair of cards per customer.)
+
+###
+
+### Additional features
+
+#### [**Fiat on-boarding**](features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
+
+For our users in the **Netherlands** and the **United Kingdom**, this Xumm Pro feature allows you to buy XRP directly from Pro. There is an additional fee to enroll in this program and we currently support EUR deposits only, but our prices are very competitive and once enrolled, it is super easy and convenient.
+
+### Things we're working on for Xumm Pro
+
+#### Multi-sign xApp
+
+Multi-signing on the XRP Ledger is a method of authorizing transactions by using a combination of accounts. (Up to 32 different accounts to be exact.) This xApp will make the process of setting this up and managing your multi-sgn accounts a breeze.
+
+Check out this link for more information the Multi-Signing feature:
+
+{% embed url="https://xrpl.org/multi-signing.html" %}
+
+Encrypted Backups
+
+
+
+This xApp will be available exclusively to our Pro subscribers and allow them to&#x20;
+
+| Feature               | Description                                   |
+| --------------------- | --------------------------------------------- |
+| Escrows - Auto finish | Manage your escrows from beginning to end     |
+| Encrypted Backups     | Create a backup of you private keys           |
+| Multi-sign xApp       | Authorize transactions with multiple accounts |
 
 ### **How much does it cost to subscribe to Xumm Pro Beta?**
 
