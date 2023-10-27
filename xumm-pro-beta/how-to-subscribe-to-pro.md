@@ -16,7 +16,11 @@ For a more in depth look into Xumm Pro, why you should subscribe and the answers
 [what-is-xumm-pro.md](all-about-xumm-pro/what-is-xumm-pro.md)
 {% endcontent-ref %}
 
+### Understanding the process
 
+In case you're interested, we originally had two different purchase flows in Xumm. (One for Xumm Pro and one for the Xumm (Tangem) cards.) The thing is, Xumm Pro always comes with 2 Xumm cards and when you purchase Xumm cards, they always come with a Pro subscription.  Why have two separate flows when one will do?&#x20;
+
+So you'll notice the subscription process takes you through the Xumm card purchase flow. This is how it was designed to work.&#x20;
 
 ### **How to subscribe**
 
@@ -43,10 +47,20 @@ We recommend **paying with Xumm using XRP**. It is quick, easy and will save you
 
 Just fill out the form and your credit card information and tap the **Pay** button.
 
-
-
 {% hint style="info" %}
-Note: If you pay with XRP, you will receive an email containing a link to activate your Pro subscription immediately.
+Note: If you pay with XRP, you will receive instant access to Pro. No waiting. No hassle.
 
-If you pay with a credit card, you will receive your activation email when **the cards ship from our office**. This normally happens the next business day, but depending on the volume of orders, it might take two business days before the cards ship and you receive your activation email.
+If you pay with a credit card, you will receive your Pro activation email when **the cards ship from our office**. This normally happens the next business day, but depending on the volume of orders, it might take two business days before the cards ship and you receive your activation email.
 {% endhint %}
+
+### Subscribing to Xumm Pro (beta) from a desktop computer
+
+If you prefer, we also offer a quick way to purchase Pro directly from a desktop computer.
+
+Simply click on the following link and scan the displayed QR code with Xumm. &#x20;
+
+{% embed url="https://xrpl-labs.com/pro/" %}
+
+Xumm will automatically craft a transaction to automate the subscription process for you.
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
