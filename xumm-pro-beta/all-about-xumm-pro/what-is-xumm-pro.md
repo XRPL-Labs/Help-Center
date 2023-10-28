@@ -1,7 +1,5 @@
 ---
 description: What is Xumm Pro and why should you subscribe?
-cover: ../../.gitbook/assets/Apple - 1.png
-coverY: 145
 ---
 
 # 😎 What is Xumm Pro?
