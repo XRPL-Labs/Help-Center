@@ -1,5 +1,5 @@
 ---
-description: What is the XAH token on the XRPL?
+description: What is the Xahau (XAH) token on the XRPL?
 ---
 
 # Understanding the XAH token on the XRP Ledger
