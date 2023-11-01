@@ -8,5 +8,5 @@ If you are considering switching from your Ledger Device to our Xumm (Tangem) ca
 
 ### What are Xumm (Tangem) cards?
 
-
+\<Under construction>
 

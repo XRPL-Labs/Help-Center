@@ -77,7 +77,7 @@
 * [How to reset the 6 digit passcode](learning-more-about-xumm/how-to-reset-the-6-digit-passcode.md)
 * [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 * [Deleting an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
-* [Official communication channels](learning-more-about-xumm/official-communication-channels.md)
+* [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
 * [NFTs](learning-more-about-xumm/nfts/README.md)
   * [NFT Burn Process](learning-more-about-xumm/nfts/nft-burn-process.md)
 * [Does Xumm offer Staking?](learning-more-about-xumm/does-xumm-offer-staking.md)
@@ -208,3 +208,7 @@
 * [Terms of Service](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
 * [Responsible Disclosure Policy](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
 * [Switching from Ledger to Xumm](about-xumm-and-xrpl-labs/switching-from-ledger-to-xumm.md)
+
+## Xahau
+
+* [Understanding the XAH token on the XRP Ledger](xahau/understanding-the-xah-token-on-the-xrp-ledger.md)
