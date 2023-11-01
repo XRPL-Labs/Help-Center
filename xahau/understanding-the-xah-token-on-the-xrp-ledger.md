@@ -52,13 +52,13 @@ For more information on Gatehub's issued tokens, check out this article:
 
 **Anyone** can issue a token on the Ledger but not all token issuers are trust worthy.
 
-Reputable companies like Gatehub have a proven track record of supporting the XRP Ledger community, but not all issuers do.
+Reputable companies like Gatehub have a proven track record of supporting the XRP Ledger community, but not all token issuers do.
 
 There is no fool proof way of ensuring a token is legitimate. It all comes down to trusting the issuer.
 
-As a minimum, before you even owning a token, we recommend that you do the following:
+If you are considering owning a XAH token, as a minimum,  we recommend that you do the following:
 
-1. Visit their website.
+1. Visit the token issuer's website.
 2. Read their business plan. (Goals, execution, timeline, tokenomics, etc.)
 3. Review their marketing plan.
 4. Research their staff (CEO, developers, support. etc.)
