@@ -77,6 +77,7 @@
 * [How to reset the 6 digit passcode](learning-more-about-xumm/how-to-reset-the-6-digit-passcode.md)
 * [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 * [Deleting an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
+* [Official communication channels](learning-more-about-xumm/official-communication-channels.md)
 * [NFTs](learning-more-about-xumm/nfts/README.md)
   * [NFT Burn Process](learning-more-about-xumm/nfts/nft-burn-process.md)
 * [Does Xumm offer Staking?](learning-more-about-xumm/does-xumm-offer-staking.md)
@@ -102,7 +103,7 @@
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
 * [Xumm card vs Tangem card](xumm-tangem-cards/xumm-card-vs-tangem-card.md)
 * [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
-* [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
+* [How to link a Xumm (Tangem) card to an exits XRPL account](xumm-tangem-cards/how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md)
 
 ## ALL ABOUT XAPPS
 
