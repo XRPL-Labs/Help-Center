@@ -24,12 +24,13 @@ One of the things introduced in Xahau is a new gas token with the trading symbol
 
 No. The native token on the Xahau network is XAH. It **only exists** on the Xahau blockchain. If you are interested in acquiring XAU, you have several options:
 
-* Through a crypto exchange.  \
+* Through a crypto exchange  \
   \
-  Companies like Gatehub and Bitrue fully support the Xahau network and provide services to exchange fiat for XAH or exchange other crypto for XAU.
+  Companies like [Gatehub](https://gatehub.net/) and [Bitrue](https://www.bitrue.com/home/) fully support the Xahau network and provide services to exchange fiat for XAH or exchange other crypto for XAU.\
+
 * Through the burn to mint feature.\
   \
-  The Xahau network has a unique "Burn to Mint" (B2M) feature which allows you to convert XRP directly into XAU. Xumm will have an xApp to perform B2M in the near future.
+  The Xahau network has a unique "Burn to Mint" (B2M) feature which allows you to convert XRP directly into XAU. Xumm will be releasing a B2M xApp in the near future.
 
 #### Why are there XAH tokens on the XRP Ledger then?
 
