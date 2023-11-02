@@ -203,6 +203,7 @@
   * [📺 Team: Dominique & Dirk Jan](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm/team-dominique-and-dirk-jan.md)
   * [📺 Team: Patrick & Will](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm/team-patrick-and-will.md)
   * [📺 Team: Mai](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm/team-mai.md)
+  * [📺 Team: Denis & Robert](about-xumm-and-xrpl-labs/who-is-the-team-behind-xumm/team-denis-and-robert.md)
 * [Xumm vs. Ripple](about-xumm-and-xrpl-labs/is-xumm-owned-by-ripple.md)
 * [Privacy Statement](about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
 * [Terms of Service](about-xumm-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)

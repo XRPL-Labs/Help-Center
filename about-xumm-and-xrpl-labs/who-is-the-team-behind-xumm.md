@@ -47,3 +47,7 @@ If you are interested in getting to know us a bit better, check these out:
 {% content-ref url="who-is-the-team-behind-xumm/team-mai.md" %}
 [team-mai.md](who-is-the-team-behind-xumm/team-mai.md)
 {% endcontent-ref %}
+
+{% content-ref url="who-is-the-team-behind-xumm/team-denis-and-robert.md" %}
+[team-denis-and-robert.md](who-is-the-team-behind-xumm/team-denis-and-robert.md)
+{% endcontent-ref %}
