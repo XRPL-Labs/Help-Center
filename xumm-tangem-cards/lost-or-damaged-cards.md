@@ -42,4 +42,49 @@ If you don't have another XRPL account, you can follow the instructions in this 
 
 If the Backup card is lost, damaged or destroyed or there is a possibility that it has been stolen,  here is what to do.
 
-1\) Disable the Backup card by going to&#x20;
+1\) Disable the Backup card by going to [https://xrpl.services/](https://xrpl.services/)
+
+2\) Sign in using the Primary card account.
+
+3\) Choose Set regular key
+
+4\) Select Delete regular key
+
+5\) Press Confirm.
+
+6\) Scan the QR code with Xumm
+
+7\) Sign the transaction using the Primary card.
+
+This will disable the link between your Primary card and you Backup card.
+
+If your Backup card was stolen, the thief will not be able to access you Primary card account after following this procedure.
+
+### Frequently Asked Questions
+
+#### What if I lose my phone and my Primary card at the same time?
+
+1\) On your new phone, install Xumm
+
+2\) Import your Backup card into Xumm.
+
+{% content-ref url="../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+{% endcontent-ref %}
+
+3\) Import your Primary card account into Xumm in Read only mode.
+
+{% content-ref url="../getting-started-with-xumm/importing-your-account/...in-read-only-mode.md" %}
+[...in-read-only-mode.md](../getting-started-with-xumm/importing-your-account/...in-read-only-mode.md)
+{% endcontent-ref %}
+
+Note: You will need to manually enter the r-address of your Primary card account when importing in read only mode.
+
+4\) Move your funds from the Primary card account to another XRP Ledger account. (You will need the Backup card to sign transactions on the Primary card's account.)
+
+If you don't have another XRPL account, you can follow the instructions in this article to create one:
+
+{% content-ref url="../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md" %}
+[how-to-create-an-xrpl-account.md](../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
+{% endcontent-ref %}
+
