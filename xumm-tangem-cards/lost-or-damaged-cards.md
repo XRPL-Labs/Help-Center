@@ -26,7 +26,7 @@ If you have already followed the instructions in this article:
 [how-to-configure-a-backup-signing-account.md](how-to-configure-a-backup-signing-account.md)
 {% endcontent-ref %}
 
-you have already created a Primary card account and a Backup card account and link them together.
+you have already created a Primary card account and a Backup card account and linked them together.
 
 If the Primary card is lost, damaged or destroyed or there is a possibility that it has been stolen,  here is what to do.
 
