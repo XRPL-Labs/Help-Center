@@ -42,8 +42,8 @@ Most people will already have an existing XRP Ledger account and may not be sure
 
 For more information about this, please refer to this article:
 
-{% content-ref url="how-to-link-a-xumm-tangem-card-to-an-existing-xrpl-account.md" %}
-[how-to-link-a-xumm-tangem-card-to-an-existing-xrpl-account.md](how-to-link-a-xumm-tangem-card-to-an-existing-xrpl-account.md)
+{% content-ref url="how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md" %}
+[how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md](how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md)
 {% endcontent-ref %}
 
 ### Our recommendations...
@@ -78,11 +78,13 @@ The ideal way to configure the cards is to:
 
 With the Xumm cards, we utilize the "regular key" feature on the XRP Ledger to accomplish the "link" between cards. You create a new XRPL account on one card. (the "Primary" account) then you create another XRPL account on a second card. (The "Backup" account). Once you have done this, you link the two cards together using the regular key feature on the XRP Ledger. The "link" allows you to sign transactions on the Primary account with the Backup account.&#x20;
 
-If you were to lose the Backup card (or if it was damaged, stolen, destroyed, etc.) you would just disable to the card and use the Primary card to access the Primary account. You could easily configure or link the Backup card if you found it again, or you could just configure a new Backup card if you wanted to.
+The backup is not a duplicate or a clone of an account. The backup is an alternative way to access your XRPL account.
+
+For example, if you were to lose the Backup card (or if it was damaged, stolen, destroyed, etc.) you would just disable the Backup card and use the Primary card to access the Primary account. If you were to lose your Primary card (or if it was damaged, stolen, destroyed, etc.), you would simply move the assets off or your Primary account using the Backup card.
 
 #### I have three cards. What do I do with the third one?
 
-As mentioned above, we use the "regular key" feature of the XRP Ledger to "link' two card accounts together. (This effectively allows the "backup" card to sign transactions on the Primary card's account. ) The XRPL only allows for one regular key to be set per account, so this limits the number of backup cards that can be configured to one card.
+As mentioned above, we use the "regular key" feature of the XRP Ledger to "link' two card accounts together. (This effectively allows the "backup" card to sign transactions on the Primary card's account. ) The XRPL only allows for **one** regular key to be set per account, so this limits the number of backup cards that can be configured to one card.
 
 So what can a third card be used for?
 
@@ -96,31 +98,15 @@ For advanced users, the XRP Ledger has a feature called [**Multi-signing**](http
 
 So it all comes down to how you are going to participate in the XRPL ecosystem.
 
-From here, there are two main paths to follow:
+#### I have existing XRP Ledger accounts. What should I do with them now that I have the cards?
 
-#### Option 1
+It depends on how you plan to interact with the XRP Ledger community.
 
-Once your assets have been moved to your Primary card account, you can delete your existing account (and [recover the base reserve](../learning-more-about-xumm/deleting-an-xrpl-account.md)).  This leaves you with one XRP Ledger account and just use your Signing card when you want to interact with the XRP Ledger. This is the simplest and easiest way to manage your XRPL accounts.&#x20;
+Some people prefer to have multiple XRPL accounts for different functions. For example, you might want to have a dedicated account for airdrops, or for collecting NFTs, or for gambling or for gaming or you might want to use your Xumm cards for long term savings, but you might want a "daily spending" account for routine transactions.
 
-**Option 2**
+Other people prefer to have one account to manage all their XRP Ledger activity. Once you decide on your plans for the XRPL. you can decide what to do with your account(s).
 
-Once your assets have been moved to your Primary card account, you can continue to use your existing XRPL account in **conjunction** with your new Primary account. For example, you could transfer small amounts of XRP from your Primary card account to your existing account and use it for your daily interactions and leave your Signing card at home. This way, you never have to carry your Signing card, so there is no chance of it getting lost or stolen. As well, you will have access to some XRP in your existing account, but the majority of your XRP is safely stored in your Primary account. (In other words, your Primary card account is used for long term storage and your existing account would be used for day to day transactions.)
-
-#### Option 3
-
-There are several other ways to configure the cards as well, including: making a Xumm card a backup to an existing account, making an existing card a backup to an Xumm card account, managing multiple Xumm card accounts alongside multiple regular accounts or configuring multiple accounts using the multi-sign feature of the XRPL. Each of these options have their pros and cons, but for most people, the above two options will be the better solutions.
-
-
-
-A Xumm (Tangem) card is basically an "account on a card", and that the only way to access the card account is if you physically possess the card, so consider this possibility...
-
-What happens if your card is lost, stolen, damaged or destroyed?
-
-{% hint style="danger" %}
-If any of these situations happened, you would lose access to your account and your **funds would be lost**.  The only way to access your card account is if you have the card, unless you configure a backup.&#x20;
-{% endhint %}
-
-&#x20;This leads us to our recommendations...
+If you like, you can contact us via the Xumm Support xApp to discuss you plans.
 
 ### Summary
 

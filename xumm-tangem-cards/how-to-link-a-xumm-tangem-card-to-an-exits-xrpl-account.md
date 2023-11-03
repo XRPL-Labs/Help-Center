@@ -2,7 +2,7 @@
 description: Re-keying a card account to another XRPL account
 ---
 
-# How to link a Xumm (Tangem) card to an exits XRPL account
+# How to link a Xumm (Tangem) card to an existing XRPL account
 
 ### Background
 
