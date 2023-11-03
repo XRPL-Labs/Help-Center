@@ -56,9 +56,9 @@ If the Backup card is lost, damaged or destroyed or there is a possibility that 
 
 7\) Sign the transaction using the Primary card.
 
-This will disable the link between your Primary card and you Backup card.
+This will disable the link between your Primary card and your Backup card.
 
-If your Backup card was stolen, the thief will not be able to access you Primary card account after following this procedure.
+If your Backup card was stolen, the thief will not be able to access your Primary card account after following this procedure.
 
 ### Frequently Asked Questions
 
