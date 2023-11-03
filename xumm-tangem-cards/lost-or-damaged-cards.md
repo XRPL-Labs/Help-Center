@@ -46,11 +46,11 @@ If the Backup card is lost, damaged or destroyed or there is a possibility that 
 
 2\) Sign in using the Primary card account.
 
-3\) Choose Set regular key
+3\) Choose **Set regular key**
 
-4\) Select Delete regular key
+4\) Select **Delete regular key**
 
-5\) Press Confirm.
+5\) Press **Confirm**.
 
 6\) Scan the QR code with Xumm
 
