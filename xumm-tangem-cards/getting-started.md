@@ -42,8 +42,8 @@ Most people will already have an existing XRP Ledger account and may not be sure
 
 For more information about this, please refer to this article:
 
-{% content-ref url="how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md" %}
-[how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md](how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md)
+{% content-ref url="how-to-link-a-xumm-tangem-card-to-an-existing-xrpl-account.md" %}
+[how-to-link-a-xumm-tangem-card-to-an-existing-xrpl-account.md](how-to-link-a-xumm-tangem-card-to-an-existing-xrpl-account.md)
 {% endcontent-ref %}
 
 ### Our recommendations...
@@ -68,6 +68,18 @@ We have compiled a set of suggestions on how to use your Xumm (Tangem) cards. A 
 
 ### Additional Questions
 
+#### Tell me more about the "backup " process
+
+The ideal way to configure the cards is to:
+
+* Import two Xumm cards into Xumm
+* Create a Primary and Signing account, then link them together using the Tangem Backup xApp.
+* Move the majority of your assets to the Primary account, then put the card into a safe, secure storage location.
+
+With the Xumm cards, we utilize the "regular key" feature on the XRP Ledger to accomplish the "link" between cards. You create a new XRPL account on one card. (the "Primary" account) then you create another XRPL account on a second card. (The "Backup" account). Once you have done this, you link the two cards together using the regular key feature on the XRP Ledger. The "link" allows you to sign transactions on the Primary account with the Backup account.&#x20;
+
+If you were to lose the Backup card (or if it was damaged, stolen, destroyed, etc.) you would just disable to the card and use the Primary card to access the Primary account. You could easily configure or link the Backup card if you found it again, or you could just configure a new Backup card if you wanted to.
+
 #### I have three cards. What do I do with the third one?
 
 As mentioned above, we use the "regular key" feature of the XRP Ledger to "link' two card accounts together. (This effectively allows the "backup" card to sign transactions on the Primary card's account. ) The XRPL only allows for one regular key to be set per account, so this limits the number of backup cards that can be configured to one card.
@@ -83,18 +95,6 @@ Other people give it away to a friend or family member to introduce the XRP Ledg
 For advanced users, the XRP Ledger has a feature called [**Multi-signing**](https://xrpl.org/multi-signing.html) which allows multiple XRPL accounts to be linked together for signing purposes. The third card can be used in a multi-sign configuration if desired.
 
 So it all comes down to how you are going to participate in the XRPL ecosystem.
-
-#### Tell me more about the "backup " process
-
-The ideal way to configure the cards is to:
-
-* Import two Xumm cards into Xumm
-* Create a Primary and Signing account then link them together using the Tangem Backup xApp.
-* Move the majority of your assets to the Primary account, then put the card into a safe, secure storage location.
-
-The XRP Ledger has the ability to link an XRPL account to another XRPL account.
-
-
 
 From here, there are two main paths to follow:
 
