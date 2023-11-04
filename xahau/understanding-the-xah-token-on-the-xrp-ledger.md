@@ -24,9 +24,9 @@ One of the things introduced in Xahau is a new gas token with the trading symbol
 
 Yes and No.
 
-Yes. You can purchase XAU tokens but they are not the native XAU on the Xahau network. Buy purchasing XAU on the XRPL, you are purchasing a token that represents XAU. , not the native asset. It is the right to the native asset on Xahau, but in order to use it or "cash out", you'll have to go through the issuer.
+Yes. You can purchase XAU tokens but they are not the native XAU coins on the Xahau network. By purchasing XAU on the XRPL, you are purchasing a token that represents XAU. As long as you purchase the XAU token from a trusted issuer, (ie. Gatehub) they will exchange your tokens for "real" XAU on the Xahau network or convert it into fiat. Owning XAU on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset.
 
-No. The native token on the Xahau network is XAH. It **only exists** on the Xahau blockchain. If you are interested in acquiring XAU, you have several options:
+No. You can not purchase the **native** XAU coin on the XRP Ledger. The XAU coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use the features of Xahau, are interested in acquiring XAU, you have several options:
 
 * Through a crypto exchange  \
   \
