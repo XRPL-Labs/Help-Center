@@ -24,15 +24,15 @@ One of the things introduced in Xahau is a new gas token with the trading symbol
 
 Yes and No.
 
-Yes. You can purchase XAU tokens but they are not the native XAU coins on the Xahau network. By purchasing XAU on the XRPL, you are purchasing a token that represents XAU. As long as you purchase the XAU token from a trusted issuer, (ie. Gatehub) they will exchange your tokens for "real" XAU on the Xahau network or convert it into fiat. Owning XAU on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset.
+Yes. You can purchase XAU tokens but they are not the native XAU coins on the Xahau network. By purchasing XAU on the XRPL, you are purchasing a token that represents XAU. As long as you purchase the XAU token from a trusted issuer, (ie. Gatehub) they will exchange your tokens for "real" XAU coins on the Xahau network. (Or convert it into fiat.) Owning XAU on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset.
 
-No. You can not purchase the **native** XAU coin on the XRP Ledger. The XAU coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use the features of Xahau, participate in the Xahau ecosystem you will need to acquire the XAU coin via a crypto exchange or via the Burn to Mint feature.
+No. You can not purchase the **native** XAU coin on the XRP Ledger. The XAU coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAU coins via a crypto exchange or via the Burn to Mint (B2M) feature.
 
 * Through a crypto exchange  \
   \
-  Companies like [Gatehub](https://gatehub.net/) and [Bitrue](https://www.bitrue.com/home/) fully support the Xahau network and provide services to exchange fiat for XAH or exchange other crypto for XAU.\
+  Companies like [Gatehub](https://gatehub.net/) and [Bitrue](https://www.bitrue.com/home/) will fully support the Xahau network and will provide services for buying, selling, exchanging, trading, sending, receiving, etc.\
 
-* Through the burn to mint feature.\
+* Through the Burn to Mint feature.\
   \
   The Xahau network has a unique "Burn to Mint" (B2M) feature which allows you to convert XRP directly into XAU. Xumm will be releasing a B2M xApp in the near future.
 
