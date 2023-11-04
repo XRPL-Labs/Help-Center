@@ -76,6 +76,14 @@ Another xApp exclusively for our Xumm Pro subscribers, this one will allow users
 
 A subscription to Xumm Pro Beta costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit card**.**
 
+#### How do I subscribe?
+
+This article explains:
+
+{% content-ref url="../how-to-subscribe-to-pro.md" %}
+[how-to-subscribe-to-pro.md](../how-to-subscribe-to-pro.md)
+{% endcontent-ref %}
+
 #### How long does a subscription last?
 
 Normally it would last for **1 year** but we are so excited about the beta release, we are offering **1 1/2 years** of Xumm Pro access for the price of a 1 year subscription! On top of that, the 1 1/2 year subscription does not begin until the beta period ends.&#x20;
