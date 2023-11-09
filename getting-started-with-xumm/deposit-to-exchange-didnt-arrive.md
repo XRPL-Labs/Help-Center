@@ -4,6 +4,12 @@ description: You sent XRP to your exchange account and it did not arrive
 
 # Deposit to Exchange Didn’t Arrive
 
+{% hint style="info" %}
+TL;DR\
+\
+Contact your crypto exchange. They will be able to resolve this for you.
+{% endhint %}
+
 ### **General information**
 
 In order to send XRP into an exchange account, you need to know **two** pieces of information:
@@ -13,7 +19,7 @@ In order to send XRP into an exchange account, you need to know **two** pieces o
 
 Both of these are provided by **your crypto exchange**.
 
-If you are unsure what a destination tag is, this video should help:
+For more information about destination tags, check out this video:
 
 {% content-ref url="../learning-more-about-xumm/destination-tags.md" %}
 [destination-tags.md](../learning-more-about-xumm/destination-tags.md)
@@ -24,7 +30,7 @@ If you are unsure what a destination tag is, this video should help:
 The main reasons why funds do not arrive are:
 
 * There was **no destination tag** entered in the transaction
-* There was **incorrect destination tag** entered in the transaction
+* There was an **incorrect destination tag** entered in the transaction
 
 You can check this in Xumm under the **Events** section.
 
@@ -34,40 +40,30 @@ When you review the transaction, make sure the destination tag was entered **cor
 
 <figure><img src="../.gitbook/assets/Transaction - 1.png" alt=""><figcaption></figcaption></figure>
 
-Again, this is the **number 1 reason** funds are not delivered. People either don’t enter a destination tag or enter a destination tag incorrectly.
-
-If the destination r-address and tag are both correct and the funds still have not arrived in your exchange account, it is most likely:
+If both the destination r-address and destination tag are both correct and the funds still have not arrived in your exchange account, it is most likely related to one of the following situations:
 
 * your exchange has not processed that transaction on their side
 * possible technical issues or a processing backlog at the exchange
-* the exchange are holding your funds for KYC/AML reasons.
+* the exchange are withholding your funds.
 
 ### **What you can do to retrieve your funds**
 
-Once Xumm submits a transaction to the XRP Ledger (XRPL) for processing, there is nothing that can be done to change or reverse it. This article explains how this works:
+They only way to recover your funds is to contact your crypto exchange.
 
-* [**Can Xumm reverse, freeze or undo a transaction?**](can-xumm-reverse-freeze-or-undo-a-transaction.md)
+They will have process for you to follow and should provide you with the step by step instructions.
 
-All crypto exchanges have a process that needs to be followed in order to investigate a transaction.
+### Frequently asked questions
 
-Start by **contacting your exchange** and explain what happened. They should provide you with the step by step instructions on how begin the process and what information they require. They will also inform you of any fees that they might charge in order to recover your funds.
+#### I contacted my exchange and they want me to send them a screenshot of the transaction
 
-(Note: Any fees an exchange charges has nothing to do with Xumm or the the XRP Ledger. Each exchange determines their own service fees.)
+Some exchanges require proof of a transaction which includes a screenshot showing:
 
-To confirm, you should **contact your exchange** and they will work with you to determine what happened to your funds.
+* &#x20;the destination address
+* &#x20;the destination amount
+* &#x20;the date&#x20;
+* the transaction ID/Hash
 
-### I contacted my exchange and they want me to send them a screenshot of the transaction
-
-Some exchanges demand that you provide proof that the transaction happened.
-
-This demand often includes a screenshot showing:
-
-* &#x20;Destination address
-* &#x20;Destination amount
-* &#x20;Date&#x20;
-* Blockchain transaction ID/Hash
-
-If you are required to provide such information here is how to get it in Xumm.
+If you are required to provide this information, here is how to get it in Xumm.
 
 1\) Launch Xumm, press **Settings** -> **Security** -> **Block taking screenshots**
 
@@ -81,7 +77,13 @@ If you are required to provide such information here is how to get it in Xumm.
 
 <figure><img src="../.gitbook/assets/Transaction - 2.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;You can clearly see the date, destination address, Transaction ID, and destination tag in the above image. &#x20;
+You can clearly see the date, destination address, Transaction ID, and destination tag in the above image. &#x20;
 
 4\) At this point you can take a screenshot of the transaction as it will contain all of the information your exchange requires.
+
+#### Can't Xumm just reverse the transaction for me?
+
+Once Xumm submits a transaction to the XRP Ledger for processing, there is nothing that can be done to change or reverse it. For more information about this, check out this article:
+
+* [**Can Xumm reverse, freeze or undo a transaction?**](can-xumm-reverse-freeze-or-undo-a-transaction.md)
 
