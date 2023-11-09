@@ -3,3 +3,4 @@
 * [こんにちは](README.md)
 * [Xamanについて](xamannitsuite.md)
 * [自己管理型（セルフカストディ）とは](serufukasutotetoha.md)
+* [アカウントを有効化する](akauntowosuru.md)
