@@ -93,3 +93,16 @@ During normal business hours, transfers can take between 1 and 4 hours to comple
 For example, delays can occur due to technical issues with the bank's systems or the recipient's bank, such as maintenance or system upgrades. International transfers, in particular, can be delayed due to the involvement of multiple banks, currency conversions, compliance with regulatory requirements or fraud prevention measures. (Which are designed to protect the security of the transfer and the accounts involved.) Moreover, if the transfer is flagged as suspicious, it may be subject to additional scrutiny, which can result in further delays. Errors in the transfer instructions or incomplete information can also cause delays.&#x20;
 
 If you feel that your deposit is taking longer than normal, you are welcome to create a ticket via the [Xumm Support xApp ](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)and we will look into it.&#x20;
+
+### What about off-ramping my funds? How do I cash out?
+
+While we are currently regulated to offer on-ramp services for users who live in the UK or the Netherlands, we are working to introduce an off-ramp service for our Pro subscribers as well.
+
+Whether we partner with a existing exchange, tap into the liquidity of the XRPL DEX or find a traditional banking partner who will support the XRP Ledger,  we hope to have a solution in place sometime in Q1 2024.
+
+In the meantime, there are several ways you can "cash out" your XRP. Check out this article for more information:
+
+{% content-ref url="../../../../learning-more-about-xumm/cashing-out-your-xrp.md" %}
+[cashing-out-your-xrp.md](../../../../learning-more-about-xumm/cashing-out-your-xrp.md)
+{% endcontent-ref %}
+

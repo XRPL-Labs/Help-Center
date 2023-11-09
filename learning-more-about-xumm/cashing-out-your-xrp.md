@@ -29,16 +29,17 @@ There are several exchanges in the blockchain space where you can convert XRP in
 
 ### **Frequently asked questions**
 
-#### **What about the Xumm On/Off-Ramp service?**&#x20;
+#### **What about a Xumm Off-Ramp service?**&#x20;
 
-We are still searching for a banking partner:
+While we are currently regulated to offer on-ramp services for users who live in the UK or the Netherlands,
 
-* with reasonable rates
-* has reliable service
-* supports the XRP Ledger
-* supports multiple countries
+{% content-ref url="../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md" %}
+[all-about-on-off-ramps.md](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
+{% endcontent-ref %}
 
-Hopefully by Q1 2024.
+we are working to introduce an off-ramp service for our Pro subscribers as well.
+
+Whether we partner with a existing exchange, tap into the liquidity of the XRPL DEX or find a traditional banking partner who will support the XRP Ledger,  we hope to have a solution in place sometime in Q1 2024.
 
 #### **What about other XRP Ledger tokens? How to I cash them out?**
 
