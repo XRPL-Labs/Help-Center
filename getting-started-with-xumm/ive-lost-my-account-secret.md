@@ -85,6 +85,18 @@ If your account was created during the CasinoCoin swap, there is a special set o
 
 ## Frequently asked questions
 
+### I went through the KYC process. Doesn't that make a difference?
+
+The KYC process has nothing to do with the private keys to your XRP Ledger account. When you go through the KYC process it does not "link" your personal information to your private keys and does not grant you access to your XRPL account. The only way to access an XRP Ledger account is if you know the private keys (account secret) for it.
+
+For example, if you were to open an account with a crypto exchange, you would go through the KYC process and they would create a record in their internal database containing all of your personal information. They would then create an account on their internal systems and assign you a password to access it. If you ever lost your password for your account with them, they would go into their company database and simply change it for you. They control your account. They control your personal information. They take custody of your funds and have complete control over them.
+
+Accounts on the XRP Ledger do not work that way.
+
+When you create an XRPL account, you do not have to go through KYC. You do not have to provide personal information about yourself to create an account. You simply generate a set of private keys and activate your account and you are good to go. No internal databases. No records of your personal information. No centralized authority.&#x20;
+
+If you do decide to go through the KYC process, there is no database on the XRPL where your information is stored and the process does not involve the private keys of your account.&#x20;
+
 ### I already have my account secret but it accesses another account!
 
 If you are importing your account secret into Xumm and you are getting a **different r-address**, you actually imported another XRPL account that has not been activated, and does not contain your balance and tokens.&#x20;
