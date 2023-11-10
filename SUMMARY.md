@@ -7,3 +7,4 @@
 * [Xamanアカウントに送金する手順](xamanakauntonisuru.md)
 * [Xamanから送金する方法](xamankarasuru.md)
 * [取り扱い通貨について](riinitsuite.md)
+* [トラストライン設定方法](torasutorain.md)
