@@ -29,18 +29,6 @@ There are several exchanges in the blockchain space where you can convert XRP in
 
 ### **Frequently asked questions**
 
-#### **What about a Xumm Off-Ramp service?**&#x20;
-
-While we are currently regulated to offer on-ramp services for users who live in the UK or the Netherlands,
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-we are working to introduce an off-ramp service for our Pro subscribers as well.
-
-Whether we partner with a existing exchange, tap into the liquidity of the XRPL DEX or find a traditional banking partner who will support the XRP Ledger,  we hope to have a solution in place sometime in Q1 2024.
-
 #### **What about other XRP Ledger tokens? How to I cash them out?**
 
 Some crypto exchanges support multiple XRP Ledger tokens along with XRP. (Gatehub is a good example of one.) This should be one of the things that you research before you create an account with an exchange. If you find that your current exchange does not support your desired XRP Ledger token, contact them directly and see if they have any plans to do so in the future.
