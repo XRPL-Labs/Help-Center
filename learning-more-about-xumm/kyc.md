@@ -33,15 +33,11 @@ For a current list of supported documents, please refer to this link:
 
 #### **What about Xumm Pro (Beta)?**&#x20;
 
-When you subscribe to Xumm Pro (Beta), you will have the option to go through the KYC process, however, only those who go through KYC will be able to access to the Pro Bea features like a Profiles, PayString, uploading your avatar and showing your real name when sending payment requests. It will also be required if you want to use our On/Off-ramp service for fiat.&#x20;
+When you subscribe to Xumm Pro (Beta), you will have the option to go through the KYC process, however, only those who go through KYC will be able to access to the Pro Bea features like a Profiles, PayString, uploading your avatar and showing your real name when sending payment requests.&#x20;
 
 Because we only want to support trustworthy profiles & to prevent imposters, your avatar & display name will be compared to your KYC government ID information. This way, everybody in the ecosystem will be able to trust other users and their profiles, names, avatars, if they have a Pro Beta subscription.
 
 * [**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)
-
-#### **Do I need to go through KYC to use your On/Off-Ramp service?**&#x20;
-
-If you would like to use our On-Ramp feature, **you will need to go through the KYC process in Onramp/Offramp xApp in Xumm Pro**. (This is a requirement of the Dutch government under which we are regulated.) This means that even if you may have already went through the KYC process in Xumm Pro,  you will need to go through it again via the **Onramp/Offramp xApp.**
 
 #### **Will Xumm disclose my identity if I go through the KYC process?**
 
