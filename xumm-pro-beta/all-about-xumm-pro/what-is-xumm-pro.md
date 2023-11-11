@@ -42,14 +42,6 @@ For those people who want to get involved with the latest and greatest advanceme
 
 Each Xumm Pro subscription comes with a pair of free Xumm (Tangem) cards. These NFC cards take your XRP savings accounts to the next level in security. (Note: 1 pair of cards per customer.)
 
-###
-
-### Additional features
-
-#### [**Fiat on-boarding**](features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
-
-For our users in the **Netherlands** and the **United Kingdom**, this Xumm Pro feature allows you to buy XRP directly from Pro. There is an additional fee to enroll in this program and we currently support EUR deposits only, but our prices are very competitive and once enrolled, it is super easy and convenient.
-
 ### Things we're working on for Xumm Pro
 
 #### Multi-sign xApp
@@ -78,7 +70,7 @@ A subscription to Xumm Pro Beta costs **$60 USD** (paid in XRP) or about **$70 U
 
 #### How do I subscribe?
 
-This article explains:
+Check out this article for you options:
 
 {% content-ref url="../how-to-subscribe-to-pro.md" %}
 [how-to-subscribe-to-pro.md](../how-to-subscribe-to-pro.md)
