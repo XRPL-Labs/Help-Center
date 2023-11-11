@@ -14,12 +14,6 @@ If you have subscribed to **Xumm Pro**, you have the option to enter an email ad
 
 <figure><img src="../.gitbook/assets/Email 2.png" alt=""><figcaption><p>Early Access</p></figcaption></figure>
 
-### **Xumm Pro - Onramp / Offramp**&#x20;
-
-If you have an account via our On/Off-Ramp service, you would have entered an email address as part of the on boarding process. As a regulated company, we need to store all information (including email addresses) for compliance reasons, but we can add an additional email address to your file of you like.
-
-Simply open a ticket using the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your On/Off-Ramp account updated. (Don't forget to include your new email address in the message.)&#x20;
-
 ### Xumm Tangem orders
 
 When you place an order for Xumm Tangem cards, you are asked for your email address during the order process. (We use it to send your "Track-and-Trace" information from our shipping company.) Since we usually ship our orders on the same day, there is a very small window where we could actually change your email information. If you contact us in time, we can change it for your order. 🤞
