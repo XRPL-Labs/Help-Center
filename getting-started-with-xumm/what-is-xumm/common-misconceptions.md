@@ -16,7 +16,7 @@ A custodial wallet is basically a customer account in a crypto exchange's compan
 
 ### You can't buy XRP using Xumm - You certainly can.
 
-This is false. Xumm offers several ways to purchase XRP. Simply select [**this link**](https://xumm.app/detect/xapp:xumm.onofframp) and you can explore the many options we offer.
+This is false. Xumm offers several ways to purchase XRP. Simply select [**this link**](https://xumm.app/detect/xapp:xumm.buysellxrp) and you can explore the many options we offer.
 
 ### Xumm is not as safe as a cold wallet
 
