@@ -149,8 +149,6 @@
     * [Free Tangem Card](xumm-pro-beta/features-of-pro/free-tangem-card.md)
     * [Premium Support](xumm-pro-beta/features-of-pro/premium-support.md)
     * [Vanity addresses](xumm-pro-beta/features-of-pro/vanity-addresses.md)
-    * [On-Ramp](xumm-pro-beta/features-of-pro/on-off-ramp/README.md)
-      * [All about Xumm On-Ramps](xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
 
 ## Security and Xumm
 

@@ -27,7 +27,7 @@ When opening Xumm from the background, the Event List wil now automatically refr
 
 **Overall, these updates make Xumm more user-friendly and secure.**
 
-***
+
 
 **For Developers**
 

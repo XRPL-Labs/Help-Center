@@ -33,8 +33,8 @@ There are several exchanges in the blockchain space where you can convert XRP in
 
 While we are currently regulated to offer on-ramp services for users who live in the UK or the Netherlands,
 
-{% content-ref url="../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md" %}
-[all-about-on-off-ramps.md](../xumm-pro-beta/all-about-xumm-pro/features-of-pro/on-off-ramp/all-about-on-off-ramps.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 we are working to introduce an off-ramp service for our Pro subscribers as well.
