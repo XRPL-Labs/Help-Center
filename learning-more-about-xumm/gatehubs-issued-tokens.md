@@ -6,7 +6,7 @@ description: Gatehub has issued several tokens. How do they work?
 
 ### **What is Gatehub?**
 
-GateHub is a payment gateway platform that allows you to trade and store digital currency.&#x20;
+GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency.&#x20;
 
 For more information, you can visit their site here:
 
@@ -14,7 +14,7 @@ For more information, you can visit their site here:
 
 ### **What tokens has Gatehub issued?**
 
-Gatehub has currently issued 16 different tokens on the XRPL, including USDT, USDC, GALA, WXRP, Flare and SGB.
+Gatehub has currently issued 16 different tokens on the XRPL, including USDT, USDC, GALA, WXRP, Flare and SGB, along with stablecoins such as EUR, USD, GBP and others.
 
 ### **Why would I want any of these tokens?**&#x20;
 
@@ -27,6 +27,28 @@ In the case of USDC and USDT, these two tokens now allow you to trade stable coi
 All of these tokens can be traded on the DEX so you can take advantage of the XRPL’s speed and super cheap fees. Imagine being able to make trades on the Ethereum network that can complete in under 5 seconds at the cost of under 1 penny. With these issued tokens, you can do this on the XRPL, even though the native asset is on a different blockchain.
 
 You get all the advantages of the XRP Ledger with these tokens. Speed, reliability, the DEX, the low fees and of course, you can manage them all with Xumm!
+
+### **What is a stablecoin?**
+
+Stablecoins are cryptocurrencies whose value is tied to that of another currency, commodity, or financial instrument.
+
+Let's look at the EUR stablecoin.
+
+The EUR token that Gatehub issued is “pegged” to the Euro fiat currency. This means that 1 EUR stablecoin will always hold a value near 1 EUR. The value is kept stable by the trust that Gatehub holds sufficient assets and is acting in a transparent way.&#x20;
+
+You can read more about how this works here:
+
+{% embed url="https://gatehub.net/blog/stablecoins/" %}
+
+### **How do I "cash out" a stablecoin?**
+
+The first thing you will need to do is create an account with Gatehub.
+
+{% embed url="https://signin.gatehub.net/signup" %}
+
+Once you have a Gatehub account, you can transfer your (Gatehub issued) stablecoins to your Gatehub account and convert them into fiat.
+
+&#x20;
 
 ### **What about the SGB token?**
 
