@@ -8,9 +8,26 @@ description: How to install Xumm on your mobile device
 
 If you are reading this, you’ve decided to install Xumm on your mobile device. Congratulations! You are about to start your journey into the XRP Ledger ecosystem and Xumm will be your guide. Welcome aboard!
 
+### Xumm compatibility (Device requirements)
+
+Generally, Xumm is compatible with most devices that run either:
+
+⦁ Android v7 and up
+
+&#x20;⦁ iOS v13 or higher and an iPhone 7 or newer
+
+(There are literally 1000's of different devices running dozen of different versions of Android (v7 - v11) and iOS (v13 - v17) so it is not possible for us to list them all here. Needless to say, as long as you are running a current version of the above operating systems, Xumm should work properly.)
+
+As well, officially Xumm does not support tablets such as Apple iPads. While you may be able to install and run Xumm on some versions, our UI has not been upscaled to match the various screen sizes and most tablets do not support NFC.&#x20;
+
+Finally, we have encountered issues with the following devices:
+
+* On the Samsung A50, A51, Samsung A71 and Motorola One Action phones, there are known issues on Android 10. After updating to Android 11 the Samsung A51 and A71 will work just fine.
+* There are known NFC issues with Android devices by Nokia, like the Nokia 8.1. If you intended to use Xumm (Tangem) card on these phone, the cards will not work.
+
 ### **Getting started…**
 
-Installing Xumm is a simple and straightforward process. From start to finish it should take you about 10 minutes to complete.. but don’t rush through it! You are going to need to write down some **very** important information so take your time, grab a pen and some paper and get comfortable. Together we going to go through this...
+Installing Xumm is a simple and straightforward process. From start to finish it should take you about 10 minutes to complete.. but don’t rush through it! You are going to need to write down some **very** important information, so take your time, grab a pen and some paper and get comfortable. Together we going to go through this...
 
 Xumm can only be download from 1 of 2 places:
 
@@ -19,16 +36,6 @@ Xumm can only be download from 1 of 2 places:
 Just select one of the above links and press the **Install** button begin the download.
 
 <figure><img src="../.gitbook/assets/Google play - Xumm.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Xumm is only compatible with:
-
-⦁ Android 7 and up
-
-&#x20;⦁ iOS v13 and up
-
-If you have an older device that does not support one of these versions, you will **not** be able to download and install Xumm
-{% endhint %}
 
 
 
