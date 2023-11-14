@@ -11,3 +11,4 @@
 * [トラストライン設定方法](torasutorain.md)
 * [秘密鍵を表示またはエクスポートさせることはできますか？](womatahaekusuptosaserukotohadekimasuka.md)
 * [秘密鍵をなくしてしまったら](wonakushiteshimattara.md)
+* [送金を取り消しできますか？](worishidekimasuka.md)
