@@ -170,7 +170,7 @@
   * [About Reserves](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
   * [Payment Channels](xrp-ledger-resources/xrp-ledger-concepts/payment-channels.md)
   * [Multi Signature](xrp-ledger-resources/xrp-ledger-concepts/multi-signature.md)
-  * [age](xrp-ledger-resources/xrp-ledger-concepts/age.md)
+  * [Understanding fiat currencies](xrp-ledger-resources/xrp-ledger-concepts/understanding-fiat-currencies.md)
 
 ## Release notes
 
