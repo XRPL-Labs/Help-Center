@@ -4,6 +4,20 @@ description: Converting your tokens into fiat
 
 # Cashing out with Gatehub
 
+### Expanding our partnership with Gatehub
+
+For years, Gatehub has been a strong member of the XRP Ledger community and has worked with us to help expand the ecosystem and make it a great place to do business. Recently we have added a feature to make off-ramping crypto a truly quick and easy process by integrating their platform directly through Xumm. This integration makes both on and off-ramping simple and efficient via the Gatehub site.
+
+### Gatehub's issued stable coins
+
+GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency. They have also issued over a dozen different tokens on the XRPL, including USDT, USDC, GALA, Flare, SGB, EUR, USD, GBP and several others. All of their issued currencies will be honored by them as the actual asset they represent.&#x20;
+
+For example, if you own 10 EUR tokens issued by Gatehub and you would like to convert them into fiat&#x20;
+
+
+
+
+
 ### Stream lining the "cash out" process
 
 You many have noticed a new integration we added to Xumm recently.
