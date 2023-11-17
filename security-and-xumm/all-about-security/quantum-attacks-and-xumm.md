@@ -38,8 +38,12 @@ Keep in mind, any new algorithm that is added to the XRPL will need to be suppor
 
 There are currently two options to options to help protect against quantum attacks until quantum resistant algorithms are implemented on the XRPL:
 
-1. Create a new XRPL account and move your assets to your new account then leave it alone. A CRQC will need an outgoing public transaction to analyze the public key of you account. Once you perform any transaction on your new account, it will be vulnerable to a quantum attack.
-2. Create a new XRPL account and re-key your existing account to point to your new account then disable your master key on your existing account and leave it alone, Once you perform any transaction on your new re-keyed account, it will be vulnerable to a quantum attack.
+1. Create a new XRPL account and move your assets to your new account then leave it alone. A CRQC will need an **outgoing** public transaction to analyze the public key of you account. Once you perform any outgoing transaction on your new account, it will be vulnerable to a quantum attack.
+2. Create a new XRPL account and re-key your existing account to point to your new account then disable your master key on your existing account and leave it alone. Once you perform any outgoing transaction on your new re-keyed account, it will be vulnerable to a quantum attack.
+
+{% hint style="warning" %}
+Spam is a real issue on the XRPL. In-coming transactions such as spam will **not** effect your quantum protection. Only outgoing transactions will.
+{% endhint %}
 
 ### What is Xumm doing to prepare against quantum attacks?
 
