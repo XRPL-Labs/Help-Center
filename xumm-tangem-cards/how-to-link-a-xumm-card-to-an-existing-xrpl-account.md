@@ -2,13 +2,29 @@
 description: Re-keying a card account to another XRPL account
 ---
 
-# How to link a Xumm (Tangem) card to an existing XRPL account
+# How to link a Xumm card to an existing XRPL account
 
 ### Introduction
 
-A Xumm (Tangem) cards is an NFC hardware wallet that was custom configured to our specifications specifically for networks running the XRP Ledger Protocol.
+In an ideal situation, the cards will be configured in the following way:
 
-A Xumm card generates an account secret (private keys) for an XRP Ledger account and stores in the card. By doing this, it
+1\) Import two Xumm cards into Xumm.
+
+2\) Activate one of the cards and leave the other one un-activated.
+
+3\) Run the Tangem Backup xApp and link the two cards together.
+
+See this article for complete instructions:
+
+{% content-ref url="getting-started.md" %}
+[getting-started.md](getting-started.md)
+{% endcontent-ref %}
+
+The
+
+Most people will already have an existing XRP Ledger account and may not be sure how to integrate their existing accounts with their new Xumm cards. While this is possible to integrate the cards with existing accounts, it is not advised. Integrating hardware wallet accounts and software wallet accounts is not ideal.
+
+For more information about this, please refer to this article:
 
 
 

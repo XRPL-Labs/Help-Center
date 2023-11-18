@@ -42,8 +42,8 @@ Most people will already have an existing XRP Ledger account and may not be sure
 
 For more information about this, please refer to this article:
 
-{% content-ref url="how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md" %}
-[how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md](how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md)
+{% content-ref url="how-to-link-a-xumm-card-to-an-existing-xrpl-account.md" %}
+[how-to-link-a-xumm-card-to-an-existing-xrpl-account.md](how-to-link-a-xumm-card-to-an-existing-xrpl-account.md)
 {% endcontent-ref %}
 
 ### Our recommendations...

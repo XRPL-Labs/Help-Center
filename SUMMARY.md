@@ -104,7 +104,7 @@
 * [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md)
 * [Xumm card vs Tangem card](xumm-tangem-cards/xumm-card-vs-tangem-card.md)
 * [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
-* [How to link a Xumm (Tangem) card to an existing XRPL account](xumm-tangem-cards/how-to-link-a-xumm-tangem-card-to-an-exits-xrpl-account.md)
+* [How to link a Xumm card to an existing XRPL account](xumm-tangem-cards/how-to-link-a-xumm-card-to-an-existing-xrpl-account.md)
 
 ## ALL ABOUT XAPPS
 
