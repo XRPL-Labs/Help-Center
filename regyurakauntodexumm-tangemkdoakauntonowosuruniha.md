@@ -4,6 +4,24 @@ description: Xummカードアカウントにレギュラーキーを設定する
 
 # レギュラーアカウントでXumm Tangemカードアカウントの署名をするには
 
+#### Step 3: Copy the r-address for your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+Switch accounts to your existing XRPL account and press the **Request** button then press the **Copy** button:
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+then switch accounts to your **Xumm card account** and press [<mark style="color:blue;">**here**</mark>](https://xrpl.services/) to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
+
+#### Step 4: Sign into XRPL.Services with your Xumm card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+Press the ![](broken-reference) button then press **Open in Xumm App** and sign in.
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+#### Step 5: Set the Regular Key for your Xumm card account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+On the XRP Ledger Services page, select **Set Regular Key**
+
 Paste the r-address for your new Xumm card in the field titled, "XRPL address which will be able to sign transactions", then press the **Send Set Regular Key to Xumm** button.
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
