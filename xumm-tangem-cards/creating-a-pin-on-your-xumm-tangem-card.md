@@ -29,7 +29,7 @@ We strongly recommend that you **only configure a pin** if you have created a **
 
 <figure><img src="../.gitbook/assets/Card security.png" alt=""><figcaption></figcaption></figure>
 
-5. Press the "**Save**" button\
+5. Press the "**Save**" button. You receive the follow warning:\
    \
    **Notice the warning!**\
    \
@@ -37,8 +37,10 @@ We strongly recommend that you **only configure a pin** if you have created a **
    \
 
 6. Press "**Yes, I'm Sure**"
-7. Enter your new passcode.
-8. Sign with card.
+7. Enter your new passcode and press **Save**.\
+   \
+   ![](<../.gitbook/assets/image (23).png>)
+8. Sign with the card.
 
 
 
