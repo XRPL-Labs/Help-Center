@@ -4,8 +4,6 @@ description: Re-keying an existing account to a Xumm card
 
 # How to link an existing account to a  Xumm card
 
-### Linking the cards to an existing account
-
 This process will allow you to sign transactions on a Xumm card account using an existing XRP Ledger account.
 
 #### Step 1: Import your new Xumm card into Xumm <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
@@ -56,7 +54,7 @@ Sign the transaction with your Xumm card and you're all done!
 
 ## _Frequently asked Questions_
 
-### What if it want to link my Xumm card to an exiting account?
+### What if I want to link my Xumm card to an existing account?
 
 #### &#x20;Step 1: Make sure you have a existing XRP Ledger account (Primary account)
 
