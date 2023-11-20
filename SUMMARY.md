@@ -102,7 +102,6 @@
 * [Creating a pin on your card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
 * [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md)
-* [Xumm card vs Tangem card](xumm-tangem-cards/xumm-card-vs-tangem-card.md)
 * [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
 * [How to link an existing account to a  Xumm card](xumm-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card.md)
 
