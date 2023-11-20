@@ -6,13 +6,11 @@ description: Re-keying a card account to another XRPL account
 
 ### Linking the cards to an existing account
 
-This process will allow you sign transactions on an existing XRP Ledger account with your new Xumm card.
+This process will allow you to sign transactions on an existing XRP Ledger account with your new Xumm card.
 
-#### Step 1: Make sure you have a Primary account <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
+#### Step 1: Make sure you have a existing XRP Ledger account (Primary account) <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
-The Primary account must be imported into Xumm with **Full access**. (You must be able to sign transactions on this account.)
-
-This is your existing account that will have your XRP, your Trust Lines, Escrows, DEX transactions, etc.
+The existing account must be imported into Xumm with **Full access** and you must be able to sign transactions on this account. (This is your XRPL account that contains your XRP, your Trust Lines, Escrows, DEX transactions, etc.)
 
 #### Step 2: Import your new Xumm card into Xumm <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
@@ -24,7 +22,7 @@ Import you card into Xumm by following the these instructions:
 
 #### Step 3: Copy the r-address for your card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-After you have imported your Xumm card, press  the **Request** button then press the **Copy** button.
+After you have imported your Xumm card, press the **Request** button then press the **Copy** button:
 
 <figure><img src="../.gitbook/assets/regular keys -3.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,23 +34,41 @@ Press the ![](<../.gitbook/assets/image (1) (6).png>) button then press **Open i
 
 <figure><img src="../.gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
 
-5\) On the XRP Ledger Services page, select **Set Regular Key**
+#### Step 5: Set the Regular Key for your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+On the XRP Ledger Services page, select **Set Regular Key**
 
 <figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
 
-6\) In the field below paste the r-address for the Signing account, then press the **Send Set Regular Key to Xumm** button.
+Paste the r-address for your new Xumm card in the field titled, "XRPL address which will be able to sign transactions", then press the **Send Set Regular Key to Xumm** button.
 
 <figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
 
-7\) Sign the transaction in Xumm and you're all done!&#x20;
+#### Step 6: Sign the transaction with your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-Now when you look at your Signing account, notice how Xumm now reports "Regular key for Primary Acct".
+Sign the transaction in Xumm and you're all done!&#x20;
 
-<figure><img src="../.gitbook/assets/regular keys -4.png" alt=""><figcaption></figcaption></figure>
+### Frequently asked Questions
 
-### Next steps..
+#### What if it want to link my exiting account to a Xumm card account?
 
+#### Step 1: Import your new Xumm card into Xumm <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
+Import you card into Xumm by following the these instructions:
+
+{% content-ref url="../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+{% endcontent-ref %}
+
+#### Step 2: Activate your new card account with at least 10 XRP <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+In order to hold assets in a XRP Ledger account, it must first be activated with at least 10 XRP.
+
+This article explains how to activate an XRPL account:
+
+{% content-ref url="../getting-started/how-to-activate-a-new-xrpl-account.md" %}
+[how-to-activate-a-new-xrpl-account.md](../getting-started/how-to-activate-a-new-xrpl-account.md)
+{% endcontent-ref %}
 
 Most people will already have an existing XRP Ledger account and may be interested in only using th be sure how to integrate their existing accounts with their new Xumm cards. While this is possible to integrate the cards with existing accounts, it is not advised. Integrating hardware wallet accounts and software wallet accounts is not ideal.
 
