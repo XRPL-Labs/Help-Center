@@ -4,7 +4,21 @@ description: Xummカードアカウントにレギュラーキーを設定する
 
 # レギュラーアカウントでXumm Tangemカードアカウントの署名をするには
 
-#### Step 3: Copy the r-address for your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+This process will allow you to sign transactions on a Xumm card account using an existing XRP Ledger account.
+
+#### Step 1: Import your new Xumm card into Xumm <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+Import your card into Xumm by following the these instructions:
+
+
+
+**Step 2: Activate your new card account with at least 10 XRP**
+
+In order to hold assets in a XRP Ledger account, it must first be activated with at least 10 XRP.
+
+This article explains how to activate an XRPL account:
+
+**Step 3: Copy the r-address for your existing account**
 
 Switch accounts to your existing XRPL account and press the **Request** button then press the **Copy** button:
 
