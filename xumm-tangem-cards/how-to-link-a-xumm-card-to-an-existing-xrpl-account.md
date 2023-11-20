@@ -48,9 +48,9 @@ Paste the r-address for your new Xumm card in the field titled, "XRPL address wh
 
 Sign the transaction in Xumm and you're all done!&#x20;
 
-### Frequently asked Questions
+## _Frequently asked Questions_
 
-#### What if it want to link my exiting account to a Xumm card account?
+### What if it want to link my exiting account to a Xumm card account?
 
 #### Step 1: Import your new Xumm card into Xumm <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
@@ -69,6 +69,40 @@ This article explains how to activate an XRPL account:
 {% content-ref url="../getting-started/how-to-activate-a-new-xrpl-account.md" %}
 [how-to-activate-a-new-xrpl-account.md](../getting-started/how-to-activate-a-new-xrpl-account.md)
 {% endcontent-ref %}
+
+#### Step 3: Copy the r-address for your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+Switch accounts to your existing XRPL account and press the **Request** button then press the **Copy** button:
+
+<figure><img src="../.gitbook/assets/regular keys -3.png" alt=""><figcaption></figcaption></figure>
+
+then switch accounts to your **Xumm card account** and press [<mark style="color:blue;">**here**</mark>](https://xrpl.services/) to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
+
+#### Step 4: Sign into XRPL.Services with your Xumm card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+Press the ![](<../.gitbook/assets/image (1) (6).png>) button then press **Open in Xumm App** and sign in.
+
+<figure><img src="../.gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
+
+#### Step 5: Set the Regular Key for your Xumm card account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+On the XRP Ledger Services page, select **Set Regular Key**
+
+<figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
+
+Paste the r-address for your existing  account into the field titled, "XRPL address which will be able to sign transactions", then press the **Send Set Regular Key to Xumm** button.
+
+<figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
+
+#### Step 6: Sign the transaction with your Xumm card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+Sign the transaction with your Xumm card and you're all done!&#x20;
+
+
+
+### What is the recommended way to configure my Xumm cards?
+
+
 
 Most people will already have an existing XRP Ledger account and may be interested in only using th be sure how to integrate their existing accounts with their new Xumm cards. While this is possible to integrate the cards with existing accounts, it is not advised. Integrating hardware wallet accounts and software wallet accounts is not ideal.
 
