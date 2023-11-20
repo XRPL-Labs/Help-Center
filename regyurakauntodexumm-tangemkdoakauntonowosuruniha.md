@@ -1,3 +1,7 @@
+---
+description: Xummカードアカウントにレギュラーキーを設定する方法
+---
+
 # レギュラーアカウントでXumm Tangemカードアカウントの署名をするには
 
 Paste the r-address for your new Xumm card in the field titled, "XRPL address which will be able to sign transactions", then press the **Send Set Regular Key to Xumm** button.
