@@ -22,9 +22,31 @@ See this article for complete instructions:
 
 By configuring the cards this way, you ensure that any funds stored on the Primary card account will not be lost in case the one of the cards is damaged or destroyed.
 
+### Linking the cards to an existing account
+
+#### Step 1: Make sure you have a Primary account <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
+
+The Primary account must be imported into Xumm with **Full access**. (You must be able to sign transactions on this account.)
+
+This is your existing account that will have your XRP, your Trust Lines, Escrows, DEX transactions, etc.
+
+#### Step 2: Import your new Xumm card into Xumm <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+The Signing account must be imported into Xumm with **Full access**. (You must be able to sign transactions on this account.)
+
+This account does not need to contain XRP and does not even need to be activated. As long as you have full access to the account, it can be used to sign transactions on the Primary account.
+
+1\) Import you card into Xumm by following the these instructions:
+
+{% content-ref url="../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+{% endcontent-ref %}
+
+2\)
 
 
-Most people will already have an existing XRP Ledger account and may not be sure how to integrate their existing accounts with their new Xumm cards. While this is possible to integrate the cards with existing accounts, it is not advised. Integrating hardware wallet accounts and software wallet accounts is not ideal.
+
+Most people will already have an existing XRP Ledger account and may be interested in only using th be sure how to integrate their existing accounts with their new Xumm cards. While this is possible to integrate the cards with existing accounts, it is not advised. Integrating hardware wallet accounts and software wallet accounts is not ideal.
 
 For more information about this, please refer to this article:
 
