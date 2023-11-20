@@ -22,21 +22,17 @@ Import you card into Xumm by following the these instructions:
 [...a-xumm-tangem-card.md](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
-#### Step 3: How to set a Regular Key Pair <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+#### Step 3: Copy the r-address for your card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-Once you have completed the following steps, you will be able to sign transactions on your Primary account using **both** your Primary account **and** your Signing account.
-
-1\) Launch Xumm and switch accounts to your Signing account.
-
-<figure><img src="../.gitbook/assets/regular keys -2 (1).png" alt=""><figcaption></figcaption></figure>
-
-2\) Press the **Request** button then press the **Copy** button.
+After you have imported your Xumm card, press  the **Request** button then press the **Copy** button.
 
 <figure><img src="../.gitbook/assets/regular keys -3.png" alt=""><figcaption></figcaption></figure>
 
-3\) Now, switch accounts to your **Primary** account in Xumm and press <mark style="color:blue;">**here**</mark> to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
+then switch accounts to your **Primary** account (your existing account) in Xumm and press [<mark style="color:blue;">**here**</mark>](https://xrpl.services/) to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
 
-4\) Press the ![](<../.gitbook/assets/image (1) (6).png>) button then press **Open in Xumm App** and sign in.
+#### Step 4: Sign into XRPL.Services with your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+Press the ![](<../.gitbook/assets/image (1) (6).png>) button then press **Open in Xumm App** and sign in.
 
 <figure><img src="../.gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
 
