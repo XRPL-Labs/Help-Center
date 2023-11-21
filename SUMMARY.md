@@ -165,7 +165,6 @@
 * [XRP Ledger Concepts](xrp-ledger-resources/xrp-ledger-concepts/README.md)
   * [Video: Reserves and Fees on the XRPL](xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
   * [About Trust Lines](xrp-ledger-resources/xrp-ledger-concepts/about-trust-lines.md)
-  * [About Regular Keys](xrp-ledger-resources/xrp-ledger-concepts/about-regular-keys.md)
   * [About Reserves](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
   * [Payment Channels](xrp-ledger-resources/xrp-ledger-concepts/payment-channels.md)
   * [Multi Signature](xrp-ledger-resources/xrp-ledger-concepts/multi-signature.md)
