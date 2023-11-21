@@ -44,30 +44,40 @@ XRP Ledger Servicesのページ、左側の上から５番目にある**Set Regu
 
 <figure><img src=".gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
 
-Paste the r-address for your new Xumm card in the field titled, "XRPL address which will be able to sign transactions", then press the **Send Set Regular Key to Xumm** button.
+カードアカウントのrアドレスを"XRPL address which will be able to sign transactions"を記載された項目にコピーし、**Send Set Regular Key to Xumm**ボタンを押します。
 
 
 
-#### Step 6: Sign the transaction with your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+#### Step 6: 既存のレギュラーアカウントで署名する <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-Sign the transaction in Xumm and you're all done!&#x20;
+Xummで署名したら完了です！
 
-### What is the recommended way to configure my Xumm cards?
 
-The recommended and ideal way to configure a card is to have **two cards**, then "link" them together using the Tangem Backup xApp. This is explained in this article:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+
+
+**Xummカードの推奨利用方法は？**
+
+カードを使用する上で推奨される方法は、**2枚のカード**を用意し、Tangem Backup xAppを使用してそれらをリンクすることです。これについての詳細は、以下の記事で説明されていますのでご覧ください。
+
+{% content-ref url="xummtanjemukdo/xummtanshimuktonitsuite.md" %}
+[xummtanshimuktonitsuite.md](xummtanjemukdo/xummtanshimuktonitsuite.md)
 {% endcontent-ref %}
 
-### I only have one card though...
 
-Each card will generate and store an XRP Ledger account secret on the card.
 
-The account secret can not be viewed and extracted from the card and anytime you want to sign transaction on the card's account, you must have the card with you.
 
-This is a great security feature but since the account secret only exists in one place, (on the card) what would happen if you lost or damaged the card? (You would lose access to your funds!)
 
-This is why we only sell a minimum of two cards. With two Xumm cards, you can create a backup card which allows you to access your funds in case one of them is ever lost or damaged.
+**1枚のカードしかない場合**
 
-If you only have one card, "linking" an existing account to it allows your existing account to act as a backup in case something happens to the card.
+カードは、XRPレジャーの秘密鍵を生成し、カード上に保存します。
+
+秘密鍵はカードから表示や抽出することはできず、トランザクションに署名するためには、カードをスキャンする必要があります。
+
+これは素晴らしいセキュリティ機能ですが、秘密鍵はカード上の1か所にしか存在しないため、カードを紛失したり破損した場合、資金へのアクセスを失います！
+
+これが、私たちが最低2枚のカードしか販売しない理由です。
+
+2枚のXummカードを持っていれば、1枚が紛失または破損した場合でも、バックアップカードを作成することで資金にアクセスすることができます。
+
+もし1枚のカードしか持っていない場合、「既存のアカウント」とカードを「リンク」することで、カードに何か問題が生じた場合に既存のアカウントがバックアップとして機能します。
