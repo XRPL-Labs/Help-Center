@@ -6,7 +6,7 @@ description: Xummカードアカウントにレギュラーキーを設定する
 
 この記事では通常のレギュラーアカウントがXummタンジェムカードで作成したアカウントの署名をできるようにする設定方法についてご案内します。
 
-#### Step 1: Xummタンジェムカードをインポートします <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+#### Step 1: Xummタンジェムカードをインポートする <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
 手順についてはこちらの記事をご覧ください。
 
@@ -14,33 +14,39 @@ description: Xummカードアカウントにレギュラーキーを設定する
 
 
 
-**Step 2: Activate your new card account with at least 10 XRP**
+**Step 2: 新しいカードアカウントに10XRPを送金して有効化する**
 
-In order to hold assets in a XRP Ledger account, it must first be activated with at least 10 XRP.
+XRPレジャーでトークンを保有するには準備金として10XRPを入金する必要があります。
 
-This article explains how to activate an XRPL account:
+有効化についてはこちらの記事をご覧ください。
 
-**Step 3: Copy the r-address for your existing account**
+[akauntowosuru.md](akauntowosuru.md "mention")
 
-Switch accounts to your existing XRPL account and press the **Request** button then press the **Copy** button:
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
-then switch accounts to your **Xumm card account** and press [<mark style="color:blue;">**here**</mark>](https://xrpl.services/) to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
+**Step 3:  すでにあるレギュラーアカウントのrアドレスをコピーする**
 
-#### Step 4: Sign into XRPL.Services with your Xumm card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+右上の「アカウント」から、バックアップとして利用したい通常のレギュラーアカウントへ切り替え、「受け取る」ボタンを押してアドレスをコピーします。
 
-Press the ![](broken-reference) button then press **Open in Xumm App** and sign in.
+<figure><img src=".gitbook/assets/IMG_527472D62A7D-1.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+次にカードアカウントへホーム画面の右上「アカウント」から再度カードアカウントへ切り替え、[XRP Ledger Services](https://xrpl.services/)のサイトへ移ります。
 
-#### Step 5: Set the Regular Key for your Xumm card account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+#### Step 4: Xummカードでサインインする <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-On the XRP Ledger Services page, select **Set Regular Key**
+<img src=".gitbook/assets/image.png" alt="" data-size="line"> ボタンを押し、**Open in the Xumm App** を選択
+
+<figure><img src=".gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
+
+#### Step 5: カードアカウントにレギュラーキーを設定する <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+
+XRP Ledger Servicesのページ、左側の上から５番目にある**Set Regular Key**をクリックします。
+
+<figure><img src=".gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
 
 Paste the r-address for your new Xumm card in the field titled, "XRPL address which will be able to sign transactions", then press the **Send Set Regular Key to Xumm** button.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
 
 #### Step 6: Sign the transaction with your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
