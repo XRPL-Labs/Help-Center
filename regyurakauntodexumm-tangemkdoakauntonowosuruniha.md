@@ -10,7 +10,7 @@ description: Xummカードアカウントにレギュラーキーを設定する
 
 手順についてはこちらの記事をご覧ください。
 
-[xummtanjemukto.md](xummtanjemukdo/xummtanjemukto.md "mention")
+[xumm-tanjemuktonoinpto.md](xummtanjemukdo/xumm-tanjemuktonoinpto.md "mention")
 
 
 

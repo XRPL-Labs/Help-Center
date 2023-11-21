@@ -24,7 +24,7 @@
   * [ペイストリングとは？](pro/heisutorinkutoha.md)
 * [Xummタンジェムカード](xummtanjemukdo/README.md)
   * [Xummタンジェムカードについて](xummtanjemukdo/xummtanshimuktonitsuite.md)
-  * [Xummタンジェムカード設定方法](xummtanjemukdo/xummtanjemukto.md)
+  * [Xummタンジェムカード設定方法](xummtanjemukdo/xumm-tanjemuktonoinpto.md)
   * [Xummタンジェムカードの使い方](xummtanjemukdo/xummtanshimukdonoi.md)
   * [バックアップ（署名）カード設定方法](xummtanjemukdo/bakkuappukdo.md)
 * [レギュラーアカウントでXumm Tangemカードアカウントの署名をするには](regyurakauntodexumm-tangemkdoakauntonowosuruniha.md)
