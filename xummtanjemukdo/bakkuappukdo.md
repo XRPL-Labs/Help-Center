@@ -4,13 +4,17 @@
 
 バックアップを作るにあたり、XRP Ledgerにおける2つの(カード)アカウント間のレギュラーキーを設定を簡単に設定できるアプリTangem Backup xAppを使用します。
 
+
+
 設定後は、メインアカウントから送信するトランザクションへの署名をバックアップアカウントでも行えるようになります。
 
 よくわからなくても大丈夫です！　ここではステップごとに説明していきます。
 
-### 目的
+### はじめに
 
 Tangem(タンジェム)カードはデザインの違う2枚をセットでお届けしています。
+
+<figure><img src="../.gitbook/assets/spaces_MiHAzvIPISVuuzt0AeOR_uploads_fX0AOaMPbyG9puJmSV1W_Xumm Tangem card -3 (2).webp" alt=""><figcaption></figcaption></figure>
 
 1枚目をメインカード、2枚目を署名用のバックアップカードとします。
 
@@ -28,7 +32,7 @@ Tangem(タンジェム)カードはデザインの違う2枚をセットでお�
 
 こちらを参照して追加しましょう。
 
-[How to add a Xumm (Tangem) card](https://help.xumm.app/getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card)
+[xumm-tanjemuktonoinpto.md](xumm-tanjemuktonoinpto.md "mention")
 
 カードの追加過程で、それぞれに対応するアカウントが生成されます。
 
@@ -40,17 +44,31 @@ Tangem(タンジェム)カードはデザインの違う2枚をセットでお�
 
 最初の画面で**I’m ready, continue**をタップします。
 
+<figure><img src="../.gitbook/assets/tangem backup1 (1).webp" alt=""><figcaption></figcaption></figure>
+
 **Select accountを選択します。**
 
-ここで10XRPを入れてアクティベートしたメインカードのアカウントを選択します。Slide to acceptを左から右にスライドし、青色のメインカードをデバイスにかざして署名します。
+<figure><img src="../.gitbook/assets/Tangem Backup - 2 (1).png" alt=""><figcaption></figcaption></figure>
+
+ここで10XRPを入れてアクティベートしたメインカードのアカウントを選択します。
+
+<figure><img src="../.gitbook/assets/tangem3 (1).webp" alt=""><figcaption></figcaption></figure>
+
+Slide to acceptを左から右にスライドし、青色のメインカードをデバイスにかざして署名します。
 
 ※XRPレジャーに送信するトランザクションではありません。
 
-次に**Select backup card**をタップする
+
+
+次に**Select backup card**をタップします。
+
+<figure><img src="../.gitbook/assets/tangem4 (1).png" alt=""><figcaption></figcaption></figure>
 
 ここで署名用のバックアップカードのアカウントを選択します。このアカウントはアクティベートしなくてもOKです。Slide to acceptをスライドし、透明のバックアップカードで署名します。
 
 ※同じくXRPレジャーに送信するトランザクションではありません。
+
+<figure><img src="../.gitbook/assets/tangem6 (1).webp" alt=""><figcaption></figcaption></figure>
 
 最後に**Finish**ボタンを押し、**Slide to accept**でスライドさせたら設定は完了です
 
