@@ -4,11 +4,13 @@ description: Xummカードアカウントにレギュラーキーを設定する
 
 # レギュラーアカウントでXumm Tangemカードアカウントの署名をするには
 
-This process will allow you to sign transactions on a Xumm card account using an existing XRP Ledger account.
+この記事では通常のレギュラーアカウントがXummタンジェムカードで作成したアカウントの署名をできるようにする設定方法についてご案内します。
 
-#### Step 1: Import your new Xumm card into Xumm <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+#### Step 1: Xummタンジェムカードをインポートします <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-Import your card into Xumm by following the these instructions:
+手順についてはこちらの記事をご覧ください。
+
+[xumm-tanjemuktonoinpto.md](xummtanjemukdo/xumm-tanjemuktonoinpto.md "mention")
 
 
 
