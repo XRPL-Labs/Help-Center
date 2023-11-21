@@ -30,7 +30,9 @@ Tangem社は、私たちと同様、暗号資産をより便利に、そして�
 
 秘密鍵はチップ内に保管されているため、カードを紛失した場合にはアカウントにアクセスできなくなります。そのため、Xamanでは基本的に2枚セットで販売しています。2枚目はバックアップとして設定しましょう。xAppの「Tangem Backup」を利用すれば簡単に設定できます。
 
-[**How to use the Tangem Backup xApp**](https://help.xumm.app/xumm-tangem-cards/how-to-configure-a-backup-signing-account)
+[bakkuappukdo.md](bakkuappukdo.md "mention")
+
+
 
 #### よくある質問
 
@@ -62,7 +64,7 @@ Xaman Pro (Beta)会員になると、追加料金なして2枚カードがつい
 
 いいえ、できません。秘密鍵はチップ内で保管されており、秘密鍵を取得することができない仕様になっています。そのため、2枚目のカードでリカバリー用のアカウントを作り、バックアップとして設定します。そうすることでカード紛失時や破損時にもアカウントにアクセスすることができるようになります。&#x20;
 
-See: [**How to use the Tangem Backup xApp**](https://help.xumm.app/xumm-tangem-cards/how-to-configure-a-backup-signing-account)
+[bakkuappukdo.md](bakkuappukdo.md "mention")
 
 **Xummタンジェムカードを誰かが盗んだらそのまま利用できてしまうのですか？**
 
