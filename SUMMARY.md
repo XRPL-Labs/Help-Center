@@ -1,7 +1,6 @@
 # Table of contents
 
-* [こんにちは](README.md)
-* [Xamanについて](xamannitsuite.md)
+* [Xamanについて](README.md)
 * [自己管理型（セルフカストディ）とは](serufukasutotetoha.md)
 * [XRPレジャーアカウント作成方法](xrpreshiakaunto.md)
 * [アカウントを有効化する](akauntowosuru.md)
