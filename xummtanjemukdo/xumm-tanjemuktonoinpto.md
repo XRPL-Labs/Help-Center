@@ -34,18 +34,16 @@
 
 カードのスキャン後、アカウントのrアドレスが表示されたら確認
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/IMG_0020 1.png" alt="" width="373"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/IMG_0021 (1).PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 アカウントに任意の名前を設定し、「次へ」をタップ
 
 <figure><img src="../.gitbook/assets/IMG_0023.png" alt="" width="375"><figcaption></figcaption></figure>
 
-カードを再度スキャンすると、アカウントのrアドレスが表示されるので「確認」を押す
+次の画面で内容を読み、「了解しました。次へ。」を選択
 
-<figure><img src="../.gitbook/assets/IMG_0020.png" alt="" width="373"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_0382.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 これでXummタンジェムカードを利用したアカウント作成は完了です！🥳
+
+<figure><img src="../.gitbook/assets/IMG_0383.PNG" alt="" width="375"><figcaption></figcaption></figure>
