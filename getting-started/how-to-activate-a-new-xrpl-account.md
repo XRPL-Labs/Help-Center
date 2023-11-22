@@ -14,7 +14,7 @@ After you create a new XRP Ledger account in Xumm, you are presented with the fo
 
 <figure><img src="../.gitbook/assets/Activate your account.png" alt=""><figcaption></figcaption></figure>
 
-Press the ![](<../.gitbook/assets/image (1) (1).png>) button to get into the Account Activation flow,
+Press the ![](<../.gitbook/assets/image (1) (1) (4).png>) button to get into the Account Activation flow,
 
 <figure><img src="../.gitbook/assets/Account Activation xApp.png" alt=""><figcaption></figcaption></figure>
 

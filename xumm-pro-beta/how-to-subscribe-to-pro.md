@@ -12,8 +12,8 @@ In this article we will explore how to subscribe to Xumm Pro (Beta).
 
 For a more in depth look into Xumm Pro, why you should subscribe and the answers to some frequently asked questions, check out this article:
 
-{% content-ref url="what-is-xumm-pro.md" %}
-[what-is-xumm-pro.md](what-is-xumm-pro.md)
+{% content-ref url="all-about-xumm-pro/what-is-xumm-pro.md" %}
+[what-is-xumm-pro.md](all-about-xumm-pro/what-is-xumm-pro.md)
 {% endcontent-ref %}
 
 ### Understanding the process
@@ -34,7 +34,7 @@ So you'll notice the subscription process takes you through the Xumm card purcha
 
 3\) After filling out your information, you get to the **Payment** section.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Here you have two options to pay.
 
@@ -43,7 +43,7 @@ Here you have two options to pay.
 
 We recommend **paying with Xumm using XRP**. It is quick, easy and will save you time and money, however we do offer the option to pay using a credit card.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Just fill out the form and your credit card information and tap the **Pay** button.
 

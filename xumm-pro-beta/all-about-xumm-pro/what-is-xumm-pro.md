@@ -22,11 +22,11 @@ Here are the current features of Xumm Pro.&#x20;
 
 The Profiles feature allows you to create an identity page and a PayString so people can easily send you funds and locate your account on the XRPL.
 
-#### [**Push Notifications**](features-of-pro/push-notifications.md)
+#### [**Push Notifications**](../features-of-pro/push-notifications.md)
 
 Push notifications are small, pop-up messages that Xumm will display on your phone to alert you of various transactions on your XRP Ledger account. Push notifications cover real-time transactional messages, updates, support messages and more, all of which will help keep you up-to-date on your XRPL account.
 
-#### [KYC verification](../learning-more-about-xumm/kyc.md) (Opt-in)
+#### [KYC verification](../../learning-more-about-xumm/kyc.md) (Opt-in)
 
 This feature allows you to go through the KYC process to help verify your identity and add trust to your XRP Ledger and Xahau accounts.
 
@@ -72,8 +72,8 @@ A subscription to Xumm Pro Beta costs **$60 USD** (paid in XRP) or about **$70 U
 
 Check out this article for you options:
 
-{% content-ref url="how-to-subscribe-to-pro.md" %}
-[how-to-subscribe-to-pro.md](how-to-subscribe-to-pro.md)
+{% content-ref url="../how-to-subscribe-to-pro.md" %}
+[how-to-subscribe-to-pro.md](../how-to-subscribe-to-pro.md)
 {% endcontent-ref %}
 
 #### How long does a subscription last?
@@ -98,7 +98,7 @@ We are very meticulous when it comes to coding Xumm and do not rush our features
 
 While we would love everyone to have Pro features forever & for free, developing software and running a software business takes continued investments. A one time payment would not allow us to sustain development, therefore in order to continue to enjoy the features of Xumm Pro, you can renew your subscription annually…. but don’t worry, when your subscription is about to end, we will be sure to notify you!
 
-#### **Can I order Pro from anywhere in the word?**
+#### **Can I order Pro from anywhere in the world?**
 
 You certainly can but please be aware, there are a couple of countries where we **can not** **ship** the Xumm cards to. These include:
 
@@ -118,9 +118,19 @@ You are probably not surprised to hear this, but many people in the XRP communit
 
 This link takes you to a page that looks like this:
 
-<figure><img src="../.gitbook/assets/Gift Xumm Pro.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gift Xumm Pro.png" alt=""><figcaption></figcaption></figure>
 
 Simply press the **Gift directly to r-address** button, enter the r-address of the lucky person and press the _**Purchase**_ button.
+
+#### **How do I launch Pro from Xumm?**
+
+You can tap this link:
+
+{% embed url="https://xumm.app/detect/xapp:xumm.pro-beta" %}
+
+or scan this QR code with Xumm:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### **Is there a way I can test Xumm Pro to see if I like it?**
 

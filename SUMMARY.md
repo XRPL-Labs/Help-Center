@@ -134,13 +134,13 @@
 
 ## Xumm Pro beta
 
-* [😎 What is Xumm Pro?](xumm-pro-beta/what-is-xumm-pro.md)
+* [😎 What is Xumm Pro?](xumm-pro-beta/all-about-xumm-pro/what-is-xumm-pro.md)
 * [How to subscribe](xumm-pro-beta/how-to-subscribe-to-pro.md)
-* [Features of Pro](xumm-pro-beta/features-of-pro/README.md)
-  * [Profiles](xumm-pro-beta/features-of-pro/profiles/README.md)
-    * [All about Profiles](xumm-pro-beta/features-of-pro/profiles/all-about-profiles.md)
-    * [What is PayString?](xumm-pro-beta/features-of-pro/profiles/what-is-paystring.md)
-    * [Setting up your Xumm Profile](xumm-pro-beta/features-of-pro/profiles/setting-up-your-xumm-profile.md)
+* [Features of Pro](xumm-pro-beta/features-of-pro.md)
+  * [Profiles](xumm-pro-beta/features-of-pro/profiles.md)
+    * [All about Profiles](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/all-about-profiles.md)
+    * [What is PayString?](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/what-is-paystring.md)
+    * [Setting up your Xumm Profile](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/setting-up-your-xumm-profile.md)
   * [Push notifications](xumm-pro-beta/features-of-pro/push-notifications.md)
   * [Accounts](xumm-pro-beta/features-of-pro/accounts.md)
   * [Xumm App early access](xumm-pro-beta/features-of-pro/xumm-app-early-access.md)
