@@ -26,11 +26,11 @@ The mechanism to achieve all of this is?
 
 ### **A quick overview**
 
-If you interested in a quick explanation, check out this video...
+If you interested in a quick explanation on how reserves work, check out this video...
 
 {% embed url="https://www.youtube.com/watch?v=7E52W4dKmBE" %}
 
-...if not, keep reading.&#x20;
+...for a more indepth overview, keep reading.&#x20;
 
 ### **A bit about reserves on the XRPL ...**
 
