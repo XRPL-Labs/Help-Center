@@ -28,9 +28,7 @@ The mechanism to achieve all of this is?
 
 If you interested in a quick explanation, check out this video...
 
-{% content-ref url="reserves-and-fees-on-the-xrpl.md" %}
-[reserves-and-fees-on-the-xrpl.md](reserves-and-fees-on-the-xrpl.md)
-{% endcontent-ref %}
+{% embed url="https://www.youtube.com/watch?v=7E52W4dKmBE" %}
 
 ...if not, keep reading.&#x20;
 
