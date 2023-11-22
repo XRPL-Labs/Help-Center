@@ -24,7 +24,17 @@ The mechanism to achieve all of this is?
 
 **🎉🎉 XRPL Reserves  🎉🎉**
 
-### &#x20;**A bit about reserves on the XRPL ...**
+### **A quick overview**
+
+If you interested in a quick explanation, check out this video...
+
+{% content-ref url="reserves-and-fees-on-the-xrpl.md" %}
+[reserves-and-fees-on-the-xrpl.md](reserves-and-fees-on-the-xrpl.md)
+{% endcontent-ref %}
+
+...if not, keep reading.&#x20;
+
+### **A bit about reserves on the XRPL ...**
 
 The XRPL has two types of reserves:
 
