@@ -22,11 +22,11 @@ Here are the current features of Xumm Pro.&#x20;
 
 The Profiles feature allows you to create an identity page and a PayString so people can easily send you funds and locate your account on the XRPL.
 
-#### [**Push Notifications**](../features-of-pro/push-notifications.md)
+#### [**Push Notifications**](features-of-pro/push-notifications.md)
 
 Push notifications are small, pop-up messages that Xumm will display on your phone to alert you of various transactions on your XRP Ledger account. Push notifications cover real-time transactional messages, updates, support messages and more, all of which will help keep you up-to-date on your XRPL account.
 
-#### [KYC verification](../../learning-more-about-xumm/kyc.md) (Opt-in)
+#### [KYC verification](../learning-more-about-xumm/kyc.md) (Opt-in)
 
 This feature allows you to go through the KYC process to help verify your identity and add trust to your XRP Ledger and Xahau accounts.
 
@@ -72,8 +72,8 @@ A subscription to Xumm Pro Beta costs **$60 USD** (paid in XRP) or about **$70 U
 
 Check out this article for you options:
 
-{% content-ref url="../how-to-subscribe-to-pro.md" %}
-[how-to-subscribe-to-pro.md](../how-to-subscribe-to-pro.md)
+{% content-ref url="how-to-subscribe-to-pro.md" %}
+[how-to-subscribe-to-pro.md](how-to-subscribe-to-pro.md)
 {% endcontent-ref %}
 
 #### How long does a subscription last?
@@ -118,7 +118,7 @@ You are probably not surprised to hear this, but many people in the XRP communit
 
 This link takes you to a page that looks like this:
 
-<figure><img src="../../.gitbook/assets/Gift Xumm Pro.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Gift Xumm Pro.png" alt=""><figcaption></figcaption></figure>
 
 Simply press the **Gift directly to r-address** button, enter the r-address of the lucky person and press the _**Purchase**_ button.
 
