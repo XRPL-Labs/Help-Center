@@ -92,6 +92,7 @@
   * [Events screen](configuring-xumm/understanding-the-settings-options/events-screen.md)
   * [Security screen](configuring-xumm/understanding-the-settings-options/security-screen.md)
   * [How to post a Session Log](configuring-xumm/understanding-the-settings-options/how-to-post-a-session-log.md)
+  * [Third party apps](configuring-xumm/understanding-the-settings-options/third-party-apps.md)
 
 ## XUMM (TANGEM) CARDS
 
