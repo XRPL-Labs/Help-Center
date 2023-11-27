@@ -2,7 +2,7 @@
 description: Importing an XRPL account created on a Ledger device
 ---
 
-# How to import a Ledger Nano account
+# How to import an XRPL account from a Ledger device
 
 ### The Concept
 
@@ -36,7 +36,7 @@ Here is how we recommend you do it:
 
 7\) Sign the transaction with your Ledger device.
 
-8\) On your phone, import your your Ledger account into Xumm in **read only mode**.&#x20;
+8\) On your phone, import your XRPL account create on your Ledger device into Xumm in **read only mode**.&#x20;
 
 {% content-ref url="...in-read-only-mode.md" %}
 [...in-read-only-mode.md](...in-read-only-mode.md)
