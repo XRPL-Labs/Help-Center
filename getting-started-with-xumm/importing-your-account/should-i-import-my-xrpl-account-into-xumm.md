@@ -58,7 +58,7 @@ In most cases, Situation 2 is much easier to troubleshoot.
 
 Consider these two statements
 
-1. A  cold wallet such as a Ledger Nano generates and stores your account secret on a USB device. The assumption is that since the device is not directly connected to the internet, it less vulnerable to potential attack vectors and therefore 'safer'.
+1. A  cold wallet such as a Ledger Nano generates and stores your account secret on a USB device. The assumption is that since the device is not directly connected to the internet, it is less vulnerable to potential attack vectors and therefore 'safer'.
 2. Xumm stores your account secret on your mobile device that is connect to the Internet and that your phone will be more vulnerable to potential attack vectors while online.
 
 The truth is, determining how 'safe' a particular wallet is does not come down to being online or offline. Every wallet type has its own potential attack vectors and the user's security habits, preferences and preparations play the largest part in the safety of the assets.&#x20;

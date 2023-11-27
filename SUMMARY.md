@@ -30,6 +30,7 @@
   * [...with a Family Seed](getting-started-with-xumm/importing-your-account/...with-a-family-seed.md)
   * [...with a Mnemonic](getting-started-with-xumm/importing-your-account/...with-a-mnemonic.md)
   * [...a Xumm Tangem card](getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+  * [How to import a Ledger Nano account](getting-started-with-xumm/importing-your-account/how-to-import-a-ledger-nano-account.md)
   * [...in Read Only mode](getting-started-with-xumm/importing-your-account/...in-read-only-mode.md)
 * [Buying XRP](getting-started-with-xumm/buying-xrp.md)
   * [Banxa](getting-started-with-xumm/buying-xrp/banxa.md)
