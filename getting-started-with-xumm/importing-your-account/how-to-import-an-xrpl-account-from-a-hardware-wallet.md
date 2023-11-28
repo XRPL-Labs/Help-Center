@@ -13,14 +13,12 @@ Hardware wallets are largely about **long term storage** of your assets. A hardw
 Xumm is largely about enabling you to interact with the XRP Ledger ecosystem. Xumm stores your private keys for your XRP Ledger account on your mobile device, which is connected to the internet. It allows you to sign transactions on your XRPL account on your phone. By storing your private keys on a device that is "on line", it exposes your account to other types of potential attack vectors.&#x20;
 
 {% hint style="warning" %}
-By following these instructions, you will be able to access **all of your XRPL assets** stored in your hardware wallet **using Xumm**. This means that you will not need your hardware wallet to access your XRP. You will be able to access it with Xumm.
+By following these instructions, you will be able to access **all of your XRPL assets** stored in your hardware wallet **using Xumm**. This means that you will not exclusively need your hardware wallet to access your XRP. You will be able to access it with Xumm in addition to being able to access it with your hardware wallet.
 {% endhint %}
 
-By bringing your hardware wallet account into Xumm, you are changing the nature of how you plan to interact with the XRP Ledger. &#x20;
+### Importing your XRP Ledger account created on your hardware device
 
-### Importing your XRP Ledger account created on your Ledger device
 
-There are cases where you might want to import a XRPL account create on a hardware wallet into Xumm. Here is how to do it:
 
 1\) On your phone, create a new XRP Ledger account in Xumm.&#x20;
 
