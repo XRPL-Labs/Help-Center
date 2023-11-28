@@ -24,9 +24,9 @@ One of the things introduced in Xahau is a new gas token with the trading symbol
 
 Yes and No.
 
-Yes. You can purchase XAU tokens but they are not the native XAU coins on the Xahau network. By purchasing XAU on the XRPL, you are purchasing a token that represents XAU. As long as you purchase the XAU token from a trusted issuer, (ie. Gatehub) they will exchange your tokens for "real" XAU coins on the Xahau network. (Or convert it into fiat.) Owning XAU on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset.
+Yes. You can purchase XAH tokens but they are not the native XAH coins on the Xahau network. By purchasing XAH on the XRPL, you are purchasing a token that represents XAH. As long as you purchase the XAH token from a trusted issuer, (ie. Gatehub) they will exchange your tokens for "real" XAH coins on the Xahau network. (Or convert it into fiat.) Owning XAH on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset.
 
-No. You can not purchase the **native** XAU coin on the XRP Ledger. The XAU coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAU coins via a crypto exchange or via the Burn to Mint (B2M) feature.
+No. You can not purchase the **native** XAH coin on the XRP Ledger. The XAH coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAH coins via a crypto exchange or via the Burn to Mint (B2M) feature.
 
 * Through a crypto exchange  \
   \
@@ -34,7 +34,7 @@ No. You can not purchase the **native** XAU coin on the XRP Ledger. The XAU coin
 
 * Through the Burn to Mint feature.\
   \
-  The Xahau network has a unique "Burn to Mint" (B2M) feature which allows you to convert XRP directly into XAU. Xumm will be releasing a B2M xApp in the near future.
+  The Xahau network has a unique "Burn to Mint" (B2M) feature which allows you to convert XRP directly into XAH. Xumm will be releasing a B2M xApp in the near future.
 
 #### Why are there XAH tokens on the XRP Ledger then?
 
@@ -42,7 +42,7 @@ As mentioned earlier, anyone can issue a token on the XRP Ledger. \
 \
 For example, on October 29, 2023, Gatehub issued 500,000 XAH tokens on the XRP Ledger. &#x20;
 
-The XAH tokens issued on the Xahau network are different than the XAH tokens issued on the XRP Ledger. Even though the Xahau network runs the XRP Ledger protocol, it is a different and separate network. You can not send XAU tokens directly between to the XRP Ledger and Xahau.
+The XAH tokens issued on the Xahau network are different than the XAH tokens issued on the XRP Ledger. Even though the Xahau network runs the XRP Ledger protocol, it is a different and separate network. You can not send XAH tokens directly between to the XRP Ledger and Xahau.
 
 Gatehub issued the XAH tokens as a way to represent the value of a XAH token on the XRPL. They will will honor their XAH as "real" XAH on the Xahau network and will allow you to redeem the XAH tokens for XAH issued on the Xahau.
 
