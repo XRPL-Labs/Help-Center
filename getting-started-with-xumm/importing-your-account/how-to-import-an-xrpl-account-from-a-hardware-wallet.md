@@ -10,7 +10,11 @@ A "cold wallet" generates and stores an XRP Ledger account secret on a USB devic
 
 ### Bringing your cold wallet online
 
-As&#x20;
+It is important that you understand how this works.
+
+By bringing your hardware wallet account into Xumm, you are changing the nature of how you plan to interact with the XRP Ledger.  Hardware wallets are largely about long term storage storing your crypto&#x20;
+
+&#x20;
 
 ### Importing your XRP Ledger account created on your Ledger device
 
