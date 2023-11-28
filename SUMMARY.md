@@ -29,7 +29,7 @@
   * [...with Secret Numbers](getting-started-with-xumm/importing-your-account/...with-secret-numbers.md)
   * [...with a Family Seed](getting-started-with-xumm/importing-your-account/...with-a-family-seed.md)
   * [...with a Mnemonic](getting-started-with-xumm/importing-your-account/...with-a-mnemonic.md)
-  * [...a Xumm Tangem card](getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+  * [...a Xumm card](getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
   * [...in Read Only mode](getting-started-with-xumm/importing-your-account/...in-read-only-mode.md)
   * [How to import an XRPL account from a hardware wallet](getting-started-with-xumm/importing-your-account/how-to-import-an-xrpl-account-from-a-hardware-wallet.md)
 * [Buying XRP](getting-started-with-xumm/buying-xrp.md)
