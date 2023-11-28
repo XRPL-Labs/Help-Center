@@ -4,23 +4,19 @@ description: Importing an XRPL account created on a hardware wallet
 
 # How to import an XRPL account from a hardware wallet
 
-### The Concept
+### Bringing your hardware wallet online
 
-A "cold wallet" generates and stores an XRP Ledger account secret on a USB device. Some people feel that this is a safer way to generate and store account secrets. The assumption is that since the device is not directly connected to the internet, it is less vulnerable to potential attack vectors and therefore 'safer' than a "hot wallet" like Xumm.
+It is important that you understand what this article does and how it changes how your hardware wallet protects your funds.
 
-### Bringing your cold wallet online
+Hardware wallets are largely about **long term storage** of your assets. A hardware wallet stores the  private keys for your XRP Ledger account on a device that is not connected to the internet. You can only sign transactions on your XRPL account if you are in possession of the hardware device. By storing your private keys off line, it limits some potential attack vectors on your account.
 
-It is important that you understand how this works.
-
-By bringing your hardware wallet account into Xumm, you are changing the nature of how you plan to interact with the XRP Ledger.  Hardware wallets are largely about **long term storage** of your assets. Xumm is largely about participating in the the XRPL community.&#x20;
-
-By following these instructions, you will be able to access all of your XRPL assets stored in your&#x20;
+Xumm is largely about enabling you to interact with the XRP Ledger ecosystem. Xumm stores your private keys for your XRP Ledger account on your mobile device, which is connected to the internet. It allows you to sign transactions on your XRPL account on your phone. By storing your private keys on a device that is "on line", it exposes your account to other types of potential attack vectors.&#x20;
 
 {% hint style="warning" %}
-By following these instructions, you will be able to access all of your XRPL assets stored in your hardware wallet using Xumm. This means that you will not need your hardware wallet to access your XRP. You will be able to access it with Xumm.
+By following these instructions, you will be able to access **all of your XRPL assets** stored in your hardware wallet **using Xumm**. This means that you will not need your hardware wallet to access your XRP. You will be able to access it with Xumm.
 {% endhint %}
 
-&#x20;
+By bringing your hardware wallet account into Xumm, you are changing the nature of how you plan to interact with the XRP Ledger. &#x20;
 
 ### Importing your XRP Ledger account created on your Ledger device
 
