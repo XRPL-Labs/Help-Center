@@ -17,7 +17,7 @@ By bringing your hardware wallet account into Xumm, you are changing the nature 
 By following these instructions, you will be able to access all of your XRPL assets stored in your&#x20;
 
 {% hint style="warning" %}
-By following these instructions, you will be able to access all of your XRPL assets stored in your&#x20;
+By following these instructions, you will be able to access all of your XRPL assets stored in your hardware wallet using Xumm. This means that you will not need your hardware wallet to acccess your
 {% endhint %}
 
 &#x20;
