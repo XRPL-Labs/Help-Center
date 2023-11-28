@@ -6,7 +6,7 @@ description: Importing an XRPL account created on a hardware wallet
 
 ### Bringing your hardware wallet online
 
-It is important that you understand what this article does and how it changes how your hardware wallet protects your funds.
+It is important that you understand what this article does. It changes how you access your XRP Ledger account managed by your hardware wallet.
 
 Hardware wallets are largely about **long term storage** of your assets. A hardware wallet stores the  private keys for your XRP Ledger account on a device that is not connected to the internet. You can only sign transactions on your XRPL account if you are in possession of the hardware device. By storing your private keys off line, it limits some potential attack vectors on your account.
 
