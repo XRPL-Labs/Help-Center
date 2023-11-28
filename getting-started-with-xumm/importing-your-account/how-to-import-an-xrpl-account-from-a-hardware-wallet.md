@@ -16,6 +16,12 @@ Xumm is largely about enabling you to interact with the XRP Ledger ecosystem. Xu
 By following these instructions, you will be able to access **all of your XRPL assets** stored in your hardware wallet **using Xumm**. This means that you will not exclusively need your hardware wallet to access your XRP. You will be able to access it with Xumm in addition to being able to access it with your hardware wallet.
 {% endhint %}
 
+We strongly recommend you read this article before continuing:
+
+{% content-ref url="should-i-import-my-xrpl-account-into-xumm.md" %}
+[should-i-import-my-xrpl-account-into-xumm.md](should-i-import-my-xrpl-account-into-xumm.md)
+{% endcontent-ref %}
+
 ### Importing your XRP Ledger account created on your hardware device
 
 
