@@ -1,12 +1,12 @@
 ---
-description: Importing an XRPL account created on a Ledger device
+description: Importing an XRPL account created on a hardware wallet
 ---
 
-# How to import an XRPL account from a Ledger device
+# How to import an XRPL account from a hardware wallet
 
 ### The Concept
 
-A "cold wallet" such as a Ledger Nano generates and stores an XRP Ledger account secret on a USB device. Some people feel that this is a safer way to generate and store account secrets. The assumption is that since the device is not directly connected to the internet, it is less vulnerable to potential attack vectors and therefore 'safer' than a "hot wallet" like Xumm.
+A "cold wallet" generates and stores an XRP Ledger account secret on a USB device. Some people feel that this is a safer way to generate and store account secrets. The assumption is that since the device is not directly connected to the internet, it is less vulnerable to potential attack vectors and therefore 'safer' than a "hot wallet" like Xumm.
 
 ### Importing your XRP Ledger account created on your Ledger device
 
