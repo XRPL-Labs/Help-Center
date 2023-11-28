@@ -8,13 +8,7 @@ Xumm is an excellent application for making payments on the XRP Ledger, interact
 
 ### Potential risks...
 
-Anytime you enter your private keys into any software there are potential risks. Spyware, malware, key-loggers, screen capture software, viruses, and many more attack vectors can come into play when entering your private keys into your device.
-
-Consider the following:&#x20;
-
-Without a compelling reason to to import an account opening a new account and transferring the assets to it is the better practice.
-
-### Consider the following:&#x20;
+Anytime you enter your private keys into any software there are potential risks. Spyware, malware, key-loggers, screen capture software, viruses, and many more attack vectors can come into play when entering your private keys. If you are planning on importing your existing XRPL account or if you are planning on configuring a regular key for your existing account, please take the time to consider some of the risks associated with doing this.
 
 #### How were your private keys generated?&#x20;
 
@@ -24,9 +18,9 @@ Without a compelling reason to to import an account opening a new account and tr
 
 #### How are your private keys stored?
 
-* Can your keys be viewed using your old wallet?&#x20;
-* Does your old wallet have a way of displaying your private keys?&#x20;
-* Are your private keys stored online? (On the net in a "cloud backup"?) What encryption method was used to store your keys?
+* Can your keys be viewed using your current wallet?&#x20;
+* Does your previous wallet have a way of displaying your private keys?&#x20;
+* Are your private keys stored online? (ie. in a "cloud backup"?) Which encryption method was used to store your keys?
 
 While importing private keys into Xumm is certainly easy to do, you should consider why you are taking the risk of importing them into Xumm when there is a much safer option...🤔
 
