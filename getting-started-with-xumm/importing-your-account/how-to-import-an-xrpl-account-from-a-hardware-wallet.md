@@ -12,7 +12,13 @@ A "cold wallet" generates and stores an XRP Ledger account secret on a USB devic
 
 It is important that you understand how this works.
 
-By bringing your hardware wallet account into Xumm, you are changing the nature of how you plan to interact with the XRP Ledger.  Hardware wallets are largely about long term storage storing your crypto&#x20;
+By bringing your hardware wallet account into Xumm, you are changing the nature of how you plan to interact with the XRP Ledger.  Hardware wallets are largely about **long term storage** of your assets. Xumm is largely about participating in the the XRPL community.&#x20;
+
+By following these instructions, you will be able to access all of your XRPL assets stored in your&#x20;
+
+{% hint style="warning" %}
+By following these instructions, you will be able to access all of your XRPL assets stored in your&#x20;
+{% endhint %}
 
 &#x20;
 
