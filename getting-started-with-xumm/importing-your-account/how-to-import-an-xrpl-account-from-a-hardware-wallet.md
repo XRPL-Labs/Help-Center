@@ -32,7 +32,11 @@ We strongly recommend you read this article before continuing:
 [how-to-create-an-xrpl-account.md](../your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 {% endcontent-ref %}
 
-2\) Press the **Request** button on the main page of Xumm. You should see a screen that looks like this:
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+
+
+2\) Press the **Show account QR** button. You should see a screen that looks like this:
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,9 +58,13 @@ We strongly recommend you read this article before continuing:
 [...in-read-only-mode.md](...in-read-only-mode.md)
 {% endcontent-ref %}
 
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Importing your hardware wallet account into Xumm in read only mode **does not** require entering your mnemonic (private key) into Xumm. It only requires that you enter your r-address (public key).&#x20;
 {% endhint %}
+
+
 
 ### How it works
 
