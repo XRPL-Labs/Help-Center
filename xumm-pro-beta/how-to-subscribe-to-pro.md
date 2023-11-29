@@ -67,15 +67,21 @@ After you fill out the form, press the **Next** button.\
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-9\) You are all set!&#x20;
+9\) You are all set! Thank you for your order. We can't do what we do without your support.
 
-Here are a couple of things you should be aware of.
 
-* Most card orders are packaged and shipped out the next business day.&#x20;
-* Once your cards are shipped, you will receive an email with an Xumm Pro activation link. You will need to tap on the link to activate Pro on your device.
-* If you paid for your order with Xumm, you will receive instant access to Pro. No waiting. No hassle.
 
-### Subscribing to Xumm Pro (beta) from a desktop computer
+### Frequently asked questions
+
+#### When will the cards be shipped?
+
+Most card orders are usually packaged and shipped out the next business day.&#x20;
+
+#### &#x20;I purchased my order with a credit card but Pro is not working.
+
+Once your cards are shipped, you will receive an email with an Xumm Pro activation link. You will need to tap on the link to activate Pro on your device. Keep in mind, orders usually ship the next business day so you might have to wait for a day before your receive the email.
+
+#### I want to order Pro from a desktop computer
 
 If you prefer, we also offer a quick way to purchase Pro directly from a desktop computer.
 
@@ -83,6 +89,6 @@ Simply click on the following link and scan the displayed QR code with Xumm. &#x
 
 {% embed url="https://xrpl-labs.com/pro/" %}
 
-Xumm will automatically craft a transaction to automate the subscription process for you.
+#### If I don't like Xumm Pro can I get a refund?
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+Unfortunately we do not offer refunds on the cards or on Pro. (They are a package deal.) Due to the high cost of shipping, the cost associated with services like KYC and&#x20;
