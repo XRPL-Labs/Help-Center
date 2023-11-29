@@ -63,7 +63,7 @@ Note: A 10% premium applies (rounded to the nearest 5) for paying with a credit 
 
 After you fill out the form, press the **Next** button.\
 \
-8\) Enter your credit card inform then press, **Process Payment**.
+8\) Enter your credit card information in the form then press, **Process Payment**.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -91,4 +91,4 @@ Simply click on the following link and scan the displayed QR code with Xumm. &#x
 
 #### If I don't like Xumm Pro can I get a refund?
 
-Unfortunately we do not offer refunds on the cards or on Pro. (They are a package deal.) Due to the high cost of shipping, the cost associated with services like KYC and&#x20;
+Unfortunately we do not offer refunds on the cards or on Xumm Pro subscriptions. (They are a package deal.) Due to the high cost of shipping, the cost associated with services like KYC and the nature of the cards (they generate a key pair upon first use), refunds are just not possible.
