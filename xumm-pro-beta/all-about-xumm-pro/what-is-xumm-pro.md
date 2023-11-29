@@ -130,7 +130,7 @@ You can tap this link:
 
 or scan this QR code with Xumm:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 #### **Is there a way I can test Xumm Pro to see if I like it?**
 

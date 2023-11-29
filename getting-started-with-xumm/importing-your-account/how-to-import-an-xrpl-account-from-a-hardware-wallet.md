@@ -44,7 +44,7 @@ We strongly recommend you read this article before continuing:
 
 4\) Sign into XRPToolkit.com with your hardware wallet then choose the **Account** menu and select **Signers**.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 5\) In the **Assign Regular Key** section, press the QR code button in the _Regular key_ field, then scan the QR code from Xumm on your phone. (The one from Step 2 above.) Alternatively, you can manually enter your Xumm r-address in the _Regular key_ field.
 

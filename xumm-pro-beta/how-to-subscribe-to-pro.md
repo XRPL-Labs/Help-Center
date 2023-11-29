@@ -8,9 +8,7 @@ description: How to subscribe to Xumm Pro (Beta)
 
 Thank you for your interest Xumm Pro. We really do appreciate it! 🤗
 
-In this article we will explore how to subscribe to Xumm Pro (Beta).
-
-For a more in depth look into Xumm Pro, why you should subscribe and the answers to some frequently asked questions, check out this article:
+In this article we will explore how to subscribe to Xumm Pro (Beta) but for a more in depth look into Xumm Pro, why you should subscribe and the answers to some frequently asked questions, check out this article:
 
 {% content-ref url="all-about-xumm-pro/what-is-xumm-pro.md" %}
 [what-is-xumm-pro.md](all-about-xumm-pro/what-is-xumm-pro.md)
@@ -18,19 +16,27 @@ For a more in depth look into Xumm Pro, why you should subscribe and the answers
 
 ### Understanding the process
 
-In case you're interested, we originally had two different purchase flows in Xumm. (One for Xumm Pro and one for the Xumm (Tangem) cards.) The thing is, Xumm Pro always comes with 2 Xumm cards and when you purchase Xumm cards, they always come with a Pro subscription.  Why have two separate flows when one will do?&#x20;
+In case you're interested, we originally had two different purchase flows in Xumm. (One for Xumm Pro and one for our hardware wallets, (Xumm cards)) The thing is, Xumm Pro always comes with 2 Xumm cards and when you purchase Xumm cards, they always come with a Pro subscription, so why have two separate flows when one will do?&#x20;
 
-So you'll notice the subscription process takes you through the Xumm card purchase flow. This is how it was designed to work.&#x20;
+So you'll notice that the subscription process takes you through the Xumm card purchase flow. This is how it was designed to work.&#x20;
 
 ### **How to subscribe**
 
-1\) You can order the cards from the [Get cards (Tangem) xApp](https://xumm.app/detect/xapp:xumm.tangem-order) from within Xumm or by launching Xumm, pressing the **xApps** button on the bottom of the screen then choosing **Get cards (Tangem)**.
+1\) You can order the cards from the [Get cards xApp](https://xumm.app/detect/xapp:xumm.tangem-order) from within Xumm or by launching Xumm, pressing the **xApps** button (on the bottom of the main screen) then choosing **Get cards**.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-2\) Next, choose how many cards you'd like to receive along with you Pro subscription. Most people go with the **2 Xumm Tangem Card + Pro** option, but you choose 2,3,4 or 5 depending on your needs. Just press the **Select** under the one you would like.
 
-<figure><img src="../.gitbook/assets/Tangem order -1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Get cards 1.png" alt=""><figcaption></figcaption></figure>
+
+2\) Press the **Order cards** button...&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+##
+
+Get cardNext, choose how many cards you'd like to receive along with you Pro subscription. Most people go with the **2 Xumm Tangem Card + Pro** option, but you choose 2,3,4 or 5 depending on your needs. Just press the **Select** under the one you would like.
+
+
 
 3\) After filling out your information, you get to the **Payment** section.
 
