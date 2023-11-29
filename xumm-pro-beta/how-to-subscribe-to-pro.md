@@ -30,43 +30,50 @@ So you'll notice that the subscription process takes you through the Xumm card p
 
 2\) Press the **Order cards** button...&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Chose the number of cards you would like to receive along with your Pro subscription. Most people go with the **2x Card** option, but you choose 2,3,4 or 5 depending on your needs.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\) Scroll down and decide whether you would like to purchase XRP with your order.
 
-Note: If you like, you can buy enough XRP to cover the account reserve for one of your new card accounts along with additional XRP for saving/spending. &#x20;
+Note: There is a 10% premium (round up to the nearest 5) for this service.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-5\) Choose which country you would like the cards sent to by tapping the down arrow in the **Shipping options** section, then choose _Standard_ or _Express_ delivery. When done press the **Continue to Payment** button.
+5\) Choose which country you would like the cards sent to by tapping the down arrow in the **Shipping options** section, then choose _Standard_ or _Express_ delivery. When done, press the **Continue to Payment** button.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 6\) Choose how you would like to pay for your cards and Pro subscription.
 
-If you are not going to purchase additional XRP, paying with Xumm (in XRP) is quick, easy and will save you money.
+If you are not going to purchase additional XRP, paying with Xumm (in XRP) is quick, easy and will save you money. (We recommend this option.)
 
 If you are purchasing additional XRP, you are going to choose to pay with a Credit Card.
 
-Note: A 16% premium applies)
+Note: A 10% premium applies (rounded to the nearest 5) for paying with a credit card.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+7\) If you choose to pay with a Credit card, you will receive this screen:
+
+<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">\
 
 
+After you fill out the form, press the **Next** button.\
+\
+8\) Enter your credit card inform then press, **Process Payment**.
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+9\) You are all set!&#x20;
 
-Just fill out the form and your credit card information and tap the **Pay** button.
+Here are a couple of things you should be aware of.
 
-{% hint style="info" %}
-Note: If you pay with XRP, you will receive instant access to Pro. No waiting. No hassle.
-
-If you pay with a credit card, you will receive your Pro activation email when **the cards ship from our office**. This normally happens the next business day, but depending on the volume of orders, it might take two business days before the cards ship and you receive your activation email.
-{% endhint %}
+* Most card orders are packaged and shipped out the next business day.&#x20;
+* Once your cards are shipped, you will receive an email with an Xumm Pro activation link. You will need to tap on the link to activate Pro on your device.
+* If you paid for your order with Xumm, you will receive instant access to Pro. No waiting. No hassle.
 
 ### Subscribing to Xumm Pro (beta) from a desktop computer
 
