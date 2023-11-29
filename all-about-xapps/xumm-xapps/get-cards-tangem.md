@@ -28,9 +28,9 @@ The Get Cards xApp is a utility that allows you to:
 * purchase [**Xumm Pro (Beta)**](xumm-pro-beta.md)
 * purchase a limited amount of XRP&#x20;
 
-### **How do I find it**
+### **How do I find it?**
 
-Simply touch this link:
+Tap this link:
 
 [Get Cards xApp](https://xumm.app/detect/xapp:xumm.tangem-order)
 
@@ -54,11 +54,17 @@ If you decide to go with the 5 card option, the team will even sign one for you!
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3\) You'll also notice there is an option to cover the [**account reserve**](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md) for one card. that the  and decide whether you would like to purchase XRP with your order.
+3\) You'll also notice there is an option to cover the [**account reserve**](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md) for one card. This option allows you to purchase 10 XRP to meet the account reserve requirement of the XRPL.&#x20;
+
+There is also the option to purchase additional XRP if you like.
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Note: There is a 10% premium (round up to the nearest 5) for this service.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
 
 5\) Choose which country you would like the cards sent to by tapping the down arrow in the **Shipping options** section, then choose _Standard_ or _Express_ delivery. When done, press the **Continue to Payment** button.
 
