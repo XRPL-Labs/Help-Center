@@ -61,7 +61,7 @@ Press the **Go back** button to get back to the main screen of Xumm Pro.
 
 After you enter your name in the **Setup you profile** page,
 
-![](<../../../../.gitbook/assets/image (3) (2) (1).png>)
+![](<../../../../.gitbook/assets/image (3) (2) (1) (1).png>)
 
 Xumm will compare it to the KYC document that you submitted during the KYC process. While the name that you choose does not need to match the KYC document exactly, it should be very close, otherwise you will receive this message:
 
@@ -83,7 +83,7 @@ Exceptions will be considered on a case by case basis.
 
 After you upload your picture in the **Setup you profile** page,
 
-![](<../../../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1) (1) (1) (3).png>)
 
 Xumm will compare it to the KYC document that you submitted during the KYC process. The image that you upload should be a picture of you, otherwise you will receive this message:
 
