@@ -1,5 +1,6 @@
 ---
 description: All about the Get Cards xApp
+coverY: 0
 ---
 
 # Get cards
