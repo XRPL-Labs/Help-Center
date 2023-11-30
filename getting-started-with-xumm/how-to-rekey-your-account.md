@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/Large rock with Key.jpg
 coverY: 0
 ---
 
-# How to Re-key an XRPL Account
+# How to Rekey an XRP Ledger (XRPL) Account
 
 ### Set / Add a regular key pair to your XRPL account
 
@@ -18,11 +18,25 @@ It is often used to protect an account by securing the master key and using the 
 2. The regular key account does not need to be activated so has no value in and of itself
 3. The regular key can be removed or swapped out as needed
 
-### Concept and implementation
+### Concept and Implementation
+
+
+
+The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on  behalf of another account.&#x20;
+
+It is often used to protect an account by securing the master key and using the regular key in its place. This has multiple advantages;
+
+1. The primary account is safer because the master key does not need to be generally available
+2. The regular key account does not need to be activated so has no value in and of itself
+3. The regular key can be removed or swapped out as needed
+
+### Example
 
 A good example of how this works would be to look at the recommended configuration of a pair of [Xumm (Tangem) cards](../xumm-tangem-cards/xumm-tangem-cards.md).
 
-In this case, you have a Primary account on one card and you have a Signing account on another card. When you run the [Tangem Backup xApp](broken-reference), it creates a "link" between the two accounts which is called a regular key pair. It connects the Primary account to the Signing account which allows you to sign transactions on the Primary account **using the Signing account**.
+In this case, you have a Primary account on one card and you have a Signing account on another card.
+
+When you run the [Tangem Backup xApp](broken-reference), it creates a "link" between the two accounts which is called a regular key pair. It connects the Primary account to the Signing account which allows you to sign transactions on the Primary account **using the Signing account**.
 
 The following steps explain how to manually configure a regular key pair between two XRPL accounts.
 
