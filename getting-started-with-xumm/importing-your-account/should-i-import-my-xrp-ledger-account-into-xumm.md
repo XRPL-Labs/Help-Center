@@ -2,7 +2,7 @@
 description: Importing your account secret might not make sense
 ---
 
-# Should I import my XRPL account into Xumm?
+# Should I import my XRP Ledger account into Xumm?
 
 Xumm is an excellent application for making payments on the XRP Ledger, interacting with the XRPL ecosystem and for safely storing your private keys. For many people, moving their existing XRPL accounts over to Xumm makes a lot of sense. Xumm is convenient, easy to use, and very secure, so why not import your account into Xumm to take advantage of all these features...?
 
@@ -69,8 +69,8 @@ A regular key will "link" your hardware wallet account to a second XRPL account 
 
 If this is what you would like to do, here are the instructions:
 
-{% content-ref url="how-to-import-an-xrpl-account-from-a-hardware-wallet.md" %}
-[how-to-import-an-xrpl-account-from-a-hardware-wallet.md](how-to-import-an-xrpl-account-from-a-hardware-wallet.md)
+{% content-ref url="how-to-import-an-xrp-ledger-account-from-a-hardware-wallet.md" %}
+[how-to-import-an-xrp-ledger-account-from-a-hardware-wallet.md](how-to-import-an-xrp-ledger-account-from-a-hardware-wallet.md)
 {% endcontent-ref %}
 
 #### Is there a better alternative?
