@@ -4,22 +4,31 @@ description: Importing your account secret might not make sense
 
 # Should I import my XRP Ledger account into Xumm?
 
-Xumm is an excellent application for making payments on the XRP Ledger, interacting with the XRPL ecosystem and for safely storing your private keys. For many people, moving their existing XRPL accounts over to Xumm makes a lot of sense. Xumm is convenient, easy to use, and very secure, so why not import your account into Xumm to take advantage of all these features...?
+Xumm is an excellent application for making payments on the XRP Ledger, interacting with the XRPL ecosystem and for safely storing your private keys. For many people, moving their existing XRPL accounts over to Xumm seems like a good idea. Xumm is convenient, easy to use, and very secure, so why not import your account into Xumm to take advantage of all these features...?
 
 ### Hardware wallets vs Xumm
 
-Hardware wallets are largely about **long term storage** of your assets. A hardware wallet stores the  private keys for your XRP Ledger account on a device that is not connected to the internet. You can only sign transactions on your XRPL account if you are in possession of the hardware device. By storing your private keys off line, it limits some potential attack vectors on your account.
+Hardware wallets are largely about **long term storage** of your assets.
 
-Xumm is largely about enabling you to interact with the XRP Ledger ecosystem. Xumm stores your private keys for your XRP Ledger account on your mobile device. (Which is connected to the internet.) It allows you to sign transactions on your XRPL account on your phone. By storing your private keys on a device that is "on line", it exposes your account to other types of potential attack vectors.&#x20;
+A hardware wallet stores the  private keys for your XRP Ledger account on a device that is not connected to the internet. Transactions can only be signed on your XRPL account if the signer is in possession of the hardware device. Storing private keys offline limits some potential attack vectors on an account.
+
+Xumm is largely about enabling interaction with the XRP Ledger ecosystem.
+
+Xumm stores your private keys for your XRP Ledger account on your mobile device. (Which is connected to the internet.) It allows you to sign transactions on your XRPL account on your phone. By storing your private keys on a device that is "on line", it exposes your account to other types of potential attack vectors.&#x20;
 
 ### Potential risks...
 
-Any time you enter your private keys into any software there are potential risks. Spyware, malware, key-loggers, screen capture software, viruses, and many more attack vectors can come into play when entering your private keys. If you are planning on importing your existing XRPL account, please take the time to consider some of the risks associated with doing this.
+Any time private keys are entered into any software there are potential risks. Spyware, malware, key-loggers, screen capture software, viruses, and many more attack vectors can come into play when entering your private keys.
 
-#### How were your private keys generated?&#x20;
+If you are planning on importing an existing XRPL account into Xumm, please take the time to consider some of the risks associated with doing this.
 
-* Do you trust the company/service that generated your keys?
+#### \<Insert callout>
+
+#### How were the private keys generated?&#x20;
+
+* Do you trust the company/service that generated the keys?
 * What was the source of entropy that was used to generate your keys?
+  * [Entropy is the randomness that makes private keys safe](https://en.wikipedia.org/wiki/Entropy)
 * Has that source been audited?&#x20;
 
 #### How are your private keys stored?
