@@ -20,13 +20,15 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 2\) Select the "Add Funds" option.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Choose the fiat currency you would like to cash out. (In this example we will use USD)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4\) Now that you have a Trust Line configured in your Gatehub account for the fiat currency you wish to off-ramp, launch Xumm on your mobile device.
+4\) You will need to keep this information handy for the next step in the process.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Sending fiat to your Gatehub account
 
