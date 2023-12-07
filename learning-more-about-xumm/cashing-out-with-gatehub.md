@@ -20,19 +20,19 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 2\) Select the "Add Funds" option.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Choose the fiat currency you would like to cash out. (In this example we will use USD)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4\) You will need to keep this information handy for the next step in the process.
+4\) Now that you have created a Trust Line in your Gatehub account, you are ready to launch Xumm.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+### Sending fiat to your bank account
 
-### Sending fiat to your Gatehub account
+1\) Launch Xumm and tap the Gatehub issued currency you would like to send to your bank account. (In this example, we are sending USD.)
 
-1\)&#x20;
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 o get started, you need to open an acquire the tokens in the currency you desire.&#x20;
 
