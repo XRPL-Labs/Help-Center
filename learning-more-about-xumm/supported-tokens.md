@@ -1,5 +1,5 @@
 ---
-description: Which tokens does Xumm support?
+description: Which tokens does Xaman support?
 cover: >-
   https://images.unsplash.com/photo-1533988902751-0fad628013cb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx0b2tlbnN8ZW58MHx8fHwxNjc0NTczMTM3&ixlib=rb-4.0.3&q=80
 coverY: 0
@@ -7,19 +7,19 @@ coverY: 0
 
 # 🪙 Supported tokens
 
-Xumm is exclusively an XRP Ledger wallet. It supports XRP and all of the 8300+ tokens issued on the XRPL.
+Xaman (formerly known as Xumm) supports both the XRP Ledger and the Xahau blockchain. Any tokens issued on either network is supported.
 
-### **Why doesn’t Xumm support other blockchains?**
+### **Why doesn’t Xaman support other blockchains?**
 
-The XRPL is our passion and our specialty and while there are other blockchain technologies that might show promise or potential, we are committed to developing the XRPL ecosystem. Splitting our focus between various blockchains or becoming a “jack of all trades” wallet does help the XRPL community. &#x20;
+The XRPL protocol is our passion and our specialty and while there are other blockchain technologies that might show promise or potential, we are committed to developing the XRPL ecosystem. Splitting our focus between various blockchains or becoming a “jack of all trades” wallet is just not in line with our desire to support the XRPL community.
 
 ### **Do you plan to support other blockchains?**
 
-No. Our focus is the XRP Ledger.
+No. Our focus is the XRP Ledger and the Xahau network.
 
 ### **… But I see BTC, ETH, SGB, FLR, etc. tokens on the XRPL. How does that make sense if you don't support those networks?**
 
-Anyone can create a token on the XRP Ledger. (Xumm actually contains an xApp called _**Token Creator**_ to walk you through the process.)
+Anyone can create a token on the XRP Ledger. (Xaman actually contains an xApp called _**Token Creator**_ to walk you through the process.)
 
 The BTC/ETH/SGB/FLR tokens that were issued on the XRPL are not the same as the native BTC/ETH/SGB/FLR tokens on their respective blockchains.&#x20;
 
@@ -59,4 +59,4 @@ XRPL Services Tokens page
 
 ### **Which XRPL tokens are you affiliated with and which ones do you endorse?**
 
-_Xumm is **not** affiliated with any token on the XRPL and we **do not** endorse any of them._
+_Xaman is **not** affiliated with any token on the XRPL or the Xahau network and we **do not** endorse any of them._
