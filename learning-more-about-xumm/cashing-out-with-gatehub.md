@@ -10,9 +10,23 @@ For years, Gatehub has been a strong member of the XRP Ledger community and has 
 
 ### Gatehub's issued stable coins
 
-GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency. They have also issued over a dozen different tokens on the XRPL, including USDT, USDC, GALA, Flare, SGB, EUR, USD, GBP and several others. All of their issued currencies will be honored by them as the actual asset they represent.&#x20;
+GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency. They have also issued over a dozen different tokens on the XRPL, including USDT, USDC, GALA, Flare, SGB, EUR, USD, GBP and several others. All of their issued currencies will be honored by them as the actual asset they represent.  The on/off-ramp feature requires the use of Gatehub's issued coins.
 
-To get started, you need to acquire the tokens in the currency you desire.&#x20;
+### Getting started
+
+1\) Open and account on Gatehub and activate a new account.  &#x20;
+
+{% embed url="https://gatehub.net/" %}
+
+2\) Select the "Add Funds" option.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+3\) Choose the fiat currency you would like to cash out. (In this example we will use USD)
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+To get started, you need to open an acquire the tokens in the currency you desire.&#x20;
 
 For example, let's say that you have 10 XRP and you could like to convert them into Euros. You would exchange your XRP for Gatehub issued EUR on the XRPL DEX. (There are various ways to do this, the DEX Trade xApp is one of the easiest.
 
