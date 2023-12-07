@@ -26,7 +26,7 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4\) Now that you have created a Trust Line in your Gatehub account, you are ready to launch Xumm.
+4\) Now that you have created a Trust Line for your chosen currency in your Gatehub account, you are ready to launch Xumm.
 
 ### Sending fiat to your bank account
 
@@ -38,9 +38,9 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-3\) Enter your the information for your bank.
+3\) Enter your contact information and the appropriate information about your bank, then press the **Continue** button.
 
-
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 
 
