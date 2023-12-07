@@ -26,7 +26,13 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-To get started, you need to open an acquire the tokens in the currency you desire.&#x20;
+4\) Now that you have a Trust Line configured in your Gatehub account for the fiat currency you wish to off-ramp, launch Xumm on your mobile device.
+
+### Sending fiat to your Gatehub account
+
+1\)&#x20;
+
+o get started, you need to open an acquire the tokens in the currency you desire.&#x20;
 
 For example, let's say that you have 10 XRP and you could like to convert them into Euros. You would exchange your XRP for Gatehub issued EUR on the XRPL DEX. (There are various ways to do this, the DEX Trade xApp is one of the easiest.
 
