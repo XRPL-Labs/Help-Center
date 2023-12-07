@@ -34,9 +34,13 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-o get started, you need to open an acquire the tokens in the currency you desire.&#x20;
+2\) Tap the **Withdraw US Dollar** button.
 
-For example, let's say that you have 10 XRP and you could like to convert them into Euros. You would exchange your XRP for Gatehub issued EUR on the XRPL DEX. (There are various ways to do this, the DEX Trade xApp is one of the easiest.
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+3\) Enter your the information for your bank.
+
+
 
 
 
