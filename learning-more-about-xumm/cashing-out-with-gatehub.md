@@ -20,11 +20,11 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 2\) Select the "Add Funds" option.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Choose the fiat currency you would like to cash out. (In this example we will use USD)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\) Now that you have created a Trust Line for your chosen currency in your Gatehub account, you are ready to launch Xumm.
 
@@ -32,19 +32,21 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 1\) Launch Xumm and tap the Gatehub issued currency you would like to send to your bank account. (In this example, we are sending EUR.)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Tap the **Withdraw Euro** button.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Enter your contact information and the appropriate information about your bank, then press the **Continue** button.
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
+4\) Enter the amount you would like to send to your bank. &#x20;
 
+(In our example, we are sending 10 Euro.)
 
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
