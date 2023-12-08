@@ -20,11 +20,11 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 2\) Select the "Add Funds" option.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Choose the fiat currency you would like to cash out. (In this example we will use USD)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\) Now that you have created a Trust Line for your chosen currency in your Gatehub account, you are ready to launch Xumm.
 
@@ -32,11 +32,11 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 1\) Launch Xumm and tap the Gatehub issued currency you would like to send to your bank account. (In this example, we are sending EUR.)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Tap the **Withdraw Euro** button.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Enter your contact information and the appropriate information about your bank, then press the **Continue** button.
 
@@ -46,33 +46,13 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 (In our example, we are sending 10 Euro.)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 5\) Review your transaction to make sure it is correct. Press **Continue** when done.
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
+6\) Review the transaction again and sign it will Xumm.
 
-
-### Stream lining the "cash out" process
-
-You many have noticed a new integration we added to Xumm recently.
-
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-It is true, we have expanded our partnership with Gatehub to make off boarding your crypto a quick, easy and seamless process. The article walks you through the steps for doing this and explains how this works.
-
-### Gatehub's issued currencies
-
-
-
-### Is this a new feature?
-
-Gatehub has always offered the ability to convert XRP (and their issued tokens) into fiat (EUR and USD), but now this service has been easily integrated directly into Xumm.&#x20;
-
-
-
-### How does it work?
-
-Gatehub has issued several tokens on the XRP Ledger. If you were to purchase any of these tokens,&#x20;
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
