@@ -4,6 +4,20 @@ description: How can I convert my XRP into fiat?
 
 # Cashing out your XRP
 
+There are several options for off-ramping funds from your XRP Ledger account managed by Xaman. (formerly Xumm)
+
+### Off-ramping fiat
+
+Gatehub has issued several stablecoins on the XRP Ledger. If your plan is to off-ramp fiat such as Euro, USD, GBP, etc. directly to your bank account, you can simply exchange your XRP for the desire stablecoin then send the send it to you bank via our integration with Gatehub.
+
+Here is how:
+
+{% content-ref url="cashing-out-with-gatehub.md" %}
+[cashing-out-with-gatehub.md](cashing-out-with-gatehub.md)
+{% endcontent-ref %}
+
+### Off-ramping XRP
+
 If you are interested in converting some of your XRP into fiat, you have several options.
 
 ### **Option 1**
