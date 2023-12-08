@@ -12,21 +12,19 @@ For years, Gatehub has been a strong member of the XRP Ledger community and has 
 
 GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency. They have also issued over a dozen different tokens on the XRPL, including USDT, USDC, GALA, Flare, SGB, EUR, USD, GBP and several others. All of their issued currencies will be honored by them as the actual asset they represent.  The on/off-ramp feature requires the use of Gatehub's issued coins.
 
-### Getting started
+Check out this article for more information:
 
-1\) Open an account at Gatehub and activate a new account.  &#x20;
+{% embed url="https://support.gatehub.net/hc/en-us/articles/360021238434-What-are-issuances-IOUs-" %}
+
+### Getting started - Open an account with Gatehub
+
+1\) Open an account at Gatehub and activate it with 10 XRP.  &#x20;
 
 {% embed url="https://gatehub.net/" %}
 
-2\) Select the "Add Funds" option.
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-3\) Choose the fiat currency you would like to cash out.&#x20;
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-4\) Now that you have created a Trust Line for your chosen currency in your Gatehub account, you are ready to launch Xumm.
+{% hint style="info" %}
+Part of the process of opening an account includes going through the KYC process. You must successfully complete this process via the Gatehub registration in order for our service to work.
+{% endhint %}
 
 ### Sending fiat to your bank account
 
@@ -60,9 +58,15 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 #### How long does it take for me to get my money?
 
-It could take anywhere from 1 day to 3 days for your funds to arrive in your bank account.&#x20;
+It could take anywhere from 1 to 3 business days for your funds to arrive in your bank account.&#x20;
 
+{% hint style="info" %}
+Ultimately this depends on how long Gatehub takes to process the transaction, and how long your bank takes to process it on their end. &#x20;
+{% endhint %}
 
+#### Is there anyway I can track the progress of the transfer?
+
+Unfortunately there is no way to do this. Xumm does not receive any information about the transfer after it has been initiated.
 
 #### Who do I contact if there are delays in getting my money?
 
