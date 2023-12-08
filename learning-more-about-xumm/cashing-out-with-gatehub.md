@@ -14,7 +14,7 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 ### Getting started
 
-1\) Open and account on Gatehub and activate a new account.  &#x20;
+1\) Open an account at Gatehub and activate a new account.  &#x20;
 
 {% embed url="https://gatehub.net/" %}
 
@@ -22,7 +22,7 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3\) Choose the fiat currency you would like to cash out. (In this example we will use USD)
+3\) Choose the fiat currency you would like to cash out.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,23 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-6\) Review the transaction again and sign it will Xumm.
+6\) Review the transaction again and sign it with Xumm.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### Frequently Asked Questions
+
+#### How long does it take for me to get my money?
+
+It could take anywhere from 1 day to 3 days for your funds to arrive in your bank account.&#x20;
+
+
+
+#### Who do I contact if there are delays in getting my money?
+
+Gatehub support can be reached [here](https://support.gatehub.net/hc/en-us/requests/new) if you have any questions about your transfer or:
+
+{% embed url="https://support.gatehub.net/hc/en-us/requests/new" %}
+
+
 
