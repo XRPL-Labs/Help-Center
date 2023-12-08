@@ -42,13 +42,15 @@ GateHub is a payment gateway platform that allows you to buy, sell, trade and st
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-4\) Enter the amount you would like to send to your bank. &#x20;
+4\) Enter the amount you would like to send to your bank.  Press **Continue** when done.
 
 (In our example, we are sending 10 Euro.)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+5\) Review your transaction to make sure it is correct. Press **Continue** when done.
 
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 
 
