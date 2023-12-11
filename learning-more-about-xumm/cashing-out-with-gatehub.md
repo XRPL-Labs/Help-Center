@@ -40,6 +40,8 @@ Part of the process of opening an account includes going through the KYC process
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
+Note: The information you enter into this screen will be saved for future use. The Contact Name is the name you are going to give this information. Most people would call it, "Bank of American Account" or "Deutsche Bank Account" or "Whatever bank you are going to send your fiat to account".
+
 4\) Enter the amount you would like to send to your bank.  Press **Continue** when done.
 
 (In our example, we are sending 10 Euro.)
