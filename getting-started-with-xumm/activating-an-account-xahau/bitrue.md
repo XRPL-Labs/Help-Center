@@ -30,7 +30,7 @@ Press the the **Withdraw XAH** button.&#x20;
 
 4\) If applicable, enter your Email verification code **and** your Google Authenticator code then press the **Confirm** button.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 5\) Review your transaction and press the **Confirm** button.
 

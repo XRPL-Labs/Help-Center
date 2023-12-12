@@ -29,7 +29,7 @@ Or
 
 1. Sign in to XRPL.Services with the account that owns the NFT
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (3).png>)
 
 Navigate to _XRPL Tools > Raw JSON Transactions > NFTokenBurn Template_
 
@@ -54,7 +54,7 @@ Submit the transaction to Xumm via the button under the code
 
 Update the Memo if necessary and select Confirm
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 A QR Code screen appears
 

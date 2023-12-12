@@ -42,7 +42,7 @@ or you can find it by pressing the **xApps** button at the bottom of the main sc
 
 1\) Launching the [Get cards xApp](https://xumm.app/detect/xapp:xumm.tangem-order) displays the following screen:
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Press the **Order cards** button...&#x20;
 
@@ -78,7 +78,7 @@ If you are purchasing additional XRP, you are going to choose to pay with a Cred
 
 Note: A 10% premium applies (rounded to the nearest 5) for paying with a credit card.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 7\) If you choose to pay with a Credit card, you will receive this screen:
 
