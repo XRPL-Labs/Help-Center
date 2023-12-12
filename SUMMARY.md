@@ -27,6 +27,7 @@
   * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
   * [From Bitstamp](getting-started-with-xumm/activating-an-account/from-bitstamp.md)
 * [Importing your account](getting-started-with-xumm/importing-your-account/README.md)
+  * [Importing an XRPL account to the Xahau](getting-started-with-xumm/importing-your-account/importing-an-xrpl-account-to-the-xahau.md)
   * [Should I import my XRP Ledger account into Xumm?](getting-started-with-xumm/importing-your-account/should-i-import-my-xrp-ledger-account-into-xumm.md)
   * [...with Secret Numbers](getting-started-with-xumm/importing-your-account/...with-secret-numbers.md)
   * [...with a Family Seed](getting-started-with-xumm/importing-your-account/...with-a-family-seed.md)
