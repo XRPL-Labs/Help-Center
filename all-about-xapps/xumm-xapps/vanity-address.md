@@ -20,6 +20,12 @@ For example, can you guess what our favorite movie is?
 
 This xApp is perfect for helping you customize your public imagine by picking a unique, individual r-address on the XRP Ledger.
 
+### Costs
+
+The normal cost of a vanity account is € 50 per account.&#x20;
+
+If you subscribe to Xumm Pro (Beta), you receive a 20% discount on all Vanity purchases which brings the price down to € 40 per vanity account.
+
 ### How it works
 
 You may have noticed in the Overview section, we mentioned we have over 400 billion pre-mined accounts. The 'pre-mined' part means that we have tested and stored the private keys for all of those accounts.  If you would like to purchase one of them, we can't just give you the private keys for it. If we did, how could you trust us to get rid of them after we gave them to you? (Well, we are trust worthy, but still, you can't trust anyone when it comes to your private keys.)
