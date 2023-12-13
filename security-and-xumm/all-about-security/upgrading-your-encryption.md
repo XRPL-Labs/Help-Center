@@ -26,7 +26,7 @@ Launch Xumm and press **Settings** then **Accounts**:
 
 <figure><img src="../../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
 
-Press the ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) button. Xumm will list your accounts that are eligible to be upgraded.&#x20;
+Press the ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) button. Xumm will list your accounts that are eligible to be upgraded.&#x20;
 
 <figure><img src="../../.gitbook/assets/Encryption - 2.png" alt=""><figcaption></figcaption></figure>
 
