@@ -88,5 +88,10 @@ Your new Vanity account needs to be activated with at least 10 XRP. Press the **
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
+Sign the transaction to activate your new Vanity account.
 
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
+Your new Vanity account should now be activated. You should be able to sign transactions on your new account with your regular key account, and the master key for your Vanity account should now be disabled. Press **Next** to continue.
+
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
