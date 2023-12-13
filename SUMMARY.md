@@ -115,7 +115,7 @@
 * [Xumm xApps](all-about-xapps/xumm-xapps/README.md)
   * [Account Worth](all-about-xapps/xumm-xapps/account-worth.md)
   * [Account Merge](all-about-xapps/xumm-xapps/account-merge.md)
-  * [Vanity Address](all-about-xapps/xumm-xapps/vanity-address.md)
+  * [Vanity Address xApp](all-about-xapps/xumm-xapps/vanity-address.md)
   * [Get Cards](all-about-xapps/xumm-xapps/get-cards-tangem.md)
   * [DEX Trade](all-about-xapps/xumm-xapps/dex-trade.md)
     * [The price difference between selling and buying is too high](all-about-xapps/xumm-xapps/dex-trade/the-price-difference-between-selling-and-buying-is-too-high.md)

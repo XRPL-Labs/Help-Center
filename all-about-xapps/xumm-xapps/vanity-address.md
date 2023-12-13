@@ -2,7 +2,7 @@
 description: What is a Vanity address and how do I get one?
 ---
 
-# Vanity Address
+# Vanity Address xApp
 
 ### Overview
 
@@ -12,11 +12,11 @@ The Vanity Address xApp lets you choose from over **400** **billion** pre-mined 
 
 For example, can you guess what our favorite movie is?
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ... or our favorite band?
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This xApp is perfect for helping you customize your public imagine by picking a unique, individual r-address on the XRP Ledger.
 
@@ -58,9 +58,11 @@ Note: This is the part where we select the regular key account.
 
 Choose the account that will be used to sign transactions for your new Vanity account then press **Next**.
 
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+Read through each section and make sure you understand them.
+
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 
 
