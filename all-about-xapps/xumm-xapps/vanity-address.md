@@ -16,7 +16,7 @@ For example, can you guess what our favorite movie is?
 
 ... or our favorite band?
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This xApp is perfect for helping you customize your public imagine by picking a unique, individual r-address on the XRP Ledger.
 
@@ -64,11 +64,11 @@ Note: This is the part where we select the regular key account.
 
 Choose the account that will be used to sign transactions for your new Vanity account then press **Next**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Read through each section and make sure you understand them. You have to check each box then press the **Sign** button.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will need to sign the transaction to confirm you understand and accept the conditions.
 
@@ -76,7 +76,7 @@ You will need to sign the transaction to confirm you understand and accept the c
 
 Press the **Next** button.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Press the **Buy Now** button to purchase your Vanity account.&#x20;
 
@@ -102,6 +102,16 @@ Your new Vanity account should now be activated. You should be able to sign tran
 
 <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-
+The final screen of the process explains how to add your account into Xumm in read only mode.
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+Press the **Copy address** button, then exit the xApp and follow the instructions in this article to import your new Vanity accout into Xumm.
+
+{% embed url="https://help.xumm.app/app/getting-started-with-xumm/importing-your-account/...in-read-only-mode" %}
+
+### Frequently Asked Questions
+
+#### You have almost half a trillion r-addresses and their private keys, have you ever had any collisions?
+
+Actually, we have never checked, but the chances of us stumbling across an existing key pair is **very** remote. It has taken us years to generate the existing key pairs we have. Even if we could generate 390 trillion key pairs per hour, 24 hours per day, 7 days per week, 365 days per year, it would take about 99 quadrillion years to go through all 340 undecillion possibilities. The chances of a collision is practically impossible.&#x20;
