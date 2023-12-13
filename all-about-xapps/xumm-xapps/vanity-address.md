@@ -60,10 +60,12 @@ Choose the account that will be used to sign transactions for your new Vanity ac
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Read through each section and make sure you understand them.
+Read through each section and make sure you understand them. You have to check each box then press the **Sign** button.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+You will need to sign the transaction to confirm you understand and accept the conditions.
 
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
