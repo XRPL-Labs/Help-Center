@@ -22,13 +22,21 @@ This xApp is perfect for helping you customize your public imagine by picking a 
 
 ### How it works
 
-You may have noticed in the Overview section, we mentioned we have over 400 billion pre-mined accounts. The 'pre-mined' part means that we have tested and stored the private keys for all of those accounts.  If you would like to purchase one of them from us, we can't simply just give you the private keys for your desired account. If we did, how could you trust us to get rid of them after we gave them to you? (Well, we are trust worthy, but still, you can't trust anyone when it comes to your private keys.)
+You may have noticed in the Overview section, we mentioned we have over 400 billion pre-mined accounts. The 'pre-mined' part means that we have tested and stored the private keys for all of those accounts.  If you would like to purchase one of them, we can't just give you the private keys for it. If we did, how could you trust us to get rid of them after we gave them to you? (Well, we are trust worthy, but still, you can't trust anyone when it comes to your private keys.)
 
-The solution to this lies in the XRP Ledger iteself. One of the&#x20;
+The solution to this conundrum lies in the XRP Ledger itself. One of the great features of the XRPL is the ability to 're-key' an account. An XRP Ledger account can authorize a secondary key pair, called a _regular key pair_. After doing so, you can use either the master key pair or the regular key to authorize transactions.&#x20;
 
-&#x20;
+When you purchase a Vanity account, we configure a regular key pair pointing to another you already own. We then disable the master key for the Vanity account, meaning we will never be able to sign with it. Only you will be able to, with the key pair (your account secret) belonging to the account we re-keyed to.
 
 
+
+{% hint style="warning" %}
+Hint!&#x20;
+
+Before you decide to purchase a Vanity account, you should already have an activated XRP Ledger account that will be used to sign transactions on you account.
+{% endhint %}
+
+### &#x20;How to use the xApp
 
 Just launch the xApp by tapping here:
 
@@ -44,11 +52,11 @@ When you find an address that you like, just tap the **Buy** button beside it.
 
 
 
-{% hint style="info" %}
-Technical explanation:
+{% hint style="warning" %}
+Note: This is the part where we select the regular key account.
 {% endhint %}
 
-
+Choose the account that will be used to sign transactions for your new Vanity account then press **Next**.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
