@@ -76,3 +76,17 @@ Press the **Buy Now** button to purchase your Vanity account.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+Review and sign the transaction to purchase your Vanity address.
+
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+Congratulations! You just purchased your first Vanity address. Press **Next** to continue.
+
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+Your new Vanity account needs to be activated with at least 10 XRP. Press the **Activate vanity address** to continue.
+
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+
+
