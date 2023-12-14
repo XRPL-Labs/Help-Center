@@ -129,6 +129,7 @@
     * [How to get rid of tokens](all-about-xapps/xrpl-services/token-trasher/how-to-get-rid-of-tokens.md)
   * [Escrow creator](all-about-xapps/xrpl-services/escrow-creator.md)
   * [Token creator](all-about-xapps/xrpl-services/token-creator.md)
+  * [Xahau Import](all-about-xapps/xrpl-services/xahau-import.md)
 * [XRP Community](all-about-xapps/xrp-community/README.md)
   * [Peerkat NFT viewer](all-about-xapps/xrp-community/peerkat-nft-viewer.md)
   * [CasinoCoin Lobby](all-about-xapps/xrp-community/casinocoin-lobby.md)
