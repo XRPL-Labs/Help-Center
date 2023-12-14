@@ -23,10 +23,22 @@ As long as both of these requirements are met, this utility will "clone" your XR
 
 Launch the [Xahau Import xApp](https://xumm.app/detect/xapp:nixer.xahauimport).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 You must accept the Terms and Conditions and the Privacy Policy before you continue. Press the **Next** button to continue.
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 Select the account you would like to clone on to the Xahau network, then press **Next** to continue.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Press the **Excute AccountSet** to continue.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Sign the transaction.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Press **Next** to continue.
