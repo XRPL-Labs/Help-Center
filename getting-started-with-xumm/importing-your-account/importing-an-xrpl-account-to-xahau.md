@@ -63,4 +63,25 @@ Press the **Import Account** button.
 
 Sign the transaction.
 
-And you're done! Congratulations!
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
+Press the **Close** button...and you're done! Congratulations!
+
+### How to check if it worked
+
+Launch Xumm.
+
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+
+Press the Switch network button -> <img src="../../.gitbook/assets/image (46).png" alt="" data-size="line">
+
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+Tap **Xahau**.\
+If it worked, you should see your **activated** account on the Xahau network.
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+If it didn't work, you should see a screen like this.
+
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
