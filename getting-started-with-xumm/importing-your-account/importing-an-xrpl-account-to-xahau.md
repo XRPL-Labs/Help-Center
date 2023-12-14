@@ -8,7 +8,7 @@ description: How to import an existing XRPL account to the Xahau network
 
 This article explains how to use the Xahau Import xApp.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 This xApp allows you to import an existing XRP Ledger account into the Xahau network.
 
@@ -23,7 +23,7 @@ As long as both of these requirements are met, this utility will "clone" your XR
 
 Launch the [Xahau Import xApp](https://xumm.app/detect/xapp:nixer.xahauimport).
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 You must accept the Terms and Conditions and the Privacy Policy before you continue. Press the **Next** button to continue.
 
@@ -31,14 +31,23 @@ You must accept the Terms and Conditions and the Privacy Policy before you conti
 
 Select the account you would like to clone on to the Xahau network, then press **Next** to continue.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Press the **Excute AccountSet** to continue.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Sign the transaction.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Press **Next** to continue.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Press the three dots <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> at the top of the screen.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Press the <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">button.
+
