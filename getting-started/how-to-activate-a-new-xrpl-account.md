@@ -18,7 +18,7 @@ Press the ![](<../.gitbook/assets/image (1) (1) (4).png>) button to get into the
 
 <figure><img src="../.gitbook/assets/Account Activation xApp.png" alt=""><figcaption></figcaption></figure>
 
-then press the ![](<../.gitbook/assets/image (4) (1).png>) button to continue.
+then press the ![](<../.gitbook/assets/image (4) (1) (2).png>) button to continue.
 
 
 
