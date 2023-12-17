@@ -27,7 +27,7 @@
   * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
   * [From Bitstamp](getting-started-with-xumm/activating-an-account/from-bitstamp.md)
 * [Importing your account (Xahau)](getting-started-with-xumm/importing-your-account-xahau/README.md)
-  * [Importing an XRPL account to Xahau](getting-started-with-xumm/importing-your-account-xahau/importing-an-xrpl-account-to-xahau.md)
+  * [Importing an XRPL account to Xahau](getting-started-with-xumm/importing-your-account/importing-an-xrpl-account-to-xahau.md)
   * [Importing a Xumm card](getting-started-with-xumm/importing-your-account-xahau/importing-a-xumm-card.md)
   * [Importing a Vanity Account](getting-started-with-xumm/importing-your-account-xahau/importing-a-vanity-account.md)
 * [Importing your account (XRPL)](getting-started-with-xumm/importing-your-account/README.md)

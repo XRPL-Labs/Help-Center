@@ -4,7 +4,32 @@ description: How to import an existing XRPL account to the Xahau network
 
 # Importing an XRPL account to Xahau
 
-### Summary
+### Background
+
+Most people who are interested in exploring the Xahau network will already have an existing XRP Ledger account.  This article explains how to import an existing XRPL account over to the Xahau network.
+
+### How it works
+
+In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. All accounts that exist on the XRP Ledger,  exist on the Xahau network.&#x20;
+
+
+
+Technically you are not 'importing' the account secret, rather you are just authorizing Xumm to use to existing account secret on Xahau.&#x20;
+
+
+
+that you received when you created your XRPL account can actually be used to create the same account on Xahau.&#x20;
+
+The following process has two requirements:
+
+* Your account must be [**activated**](../../getting-started/how-to-activate-a-new-xrpl-account.md) on the XRPL.
+* Your account must be imported into Xumm with full access.
+
+
+
+All accounts that exist on the XRPL,  exist on the Xahau network. The private keys that you received when you created your XRPL account can actually be used to create the same account on Xahau. The following process&#x20;
+
+&#x20;
 
 This article explains how to use the Xahau Import xApp.
 
@@ -69,7 +94,7 @@ Press the **Close** button...and you're done! Congratulations!
 
 ### How to check if it worked
 
-Launch Xumm.
+Launch Xaman.
 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
@@ -77,7 +102,9 @@ Press the Switch network button -> <img src="../../.gitbook/assets/image (46).pn
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-Tap **Xahau**.\
+Tap **Xahau**.
+
+\
 If it worked, you should see your **activated** account on the Xahau network.
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
