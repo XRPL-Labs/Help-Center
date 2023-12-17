@@ -81,3 +81,15 @@ You can sign the transaction with either one of you cards.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+Press the **Close** button...and you're done! Congratulations!
+
+### How to check if it worked
+
+\
+If it worked, you should see your **activated** account on the Xahau network.
+
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+
+If it didn't work, you would see a screen like this.
+
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
