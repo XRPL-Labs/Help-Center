@@ -61,7 +61,23 @@ You can sign the transaction with either one of you cards.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-9\)
+9\) Press the three dots <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> at the top of the screen.
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+10\) Press the <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">button. (Also known as the _Network Switch_ button.)
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+11\) Tap the **Xahau** network.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+10\) Press the **Import Account** button.
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+11\)&#x20;
 
 
 
