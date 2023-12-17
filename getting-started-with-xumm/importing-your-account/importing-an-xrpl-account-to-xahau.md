@@ -29,15 +29,15 @@ As long as both of these requirements are met, you can follow these instructions
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-You must accept the Terms and Conditions and the Privacy Policy before you continue. Press the **Next** button to continue.
+You must accept the _Terms and Conditions_ and the _Privacy Policy_ before you can continue. Press the **Next** button when ready.
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-Select the account you would like to clone on to the Xahau network, then press **Next** to continue.
+Select the account you would like to duplicate on to the Xahau network, then press **Next** to continue.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Press the **Excute AccountSet** to continue.
+Press the **Excute AccountSet** button.
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ Press the three dots <img src="../../.gitbook/assets/image (3) (1).png" alt="" d
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Press the <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">button.
+Press the <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">button. (Also known as the _Network Switch_ button.)
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
