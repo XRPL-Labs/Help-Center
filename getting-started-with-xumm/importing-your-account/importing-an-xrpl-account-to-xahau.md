@@ -12,31 +12,14 @@ Most people who are interested in exploring the Xahau network will already have 
 
 In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. This processes authorizes Xumm to use the account secret for your XRPL account for a duplicate account on Xahau.
 
-### Gettings started...&#x20;
+### Getting started...&#x20;
 
 The following process has two requirements:
 
 * Your account must be [**activated**](../../getting-started/how-to-activate-a-new-xrpl-account.md) on the XRPL.
 * Your account must be imported into Xumm with full access.
 
-
-
-All accounts that exist on the XRPL,  exist on the Xahau network. The private keys that you received when you created your XRPL account can actually be used to create the same account on Xahau. The following process&#x20;
-
-&#x20;
-
-This article explains how to use the Xahau Import xApp.
-
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
-
-This xApp allows you to import an existing XRP Ledger account into the Xahau network.
-
-There are only two requirements in order to use this xApp:
-
-* Your account must be [**activated**](../../getting-started/how-to-activate-a-new-xrpl-account.md) on the XRPL.
-* It must be imported into Xumm with full access.
-
-As long as both of these requirements are met, this utility will "clone" your XRPL account to the Xahau network and activate it for you.
+As long as both of these requirements are met, here are the instructions.
 
 ### Using the xApp
 
