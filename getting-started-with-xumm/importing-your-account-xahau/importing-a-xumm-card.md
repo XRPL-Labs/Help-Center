@@ -29,7 +29,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 1\) Launch Xaman and switch to your Primary card account.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 2\) Tap the following link, then scan the QR with Xaman to get the [Xahau Import xApp](https://xumm.app/detect/xapp:nixer.xahauimport).
 
@@ -48,4 +48,20 @@ As long as both of these requirements are met, you can follow these instructions
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 6\) The xApp should detect that you have a Regular Key set on your Primary account. (Which points to your Backup card account.) Press the **Excute SetRegularkey** button.
+
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+7\) Slide to accept and you should receive to following screen:
+
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
+You can sign the transaction with either one of you cards.
+
+8\)
+
+
+
+9\)
+
+
 
