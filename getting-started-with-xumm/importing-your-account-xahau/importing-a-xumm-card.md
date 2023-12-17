@@ -37,7 +37,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 3\) Launch the Xahau Import xApp.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\) You must accept the _Terms and Conditions_ and the _Privacy Policy_ before you can continue. Press the **Next** button when ready.
 
@@ -57,9 +57,9 @@ As long as both of these requirements are met, you can follow these instructions
 
 You can sign the transaction with either one of you cards.
 
-8\)
+8\) Press the **Next** button to continue.
 
-
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 9\)
 
