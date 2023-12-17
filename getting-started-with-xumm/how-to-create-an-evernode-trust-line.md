@@ -4,7 +4,11 @@ description: How to create an Evernode Trust Line
 
 # How to create an Evernode Trust Line
 
-This article explains how to create an Evernode Trust Line in a Xahau account&#x20;
+### Summary
+
+This article explains how to create an Evernode Trust Line in a Xahau account. If you are planning on claiming the Evernode airdrop and holding Evers in your account, you will need to follow these instructions.
+
+### Instructions
 
 1\) Launch Xaman.
 
