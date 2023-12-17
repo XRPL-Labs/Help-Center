@@ -6,19 +6,13 @@ description: How to duplicate an existing XRPL account on the Xahau network
 
 ### Background
 
-Most people who are interested in exploring the Xahau network will already have an existing XRP Ledger account.  This article explains how to import an existing XRPL account over to the Xahau network.
+Most people who are interested in exploring the Xahau network will already have an existing XRP Ledger account.  This article explains how to duplicate an existing XRPL account on the Xahau network.
 
 ### How it works
 
-In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. All accounts that exist on the XRP Ledger,  exist on the Xahau network.&#x20;
+In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. This processes authorizes Xumm to use the account secret for your XRPL account for a duplicate account on Xahau.
 
-
-
-Technically you are not 'importing' the account secret, rather you are just authorizing Xumm to use to existing account secret on Xahau.&#x20;
-
-
-
-that you received when you created your XRPL account can actually be used to create the same account on Xahau.&#x20;
+### Gettings started...&#x20;
 
 The following process has two requirements:
 
