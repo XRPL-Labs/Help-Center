@@ -1,8 +1,10 @@
 ---
-description: How to create an Evernode Trust Line using Xaman v2.6
+description: How to create an Evernode Trust Line
 ---
 
 # How to create an Evernode Trust Line
+
+This article explains how to create an Evernode Trust Line in a Xahau account&#x20;
 
 1\) Launch Xaman.
 
