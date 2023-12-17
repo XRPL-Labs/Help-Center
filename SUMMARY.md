@@ -29,7 +29,7 @@
 * [Duplicating your account (Xahau)](getting-started-with-xumm/importing-your-account-xahau/README.md)
   * [Duplicating an XRPL account on Xahau](getting-started-with-xumm/importing-your-account/importing-an-xrpl-account-to-xahau.md)
   * [Duplicating a Xumm card account on Xahau](getting-started-with-xumm/importing-your-account-xahau/importing-a-xumm-card.md)
-  * [Duplicating a Vanity Account on Xahau](getting-started-with-xumm/duplicating-your-account-xahau/duplicating-a-vanity-account-on-xahau.md)
+  * [Duplicating a Vanity Account on Xahau](getting-started-with-xumm/importing-your-account-xahau/importing-a-vanity-account.md)
 * [Importing your account (XRPL)](getting-started-with-xumm/importing-your-account/README.md)
   * [Should I import my XRP Ledger account into Xumm?](getting-started-with-xumm/importing-your-account/should-i-import-my-xrp-ledger-account-into-xumm.md)
   * [...with Secret Numbers](getting-started-with-xumm/importing-your-account/...with-secret-numbers.md)
