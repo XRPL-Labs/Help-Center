@@ -1,8 +1,8 @@
 ---
-description: How to import an existing XRPL account to the Xahau network
+description: How to duplicate an existing XRPL account on the Xahau network
 ---
 
-# Importing an XRPL account to Xahau
+# Duplicating an XRPL account on Xahau
 
 ### Background
 
