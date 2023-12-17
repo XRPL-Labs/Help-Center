@@ -25,4 +25,27 @@ The following process has two requirements:
 * Your account must be [**activated**](../../getting-started/how-to-activate-a-new-xrpl-account.md) on the XRPL.
 * Your account must be imported into Xumm with full access.
 
-As long as both of these requirements are met, here are the instructions.
+As long as both of these requirements are met, you can follow these instructions.
+
+1\) Launch Xaman and switch to your Primary card account.
+
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
+2\) Tap the following link, then scan the QR with Xaman to get the [Xahau Import xApp](https://xumm.app/detect/xapp:nixer.xahauimport).
+
+{% embed url="https://xumm.app/detect/xapp:nixer.xahauimport" %}
+
+3\) Launch the Xahau Import xApp.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+4\) You must accept the _Terms and Conditions_ and the _Privacy Policy_ before you can continue. Press the **Next** button when ready.
+
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+5\) Make sure your Primary card account address is displayed. If not, press the _Change Account_ button and select your Primary card account from the list. When ready, press the **Next** button to continue.
+
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+6\) The xApp should detect that you have a Regular Key set on your Primary account. (Which points to your Backup card account.) Press the **Excute SetRegularkey** button.
+
