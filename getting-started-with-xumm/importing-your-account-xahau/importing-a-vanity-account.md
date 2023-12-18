@@ -75,5 +75,17 @@ As long as both of these requirements are met, you can follow these instructions
 
 Press the **Close** button...and you're done! Congratulations!
 
+### How to check if it worked
 
+If it worked, you should see your **activated** account on the Xahau network.
+
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+
+As well, when you check your sign account, it should look like this:
+
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+
+If it didn't work, you would see a screen like this for your vanity account.
+
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
