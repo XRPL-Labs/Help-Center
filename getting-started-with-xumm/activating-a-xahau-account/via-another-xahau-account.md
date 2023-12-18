@@ -6,11 +6,15 @@ description: How to activate a Xahau account from another Xahau account
 
 ### Options
 
-There are two ways you can activate a Xahau from another Xahau account:
+There are two ways you can activate a Xahau account from another Xahau account:
 
-1\) You can send 1 XAH to the account using the normal 'Send" flow in Xaman
+1\) You can send at least 1 XAH to the account using the normal '**Send**" flow in Xaman
 
-2\) You can send XAH via the 'Activate your account' flow in Xaman.
+2\) You can send at least 1 XAH via the '**Activate your account**' flow in Xaman.
+
+### Normal Send flow
+
+Launch Xaman, press the Switch Network button and select the Xahau network.
 
 
 
