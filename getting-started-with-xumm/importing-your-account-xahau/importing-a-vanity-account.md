@@ -71,3 +71,9 @@ As long as both of these requirements are met, you can follow these instructions
 
 11\) You have to sign this transaction with your regular key account.
 
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+
+Press the **Close** button...and you're done! Congratulations!
+
+
+
