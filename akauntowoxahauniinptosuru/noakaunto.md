@@ -51,7 +51,7 @@
 
 <figure><img src="../.gitbook/assets/8 sign final tx.PNG" alt="" width="374"><figcaption></figcaption></figure>
 
-9\) この画面が出たら**Close**を押して完了です！
+9\) この画面が出たら**Close xApp**を押して完了です！
 
 <figure><img src="../.gitbook/assets/9 complete (1).PNG" alt="" width="374"><figcaption></figcaption></figure>
 
@@ -59,7 +59,7 @@
 
 ### うまくいったか確かめるには
 
-インポートが成功したら、Xahau Meinnetで有効化されたアカウントが表示されます。
+インポートが成功したら、Xahau Mainnetで有効化されたアカウントが表示されます。
 
 ※Xahauでは、このツールを利用してインポートされたアカウントには2XAH（プラスXRPレジャーでの署名にかかった手数料を補填するため0.00012XAH）がアカウントに付与される仕組みとなっています。
 
