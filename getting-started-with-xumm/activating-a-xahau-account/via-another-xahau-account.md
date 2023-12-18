@@ -18,7 +18,7 @@ There are two ways you can activate a Xahau from another Xahau account:
 
 In Xaman, an unactivated account on Xahau looks like this:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1\) If you press the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> button, you get into the account activation flow.
 
@@ -34,5 +34,9 @@ Choose one of your accounts that contains at least 1 XAH of spendable XAH coins.
 
 <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
+4\) Review the transaction and **Slide to accept**.
 
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
