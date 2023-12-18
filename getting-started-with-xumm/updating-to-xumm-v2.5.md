@@ -1,6 +1,6 @@
 ---
 description: New features, updates and more..
-cover: ../../.gitbook/assets/version 25.png
+cover: ../.gitbook/assets/version 25.png
 coverY: -190
 ---
 

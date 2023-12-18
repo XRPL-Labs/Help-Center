@@ -52,7 +52,11 @@ Unfortunately there is no way to get the Update screen back. You will need to ma
 
 &#x20;No. Updating is completely optional. Your current version will continue to be supported
 
+#### What versions of Android and iOS do I need for Xaman v2.6?
 
+⦁ Android v7 and up&#x20;
+
+⦁ iOS v13 or higher and an iPhone 7 or newer
 
 
 

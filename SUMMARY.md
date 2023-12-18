@@ -185,7 +185,7 @@
 * [Current release](release-notes/current-release/README.md)
   * [Xumm v2.5](release-notes/current-release/xumm-v2.5.md)
 * [Previous releases](release-notes/previous-releases/README.md)
-  * [🥳 Updating to Xumm v2.5!](release-notes/previous-releases/updating-to-xumm-v2.5.md)
+  * [🥳 Updating to Xumm v2.5!](getting-started-with-xumm/updating-to-xumm-v2.5.md)
   * [Updating to Xumm v2.4](release-notes/previous-releases/updating-to-xumm-v2.4.md)
   * [Xumm v2.4](release-notes/previous-releases/xumm-v2.4.md)
   * [Xumm v2.3.1](release-notes/previous-releases/xumm-v2.3.1.md)
