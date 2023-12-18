@@ -58,7 +58,11 @@ Unfortunately there is no way to get the Update screen back. You will need to ma
 
 ⦁ iOS v13 or higher and an iPhone 7 or newer
 
+#### How do I get help if I run into problems upgrading?
 
+Simply create a support ticket in Xaman using the Xaman Support xApp:
+
+{% embed url="https://xumm.app/detect/xapp:xumm.support?ref=helpcenter" %}
 
 
 
