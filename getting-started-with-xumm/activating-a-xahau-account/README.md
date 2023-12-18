@@ -10,7 +10,7 @@ Since everything on Xahau involves an account, you are going to need to activate
 
 There are three main ways to activate an account on the Xahau network:\
 \
-1\) Via an exchange.\
+1\) **Via an exchange**.\
 \
 Crypto exchanges like Bitrue support the Xahau network. You can purchase XAH on their platform, then send the XAH to your Xahau account managed by Xaman. You will find instructions on how to do this here:
 
@@ -18,13 +18,26 @@ Crypto exchanges like Bitrue support the Xahau network. You can purchase XAH on 
 [bitrue.md](bitrue.md)
 {% endcontent-ref %}
 
-2\) Via another Xahau account.
+2\) **Via another Xahau account**.
 
-If you already have XAH in a Xahau account, you can send XAH coins between your accounts to activate them. This applies to your friends, family, co-workers, etc. If they have a Xahau account, they can send XAH to your account to activate it. In fact, any Xahau account can be activated from any other Xahau account. They just need to send 1 XAH to it.
+If you already have XAH in a Xahau account, you can send XAH coins between your accounts to activate them. This applies to your friends, family and  co-workers as well. If they have a Xahau account, they can send XAH to your account to activate it. In fact, any Xahau account can be activated from any other Xahau account. They just need to send 1 XAH to from it to your account.
 
 This article explains how to do this:
 
 
 
-3\)&#x20;
+3\) **By duplicating an existing XRP Ledger account**.
 
+If you have an existing XRP Ledger account and would like to duplicate it on the Xahau network, you can follow the instructions in one of the three following articles to duplicate and activate your Xahau account. If you go through the instructions, 2 XAH will be deposited into your new account courtesy of the Xahau network itself.
+
+{% content-ref url="../importing-your-account/importing-an-xrpl-account-to-xahau.md" %}
+[importing-an-xrpl-account-to-xahau.md](../importing-your-account/importing-an-xrpl-account-to-xahau.md)
+{% endcontent-ref %}
+
+{% content-ref url="../importing-your-account-xahau/importing-a-xumm-card.md" %}
+[importing-a-xumm-card.md](../importing-your-account-xahau/importing-a-xumm-card.md)
+{% endcontent-ref %}
+
+{% content-ref url="../importing-your-account-xahau/importing-a-vanity-account.md" %}
+[importing-a-vanity-account.md](../importing-your-account-xahau/importing-a-vanity-account.md)
+{% endcontent-ref %}
