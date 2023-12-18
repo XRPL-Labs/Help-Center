@@ -32,11 +32,11 @@ For those who already have a version of Xumm installed, you will get the option 
 
 For Apple users, you should see a screen like this:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For Android users, you should see something like this:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In both cases, simply press the **Update** button and Xumm will download and update you to the latest version.&#x20;
 
@@ -66,7 +66,10 @@ Simply create a support ticket in Xaman using the Xaman Support xApp:
 
 #### During the upgrade, it appears to freeze.
 
-
+If you encounter this screen during to update process:
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+the upgrade has not frozen. It just means that the database migration is still ongoing.
+
+Please keep the Xaman app open until the migration has completed.
