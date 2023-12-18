@@ -28,4 +28,11 @@ In Xaman, an unactivated account on Xahau looks like this:
 
 <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Choose one of your accounts that contains at least 1 XAH of spendable XAH coins.
+
+3\) Choose the amount of XAH you would like to activate your unactivated account with. You only need to send 1 XAH to meet the reserve requirement for the Xahau network, but you can choose to activate the account with up to 100 XAH. Press the **Activate** button to continue.
+
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+
+
+
