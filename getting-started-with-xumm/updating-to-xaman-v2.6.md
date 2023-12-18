@@ -1,0 +1,60 @@
+---
+description: How to update Xumm to the latest version
+---
+
+# 😎 Updating to Xaman v2.6!
+
+### Exciting news!
+
+We have just released the latest version Xumm! (v2.6) If you're reading this, you probably want to learn all about the new features it contains. Our blog it the ideal place to start:
+
+{% embed url="https://blog.xumm.app/2.6.0" %}
+
+This article discusses how to upgrade to the latest version so you can begin exploring all great features it contains.&#x20;
+
+### How it will work
+
+The latest version of Xumm (re-branded to Xaman in this version) will be released in stages over a 7 day period. We do this for two reasons:
+
+1\)  It prevents the upgrade servers from being over run with a huge number of simutaneous downloads.
+
+2\) If roll out issues are encountered, they will only effect a limited number of users.
+
+As with all versions of Xumm (now Xaman) the app is only available from two sources:
+
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
+
+If you don't already have Xumm (Xaman) on your phone, you can simply download and install the app by selecting one of the above links.
+
+{% hint style="info" %}
+For those who already have a version of Xumm installed, you will get the option to upgrade the next time you launch the application. (As long as the release is available in your region)
+{% endhint %}
+
+For Apple users, you should see a screen like this:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+For Android users, you should see something like this:
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+In both cases, simply press the **Update** button and Xumm will download and update you to the latest version.&#x20;
+
+
+
+### Frequently asked questions
+
+#### I received the update message but I didn't press the Update button, how do I get it back?
+
+Unfortunately there is no way to get the Update screen back. You will need to manually update your version of Xumm by visting the Apple App Store or Google Play. Just tap the appropriate link above then do a search for Xumm or Xaman.
+
+#### Do I have to update to the latest version?
+
+&#x20;No. Updating is completely optional. Your current version will continue to be supported
+
+
+
+
+
+
+
