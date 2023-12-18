@@ -1,6 +1,23 @@
 # 通常のアカウント
 
-10\) Then tap the **Xahau** network.
+### はじめに
+
+ここではXRPレジャーで利用していた通常のアカウントをXahauネットワークにインポートする手順を説明します。
+
+インポートするには下記二つの条件が揃っている必要がありますのでご確認ください。
+
+1. XRPレジャーで有効化されていること
+2. 全権アクセスがあること
+
+
+
+1\) 下記リンクのQRコードを読み取ってxAppを開きます。
+
+※QRコードを読み取るには、Xamanを開いてホーム画面下のxvボタンを押し、「QRコードのスキャン」を選択します
+
+{% embed url="https://xumm.app/detect/xapp:nixer.xahauimport" %}
+
+10\)&#x20;
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
