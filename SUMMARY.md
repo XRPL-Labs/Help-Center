@@ -15,6 +15,7 @@
   * [How to create an XRPL account](getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 * [Activating a Xahau account](getting-started-with-xumm/activating-a-xahau-account/README.md)
   * [Bitrue](getting-started-with-xumm/activating-a-xahau-account/bitrue.md)
+  * [Via another Xahau account](getting-started-with-xumm/activating-a-xahau-account/via-another-xahau-account.md)
 * [Activating an account (XRPL)](getting-started/how-to-activate-a-new-xrpl-account.md)
   * [From Gatehub](getting-started-with-xumm/how-to-activate-a-new-xrpl-account/from-gatehub.md)
   * [From Uphold](getting-started-with-xumm/activating-an-account/from-uphold.md)

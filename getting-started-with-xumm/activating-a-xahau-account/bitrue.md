@@ -12,7 +12,7 @@ This article provides instructions on how to purchase XAH tokens and send them t
 
 1\) Go to the Bitrue website, sign into your Bitrue account and choose the **Assets** menu then **Spot**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Locate your XAH coins in the list and press the **Withdraw** link.
 
@@ -38,6 +38,6 @@ Press the the **Withdraw XAH** button.&#x20;
 
 5\) Review your transaction and press the **Confirm** button.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Your XAH coins should arrive in your account shortly.

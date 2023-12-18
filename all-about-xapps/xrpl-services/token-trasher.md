@@ -17,7 +17,7 @@ This xApp gives you the ability to swap your tokens for XRP (if applicable), sen
 
 #### Where do I find it in Xumm?
 
-Click [here](https://xumm.app/detect/xapp:nixer.tokentrasher) to launch the [Token Trasher](https://xumm.app/detect/xapp:nixer.tokentrasher) or you can manually launch it in Xumm by pressing<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> then choosing <img src="../../.gitbook/assets/image (3) (5).png" alt="" data-size="line">and select it from the list.
+Click [here](https://xumm.app/detect/xapp:nixer.tokentrasher) to launch the [Token Trasher](https://xumm.app/detect/xapp:nixer.tokentrasher) or you can manually launch it in Xumm by pressing<img src="../../.gitbook/assets/image (5) (1) (1) (2).png" alt="" data-size="line"> then choosing <img src="../../.gitbook/assets/image (3) (5).png" alt="" data-size="line">and select it from the list.
 
 <figure><img src="../../.gitbook/assets/Token Trasher  (1).png" alt=""><figcaption></figcaption></figure>
 

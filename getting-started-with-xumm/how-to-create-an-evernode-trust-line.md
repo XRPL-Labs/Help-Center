@@ -12,7 +12,7 @@ This article explains how to create an Evernode Trust Line in a Xahau account. I
 
 1\) Launch Xaman.
 
-2\)  Press the <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">button. (Also known as the _Network Switch_ button.)
+2\)  Press the <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line">button. (Also known as the _Network Switch_ button.)
 
 <figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
