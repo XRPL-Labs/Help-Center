@@ -41,8 +41,17 @@ As long as both of these requirements are met, you can follow these instructions
 
 {% embed url="https://xumm.app/detect/xapp:nixer.xahauimport" %}
 
-3\) Launch the Xahau Import xApp.
+3\) Launch the Xahau Import xApp. You must accept the _Terms and Conditions_ and the _Privacy Policy_ before you can continue. Press the **Next** button when ready.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4\) You must accept the _Terms and Conditions_ and the _Privacy Policy_ be
+4\) Make sure your vanity account address is displayed. If not, press the _Change Account_ button and select your vanity account from the list. When ready, press the **Next** button to continue.
+
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+
+5\) The xApp should detect that you have a Regular Key set for your vanity account. Press the **Excute SetRegularkey** button.
+
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+6\) Slide to accept.
+
