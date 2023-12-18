@@ -14,7 +14,7 @@ For more information, you can visit their site here:
 
 ### **What tokens has Gatehub issued?**
 
-Gatehub has currently issued 16 different tokens on the XRPL, including USDT, USDC, GALA, WXRP, Flare and SGB, along with stablecoins such as EUR, USD, GBP and others.
+Gatehub has currently issued 16 different tokens on the XRPL, including XAH, USDT, USDC, GALA, WXRP, Flare and SGB, along with stablecoins such as EUR, USD, GBP and others.
 
 ### **Why would I want any of these tokens?**&#x20;
 
@@ -42,13 +42,11 @@ You can read more about how this works here:
 
 ### **How do I "cash out" a stablecoin?**
 
-The first thing you will need to do is create an account with Gatehub.
+This feature has been integrated into Xumm. This article explains how it works:
 
-{% embed url="https://signin.gatehub.net/signup" %}
-
-Once you have a Gatehub account, you can transfer your (Gatehub issued) stablecoins to your Gatehub account and convert them into fiat.
-
-&#x20;
+{% content-ref url="cashing-out-with-gatehub.md" %}
+[cashing-out-with-gatehub.md](cashing-out-with-gatehub.md)
+{% endcontent-ref %}
 
 ### **What about the SGB token?**
 
@@ -61,6 +59,12 @@ While they both have the same symbol, SGB, they exist on different and incompati
 You can not send an XRPL token directly to the Songbird network and you can not send a Songbird token directly to the XRP Ledger. They are different tokens issued on different blockchains.
 
 **Gatehub** will allow you to redeem SGB tokens issued on the XRPL for SGB issued on the Songbird network and vice versa.
+
+### **How about XAH tokens?**
+
+On Octber 29-2023, Gatehub isssued 500,000 XAH tokens on the XRP Ledger. These tokens are IOUs for the real XAH tokens which exist on the Xahau network. You can not send the XAH token from the XRP Ledger to the Xahau network. While the XRPL and Xahau have many similarities, they are different networks.
+
+**Gatehub** will allow you to redeem XAH tokens issued on the XRPL for XAH issued on the Xahau.
 
 ### **How about the USDT and USDC tokens?**
 
