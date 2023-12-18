@@ -1,6 +1,6 @@
 # 通常のアカウント
 
-はじめに
+### はじめに
 
 この記事ではXRPレジャーで利用していた通常のアカウントをXahauネットワークにインポートする手順を説明します。
 
@@ -29,7 +29,7 @@
 
 4\) ここでXRPレジャー上で署名をするため**Execute AccountSet**をタップして署名します。
 
-<figure><img src="../.gitbook/assets/44.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 Account set.PNG" alt="" width="374"><figcaption></figcaption></figure>
 
 5\) 署名したら**Next**をタップします。
 
