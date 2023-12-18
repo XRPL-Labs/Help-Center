@@ -4,7 +4,7 @@
 * [自己管理型（セルフカストディ）とは](serufukasutotetoha.md)
 * [XRPレジャーアカウント作成方法](xrpreshiakaunto.md)
 * [アカウントをXahauにインポートする方法](akauntowoxahauniinptosuru/README.md)
-  * [通常のアカウントをXahauにインポートするには](akauntowoxahauniinptosuru/noakauntowoxahauniinptosuruniha.md)
+  * [通常のアカウントをXahauにインポートするには](akauntowoxahauniinptosuru/noakaunto.md)
 * [アカウントを有効化する](akauntowosuru.md)
 * [Xamanアカウントに送金する手順](xamanakauntonisuru.md)
 * [Xamanから送金する方法](xamankarasuru.md)
