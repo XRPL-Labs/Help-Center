@@ -12,7 +12,7 @@ We have just released the latest version Xumm! (v2.6) If you're reading this, yo
 
 This article discusses how to upgrade to the latest version so you can begin exploring all great features it contains.&#x20;
 
-### How it will work
+### How to update your device to v2.6
 
 The latest version of Xumm (re-branded to Xaman in this version) will be released in stages over a 7 day period. We do this for two reasons:
 
