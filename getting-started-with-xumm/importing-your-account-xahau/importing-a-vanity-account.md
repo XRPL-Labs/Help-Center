@@ -12,9 +12,9 @@ This meant that in order to sign transactions on your vanity address, you needed
 
 In Xaman, it would look something like this:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You may have noticed that the Vanity Account says, 'Full access" rather than 'Read only". That is because Xaman recognizes that the regular key account is present and in 'Full access" so it updates the Vanity account from 'Read only' to 'Full access'.
@@ -43,7 +43,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 3\) Launch the Xahau Import xApp. You must accept the _Terms and Conditions_ and the _Privacy Policy_ before you can continue. Press the **Next** button when ready.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\) Make sure your vanity account address is displayed. If not, press the _Change Account_ button and select your vanity account from the list. When ready, press the **Next** button to continue.
 
@@ -55,11 +55,11 @@ As long as both of these requirements are met, you can follow these instructions
 
 6\) Slide to accept.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 10\) Press the <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">button. (Also known as the _Network Switch_ button.)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 11\) Tap the **Xahau** network.
 
@@ -67,7 +67,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 10\) Press the **Import Account** button.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 11\) You have to sign this transaction with your regular key account.
 

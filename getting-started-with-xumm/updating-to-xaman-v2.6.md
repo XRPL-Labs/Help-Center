@@ -14,12 +14,6 @@ This article discusses how to upgrade to the latest version so you can begin exp
 
 ### How to update your device to v2.6
 
-The latest version of Xumm (re-branded to Xaman in this version) will be released in stages over a 7 day period. We do this for two reasons:
-
-1\)  It prevents the upgrade servers from being over run with a huge number of simutaneous downloads.
-
-2\) If roll out issues are encountered, they will only effect a limited number of users.
-
 As with all versions of Xumm (now Xaman) the app is only available from two sources:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
@@ -27,16 +21,16 @@ As with all versions of Xumm (now Xaman) the app is only available from two sour
 If you don't already have Xumm (Xaman) on your phone, you can simply download and install the app by selecting one of the above links.
 
 {% hint style="info" %}
-For those who already have a version of Xumm installed, you will get the option to upgrade the next time you launch the application. (As long as the release is available in your region)
+For those who already have a version of Xumm installed, you will get the option to upgrade the next time you launch the application.&#x20;
 {% endhint %}
 
 For Apple users, you should see a screen like this:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For Android users, you should see something like this:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In both cases, simply press the **Update** button and Xumm will download and update you to the latest version.&#x20;
 
