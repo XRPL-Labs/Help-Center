@@ -34,13 +34,13 @@ So you'll notice that the subscription process takes you through the Xumm card p
 
 3\) Chose the number of cards you would like to receive along with your Pro subscription. Most people go with the **2x Card** option, but you choose 2,3,4 or 5 depending on your needs.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\) Scroll down and decide whether you would like to purchase XRP with your order.
 
 Note: There is a 10% premium (round up to the nearest 5) for this service.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5\) Choose which country you would like the cards sent to by tapping the down arrow in the **Shipping options** section, then choose _Standard_ or _Express_ delivery. When done, press the **Continue to Payment** button.
 
@@ -58,7 +58,7 @@ Note: A 10% premium applies (rounded to the nearest 5) for paying with a credit 
 
 7\) If you choose to pay with a Credit card, you will receive this screen:
 
-<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">\
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">\
 
 
 After you fill out the form, press the **Next** button.\
