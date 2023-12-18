@@ -1,8 +1,8 @@
 # 通常のアカウント
 
-### はじめに
+はじめに
 
-ここではXRPレジャーで利用していた通常のアカウントをXahauネットワークにインポートする手順を説明します。
+この記事ではXRPレジャーで利用していた通常のアカウントをXahauネットワークにインポートする手順を説明します。
 
 インポートするには下記二つの条件が揃っている必要がありますのでご確認ください。
 
@@ -17,24 +17,50 @@
 
 {% embed url="https://xumm.app/detect/xapp:nixer.xahauimport" %}
 
-10\)&#x20;
+2\) この画面が出たら内容をよく読み、チェックをして**Next**を押します。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 T&#x26;C.PNG" alt="" width="374"><figcaption></figcaption></figure>
 
-11\) Press the **Import Account** button.
+3\) インポートしたいアカウントが表示されていることを確認し、**Next**をタップします。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+別のアカウントを選択したい場合は**Change Account**をタップして選択します。
 
-12\) Sign the transaction.
+<figure><img src="../.gitbook/assets/2 pick account.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+4\) ここでXRPレジャー上で署名をするため**Execute AccountSet**をタップして署名します。
 
-13\) Press the **Close** button...and you're done! Congratulations!
+<figure><img src="../.gitbook/assets/44.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-### How to check if it worked
+5\) 署名したら**Next**をタップします。
 
-If it worked, you should see your **activated** account on the Xahau network.
+<figure><img src="../.gitbook/assets/4. Sign (2).PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+6\) 次の画面でXahauに切り替えるため、ネットワークスイッチボタンを押します。
 
-If it didn't work, you should see a screen like this.
+<figure><img src="../.gitbook/assets/5 before import account.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+7）この画面が出たらXahau Mainnetを選択します。
+
+<figure><img src="../.gitbook/assets/7 to xahau (1).jpeg" alt="" width="373"><figcaption></figcaption></figure>
+
+8\) 次の画面で**Import Account**を押し、今度はXahauネットワーク上で署名します。
+
+<figure><img src="../.gitbook/assets/8 sign final tx.PNG" alt="" width="374"><figcaption></figcaption></figure>
+
+9\) この画面が出たら**Close**を押して完了です！
+
+<figure><img src="../.gitbook/assets/9 complete (1).PNG" alt="" width="374"><figcaption></figcaption></figure>
+
+###
+
+### うまくいったか確かめるには
+
+インポートが成功したら、Xahau Meinnetで有効化されたアカウントが表示されます。
+
+※Xahauでは、このツールを利用してインポートされたアカウントには2XAH（プラスXRPレジャーでの署名にかかった手数料を補填するため0.00012XAH）がアカウントに付与される仕組みとなっています。
+
+そのうち1XAHは準備金として利用されます。
+
+
+
+<figure><img src="../.gitbook/assets/Xahau home.jpeg" alt="" width="374"><figcaption></figcaption></figure>
