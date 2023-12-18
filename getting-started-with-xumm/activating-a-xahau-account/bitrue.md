@@ -6,6 +6,10 @@ description: Activating an account from Bitrue
 
 Bitrue was one of the first exchanges to support the Xahau network.
 
+This article provides instructions on how to purchase XAH tokens and send them to your Xahau account managed by Xaman.&#x20;
+
+
+
 1\) Go to the Bitrue website, sign into your Bitrue account and choose the **Assets** menu then **Spot**.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
