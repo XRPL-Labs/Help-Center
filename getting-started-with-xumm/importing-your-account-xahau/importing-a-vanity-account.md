@@ -24,11 +24,11 @@ You may have noticed that the Vanity Account says, 'Full access" rather than 'Re
 
 
 
-this article will walk you through duplicating your account (and your Backup account) on the Xahau network.
+This article will walk you through the process of duplicating your vanity account (and your regular key account) on the Xahau network.
 
 ### How it works
 
-In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. This processes authorizes Xaman to use the account secret for your XRPL account for a duplicate account on Xahau.
+In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. This processes will duplicate your vanity account on Xahau, activate it with 2 XAH and authorize Xaman to use the regular key account to sign for your vanity account.
 
 ### Getting started...&#x20;
 
