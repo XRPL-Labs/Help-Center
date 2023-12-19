@@ -16,7 +16,7 @@ If you have an existing XRP Ledger account and would like to duplicate it on the
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Duplicating an XRPL account</td><td></td><td><a href="../importing-your-account-xahau/importing-a-xumm-card.md">importing-a-xumm-card.md</a></td></tr><tr><td></td><td>Duplicating your Xumm card accounts</td><td></td><td><a href="../importing-your-account/importing-an-xrpl-account-to-xahau.md">importing-an-xrpl-account-to-xahau.md</a></td></tr><tr><td></td><td>Duplicating your Vanity account</td><td></td><td><a href="../importing-your-account-xahau/importing-a-vanity-account.md">importing-a-vanity-account.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Duplicating an XRPL account</td><td></td><td><a href="../importing-your-account/importing-an-xrpl-account-to-xahau.md">importing-an-xrpl-account-to-xahau.md</a></td></tr><tr><td></td><td>Duplicating your Xumm card accounts</td><td></td><td><a href="../importing-your-account-xahau/importing-a-xumm-card.md">importing-a-xumm-card.md</a></td></tr><tr><td></td><td>Duplicating your Vanity account</td><td></td><td><a href="../importing-your-account-xahau/importing-a-vanity-account.md">importing-a-vanity-account.md</a></td></tr></tbody></table>
 
 
 
