@@ -14,17 +14,9 @@ There are three main ways to activate an account on the Xahau network:\
 
 If you have an existing XRP Ledger account and would like to duplicate it on the Xahau network, you can follow the instructions in one of the three following articles to duplicate and activate your Xahau account. If you go through the instructions, 2 XAH will be deposited into your new account courtesy of the Xahau network itself.
 
-{% content-ref url="../importing-your-account/importing-an-xrpl-account-to-xahau.md" %}
-[importing-an-xrpl-account-to-xahau.md](../importing-your-account/importing-an-xrpl-account-to-xahau.md)
-{% endcontent-ref %}
 
-{% content-ref url="../importing-your-account-xahau/importing-a-xumm-card.md" %}
-[importing-a-xumm-card.md](../importing-your-account-xahau/importing-a-xumm-card.md)
-{% endcontent-ref %}
 
-{% content-ref url="../importing-your-account-xahau/importing-a-vanity-account.md" %}
-[importing-a-vanity-account.md](../importing-your-account-xahau/importing-a-vanity-account.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Duplicating an XRPL account</td><td></td><td><a href="../importing-your-account-xahau/">importing-your-account-xahau</a></td></tr><tr><td></td><td>Duplicating your Xumm card accounts</td><td></td><td><a href="../importing-your-account/importing-an-xrpl-account-to-xahau.md">importing-an-xrpl-account-to-xahau.md</a></td></tr><tr><td></td><td>Duplicating your Vanity account</td><td></td><td><a href="../importing-your-account-xahau/importing-a-vanity-account.md">importing-a-vanity-account.md</a></td></tr></tbody></table>
 
 
 
