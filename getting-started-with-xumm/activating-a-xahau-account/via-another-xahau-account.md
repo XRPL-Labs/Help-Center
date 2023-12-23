@@ -26,13 +26,13 @@ There are two ways you can activate a Xahau account from another Xahau account:
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-4\) Enter the amount of XAH to send. (Only 1 XAH is needed to activate an account on the Xahau network.)
+4\) Enter the amount of XAH to send. (Only 1 XAH is needed to activate an account on the Xahau network.) Press **Next** when done.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ###
 
-### Activate your account
+### Activate your account Flow
 
 In Xaman, an unactivated account on Xahau looks like this:
 
