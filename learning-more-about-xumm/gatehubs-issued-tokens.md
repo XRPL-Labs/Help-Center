@@ -62,7 +62,7 @@ You can not send an XRPL token directly to the Songbird network and you can not 
 
 ### **How about XAH tokens?**
 
-On Octber 29-2023, Gatehub isssued 500,000 XAH tokens on the XRP Ledger. These tokens are IOUs for the real XAH tokens which exist on the Xahau network. You can not send the XAH token from the XRP Ledger to the Xahau network. While the XRPL and Xahau have many similarities, they are different networks.
+On October 29-2023, Gatehub isssued 500,000 XAH tokens on the XRP Ledger. These tokens are IOUs for the real XAH tokens which exist on the Xahau network. You can not send the XAH token from the XRP Ledger to the Xahau network. While the XRPL and Xahau have many similarities, they are different networks.
 
 **Gatehub** will allow you to redeem XAH tokens issued on the XRPL for XAH issued on the Xahau.
 
