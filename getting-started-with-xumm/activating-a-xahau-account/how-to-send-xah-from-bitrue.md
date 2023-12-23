@@ -2,11 +2,11 @@
 description: Activating an account from Bitrue
 ---
 
-# Bitrue
+# How to send XAH from Bitrue
 
-Bitrue was one of the first exchanges to support the Xahau network.
+### Summary
 
-This article provides instructions on how to purchase XAH tokens and send them to your Xahau account managed by Xaman.&#x20;
+This article provides instructions on how to purchase send XAH coins to your Xahau account managed by Xaman.
 
 
 
