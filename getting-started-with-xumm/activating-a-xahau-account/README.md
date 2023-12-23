@@ -12,7 +12,7 @@ There are three main ways to activate an account on the Xahau network:\
 \
 1\) **By duplicating an existing XRP Ledger account**
 
-If you have an existing XRP Ledger account and would like to duplicate it on the Xahau network, you can follow the instructions in one of the three following articles to duplicate and activate your Xahau account. If you go through the instructions, 2 XAH will be deposited into your new account courtesy of the Xahau network itself.
+If you have an existing XRP Ledger account and would like to duplicate it on the Xahau network, you can follow the instructions in one of the following three articles to duplicate and activate your Xahau account. If you go through the instructions, 2 XAH will be deposited into your new account courtesy of the Xahau network itself.
 
 
 
@@ -22,7 +22,7 @@ If you have an existing XRP Ledger account and would like to duplicate it on the
 
 2\) **Via an exchange**\
 \
-Crypto exchanges like Bitrue support the Xahau network. You can purchase XAH on their platform, then send the XAH to your Xahau account managed by Xaman. You will find instructions on how to do this here:
+Crypto exchanges like Bitrue and Gatehub support the Xahau network. You can purchase XAH on their platform, then send the XAH to your Xahau account managed by Xaman. You will find instructions on how to do this here:
 
 
 
@@ -30,15 +30,11 @@ Crypto exchanges like Bitrue support the Xahau network. You can purchase XAH on 
 
 3\) **Via another Xahau account**
 
-If you already have XAH in a Xahau account, you can send XAH coins between your accounts to activate them. This applies to your friends, family and  co-workers as well. If they have a Xahau account, they can send XAH to your account to activate it. In fact, any Xahau account can be activated from any other Xahau account. They just need to send 1 XAH to from it to your account.
+If you already have XAH in a Xahau account, you can send XAH coins between your accounts to activate them. This applies to your friends, family and  co-workers as well. If they have a Xahau account, they can send XAH to your account to activate it. In fact, any Xahau account can be activated from any other Xahau account. They just need to send 1 XAH from it to your account.
 
 This article explains how to do this:
 
 
 
 <table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td></td><td align="center">How to send XAH from another Xahau account</td><td></td></tr><tr><td></td><td align="center"></td><td></td></tr><tr><td></td><td align="center"></td><td></td></tr></tbody></table>
-
-{% content-ref url="via-another-xahau-account.md" %}
-[via-another-xahau-account.md](via-another-xahau-account.md)
-{% endcontent-ref %}
 
