@@ -49,6 +49,7 @@
 * [Sending tokens from Xumm](getting-started-with-xumm/sending-tokens-from-xumm.md)
 * [How to convert a Read only account to Full Access](getting-started-with-xumm/how-to-convert-a-read-only-account-to-full-access.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xumm/deposit-to-exchange-didnt-arrive.md)
+* [How to move XAH from the XRPL to Xahau](getting-started-with-xumm/how-to-move-xah-from-the-xrpl-to-xahau.md)
 * [Can Xumm reverse, freeze or undo a transaction?](getting-started-with-xumm/can-xumm-reverse-freeze-or-undo-a-transaction.md)
 * [Can I view/export my account secret?](getting-started-with-xumm/can-i-view-export-my-account-secret.md)
 * [I've lost my account secret!](getting-started-with-xumm/ive-lost-my-account-secret.md)
