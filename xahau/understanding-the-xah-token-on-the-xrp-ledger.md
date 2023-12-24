@@ -8,23 +8,21 @@ description: What is the Xahau (XAH) token on the XRPL?
 
 One of the great features of the XRP Ledger is that it allows any asset (other than XRP) to be represented on the XRP Ledger as a **token**. Tokens can represent any type of value, including "stable coins" backed by assets that exist outside of the XRPL, purely digital tokens created specifically on the XRP Ledger, community credit, and more. Standard tokens are tracked in relationships called [trust lines](https://xrpl.org/trust-lines-and-issuing.html) between accounts and any account can issue a token.&#x20;
 
-**Note:** In the past, tokens on the XRP Ledger have also been called "IOUs" (as in [I-owe-you ](https://en.wikipedia.org/wiki/IOU)) and "issued currencies". These terms have been discontinued because they do not cover the full range of digital assets that XRP Ledger tokens can represent.
+**Note:** In the past, tokens on the XRP Ledger have also been called "IOUs" (as in [I-owe-you ](https://en.wikipedia.org/wiki/IOU)) and "issued currencies". These terms do not cover the full range of digital assets that XRP Ledger tokens can represent, but they may help you understand the concept a little better.
 
 ### History
 
-On November 1, 2023 a new XRP Ledger sidechain was launched called **Xahau**. The Xahau network runs the XRP Ledger protocol but it also introduces several new features not found on the main XRP Ledger blockchain. See this article for more details on Xahau's new features:
+On November 1, 2023 a new XRP Ledger sidechain was launched called **Xahau**. The Xahau network runs the XRP Ledger protocol but it also introduces several new features not found on the main XRP Ledger blockchain.&#x20;
 
-Welcome to the Xahau network!
-
-One of the things introduced in Xahau is a new gas token with the trading symbol of **XAH**. The primary purpose of the XAH token is pay for the transaction costs on the Xahau network.&#x20;
+One of the things introduced in Xahau is a new coin with the trading symbol of **XAH**. The primary purpose of the XAH token is pay for the transaction costs on the Xahau network.&#x20;
 
 ### Frequently asked Questions
 
-#### Can I purchase Xahau token on the XRP Ledger?
+#### Can I purchase Xahau coins on the XRP Ledger?
 
 Yes and No.
 
-Yes. You can purchase XAH tokens but they are not the native XAH coins on the Xahau network. By purchasing XAH on the XRPL, you are purchasing a token that represents XAH. As long as you purchase the XAH token from a trusted issuer, (ie. Gatehub) they will exchange your tokens for "real" XAH coins on the Xahau network. (Or convert it into fiat.) Owning XAH on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset.
+Yes. You can purchase XAH tokens on the XRPL, but they are not the same as the native XAH coins on the Xahau network. By purchasing XAH on the XRPL, you are purchasing a token that represents XAH. An IOU for the XAH coin on Xahau. As long as you purchase the XAH token from a trusted issuer, (ie. Gatehub) they will exchange your tokens for "real" XAH coins on the Xahau network. (Or convert it into fiat.) Owning XAH on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset.
 
 No. You can not purchase the **native** XAH coin on the XRP Ledger. The XAH coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAH coins via a crypto exchange or via the Burn to Mint (B2M) feature.
 
