@@ -53,9 +53,11 @@ Then sign the transaction with Xaman:
 4a) If you are on a desktop computer, click the **Open Pro** button and scan the QR code with Xaman.\
 4b) If you are on a phone, tap the **Open Pro** button and Xumm Pro should launch.
 
-### **How to subscribe**
+### **Paying with a credit card (or XRP)**
 
-1\) You can order the cards from the [Get cards xApp](https://xumm.app/detect/xapp:xumm.tangem-order) from within Xumm or by launching Xumm, pressing the **xApps** button (on the bottom of the main screen) then choosing **Get cards**.
+If you would like to pay for your Xumm Pro subscription using a credit card, you will need to go through our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order). The Get cards xApp takes you through the process of ordering our [Xumm cards](../xumm-tangem-cards/xumm-tangem-cards.md), after which you will receive an email link  granting you access to Xumm Pro.
+
+1\) Launch Xaman, then press the **xApps** button (on the bottom of the main screen) then choose **Get cards**.
 
 
 
@@ -81,11 +83,9 @@ Note: There is a 10% premium (round up to the nearest 5) for this service.
 
 6\) Choose how you would like to pay for your cards and Pro subscription.
 
-If you are not going to purchase additional XRP, paying with Xumm (in XRP) is quick, easy and will save you money. (We recommend this option.)
-
-If you are purchasing additional XRP, you are going to choose to pay with a Credit Card.
-
-Note: A 10% premium applies (rounded to the nearest 5) for paying with a credit card.
+{% hint style="info" %}
+A 10% premium applies (rounded to the nearest 5) for paying with a credit card.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -100,9 +100,7 @@ After you fill out the form, press the **Next** button.\
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-9\) You are all set! Thank you for your order. We can't do what we do without your support.
-
-
+9\) You are all set!  Please continue reading to our Frequently asked questions section for more information.
 
 ### Frequently asked questions
 
@@ -114,19 +112,9 @@ Most card orders are usually packaged and shipped out the next business day.&#x2
 
 Once your cards are shipped, you will receive an email with an Xumm Pro activation link. You will need to tap on the link to activate Pro on your device. Keep in mind, orders usually ship the next business day so you might have to wait for a day before your receive the email.
 
-#### I want to order Pro from a desktop computer
-
-If you prefer, we also offer a quick way to purchase Pro directly from a desktop computer.
-
-Simply click on the following link and scan the displayed QR code with Xumm. &#x20;
-
-{% embed url="https://xrpl-labs.com/pro/" %}
-
 #### If I don't like Xumm Pro can I get a refund?
 
 Unfortunately we do not offer refunds on the cards or on Xumm Pro subscriptions. (They are a package deal.) Due to the high cost of shipping, the cost associated with services like KYC and the nature of the cards (they generate a key pair upon first use), refunds are just not possible.
-
-
 
 #### Where can I learn more about Xumm Pro's features?
 
