@@ -112,6 +112,26 @@ Press the **Copy address** button, then exit the xApp and follow the instruction
 
 ### Frequently Asked Questions
 
-#### You have almost half a trillion r-addresses and their private keys, have you ever had any collisions?
+#### What do I do if I get a new phone? How do I import my Vanity account without the master key?
 
-Actually, we have never checked, but the chances of us stumbling across an existing key pair is **very** remote. It has taken us years to generate the existing key pairs we have. Even if we could generate 390 trillion key pairs per hour, 24 hours per day, 7 days per week, 365 days per year, it would take about 99 quadrillion years to go through all 340 undecillion possibilities. The chances of a collision is practically impossible.&#x20;
+Since the master key of your vanity account has been disabled, there is only one way to access it... by your regular key account. When the time comes to replace your phone, you simply need to install Xaman on it, import your vanity r-address into Xaman in [_read only_](../../getting-started-with-xumm/importing-your-account/...in-read-only-mode.md) mode, then [import your regular key account](../../getting-started-with-xumm/importing-your-account/) into Xaman in with full access. Xaman will recognize the regular key account and allow you to sign on you vanity account.
+
+#### What happens if I lose the master key for my regular key account?
+
+Since the master key for your vanity account has been disabled, the **only way** you can access it is with your regular key account.  If you lose the master key for your regular key account, you will not be able to access your vanity account and all of your funds will remain inaccesssible until the master key is found.
+
+#### Can I get the master key for my vanity account?
+
+No. After we disable the master key for a vanity account and set the regular key account, we delete the master key from our database.  It is no longer valid or useful at that point.&#x20;
+
+#### Can I use my vanity account on the Xahau network?
+
+You sure can. We have a create a separate article which explains how to do this:
+
+{% content-ref url="../../xahau/duplicating-your-account-xahau/duplicating-a-vanity-account-on-xahau.md" %}
+[duplicating-a-vanity-account-on-xahau.md](../../xahau/duplicating-your-account-xahau/duplicating-a-vanity-account-on-xahau.md)
+{% endcontent-ref %}
+
+#### &#x20;You have almost half a trillion r-addresses and their private keys, have you ever had any collisions?
+
+Actually, we have never checked, but the chances of us stumbling across an existing key pair is **very** remote. It has taken us years to generate the existing key pairs we have but even if we could generate 390 trillion key pairs per hour, 24 hours per day, 7 days per week, 365 days per year, it would take about 99 quadrillion years to go through all 340 undecillion possibilities. The chances of a collision is practically impossible.&#x20;
