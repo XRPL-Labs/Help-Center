@@ -6,7 +6,7 @@ description: How to duplicate an existing XRPL account on the Xahau network
 
 ### Background
 
-Most people who are interested in exploring the Xahau network will already have an existing XRP Ledger account.  This article explains how to duplicate an existing XRPL account on the Xahau network.
+Many people who are interested in exploring the Xahau network will already have an existing XRP Ledger account.  This article explains how to duplicate an existing XRPL account on the Xahau network.
 
 ### How it works
 
