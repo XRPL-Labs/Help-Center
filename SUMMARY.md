@@ -214,7 +214,6 @@
 ## Xahau
 
 * [Understanding the XAH token on the XRP Ledger](xahau/understanding-the-xah-token-on-the-xrp-ledger.md)
-* [How to move XAH from the XRPL to Xahau](xahau/how-to-move-xah-from-the-xrpl-to-xahau.md)
 * [How to create an Evernode Trust Line](xahau/how-to-create-an-evernode-trust-line.md)
 * [Duplicating your account (Xahau)](xahau/duplicating-your-account-xahau/README.md)
   * [Duplicating an XRPL account on Xahau](xahau/duplicating-your-account-xahau/duplicating-an-xrpl-account-on-xahau.md)

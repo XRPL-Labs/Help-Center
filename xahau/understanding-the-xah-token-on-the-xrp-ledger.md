@@ -4,17 +4,25 @@ description: What is the Xahau (XAH) token on the XRPL?
 
 # Understanding the XAH token on the XRP Ledger
 
-### Background
-
-One of the great features of the XRP Ledger is that it allows any asset (other than XRP) to be represented on the XRP Ledger as a **token**. Tokens can represent any type of value, including "stable coins" backed by assets that exist outside of the XRPL, purely digital tokens created specifically on the XRP Ledger, community credit, and more. Standard tokens are tracked in relationships called [trust lines](https://xrpl.org/trust-lines-and-issuing.html) between accounts and any account can issue a token.&#x20;
-
-**Note:** In the past, tokens on the XRP Ledger have also been called "IOUs" (as in [I-owe-you ](https://en.wikipedia.org/wiki/IOU)) and "issued currencies". These terms do not cover the full range of digital assets that XRP Ledger tokens can represent, but they may help you understand the concept a little better.
-
 ### History
 
 On November 1, 2023 a new XRP Ledger sidechain was launched called **Xahau**. The Xahau network runs the XRP Ledger protocol but it also introduces several new features not found on the main XRP Ledger blockchain.&#x20;
 
 One of the things introduced in Xahau is a new coin with the trading symbol of **XAH**. The primary purpose of the XAH token is pay for the transaction costs on the Xahau network.&#x20;
+
+### Tokens on the XRPL
+
+One of the great features of the XRP Ledger is that it allows any asset (other than XRP) to be represented on the XRP Ledger as a **token**. Tokens can represent any type of value, including "stable coins" backed by assets that exist outside of the XRPL, purely digital tokens created specifically on the XRP Ledger, community credit, and more. Tokens are tracked in relationships called [trust lines](https://xrpl.org/trust-lines-and-issuing.html) between accounts.&#x20;
+
+**Note:** In the past, tokens on the XRP Ledger have also been called "IOUs" (as in [I-owe-you ](https://en.wikipedia.org/wiki/IOU)) and "issued currencies". These terms do not accurately cover the entire range of digital assets that XRP Ledger tokens can represent, but they may help you understand the concept a little better.
+
+### The XAH token on the XRPL
+
+On October 29-2023, the Gatehub exchange isssued 500,000 XAH tokens on the XRP Ledger. Each one of these tokens represent 1 XAH coin on the Xahau network. These tokens are 'IOUs' for the XAH tokens which exist on the Xahau network.&#x20;
+
+You can buy, sell and trade XAH tokens on the XRP Ledger via the DEX but you can not transfer them between the XRPL and the Xahau network.
+
+They are not the same as XAH tokens on a XAH network.&#x20;
 
 ### Frequently asked Questions
 
