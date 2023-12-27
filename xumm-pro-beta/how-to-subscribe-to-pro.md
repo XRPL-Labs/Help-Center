@@ -4,17 +4,29 @@ description: How to subscribe to Xumm Pro (Beta)
 
 # How to subscribe
 
-### **Background**
+### Summary
 
-Thank you for your interest Xumm Pro. We really do appreciate it! 🤗
+Thank you for your interest Xumm Pro! 🤗
 
-In this article we will explore how to subscribe to Xumm Pro (Beta) but for a more in depth look into Xumm Pro, why you should subscribe and the answers to some frequently asked questions, check out this article:
+Xumm Pro is a paid subscription service which provides additional features to the Xaman wallet.
 
-{% content-ref url="all-about-xumm-pro/what-is-xumm-pro.md" %}
-[what-is-xumm-pro.md](all-about-xumm-pro/what-is-xumm-pro.md)
-{% endcontent-ref %}
+A subscription to Xumm Pro costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit card**.** (This subscription lasts for **1 year** at which time you will be given the option to renew your subscription.)
 
-### Understanding the process
+### Options
+
+There are two ways to subscribe to Xumm Pro.
+
+1\) Click on the following link and scan the displayed QR code with Xumm. &#x20;
+
+{% embed url="https://xrpl-labs.com/pro/" %}
+
+#### If I don't like Xum
+
+
+
+&#x20;options for suc
+
+
 
 In case you're interested, we originally had two different purchase flows in Xumm. (One for Xumm Pro and one for our hardware wallets, (Xumm cards)) The thing is, Xumm Pro always comes with 2 Xumm cards and when you purchase Xumm cards, they always come with a Pro subscription, so why have two separate flows when one will do?&#x20;
 
@@ -92,3 +104,13 @@ Simply click on the following link and scan the displayed QR code with Xumm. &#x
 #### If I don't like Xumm Pro can I get a refund?
 
 Unfortunately we do not offer refunds on the cards or on Xumm Pro subscriptions. (They are a package deal.) Due to the high cost of shipping, the cost associated with services like KYC and the nature of the cards (they generate a key pair upon first use), refunds are just not possible.
+
+
+
+#### Where can I learn more about Xumm Pro's features?
+
+For a more in depth look into Xumm Pro, please review this article:
+
+{% content-ref url="all-about-xumm-pro/what-is-xumm-pro.md" %}
+[what-is-xumm-pro.md](all-about-xumm-pro/what-is-xumm-pro.md)
+{% endcontent-ref %}

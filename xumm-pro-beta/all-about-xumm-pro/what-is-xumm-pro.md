@@ -6,7 +6,7 @@ description: What is Xumm Pro and why should you subscribe?
 
 ### Background
 
-Xumm is a self-custodial wallet designed from the ground up exclusively for the XRP Ledger. It has evolved over several years to become the most comprehensive and complete XRP wallet in the world, supporting all features of the XRPL. It is completely free to use and for most people, it is all they will ever need to interact with the XRP and Xahau communities.
+Xumm is a self-custodial wallet designed from the ground up exclusively for the XRP Ledger. It has evolved over several years to become the most comprehensive and complete XRP wallets in the world, supporting all features of the XRPL. It is completely free to use and for most people, it is all they will ever need to interact with the XRP and Xahau communities.
 
 While Xumm is feature complete, it became apparent that the XRP community wanted Xumm to do more than provide access to the XRPL. More and more people wanted additional features to enhance their user experience, so we listened and Xumm Pro was born.&#x20;
 
