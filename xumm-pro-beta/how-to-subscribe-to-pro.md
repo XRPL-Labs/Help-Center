@@ -14,23 +14,44 @@ A subscription to Xumm Pro costs **$60 USD** (paid in XRP) or about **$70 USD** 
 
 ### Options
 
-There are two ways to subscribe to Xumm Pro.
+There are two ways to subscribe to Xumm Pro, based on how you would like to pay. (Via credit card or with XRP.
 
-1\) Click on the following link and scan the displayed QR code with Xumm. &#x20;
+Paying with XRP is by far the better option. It allows you to pay instantly, gets you immediate access to Pro, is less expensive ($60 vs. $70) and you can pay directly from Xaman!
+
+### Paying with XRP
+
+1\) Click on the following link:  &#x20;
 
 {% embed url="https://xrpl-labs.com/pro/" %}
 
-#### If I don't like Xum
+and select '**Get Pro (Beta) now!**':
+
+<figure><img src="../.gitbook/assets/Xumm Pro purchase screen.png" alt=""><figcaption></figcaption></figure>
+
+2a) If you are on a desktop computer, you can scan the QR with Xaman:&#x20;
+
+<figure><img src="../.gitbook/assets/Xumm Pro Sign request.png" alt=""><figcaption></figcaption></figure>
+
+Then sign the transaction with Xaman:
 
 
 
-&#x20;options for suc
+<figure><img src="../.gitbook/assets/Xumm Pro Transaction screen.png" alt=""><figcaption></figcaption></figure>
+
+2b) If you are on your phone, sign into Xaman and sign the transaction.
 
 
 
-In case you're interested, we originally had two different purchase flows in Xumm. (One for Xumm Pro and one for our hardware wallets, (Xumm cards)) The thing is, Xumm Pro always comes with 2 Xumm cards and when you purchase Xumm cards, they always come with a Pro subscription, so why have two separate flows when one will do?&#x20;
+<figure><img src="../.gitbook/assets/Xumm Pro Transaction screen.png" alt=""><figcaption></figcaption></figure>
 
-So you'll notice that the subscription process takes you through the Xumm card purchase flow. This is how it was designed to work.&#x20;
+
+
+3\) You should be forwarded to this screen after signing:
+
+<figure><img src="../.gitbook/assets/Xumm Pro - Completed transaction.png" alt=""><figcaption></figcaption></figure>
+
+4a) If you are on a desktop computer, click the **Open Pro** button and scan the QR code with Xaman.\
+4b) If you are on a phone, tap the **Open Pro** button and Xumm Pro should launch.
 
 ### **How to subscribe**
 
