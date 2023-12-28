@@ -44,7 +44,7 @@ Unfortunately there is no way to get the Update screen back. You will need to ma
 
 #### Do I have to update to the latest version?
 
-&#x20;No. Updating is completely optional. Your current version will continue to be supported
+Updating is completely optional, but it is important to understand that the latest version contains several bugs fixes and improvements. If you were to encounter an issue with your version of Xumm, you will be asked to update to the latest version in order to receive support.
 
 #### What versions of Android and iOS do I need for Xaman v2.6?
 
