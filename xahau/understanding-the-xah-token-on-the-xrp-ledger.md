@@ -18,7 +18,7 @@ One of the great features of the XRP Ledger is that it allows any asset (other t
 
 ### The XAH token on the XRPL
 
-On October 29-2023, the Gatehub exchange isssued 500,000 XAH tokens on the XRP Ledger. Each one of these tokens represent 1 XAH coin on the Xahau network. These tokens are 'IOUs' for the XAH coins which exist on the Xahau network. (They are not the same as XAH coins on Xahau.)&#x20;
+A good example of a token issuer would be the Gatehub exchange. On October 29-2023, Gatehub isssued 500,000 XAH tokens on the XRP Ledger. At the same, they moved 500,000 XAH tokens into their reserves to back their issued tokens with XAH on the Xahau network. This means that each one of the XAH tokens they created on the XRPL, has a XAH coin on the Xahau network to back it up. The XAH tokens on the XRPL are 'IOUs' for the XAH coins which exist on the Xahau network.&#x20;
 
 ### Frequently asked Questions
 
