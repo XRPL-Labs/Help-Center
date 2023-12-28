@@ -26,7 +26,7 @@ In the case of USDC and USDT, these two tokens now allow you to trade stable coi
 
 All of these tokens can be traded on the DEX so you can take advantage of the XRPL’s speed and super cheap fees. Imagine being able to make trades on the Ethereum network that can complete in under 5 seconds at the cost of under 1 penny. With these issued tokens, you can do this on the XRPL, even though the native asset is on a different blockchain.
 
-You get all the advantages of the XRP Ledger with these tokens. Speed, reliability, the DEX, the low fees and of course, you can manage them all with Xumm!
+You get all the advantages of the XRP Ledger with these tokens. Speed, reliability, the DEX, the low fees and of course, you can manage them all with Xaman!
 
 ### **What is a stablecoin?**
 
@@ -34,7 +34,7 @@ Stablecoins are cryptocurrencies whose value is tied to that of another currency
 
 Let's look at the EUR stablecoin.
 
-The EUR token that Gatehub issued is “pegged” to the Euro fiat currency. This means that 1 EUR stablecoin will always hold a value near 1 EUR. The value is kept stable by the trust that Gatehub holds sufficient assets and is acting in a transparent way.&#x20;
+The EUR token that Gatehub issued is “pegged” to the Euro fiat currency. This means that 1 EUR stablecoin will always hold a value near 1 EUR. The value is kept stable by the trust that Gatehub holds sufficient assets and that it is acting in a transparent way.&#x20;
 
 You can read more about how this works here:
 
@@ -54,7 +54,7 @@ In September 2021, Flare Networks launched a proprietary canary network called S
 
 On October 11-2021, Gatehub issued 1,594,2003 SGB tokens on the XRP Ledger.
 
-While they both have the same symbol, SGB, they exist on different and incompatible networks.
+While they both tokens have the same symbol, SGB, they exist on different and incompatible networks.
 
 You can not send an XRPL token directly to the Songbird network and you can not send a Songbird token directly to the XRP Ledger. They are different tokens issued on different blockchains.
 
@@ -62,9 +62,9 @@ You can not send an XRPL token directly to the Songbird network and you can not 
 
 ### **How about XAH tokens?**
 
-On October 29-2023, Gatehub isssued 500,000 XAH tokens on the XRP Ledger. These tokens are IOUs for the real XAH tokens which exist on the Xahau network. You can not send the XAH token from the XRP Ledger to the Xahau network. While the XRPL and Xahau have many similarities, they are different networks.
+On October 29-2023, Gatehub isssued 500,000 XAH tokens on the XRP Ledger. At the same, they moved 500,000 XAH tokens into their reserves to back their issued tokens with XAH on the Xahau network. This means that each one of the XAH tokens they created on the XRPL, has a XAH coin on the Xahau network to back it up. The XAH tokens on the XRPL are 'IOUs' for the XAH coins which exist on the Xahau network.&#x20;
 
-**Gatehub** will allow you to redeem XAH tokens issued on the XRPL for XAH issued on the Xahau.
+**Gatehub** will allow you to redeem XAH tokens issued on the XRPL for XAH issued on the Xahau network.
 
 ### **How about the USDT and USDC tokens?**
 
