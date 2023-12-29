@@ -43,11 +43,15 @@ In some cases you might notice a red dot beside the Events button.
 
 <figure><img src="../../.gitbook/assets/Events button with bubble 2.png" alt=""><figcaption></figcaption></figure>
 
-The red dot means that there is an Sign Request under the **Requests** tab that requires your attention.&#x20;
+The red dot means that there is an event under the **Requests** tab that requires your attention.&#x20;
 
 In the following example, you can see there is a Sign Request waiting to be signed.
 
 <figure><img src="../../.gitbook/assets/Requests tab - Events.png" alt=""><figcaption></figcaption></figure>
 
-Simply sign or decline the Sign request and the red dot will go away.
+or in this case, an NFT offer waiting for your review.
+
+<figure><img src="../../.gitbook/assets/Requests tab - Events - 2.png" alt=""><figcaption></figcaption></figure>
+
+Simply select the event and resolve it and the red dot will go away.
 
