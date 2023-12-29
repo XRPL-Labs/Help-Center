@@ -43,7 +43,7 @@ In some cases you might notice a red dot beside the Events button.
 
 <figure><img src="../../.gitbook/assets/Events button with bubble.png" alt=""><figcaption></figcaption></figure>
 
-The red dot means that there is an event under the **Request** tab the requires your attention. Simply tap the **Request** tab and view the most recent event and the red dot should go away.
+The red dot means that there is an event under the **Requests** tab the requires your attention. Simply tap the **Requests** tab and view the most recent event and the red dot should go away.
 
 
 
