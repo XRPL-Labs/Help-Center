@@ -26,7 +26,7 @@ Crypto exchanges like Bitrue and Gatehub support the Xahau network. You can purc
 
 
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Bitrue</td><td></td><td><a href="how-to-send-xah-from-bitrue.md">how-to-send-xah-from-bitrue.md</a></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Bitrue</td><td></td><td><a href="how-to-send-xah-from-bitrue.md">how-to-send-xah-from-bitrue.md</a></td></tr></tbody></table>
 
 3\) **Via another Xahau account**
 
@@ -36,5 +36,5 @@ This article explains how to do this:
 
 
 
-<table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td></td><td align="center">How to send XAH from another Xahau account</td><td></td></tr><tr><td></td><td align="center"></td><td></td></tr><tr><td></td><td align="center"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td></td><td align="center">How to send XAH from another Xahau account</td><td></td></tr></tbody></table>
 
