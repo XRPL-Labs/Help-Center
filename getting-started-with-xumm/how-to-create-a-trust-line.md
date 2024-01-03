@@ -4,19 +4,19 @@ description: How to create a Trust Line on the XRP Ledger
 
 # How to create a Trust Line
 
-There are two easy ways to create Trust Line using Xumm:
+There are two easy ways to create Trust Line using Xaman:
 
 1\) Selecting one of the pre-vetted tokens from our **short list**
 
-2\) Visiting **XRPL.Services** and sign using Xumm
+2\) Visiting **XRPL.Services** and sign using Xaman
 
-### **What is the Xumm short list?**
+### **What is the Xaman short list?**
 
-The "short list" is the list of tokens that is presented when you press the _**+Add**_ button on the main screen of Xumm.
+The "short list" is the list of tokens that is presented when you press the _**+Add**_ button on the main screen of Xaman.
 
 <figure><img src="../.gitbook/assets/Short List - 1.png" alt=""><figcaption></figcaption></figure>
 
-Xumm will display a screen that looks like this:
+Xaman will display a screen that looks like this:
 
 <figure><img src="../.gitbook/assets/Short List - 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ From here you can simply select an issuer, for example, **Gatehub**, then choose
 
 <figure><img src="../.gitbook/assets/Short List - 3.png" alt=""><figcaption></figcaption></figure>
 
-Xumm will craft a transaction with the details of the Trust Line and after you have reviewed them, you can **Slide to accept**. &#x20;
+Xaman will craft a transaction with the details of the Trust Line and after you have reviewed them, you can **Slide to accept**. &#x20;
 
 You should see a warning message cautioning you about the potential dangers. Make sure you read the message, then press **Continue**.&#x20;
 
