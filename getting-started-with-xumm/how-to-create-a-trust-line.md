@@ -14,7 +14,9 @@ There are two easy ways to create Trust Line using Xaman:
 
 The "short list" is the list of tokens that is presented when you press the _**+Add**_ button on the main screen of Xaman.
 
-<figure><img src="../.gitbook/assets/Short List - 1.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Xaman - Add button.png" alt=""><figcaption></figcaption></figure>
 
 Xaman will display a screen that looks like this:
 
