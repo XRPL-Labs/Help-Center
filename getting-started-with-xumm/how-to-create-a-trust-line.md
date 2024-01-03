@@ -34,7 +34,7 @@ Finally, either enter your **passcode/signing password/biometrics** to sign the 
 
 ### **What is XRPL.Services?**
 
-XRPL.Services is a website which allows you to interact with the XRP Ledger in various ways and to easily create transactions that you can sign with Xumm.&#x20;
+XRPL.Services is a website which allows you to interact with the XRP Ledger in various ways and to easily create transactions that you can sign with Xaman.&#x20;
 
 In this case, you can use it to create a Trust Line.
 
@@ -48,9 +48,9 @@ In this case, you can use it to create a Trust Line.
 
 4\) Press the **Confirm** button.
 
-5\) Press the **Open in the Xumm app** button.
+5\) Press the **Open in the Xamanm app** button.
 
-6\) Sign into Xumm.
+6\) Sign into Xaman.
 
 7\) Review the transaction to make sure it is correct.
 
