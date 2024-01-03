@@ -78,7 +78,7 @@ In this case, you can use it to create a Trust Line.
 
 <figure><img src="../.gitbook/assets/XRPL Services - 6.png" alt=""><figcaption></figcaption></figure>
 
-6\) Sign into Xumm.
+6\) Sign into Xaman.
 
 7\) Review the transaction to make sure it is correct.
 
