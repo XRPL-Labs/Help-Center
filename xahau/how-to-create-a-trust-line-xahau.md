@@ -40,7 +40,7 @@ In this case, you can use it to create a Trust Line.
 
 ### Quick instructions
 
-1\) Click on this link: [**Xahau Services**](https://xahau.services/)
+1\) Click on this link: [**Xahau Services**](https://xahau.services/tokens)
 
 2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
 

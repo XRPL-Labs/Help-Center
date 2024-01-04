@@ -47,7 +47,6 @@
 * [Accessing your XRP account](hot-topics/how-can-you-access-your-xrpl-account.md)
 * [General Terms and definitions](getting-started/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [How to create a Trust Line](getting-started-with-xumm/how-to-create-a-trust-line.md)
-* [How to create a Trust Line (Xahau)](getting-started-with-xumm/how-to-create-a-trust-line-xahau.md)
 * [How to test your Account Secret](getting-started-with-xumm/how-to-test-your-account-secret.md)
 * [How to Rekey an XRP Ledger (XRPL) Account](getting-started-with-xumm/how-to-rekey-your-account.md)
 * [How to disable the Master key](getting-started-with-xumm/how-to-disable-the-master-key.md)
@@ -215,6 +214,7 @@
 ## Xahau
 
 * [Understanding the XAH token on the XRP Ledger](xahau/understanding-the-xah-token-on-the-xrp-ledger.md)
+* [How to create a Trust Line (Xahau)](xahau/how-to-create-a-trust-line-xahau.md)
 * [How to create an Evernode Trust Line](xahau/how-to-create-an-evernode-trust-line.md)
 * [Duplicating your account (Xahau)](xahau/duplicating-your-account-xahau/README.md)
   * [Duplicating an XRPL account on Xahau](xahau/duplicating-your-account-xahau/duplicating-an-xrpl-account-on-xahau.md)
