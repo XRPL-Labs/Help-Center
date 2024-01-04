@@ -44,6 +44,8 @@ In this case, you can use it to create a Trust Line.
 
 2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
 
+<figure><img src="../.gitbook/assets/Xahau services - 2.png" alt=""><figcaption></figcaption></figure>
+
 3\) When the desired token is displayed, press the **Set Trustline** link beside the token.
 
 4\) Press the **Confirm** button.
