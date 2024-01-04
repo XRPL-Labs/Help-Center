@@ -52,9 +52,11 @@ In this case, you can use it to create a Trust Line.
 
 4\) Press the **Confirm** button.
 
-
+<figure><img src="../.gitbook/assets/Xahau services - 4.png" alt=""><figcaption></figcaption></figure>
 
 5\) Press the **Open in the Xaman app** button.
+
+
 
 6\) Sign into Xaman.
 
