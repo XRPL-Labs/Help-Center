@@ -54,13 +54,11 @@ In this case, you can use it to create a Trust Line.
 
 <figure><img src="../.gitbook/assets/Xahau services - 4.png" alt=""><figcaption></figcaption></figure>
 
-5\) Press the **Open in the Xaman** link or scan the QR with Xaman.
+5\) Scan the QR with Xaman.
 
 <figure><img src="../.gitbook/assets/Xahau services - 5.png" alt=""><figcaption></figcaption></figure>
 
-6\) Sign into Xaman.
+6\) Review the transaction to make sure it is correct.
 
-7\) Review the transaction to make sure it is correct.
-
-8\) **Slide to sign**.
+7\) **Slide to sign**.
 
