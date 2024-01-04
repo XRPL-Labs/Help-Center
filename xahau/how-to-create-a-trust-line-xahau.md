@@ -48,9 +48,13 @@ In this case, you can use it to create a Trust Line.
 
 3\) When the desired token is displayed, press the **Set Trustline** link beside the token.
 
+<figure><img src="../.gitbook/assets/Xahau services - 3.png" alt=""><figcaption></figcaption></figure>
+
 4\) Press the **Confirm** button.
 
-5\) Press the **Open in the Xamanm app** button.
+
+
+5\) Press the **Open in the Xaman app** button.
 
 6\) Sign into Xaman.
 
