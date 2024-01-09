@@ -6,15 +6,21 @@ description: >-
 
 # Account present on another device
 
-You have just received the following message in Xumm:
+### Situation
+
+You have just received the following message in Xaman:
 
 <figure><img src="../../.gitbook/assets/Account Present.png" alt=""><figcaption></figcaption></figure>
 
 ### Explanation
 
-In most cases, this is an automated message sent when you get a new phone and install Xumm for the first time. Once you import your existing account secret into Xumm, it recognizes that you have a new device and sends the above notification.
+This message is triggered when:
 
-If you just imported your account into a new device, there is nothing to worry about.
+1\) You install Xaman on a new phone and import your existing account secret for the first time.
+
+2\) Someone else imports your account secret into Xaman on their phone for the first time.
+
+
 
 ### Older versions of Xumm
 
