@@ -50,8 +50,6 @@ For example, let's say a friend wanted to send you 1000 XRP. The crypto exchange
 
 However, the r-address is **not your r-address**. It belongs to the crypto exchange. Your friend is sending the 1000 XRP to the **crypto exchange's account,** not to your account. You don't have an account on the XRPL. You have an account on the crypto exchange's database. The crypto exchange actually has your XRPL and puts a 1000 XRP credit your account with them. The actual XRP is in **their** XRPL account.&#x20;
 
-However, the r-address is **not your r-address**. It belongs to the crypto exchange. Your friend is sending the 1000 XRP to the **crypto exchange's account,** not to your account. You don't have an account on the XRPL. You have an account on the crypto exchange's database. The crypto exchange actually has your XRPL and puts a 1000 XRP credit your account with them. The actual XRP is in their XRPL account.&#x20;
-
 Since the exchange created an account on their "hosted" system (on their computers which they own and operate) and agree to take custody of your funds, we refer to them as **custodial accounts**.
 
 This does create a potential question as to who actually owns the XRP since it is not really in your account. It is in the crypto exchange's account.&#x20;
@@ -62,7 +60,7 @@ However... on the XRP Ledger, there is a **second option**.
 
 ### Self-custodial accounts
 
-One of the great features on the XRP Ledger is that you can actually create your own account on the network. This means that you can create your own r-address and have complete control over it. It also means that you, and only you, can make decisions on how you will manage your funds. As well, you actually own and control your own XRP. We refer to this type of account on the XRP Ledger as a **self-custodial** account.&#x20;
+One of the great features of the XRP Ledger is that you can actually create your own account on the network. This means that you can create your own r-address and have complete control over it. It also means that you, and only you, can make decisions on how you will manage your funds. As well, you actually own and control your own XRP. We refer to this type of account on the XRP Ledger as a **self-custodial** account.&#x20;
 
 Self-custodial accounts on the XRPL are not controlled by banks or businesses or governments. They are completely controlled by you.  Xumm helps you manage these types of accounts.
 
@@ -72,4 +70,4 @@ You may find that other wallets or companies refer to self-custodial accounts as
 
 ### Xumm - A self-custodial wallet
 
-Xumm is a self-custodial wallet the allows you to transact directly with the XRP Ledger. It provides you with an easy way to create a new XRPL account in a safe and secure way, and helps you interact with the XRPL and manage your XRPL account(s).
+Xumm is a self-custodial wallet that allows you to transact directly with the XRP Ledger. It provides you with an easy way to create a new XRPL account in a safe and secure way, and helps you interact with the XRPL and manage your XRPL account(s).
