@@ -25,3 +25,20 @@ This article provides instructions on how to send XAH coins to your Xahau accoun
 &#x20;    C. Enter the amount of XAH tokens you would like to send.
 
 <figure><img src="../../.gitbook/assets/Gatehub - Main page - 4.png" alt=""><figcaption></figcaption></figure>
+
+5\) When you're done, you should see a screen like this:
+
+<figure><img src="../../.gitbook/assets/Gatehub - Main page - 5.png" alt=""><figcaption></figcaption></figure>
+
+Press the **Confirm** button to continue.
+
+6\) Press **Confirm** to complete the transaction.
+
+
+
+<figure><img src="../../.gitbook/assets/Gatehub - Main page - 6.png" alt=""><figcaption></figcaption></figure>
+
+### Frequently asked questions
+
+
+
