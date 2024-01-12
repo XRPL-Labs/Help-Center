@@ -8,9 +8,9 @@ description: How to delete an XRP Ledger account from the XRPL.
 
 1\) Go to [<mark style="color:blue;">**XRPL Services**</mark>](https://xrpl.services)
 
-2\) Sign in with Xumm using the account you would like to delete
+2\) Sign in with Xaman using the account you would like to delete.
 
-3\) Select the **Account delete** option
+3\) Select the **Account delete** option.
 
 4\) Enter the r-address where you would like your funds delivered to.
 
@@ -19,22 +19,26 @@ description: How to delete an XRP Ledger account from the XRPL.
 ### Important things to consider
 
 * If you plan to send your remaining funds to a crypto exchange or to another wallet, please make sure that they support the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction on the XRPL. Quality exchanges such as [Gatehub](https://gatehub.net/) support it but many do not.&#x20;
-* The XRP Ledger has a 2 XRP fee to delete an account. (in addition to the regular transaction fee) This means that after you delete your account you should receive about 8 XRP from your 10 XRP base reserve.
+* The XRP Ledger has a 2 XRP fee to delete an account. (In addition to the regular transaction fee.) This means that after you delete your account you should receive about 8 XRP from your 10 XRP base reserve.
 * A new account on the XRP Ledger **can not** be activated by the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction. If you try to do this, it will be rejected and you will still be charged the 2 XRP fee.&#x20;
 * Even after you delete your account, you should **not throw away your account secret**. Someone may send funds to your account in the future and you will need your account secret to access them.
 
 ### Frequently asked questions
 
-#### **I removed my account from Xumm. Why didn't I get the base reserve?**
+#### **I removed my account from Xaman. Why didn't I get the base reserve?**
 
-Removing an account from Xumm is not the same as deleting an account from the XRP Ledger.
+Removing an account from Xaman... (Settings -> Accounts -> Edit -> Remove from Xaman)
 
-When an account is removed from Xumm, the account secret (Secret numbers / Family seed / Mnemonic) is deleted from Xumm, but the XRPL account still exists on the XRP Ledger.
+<figure><img src="../.gitbook/assets/Remove from Xaman.png" alt=""><figcaption></figcaption></figure>
+
+...is not the same as deleting an account from the XRP Ledger.
+
+When an account is removed from Xaman, the account secret (Secret numbers / Family seed / Mnemonic) is deleted from Xaman, but the XRPL account still exists on the XRP Ledger.
 
 To delete an XRPL account, you need to follow the instructions above.
 
 {% hint style="warning" %}
-&#x20;If your XRPL account was removed from Xumm in error, it can be imported back into Xumm using the account secret (Secret numbers / Family Seed / Mnemonic) by following the instructions here:\
+If your XRPL account was removed from Xaman in error, it can be imported back into Xaman using the account secret (Secret numbers / Family Seed / Mnemonic) by following the instructions here:\
 \
 [**Importing your account into Xumm**](../getting-started-with-xumm/importing-your-account/)
 {% endhint %}
@@ -45,11 +49,11 @@ If you already deleted your account and sent the remaining funds to a crypto exc
 
 They will need to locate your funds in their system and deliver them to your exchange account.&#x20;
 
-Unfortunately there is **nothing Xumm Support can do** to help you recover your funds. Only your exchange is capable of delivering your funds to your account.&#x20;
+Unfortunately there is **nothing Xaman Support can do** to help you recover your funds. Only your exchange is capable of delivering your funds to your account.&#x20;
 
 #### **I still have NFTs in my account so I can not delete it. What should I do?**
 
-You can not own **any objects** on the XRP Ledger in your XRP Ledger account, including NFTs. This means that you need to either sell your NFTs or delete them. For instructions on how to do this, contact the site where you acquired the NFTs and they should be able to assist you.
+You can not own **any objects** in your XRP Ledger account, including NFTs, if you plan to delete it. This means that you need to either sell your NFTs or delete them. For instructions on how to do this, contact the site where you acquired the NFTs from and they should be able to assist you.
 
 #### **I removed all the NFTs in my account but I still can not delete it. What should I do?**
 
