@@ -16,4 +16,12 @@ This article provides instructions on how to send XAH coins to your Xahau accoun
 
 <figure><img src="../../.gitbook/assets/Gatehub - Main page - 2.png" alt=""><figcaption></figcaption></figure>
 
-3\)&#x20;
+3\) Enter your Gatehub password (and 2FA code if applicable.)
+
+<figure><img src="../../.gitbook/assets/Gatehub - Main page - 3.png" alt=""><figcaption></figcaption></figure>
+
+4\) A. Enter the r-address of the Xahau account you would like to send the XAH tokens to.\
+&#x20;    B. Press the down arrow and select XAH (Gatehub Crypto)\
+&#x20;    C. Enter the amount of XAH tokens you would like to send.
+
+<figure><img src="../../.gitbook/assets/Gatehub - Main page - 4.png" alt=""><figcaption></figcaption></figure>
