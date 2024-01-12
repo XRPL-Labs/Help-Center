@@ -37,8 +37,3 @@ Press the **Confirm** button to continue.
 
 
 <figure><img src="../../.gitbook/assets/Gatehub - Main page - 6.png" alt=""><figcaption></figcaption></figure>
-
-### Frequently asked questions
-
-
-
