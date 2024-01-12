@@ -6,7 +6,7 @@ description: Activating an account from Bitrue
 
 ### Summary
 
-This article provides instructions on how to purchase send XAH coins to your Xahau account managed by Xaman.
+This article provides instructions on how to send XAH coins to your Xahau account managed by Xaman.
 
 
 
