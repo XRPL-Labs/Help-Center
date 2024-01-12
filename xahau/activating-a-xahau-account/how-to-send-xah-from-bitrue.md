@@ -1,5 +1,5 @@
 ---
-description: Activating an account from Bitrue
+description: Activating a Xahau account from Bitrue
 ---
 
 # How to send XAH from Bitrue
@@ -10,7 +10,7 @@ This article provides instructions on how to send XAH coins to your Xahau accoun
 
 
 
-1\) Go to the Bitrue website, sign into your Bitrue account and choose the **Assets** menu then **Spot**.
+1\) Go to the [Bitrue website](https://www.bitrue.com/), sign into your Bitrue account and choose the **Assets** menu then **Spot**.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
