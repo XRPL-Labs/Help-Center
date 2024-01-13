@@ -8,41 +8,47 @@ description: Gatehub has issued several tokens. How do they work?
 
 GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency.&#x20;
 
-For more information, you can visit their site here:
-
-* [Gatehub](https://gatehub.net/)
+For a complete list of their services, you can visit their site here =>  [Gatehub](https://gatehub.net/)
 
 ### **What tokens has Gatehub issued?**
 
-Gatehub has currently issued 16 different tokens on the XRPL, including XAH, USDT, USDC, GALA, WXRP, Flare and SGB, along with stablecoins such as EUR, USD, GBP and others.
+Gatehub has currently issued 16 different tokens on the XRP Ledger (XRPL), including XAH, USDT, USDC, GALA, WXRP, Flare and SGB, along with stable coins such as EUR, USD, GBP and others.
+
+### **Do these tokens have any value?**
+
+Yes. Here's a good example of how a token's value works.
+
+On October 29-2023, Gatehub issued 500,000 XAH tokens (GH-XAH) on the XRP Ledger. At the same time, they moved 500,000 XAH coins into their reserves to back their issued tokens with XAH on the Xahau network. By doing this, each one of the GH-XAU tokens has a XAH coin on the Xahau network to back it up.&#x20;
+
+It might help to think of the GH-XAH tokens as if they are 'IOUs' for the XAH coins which exist on the Xahau network. **Gatehub** will exchange the GH-XAH tokens issued on the XRPL for XAH coins on the Xahau network.
 
 ### **Why would I want any of these tokens?**&#x20;
 
-The tokens that Gatehub has issued on the XRPL are pegged to the actual asset.
+The tokens that Gatehub has issued on the XRPL are directly linked to the actual asset.
 
-For example, if you hold a Gatehub issued SGB token on the XRPL, you can exchange it 1:1 into “real” SGB. This means that you can trade SGB on the XRPL. The same applies to Flare, USDC, USDT, GALA and all the other tokens Gatehub has issued.
+For example, if you hold a Gatehub issued SGB token (GH-SGB) on the XRPL, you can exchange it 1:1 into “real” SGB on the Gatehub platform.&#x20;
 
-In the case of USDC and USDT, these two tokens now allow you to trade stable coins on the XRP Ledger. You can on ramp fiat to one of these stable coins on the Ethereum network, convert it to USDC or USDT via Gatehub on the XRPL and then use the stable coin on the XRP Ledger.
+By owning GH-SGB the XRPL you can take advantage of all of the great features on the XRPL has to offer. (Low fees, fast settlement, secure platform, eco-friendly, etc.) The same applies to Flare, USDC, USDT, GALA and all the other tokens Gatehub has issued. By owning the Gatehub token, you basically own the asset on the XRPL.&#x20;
 
-All of these tokens can be traded on the DEX so you can take advantage of the XRPL’s speed and super cheap fees. Imagine being able to make trades on the Ethereum network that can complete in under 5 seconds at the cost of under 1 penny. With these issued tokens, you can do this on the XRPL, even though the native asset is on a different blockchain.
+Perhaps the best part, is that all of these tokens can be traded on the XRPL DEX so you can take advantage of the XRPL’s speed and super cheap fees. Imagine being able to make trades on the Ethereum network that can complete in under 5 seconds at the cost of under 1 penny per trade. With these issued tokens, you can do this on the XRPL, even though the native asset is on a different blockchain.
 
 You get all the advantages of the XRP Ledger with these tokens. Speed, reliability, the DEX, the low fees and of course, you can manage them all with Xaman!
 
-### **What is a stablecoin?**
+### **What is a stable coin?**
 
-Stablecoins are cryptocurrencies whose value is tied to that of another currency, commodity, or financial instrument.
+Stable coins are cryptocurrencies whose value is tied to that of another currency, commodity, or financial instrument.
 
-Let's look at the EUR stablecoin.
+Let's look at the EUR stable coin.
 
-The EUR token that Gatehub issued is “pegged” to the Euro fiat currency. This means that 1 EUR stablecoin will always hold a value near 1 EUR. The value is kept stable by the trust that Gatehub holds sufficient assets and that it is acting in a transparent way.&#x20;
+The EUR token that Gatehub issued is “pegged” to the Euro fiat currency. This means that 1 EUR stable coin will always hold a value near 1 EUR. The value is kept stable by the trust that Gatehub holds sufficient assets and that it is acting in a transparent way.&#x20;
 
 You can read more about how this works here:
 
 {% embed url="https://gatehub.net/blog/stablecoins/" %}
 
-### **How do I "cash out" a stablecoin?**
+### **How do I "cash out" a stable coin?**
 
-This feature has been integrated into Xumm. This article explains how it works:
+This feature has been integrated into Xaman (formerly Xumm). This article explains how it works:
 
 {% content-ref url="cashing-out-with-gatehub.md" %}
 [cashing-out-with-gatehub.md](cashing-out-with-gatehub.md)
@@ -54,21 +60,15 @@ In September 2021, Flare Networks launched a proprietary canary network called S
 
 On October 11-2021, Gatehub issued 1,594,2003 SGB tokens on the XRP Ledger.
 
-While they both tokens have the same symbol, SGB, they exist on different and incompatible networks.
+While both tokens have the same symbol, SGB, they exist on different networks.
 
-You can not send an XRPL token directly to the Songbird network and you can not send a Songbird token directly to the XRP Ledger. They are different tokens issued on different blockchains.
+You can not send a GH-SGB token directly to the Songbird network and you can not send a Songbird coin directly to the XRP Ledger. They are different assets issued on different blockchains.
 
-**Gatehub** will allow you to redeem SGB tokens issued on the XRPL for SGB issued on the Songbird network and vice versa.
-
-### **How about XAH tokens?**
-
-On October 29-2023, Gatehub isssued 500,000 XAH tokens on the XRP Ledger. At the same, they moved 500,000 XAH tokens into their reserves to back their issued tokens with XAH on the Xahau network. This means that each one of the XAH tokens they created on the XRPL, has a XAH coin on the Xahau network to back it up. The XAH tokens on the XRPL are 'IOUs' for the XAH coins which exist on the Xahau network.&#x20;
-
-**Gatehub** will allow you to redeem XAH tokens issued on the XRPL for XAH issued on the Xahau network.
+**Gatehub** will allow you to exchange your GH-SGB tokens issued on the XRPL for SGB issued on the Songbird network and vice versa.
 
 ### **How about the USDT and USDC tokens?**
 
-USD Tether and USD Coin are stablecoins issued on the Ethereum network using the ERC-20 standard and are back by USD fiat currency.
+USD Tether and USD Coin are stable coins issued on the Ethereum network using the ERC-20 standard and are back by USD fiat currency.
 
 On February 12-2022, Gatehub issued 500,000 USDC tokens and 499,998 USDT tokens on the XRP Ledger.
 
@@ -76,7 +76,7 @@ Just like the SGB token discussed above, both the USDC and USDT tokens issued on
 
 You can not send an XRPL token directly to the Ethereum network and you can not send an Ethereum token directly to the XRP Ledger. They are different tokens issued on different blockchains.
 
-**Gatehub** will allow you to redeem USDT and USDC tokens issued on the XRPL for USDC and USDT tokens issued on the Ethereum network and vice versa.
+**Gatehub** will allow you to exchange USDT and USDC tokens issued on the XRPL for USDC and USDT tokens issued on the Ethereum network and vice versa.
 
 ### **…and the Gala and WXRP tokens?**
 
@@ -90,19 +90,19 @@ Both the GALA and WXRP tokens issued on the Ethereum blockchain are **not compat
 
 You can not send an XRPL token directly to the Ethereum network and you can not send an Ethereum token directly to the XRP Ledger. They are different tokens issued on different blockchains.
 
-**Gatehub** will allow you to redeem GALA and WXRP tokens issued on the XRPL for GALA and WXRP tokens issued on the Ethereum network and vice versa.
+**Gatehub** will allow you to exchange GALA and WXRP tokens issued on the XRPL for GALA and WXRP tokens issued on the Ethereum network and vice versa.
 
-### **How do I bring my** **USDC, USDT, GALA,WXRP from Ethereum to the XRPL?**
+### **How do I bring my** **USDC, USDT, GALA, WXRP from Ethereum to the XRPL?**
 
-You need to visit Gatehub and create an account with them. Once you have done that, you can send your funds to their platform and convert them to their XRPL equivalent.
+You need to visit [Gatehub](https://gatehub.net/) and create an account on their platform. Once you have done that, you can send your coins to your account with them and convert the coins to their XRPL equivalent.
 
-For more information about the process, you can contact Gatehub support at:
+If you have any questions about this process, you can contact Gatehub support at:
 
 * [Gatehub Support](https://support.gatehub.net/hc/en-us)
 
 ### **How do I convert my Gatehub issued USDC, USDT, GALA or WXRP back to Ethereum based tokens?**
 
-If you have purchased any of the tokens issued by Gatehub on the XRP Ledger and you are interested in “cashing out” or converting them to their counter part on another network, you need to visit Gatehub and create an account on their platform. Once you have done that, you can send your tokens from Xumm to your account with them and Gatehub will convert them there.
+If you have purchased any of the tokens issued by Gatehub on the XRP Ledger and you are interested in “cashing out” or converting them to their counter part on another network, you need to visit Gatehub and create an account on their platform. Once you have done that, you can send your tokens from Xaman (formerly Xumm) to your account with them and Gatehub will convert them for you.
 
 For more information about this process, you can contact Gatehub support at:
 
