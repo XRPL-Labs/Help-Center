@@ -37,3 +37,26 @@ Press the **Confirm** button to continue.
 
 
 <figure><img src="../../.gitbook/assets/Gatehub - Main page - 6.png" alt=""><figcaption></figcaption></figure>
+
+### Frequently Asked Questions
+
+#### Can I hold XAH coins in my Gatehub account?
+
+No. Any XAH coins you send to your Gatehub account are automatically converted to Gatehub's issued XAH tokens. (GH-XAH).  If you send GH-XAH tokens to your Xahau account, they are automatically converted back to XAH coins. Gatehub handles the conversion automatically in the background.
+
+#### Can I activate a Xahau account with my GH-XAH tokens?
+
+Yes and No.&#x20;
+
+Yes. If you own XAH tokens issued by Gatehub (GH-XAH) in your XRP Ledger account managed by Xaman (formerly Xumm), you can send them to your Gatehub account, then send them to your Xahau account. Gatehub will automatically exchange your GH-XAH for XAH coins and send them to your Xahau account.&#x20;
+
+The first XAH coin that is sent to a Xahau account is used to activate it.
+
+You can read more about this here:
+
+No. If you own XAH tokens issued by Gatehub (GH-XAH) in your XRP Ledger account managed by Xaman (formerly Xumm), you **can not directly** activate a Xahau account with them. (ie. you can not send the GH-XAH directly to the Xahau network using Xaman.)  You have to send your GH-XAH to your Gatehub account, then send it to your Xahau account.
+
+
+
+
+
