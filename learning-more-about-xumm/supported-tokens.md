@@ -7,7 +7,7 @@ coverY: 0
 
 # 🪙 Supported tokens
 
-Xaman (formerly known as Xumm) supports both the XRP Ledger and the Xahau blockchain. Any tokens issued on either network is supported.
+Xaman (formerly known as Xumm) supports both the XRP Ledger and the Xahau blockchain. Any token issued on either network is supported by Xaman.
 
 ### **Why doesn’t Xaman support other blockchains?**
 
@@ -19,13 +19,13 @@ No. Our focus is the XRP Ledger and the Xahau network.
 
 ### **… But I see BTC, ETH, SGB, FLR, etc. tokens on the XRPL. How does that make sense if you don't support those networks?**
 
-Anyone can create a token on the XRP Ledger. (Xaman actually contains an xApp called _**Token Creator**_ to walk you through the process.)
+Those tokens are all issued currencies. They were created on the XRPL/Xahau network to represent specific assets. Anyone can create a token on the XRP Ledger. (Xaman actually contains an xApp called [_**Token Creator**_](https://xumm.app/detect/xapp:nixer.tokencreate) to walk you through the process of doing this.)
 
 The BTC/ETH/SGB/FLR tokens that were issued on the XRPL are not the same as the native BTC/ETH/SGB/FLR tokens on their respective blockchains.&#x20;
 
 For example, you can not send BTC issued on the XRPL to the Bitcoin network because the Bitcoin network and the XRP Ledger are separate and incompatible networks.&#x20;
 
-People/companies issue tokens on XRPL to enjoy all the benefits of the XRPL but with none of the limitations or issues associated with other blockchains.
+People/companies issue tokens on XRPL to enjoy all the benefits of the XRPL but who don't want the limitations or issues associated with other blockchains.
 
 If your are interested in learning more about this, check out this article:
 
@@ -38,6 +38,10 @@ No. ETH is the native token on the Ethereum blockchain. The Ethereum blockchain 
 ### **What about XLM?**
 
 No. XLM is the native token on the Stellar blockchain. The Stellar blockchain and the XRPL are separate and incompatible networks.
+
+### Can I send XRP using my Lobstr wallet to my XRPL account managed by Xaman?
+
+No. Tokens on the Stellar network can not be directly sent to an XRP Ledger account. As well, Xaman does not support the Stellar network. It only supports the XRP Ledger and Xahau networks.
 
 ### **SGB?**
 
