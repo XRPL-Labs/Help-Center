@@ -20,7 +20,7 @@ There are five main ways to activate an account on the Xahau network:
 
 1\) 'Duplicate' an existing XRP Ledger (XRPL) account.
 
-2\) Buy XAH tokens on the XRPL DEX, then send them to your Gatehub account and activate your Xahau account from GateHub
+2\) Buy XAH tokens on the XRPL DEX, then send them to your GateHub account and activate your Xahau account from GateHub
 
 3\) Buy XAH coins/tokens on the GateHub platform and activate your Xahau from your account with them
 
@@ -52,11 +52,29 @@ There are three ways to duplicate an account, depending on what type of XRPL acc
 
 2\) **Buying XAH tokens on the XRPL DEX**\
 \
-While the previous method of activating a Xahau account its by far the post popular, some people choose to manually activate their accounts by exchange XRP for XAH on the XRPL DEX.
+While the previous method of activating a Xahau account its by far the most popular, some people choose to manually activate their accounts with XAH purchased on the XRPL DEX.
 
-Crypto exchanges like Bitrue and Gatehub support the Xahau network. You can purchase XAH on their platform, then send the XAH to your Xahau account managed by Xaman. You will find instructions on how to do this here:
+You **can not directly activate** a Xahau account using XAH tokens issued on the XRPL.
 
-3\) Buy XAH tokens/coins on the GateHub platform
+For more information about this, please refer to this article:
+
+{% content-ref url="../understanding-the-xah-token-on-the-xrp-ledger.md" %}
+[understanding-the-xah-token-on-the-xrp-ledger.md](../understanding-the-xah-token-on-the-xrp-ledger.md)
+{% endcontent-ref %}
+
+You **can indirectly activate** a Xahau account with your XAH tokens though. If you create an account a GateHub, you can send your XAH tokens to your GateHub account and then activate your Xahau account from their platform.
+
+
+
+3\) **Buying XAH tokens/coins on the GateHub platform**
+
+The GateHub exchange supports the Xahau network. They have three different account types you can use to activate a Xahau account:
+
+* an XRPL account
+* a hosted XRPL account
+* a Xahau account
+
+
 
 <table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Gatehub</td><td></td><td><a href="how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
 
