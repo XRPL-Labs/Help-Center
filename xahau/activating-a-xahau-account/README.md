@@ -30,17 +30,17 @@ There are four main ways to activate an account on the Xahau network:
 
 #### 1) 'D**uplicating' an existing XRP Ledger account**
 
-Many people will have an  existing XRPL account managed with Xaman. If you already have an activated XRPL account, you can 'duplicate' it on the Xahau network using the Xahau Import xApp which you can find below.
+Many people will have an  existing XRPL account managed with Xaman (formerly Xumm). If you already have an activated XRPL account managed by Xaman, you can 'duplicate' it on the Xahau network using the Xahau Import xApp which has been specifically designed for this purpose.
 
 The benefit of using the xApp is that it will automatically copy the settings of your current XRPL account over to the Xahau network and activate the new account with **2 free XAH coins**.
 
 That's correct. You will receive 2 free XAH coins by using the Xahau Import xApp.
 
+There are three ways to duplicate an account, depending on what type of XRPL account you have:
 
-
-If you have an existing XRP Ledger account and would like to duplicate it on the Xahau network, you can follow the instructions in one of the following three articles to duplicate and activate your Xahau account. If you go through the instructions, 2 XAH will be deposited into your new account courtesy of the Xahau network itself.
-
-
+* Duplicating a regular. normal XRPL account - This is just a standard XRPL account created using Xumm/Xaman.&#x20;
+* Duplicating a Xumm(Tangem) card account - This is an account created using a Xumm (Tangem) card.
+* Duplicating a Vanity account - This is an account created using the [Vanity xApp](https://xumm.app/detect/xapp:xumm.vanity).
 
 <table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td align="center">Duplicating an XRPL account</td><td></td><td></td><td><a href="../duplicating-your-account-xahau/duplicating-an-xrpl-account-on-xahau.md">duplicating-an-xrpl-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Duplicating your Xumm card accounts</td><td></td><td></td><td><a href="../duplicating-your-account-xahau/duplicating-a-xumm-card-account-on-xahau.md">duplicating-a-xumm-card-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Duplicating your Vanity account</td><td></td><td></td><td><a href="../duplicating-your-account-xahau/duplicating-a-vanity-account-on-xahau.md">duplicating-a-vanity-account-on-xahau.md</a></td></tr></tbody></table>
 
