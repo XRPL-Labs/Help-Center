@@ -78,9 +78,7 @@ The GateHub exchange supports the Xahau network. They have three different accou
 
 <table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Gatehub</td><td></td><td><a href="how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
 
-5\) **Via another Xahau account**\
-\
-&#x20;
+
 
 4\) Buy XAH coins on the Bitrue platform
 
