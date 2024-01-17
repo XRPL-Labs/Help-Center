@@ -8,7 +8,7 @@ Having an account on the Xahau network will allow you to participate in the Xaha
 
 Since everything on Xahau involves having an activated account, this article explains the various way you can activate yours.
 
-## The Four ways
+## The Five ways
 
 An account on Xahau is activated when a minimum of 1 XAH is sent to it.  The first XAH coin is locked by the Xahau network and is used to cover the base reserve (wallet reserve) requirement of the Xahau network. It can not be accessed, spent or recovered.\
 \
@@ -16,7 +16,7 @@ You can read more about Xahau reserves and how they work here:
 
 
 
-There are four main ways to activate an account on the Xahau network:
+There are five main ways to activate an account on the Xahau network:
 
 1\) 'Duplicate' an existing XRP Ledger (XRPL) account.
 
@@ -25,6 +25,8 @@ There are four main ways to activate an account on the Xahau network:
 3\) Buy XAH coins/tokens on the GateHub platform and activate your Xahau from your account with them
 
 4\) Buy XAH coins on the Bitrue platform and activate your Xahau from your account with them.
+
+5\) Send XAH from another XAH account.
 
 ## Discussing each method
 
@@ -42,19 +44,31 @@ There are three ways to duplicate an account, depending on what type of XRPL acc
 * Duplicating a Xumm(Tangem) card account - This is an account created using a Xumm (Tangem) card.
 * Duplicating a Vanity account - This is an account created using the [Vanity xApp](https://xumm.app/detect/xapp:xumm.vanity).
 
+
+
 <table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td align="center">Duplicating an XRPL account</td><td></td><td></td><td><a href="../duplicating-your-account-xahau/duplicating-an-xrpl-account-on-xahau.md">duplicating-an-xrpl-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Duplicating your Xumm card accounts</td><td></td><td></td><td><a href="../duplicating-your-account-xahau/duplicating-a-xumm-card-account-on-xahau.md">duplicating-a-xumm-card-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Duplicating your Vanity account</td><td></td><td></td><td><a href="../duplicating-your-account-xahau/duplicating-a-vanity-account-on-xahau.md">duplicating-a-vanity-account-on-xahau.md</a></td></tr></tbody></table>
 
 
 
-2\) **Buying to XAH tokens on the XRPL DEX**\
+2\) **Buying XAH tokens on the XRPL DEX**\
 \
+While the previous method of activating a Xahau account its by far the post popular, some people choose to manually activate their accounts by exchange XRP for XAH on the XRPL DEX.
+
 Crypto exchanges like Bitrue and Gatehub support the Xahau network. You can purchase XAH on their platform, then send the XAH to your Xahau account managed by Xaman. You will find instructions on how to do this here:
 
+3\) Buy XAH tokens/coins on the GateHub platform
 
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Gatehub</td><td></td><td><a href="how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Bitrue</td><td></td><td><a href="how-to-send-xah-from-bitrue.md">how-to-send-xah-from-bitrue.md</a></td></tr><tr><td align="center"></td><td align="center">How to send XAH to your account from Gatehub</td><td></td><td><a href="how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
+5\) **Via another Xahau account**\
+\
+&#x20;
 
-3\) **Via another Xahau account**
+4\) Buy XAH coins on the Bitrue platform
+
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Bitrue</td><td></td><td><a href="how-to-send-xah-from-bitrue.md">how-to-send-xah-from-bitrue.md</a></td></tr></tbody></table>
+
+5\) **Via another Xahau account**
 
 If you already have XAH in a Xahau account, you can send XAH coins between your accounts to activate them. This applies to your friends, family and  co-workers as well. If they have a Xahau account, they can send XAH to your account to activate it. In fact, any Xahau account can be activated from any other Xahau account. They just need to send 1 XAH from it to your account.
 
