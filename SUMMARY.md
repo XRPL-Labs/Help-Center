@@ -70,7 +70,7 @@
 * [How to Get a Token Added to the Xumm Short List](learning-more-about-xumm/how-to-get-a-token-added-to-the-xumm-short-list.md)
 * [Destination tags](learning-more-about-xumm/destination-tags.md)
 * [How to recover a Casinocoin (CSC) account](learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md)
-* [Gatehub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
+* [GateHub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
 * [How to send SGB to BiFrost](learning-more-about-xumm/how-to-send-sgb-to-bifrost.md)
 * [Taxes and your XRPL account](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
 * [How to convert a Read only account](learning-more-about-xumm/how-to-convert-a-read-only-account.md)
