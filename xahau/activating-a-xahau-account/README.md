@@ -30,7 +30,7 @@ There are four main ways to activate an account on the Xahau network:
 
 #### 1) 'D**uplicating' an existing XRP Ledger account**
 
-Many people will have an  existing XRPL account managed with Xaman (formerly Xumm). If you already have an activated XRPL account managed by Xaman, you can 'duplicate' it on the Xahau network using the Xahau Import xApp which has been specifically designed for this purpose.
+Many people will have an existing XRPL account managed with Xaman (formerly Xumm). If you already have an activated XRPL account managed by Xaman, you can 'duplicate' it on the Xahau network using the Xahau Import xApp which has been specifically designed for this purpose.
 
 The benefit of using the xApp is that it will automatically copy the settings of your current XRPL account over to the Xahau network and activate the new account with **2 free XAH coins**.
 
@@ -46,7 +46,7 @@ There are three ways to duplicate an account, depending on what type of XRPL acc
 
 
 
-2\) **Via an exchange**\
+2\) **Buying to XAH tokens on the XRPL DEX**\
 \
 Crypto exchanges like Bitrue and Gatehub support the Xahau network. You can purchase XAH on their platform, then send the XAH to your Xahau account managed by Xaman. You will find instructions on how to do this here:
 
