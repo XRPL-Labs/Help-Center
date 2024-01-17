@@ -26,9 +26,9 @@ A good example of a token issuer would be the Gatehub exchange. On October 29-20
 
 Yes and No.
 
-Yes. You can purchase XAH tokens on the XRPL, but they are not the same as the native XAH coins on the Xahau network. By purchasing XAH on the XRPL, you are purchasing a token that **represents XAH**. You are purchasing an IOU for the XAH coin on Xahau. As long as you purchase the XAH token from a trusted issuer, (ie. Gatehub) you have the option to exchange your tokens for "real" XAH coins on the Xahau network. Owning XAH on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset for speculative purposes.
+**Yes.** You can purchase XAH tokens on the XRPL, but they are not the same as the native XAH coins on the Xahau network. By purchasing XAH on the XRPL, you are purchasing a token that **represents XAH**. You are purchasing an IOU for the XAH coin on Xahau. As long as you purchase the XAH token from a trusted issuer, (ie. GateHub) you have the option to exchange your tokens for "real" XAH coins on the Xahau network. Owning XAH on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset for speculative purposes.
 
-No. You can not purchase the **native** XAH coin on the XRP Ledger. The XAH coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAH coins via a crypto exchange or via the Burn to Mint (B2M) feature.
+**No.** You can not purchase the **native** XAH coin on the XRP Ledger. The XAH coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAH coins via a crypto exchange or via the Burn to Mint (B2M) feature.
 
 * Through a crypto exchange  \
   \
@@ -42,7 +42,7 @@ No. You can not purchase the **native** XAH coin on the XRP Ledger. The XAH coin
 
 Anyone can issue a token on the XRP Ledger and people issue tokens for various reasons.&#x20;
 
-For example, Gatehub issued their XAH tokens as a way to represent the value of a XAH coin on the XRPL. They will will honor their XAH as "real" XAH on the Xahau network and will allow you to redeem their XAH tokens for XAH issued on the Xahau network.
+For example, GateHub issued their XAH tokens as a way to represent the value of a XAH coin on the XRPL. They will will honor their XAH as "real" XAH on the Xahau network and will allow you to exchange their XAH tokens for XAH issued on the Xahau network.
 
 For more information on Gatehub's issued tokens, please refer to this article:
 
@@ -58,7 +58,7 @@ Please note, not all token issuers are legitimate. It is import that you **trust
 
 **Anyone** can issue a token on the Ledger but not all token issuers are trust worthy.
 
-Reputable companies like Gatehub have a proven track record of supporting the XRP Ledger community, but not all token issuers do.
+Reputable companies like GateHub have a proven track record of supporting the XRP Ledger community, but not all token issuers do.
 
 There is no fool proof way of ensuring a token is legitimate. It all comes down to trusting the issuer.
 
@@ -77,7 +77,7 @@ Remember, when you create a Trust Line you are basically saying, \
 
 #### I own XAH tokens on the XRPL. Can I activate a Xahau account with them?
 
-No. XAH tokens on the XRPL are not the same as Xahau coins on the Xahau network. You can not use XAH tokens issued on the XRPL to activate a Xahau account.
+No, not directly from your XRPL account. XAH tokens on the XRPL are not the same as Xahau coins on the Xahau network. You can not use XAH tokens issued on the XRPL to directly activate a Xahau account. You will need to send them to the GateHub platform and activate your Xahau account from there.
 
 Please refer to this section if you are interested in activating a Xahau account:
 
@@ -87,9 +87,9 @@ Please refer to this section if you are interested in activating a Xahau account
 
 #### I own XAH tokens on the XRPL. Can I send them to my Xahau account?
 
-No, not directly. XRPL Labs is working an an xApp which will allow you move XAH tokens issued on the XRPl to the Xahau network (and visa-versa) but until it is available, you can not send XAH directly between networks.
+No, not directly. XRPL Labs is working an an xApp which will allow you move XAH tokens issued on the XRPL to the Xahau network (and visa-versa) but until it is available, you can not send XAH directly between networks.
 
-If you have XAH tokens issued by Gatehub, you can create a Gatehub account, then send your XAH to your Gatehub account and exchange them into XAH coins on the Xahau network.
+If you have XAH tokens issued by GateHub, you can create a Gatehub account, then send your XAH to your GateHub account. From there you can exchange them into XAH coins on the Xahau network if you wish.
 
 Please refer to this article for more information:
 
