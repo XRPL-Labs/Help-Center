@@ -1,14 +1,14 @@
 ---
-description: How to send tokens from your XRP Ledger account managed by Xumm
+description: How to send tokens from your XRP Ledger account managed by Xaman
 ---
 
-# Sending tokens from Xumm
+# Sending tokens from Xaman
 
-Sending tokens from Xumm is a very easy process. In fact, sending tokens is one if its primary functions! Here is how it's done...
+Sending tokens from Xaman (formerly) is a very easy process. In fact, sending tokens is one if its primary functions! Here is how it's done...
 
 ### **Step 1**
 
-From the main screen in Xumm, press the **Send** button.
+From the main screen in Xaman, press the **Send** button.
 
 <figure><img src="../.gitbook/assets/Send button.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ However, if you are sending to a **custodial** account, (ie. an exchange account
 <figure><img src="../.gitbook/assets/Summary + DT.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Remember, non-custodial accounts, like the ones managed with Xumm **do not** require destination tags. Only **custodial** accounts require them.
+Remember, self-custodial accounts, like the ones managed with Xaman **do not** require destination tags. Only **custodial** accounts require them.
 {% endhint %}
 
 #### **A little bit more about destination tags**

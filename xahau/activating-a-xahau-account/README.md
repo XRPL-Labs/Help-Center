@@ -54,7 +54,9 @@ There are three ways to duplicate an account, depending on what type of XRPL acc
 \
 While the previous method of activating a Xahau account its by far the most popular, some people choose to manually activate their accounts with XAH purchased on the XRPL DEX.
 
+{% hint style="danger" %}
 You **can not directly activate** a Xahau account using XAH tokens issued on the XRPL.
+{% endhint %}
 
 For more information about this, please refer to this article:
 
@@ -62,7 +64,9 @@ For more information about this, please refer to this article:
 [understanding-the-xah-token-on-the-xrp-ledger.md](../understanding-the-xah-token-on-the-xrp-ledger.md)
 {% endcontent-ref %}
 
-You **can indirectly activate** a Xahau account with your XAH tokens though. If you create an account a GateHub, you can send your XAH tokens to your GateHub account and then activate your Xahau account from their platform.
+However...
+
+You **can indirectly activate** a Xahau account with your XAH tokens. You create an account at the  GateHub exchange then you can send your XAH tokens to your GateHub account and activate your Xahau account from their platform.
 
 
 
@@ -74,7 +78,7 @@ The GateHub exchange supports the Xahau network. They have three different accou
 * a hosted XRPL account
 * a Xahau account
 
-
+If you have an XRPL account or hosted XRPL account with&#x20;
 
 <table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Gatehub</td><td></td><td><a href="how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
 
