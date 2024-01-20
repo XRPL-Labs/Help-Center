@@ -62,7 +62,7 @@ Sign the transaction (**Slide to send**) .
 
 #### Can I send my XAH tokens from my Gatehub Hosted account to my Xahau account managed by Xaman?
 
-You sure can. Check out this article instructions on how to do this:
+You sure can. Check out this article for instructions on how to do this:
 
 {% content-ref url="how-to-send-xah-from-gatehub.md" %}
 [how-to-send-xah-from-gatehub.md](how-to-send-xah-from-gatehub.md)
