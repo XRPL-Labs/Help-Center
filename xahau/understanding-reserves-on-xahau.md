@@ -4,18 +4,24 @@ description: What are 'reserves' on the Xahau network?
 
 # Understanding Reserves on Xahau
 
-### What is a 'reserve' on Xahau?
+### Xahau basics
 
-A reserve is a&#x20;
+Accounts are the central data structure on the Xahau network. An account holds balances, signs transactions, and can issue assets on Xahau.&#x20;
 
-The Xahau network has two types of reserves:
+For an account to exist on Xahau it only requires a valid keypair (also known as private keys or an account secret), however, if you wish to hold assets in a Xahau account, it must hold a minimum balance of XAH coins. This minimum balance called the 'base reserve' or an 'account reserve".
+
+### Two Types of reserves
+
+The Xahau network actually has two types of reserves:
 
 * Base reserve (called the wallet reserve or account reserve)
 * Owner reserve
 
-Both of these r
+Both of these reserves are enforced by the Xahau network. (Xaman has no control over either of them.)
 
-#### **Base reserve**
+
+
+**Base reserve**
 
 This reserve is required to activate an XRPL account and needs to be maintained in order to submit transactions on the XRPL. The current base reserve is **10 XRP**. Each XRPL account must contain at least 10 XRP, which is automatically marked as un-spendable by the XRPL, in order to be able to transact on the XRPL. The base reserve cannot be used or sent to other accounts. It can only be recovered by deleting account from the XRPL.
 
