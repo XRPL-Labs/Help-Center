@@ -30,8 +30,6 @@ It assumes you have already acquired XAH tokens (issued by GateHub) in your XRP 
 
 then choose **XAH (Xahau)**
 
-
-
 <figure><img src="../../.gitbook/assets/Gatehub - Main page - 2.png" alt=""><figcaption></figcaption></figure>
 
 It should display a screen that looks like this:
@@ -43,3 +41,14 @@ It should display a screen that looks like this:
 <figure><img src="../../.gitbook/assets/Send to Gatehub - 4.png" alt=""><figcaption></figcaption></figure>
 
 then **scan the GateHub QR Code** for your GateHub Hosted account on your computer. (See Step 3)&#x20;
+
+This screen should be displayed:
+
+
+
+<figure><img src="../../.gitbook/assets/Send to Gatehub - 5.png" alt=""><figcaption></figcaption></figure>
+
+Press the **Next** button to continue.
+
+5\)&#x20;
+
