@@ -33,3 +33,21 @@ It assumes you have already acquired XAH tokens (issued by GateHub) in your XRP 
 then choose **XRP (XRP Ledger)**
 
 <figure><img src="../../.gitbook/assets/Gatehub - Self Custodial - 2.png" alt=""><figcaption></figcaption></figure>
+
+It should display a screen that looks like this:
+
+<figure><img src="../../.gitbook/assets/Gatehub - Self Custodial - 3.png" alt=""><figcaption></figcaption></figure>
+
+4\) On your phone, press this QR Code scan button:
+
+<figure><img src="../../.gitbook/assets/Send to Gatehub - 4.png" alt=""><figcaption></figcaption></figure>
+
+then **scan the GateHub QR Code** for your GateHub self custodial account on your computer.             (See Step 3)&#x20;
+
+This screen should be displayed:
+
+<figure><img src="../../.gitbook/assets/Gatehub - Self Custodial - 4.png" alt=""><figcaption></figcaption></figure>
+
+Press the **Next** button to continue.
+
+5\) You should see a Summary screen detailing the transaction:
