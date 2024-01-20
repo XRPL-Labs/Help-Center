@@ -1,12 +1,18 @@
 ---
-description: Activating a Xahau account from GateHub
+description: How to send XAH coins from your GateHub account to your Xahau account
 ---
 
 # How to send XAH from GateHub
 
 ### Summary
 
-This article provides instructions on how to send XAH coins to your Xahau account managed by Xaman.
+This article provides instructions on how to send XAH coins from your self custodial account managed by GateHub to your Xahau account managed by Xaman.
+
+{% hint style="info" %}
+If you are doing this for the first time, please be aware that the first XAH coin sent to a Xahau account is used to fulfill the base reserve requirement of the Xahau network. This process is known as 'activating an account".
+{% endhint %}
+
+### Instructions
 
 1\) Go to the [GateHub website](https://gatehub.net/), Sign in, choose **Send Payment**.
 
