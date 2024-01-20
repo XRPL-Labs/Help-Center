@@ -224,3 +224,4 @@
   * [Via another Xahau account](xahau/activating-a-xahau-account/via-another-xahau-account.md)
   * [How to send XAH from Bitrue](xahau/activating-a-xahau-account/how-to-send-xah-from-bitrue.md)
   * [How to send XAH from GateHub](xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
+  * [How to send XAH Tokens to GateHub](xahau/activating-a-xahau-account/how-to-send-xah-tokens-to-gatehub.md)
