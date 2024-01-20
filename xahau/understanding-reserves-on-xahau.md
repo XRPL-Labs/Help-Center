@@ -54,8 +54,6 @@ Here is a list of objects that require an owner reserve:
 * Checks
 * Payment channels
 
-
-
 Owner reserves can be recovered when the object is removed from the account. (i.e.. By finishing an escrow, deleting or fulfilling your offer on the decentralized exchange, removing your Trust Line, etc.)
 
 Many of these operations can be performed in Xaman or by visiting XRPL Services at:
@@ -68,7 +66,7 @@ Many of these operations can be performed in Xaman or by visiting XRPL Services 
 
 No. The base reserve can not be accessed or recovered. It will remain locked in your account forever. There is no way to recover it.
 
-#### **Does Xaman control/impose the reserves on my account?**
+#### **Does Xaman control the reserves on my account?**
 
 No. The base reserve and owner reserves are a function of the Xahau blockchain. They have nothing to do with Xaman. Reserves are automatically applied by Xahau.
 
@@ -76,38 +74,12 @@ No. The base reserve and owner reserves are a function of the Xahau blockchain. 
 
 Any reserve that is applied to your account, **stays in your account.** The Xahau network simply marks the reserve amount as 'un-spendable'. When the object is removed from your account, the reserve is marked as 'spendable' again. Xaman **does not** have access to your funds nor is Xaman involved in the Xahau reserves in any way.
 
-### **How can I see my account reserves in Xumm?**
+#### **How can I see my account reserves in Xaman?**
 
-On the main page of Xumm, press the **Reserved** button.
+On the main page of Xaman, press the **Reserved** button.
 
-<figure><img src="../.gitbook/assets/v24 - Reserves -1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Reserves - Screen 1.png" alt=""><figcaption></figcaption></figure>
 
-Xumm should display your **Account balance**, the amount of XRP A**vailable for spending** and a list of **Reserved on ledger** on your account.
+Xaman should display the following screen:
 
-<figure><img src="../.gitbook/assets/v24 - Reserves -2.png" alt=""><figcaption></figcaption></figure>
-
-In the above example, you can see that the account has 10 XRP marked as un-spendable to meet the wallet reserve and 2 XRP marked as un-spendable to meet the owner reserves for each of the Trust Lines created in the account. &#x20;
-
-### **On my list is a line titled: NFTokenPages**
-
-When a NFT is minted on the XRPL, an object called _NFTokenpage_ is created to 'store" it.
-
-An NFTokenpage is an object on the XRPL so it requires a 2 XRP owner reserve.&#x20;
-
-If you would like to recover the 2 XRP for this object you need to get rid of all of the NFTs stored on this page. The site where you minted/purchased your NFTs will have instructions on how to do this.
-
-NFTokenpage concept is a bit of a complicated topic but if you are interested in learning more about it, here's a link to an excellent resource:
-
-* [https://xrpl.org/nftokenpage.html](https://xrpl.org/nftokenpage.html)
-
-### **How do I recover the Wallet reserve?**
-
-As mentioned above, each XRPL account **must** contain at least 10 XRP to meet the base reserve requirement of the XRP Ledger. If you would like to recover the base reserve, the only way to do this is to delete your account from the XRPL.
-
-There is a 2 XRP fee for doing this which is levied by the XRPL along with the normal transaction fee which applies to all transactions.
-
-(These fees are part of the XRP Ledger and are in **not** related to Xumm.)
-
-For more information about how to delete an account from the XRPL, please review this article:
-
-*
+<figure><img src="../.gitbook/assets/Reserves - Screen 2.png" alt=""><figcaption></figcaption></figure>
