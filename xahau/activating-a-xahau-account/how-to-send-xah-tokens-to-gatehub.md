@@ -2,7 +2,7 @@
 description: How to send XAH Tokens to a GateHub hosted account
 ---
 
-# How to send XAH Tokens to GateHub
+# How to send XAH Tokens to GateHub - Hosted account
 
 ## Summary&#x20;
 
