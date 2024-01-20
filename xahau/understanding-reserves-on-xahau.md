@@ -4,11 +4,11 @@ description: What are 'reserves' on the Xahau network?
 
 # Understanding Reserves on Xahau
 
-### Xahau basics
+## Xahau basics
 
 Accounts are the central data structure on the Xahau network. An account holds balances, signs transactions, and can issue assets on Xahau.&#x20;
 
-For an account to exist on Xahau it only requires a valid keypair (also known as private keys or an account secret), however, if you wish to hold assets in a Xahau account, it must hold a minimum balance of XAH coins. This minimum balance is called the 'base reserve' or an 'account reserve".
+For an account to exist on Xahau it only requires a valid keypair (also known as a private key or an account secret), however, if you wish to hold assets in a Xahau account, it must hold a minimum balance of XAH coins. This minimum balance is called the 'base reserve' or an 'account reserve".
 
 ### Two Types of reserves
 
@@ -19,7 +19,7 @@ The Xahau network actually has two types of reserves:
 
 Both of these reserves are enforced by the Xahau network. (Xaman has no control over either of them.)
 
-**Base reserve**
+### **Base reserve**
 
 An account on Xahau has two basic states:
 
@@ -29,43 +29,52 @@ An account on Xahau has two basic states:
 In order to activate an account, it must receive 1 XAH which is used to meet the base reserve requirement of the Xahau network. The base reserve is the minimum amount of XAH an account must contain in order to remain active.&#x20;
 
 {% hint style="info" %}
-For example,&#x20;
+For example, if you activate a new account with 10 XAH, 1 XAH will be automatically be marked as 'un-spendable' and held by the Xahau network to cover the base reserve requirement, while the remaining 9 XAH will be free to use as you wish.
+
+If you activated a new account with 1 XAH, it would be automatically will be automatically marked as 'un-spendable' and held by the Xahau network to cover the base reserve requirement, leaving no available XAH to be used.
 {% endhint %}
 
-This reserve is required to activate an XRPL account and needs to be maintained in order to submit transactions on the XRPL. The current base reserve is **10 XRP**. Each XRPL account must contain at least 10 XRP, which is automatically marked as un-spendable by the XRPL, in order to be able to transact on the XRPL. The base reserve cannot be used or sent to other accounts. It can only be recovered by deleting account from the XRPL.
+#### Summary
 
-_Fun fact!_ When the XRPL was first created the base reserve was 1000 XRP! It was reduced to 200 XRP, then to 20 XRP and has now settled to 10 XRP. (The XRPL validators monitor the state of the network and can vote to change the reserve amounts as the blockchain evolves.)&#x20;
+* The base is reserve is required to activate an Xahau account and needs to be maintained in order to submit transactions to the Xahau network.
+* The current base reserve is **1 XAH**.&#x20;
+* The base reserve is a function of the Xahau network, not of Xaman.
+* It can only be recovered by deleting account from the XRPL.
 
-&#x20;
+### &#x20;O**wner reserves**
 
-#### **Owner reserves**
-
-These reserves apply to objects on the XRPL that you own in your account. The owner reserve is currently set at **2 XRP** per object.
+These reserves apply to objects on Xahau that you own in your account. The owner reserve is currently set at **0.2 XAH** per object.
 
 Here is a list of objects that require an owner reserve:
 
 * An escrow
-* An open offer on the Decentralized EXchange (DEX)
+* An open offer on the Decentralized Exchange (DEX)
 * A Trust Line for a token
-* SIgner list (Multi-sign)
+* Signer list (Multi-sign)
 * Checks
 * Payment channels
-* NFT's (minted prior to the XLS-20 amendment)
-* NFTTokenpage ( 2 XRP per page)
 
-Owner reserves can recovered when the object is removed from the account. (i.e.. By finishing an escrow, deleting or fulfilling your offer on the decentralized exchange, removing your Trust Line, etc.)
 
-Many of these operations can be performed in Xumm or by visiting XRPL Services at:
 
-* [XRPL Services](https://xrpl.services/tools)
+Owner reserves can be recovered when the object is removed from the account. (i.e.. By finishing an escrow, deleting or fulfilling your offer on the decentralized exchange, removing your Trust Line, etc.)
 
-### **Does Xumm impose the reserves on my account?**
+Many of these operations can be performed in Xaman or by visiting XRPL Services at:
 
-No. The base reserve and owner reserves are a function of the XRP Ledger. They have nothing to do with Xumm. Reserves are automatically applied to your account or to the object you own in your account.
+* [Xahau Services](https://xahau.services/)
 
-### **Where does the reserve amount go? Does Xumm hold it?**
+### **Frequently Asked Questions**
 
-Any reserve that is applied to your account, **stays in your account.** The XRP Ledger simply marks the reserve amount as 'unspendable'. When the object is removed from your account, the reserve is marked as 'spendable' again. Xumm **does not** have access to your funds nor is Xumm involved in the XRPL reserves in any way.
+#### **Can I access or recover the base reserve from my account?**
+
+No. The base reserve can not be accessed or recovered. It will remain locked in your account forever. There is no way to recover it.
+
+#### **Does Xaman control/impose the reserves on my account?**
+
+No. The base reserve and owner reserves are a function of the Xahau blockchain. They have nothing to do with Xaman. Reserves are automatically applied by Xahau.
+
+#### **Where does the reserve amount go? Does Xaman hold it?**
+
+Any reserve that is applied to your account, **stays in your account.** The Xahau network simply marks the reserve amount as 'un-spendable'. When the object is removed from your account, the reserve is marked as 'spendable' again. Xaman **does not** have access to your funds nor is Xaman involved in the Xahau reserves in any way.
 
 ### **How can I see my account reserves in Xumm?**
 
