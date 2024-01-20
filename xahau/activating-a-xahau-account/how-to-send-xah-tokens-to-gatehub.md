@@ -34,3 +34,12 @@ then choose **XAH (Xahau)**
 
 <figure><img src="../../.gitbook/assets/Gatehub - Main page - 2.png" alt=""><figcaption></figcaption></figure>
 
+It should display a screen that looks like this:
+
+<figure><img src="../../.gitbook/assets/Send to Gatehub - 3.png" alt=""><figcaption></figcaption></figure>
+
+4\) On your phone, press this QR Code scan button:
+
+<figure><img src="../../.gitbook/assets/Send to Gatehub - 4.png" alt=""><figcaption></figcaption></figure>
+
+then **scan the GateHub QR Code** for your GateHub Hosted account on your computer. (See Step 3)&#x20;
