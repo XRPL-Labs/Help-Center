@@ -6,9 +6,18 @@ description: What are 'reserves' on the Xahau network?
 
 ## Xahau basics
 
-Accounts are the central data structure on the Xahau network. An account holds balances, signs transactions, and can issue assets on Xahau.&#x20;
+In order to understand what reserves are, you should be aware of the four main properties of how an **account** on Xahau works.
 
-For an account to exist on Xahau it only requires a valid keypair (also known as a private key or an account secret), however, if you wish to hold assets in a Xahau account, it must hold a minimum balance of XAH coins. This minimum balance is called the 'base reserve' or an 'account reserve".
+1\) Accounts are the central data structure on the Xahau network. An account holds balances, signs transactions, and can issue assets on Xahau.&#x20;
+
+2\) An account on Xahau has two basic states:
+
+* Activated
+* Un-activated&#x20;
+
+3\) For an account to exist on Xahau, it only requires a valid keypair (also known as a private key or an account secret)
+
+4\) If you wish to hold assets in a Xahau account, it must be activated and hold a minimum balance of XAH coins. This minimum balance is called the 'base reserve' or an 'account reserve".
 
 ### Two Types of reserves
 
@@ -20,11 +29,6 @@ The Xahau network actually has two types of reserves:
 Both of these reserves are enforced by the Xahau network. (Xaman has no control over either of them.)
 
 ### **Base reserve**
-
-An account on Xahau has two basic states:
-
-* Activated
-* Un-activated&#x20;
 
 In order to activate an account, it must receive 1 XAH which is used to meet the base reserve requirement of the Xahau network. The base reserve is the minimum amount of XAH an account must contain in order to remain active.&#x20;
 
@@ -56,7 +60,7 @@ Here is a list of objects that require an owner reserve:
 
 Owner reserves can be recovered when the object is removed from the account. (i.e.. By finishing an escrow, deleting or fulfilling your offer on the decentralized exchange, removing your Trust Line, etc.)
 
-Many of these operations can be performed in Xaman or by visiting XRPL Services at:
+Many of these operations can be performed in Xaman or by visiting Xahau Services at:
 
 * [Xahau Services](https://xahau.services/)
 
