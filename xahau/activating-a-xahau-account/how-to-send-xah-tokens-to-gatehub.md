@@ -24,5 +24,13 @@ It assumes you have already acquired XAH tokens (issued by GateHub) in your XRP 
 
 <figure><img src="../../.gitbook/assets/Send to Gatehub - 2.png" alt=""><figcaption></figcaption></figure>
 
+3\) On your desktop computer, sign into your GateHub Hosted account and press the **+ Add Funds** button...
 
+<figure><img src="../../.gitbook/assets/Gatehub -Hosted Account - 1.png" alt=""><figcaption></figcaption></figure>
+
+then choose **XAH (Xahau)**
+
+
+
+<figure><img src="../../.gitbook/assets/Gatehub - Main page - 2.png" alt=""><figcaption></figcaption></figure>
 
