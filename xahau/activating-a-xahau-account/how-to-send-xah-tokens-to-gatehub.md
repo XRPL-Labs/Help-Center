@@ -18,7 +18,11 @@ It assumes you have already acquired XAH tokens (issued by GateHub) in your XRP 
 
 <figure><img src="../../.gitbook/assets/Send to Gatehub - 1.png" alt=""><figcaption></figcaption></figure>
 
-2\)&#x20;
+2\) Enter the amount XAH tokens you would like to send to your GateHub Hosted account, then press the **Next** button. (In this case, we are sending 10 XAH.)
+
+
+
+<figure><img src="../../.gitbook/assets/Send to Gatehub - 2.png" alt=""><figcaption></figcaption></figure>
 
 
 
