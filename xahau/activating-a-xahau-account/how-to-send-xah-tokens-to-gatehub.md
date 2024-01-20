@@ -50,5 +50,21 @@ This screen should be displayed:
 
 Press the **Next** button to continue.
 
-5\)&#x20;
+5\) You should see a Summary screen detailing the transaction:
+
+
+
+<figure><img src="../../.gitbook/assets/Send to Gatehub - 6.png" alt=""><figcaption></figcaption></figure>
+
+Sign the transaction (**Slide to send**) .
+
+## Frequently Asked Questions
+
+#### Can I send my XAH tokens from my Gatehub Hosted account to my Xahau account managed by Xaman?
+
+You sure can. Check out this article instructions on how to do this:
+
+{% content-ref url="how-to-send-xah-from-gatehub.md" %}
+[how-to-send-xah-from-gatehub.md](how-to-send-xah-from-gatehub.md)
+{% endcontent-ref %}
 
