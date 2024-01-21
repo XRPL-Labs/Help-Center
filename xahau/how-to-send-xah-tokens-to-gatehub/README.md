@@ -37,3 +37,30 @@ For more information on XAH tokens, please reference this article:
 [understanding-the-xah-token-on-the-xrp-ledger.md](../understanding-the-xah-token-on-the-xrp-ledger.md)
 {% endcontent-ref %}
 
+## Sending XAH Tokens
+
+#### Situation 1
+
+You have an XRPL account managed with Xaman. You own some XAH tokens and you would like to send some of them to your **hosted** GateHub account.
+
+{% content-ref url="how-to-send-xah-tokens-to-gatehub-hosted-account.md" %}
+[how-to-send-xah-tokens-to-gatehub-hosted-account.md](how-to-send-xah-tokens-to-gatehub-hosted-account.md)
+{% endcontent-ref %}
+
+#### Situation 2
+
+You have an XRPL account managed with Xaman. You own some XAH tokens and you would like to send some of them to your **self custodial** GateHub account.
+
+{% content-ref url="how-to-send-xah-tokens-to-gatehub-self-custodial-account.md" %}
+[how-to-send-xah-tokens-to-gatehub-self-custodial-account.md](how-to-send-xah-tokens-to-gatehub-self-custodial-account.md)
+{% endcontent-ref %}
+
+## Sending XAH Coins
+
+#### Situation 1
+
+You have an Xahau account managed with Xaman. You own some XAH coins and you would like to send some of them to your **hosted** GateHub account.
+
+#### Situation 2
+
+You have an Xahau account managed with Xaman. You own some XAH coins and you would like to send some of them to your **self custodial** GateHub account.
