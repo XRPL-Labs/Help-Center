@@ -37,7 +37,7 @@ For more information on XAH tokens, please reference this article:
 [understanding-the-xah-token-on-the-xrp-ledger.md](../understanding-the-xah-token-on-the-xrp-ledger.md)
 {% endcontent-ref %}
 
-## Sending XAH Tokens
+## Sending XAH Tokens from Xaman
 
 #### Situation 1
 
@@ -55,7 +55,7 @@ You have an XRPL account managed with Xaman. You own some XAH tokens and you wou
 [how-to-send-xah-tokens-to-gatehub-self-custodial-account.md](how-to-send-xah-tokens-to-gatehub-self-custodial-account.md)
 {% endcontent-ref %}
 
-## Sending XAH Coins
+## Sending XAH Coins from Xaman
 
 #### Situation 1
 
