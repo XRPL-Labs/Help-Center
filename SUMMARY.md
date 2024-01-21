@@ -218,6 +218,7 @@
 * [How to create an Evernode Trust Line](xahau/how-to-create-an-evernode-trust-line.md)
 * [How to purchase Evernode tokens](xahau/how-to-purchase-evernode-tokens.md)
 * [How to send XAH Tokens to GateHub - Hosted account](xahau/how-to-send-xah-tokens-to-gatehub-hosted-account.md)
+* [How to send XAH tokens to GateHub](xahau/how-to-send-xah-tokens-to-gatehub.md)
 * [How to send XAH Tokens to GateHub - Self Custodial account](xahau/how-to-send-xah-tokens-to-gatehub-self-custodial-account.md)
 * [Duplicating your account (Xahau)](xahau/duplicating-your-account-xahau/README.md)
   * [Duplicating an XRPL account on Xahau](xahau/duplicating-your-account-xahau/duplicating-an-xrpl-account-on-xahau.md)
