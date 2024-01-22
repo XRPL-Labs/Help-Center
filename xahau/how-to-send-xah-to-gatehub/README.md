@@ -68,3 +68,7 @@ You have an Xahau account managed with Xaman. You own some XAH coins and you wou
 #### Situation 2
 
 You have an Xahau account managed with Xaman. You own some XAH coins and you would like to send some of them to your **self custodial** GateHub account.
+
+{% content-ref url="how-to-send-xah-coins-to-gatehub-self-custodial-account.md" %}
+[how-to-send-xah-coins-to-gatehub-self-custodial-account.md](how-to-send-xah-coins-to-gatehub-self-custodial-account.md)
+{% endcontent-ref %}
