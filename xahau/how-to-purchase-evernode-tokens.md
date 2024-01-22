@@ -25,11 +25,15 @@ We are currently working on a Xahau DEX Trade xApp which will allow you to trade
 
 ## Frequently Asked Questions
 
-#### There are two different Evernode tokens on the XRP Ledger? Are they legit.  Issuing Address                                                               Token Currency Code
+#### There are two different Evernode tokens on the XRP Ledger? Are they legit?  Issuing Address                                                               Token Currency Code
 
 rKnorR44ZwN8rWUhbzkZm73jCiXuqKjWsr                             Evr
 
 rEVERsbyTnqKTWpH4AQ8wG13sGcCWNQT2L                     Evernode
 
-As far as we understand, these tokens are not endorsed
+As far as we understand, these tokens are not authorized or endorsed by Evernode.
+
+For more information about this, please contact Evernode directly at:
+
+{% embed url="https://discord.com/invite/6QyztTrWHq" %}
 
