@@ -61,6 +61,10 @@ You have an XRPL account managed with Xaman. You own some XAH tokens and you wou
 
 You have an Xahau account managed with Xaman. You own some XAH coins and you would like to send some of them to your **hosted** GateHub account.
 
+{% content-ref url="how-to-send-xah-coins-to-gatehub-hosted.md" %}
+[how-to-send-xah-coins-to-gatehub-hosted.md](how-to-send-xah-coins-to-gatehub-hosted.md)
+{% endcontent-ref %}
+
 #### Situation 2
 
 You have an Xahau account managed with Xaman. You own some XAH coins and you would like to send some of them to your **self custodial** GateHub account.
