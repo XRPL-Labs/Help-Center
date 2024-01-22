@@ -4,16 +4,16 @@ description: Troubleshooting biometrics
 
 # How to configure biometrics
 
-Biometric authentication is a security process that involves using some part of your physical body to authenticate you. In the case of Xumm, a fingerprint or face scan.&#x20;
+Biometric authentication is a security process that involves using some part of your physical body to authenticate you. In the case of Xaman (formerly Xumm), a fingerprint or face scan.
 
-## Setting up biometrics
+## How it works&#x20;
 
-There are couple of things that you should be aware of before you configure Xumm to use biometrics:
+There are couple of things that you should be aware of before you configure Xaman to use biometrics:
 
-* Xumm does not create or store your biometric information. It relies on your phone to manage this data.
-* Configuring Xumm to use biometrics does not replace your 6 digit passcode. You can still use your passcode to access Xumm.
+* Xaman does not create or store any biometric information. Instead, it relies on your phone to manage all biometric information.
+* Configuring Xaman to use biometrics does not replace your 6 digit passcode. You can still use your passcode to access Xumm.
 * On some older phones, you must configure **both** your fingerprint **and** your face scan on your phone before Xumm will enable biometrics. Configuring one or the other **will not work**.&#x20;
-* Some Apple phones, (iphone 12, 13 and 14) do not have the option to setup Touch ID. With those phones, you can only configure Face ID so Xumm will only support Face ID in those cases.&#x20;
+* Some Apple phones, (iphone 12, 13 and 14) do not have the option to setup Touch ID. With those phones, you can only configure Face ID so Xaman will only support Face ID in those cases.&#x20;
 
 ## Enabling biometrics in Xumm
 
