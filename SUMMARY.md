@@ -29,3 +29,4 @@
   * [Xummタンジェムカードの使い方](xummtanjemukdo/xummtanshimukdonoi.md)
   * [バックアップ（署名）カード設定方法](xummtanjemukdo/bakkuappukdo.md)
 * [レギュラーアカウントでXumm Tangemカードアカウントの署名をするには](regyurakauntodexumm-tangemkdoakauntonowosuruniha.md)
+* [機種変更時のアカウント移行方法](noakaunto.md)
