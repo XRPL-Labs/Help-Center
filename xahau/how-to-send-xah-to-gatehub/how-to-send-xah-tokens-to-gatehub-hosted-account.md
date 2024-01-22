@@ -54,7 +54,7 @@ Press the **Next** button to continue.
 
 
 
-<figure><img src="../../.gitbook/assets/Send to Gatehub - 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Send to Gatehub - 6 (1).png" alt=""><figcaption></figcaption></figure>
 
 Sign the transaction (**Slide to send**) .
 
