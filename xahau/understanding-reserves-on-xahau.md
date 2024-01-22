@@ -68,7 +68,7 @@ Many of these operations can be performed in Xaman or by visiting Xahau Services
 
 #### **Can I access or recover the base reserve from my account?**
 
-No. The base reserve can not be accessed or recovered. It will remain locked in your account forever. There is no way to recover it.
+No. The base reserve can not be accessed or recovered. The "Account Delete" amendment has not been implemented on the Xahau network yet. Until it is, the base reserve will remain locked in your account.&#x20;
 
 #### **Does Xaman control the reserves on my account?**
 
@@ -81,6 +81,8 @@ Any reserve that is applied to your account, **stays in your account.** The Xaha
 #### **How can I see my account reserves in Xaman?**
 
 On the main page of Xaman, press the **Reserved** button.
+
+
 
 <figure><img src="../.gitbook/assets/Reserves - Screen 1.png" alt=""><figcaption></figcaption></figure>
 
