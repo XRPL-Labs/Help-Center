@@ -1,8 +1,8 @@
 ---
-description: How to send XAH tokens to Gatehub
+description: How to send XAH tokens and coins to Gatehub
 ---
 
-# How to send XAH tokens to GateHub
+# How to send XAH to GateHub
 
 ## Overview
 
