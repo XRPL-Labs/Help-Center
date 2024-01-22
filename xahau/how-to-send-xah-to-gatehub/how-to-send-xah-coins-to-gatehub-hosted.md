@@ -56,14 +56,8 @@ Press the **Next** button to continue.
 
 5\) You should see a Summary screen detailing the transaction:
 
-
-
-<figure><img src="../../.gitbook/assets/Send to Gatehub - 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Send to Gatehub -  Xahau -3.png" alt=""><figcaption></figcaption></figure>
 
 Sign the transaction (**Slide to send**) .
 
-## Frequently Asked Questions
-
-#### Can I send my XAH coins from my Gatehub Hosted account to my Xahau account managed by Xaman?
-
-You sure can. Check out this article for instructions on how to do this:
+##
