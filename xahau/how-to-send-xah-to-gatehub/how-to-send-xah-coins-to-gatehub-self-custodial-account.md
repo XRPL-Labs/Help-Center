@@ -32,9 +32,7 @@ It assumes you have already have XAH coins in your Xahau account managed by Xama
 
 <figure><img src="../../.gitbook/assets/GateHub - Xahau - Self custodial -1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Send to Gatehub - 3.png" alt=""><figcaption></figcaption></figure>
-
-4\) On your phone, press this QR Code scan button:
+4\) On your phone, paste your Xahau r-address in the field:
 
 <figure><img src="../../.gitbook/assets/Send to Gatehub -  Xahau -1.png" alt=""><figcaption></figcaption></figure>
 
