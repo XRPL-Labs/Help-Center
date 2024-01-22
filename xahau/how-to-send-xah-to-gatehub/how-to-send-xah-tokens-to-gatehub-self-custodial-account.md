@@ -24,7 +24,7 @@ It assumes you have already acquired XAH tokens (issued by GateHub) in your XRP 
 
 <figure><img src="../../.gitbook/assets/Send to Gatehub - 2.png" alt=""><figcaption></figcaption></figure>
 
-3\) On your desktop computer, sign into your self custodial GateHub account and press the **+ Add Funds** button..
+3\) On your desktop computer, sign into [GateHub](https://signin.gatehub.net/),  choose your self custodial XRPL account, then press the **+ Add Funds** button..
 
 
 

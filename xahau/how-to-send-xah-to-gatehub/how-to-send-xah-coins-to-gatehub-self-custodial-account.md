@@ -28,11 +28,19 @@ It assumes you have already have XAH coins in your Xahau account managed by Xama
 
 <figure><img src="../../.gitbook/assets/Gatehub - Hosted - Xahau 1.png" alt=""><figcaption></figcaption></figure>
 
-3\) On your desktop computer, sign into your GateHub Hosted account and press the **Copy** button...
+3\) On your desktop computer, sign into [GateHub](https://signin.gatehub.net/), choose your Xahau self custodial account, select **+Add Funds,**
 
-<figure><img src="../../.gitbook/assets/GateHub - Xahau - Self custodial -1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GateHub - Xahau - Self custodial -1 (1).png" alt=""><figcaption></figcaption></figure>
 
-4\) On your phone, paste your Xahau r-address in the field:
+then choose **XAH (Xahau)**
+
+<figure><img src="../../.gitbook/assets/Gatehub - Add Funds.png" alt=""><figcaption></figcaption></figure>
+
+It should display a screen that looks like this:
+
+<figure><img src="../../.gitbook/assets/Gatehub - Add Funds - 1.png" alt=""><figcaption></figcaption></figure>
+
+4\) On your phone, press this QR Code scan button:
 
 <figure><img src="../../.gitbook/assets/Send to Gatehub -  Xahau -1.png" alt=""><figcaption></figcaption></figure>
 
@@ -40,9 +48,7 @@ then **scan the GateHub QR Code** for your GateHub Hosted account on your comput
 
 This screen should be displayed:
 
-
-
-<figure><img src="../../.gitbook/assets/Send to Gatehub -  Xahau -2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xaman - QR code screen (1).png" alt=""><figcaption></figcaption></figure>
 
 Press the **Next** button to continue.
 
