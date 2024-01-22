@@ -1,5 +1,5 @@
 ---
-description: How to buy Evernode tokens (Evr) with Xaman
+description: How to buy Evernode tokens (Evr)
 ---
 
 # How to purchase Evernode tokens
@@ -8,12 +8,28 @@ description: How to buy Evernode tokens (Evr) with Xaman
 
 There are currently two ways to purchase Evr tokens:
 
-* Crypto exchange
-* Xahau DEX
+* via the Bitrue crypto exchange
+* via the Xahau DEX
 
-### Crypto Exchange
+### Bitrue
 
-Currently there is only on exchange which supports&#x20;
+Bitrue is currently the only exchange which supports Evernode tokens. &#x20;
 
+{% embed url="https://www.bitrue.com/trade/evr_usdt" %}
 
+### Xahau DEX
+
+We are currently working on a Xahau DEX Trade xApp which will allow you to trade on the Xahau DEX. When it is ready, we will make an official announcement here:
+
+{% embed url="https://blog.xumm.app/" %}
+
+## Frequently Asked Questions
+
+#### There are two different Evernode tokens on the XRP Ledger? Are they legit.  Issuing Address                                                               Token Currency Code
+
+rKnorR44ZwN8rWUhbzkZm73jCiXuqKjWsr                             Evr
+
+rEVERsbyTnqKTWpH4AQ8wG13sGcCWNQT2L                     Evernode
+
+As far as we understand, these tokens are not endorsed
 
