@@ -1,12 +1,12 @@
 ---
 description: >-
-  If you're interested in learning about Xumm and the XRP ecosystem, you've come
-  to the right place.
+  If you're interested in learning about Xaman and the XRP ecosystem, you've
+  come to the right place.
 cover: .gitbook/assets/xumm header
 coverY: 0
 ---
 
-# Welcome to the Xumm Help Center!
+# Welcome to the Xaman Help Center!
 
 We have divided this site into various categories that you can browse at your convenience or simply use the **Search** button at the top of the page to get a quick list of articles related to your search criteria.
 
