@@ -72,7 +72,7 @@ No. The base reserve can not be accessed or recovered. The "Account Delete" amen
 
 #### **Does Xaman control the reserves on my account?**
 
-No. The base reserve and owner reserves are a function of the Xahau blockchain. They have nothing to do with Xaman. Reserves are automatically applied by Xahau.
+No. The base reserve and owner reserves are a function of the Xahau network. They have nothing to do with Xaman. Reserves are automatically applied by Xahau.
 
 #### **Where does the reserve amount go? Does Xaman hold it?**
 
