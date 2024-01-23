@@ -5,9 +5,9 @@ cover: >-
 coverY: -42
 ---
 
-# 💸 What is Xumm?
+# 💸 What is Xaman?
 
-Put simply, Xumm is _the only_ feature complete, security first wallet for self-custody on the XRP Ledger.
+Put simply, Xaman (formerly Xumm) is _the only_ feature complete, security first wallet for self-custody on the XRP Ledger.
 
 It is a self-custodial, XRP Ledger wallet, that empowers developers and users to collaborate in a secure way, where user keys are kept safely on their device, and their device only.
 

@@ -5,7 +5,7 @@
 ## Getting started with Xumm
 
 * [😎 Updating to Xaman v2.6!](getting-started-with-xumm/updating-to-xaman-v2.6.md)
-* [💸 What is Xumm?](hot-topics/what-is-xumm.md)
+* [💸 What is Xaman?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xumm/what-is-xumm/understanding-self-custody.md)
   * [Where are your funds stored?](hot-topics/where-are-your-funds-stored.md)
   * [Xumm & natural disasters](hot-topics/will-xumm-operate-after-a-natural-disaster.md)
