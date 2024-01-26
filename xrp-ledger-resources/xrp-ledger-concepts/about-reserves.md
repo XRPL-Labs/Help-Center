@@ -91,7 +91,7 @@ When a NFT is minted on the XRPL, an object called _NFTokenpage_ is created to '
 
 An NFTokenpage is an object on the XRPL so it requires a 2 XRP owner reserve.&#x20;
 
-If you would like to recover the 2 XRP for this object you need to get rid of all of the NFTs stored on this page. The site where you minted/purchased your NFTs will have instructions on how to do this.
+If you would like to recover the 2 XRP for this object you need to get rid of **all of the NFTs** stored on this page. The site where you minted/purchased your NFTs will have instructions on how to do this.
 
 NFTokenpage concept is a bit of a complicated topic but if you are interested in learning more about it, here's a link to an excellent resource:
 
