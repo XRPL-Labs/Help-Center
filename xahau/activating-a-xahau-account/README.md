@@ -22,7 +22,7 @@ There are five main ways to activate an account on the Xahau network:
 
 {% hint style="info" %}
 1. Activate an existing XRP Ledger (XRPL) account.
-2. Buy XAH tokens on the XRPL DEX, then send them to your GateHub account and activate your Xahau account from GateHub
+2. Buy XAH tokens on the XRPL DEX, sending them to your GateHub account and activate your Xahau account from GateHub
 3. Buy XAH coins/tokens on the GateHub platform and activate your Xahau from your account with them
 4. Buy XAH coins on the Bitrue platform and activate your Xahau from your account with them.
 5. Send XAH from another XAH account.
@@ -54,11 +54,7 @@ There are three different XRPL account types that are relevant:&#x20;
 
 2\) **Buying XAH tokens on the XRPL DEX**\
 \
-While the previous method of activating a Xahau account its by far the most popular, some people choose to manually activate their accounts with XAH purchased on the XRPL DEX.
-
-{% hint style="danger" %}
-You **can not directly activate** a Xahau account using XAH tokens issued on the XRPL.
-{% endhint %}
+While the previous method of activating a Xahau account is by far the most popular, some people choose to manually activate their accounts with XAH purchased on the XRPL DEX.
 
 For more information about this, please refer to this article:
 
@@ -66,9 +62,7 @@ For more information about this, please refer to this article:
 [understanding-the-xah-token-on-the-xrp-ledger.md](../understanding-the-xah-token-on-the-xrp-ledger.md)
 {% endcontent-ref %}
 
-However...
-
-You **can indirectly activate** a Xahau account with your XAH tokens. You create an account at the  GateHub exchange then you can send your XAH tokens to your GateHub account and activate your Xahau account from their platform.
+This method is slightly more complicated since you can not **directly activate** a Xahau account with XAH tokens. Instead, you need to create an account at the [GateHub](https://gatehub.net/) exchange then send your XAH tokens to your GateHub account and activate your Xahau account from their platform.
 
 
 
