@@ -1,2 +1,0 @@
-# Duplicating your account (Xahau)
-

@@ -1,8 +1,8 @@
 ---
-description: How to duplicate a Xumm card account (and Backup card) into Xahau
+description: How to activate a Xumm card account (and Backup card) on Xahau
 ---
 
-# Duplicating a Xumm card account on Xahau
+# Activating a Xumm card account on Xahau
 
 ### Background
 
@@ -12,7 +12,7 @@ If you already have configured two Xumm cards per these instructions:
 [getting-started.md](../../xumm-tangem-cards/getting-started.md)
 {% endcontent-ref %}
 
-this article will walk you through duplicating your account (and your Backup account) on the Xahau network.
+this article will walk you through activating your account (and your Backup account) on the Xahau network.
 
 ### How it works
 

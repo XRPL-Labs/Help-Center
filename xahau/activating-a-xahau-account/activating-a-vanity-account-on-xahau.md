@@ -1,8 +1,8 @@
 ---
-description: How to duplicate a Vanity account on Xahau
+description: How to activate a Vanity account on Xahau
 ---
 
-# Duplicating a Vanity Account on Xahau
+# Activating a Vanity Account on Xahau
 
 ### Background
 
@@ -22,7 +22,7 @@ You may have noticed that the Vanity Account says, 'Full access" rather than 'Re
 
 ### How it works
 
-This processes will duplicate your vanity account on Xahau, activate it with 2 XAH and authorize Xaman to use the regular key account to sign for your vanity account on Xahau. It does this using an xApp called **Xahau Import** to create a _Setregularkey_ transaction on the XRP Ledger, then create an _Import_ transaction on the Xahau network. Signing both of these two transactions will duplicate your vanity account on Xahau, activate it with 2 XAH and authorize Xaman to use the regular key account to sign for your vanity account.&#x20;
+This processes will activate your vanity account on Xahau, activate it with 2 XAH and authorize Xaman to use the regular key account to sign for your vanity account on Xahau. It does this using an xApp called **Xahau Import** to create a _Setregularkey_ transaction on the XRP Ledger, then create an _Import_ transaction on the Xahau network. Signing both of these two transactions will duplicate your vanity account on Xahau, activate it with 2 XAH and authorize Xaman to use the regular key account to sign for your vanity account.&#x20;
 
 ### Getting started...&#x20;
 

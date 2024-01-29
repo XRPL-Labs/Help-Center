@@ -128,8 +128,8 @@ No. After we disable the master key for a vanity account and set the regular key
 
 You sure can. We have a create a separate article which explains how to do this:
 
-{% content-ref url="../../xahau/duplicating-your-account-xahau/duplicating-a-vanity-account-on-xahau.md" %}
-[duplicating-a-vanity-account-on-xahau.md](../../xahau/duplicating-your-account-xahau/duplicating-a-vanity-account-on-xahau.md)
+{% content-ref url="../../xahau/activating-a-xahau-account/activating-a-vanity-account-on-xahau.md" %}
+[activating-a-vanity-account-on-xahau.md](../../xahau/activating-a-xahau-account/activating-a-vanity-account-on-xahau.md)
 {% endcontent-ref %}
 
 #### &#x20;You have almost half a trillion r-addresses and their private keys, have you ever had any collisions?
