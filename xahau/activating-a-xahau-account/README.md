@@ -14,39 +14,41 @@ An account on Xahau is activated when a minimum of 1 XAH is sent to it.  The fir
 \
 You can read more about Xahau reserves and how they work here:
 
-
+{% content-ref url="../understanding-reserves-on-xahau.md" %}
+[understanding-reserves-on-xahau.md](../understanding-reserves-on-xahau.md)
+{% endcontent-ref %}
 
 There are five main ways to activate an account on the Xahau network:
 
-1\) 'Duplicate' an existing XRP Ledger (XRPL) account.
+{% hint style="info" %}
+1. Activate an existing XRP Ledger (XRPL) account.
+2. Buy XAH tokens on the XRPL DEX, then send them to your GateHub account and activate your Xahau account from GateHub
+3. Buy XAH coins/tokens on the GateHub platform and activate your Xahau from your account with them
+4. Buy XAH coins on the Bitrue platform and activate your Xahau from your account with them.
+5. Send XAH from another XAH account.
+{% endhint %}
 
-2\) Buy XAH tokens on the XRPL DEX, then send them to your GateHub account and activate your Xahau account from GateHub
 
-3\) Buy XAH coins/tokens on the GateHub platform and activate your Xahau from your account with them
-
-4\) Buy XAH coins on the Bitrue platform and activate your Xahau from your account with them.
-
-5\) Send XAH from another XAH account.
 
 ## Discussing each method
 
-#### 1) 'D**uplicating' an existing XRP Ledger account**
+#### 1) Activating **an existing XRP Ledger account**
 
-Many people will have an existing XRPL account managed with Xaman (formerly Xumm). If you already have an activated XRPL account managed by Xaman, you can 'duplicate' it on the Xahau network using the Xahau Import xApp which has been specifically designed for this purpose.
+Many people will have an existing XRPL account managed with Xaman (formerly Xumm). If you already have an activated XRPL account managed by Xaman, you can quickly and easily activate  it on the Xahau network using the [Xahau Import xApp](https://xumm.app/detect/xapp:nixer.xahauimport) which has been specifically designed for this purpose.
 
 The benefit of using the xApp is that it will automatically copy the settings of your current XRPL account over to the Xahau network and activate the new account with **2 free XAH coins**.
 
 That's correct. You will receive 2 free XAH coins by using the Xahau Import xApp.
 
-There are three ways to duplicate an account, depending on what type of XRPL account you have:
+There are three different XRPL account types that are relevant:&#x20;
 
-* Duplicating a regular. normal XRPL account - This is just a standard XRPL account created using Xumm/Xaman.&#x20;
-* Duplicating a Xumm(Tangem) card account - This is an account created using a Xumm (Tangem) card.
-* Duplicating a Vanity account - This is an account created using the [Vanity xApp](https://xumm.app/detect/xapp:xumm.vanity).
+* [x] Duplicating a regular. normal XRPL account - This is just a standard XRPL account created using Xumm/Xaman.&#x20;
+* [x] Duplicating a Xumm (Tangem) card account - This is an account created using a Xumm (Tangem) card.
+* [x] Duplicating a Vanity account - This is an account created using the [Vanity xApp](https://xumm.app/detect/xapp:xumm.vanity).
 
 
 
-<table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td align="center">Duplicating an XRPL account</td><td></td><td></td><td><a href="activating-an-xrpl-account-on-xahau.md">activating-an-xrpl-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Duplicating your Xumm card accounts</td><td></td><td></td><td><a href="activating-a-xumm-card-account-on-xahau.md">activating-a-xumm-card-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Duplicating your Vanity account</td><td></td><td></td><td><a href="activating-a-vanity-account-on-xahau.md">activating-a-vanity-account-on-xahau.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td align="center">Activating an XRPL account</td><td></td><td></td><td><a href="activating-an-xrpl-account-on-xahau.md">activating-an-xrpl-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Activating your Xumm card accounts</td><td></td><td></td><td><a href="activating-a-xumm-card-account-on-xahau.md">activating-a-xumm-card-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Activating your Vanity account</td><td></td><td></td><td><a href="activating-a-vanity-account-on-xahau.md">activating-a-vanity-account-on-xahau.md</a></td></tr></tbody></table>
 
 
 
