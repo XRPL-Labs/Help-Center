@@ -14,7 +14,7 @@ description: All about Trust Lines on Xahau
     1\) a Token Currency code\
     2\) an token issuing r-address
 
-## Putting it all together
+## Putting it together
 
 Let's consider the following situation:
 
@@ -28,7 +28,7 @@ Now let's say you would like to buy and own a GLD token in your Xahau account.
 How would you proceed?
 {% endhint %}
 
-
+The first thing&#x20;
 
 
 
