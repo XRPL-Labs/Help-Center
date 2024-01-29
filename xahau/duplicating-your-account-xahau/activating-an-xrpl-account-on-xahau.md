@@ -1,27 +1,27 @@
 ---
-description: How to duplicate an existing XRPL account on the Xahau network
+description: How to activate an existing XRPL account on the Xahau network
 ---
 
-# Duplicating an XRPL account on Xahau
+# Activating an XRPL account on Xahau
 
 ### Overview
 
-&#x20;This article explains how to duplicate an existing XRPL account on the Xahau network.&#x20;
+&#x20;This article explains how to activate an existing XRPL account on the Xahau network.&#x20;
 
 ### How it works
 
-In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. This processes authorizes Xumm to use the account secret for your XRPL account for a duplicate account on Xahau.
+In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. This processes authorizes Xaman to use the account secret for your XRPL account for a duplicate account on Xahau.
 
 ### Getting started...&#x20;
 
 The following process has two requirements:
 
 * Your account must be [**activated**](../../getting-started/how-to-activate-a-new-xrpl-account.md) on the XRPL.
-* Your account must be imported into Xumm with full access.
+* Your account must be imported into Xaman with full access.
 
 As long as both of these requirements are met, you can follow these instructions.
 
-1\) Tap the following link, then scan the QR with Xumm to get the [Xahau Import xApp](https://xumm.app/detect/xapp:nixer.xahauimport).
+1\) Tap the following link, then scan the QR with Xaman to get the [Xahau Import xApp](https://xumm.app/detect/xapp:nixer.xahauimport).
 
 {% embed url="https://xumm.app/detect/xapp:nixer.xahauimport" %}
 

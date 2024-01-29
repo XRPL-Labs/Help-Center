@@ -224,7 +224,7 @@
   * [How to send XAH coins to GateHub - Hosted account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-hosted-account.md)
   * [How to send XAH coins to Gatehub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-self-custodial-account.md)
 * [Duplicating your account (Xahau)](xahau/duplicating-your-account-xahau/README.md)
-  * [Duplicating an XRPL account on Xahau](xahau/duplicating-your-account-xahau/duplicating-an-xrpl-account-on-xahau.md)
+  * [Activating an XRPL account on Xahau](xahau/duplicating-your-account-xahau/activating-an-xrpl-account-on-xahau.md)
   * [Duplicating a Xumm card account on Xahau](xahau/duplicating-your-account-xahau/duplicating-a-xumm-card-account-on-xahau.md)
   * [Duplicating a Vanity Account on Xahau](xahau/duplicating-your-account-xahau/duplicating-a-vanity-account-on-xahau.md)
 * [Activating a Xahau account](xahau/activating-a-xahau-account/README.md)
