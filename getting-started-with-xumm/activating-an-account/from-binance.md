@@ -1,5 +1,5 @@
 ---
-description: How to send XRP from Binance to Xumm(deposit)
+description: How to send XRP from Binance to Xaman (deposit)
 ---
 
 # From Binance
@@ -16,7 +16,13 @@ From the results, choose **XRP** then select **Withdraw**.
 
 <figure><img src="../../.gitbook/assets/Binance -3.png" alt=""><figcaption></figcaption></figure>
 
-Make sure that you enter **your** **r-address** correctly, (The r-address of your account in Xaman.), then choose the correct network. (**XRP** Ripple)
+Make sure that you enter **your** **r-address** correctly, (The r-address of your account in Xaman.), then choose the correct network. (**XRP** Ripple).
+
+Note: You can find you r-address in Xaman here…
+
+<figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
+
+
 
 <figure><img src="../../.gitbook/assets/Binance -  Sending from - 3.png" alt=""><figcaption></figcaption></figure>
 
