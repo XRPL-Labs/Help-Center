@@ -1,5 +1,5 @@
 ---
-description: How to send XRP from Uphold to Xumm (deposit)
+description: How to send XRP from Uphold to Xaman (deposit)
 ---
 
 # From Uphold
@@ -28,16 +28,20 @@ description: How to send XRP from Uphold to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/Uphold - 5.png" alt=""><figcaption></figcaption></figure>
 
-7\) Enter your **r-address** from Xumm in the **XRP address** field then press the **Confirm** button.
+7\) Enter **your** **r-address** from Xaman into the **XRP address** field then press the **Confirm** button.
 
-<figure><img src="../../.gitbook/assets/Uphold - 6.png" alt=""><figcaption></figcaption></figure>
 
-Note: In Xumm, you can find your r-address in Xumm here:
 
-<figure><img src="../../.gitbook/assets/raddress (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Uphold - Activation sceen.png" alt=""><figcaption></figcaption></figure>
+
+Note: In Xaman, you can find your r-address here:
+
+
+
+<figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
 
 8\) Press the **Confirm withdrawal** button.
 
-<figure><img src="../../.gitbook/assets/Uphold - 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Uphold - Activation sceen - 2.png" alt=""><figcaption></figcaption></figure>
 
-9\) Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
+9\) Your XRP will arrive in your XRP Ledger account managed with Xaman shortly 🎉
