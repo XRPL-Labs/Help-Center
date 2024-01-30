@@ -1,8 +1,8 @@
 ---
-description: How to send XRP from Gatehub to Xumm (deposit)
+description: How to send XRP from GateHub to Xaman (deposit)
 ---
 
-# From Gatehub
+# From GateHub
 
 1\) Sign into your Gatehub account and click the **Send Payment** option.
 
@@ -16,16 +16,15 @@ description: How to send XRP from Gatehub to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/Gatehub - 3.png" alt=""><figcaption></figcaption></figure>
 
-4\) Enter your r-address for your XRPL account managed by Xumm, specify the amount to send, then press **Continue**.
+4\) Enter **your r-address** for your XRPL account managed by Xaman, specify the amount to send, then press **Continue**.
 
-\
+<figure><img src="../../.gitbook/assets/GateHub - Send Payment.png" alt=""><figcaption></figcaption></figure>
+
+Note: In Xaman, you can find your r-address here:
+
+<figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
+
+5\) Your XRP will arrive in your XRP Ledger account managed with Xaman shortly. 🎉
 
 
-<figure><img src="../../.gitbook/assets/Gatehub -5.png" alt=""><figcaption></figcaption></figure>
-
-Note: In Xumm, you can find your r-address in Xumm here:
-
-<figure><img src="../../.gitbook/assets/raddress.png" alt=""><figcaption></figcaption></figure>
-
-5\) Your XRP will arrive in your XRP Ledger account managed with Xumm shortly. 🎉
 
