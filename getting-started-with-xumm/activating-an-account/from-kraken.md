@@ -1,5 +1,5 @@
 ---
-description: How to send XRP from Kraken to Xumm (deposit)
+description: How to send XRP from Kraken to Xaman (deposit)
 ---
 
 # From Kraken
@@ -21,19 +21,18 @@ description: How to send XRP from Kraken to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/Kraken - 1c.png" alt=""><figcaption></figcaption></figure>
 
-6. Enter the name of your Xumm account in the “**Address description**” field.
-7. Enter the r-address of your Xumm account to the “**Withdrawal address**” field.
+6. Create a for your Xaman account in the “**Address description**” field. (We called ours "Xaman Savings Account.)
+7. Enter the r-address of your Xaman account to the “**Withdrawal address**” field.
 
-<figure><img src="../../.gitbook/assets/Kraken - 1d.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Kraken - Send page.png" alt=""><figcaption></figcaption></figure>
 
-**Note:** A Destination Tag/memo is not required when sending to a self-custodial XRP Ledger account, like accounts managed with Xumm.
+**Note:** Your r-address in Xaman can be found on the main screen as indicated in this picture:
+
+<figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
+
+**Note 2:** A Destination Tag/memo is not required when sending **to** a self-custodial XRP Ledger account, like accounts managed with Xaman.
 
 8. Press the “**Add withdrawal address**” button.
-
-**Note:** Your r-address in Xumm can be found on the main screen as indicated in this picture:
-
-<figure><img src="../../.gitbook/assets/raddress (1).png" alt=""><figcaption></figcaption></figure>
-
 9. Press the “**OK**” button.
 
 <figure><img src="../../.gitbook/assets/Kraken - 1e.png" alt=""><figcaption></figcaption></figure>
@@ -44,6 +43,6 @@ description: How to send XRP from Kraken to Xumm (deposit)
 
 11. In the “Withdrawal amount” field, enter the amount of XRP you would like to send then press the “**Withdraw xx.xx XRP**” button.
 
-<figure><img src="../../.gitbook/assets/Kraken - 1g.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Kraken - Send page -2.png" alt=""><figcaption></figcaption></figure>
 
-Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
+Your XRP will arrive in your XRP Ledger account managed with Xaman shortly 🎉
