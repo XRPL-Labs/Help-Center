@@ -1,5 +1,5 @@
 ---
-description: How to send XRP from Coinbase to Xumm (deposit)
+description: How to send XRP from Coinbase to Xaman (deposit)
 ---
 
 # From Coinbase
@@ -8,31 +8,35 @@ description: How to send XRP from Coinbase to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/Coinbase - 1.png" alt=""><figcaption></figcaption></figure>
 
-2. **Enter the amount** you would like to send to your XRP Ledger account Xumm then press, “**Continue**”.
+2. **Enter the amount** you would like to send to your XRP Ledger account managed with Xaman then press, “**Continue**”.
 
 <figure><img src="../../.gitbook/assets/Coinbase - 2.png" alt=""><figcaption></figcaption></figure>
 
 ⚠️ Please note: If you are trying to activate an account on the XRP Ledger, you will need to send at least **10 XRP**
 
-3. **Enter your r-address** from Xumm, (No XRP Tag is needed.) then press “**Preview send**”.
+3. Enter **your r-address** from Xaman, (No XRP Tag is needed.) then press “**Preview send**”.
 
-<figure><img src="../../.gitbook/assets/Coinbase - 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Coinbase - Send screen - 1.png" alt=""><figcaption></figcaption></figure>
 
-4. Select “**Yes, I’m sure**”.
+Note: You can find you r-address in Xaman here…
+
+<figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
+
+3. Select “**Yes, I’m sure**”.
 
 <figure><img src="../../.gitbook/assets/Coinbase - 4.png" alt=""><figcaption></figcaption></figure>
 
-⚠️ Please note: When sending to your non custodial XRP Ledger account managed by Xumm, a destination tag/ XRP Tag is not required.
+⚠️ Please note: When sending to your self-custodial XRP Ledger account managed by Xaman, a destination tag/ XRP Tag is not required.
 
 5. Tap the **“Send now”** button and wait for Coinbase to process your transaction.
 
-<figure><img src="../../.gitbook/assets/Coinbase - 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Coinbase - Send screen - 2.png" alt=""><figcaption></figcaption></figure>
 
-6. Press “**Done**”.
+5. Press “**Done**”.
 
 <figure><img src="../../.gitbook/assets/Coinbase - 6.png" alt=""><figcaption></figcaption></figure>
 
-Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
+Your XRP will arrive in your XRP Ledger account managed with Xaman shortly 🎉
 
 
 
