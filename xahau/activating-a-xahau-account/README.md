@@ -56,13 +56,27 @@ There are three different XRPL account types that are relevant:&#x20;
 \
 While the previous method of activating a Xahau account is by far the most popular, some people choose to manually activate their accounts with XAH purchased on the XRPL DEX.
 
-For more information about this, please refer to this article:
+For more information about XAH tokens on the XRPL, please refer to this article:
 
 {% content-ref url="../understanding-the-xah-token-on-the-xrp-ledger.md" %}
 [understanding-the-xah-token-on-the-xrp-ledger.md](../understanding-the-xah-token-on-the-xrp-ledger.md)
 {% endcontent-ref %}
 
-This method is slightly more complicated since you can not **directly activate** a Xahau account with XAH tokens. Instead, you need to create an account at the [GateHub](https://gatehub.net/) exchange then send your XAH tokens to your GateHub account and activate your Xahau account from their platform.
+This method is slightly more complicated since you can not **directly activate** a Xahau account with XAH tokens. Instead, you need to:
+
+1\) Create an account at the [GateHub](https://gatehub.net/) exchange.
+
+2\) Send your XAH tokens to your GateHub account:
+
+{% content-ref url="../how-to-send-xah-to-gatehub/" %}
+[how-to-send-xah-to-gatehub](../how-to-send-xah-to-gatehub/)
+{% endcontent-ref %}
+
+3\) Activate your Xahau account from your GateHub account:
+
+{% content-ref url="how-to-send-xah-from-gatehub.md" %}
+[how-to-send-xah-from-gatehub.md](how-to-send-xah-from-gatehub.md)
+{% endcontent-ref %}
 
 
 
