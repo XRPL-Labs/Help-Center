@@ -1,5 +1,5 @@
 ---
-description: How to send XRP from Crypto.com to Xumm (deposit)
+description: How to send XRP from Crypto.com to Xaman (deposit)
 ---
 
 # From Crypto.Com
@@ -36,18 +36,22 @@ description: How to send XRP from Crypto.com to Xumm (deposit)
 
 <figure><img src="../../.gitbook/assets/Crypto - 8.png" alt=""><figcaption></figcaption></figure>
 
-9\) Enter your **XRP r-address** managed by Xumm, select “**No destination tag required for my wallet**”  and add a “**Wallet Name**” then press “**Continue**”. You find you r-address in Xumm here…
+9\) Enter **your** **r-address** managed by Xaman, select “**No destination tag required for my wallet**”  and add a “**Wallet Name**” then press “**Continue**”. \
+\
+Note: You can find you r-address in Xaman here…
 
-<figure><img src="../../.gitbook/assets/Crypto - 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
 
 10\) Press the “**Withdraw XRP**” link, then enter the amount your would like to Withdraw and press the “**Withdraw**” button.&#x20;
 
-<figure><img src="../../.gitbook/assets/Crypto - 91.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Crypto - Send page - 1.png" alt=""><figcaption></figcaption></figure>
 
 11\) Review the transaction and if correct, press the “**Confirm**” button.
 
-<figure><img src="../../.gitbook/assets/Crypto - 92 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Crypto - Send page - 2.png" alt=""><figcaption></figcaption></figure>
 
 12\) Enter your Crypto.Com **passcode** when prompted.
 
-Your XRP will arrive in your XRP Ledger account managed with Xumm shortly 🎉
+Your XRP will arrive in your XRP Ledger account managed with Xaman shortly 🎉
