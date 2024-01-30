@@ -228,5 +228,5 @@
   * [Activating a Xumm card account on Xahau](xahau/activating-a-xahau-account/activating-a-xumm-card-account-on-xahau.md)
   * [Activating a Vanity Account on Xahau](xahau/activating-a-xahau-account/activating-a-vanity-account-on-xahau.md)
   * [How to send XAH from GateHub](xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
-  * [Via another Xahau account](xahau/activating-a-xahau-account/via-another-xahau-account.md)
   * [How to send XAH from Bitrue](xahau/activating-a-xahau-account/how-to-send-xah-from-bitrue.md)
+  * [Via another Xahau account](xahau/activating-a-xahau-account/via-another-xahau-account.md)

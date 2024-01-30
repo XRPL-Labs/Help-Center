@@ -82,19 +82,19 @@ This method is slightly more complicated since you can not **directly activate**
 
 3\) **Buying XAH tokens/coins on the GateHub platform**
 
-The GateHub exchange supports the Xahau network. They have three different account types you can use to activate a Xahau account:
+The GateHub exchange supports the Xahau network. They have three different account types you can activate a Xahau account from:
 
 * an XRPL account
 * a hosted XRPL account
 * a Xahau account
 
-If you have an XRPL account or hosted XRPL account with&#x20;
+You can purchase XAH coins/tokens from any of the three account types then follow the instructions in this article to If you have an XRPL account or hosted XRPL account with&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Gatehub</td><td></td><td><a href="how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH from your Gatehub account</td><td></td><td><a href="how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
 
 
 
-4\) Buy XAH coins on the Bitrue platform
+4\) **Buy XAH coins on the Bitrue platform**
 
 <table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Bitrue</td><td></td><td><a href="how-to-send-xah-from-bitrue.md">how-to-send-xah-from-bitrue.md</a></td></tr></tbody></table>
 
