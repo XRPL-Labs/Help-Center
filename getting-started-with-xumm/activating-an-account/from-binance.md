@@ -16,9 +16,9 @@ From the results, choose **XRP** then select **Withdraw**.
 
 <figure><img src="../../.gitbook/assets/Binance -3.png" alt=""><figcaption></figcaption></figure>
 
-Make sure that you enter your **r-address** correctly and choose the correct network. (**XRP** Ripple)
+Make sure that you enter **your** **r-address** correctly, (The r-address of your account in Xaman.), then choose the correct network. (**XRP** Ripple)
 
-<figure><img src="../../.gitbook/assets/Binance -4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Binance -  Sending from - 3.png" alt=""><figcaption></figcaption></figure>
 
 You should not need to enter anything into the MEMO field.
 
