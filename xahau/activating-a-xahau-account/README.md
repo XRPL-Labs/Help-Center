@@ -42,9 +42,9 @@ That's correct. You will receive 2 free XAH coins by using the Xahau Import xApp
 
 There are three different XRPL account types that are relevant:&#x20;
 
-* [x] Duplicating a regular. normal XRPL account - This is just a standard XRPL account created using Xumm/Xaman.&#x20;
-* [x] Duplicating a Xumm (Tangem) card account - This is an account created using a Xumm (Tangem) card.
-* [x] Duplicating a Vanity account - This is an account created using the [Vanity xApp](https://xumm.app/detect/xapp:xumm.vanity).
+* [x] A regular. normal XRPL account - This is just a standard XRPL account created using Xumm/Xaman.&#x20;
+* [x] A Xumm (Tangem) card account - This is an account created using a Xumm (Tangem) card.
+* [x] A Vanity account - This is an account created using the [Vanity xApp](https://xumm.app/detect/xapp:xumm.vanity).
 
 
 
