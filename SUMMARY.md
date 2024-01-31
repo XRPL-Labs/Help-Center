@@ -22,7 +22,6 @@
   * [From Kucoin](getting-started-with-xumm/how-to-activate-a-new-xrpl-account/from-kucoin.md)
   * [From Binance](getting-started-with-xumm/activating-an-account/from-binance.md)
   * [From Bitrue](getting-started-with-xumm/how-to-activate-a-new-xrpl-account/from-bitrue.md)
-  * [From Wirex](getting-started-with-xumm/activating-an-account/from-wirex.md)
   * [From Bitstamp](getting-started-with-xumm/activating-an-account/from-bitstamp.md)
 * [Importing your account (XRPL)](getting-started-with-xumm/importing-your-account/README.md)
   * [Should I import my XRP Ledger account into Xumm?](getting-started-with-xumm/importing-your-account/should-i-import-my-xrp-ledger-account-into-xumm.md)
