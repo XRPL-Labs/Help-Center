@@ -211,6 +211,13 @@
 
 ## Xahau
 
+* [Activating a Xahau account](xahau/activating-a-xahau-account/README.md)
+  * [Activating an XRPL account on Xahau](xahau/activating-a-xahau-account/activating-an-xrpl-account-on-xahau.md)
+  * [Activating a Xumm card account on Xahau](xahau/activating-a-xahau-account/activating-a-xumm-card-account-on-xahau.md)
+  * [Activating a Vanity Account on Xahau](xahau/activating-a-xahau-account/activating-a-vanity-account-on-xahau.md)
+  * [How to send XAH from GateHub](xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
+  * [How to send XAH from Bitrue](xahau/activating-a-xahau-account/how-to-send-xah-from-bitrue.md)
+  * [Via another Xahau account](xahau/activating-a-xahau-account/via-another-xahau-account.md)
 * [Understanding the XAH token on the XRP Ledger](xahau/understanding-the-xah-token-on-the-xrp-ledger.md)
 * [Understanding Reserves on Xahau](xahau/understanding-reserves-on-xahau.md)
 * [Understanding Trust Lines on Xahau](xahau/understanding-trust-lines-on-xahau.md)
@@ -222,10 +229,3 @@
   * [How to send XAH Tokens to GateHub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-tokens-to-gatehub-self-custodial-account.md)
   * [How to send XAH coins to GateHub - Hosted account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-hosted-account.md)
   * [How to send XAH coins to Gatehub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-self-custodial-account.md)
-* [Activating a Xahau account](xahau/activating-a-xahau-account/README.md)
-  * [Activating an XRPL account on Xahau](xahau/activating-a-xahau-account/activating-an-xrpl-account-on-xahau.md)
-  * [Activating a Xumm card account on Xahau](xahau/activating-a-xahau-account/activating-a-xumm-card-account-on-xahau.md)
-  * [Activating a Vanity Account on Xahau](xahau/activating-a-xahau-account/activating-a-vanity-account-on-xahau.md)
-  * [How to send XAH from GateHub](xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
-  * [How to send XAH from Bitrue](xahau/activating-a-xahau-account/how-to-send-xah-from-bitrue.md)
-  * [Via another Xahau account](xahau/activating-a-xahau-account/via-another-xahau-account.md)
