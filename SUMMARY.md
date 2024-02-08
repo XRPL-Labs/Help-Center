@@ -209,6 +209,10 @@
 * [Responsible Disclosure Policy](about-xumm-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
 * [Switching from Ledger to Xumm](about-xumm-and-xrpl-labs/switching-from-ledger-to-xumm.md)
 
+***
+
+* [Xahau xApps](xahau-xapps.md)
+
 ## Xahau
 
 * [Activating a Xahau account](xahau/activating-a-xahau-account/README.md)
