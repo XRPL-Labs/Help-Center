@@ -132,7 +132,7 @@
   * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
   * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
   * [Stably xApp](all-about-xapps/xrp-community/stably.md)
-* [Xahau xApps](all-about-xapps/xahau-xapps/README.md)
+* [Xahau xApps](all-about-xapps/xahau-xapps.md)
   * [Balance Adjustment](all-about-xapps/xahau-xapps/balance-adjustment.md)
 
 ## Xumm Pro beta
