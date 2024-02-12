@@ -1,18 +1,25 @@
 ---
 description: All about the Balance Adjustment xApp
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Balance Adjustment
 
 ### Purpose
 
-The Balance Adjustment xApp will allow you to take advantage of the _BalanceRewards_ amendment on the Xahau network and claim \~0.34% of your average monthly balance in XAH coins. (Equal to 4% annually.)
+The Balance Adjustment xApp will allow you to take advantage of the _BalanceRewards_ amendment on the Xahau network and claim a percentage of your average monthly balance in XAH coins.
 
-### How it works
-
-Simply opt-in each month using the Balance Adjustment xApp.&#x20;
-
-### **How do I find it**
+### **How do I find it?**
 
 Make sure your are connected to the Xahau network,
 
