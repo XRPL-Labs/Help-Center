@@ -17,7 +17,7 @@ layout:
 
 ### Purpose
 
-The Balance Adjustment xApp will allow you to take advantage of the _BalanceRewards_ amendment on the Xahau network and claim a percentage of your average monthly balance in XAH coins.
+The Balance Adjustment xApp will allow you to access the _BalanceRewards_ amendment on the Xahau network and claim a percentage of your average monthly balance in XAH coins.
 
 ### **How do I find it?**
 
