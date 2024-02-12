@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Natural disaster - EMP -1.png
+cover: ../../.gitbook/assets/Natural disaster - EMP -1.png
 coverY: 227
 ---
 

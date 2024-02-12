@@ -22,7 +22,7 @@ In order to access an account on the XRP Ledger, you must know the account secre
 
 The following process has two requirements:
 
-* Your Primary card account must be [**activated**](../../getting-started/how-to-activate-a-new-xrpl-account.md) on the XRPL.
+* Your Primary card account must be [**activated**](../../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/) on the XRPL.
 * Both your Primary card account and your Backup card account must be imported into Xaman.
 
 As long as both of these requirements are met, you can follow these instructions.

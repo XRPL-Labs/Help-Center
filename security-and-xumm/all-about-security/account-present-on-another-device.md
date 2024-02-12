@@ -45,7 +45,7 @@ Move your funds out of your XRPL account immediately!
 * If you have a **Xumm (Tangem) account**, move your funds to this account. The account secret is stored on the card and as long as you have configured it correctly, your account can not be accessed without physical access to your cards. (Primary and Signing)
 * If do not have a Xumm (Tangem) account but you have an **exchange** account, it might make sense to temporarily move your funds there.&#x20;
 * If do not have a Xumm (Tangem) account but you have an **hardware** wallet, it might make sense to move your funds there. (Although some hardware wallets are less secure than exchange accounts.
-* If do not have a Xumm (Tangem) account, you could consider [**re-keying**](../../getting-started-with-xumm/how-to-rekey-your-account.md) your account then [**disabling the master key**](../../getting-started-with-xumm/how-to-disable-the-master-key.md)
+* If do not have a Xumm (Tangem) account, you could consider [**re-keying**](../../getting-started-with-xaman/how-to-rekey-your-account.md) your account then [**disabling the master key**](../../getting-started-with-xaman/how-to-disable-the-master-key.md)
 
 ### Dealing with a compromised phone
 
@@ -76,4 +76,4 @@ If you can not figure out how your account might have been compromised, it is a 
 
 This article explains how to create a new XRP Ledger account using Xumm:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to create an XRPL account</td><td></td><td></td><td><a href="../../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="../../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to create an XRPL account</td><td></td><td></td><td><a href="../../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="../../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>

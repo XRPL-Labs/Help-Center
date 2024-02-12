@@ -16,7 +16,7 @@ In order to access an account on the XRP Ledger, you must know the account secre
 
 The following process has two requirements:
 
-* Your account must be [**activated**](../../getting-started/how-to-activate-a-new-xrpl-account.md) on the XRPL.
+* Your account must be [**activated**](../../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/) on the XRPL.
 * Your account must be imported into Xaman with full access.
 
 As long as both of these requirements are met, you can follow these instructions.

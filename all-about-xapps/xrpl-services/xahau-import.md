@@ -10,7 +10,7 @@ The Xahau Import xApp is a utility that allows you to import an existing XRP Led
 
 There are only two requirements in order to use this xApp:
 
-* Your account must be [**activated**](../../getting-started/how-to-activate-a-new-xrpl-account.md) on the XRPL.
+* Your account must be [**activated**](../../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/) on the XRPL.
 * Your XRP Ledger account must be imported into Xaman with full access.
 
 As long as both of these requirements are met, this utility will "clone" your XRPL account to the Xahau network and activate it for you.

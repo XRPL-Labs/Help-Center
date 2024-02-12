@@ -41,7 +41,7 @@ Because we only want to support trustworthy profiles & to prevent imposters, you
 
 #### **Will Xumm disclose my identity if I go through the KYC process?**
 
-Xumm does not disclose personal information to third parties, unless it is necessary due to legal obligations. We work together with industry experts to fulfil our commitment in building and maintaining a safe XRP ecosystem. In our [privacy statement](../about-xumm-and-xrpl-labs/where-can-i-find-your-privacy-statement.md), you will find the personal data we process and the grounds for processing. &#x20;
+Xumm does not disclose personal information to third parties, unless it is necessary due to legal obligations. We work together with industry experts to fulfil our commitment in building and maintaining a safe XRP ecosystem. In our [privacy statement](../about-xaman-and-xrpl-labs/where-can-i-find-your-privacy-statement.md), you will find the personal data we process and the grounds for processing. &#x20;
 
 #### **Can I go through the KYC process using a "read only" account in Xumm?**
 

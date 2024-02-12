@@ -114,7 +114,7 @@ Press the **Copy address** button, then exit the xApp and follow the instruction
 
 #### What do I do if I get a new phone? How do I import my Vanity account without the master key?
 
-Since the master key of your vanity account has been disabled, there is only one way to access it... by your regular key account. When the time comes to replace your phone, you simply need to install Xaman on it, import your vanity r-address into Xaman in [_read only_](../../getting-started-with-xumm/importing-your-account/...in-read-only-mode.md) mode, then [import your regular key account](../../getting-started-with-xumm/importing-your-account/) into Xaman in with full access. Xaman will recognize the regular key account and allow you to sign on you vanity account.
+Since the master key of your vanity account has been disabled, there is only one way to access it... by your regular key account. When the time comes to replace your phone, you simply need to install Xaman on it, import your vanity r-address into Xaman in [_read only_](../../getting-started-with-xaman/importing-your-account/...in-read-only-mode.md) mode, then [import your regular key account](../../getting-started-with-xaman/importing-your-account/) into Xaman in with full access. Xaman will recognize the regular key account and allow you to sign on you vanity account.
 
 #### What happens if I lose the master key for my regular key account?
 

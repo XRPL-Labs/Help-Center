@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/Tokens and coins -1 (1).png
 coverY: 0
 ---
 
-# How secure is Xumm?
+# How secure is Xaman?
 
 ## Comparing different wallets
 
@@ -117,7 +117,7 @@ Just like Xumm, the chances of guessing the account secret is 1 out of 340 undec
 
 Here are some interesting facts about the cards.
 
-* Contains $0 & 0 XRP in value upon delivery: the card will generate a keypair when first used with Xumm, and the newly generated keypair (and r-address on the XRPL) will have to be [activated with 10 XRP as per XRP Ledger requirement](../../getting-started/how-to-activate-a-new-xrpl-account.md) first.
+* Contains $0 & 0 XRP in value upon delivery: the card will generate a keypair when first used with Xumm, and the newly generated keypair (and r-address on the XRPL) will have to be [activated with 10 XRP as per XRP Ledger requirement](../../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/) first.
 * Card dimensions: 85.60 mm x 54.00 mm x 0.80 mm
 * Weight: about 4 grams
 * **S3D350A microchip from Samsung**

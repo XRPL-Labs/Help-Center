@@ -34,8 +34,8 @@ If the Primary card is lost, damaged or destroyed or there is a possibility that
 
 If you don't have another XRPL account, you can follow the instructions in this article to create one:
 
-{% content-ref url="../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md" %}
-[how-to-create-an-xrpl-account.md](../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
+{% content-ref url="../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md" %}
+[how-to-create-an-xrpl-account.md](../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 {% endcontent-ref %}
 
 ### Losing the Backup card
@@ -68,14 +68,14 @@ If your Backup card was stolen, the thief will not be able to access your Primar
 
 2\) Import your Backup card into Xumm.
 
-{% content-ref url="../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md" %}
-[...a-xumm-tangem-card.md](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
 3\) Import your Primary card account into Xumm in Read only mode.
 
-{% content-ref url="../getting-started-with-xumm/importing-your-account/...in-read-only-mode.md" %}
-[...in-read-only-mode.md](../getting-started-with-xumm/importing-your-account/...in-read-only-mode.md)
+{% content-ref url="../getting-started-with-xaman/importing-your-account/...in-read-only-mode.md" %}
+[...in-read-only-mode.md](../getting-started-with-xaman/importing-your-account/...in-read-only-mode.md)
 {% endcontent-ref %}
 
 Note: You will need to manually enter the r-address of your Primary card account when importing in read only mode.
@@ -84,7 +84,7 @@ Note: You will need to manually enter the r-address of your Primary card account
 
 If you don't have another XRPL account, you can follow the instructions in this article to create one:
 
-{% content-ref url="../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md" %}
-[how-to-create-an-xrpl-account.md](../getting-started-with-xumm/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
+{% content-ref url="../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md" %}
+[how-to-create-an-xrpl-account.md](../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 {% endcontent-ref %}
 

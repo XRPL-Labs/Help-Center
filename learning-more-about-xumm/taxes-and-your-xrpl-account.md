@@ -6,7 +6,7 @@ description: Exporting your XRP Ledger account for tax purposes
 
 ### **Introduction**
 
-Xumm is an [self-custodial wallet](../getting-started-with-xumm/what-is-xumm/understanding-self-custody.md) which allows you to interact with the XRP Ledger. Depending on where you live, some of these interactions can incur tax obligations.
+Xumm is an [self-custodial wallet](../getting-started-with-xaman/what-is-xumm/understanding-self-custody.md) which allows you to interact with the XRP Ledger. Depending on where you live, some of these interactions can incur tax obligations.
 
 It is your responsibility to investigate and settle these tax obligations with your local government.
 

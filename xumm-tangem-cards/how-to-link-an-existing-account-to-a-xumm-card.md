@@ -10,8 +10,8 @@ This process will allow you to sign transactions on a Xumm card account using an
 
 Import your card into Xumm by following the these instructions:
 
-{% content-ref url="../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md" %}
-[...a-xumm-tangem-card.md](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
 #### Step 2: Activate your new card account with at least 10 XRP <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
@@ -20,8 +20,8 @@ In order to hold assets in a XRP Ledger account, it must first be activated with
 
 This article explains how to activate an XRPL account:
 
-{% content-ref url="../getting-started/how-to-activate-a-new-xrpl-account.md" %}
-[how-to-activate-a-new-xrpl-account.md](../getting-started/how-to-activate-a-new-xrpl-account.md)
+{% content-ref url="../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/" %}
+[how-to-activate-a-new-xrpl-account](../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/)
 {% endcontent-ref %}
 
 #### Step 3: Copy the r-address for your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
@@ -64,8 +64,8 @@ The existing account must be imported into Xumm with **Full access** and you mus
 
 Import you card into Xumm by following the these instructions:
 
-{% content-ref url="../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md" %}
-[...a-xumm-tangem-card.md](../getting-started-with-xumm/importing-your-account/...a-xumm-tangem-card.md)
+{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
 #### Step 3: Copy the r-address for your card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>

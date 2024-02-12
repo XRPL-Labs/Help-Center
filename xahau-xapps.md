@@ -1,2 +1,0 @@
-# Xahau xApps
-
