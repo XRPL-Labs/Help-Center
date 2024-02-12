@@ -108,7 +108,7 @@
 
 ## ALL ABOUT XAPPS
 
-* [Xumm xApps](all-about-xapps/xumm-xapps/README.md)
+* [Xaman xApps](all-about-xapps/xumm-xapps/README.md)
   * [Account Worth](all-about-xapps/xumm-xapps/account-worth.md)
   * [Account Merge](all-about-xapps/xumm-xapps/account-merge.md)
   * [Vanity Address xApp](all-about-xapps/xumm-xapps/vanity-address.md)
@@ -132,6 +132,7 @@
   * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
   * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
   * [Stably xApp](all-about-xapps/xrp-community/stably.md)
+* [Xahau xApps](all-about-xapps/xahau-xapps.md)
 
 ## Xumm Pro beta
 
