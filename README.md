@@ -2,7 +2,7 @@
 description: >-
   If you're interested in learning about Xaman and the XRP ecosystem, you've
   come to the right place.
-cover: .gitbook/assets/xumm header
+cover: .gitbook/assets/Xaman banner.png
 coverY: 0
 ---
 
