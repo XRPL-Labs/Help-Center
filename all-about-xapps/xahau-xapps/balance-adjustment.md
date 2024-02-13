@@ -29,7 +29,7 @@ and simply tap this link:
 
 [**Balance Adjustment**](https://xumm.app/detect/xapp:xahau.balanceadjustment)
 
-or, if you are viewing this on a computer, scan this QR with Xaman:
+or, if you are viewing this article on a computer, scan this QR with Xaman:
 
 <figure><img src="../../.gitbook/assets/Balance Adjustment - 6.png" alt=""><figcaption></figcaption></figure>
 
@@ -39,11 +39,11 @@ or, if you are viewing this on a computer, scan this QR with Xaman:
 
 <figure><img src="../../.gitbook/assets/xApps Button.png" alt=""><figcaption></figcaption></figure>
 
-then choosing **Balance Adjustment**:
+then choose **Balance Adjustment**:
 
 <figure><img src="../../.gitbook/assets/Balance Adjustment - 1.png" alt=""><figcaption></figcaption></figure>
 
-You should see a screen like this:
+You should see a screen that looks like this:
 
 <figure><img src="../../.gitbook/assets/Balance Adjustment - 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ You should see a screen like this:
 
 <figure><img src="../../.gitbook/assets/Balance Adjustment - 3.png" alt=""><figcaption></figcaption></figure>
 
-4\) Congratulations! You are now enrolled. You should see a screen like this:
+4\) ...and congratulations! You are now enrolled. You should see a screen like this:
 
 <figure><img src="../../.gitbook/assets/Balance Adjustment - 4.png" alt=""><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ You should see a screen like this:
 
 #### Do I have to apply for my balance adjustment every month?
 
-Yes. The balance adjustment period resets every 30 days, 2 hours and 13 minutes. Once that amount of time expires, you will need to enroll again in order to receive the next balance adjustment.
+Yes. The balance adjustment period resets every 30 days, 2 hours and 13 minutes. Once this amount of time expires, you will need to enroll again in order to receive the next balance adjustment.
 
 #### Why do I have to enroll every month?
 
