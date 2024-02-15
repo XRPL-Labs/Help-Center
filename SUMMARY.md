@@ -51,6 +51,7 @@
 * [How to disable the Master key](getting-started-with-xaman/how-to-disable-the-master-key.md)
 * [How to configure biometrics](getting-started-with-xaman/how-to-configure-biometrics.md)
 * [Displaying XRP value](getting-started-with-xaman/displaying-xrp-value.md)
+* [How to migrate from Toast Wallet to Xaman](getting-started-with-xaman/how-to-migrate-from-toast-wallet-to-xaman.md)
 
 ## Learning more about Xumm
 
