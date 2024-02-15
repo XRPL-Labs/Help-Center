@@ -52,6 +52,7 @@
 * [How to configure biometrics](getting-started-with-xaman/how-to-configure-biometrics.md)
 * [Displaying XRP value](getting-started-with-xaman/displaying-xrp-value.md)
 * [How to migrate from Toast Wallet to Xaman](getting-started-with-xaman/how-to-migrate-from-toast-wallet-to-xaman.md)
+* [Why adding / generating & confirming "Secret Numbers" is not user friendly](getting-started-with-xaman/why-adding-generating-and-confirming-secret-numbers-is-not-user-friendly.md)
 
 ## Learning more about Xumm
 
