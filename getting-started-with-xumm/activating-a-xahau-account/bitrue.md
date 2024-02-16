@@ -1,5 +1,5 @@
 ---
-description: Activating a Xahau account from Bitrue
+description: Activating an account from Bitrue
 ---
 
 # How to send XAH from Bitrue
@@ -40,4 +40,4 @@ Press the the **Withdraw XAH** button.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Your XAH coins should arrive in your account shortly. The processing time is a function of how fast Bitrue processes the request (i.e. NOT the Xahau network or Xaman).
+Note: Processing times can vary depending on how fast Bitrue processes your request on their system.

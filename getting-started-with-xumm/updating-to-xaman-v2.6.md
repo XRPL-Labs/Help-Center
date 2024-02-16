@@ -6,7 +6,9 @@ description: How to update Xumm to the latest version
 
 ### Exciting news!
 
-We have just released the latest version Xumm! (v2.6) If you're reading this, you probably want to learn all about the new features it contains. Our blog it the ideal place to start:
+We have just released the latest version Xumm (v2.6)!
+
+If you're reading this, you probably want to learn all about the new features it contains. Our blog it the ideal place to start:
 
 {% embed url="https://blog.xumm.app/2.6.0" %}
 
@@ -64,6 +66,7 @@ If you encounter this screen during to update process:
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-the upgrade has not frozen. It just means that the database migration is still ongoing.
+The upgrade has not frozen. It just means that the database migration is still ongoing.
 
-Please keep the Xaman app open until the migration has completed.
+Please keep the Xaman app open until the migration has completed.\
+The migration seed will depend on the device's resources and the network bandwidth. Older and/or slower phones on slower networks may take a while to update.&#x20;

@@ -14,8 +14,8 @@ An account on Xahau is activated when a minimum of 1 XAH is sent to it.  The fir
 \
 You can read more about Xahau reserves and how they work here:
 
-{% content-ref url="../understanding-reserves-on-xahau.md" %}
-[understanding-reserves-on-xahau.md](../understanding-reserves-on-xahau.md)
+{% content-ref url="../../xahau/understanding-reserves-on-xahau.md" %}
+[understanding-reserves-on-xahau.md](../../xahau/understanding-reserves-on-xahau.md)
 {% endcontent-ref %}
 
 There are five main ways to activate an account on the Xahau network:
@@ -48,7 +48,7 @@ There are three different XRPL account types that are relevant:&#x20;
 
 
 
-<table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td align="center">Activating an XRPL account</td><td></td><td></td><td><a href="activating-an-xrpl-account-on-xahau.md">activating-an-xrpl-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Activating your Xumm card accounts</td><td></td><td></td><td><a href="activating-a-xumm-card-account-on-xahau.md">activating-a-xumm-card-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Activating your Vanity account</td><td></td><td></td><td><a href="activating-a-vanity-account-on-xahau.md">activating-a-vanity-account-on-xahau.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td align="center">Activating an XRPL account</td><td></td><td></td><td><a href="../../xahau/activating-a-xahau-account/activating-an-xrpl-account-on-xahau.md">activating-an-xrpl-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Activating your Xumm card accounts</td><td></td><td></td><td><a href="../../xahau/activating-a-xahau-account/activating-a-xumm-card-account-on-xahau.md">activating-a-xumm-card-account-on-xahau.md</a></td></tr><tr><td></td><td align="center">Activating your Vanity account</td><td></td><td></td><td><a href="../../xahau/activating-a-xahau-account/activating-a-vanity-account-on-xahau.md">activating-a-vanity-account-on-xahau.md</a></td></tr></tbody></table>
 
 
 
@@ -58,8 +58,8 @@ While the previous method of activating a Xahau account is by far the most popul
 
 For more information about XAH tokens on the XRPL, please refer to this article:
 
-{% content-ref url="../understanding-the-xah-token-on-the-xrp-ledger.md" %}
-[understanding-the-xah-token-on-the-xrp-ledger.md](../understanding-the-xah-token-on-the-xrp-ledger.md)
+{% content-ref url="../../xahau/understanding-the-xah-token-on-the-xrp-ledger.md" %}
+[understanding-the-xah-token-on-the-xrp-ledger.md](../../xahau/understanding-the-xah-token-on-the-xrp-ledger.md)
 {% endcontent-ref %}
 
 This method is slightly more complicated since you can not **directly activate** a Xahau account with XAH tokens. Instead, you need to:
@@ -68,14 +68,14 @@ This method is slightly more complicated since you can not **directly activate**
 
 2\) Send your XAH tokens to your GateHub account:
 
-{% content-ref url="../how-to-send-xah-to-gatehub/" %}
-[how-to-send-xah-to-gatehub](../how-to-send-xah-to-gatehub/)
+{% content-ref url="../../xahau/how-to-send-xah-to-gatehub/" %}
+[how-to-send-xah-to-gatehub](../../xahau/how-to-send-xah-to-gatehub/)
 {% endcontent-ref %}
 
 3\) Activate your Xahau account from your GateHub account:
 
-{% content-ref url="how-to-send-xah-from-gatehub.md" %}
-[how-to-send-xah-from-gatehub.md](how-to-send-xah-from-gatehub.md)
+{% content-ref url="../../xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md" %}
+[how-to-send-xah-from-gatehub.md](../../xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
 {% endcontent-ref %}
 
 
@@ -90,13 +90,13 @@ The GateHub exchange supports the Xahau network. They have three different accou
 
 You can purchase XAH coins/tokens from any of the three account types then follow the instructions in this article to If you have an XRPL account or hosted XRPL account with&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH from your Gatehub account</td><td></td><td><a href="how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH from your Gatehub account</td><td></td><td><a href="../../xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md">how-to-send-xah-from-gatehub.md</a></td></tr></tbody></table>
 
 
 
 4\) **Buy XAH coins on the Bitrue platform**
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Bitrue</td><td></td><td><a href="how-to-send-xah-from-bitrue.md">how-to-send-xah-from-bitrue.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td align="center">How to send XAH to your account from Bitrue</td><td></td><td><a href="bitrue.md">bitrue.md</a></td></tr></tbody></table>
 
 5\) **Via another Xahau account**
 

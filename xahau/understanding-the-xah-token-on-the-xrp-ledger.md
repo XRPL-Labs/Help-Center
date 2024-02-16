@@ -91,8 +91,8 @@ No, not directly from your XRPL account. XAH tokens on the XRPL are not the same
 
 Please refer to this section if you are interested in activating a Xahau account:
 
-{% content-ref url="activating-a-xahau-account/" %}
-[activating-a-xahau-account](activating-a-xahau-account/)
+{% content-ref url="../getting-started-with-xumm/activating-a-xahau-account/" %}
+[activating-a-xahau-account](../getting-started-with-xumm/activating-a-xahau-account/)
 {% endcontent-ref %}
 
 #### I own XAH tokens on the XRPL. Can I send them to my Xahau account?

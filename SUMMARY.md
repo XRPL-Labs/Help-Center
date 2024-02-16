@@ -4,8 +4,8 @@
 
 ## Getting started with Xaman
 
-* [😎 Updating to Xaman v2.6!](getting-started-with-xaman/updating-to-xaman-v2.6.md)
-* [💸 What is Xaman?](getting-started-with-xaman/what-is-xumm/README.md)
+* [😎 Updating to Xaman v2.6!](getting-started-with-xumm/updating-to-xaman-v2.6.md)
+* [💸 What is Xaman?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
   * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
   * [Xumm & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
@@ -214,12 +214,12 @@
 
 ## Xahau
 
-* [Activating a Xahau account](xahau/activating-a-xahau-account/README.md)
+* [Activating a Xahau account](getting-started-with-xumm/activating-a-xahau-account/README.md)
   * [Activating an XRPL account on Xahau](xahau/activating-a-xahau-account/activating-an-xrpl-account-on-xahau.md)
   * [Activating a Xumm card account on Xahau](xahau/activating-a-xahau-account/activating-a-xumm-card-account-on-xahau.md)
   * [Activating a Vanity Account on Xahau](xahau/activating-a-xahau-account/activating-a-vanity-account-on-xahau.md)
   * [How to send XAH from GateHub](xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
-  * [How to send XAH from Bitrue](xahau/activating-a-xahau-account/how-to-send-xah-from-bitrue.md)
+  * [How to send XAH from Bitrue](getting-started-with-xumm/activating-a-xahau-account/bitrue.md)
   * [Via another Xahau account](xahau/activating-a-xahau-account/via-another-xahau-account.md)
 * [Understanding the XAH token on the XRP Ledger](xahau/understanding-the-xah-token-on-the-xrp-ledger.md)
 * [Understanding Reserves on Xahau](xahau/understanding-reserves-on-xahau.md)
