@@ -6,20 +6,32 @@ description: How to migrate from Toast Wallet to Xaman
 
 ### Disclaimer
 
-Please be aware, this article was created to help migrate your XRP Ledger account from Toast wallet to Xaman. The information contained in this article is provided on a best effort basis. We do not provide technical support for Toast wallet.&#x20;
+The information contained in this article is provided on a "best effort" basis. We do not provide technical support for Toast wallet.
 
 ### Prerequisites
 
 This article assumes the following:
 
 * You have an existing XRP Ledger account managed by Toast Wallet
-* You know the&#x20;
+* You know the "passphrase" for your XRP Ledger account
+
+If you have lost your passphrase or do not have the correct one for your account, we will not be able to assist you. You **must** have the correct passphrase otherwise this process will not work.
+
+### Instructions
+
+1\) Launch Toast wallet and sign in using your passcode.
+
+<figure><img src="../.gitbook/assets/Toast wallet - 5.png" alt=""><figcaption></figcaption></figure>
+
+2\) Select your XRP Ledger account.
+
+<figure><img src="../.gitbook/assets/Toast wallet - 6.png" alt=""><figcaption></figcaption></figure>
+
+3\) Select the '**Show Secret**' button.
+
+<figure><img src="../.gitbook/assets/Toast Wallet - 2.png" alt=""><figcaption></figcaption></figure>
 
 
-
-
-
-### 1. Open the account details screen and select 'Show Secret'. <a href="#h_4037edee00" id="h_4037edee00"></a>
 
 ### 2. Enter the passphrase and select 'Reveal Secret'. <a href="#h_b1e9ac42b7" id="h_b1e9ac42b7"></a>
 
