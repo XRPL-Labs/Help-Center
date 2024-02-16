@@ -40,33 +40,52 @@ If you have lost your passphrase or do not have the correct one for your account
 <figure><img src="../.gitbook/assets/Toast Wallet - 4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-The account secret is the private key for your XRP Ledger account. It is vital that you **do not** share it will anyone. If someone was able to learn your account secret, they would have complete access to your XRPL account. It is very important that no one else can see or access it.&#x20;
+The account secret is the private key for your XRP Ledger account. It is vital that you **do not** share it will anyone. If someone was able to learn your account secret, they would have complete access to your XRPL account. It is very important that you store it in a safe and secure place and that no one can access it.&#x20;
 {% endhint %}
 
-### 3. Copy the Account Secret string (starting with 's') <a href="#h_b12d96d811" id="h_b12d96d811"></a>
+Note: Your account secret is displayed in the form of a 'Family Seed".&#x20;
 
-_Now you are ready to import the secret into XUMM. Open_ [_XUMM_](https://web.archive.org/web/20220121231212/https://xumm.app/)_, and:_&#x20;
+ie. shR84mcHR84mcHR84mcHHekH1seEc
 
-### 4. **Select "Switch account" in the home screen (upper right corner** <a href="#h_0b9dd3604b" id="h_0b9dd3604b"></a>
+You will need to know **your** Family seed in order to access your XRPL account in Xaman.
 
-### **5. Select "Add Account"** <a href="#h_d314a908af" id="h_d314a908af"></a>
 
-**6. Select "Import existing" » "Full access" » "Family Seed"**
 
-Select **"Import existing account"**
+6\) On your mobile device, launch Xaman and sign in using your 6 digit passcode or with biometrics.
 
-Select **"Full access"** account type
+7\) Press the **Settings** button, then **Accounts**, then **+ Add account**.
 
-Select a **"Family Seed"**
+8\) Tap the "**Import an existing account**" button.
 
-### **6. Enter the s... code copied from Toast** <a href="#h_f4d69ffb83" id="h_f4d69ffb83"></a>
+9\) Choose **Full Access** then press the **Next** button.
 
-Now type or or **paste** your **"Family Seed" (the code starting with a lower case "s")** you got from Toast, in **Step 4**.
+10\) Select '**Family Seed**" then press the **Next** button.
 
-### Done 🎉 <a href="#h_d6f25015ac" id="h_d6f25015ac"></a>
+11\) **Enter the Family Seed** for your XRPL account that you wrote down from your Toast wallet, then press the **Next** button.
 
-**Now PLEASE CLEAR your clipboard**
+12\) Press the **Confirm** button.
 
-&#x20;
+13\) Choose the desired security level. (Standard or Extra security)
 
-It is possible to use the XUMM camera function by restoring the backup code to a browser version of Toast revealing the secret there and scanning the QR code by selecting the rectangle on the left of the Account Seed input field in XUMM.
+14\) Give you XRPL account a suitable name then press the **Next** button.
+
+15\) Congratulations! Your XRP Ledger account should now be imported into Xaman.&#x20;
+
+
+
+### Frequently Asked Questions
+
+####
+
+#### What ever happened to Toast wallet?
+
+The developer who coded Toast wallet moved on to different projects within the XRP Ledger community. He is currently working on creating Hooks on the [Xahau network](https://xahau.network/).
+
+#### Where can I go if I need support for Toast wallet?
+
+Unfortunately customer support for Toast wallet is no longer available. You might be able to find some answers to commonly asked questions here:
+
+[https://twitter.com/toastwallet?lang=en](https://twitter.com/toastwallet?lang=en)
+
+
+
