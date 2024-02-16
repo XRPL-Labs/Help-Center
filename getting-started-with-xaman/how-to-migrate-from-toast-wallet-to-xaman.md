@@ -86,6 +86,18 @@ You will need to know **your** Family seed in order to access your XRPL account 
 
 
 
+{% hint style="info" %}
+For your convenience, steps 6 through 15 have been consolidated into a separate article.&#x20;
+
+You can find the link below:
+{% endhint %}
+
+{% content-ref url="importing-your-account/...with-a-family-seed.md" %}
+[...with-a-family-seed.md](importing-your-account/...with-a-family-seed.md)
+{% endcontent-ref %}
+
+
+
 ### Frequently Asked Questions
 
 #### What ever happened to Toast wallet?
