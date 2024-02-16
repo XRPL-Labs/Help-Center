@@ -62,7 +62,7 @@ ie. shR84mcHR84mcHR84mcHHekH1seEc
 
 You will need to know **your** Family seed in order to access your XRPL account in Xaman.
 
-
+### The instructions continue in Xaman...
 
 6\) On your mobile device, launch Xaman and sign in using your 6 digit passcode or with biometrics.
 
