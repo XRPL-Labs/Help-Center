@@ -6,7 +6,7 @@ description: How to migrate from Toast Wallet to Xaman
 
 ### Disclaimer
 
-The information contained in this article is provided on a "best effort" basis. We do not provide technical support for Toast wallet.
+The information contained in this article is provided on a "best efforts" basis. We do not provide technical support for Toast wallet.
 
 ### Is this really a good idea?
 
