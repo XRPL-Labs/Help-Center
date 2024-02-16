@@ -136,6 +136,7 @@
   * [Stably xApp](all-about-xapps/xrp-community/stably.md)
 * [Xahau xApps](all-about-xapps/xahau-xapps.md)
   * [Balance Adjustment](all-about-xapps/xahau-xapps/balance-adjustment.md)
+  * [XAH Teleport](all-about-xapps/xahau-xapps/xah-teleport.md)
 
 ## Xumm Pro beta
 
