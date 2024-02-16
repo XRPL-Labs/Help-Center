@@ -31,9 +31,17 @@ If you have lost your passphrase or do not have the correct one for your account
 
 <figure><img src="../.gitbook/assets/Toast Wallet - 2.png" alt=""><figcaption></figcaption></figure>
 
+4\) Enter the passphrase for your XRPL account then select '**Reveal Secret**' button.
 
+<figure><img src="../.gitbook/assets/Toast Wallet - 3.png" alt=""><figcaption></figcaption></figure>
 
-### 2. Enter the passphrase and select 'Reveal Secret'. <a href="#h_b1e9ac42b7" id="h_b1e9ac42b7"></a>
+5\) Copy the 'Account Secret'.
+
+<figure><img src="../.gitbook/assets/Toast Wallet - 4.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+The account secret is the private key for your XRP Ledger account. It is vital that you **do not** share it will anyone. If someone was able to learn your account secret, they would have complete access to your XRPL account. It is very important that no one else can see or access it.&#x20;
+{% endhint %}
 
 ### 3. Copy the Account Secret string (starting with 's') <a href="#h_b12d96d811" id="h_b12d96d811"></a>
 
