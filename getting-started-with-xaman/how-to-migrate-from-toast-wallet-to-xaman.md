@@ -4,9 +4,18 @@ description: How to migrate from Toast Wallet to Xaman
 
 # How to migrate from Toast Wallet to Xaman
 
-#### A procedure for migrating from Toast Wallet to XUMM
+### Disclaimer
 
-This works without transferring funds or paying a new XRP account reserve. You even keep your r.. address. **This has to be done separately for EACH account in Toast.**
+Please be aware, this article was created to help migrate your XRP Ledger account from Toast wallet to Xaman. The information contained in this article is provided on a best effort basis. We do not provide technical support for Toast wallet.&#x20;
+
+### Prerequisites
+
+This article assumes the following:
+
+* You have an existing XRP Ledger account managed by Toast Wallet
+* You know the&#x20;
+
+
 
 
 
