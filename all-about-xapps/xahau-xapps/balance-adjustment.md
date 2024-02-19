@@ -19,21 +19,21 @@ layout:
 
 The Balance Adjustment xApp allows you to access the _BalanceRewards_ amendment on the Xahau network and claim a percentage of your average monthly balance in XAH coins.
 
-### **How do I find it?**
+### **How do I install it?**
 
 Make sure Xaman is connected to the Xahau network,
 
 <figure><img src="../../.gitbook/assets/Network switch button.png" alt=""><figcaption></figcaption></figure>
 
-and simply tap this link: [**Balance Adjustment**](https://xumm.app/detect/xapp:xahau.balanceadjustment)
+then simply tap this link: [**Balance Adjustment**](https://xumm.app/detect/xapp:xahau.balanceadjustment)
 
 Or, if you are viewing this article on a computer, scan this QR code with Xaman:
 
 <figure><img src="../../.gitbook/assets/Balance Adjustment - 6.png" alt=""><figcaption></figcaption></figure>
 
+### **How do I launch it?**
 
-
-You can also launch the Balance Adjustment xApp by pressing the _xApps_ button at the bottom of the screen:&#x20;
+You can launch the Balance Adjustment xApp by pressing the _xApps_ button at the bottom of the screen:&#x20;
 
 <figure><img src="../../.gitbook/assets/xApps Button.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,11 @@ You should see a screen that looks like this:
 
 <figure><img src="../../.gitbook/assets/Balance Adjustment - 2.png" alt=""><figcaption></figcaption></figure>
 
+### **How do I use it?**
+
 1\) Tap the **Opt-in** button.
+
+<figure><img src="../../.gitbook/assets/Balance Adjustment xApp - 3a.png" alt=""><figcaption></figcaption></figure>
 
 2\) Review and **sign the transaction**:
 
