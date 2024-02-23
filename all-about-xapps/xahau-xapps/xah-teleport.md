@@ -64,6 +64,12 @@ The xApp is meant to be a quick, easy and convenient way to move XAH between net
 
 {% embed url="https://help.xumm.app/app/xahau/how-to-send-xah-to-gatehub" %}
 
+#### What is the minimum / maximum amount of XAH that can be moved at one time?
+
+Minimum = 0.5 XAH
+
+Maximum = 1000 XAH
+
 
 
 
