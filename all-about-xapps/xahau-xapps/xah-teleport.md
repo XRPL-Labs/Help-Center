@@ -85,11 +85,11 @@ On the XRP Ledger you have an account:&#x20;
 * rXahauf8jUF076HGhhtyf45
 * rTradingdhru49gKJH9314ml
 
-You could not send you XAH to rXahauf8jUF076HGhhtyf45 or rTradingdhru49gKJH9314ml.
+You could not send your XAH to rXahauf8jUF076HGhhtyf45 or rTradingdhru49gKJH9314ml.
 
-You can only send to same account r-address on the other network.
+You can only send to the same account r-address on the other network.
 
-
+ie. rStargateYHGUdFGeusi34tr on the XRPL to rStargateYHGUdFGeusi34tr on Xahau
 
 
 

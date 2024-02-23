@@ -198,7 +198,7 @@
 ## About Xaman & XRPL Labs
 
 * [About XRPL Labs](about-xaman-and-xrpl-labs/what-is-xrpl-labs.md)
-* [👨👩👧👧 The XRPL Labs/Xaman team](about-xaman-and-xrpl-labs/who-is-the-team-behind-xumm/README.md)
+* [👨‍👩‍👧‍👧 The XRPL Labs/Xaman team](about-xaman-and-xrpl-labs/who-is-the-team-behind-xumm/README.md)
   * [📺 Team: Ali, Satish & Koen](about-xaman-and-xrpl-labs/who-is-the-team-behind-xumm/introducing-ali-richard-and-satish.md)
   * [📺 Team: Richard & Tristan](about-xaman-and-xrpl-labs/who-is-the-team-behind-xumm/team-richard-and-tristan.md)
   * [📺 Team: Chris & Alex](about-xaman-and-xrpl-labs/who-is-the-team-behind-xumm/team-chris-and-alex.md)
