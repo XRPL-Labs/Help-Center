@@ -26,6 +26,8 @@ You can launch the XAH Teleport xApp by pressing the _xApps_ button at the botto
 
 then choose _**XAH Teleport**_:
 
+
+
 <figure><img src="../../.gitbook/assets/XAH Teleport - 2.png" alt=""><figcaption></figcaption></figure>
 
 You should see a screen that looks like this:
@@ -34,7 +36,7 @@ You should see a screen that looks like this:
 
 ### **How do I use it?**
 
-The first thing you need to decide is which way you would like to send your tokens/coins. You can press the '**Invert direction**' button to switch between the XRP Ledger and the Xahau network.
+The first thing you need to decide is which way you would like to send your XAH tokens/coins. You can press the '**Invert direction**' button to switch between the XRP Ledger and the Xahau network.
 
 
 
@@ -44,9 +46,27 @@ You'll know which way the tokens/coins are moving by looking at the following ar
 
 <figure><img src="../../.gitbook/assets/XAH Teleport - 5.png" alt=""><figcaption></figcaption></figure>
 
+The next thing to decide is how much you would like to send. You have three options:
+
+* A minimum amount
+* A midpoint amount
+* A maximum amount
+
+These amounts are determined based on the balance of your account.
+
+Simple chose from one of the three options by tapping it.... the xApp will handle the rest.
+
+### Frequently asked questions
+
+#### Why can't I manually select the amount I want to teleport?
+
+The xApp is meant to be a quick, easy and convenient way to move XAH between networks. It is not meant to be a replacement for a crypto exchange. If you would like to move a specific amount of XAH between networks, you can create an account with GateHub and manually move as much (or as little) XAH as you like.
+
+{% embed url="https://help.xumm.app/app/xahau/how-to-send-xah-to-gatehub" %}
 
 
 
 
-1\) Tap the **Opt-in** button.
+
+
 
