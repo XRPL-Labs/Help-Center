@@ -12,9 +12,7 @@ The XAH Teleport xApp allows you to move XAH tokens (issued by GateHub) from you
 
 You can install the XAH Teleport xApp on either network and it will work on both networks.
 
-Simply tap this link: [**XAH Teleport**](https://xumm.app/detect/xapp:xahau.teleport) to install it....
-
-or, if you are viewing this article on a computer, scan this QR code with Xaman:
+Simply tap this link: [**XAH Teleport**](https://xumm.app/detect/xapp:xahau.teleport) to install it or, if you are viewing this article on a computer, scan this QR code with Xaman:
 
 <figure><img src="../../.gitbook/assets/XAH Teleport - 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +22,7 @@ You can launch the XAH Teleport xApp by pressing the _xApps_ button at the botto
 
 <figure><img src="../../.gitbook/assets/xApps Button.png" alt=""><figcaption></figcaption></figure>
 
-then choose _**XAH Teleport**_:
+select the \*\*\***All**\*\*\* tab then choose _**XAH Teleport**_:
 
 
 
@@ -36,7 +34,9 @@ You should see a screen that looks like this:
 
 ### **How do I use it?**
 
-The first thing you need to decide is which way you would like to send your XAH tokens/coins. You can press the '**Invert direction**' button to switch between the XRP Ledger and the Xahau network.
+The first thing you need to decide is which way you would like to send your XAH tokens/coins.
+
+You can press the '**Invert direction**' button to switch between the XRP Ledger and the Xahau network.
 
 
 
@@ -46,7 +46,9 @@ You'll know which way the tokens/coins are moving by looking at the following ar
 
 <figure><img src="../../.gitbook/assets/XAH Teleport - 5.png" alt=""><figcaption></figcaption></figure>
 
-The next thing to decide is how much you would like to send. You have three options:
+The next thing to decide is how much you would like to send.&#x20;
+
+You have three options:
 
 * A minimum amount
 * A midpoint amount
@@ -87,9 +89,9 @@ On the XRP Ledger you have an account:&#x20;
 
 You could not send your XAH to rXahauf8jUF076HGhhtyf45 or rTradingdhru49gKJH9314ml.
 
-You can only send to the same account r-address on the other network.
+You can only send to same account r-address on the other network.
 
-ie. rStargateYHGUdFGeusi34tr on the XRPL to rStargateYHGUdFGeusi34tr on Xahau
+ie. rStargateYHGUdFGeusi34tr on the XRPL to rStargateYHGUdFGeusi34tr on Xahau and vice versa.
 
 
 
