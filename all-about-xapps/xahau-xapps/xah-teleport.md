@@ -60,17 +60,34 @@ Simple chose from one of the three options by tapping it.... the xApp will handl
 
 #### Why can't I manually select the amount I want to teleport?
 
-The xApp is meant to be a quick, easy and convenient way to move XAH between networks. It is not meant to be a replacement for a crypto exchange. If you would like to move a specific amount of XAH between networks, you can create an account with GateHub and manually move as much (or as little) XAH as you like.
+The XAH Teleport xApp is meant to be a quick, easy and convenient way to move XAH between networks. It is not meant to be a replacement for a crypto exchange. If you would like to move a specific amount of XAH between networks, you can create an account with GateHub and manually move as much (or as little) XAH as you like.
 
 {% embed url="https://help.xumm.app/app/xahau/how-to-send-xah-to-gatehub" %}
 
 #### What is the minimum / maximum amount of XAH that can be moved at one time?
 
-Minimum = 0.5 XAH
+* Minimum = 0.5 XAH
+* Maximum = 1000 XAH
 
-Maximum = 1000 XAH
+#### Can I send my XAH from my account to a different account?
 
+No. You can only send XAH from your account to the same r-address on the other network.\
+\
+For example:
 
+On the XRP Ledger you have an account:&#x20;
+
+* rStargateYHGUdFGeusi34tr
+
+&#x20;and on the Xahau network you have three accounts:
+
+* rStargateYHGUdFGeusi34tr
+* rXahauf8jUF076HGhhtyf45
+* rTradingdhru49gKJH9314ml
+
+You could not send you XAH to rXahauf8jUF076HGhhtyf45 or rTradingdhru49gKJH9314ml.
+
+You can only send to same account r-address on the other network.
 
 
 
