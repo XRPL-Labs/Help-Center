@@ -74,7 +74,6 @@
 * [GateHub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
 * [How to send SGB to BiFrost](learning-more-about-xumm/how-to-send-sgb-to-bifrost.md)
 * [Taxes and your XRPL account](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
-* [How to convert a Read only account](learning-more-about-xumm/how-to-convert-a-read-only-account.md)
 * [How to reset the 6 digit passcode](learning-more-about-xumm/how-to-reset-the-6-digit-passcode.md)
 * [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 * [Deleting an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
