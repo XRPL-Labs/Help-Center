@@ -30,3 +30,12 @@ Once you go into the **Push notifications** section, you should see a list of ac
 
 <figure><img src="../../.gitbook/assets/push notification - 3.png" alt=""><figcaption></figcaption></figure>
 
+### Frequently Asked Questions
+
+#### I am not receiving push notifications on my Apple device.
+
+
+
+<figure><img src="../../.gitbook/assets/Push Notifications. -1.png" alt=""><figcaption></figcaption></figure>
+
+####
