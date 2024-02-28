@@ -223,7 +223,7 @@
   * [Via another Xahau account](xahau/activating-a-xahau-account/via-another-xahau-account.md)
 * [Understanding the XAH token on the XRP Ledger](xahau/understanding-the-xah-token-on-the-xrp-ledger.md)
 * [Understanding Reserves on Xahau](xahau/understanding-reserves-on-xahau.md)
-* [Understanding Trustlines on Xahau](xahau/understanding-trust-lines-on-xahau.md)
+* [Understanding Trust Lines on Xahau](xahau/understanding-trust-lines-on-xahau.md)
 * [How to create a Trust Line (Xahau)](xahau/how-to-create-a-trust-line-xahau.md)
 * [How to create an Evernode Trust Line](xahau/how-to-create-an-evernode-trust-line.md)
 * [How to purchase Evernode tokens](xahau/how-to-purchase-evernode-tokens.md)
