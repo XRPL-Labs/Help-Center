@@ -1,8 +1,8 @@
 ---
-description: All about Trust Lines on Xahau
+description: All about Trustlines on Xahau
 ---
 
-# Understanding Trust Lines on Xahau
+# Understanding Trustlines on Xahau
 
 ## Summary
 
