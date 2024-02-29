@@ -6,7 +6,7 @@ description: >-
 
 # Understanding Self custody
 
-If you are just getting started with crypto and blockchain, one of the biggest challenges can be trying to figure out what all of the different terms and fancy words mean. If you are thinking about installing Xumm and are wondering what exactly words like "custodial", "non-custodial", "un-hosted" "self-custody" and "hosted" refer to, this article is going to help get you up to speed.
+If you are just getting started with crypto and blockchain, one of the biggest challenges can be trying to figure out what all of the different terms and fancy words mean. If you are thinking about installing Xaman (formerly Xumm) and are wondering what exactly words like "custodial", "non-custodial", "un-hosted" "self-custody" and "hosted" refer to, this article is going to help get you up to speed.
 
 ### Your custodial bank account
 
@@ -44,7 +44,7 @@ Fortunately, many people want their banks and governments to make these types of
 
 ### A second choice...
 
-When it comes to the XRP Ledger, there are several **crypto exchanges** which offer **custodial accounts**. Similar to a bank, you can open an account with a crypto exchange and deposit money into your account with them. The exchange holds and administers that money for you and when it comes time to interact with the XRP Ledger, they act as a "middle man" and perform transactions on your behalf.&#x20;
+When it comes to the XRP Ledger/Xahau, there are several **crypto exchanges** which offer **custodial accounts**. Similar to a bank, you can open an account with a crypto exchange and deposit money into your account with them. The exchange holds and administers that money for you and when it comes time to interact with the XRP Ledger/Xahau, they act as a "middle man" and perform transactions on your behalf.&#x20;
 
 For example, let's say a friend wanted to send you 1000 XRP. The crypto exchange would provide you with an r-address (which is an account number on the XRPL) and a destination tag. (which is your account number on the exchange's database) You would provide the r-address and the destination tag to your friend and they would send the funds to the r-address.&#x20;
 
@@ -60,7 +60,7 @@ However... on the XRP Ledger, there is a **second option**.
 
 ### Self-custodial accounts
 
-One of the great features of the XRP Ledger is that you can actually create your own account on the network. This means that you can create your own r-address and have complete control over it. It also means that you, and only you, can make decisions on how you will manage your funds. As well, you actually own and control your own XRP. We refer to this type of account on the XRP Ledger as a **self-custodial** account.&#x20;
+One of the great features of the XRP Ledger/Xahau is that you can actually create your own account on the network. This means that you can create your own r-address and have complete control over it. It also means that you, and only you, can make decisions on how you will manage your funds. As well, you actually own and control your own XRP. We refer to this type of account on the XRP Ledger as a **self-custodial** account.&#x20;
 
 Self-custodial accounts on the XRPL are not controlled by banks or businesses or governments. They are completely controlled by you.  Xumm helps you manage these types of accounts.
 
@@ -68,6 +68,6 @@ Self-custodial accounts on the XRPL are not controlled by banks or businesses or
 
 You may find that other wallets or companies refer to self-custodial accounts as "non-custodial" or "un-hosted" accounts. All three terms refer to the same type of accounts.  The term self-custodial refers to an account where **you** **have custody** of your funds. This is not really obvious with the terms non-custodial and un-hosted.
 
-### Xumm - A self-custodial wallet
+### Xaman - A self-custodial wallet
 
-Xumm is a self-custodial wallet that allows you to transact directly with the XRP Ledger. It provides you with an easy way to create a new XRPL account in a safe and secure way, and helps you interact with the XRPL and manage your XRPL account(s).
+Xaman is a self-custody wallet that allows you to transact directly with the XRP Ledger. It provides you with an easy way to create a new XRPL account in a safe and secure way, and helps you interact with the XRPL and manage your XRPL account(s).

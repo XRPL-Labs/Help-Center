@@ -1,5 +1,5 @@
 ---
-description: Is XRP stored in you phone? In Xumm? On the XRP Ledger?
+description: Is XRP stored in you phone? In Xaman? On the XRP Ledger?
 ---
 
 # Where are your funds stored?
