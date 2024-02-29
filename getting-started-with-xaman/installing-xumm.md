@@ -1,24 +1,24 @@
 ---
-description: How to install Xumm on your mobile device
+description: How to install Xaman on your mobile device
 ---
 
-# Installing Xumm
+# Installing Xaman
 
 ### **Welcome!**
 
-If you are reading this, you’ve decided to install Xumm on your mobile device. Congratulations! You are about to start your journey into the XRP Ledger ecosystem and Xumm will be your guide. Welcome aboard!
+If you are reading this, you’ve decided to install Xaman (formerly Xumm) on your mobile device. Congratulations! You are about to start your journey into the XRP Ledger ecosystem and Xaman will be your guide. Welcome aboard!
 
-### Xumm compatibility (Device requirements)
+### Xaman compatibility (Device requirements)
 
-Generally, Xumm is compatible with most devices that run either:
+Generally, Xaman is compatible with most devices that run either:
 
 ⦁ Android v7 and up
 
 &#x20;⦁ iOS v13 or higher and an iPhone 7 or newer
 
-(There are literally 1000's of different devices running dozen of different versions of Android (v7 - v11) and iOS (v13 - v17) so it is not possible for us to list them all here. Needless to say, as long as you are running a current version of the above operating systems, Xumm should work properly.)
+(There are literally 1000's of different devices running dozen of different versions of Android (v7 - v11) and iOS (v13 - v17) so it is not possible for us to list them all here. Needless to say, as long as you are running a current version of the above operating systems, Xaman should work properly.)
 
-As well, officially Xumm does not support tablets such as Apple iPads. While you may be able to install and run Xumm on some versions, our UI has not been upscaled to match the various screen sizes and most tablets do not support NFC.&#x20;
+As well, officially Xaman does not support tablets such as Apple iPads. While you may be able to install and run Xaman on some versions, our UI has not been upscaled to match the various screen sizes and most tablets do not support NFC.&#x20;
 
 Finally, we have encountered issues with the following devices:
 
@@ -27,9 +27,9 @@ Finally, we have encountered issues with the following devices:
 
 ### **Getting started…**
 
-Installing Xumm is a simple and straightforward process. From start to finish it should take you about 10 minutes to complete.. but don’t rush through it! You are going to need to write down some **very** important information, so take your time, grab a pen and some paper and get comfortable. Together we going to go through this...
+Installing Xaman is a simple and straightforward process. From start to finish it should take you about 10 minutes to complete.. but don’t rush through it! You are going to need to write down some **very** important information, so take your time, grab a pen and some paper and get comfortable. Together we going to go through this...
 
-Xumm can only be download from 1 of 2 places:
+Xaman can only be download from 1 of 2 places:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
 
