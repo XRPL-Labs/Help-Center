@@ -39,7 +39,7 @@ Just select one of the above links and press the **Install** button begin the do
 
 
 
-Once the download has completed, press the **Open** button to begin the Xumm installation process and you should be presented with this screen:
+Once the download has completed, press the **Open** button to begin the Xaman installation process and you should be presented with this screen:
 
 <figure><img src="../.gitbook/assets/Install - Page 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -51,13 +51,13 @@ Press **Go** to get to the passcode setup page.
 
 <figure><img src="../.gitbook/assets/Install - Page 3.png" alt=""><figcaption></figcaption></figure>
 
-Here is where you enter the 6 digit passcode which you can use to unlock and access Xumm once the installation has completed. When done, press **Next** then re-enter your new passcode and press the **Save** button.&#x20;
+Here is where you enter the 6 digit passcode which you can use to unlock and access Xaman once the installation has completed. When done, press **Next** then re-enter your new passcode and press the **Save** button.&#x20;
 
 {% hint style="warning" %}
 Try to avoid using a simple passcode such as 123456, 000000, 111111, 222222, etc. since these could be easily guessed.&#x20;
 {% endhint %}
 
-You will see the Biometric Authentication screen next. Here you can choose **Yes** if you would like to be given the option to sign into Xumm using biometrics and/or sign transactions using biometrics. If you are unsure about this, you can always enable this feature later.
+You will see the Biometric Authentication screen next. Here you can choose **Yes** if you would like to be given the option to sign into Xaman using biometrics and/or sign transactions using biometrics. If you are unsure about this, you can always enable this feature later.
 
 <figure><img src="../.gitbook/assets/Install - Page 8.png" alt=""><figcaption></figcaption></figure>
 
@@ -65,7 +65,7 @@ On this screen, you get the option to enable push notifications on your phone. I
 
 <figure><img src="../.gitbook/assets/Install - Push notification screen.png" alt=""><figcaption></figcaption></figure>
 
-The ensuing 9 screens display import information about how Xumm and the XRP Ledger work, our Terms of Service and the current release notes. You will need to acknowledge that you have read through each page to continue.
+The ensuing 9 screens display import information about how Xaman and the XRP Ledger work, our Terms of Service and the current release notes. You will need to acknowledge that you have read through each page to continue.
 
 <figure><img src="../.gitbook/assets/Install - Page 4.png" alt=""><figcaption></figcaption></figure>
 
@@ -77,7 +77,7 @@ Next, press the **+ Add account** button.
 
 <figure><img src="../.gitbook/assets/Install - Page 7.png" alt=""><figcaption></figcaption></figure>
 
-Here is where you can decide which account you would like to manage with Xumm.
+Here is where you can decide which account you would like to manage with Xaman.
 
 <figure><img src="../.gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
 
