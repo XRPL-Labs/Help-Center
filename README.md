@@ -2,7 +2,7 @@
 description: >-
   If you're interested in learning about Xaman and the XRP Ledger / Xahau
   ecosystems, you've come to the right place.
-cover: .gitbook/assets/Xaman - Main picture.png
+cover: .gitbook/assets/Xaman - Main page - 1.png
 coverY: 0
 ---
 
