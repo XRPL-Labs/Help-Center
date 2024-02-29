@@ -21,8 +21,8 @@ Both of these are provided by **your crypto exchange**.
 
 For more information about destination tags, check out this video:
 
-{% content-ref url="../learning-more-about-xumm/destination-tags.md" %}
-[destination-tags.md](../learning-more-about-xumm/destination-tags.md)
+{% content-ref url="../learning-more-about-xaman/destination-tags.md" %}
+[destination-tags.md](../learning-more-about-xaman/destination-tags.md)
 {% endcontent-ref %}
 
 ### **Why a deposit might not arrive**

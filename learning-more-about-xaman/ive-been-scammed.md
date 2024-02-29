@@ -81,7 +81,7 @@ If you have found yourself in this situation, you should consider the following 
 
 * Review the following article and consider how you plan to interact with the XRP Ledger in the future.&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xumm?</td><td></td><td></td><td><a href="../security-and-xumm/all-about-security/how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../.gitbook/assets/Tokens and coins -1 (1).png">Tokens and coins -1 (1).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xumm?</td><td></td><td></td><td><a href="../security-and-xaman/all-about-security/how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../.gitbook/assets/Tokens and coins -1 (1).png">Tokens and coins -1 (1).png</a></td></tr></tbody></table>
 
 ### **Summary**
 

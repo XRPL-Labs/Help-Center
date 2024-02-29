@@ -33,7 +33,7 @@ Yes. Once your Trust Line has been removed, the 2 XRP held in reserve by the XRP
 
 No. The Base Reserve is a minimum amount of XRP that is required for each address in the ledger. The only way to recover the base reserve is to delete your account from the XRPL.
 
-[How to delete an account from the XRP Ledger](../../learning-more-about-xumm/deleting-an-xrpl-account.md)
+[How to delete an account from the XRP Ledger](../../learning-more-about-xaman/deleting-an-xrpl-account.md)
 
 #### Who do I contact for help?
 
