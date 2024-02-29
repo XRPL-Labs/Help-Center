@@ -3,7 +3,7 @@ description: 'Safer savings: Introducing the Xumm Tangem Card!'
 coverY: 0
 ---
 
-# Xumm Tangem Cards
+# Xumm (Tangem) Cards
 
 
 

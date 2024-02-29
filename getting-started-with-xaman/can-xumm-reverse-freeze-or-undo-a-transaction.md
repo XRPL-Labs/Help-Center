@@ -34,7 +34,7 @@ It depends on the circumstances regarding your transaction.
 
 * **If your account was compromised and your funds were stolen.**\
   \
-  Contact your [local police](../learning-more-about-xaman/ive-been-scammed.md). They should conduct an investigation into the matter. \
+  Contact your [local police](../learning-more-about-xumm/ive-been-scammed.md). They should conduct an investigation into the matter. \
 
 * **If you lost the account secret for your account or your account is in "Read only" mode.**\
   \

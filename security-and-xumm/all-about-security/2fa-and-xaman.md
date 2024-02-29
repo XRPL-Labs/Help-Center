@@ -2,7 +2,7 @@
 description: Understanding Two-factor authentication (2FA)
 ---
 
-# 2FA and Xumm
+# 2FA and Xaman
 
 ### **What is 2FA?**
 

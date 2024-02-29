@@ -2,7 +2,7 @@
 description: The Xumm audit report
 ---
 
-# Has Xumm been audited?
+# Has Xaman been audited?
 
 
 

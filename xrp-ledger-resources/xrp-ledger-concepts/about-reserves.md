@@ -107,7 +107,7 @@ There is a 2 XRP fee for doing this which is levied by the XRPL along with the n
 
 For more information about how to delete an account from the XRPL, please review this article:
 
-* [How to delete your XRP Ledger account](../../learning-more-about-xaman/deleting-an-xrpl-account.md)
+* [How to delete your XRP Ledger account](../../learning-more-about-xumm/deleting-an-xrpl-account.md)
 
 
 

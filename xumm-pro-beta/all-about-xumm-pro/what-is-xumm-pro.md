@@ -26,7 +26,7 @@ The Profiles feature allows you to create an identity page and a PayString so pe
 
 Push notifications are small, pop-up messages that Xumm will display on your phone to alert you of various transactions on your XRP Ledger account. Push notifications cover real-time transactional messages, updates, support messages and more, all of which will help keep you up-to-date on your XRPL account.
 
-#### [KYC verification](../../learning-more-about-xaman/kyc.md) (Opt-in)
+#### [KYC verification](../../learning-more-about-xumm/kyc.md) (Opt-in)
 
 This feature allows you to go through the KYC process to help verify your identity and add trust to your XRP Ledger and Xahau accounts.
 

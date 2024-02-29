@@ -1,4 +1,4 @@
-# How to Get a Token Added to the Xumm Short List
+# How to Get a Token Added to the Xaman Short List
 
 **What is the Xumm short list?**
 

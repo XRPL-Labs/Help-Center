@@ -2,7 +2,7 @@
 description: A little bit about Quantum attacks
 ---
 
-# Quantum Attacks and Xumm
+# Quantum Attacks and Xaman
 
 ## **Introduction**
 

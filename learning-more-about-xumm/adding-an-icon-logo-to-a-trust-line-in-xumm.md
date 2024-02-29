@@ -4,7 +4,7 @@ description: >-
   displayed in Xumm
 ---
 
-# Adding an Icon/Logo to a Trust Line in Xumm
+# Adding an Icon/Logo to a Trust Line in Xaman
 
 ### **Background**
 

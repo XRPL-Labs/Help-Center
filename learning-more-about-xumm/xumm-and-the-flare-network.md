@@ -2,7 +2,7 @@
 description: Interested in the Flare airdrop or holding the Spark token?
 ---
 
-# Xumm & the Flare network
+# Xaman & the Flare network
 
 ### **What is the Flare network?**
 

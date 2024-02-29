@@ -2,7 +2,7 @@
 description: How can I earn money with Xumm?
 ---
 
-# Does Xumm offer Staking?
+# Does Xaman offer Staking?
 
 ### **What is staking?**
 

@@ -36,7 +36,7 @@ and...
 
 If you are interested in learning more about how Xumm interacts with NFTs, check out this article:
 
-* [**About NFTs**](../../learning-more-about-xaman/nfts/)
+* [**About NFTs**](../../learning-more-about-xumm/nfts/)
 
 ### Improved security
 
@@ -46,7 +46,7 @@ We've improved our encryption algorithms in this version of Xumm! If you would l
 
 For more information on this, check out his article:
 
-[**Upgrading your encryption**](../../security-and-xaman/all-about-security/upgrading-your-encryption.md)
+[**Upgrading your encryption**](../../security-and-xumm/all-about-security/upgrading-your-encryption.md)
 
 ### More control over Third party apps&#x20;
 

@@ -2,7 +2,7 @@
 description: Going through KYC with Fractal ID
 ---
 
-# Xumm & Fractal ID
+# Xaman & Fractal ID
 
 ### Who is Fractal ID?
 
