@@ -3,9 +3,9 @@ cover: ../../.gitbook/assets/Natural disaster - EMP -1.png
 coverY: 227
 ---
 
-# Xumm & natural disasters
+# Xaman & natural disasters
 
-Have you ever wondered how well Xumm would survive a natural disaster, an EMP, a Solar Flare or other catastrophic event? Although such events are historically rare or hypothetical, they do present a possible danger when it comes to your funds, so let’s consider the possibilities…
+Have you ever wondered how well Xaman (formerly Xumm) would survive a natural disaster, an EMP, a Solar Flare or other catastrophic event? Although such events are historically rare or hypothetical, they do present a possible danger when it comes to your funds, so let’s consider the possibilities…
 
 ### **What is an EMP?**
 
@@ -23,23 +23,23 @@ The main concern is that any event that affects the electrical grid or the commu
 
 The XRP Ledger is run on network validators and full history nodes which are distributed all over the world. With so many machines operated in different geographical locations, with different levels of redundancy on a per machine, per location basis, it is highly unlikely that the same disaster could affect a critical amount of them. Since your XRP exists on the XRPL, as long as even 1 validator or full history node exists anywhere in the world, your XRP still exists.  EVERY validator and full history node would need to be destroyed in order for your funds to be lost.
 
-### **How does this affect Xumm?**
+### **How does this affect Xaman?**
 
 Since your XRP exists on the XRP Ledger, your funds exist as long as the XRP Ledger is still operational, however, there are other issues to consider.
 
-1. Xumm can only be installed on mobile devices which need to be fully operational in order for it to function. (Was your phone affected by the event? Does it still function properly? Can it still be charged?) Let’s assume that your phone has survived the event and is still fully functional and you have a way to charge it?
-2. Xumm needs a way to connect to the internet in order to access the XRP Ledger. (Was the internet or cellular network affected by the event?) If you can not connect to the internet, you can not access your funds.
+1. Xaman can only be installed on mobile devices which need to be fully operational in order for it to function. (Was your phone affected by the event? Does it still function properly? Can it still be charged?) Let’s assume that your phone has survived the event and is still fully functional and you have a way to charge it?
+2. Xaman needs a way to connect to the internet in order to access the XRP Ledger. (Was the internet or cellular network affected by the event?) If you can not connect to the internet, you can not access your funds.
 3. What does a post EMP/Solar Flare/Natural Disaster world look like? Is your plan to use your XRP to barter/purchase items and services? Is the plan to replace the current system of finance with the XRPL after the event?
 4. Has anyone else been as diligent as you in preparing for the event? We certainly appreciate all of your preparations, but a network is only as useful as the people who use and maintain it. If you are the only one who has an operational validator, an operational phone and an operational cellular tower, than a network of one person is not going to be super helpful.
 
-### **What about my Xumm Tangem cards?**
+### **What about my Xumm (Tangem) cards?**
 
 Xumm (Tangem) cards pass rigorous testing and can withstand environmental extremes, occasional mechanical deformation, electromagnetic pulse (EMP), electrostatic discharge (ESD) and X-rays within limits defined in [ISO7810](https://en.wikipedia.org/wiki/ISO/IEC\_7810) standard.   You can learn more about technical specifications of the Tangem cards by visiting their website here:[https://developers.tangem.com/](https://developers.tangem.com/)
 
-### **What about the Xumm Servers?**
+### **What about the Xaman Servers?**
 
-Xumm does not require any of our servers in order to operate. If all our servers were destroyed, Xumm would still function just fine as long as your phone still works and you can connect to the internet.
+Xaman does not require any of our servers in order to operate. If all our servers were destroyed, Xaman would still function just fine as long as your phone still works and you can connect to the internet.
 
 ### **Summary**
 
-Xumm is a self custodial, XRP Ledger wallet that allows you to create and manage XRP Ledger accounts in a safe, secure and user friendly way. It is not effected by EMPs, solar flares or natural disasters. What could be effected by these events is the infrastructure required to access the XRP Ledger. If you are unable to access the XRPL, Xumm is not going to be much use to you.
+Xaman is a self custodial, XRP Ledger wallet that allows you to create and manage XRP Ledger accounts in a safe, secure and user friendly way. It is not effected by EMPs, solar flares or natural disasters. What could be effected by these events is the infrastructure required to access the XRP Ledger. If you are unable to access the XRPL, Xaman is not going to be much use to you.

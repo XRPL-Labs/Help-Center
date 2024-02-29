@@ -8,7 +8,7 @@
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
   * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
-  * [Xumm & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
+  * [Xaman & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
   * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)
 * [Installing Xaman](getting-started-with-xaman/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/README.md)
