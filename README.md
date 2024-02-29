@@ -1,8 +1,8 @@
 ---
 description: >-
-  If you're interested in learning about Xumm and the XRP ecosystem, you've come
-  to the right place.
-cover: .gitbook/assets/xumm header
+  If you're interested in learning about Xaman and the XRP Ledger / Xahau
+  ecosystems, you've come to the right place.
+cover: .gitbook/assets/Xaman - Main picture.png
 coverY: 0
 ---
 
