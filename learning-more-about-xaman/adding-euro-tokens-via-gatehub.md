@@ -52,6 +52,10 @@ If you do not have a Euro Trust line configured for the GateHub EUR token, you c
 
 <figure><img src="../.gitbook/assets/GateHub - Euro - 3.png" alt=""><figcaption></figcaption></figure>
 
-5\) After you sign into your GateHub account, pres the **Open xApp in Xumm** button.
+5\) After you sign into your GateHub account, press the **Open xApp in Xumm** button.
 
 <figure><img src="../.gitbook/assets/GateHub - Euro - 4.png" alt=""><figcaption></figcaption></figure>
+
+6\) You will see the following screen:
+
+<figure><img src="../.gitbook/assets/GateHub - Euro - 5.png" alt=""><figcaption></figcaption></figure>
