@@ -4,7 +4,7 @@ description: How to create a Trust Line on the XRP Ledger
 
 # How to create a Trust Line
 
-There are two easy ways to create Trust Line using Xaman:
+There are two easy ways to create Trust line using Xaman:
 
 1\) Selecting one of the pre-vetted tokens from our **short list**
 
@@ -20,29 +20,29 @@ The "short list" is the list of tokens that is presented when you press the _**+
 
 Xaman will display a screen that looks like this:
 
-<figure><img src="../.gitbook/assets/Short List - 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Short List screen - 1.png" alt=""><figcaption></figcaption></figure>
 
-From here you can simply select an issuer, for example, **Gatehub**, then choose which Token you would like to create a Trust Line for, in this case, we'll choose **British Pound**, then press **Sign to add Token.**
+From here you can simply select an issuer, for example, **Gatehub**, then choose which token you would like to create a Trust line for, in this case, we'll choose the **Euro**, then press **Sign to add Token.**
 
-<figure><img src="../.gitbook/assets/Short List - 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Short List screen - 2.png" alt=""><figcaption></figcaption></figure>
 
-Xaman will craft a transaction with the details of the Trust Line and after you have reviewed them, you can **Slide to accept**. &#x20;
+Xaman will craft a transaction with the details of the Trust line and after you have reviewed them, you can **Slide to accept**. &#x20;
 
 You should see a warning message cautioning you about the potential dangers. Make sure you read the message, then press **Continue**.&#x20;
 
-Finally, either enter your **passcode/signing password/biometrics** to sign the transaction and the Trust Line will be created.
+Finally, either enter your **passcode/signing password/biometrics** to sign the transaction and the Trust line will be created.
 
 ### **What is XRPL.Services?**
 
 XRPL.Services is a website which allows you to interact with the XRP Ledger in various ways and to easily create transactions that you can sign with Xaman.&#x20;
 
-In this case, you can use it to create a Trust Line.
+In this case, you can use it to create a Trust line.
 
 ### Quick instructions
 
 1\) Click on this link: [**XRPL Services**](https://xrpl.services/tokens)
 
-2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
+2\) In the "Search" field, do a search for the token you wish to set a Trust line to.
 
 3\) When the desired token is displayed, press the **Set Trustline** link beside the token.
 
@@ -62,7 +62,7 @@ In this case, you can use it to create a Trust Line.
 
 <figure><img src="../.gitbook/assets/XRPL Services - 1.png" alt=""><figcaption></figcaption></figure>
 
-2\) In the "Search" field, do a search for the token you wish to set a Trust Line to.
+2\) In the "Search" field, do a search for the token you wish to set a Trust line to.
 
 <figure><img src="../.gitbook/assets/XRPL Services - 2.png" alt=""><figcaption></figcaption></figure>
 
