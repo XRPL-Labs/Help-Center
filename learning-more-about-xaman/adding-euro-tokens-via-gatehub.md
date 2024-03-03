@@ -32,7 +32,7 @@ Part of the process of opening an account includes going through the KYC process
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-If you do not have a Euro Trust line configured to the GateHub EUR token, you can create one by following the instructions in this article:
+If you do not have a Euro Trust line configured for the GateHub EUR token, you can create one by following the instructions in this article:
 
 {% content-ref url="../getting-started-with-xaman/how-to-create-a-trust-line.md" %}
 [how-to-create-a-trust-line.md](../getting-started-with-xaman/how-to-create-a-trust-line.md)
@@ -40,8 +40,12 @@ If you do not have a Euro Trust line configured to the GateHub EUR token, you ca
 
 
 
-2\) Tap the **Withdraw Euro** button.
+2\) Tap the **Add Euro** button.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GateHub - Euro - 1.png" alt=""><figcaption></figcaption></figure>
 
-3\) Enter your contact information and the appropriate information about your bank, then press the **Continue** button.
+3\) Press the **Connect GateHub Account** button.
+
+
+
+<figure><img src="../.gitbook/assets/GateHub - Euro - 2.png" alt=""><figcaption></figcaption></figure>
