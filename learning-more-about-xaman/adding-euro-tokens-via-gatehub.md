@@ -46,6 +46,10 @@ If you do not have a Euro Trust line configured for the GateHub EUR token, you c
 
 3\) Press the **Connect GateHub Account** button.
 
-
-
 <figure><img src="../.gitbook/assets/GateHub - Euro - 2.png" alt=""><figcaption></figcaption></figure>
+
+4\) Sign into your GateHub account.
+
+
+
+<figure><img src="../.gitbook/assets/GateHub - Euro - 3.png" alt=""><figcaption></figcaption></figure>
