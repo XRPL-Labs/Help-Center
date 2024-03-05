@@ -49,6 +49,7 @@
 * [How to test your Account Secret](getting-started-with-xaman/how-to-test-your-account-secret.md)
 * [How to Rekey an XRP Ledger (XRPL) Account](getting-started-with-xaman/how-to-rekey-your-account.md)
 * [How to disable the Master key](getting-started-with-xaman/how-to-disable-the-master-key.md)
+* [How to enable the Master Key](getting-started-with-xaman/how-to-enable-the-master-key.md)
 * [How to configure biometrics](getting-started-with-xaman/how-to-configure-biometrics.md)
 * [Displaying XRP value](getting-started-with-xaman/displaying-xrp-value.md)
 * [How to migrate from Toast Wallet to Xaman](getting-started-with-xaman/how-to-migrate-from-toast-wallet-to-xaman.md)
