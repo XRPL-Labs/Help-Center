@@ -21,7 +21,7 @@ description: How to send XRP from Kraken to Xaman (deposit)
 
 <figure><img src="../../.gitbook/assets/Kraken - 1c.png" alt=""><figcaption></figcaption></figure>
 
-6. Create a for your Xaman account in the “**Address description**” field. (We called ours "Xaman Savings Account.)
+6. Create a name for your Xaman account in the “**Address description**” field. (We called ours "Xaman Savings Account.)
 7. Enter the r-address of your Xaman account to the “**Withdrawal address**” field.
 
 <figure><img src="../../.gitbook/assets/Kraken - Send page.png" alt=""><figcaption></figcaption></figure>
