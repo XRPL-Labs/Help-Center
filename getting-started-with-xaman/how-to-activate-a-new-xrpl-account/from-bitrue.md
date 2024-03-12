@@ -16,7 +16,7 @@ description: How to send XRP from Bitrue to Xaman (deposit)
 
 4\) In the _XRP Withdraw Address_ field enter **your account r-address from Xaman**.\
 \
-Note: You can find you r-address in Xaman here…\
+Note: You can find your r-address in Xaman here…\
 
 
 <figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
@@ -25,6 +25,6 @@ Note: You can find you r-address in Xaman here…\
 
 6\) In the _Amount_ field, enter the amount you would like to send.
 
-7\) Press the the **Withdraw XRP** button.&#x20;
+7\) Press the **Withdraw XRP** button.&#x20;
 
 <figure><img src="../../.gitbook/assets/Bitrue - Wihdraw - 2.png" alt=""><figcaption></figcaption></figure>
