@@ -38,7 +38,7 @@ description: How to send XRP from Crypto.com to Xaman (deposit)
 
 9\) Enter **your** **r-address** managed by Xaman, select “**No destination tag required for my wallet**”  and add a “**Wallet Name**” then press “**Continue**”. \
 \
-Note: You can find you r-address in Xaman here…
+Note: You can find your r-address in Xaman here…
 
 <figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
 

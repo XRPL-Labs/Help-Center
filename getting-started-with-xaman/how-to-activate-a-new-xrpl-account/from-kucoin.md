@@ -12,7 +12,7 @@ description: How to send XRP from Kucoin to Xaman (deposit)
 
 <figure><img src="../../.gitbook/assets/KuCoin - Send screen - 2.png" alt=""><figcaption></figcaption></figure>
 
-Note: You can find you r-address in Xaman here…
+Note: You can find your r-address in Xaman here…
 
 <figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@ Note: You can find you r-address in Xaman here…
 
 5\) Press the **Continue** button.\
 \
-Note: Self-custodial accounts, like the ones managed by Xumm do not require destination tags.&#x20;
+Note: Self-custodial accounts, like the ones managed by Xaman do not require destination tags.&#x20;
 
 <figure><img src="../../.gitbook/assets/KuCoin -5.png" alt=""><figcaption></figcaption></figure>
 

@@ -18,7 +18,7 @@ description: How to send XRP from Coinbase to Xaman (deposit)
 
 <figure><img src="../../.gitbook/assets/Coinbase - Send screen - 1.png" alt=""><figcaption></figcaption></figure>
 
-Note: You can find you r-address in Xaman here…
+Note: You can find your r-address in Xaman here…
 
 <figure><img src="../../.gitbook/assets/R-address in Xaman.png" alt=""><figcaption></figcaption></figure>
 
