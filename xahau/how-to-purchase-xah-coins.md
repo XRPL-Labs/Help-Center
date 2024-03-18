@@ -52,13 +52,19 @@ There is currently **one way to purchase XAH tokens** using Xaman:
 
 * Via the XRP Ledger Digital EXchange. (DEX)
 
-The XRPL DEX is basically a large market place where people can buy and sell different assets. You can place buy and sell orders on the DEX where for XAH tokens using various websites, utilities or wallets, but Xaman has a built in feature which automates the process for you.
+The XRPL DEX is basically a large market place where people can buy and sell different assets. You can place buy and sell orders on the DEX for XAH tokens using various websites, utilities or wallets, but Xaman has a built in feature which automates the process for you.
+
+Here's how:
 
 1\) Create a Trust line for the XAH token.
 
-You can do this but pressing the&#x20;
+You can do this but pressing the **+Add** button on the main screen of Xaman:
 
+<figure><img src="../.gitbook/assets/Add button on main screen" alt=""><figcaption></figcaption></figure>
 
+then choose the **XAH (Xahau)** token and press the **Sign to add token** button.
+
+<figure><img src="../.gitbook/assets/Sign to add token" alt=""><figcaption></figcaption></figure>
 
 
 
