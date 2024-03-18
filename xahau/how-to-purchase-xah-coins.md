@@ -26,7 +26,7 @@ For a more in-depth discussion about  XAH tokens and how they work, check out th
 
 ### How to buy XAH coins
 
-To begin, there is currently **no way to purchase XAH coins** using Xaman.
+There is currently **no way to purchase XAH coins** using Xaman.
 
 In order to purchase XAH coins, you need to open an account with either of the following two crypto exchanges :
 
@@ -34,7 +34,7 @@ In order to purchase XAH coins, you need to open an account with either of the f
 
 [**Bitrue**](https://www.bitrue.com/user/register)
 
-In both cases, once you have created an account with them, you will be able to send fiat money to them then exchange it for XAH coins. Once you have done that, you can refer to the follow articles to send your XAH coins to your Xahau account managed by Xaman.
+In both cases, once you have created an account with them, you will be able to send fiat money to your account with them, then exchange it for XAH coins. Once you have done that, you can refer to the following articles to send your XAH coins to your Xahau account managed by Xaman.
 
 {% content-ref url="activating-a-xahau-account/how-to-send-xah-from-gatehub.md" %}
 [how-to-send-xah-from-gatehub.md](activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
@@ -43,6 +43,12 @@ In both cases, once you have created an account with them, you will be able to s
 {% content-ref url="../getting-started-with-xumm/activating-a-xahau-account/bitrue.md" %}
 [bitrue.md](../getting-started-with-xumm/activating-a-xahau-account/bitrue.md)
 {% endcontent-ref %}
+
+
+
+### How to buy XAH tokens
+
+There is currently **one way to purchase XAH tokens** using Xaman, via the XRPL Ledger DEX.
 
 
 
