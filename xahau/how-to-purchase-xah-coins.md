@@ -14,9 +14,9 @@ One of the things introduced in Xahau is a new coin with the trading symbol of *
 
 ### Understanding the difference between XAH coins and XAH tokens
 
-The XAH coin is the native currency on the Xahau network.
+The XAH coin is the native currency on the Xahau network. It exists on the Xahau network and can be used to pay transaction costs on the Xahau network.&#x20;
 
-A XAH token is an issued currency on another network. (In this case, the XRP Ledger.)
+A XAH token is an issued currency on another network. (In this case, the XRP Ledger.) It exists on a different network than Xahau. A XAH token can not be used to pay transaction costs on Xahau and can not be directly moved to the Xahau network.
 
 For a more in-depth discussion about  XAH tokens and how they work, check out this article:
 
@@ -48,7 +48,17 @@ In both cases, once you have created an account with them, you will be able to s
 
 ### How to buy XAH tokens
 
-There is currently **one way to purchase XAH tokens** using Xaman, via the XRPL Ledger DEX.
+There is currently **one way to purchase XAH tokens** using Xaman:
+
+* Via the XRP Ledger Digital EXchange. (DEX)
+
+The XRPL DEX is basically a large market place where people can buy and sell different assets. You can place buy and sell orders on the DEX where for XAH tokens using various websites, utilities or wallets, but Xaman has a built in feature which automates the process for you.
+
+1\) Create a Trust line for the XAH token.
+
+You can do this but pressing the&#x20;
+
+
 
 
 
@@ -60,7 +70,7 @@ There is currently **one way to purchase XAH tokens** using Xaman, via the XRPL 
 
 Yes and No.
 
-**Yes.** You can purchase XAH tokens on the XRPL, but they are not the same as the native XAH coins on the Xahau network. By purchasing XAH on the XRPL, you are purchasing a token that **represents XAH**. You are purchasing an IOU for the XAH coin on Xahau. As long as you purchase the XAH token from a trusted issuer, (ie. GateHub) you have the option to exchange your tokens for "real" XAH coins on the Xahau network. Owning XAH on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset for speculative purposes.
+**Yes.** You can purchase XAH tokens on the XRPL, but they are not the same as the native XAH coins on the Xahau network. By purchasing XAH on the XRPL, you are purchasing a token that **represents XAH**. You are purchasing an IOU for the XAH coin. As long as you purchase the XAH token from a trusted issuer, (ie. GateHub) you have the option to exchange your tokens for 'real' XAH coins on the Xahau network. Owning XAH on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset for speculative purposes.
 
 **No.** You can not purchase the **native** XAH coin on the XRP Ledger. The XAH coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAH coins via a crypto exchange or via the Burn to Mint (B2M) feature.
 
