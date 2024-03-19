@@ -70,7 +70,9 @@ then choose the **XAH (Xahau)** token and press the **Sign to add token** button
 
 <figure><img src="../.gitbook/assets/Exchange token screen.png" alt=""><figcaption></figcaption></figure>
 
-####
+3\) **Enter the amount of XRP** you would like to exchange for XAH tokens then press the **Exchange** button.
+
+<figure><img src="../.gitbook/assets/Exchange XAH button.png" alt=""><figcaption></figcaption></figure>
 
 #### Can I purchase Xahau coins on the XRP Ledger?
 
