@@ -80,7 +80,7 @@ Yes. GateHub sells both XAH tokens and XAH coins. Once you create an account wit
 
 #### Can I move my XAH tokens on the XRP Ledger to my Xahau account on the Xahau network?
 
-Yes. We have an xApp called [**XAH Teleport**](https://xumm.app/detect/xapp:xahau.teleport) that allows you to convert XAH tokens into XAH coins on the Xahau network.
+Yes. We have an xApp called [**XAH Teleport**](https://xumm.app/detect/xapp:xahau.teleport) that allows you to convert XAH tokens on the XRPL into XAH coins on the Xahau network.
 
 You can read all about it here:
 
@@ -90,4 +90,7 @@ You can read all about it here:
 
 #### What about the "Burn 2 Mint" feature on Xahau?
 
-The Burn 2 Mint feature
+The Burn 2 Mint feature allows you to burn XRP on the XRP Ledger and generate XAH on the Xahau network. This feature basically destroys XRP and creates XAH.&#x20;
+
+We are currently working on xApp to do this but it is still several weeks away from being ready for public release.
+
