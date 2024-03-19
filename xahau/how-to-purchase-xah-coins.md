@@ -66,9 +66,9 @@ then choose the **XAH (Xahau)** token and press the **Sign to add token** button
 
 <figure><img src="../.gitbook/assets/Sign to add token" alt=""><figcaption></figcaption></figure>
 
+2\) Tap the **XAH (Xahau) GateHub XAH** Trust line on the main screen of Xaman, then press the **Exchange** button.
 
-
-
+<figure><img src="../.gitbook/assets/Exchange token screen.png" alt=""><figcaption></figcaption></figure>
 
 ####
 
