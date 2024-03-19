@@ -87,7 +87,15 @@ I trust you will not abandon your project. Finally, I trust that you and your st
 
 #### I own XAH tokens on the XRPL. Can I activate a Xahau account with them?
 
-No, not directly from your XRPL account. XAH tokens on the XRPL are not the same as Xahau coins on the Xahau network. You can not use XAH tokens issued on the XRPL to directly activate a Xahau account. You will need to send them to the GateHub platform and activate your Xahau account from there.
+Yes. We have an xApp called [**XAH Teleport**](https://xumm.app/detect/xapp:xahau.teleport) that allows you to convert XAH tokens on the XRPL into XAH coins on the Xahau network.
+
+You can read all about it here:
+
+{% content-ref url="../all-about-xapps/xahau-xapps/xah-teleport.md" %}
+[xah-teleport.md](../all-about-xapps/xahau-xapps/xah-teleport.md)
+{% endcontent-ref %}
+
+You could also create an account at the GateHub crypto exchange and send your XAH tokens to their platform and activate your Xahau account from there.
 
 Please refer to this section if you are interested in activating a Xahau account:
 
@@ -97,9 +105,15 @@ Please refer to this section if you are interested in activating a Xahau account
 
 #### I own XAH tokens on the XRPL. Can I send them to my Xahau account?
 
-No, not directly. XRPL Labs is working an an xApp which will allow you move XAH tokens issued on the XRPL to the Xahau network (and visa-versa) but until it is available, you can not send XAH directly between networks.
+Yes. We have an xApp called [**XAH Teleport**](https://xumm.app/detect/xapp:xahau.teleport) that allows you to convert XAH tokens on the XRPL into XAH coins on the Xahau network.
 
-If you have XAH tokens issued by GateHub, you can create a Gatehub account, then send your XAH to your GateHub account. From there you can exchange them into XAH coins on the Xahau network if you wish.
+You can read all about it here:
+
+{% content-ref url="../all-about-xapps/xahau-xapps/xah-teleport.md" %}
+[xah-teleport.md](../all-about-xapps/xahau-xapps/xah-teleport.md)
+{% endcontent-ref %}
+
+If you have XAH tokens issued by GateHub, you can also create a Gatehub account, then send your XAH to your GateHub account. From there you can exchange them into XAH coins on the Xahau network if you wish.
 
 Please refer to this article for more information:
 
