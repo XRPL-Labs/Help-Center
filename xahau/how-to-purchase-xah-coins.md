@@ -90,7 +90,7 @@ You can read all about it here:
 
 #### What about the "Burn 2 Mint" feature on Xahau?
 
-The Burn 2 Mint feature allows you to burn XRP on the XRP Ledger and generate XAH on the Xahau network. This feature basically destroys XRP and creates XAH.&#x20;
+The Burn 2 Mint feature allows you to burn XRP on the XRP Ledger and generate XAH on the Xahau network on a 1 to 1 basis. For example, using this feature, you could destroy 1 XRP on the XRP Ledger and at the same, create 1 XAH on the Xahau network.&#x20;
 
 We are currently working on xApp to do this but it is still several weeks away from being ready for public release.
 
