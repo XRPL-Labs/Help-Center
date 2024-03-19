@@ -74,18 +74,20 @@ then choose the **XAH (Xahau)** token and press the **Sign to add token** button
 
 <figure><img src="../.gitbook/assets/Exchange XAH button.png" alt=""><figcaption></figcaption></figure>
 
-#### Can I purchase Xahau coins on the XRP Ledger?
+#### Is there any other way I can purchase Xahau tokens?
 
-Yes and No.
+Yes. GateHub sells both XAH tokens and XAH coins. Once you create an account with GateHub you should have the option of purchasing both.
 
-**Yes.** You can purchase XAH tokens on the XRPL, but they are not the same as the native XAH coins on the Xahau network. By purchasing XAH on the XRPL, you are purchasing a token that **represents XAH**. You are purchasing an IOU for the XAH coin. As long as you purchase the XAH token from a trusted issuer, (ie. GateHub) you have the option to exchange your tokens for 'real' XAH coins on the Xahau network. Owning XAH on the XRPL is more for investors who do not plan to use the Xahau network. They just plan to buy and hold the asset for speculative purposes.
+#### Can I move my XAH tokens on the XRP Ledger to my Xahau account on the Xahau network?
 
-**No.** You can not purchase the **native** XAH coin on the XRP Ledger. The XAH coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAH coins via a crypto exchange or via the Burn to Mint (B2M) feature.
+Yes. We have an xApp called [**XAH Teleport**](https://xumm.app/detect/xapp:xahau.teleport) that allows you to convert XAH tokens into XAH coins on the Xahau network.
 
-* Through a crypto exchange  \
-  \
-  Companies like [Gatehub](https://gatehub.net/) and [Bitrue](https://www.bitrue.com/home/) fully support the Xahau network and will provide services for buying, selling, exchanging, trading, sending and receiving XAH coins.\
+You can read all about it here:
 
-* Through the Burn to Mint feature.\
-  \
-  The Xahau network has a unique "Burn to Mint" (B2M) feature which allows you to convert XRP directly into XAH. XRPL Labs will be releasing a B2M xApp in the near future.
+{% content-ref url="../all-about-xapps/xahau-xapps/xah-teleport.md" %}
+[xah-teleport.md](../all-about-xapps/xahau-xapps/xah-teleport.md)
+{% endcontent-ref %}
+
+#### What about the "Burn 2 Mint" feature on Xahau?
+
+The Burn 2 Mint feature
