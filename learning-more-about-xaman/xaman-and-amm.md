@@ -4,11 +4,9 @@ description: All about Xaman and the AMM amendment
 
 # Xaman & AMM
 
-On March 22, 2024, the AMM amendment was implemented on the XRP Ledger mainnet and we released Xaman v2.8 to support it.
+On March 22, 2024, the AMM amendment was implemented on the XRP Ledger mainnet and Xaman v2.8 was released to support it.
 
 This article answers some frequently asked questions about AMM.
-
-###
 
 ### **What is AMM?**
 
