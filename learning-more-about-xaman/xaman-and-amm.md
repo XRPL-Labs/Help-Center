@@ -22,7 +22,7 @@ Beginning with v2.8, Xaman fully supports AMM transaction signing on the XRP Led
 
 ### That sounds just like the way you support other XRPL amendments such as NFTs.
 
-Exactly. When the NFT amendment was implemented on the XRPL, Xaman (formerly Xumm) supported transaction signing for NFT transactions. We left the NFT marketplaces, NFT minting, sales, marketing, technical support, etc., to the community experts to handle. Our focus has always been to help you manage the private keys for your account and provide a safe and secure way to for your to interact with the XRP Ledger.
+Exactly. When the NFT amendment was implemented on the XRPL, Xaman (formerly Xumm) supported transaction signing for NFT transactions, but we left the NFT marketplaces, NFT minting, sales, marketing, technical support, etc., to the community experts to handle. Our focus has always been to help you manage the private keys for your account and provide a safe and secure way for you to interact with the XRP Ledger.
 
 In the case of the AMM amendment, AMM liquidity pools are a complex financial instrument. We are letting the financial community handle the details of creating and managing the liquidity pools while we continue to focus on our areas of expertise.... namely keeping your account secret safe and secure.
 
@@ -32,7 +32,7 @@ No, not at this time. The AMM amendment is still very new and while there are ma
 
 ### Will there be an AMM xApp?
 
-There are currently at least two different developer groups who are working on an AMM xApp for Xaman.  Hopefully there will be ready in the near future.
+There are currently at least two different developer groups who have an AMM xApp (or are are working on one.) We leave the marketing and sales of xApps to the individual developers to handle so if you are looking for one, check out the social media outlets for more information.
 
 ### How do I provide liquidity to an AMM pool?
 
