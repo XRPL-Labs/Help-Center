@@ -48,7 +48,7 @@ We strongly recommend that you seek financial advice before investing in an AMM 
 
 The first thing to do is to install the latest version of Xaman. Doing that will give you the ability to sign AMM transaction types on the XRPL.
 
-After you have done that, you should research which AMM service providers support the XRPL (and Xaman). There are many to choose from and not all of them provide the same level of customer service and support.  We recommend searching through social media platforms such as Twitter (X), Discord, Telegram, etc. to see which companies best meet your investment strategies. Once you find a trust worthy AMM service provider with a long history of success and support for the XRP Ledger, reach down to them and arrange an appointment to discuss your financial goals. This is not something you should rush into.
+After you have done that, you should research which AMM service providers support the XRPL (and Xaman). There are many to choose from and not all of them provide the same level of customer service and support.  We recommend searching through social media platforms such as Twitter (X), Discord, Telegram, etc. to see which companies best meet your investment strategies. Once you find a trust worthy AMM service provider with a long history of success and support for the XRP Ledger, reach out to them and arrange an appointment to discuss your financial goals. This is not something you should rush into.
 
 
 
