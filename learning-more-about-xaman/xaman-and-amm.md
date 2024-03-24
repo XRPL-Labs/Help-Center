@@ -14,11 +14,11 @@ Put simply, an AMM is basically a big pot of shared assets which is used to exch
 
 There are plenty of sources of information where you can learn more about the details on how the AMM on the XRP Ledger works, but we recommend starting here:
 
-{% embed url="https://learn.xrpl.org/course/deep-dive-into-xrpl-defi/lesson/what-is-an-automated-market-maker-amm/" %}
+{% embed url="https://xrpl.org/docs/concepts/tokens/decentralized-exchange/automated-market-makers/" %}
 
-### What kind of support does Xaman provide for the AMM on the XRP Ledger?
+### What role does Xaman play in AMMs?
 
-Beginning with v2.8, Xaman fully supports AMM transaction signing on the XRP Ledger.&#x20;
+Beginning with version 2.8, Xaman fully supports AMM transaction signing on the XRP Ledger. &#x20;
 
 ### That sounds just like the way you support other XRPL amendments such as NFTs.
 
@@ -30,14 +30,14 @@ In the case of the AMM amendment, AMM liquidity pools are a complex financial in
 
 AMM is still very new and while there are a few companies offering AMM user interfaces, we are going to wait and see how they manage their pools (and their users) before we offer any recommendations.
 
-In the meantime, here's a list of companies offer AMM interfaces:
+In the meantime, here's a list of companies that offer AMM interfaces:
 
 * [https://dexfi.pro](https://dexfi.pro)
 * [https://orchestra.finance/](https://orchestra.finance/)
 * [https://xpmarket.com/amm](https://xpmarket.com/amm)
 * [https://anodos.finance/](https://anodos.finance/)
 
-### Can I use another AMM platforms?
+### Can I use another AMM platform?
 
 You are free to use whichever AMM interface you like, but please be vigilant when deciding. There are bound to be scam sites out there so make sure you do your research before choosing.
 
@@ -50,6 +50,10 @@ Once you have selected an AMM service provider, they should have instructions on
 Liquidity pools are not a guaranteed path to consistent income and should not be viewed as a 'get rich quick" investment. AMM's are complicated and often volatile investment instruments that can sometimes lead to passive income but other times, can lead to a complete loss of invested assets.
 
 We strongly recommend that you seek financial advice before investing in an AMM liquidity pool. Any AMM provider that guarantees consistent passive income should be avoided.
+
+### How do I report AMM earnings/losses on my taxes?
+
+Each country will have their own rules when calculating gains/losses related to funds invested in AMMs. It is up to you to contact a tax professional in your country to determine the necessary reporting requirements.
 
 ### Is there a step by step guide to getting started with AMM on the XRPL?
 
