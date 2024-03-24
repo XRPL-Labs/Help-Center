@@ -14,7 +14,7 @@ This article answers some frequently asked questions about AMM.
 
 Put simply, Automated Market Makers (AMMs) are smart contracts that provide liquidity in the XRP Ledger's decentralized exchange. Each AMM holds a pool of two assets and enables users to swap between them at an exchange rate set by a formula.
 
-There are plenty of sources of information where you can learn more about the details on how the AMM on the XRP Ledger works, but we recommend starting here:
+For more information, here is a good starting place:
 
 {% embed url="https://xrpl.org/docs/concepts/tokens/decentralized-exchange/automated-market-makers/" %}
 
