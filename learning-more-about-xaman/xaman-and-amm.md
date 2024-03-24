@@ -4,13 +4,15 @@ description: All about Xaman and the AMM amendment
 
 # Xaman & AMM
 
-On March 22, 2024, the AMM amendment was implemented on the XRP Ledger mainnet and Xaman v2.8 was released to support it.
+On March 22, 2024, the AMM amendment was implemented on the XRP Ledger mainnet.&#x20;
+
+On the same day, Xaman v2.8 was released to support it.
 
 This article answers some frequently asked questions about AMM.
 
 ### **What is AMM?**
 
-Put simply, an AMM is basically a big pot of shared assets which is used to exchange different types of assets.
+Put simply, Automated Market Makers (AMMs) are smart contracts that provide liquidity in the XRP Ledger's decentralized exchange. Each AMM holds a pool of two assets and enables users to swap between them at an exchange rate set by a formula.
 
 There are plenty of sources of information where you can learn more about the details on how the AMM on the XRP Ledger works, but we recommend starting here:
 
