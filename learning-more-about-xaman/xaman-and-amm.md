@@ -34,7 +34,7 @@ AMM is still very new and while there are a few companies offering AMM user inte
 
 In the meantime, here's a list of companies that offer AMM interfaces:
 
-* [https://dexfi.pro](https://dexfi.pro)
+* [https://dexfi.pro](https://dexfi.pro)   (link to xApp -> [https://xumm.app/detect/xapp:dexfi.pro](https://xumm.app/detect/xapp:dexfi.pro) )
 * [https://orchestra.finance/](https://orchestra.finance/)
 * [https://xpmarket.com/amm](https://xpmarket.com/amm)
 * [https://anodos.finance/](https://anodos.finance/)
