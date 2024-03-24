@@ -26,13 +26,20 @@ Exactly. When the NFT amendment was implemented on the XRPL, Xaman (formerly Xum
 
 In the case of the AMM amendment, AMM liquidity pools are a complex financial instrument. We are letting the financial community handle the details of creating and managing the liquidity pools while we continue to focus on our areas of expertise.... namely keeping your account secret safe and secure.
 
-### Are there any AMM service providers that you recommend?
+### Are there any AMM platforms that you recommend?
 
-No, not at this time. The AMM amendment is still very new and while there are a few AMM service providers to choose from. We are going to wait and see how the various providers manage their pools and more importantly, how they manage their users before we offer any recommendations.
+AMM is still very new and while there are a few companies offering AMM user interfaces, we are going to wait and see how they manage their pools (and their users) before we offer any recommendations.
 
-### Will there be an AMM xApp?
+In the meantime, here's a list of companies offer AMM interfaces:
 
-There are currently at least two different developer groups who have an AMM xApp (or are are working on one.) We leave the marketing and sales of xApps to the individual developers to handle so if you are looking for one, check out the social media outlets for more information.
+* [https://dexfi.pro](https://dexfi.pro)
+* [https://orchestra.finance/](https://orchestra.finance/)
+* [https://xpmarket.com/amm](https://xpmarket.com/amm)
+* [https://anodos.finance/](https://anodos.finance/)
+
+### Can I use another AMM platforms?
+
+You are free to use whichever AMM interface you like, but please be vigilant when deciding. There are bound to be scam sites out there so make sure you do your research before choosing.
 
 ### How do I provide liquidity to an AMM pool?
 
