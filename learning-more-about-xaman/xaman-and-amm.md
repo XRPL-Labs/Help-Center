@@ -46,9 +46,9 @@ Exactly. When the NFT amendment was implemented on the XRPL, Xaman (formerly Xum
 
 Shortly after implementation, several NFT platforms appeared in the community providing NFT marketplaces, NFT minting, exchanges, sales, marketing, technical support, etc. These NFT platforms specialized in NFTs and many of them worked with us to create various xApps in Xaman.&#x20;
 
-In the case of the AMM amendment, there are already several companies who have created AMM platforms / user interfaces. Those platforms will allow you to interact with the various liquidity pools on the XRPL. while we continue to focus on our area of expertise.... namely keeping your account secrets safe and secure.
+In the case of the AMM amendment, there are already several companies who have created AMM user interfaces. Those interfaces will allow you to interact with the various liquidity pools on the XRPL. while we continue to focus on our area of expertise.... namely keeping your account secrets safe and secure.
 
-### Are there any AMM platforms that you recommend?
+### Are there any AMM user interfaces that you recommend?
 
 AMM is still very new and while there are a few companies offering AMM user interfaces, we are going to wait and see how they manage their pools (and their users) before we offer any recommendations.
 
@@ -59,13 +59,13 @@ In the meantime, here's a list of companies that offer AMM interfaces:
 * [https://xpmarket.com/amm](https://xpmarket.com/amm)
 * [https://anodos.finance/](https://anodos.finance/)
 
-### Can I use another AMM platform?
+### Can I use another AMM interface?
 
 You are free to use whichever AMM interface you like, but please be vigilant when deciding. There are bound to be _**scam sites**_ out there so make sure you do your research before choosing.
 
 ### How do I provide liquidity to an AMM pool?
 
-Once you have selected an AMM platform, you should work with them to learn how to it. They will have instructions on how to participate in the various liquidity pools. Try reaching out to their customer service team for specific instructions on how to do that.
+Once you have selected an AMM interface, you should work with them to learn how to it. They will have instructions on how to participate in the various liquidity pools. Try reaching out to their customer service team for specific instructions on how to do that.
 
 ### How much passive income can I expect to receive by participating in an AMM pool? Enough to retire?
 
