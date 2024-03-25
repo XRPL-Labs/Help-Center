@@ -42,9 +42,11 @@ Beginning with version 2.8, Xaman fully supports AMM transaction signing on the 
 
 ### That sounds just like the way you support other XRPL amendments such as NFTs.
 
-Exactly. When the NFT amendment was implemented on the XRPL, Xaman (formerly Xumm) supported transaction signing for NFT transactions, but we left the NFT marketplaces, NFT minting, sales, marketing, technical support, etc., to the community experts to handle. Our focus has always been to help you manage the private keys for your account and provide a safe and secure way for you to interact with the XRP Ledger.
+Exactly. When the NFT amendment was implemented on the XRPL, Xaman (formerly Xumm) supported transaction signing for NFT transactions.
 
-In the case of the AMM amendment, AMM liquidity pools are a complex financial instrument. We are letting the financial community handle the details of creating and managing the liquidity pools while we continue to focus on our areas of expertise.... namely keeping your account secret safe and secure.
+Shortly after implementation, several NFT platforms appeared in the community providing NFT marketplaces, NFT minting, exchanges, sales, marketing, technical support, etc. These NFT platforms specialized in NFTs and many of them worked with us to create various xApps in Xaman.&#x20;
+
+In the case of the AMM amendment, there are already several companies who have created AMM platforms / user interfaces. Those platforms will allow you to interact with the various liquidity pools on the XRPL. while we continue to focus on our areas of expertise.... namely keeping your account secrets safe and secure.
 
 ### Are there any AMM platforms that you recommend?
 
@@ -63,7 +65,7 @@ You are free to use whichever AMM interface you like, but please be vigilant whe
 
 ### How do I provide liquidity to an AMM pool?
 
-Once you have selected an AMM service provider, they should have instructions on how to participate in their liquidity pool. Try reaching out to their customer service team for specific instructions on how to do that.
+Once you have selected an AMM platform, you should work with them to learn how to use their services. They will have instructions on how to participate in the various liquidity pools. Try reaching out to their customer service team for specific instructions on how to do that.
 
 ### How much passive income can I expect to receive by participating in an AMM pool? Enough to retire?
 
