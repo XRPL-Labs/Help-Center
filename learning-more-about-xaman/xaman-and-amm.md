@@ -7,7 +7,7 @@ description: All about Xaman and the AMM amendment
 {% hint style="danger" %}
 Effective immediately:\
 \
-We strongly recommend **against** using AMM at this time.&#x20;
+We strongly recommend _<mark style="color:blue;">**against**</mark>_ using AMM at this time.&#x20;
 
 "A discrepancy has been found that affects how the DEX payment engine routes liquidity through AMM pools and order books in some complex payment path scenarios."
 
