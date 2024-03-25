@@ -10,6 +10,16 @@ On the same day, Xaman v2.8 was released to support it.
 
 This article answers some frequently asked questions about AMM.
 
+{% hint style="danger" %}
+Effective immediately:\
+\
+We strongly recommend against using AMM at this time. A bug was detected in the code which can cause calculation issues&#x20;
+
+[https://twitter.com/RippleXDev/status/1771680918895558913?s=20](https://twitter.com/RippleXDev/status/1771680918895558913?s=20)
+{% endhint %}
+
+
+
 ### **What is AMM?**
 
 Put simply, Automated Market Makers (AMMs) are smart contracts that provide liquidity in the XRP Ledger's decentralized exchange. Each AMM holds a pool of two assets and enables users to swap between them at an exchange rate set by a formula.
