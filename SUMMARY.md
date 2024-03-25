@@ -24,7 +24,7 @@
   * [From Bitrue](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-bitrue.md)
   * [From Bitstamp](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-bitstamp.md)
 * [Importing your account (XRPL)](getting-started-with-xaman/importing-your-account/README.md)
-  * [Should I import my XRP Ledger account into Xumm?](getting-started-with-xaman/importing-your-account/should-i-import-my-xrp-ledger-account-into-xumm.md)
+  * [Should I import my XRP Ledger account into Xaman?](getting-started-with-xaman/importing-your-account/should-i-import-my-xrp-ledger-account-into-xaman.md)
   * [...with Secret Numbers](getting-started-with-xaman/importing-your-account/...with-secret-numbers.md)
   * [...with a Family Seed](getting-started-with-xaman/importing-your-account/...with-a-family-seed.md)
   * [...with a Mnemonic](getting-started-with-xaman/importing-your-account/...with-a-mnemonic.md)

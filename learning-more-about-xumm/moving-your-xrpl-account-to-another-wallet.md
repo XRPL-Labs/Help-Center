@@ -16,7 +16,7 @@ Whenever you import an account secret (secret numbers/family seed/mnemonic) into
 
 We strongly recommend you consider reviewing this article so you better understand the risks associated with this process:
 
-[**Should I import my XRPL account in Xumm?**](../getting-started-with-xaman/importing-your-account/should-i-import-my-xrp-ledger-account-into-xumm.md)
+[**Should I import my XRPL account in Xumm?**](../getting-started-with-xaman/importing-your-account/should-i-import-my-xrp-ledger-account-into-xaman.md)
 
 
 
