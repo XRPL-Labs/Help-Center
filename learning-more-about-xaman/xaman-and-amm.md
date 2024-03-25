@@ -7,13 +7,10 @@ description: All about Xaman and the AMM amendment
 {% hint style="warning" %}
 Please be aware:\
 \
-We strongly recommend _**against**_ using AMM at this time. \
-
-
 ![](<../.gitbook/assets/image (91).png>)
 
 \
-For more information, you can follow this thread:
+For more information, you can follow this Tweet:
 
 [https://twitter.com/RippleXDev/status/1771680918895558913?s=20](https://twitter.com/RippleXDev/status/1771680918895558913?s=20)
 {% endhint %}
