@@ -26,7 +26,7 @@ This article answers some frequently asked questions about AMM.
 
 ### **What is AMM?**
 
-Put simply, Automated Market Makers (AMMs) work by pooling two tokens together in a pair of liquidity pools. Each AMM holds a pool of two assets which enables users to swap between them at an exchange rate set by a formula.
+Put simply, Automated Market Makers (AMMs) work by pooling two tokens together to form a liquidity pool. Each AMM holds a pool of two assets which enables users to swap between them at an exchange rate set by a formula.
 
 For more information, here are a couple of good resources:
 
@@ -46,7 +46,7 @@ Exactly. When the NFT amendment was implemented on the XRPL, Xaman (formerly Xum
 
 Shortly after implementation, several NFT platforms appeared in the community providing NFT marketplaces, NFT minting, exchanges, sales, marketing, technical support, etc. These NFT platforms specialized in NFTs and many of them worked with us to create various xApps in Xaman.&#x20;
 
-In the case of the AMM amendment, there are already several companies who have created AMM platforms / user interfaces. Those platforms will allow you to interact with the various liquidity pools on the XRPL. while we continue to focus on our areas of expertise.... namely keeping your account secrets safe and secure.
+In the case of the AMM amendment, there are already several companies who have created AMM platforms / user interfaces. Those platforms will allow you to interact with the various liquidity pools on the XRPL. while we continue to focus on our area of expertise.... namely keeping your account secrets safe and secure.
 
 ### Are there any AMM platforms that you recommend?
 
@@ -61,11 +61,11 @@ In the meantime, here's a list of companies that offer AMM interfaces:
 
 ### Can I use another AMM platform?
 
-You are free to use whichever AMM interface you like, but please be vigilant when deciding. There are bound to be scam sites out there so make sure you do your research before choosing.
+You are free to use whichever AMM interface you like, but please be vigilant when deciding. There are bound to be _**scam sites**_ out there so make sure you do your research before choosing.
 
 ### How do I provide liquidity to an AMM pool?
 
-Once you have selected an AMM platform, you should work with them to learn how to use their services. They will have instructions on how to participate in the various liquidity pools. Try reaching out to their customer service team for specific instructions on how to do that.
+Once you have selected an AMM platform, you should work with them to learn how to it. They will have instructions on how to participate in the various liquidity pools. Try reaching out to their customer service team for specific instructions on how to do that.
 
 ### How much passive income can I expect to receive by participating in an AMM pool? Enough to retire?
 
