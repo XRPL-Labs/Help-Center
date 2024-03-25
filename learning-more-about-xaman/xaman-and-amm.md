@@ -4,33 +4,41 @@ description: All about Xaman and the AMM amendment
 
 # Xaman & AMM
 
-On March 22, 2024, the AMM amendment was implemented on the XRP Ledger mainnet.&#x20;
-
-On the same day, Xaman v2.8 was released to support it.
-
-This article answers some frequently asked questions about AMM.
-
 {% hint style="danger" %}
 Effective immediately:\
 \
-We strongly recommend against using AMM at this time. A bug was detected in the code which can cause calculation issues&#x20;
+We strongly recommend **against** using AMM at this time.&#x20;
+
+"A discrepancy has been found that affects how the DEX payment engine routes liquidity through AMM pools and order books in some complex payment path scenarios."
+
+You can refer to this Tweet for more information:
 
 [https://twitter.com/RippleXDev/status/1771680918895558913?s=20](https://twitter.com/RippleXDev/status/1771680918895558913?s=20)
 {% endhint %}
 
 
 
+On March 22, 2024, the AMM amendment was implemented on the XRP Ledger mainnet.&#x20;
+
+On the same day, Xaman v2.8 was released to support it.
+
+This article answers some frequently asked questions about AMM.
+
 ### **What is AMM?**
 
-Put simply, Automated Market Makers (AMMs) are smart contracts that provide liquidity in the XRP Ledger's decentralized exchange. Each AMM holds a pool of two assets and enables users to swap between them at an exchange rate set by a formula.
+Put simply, Automated Market Makers (AMMs) work by pooling two tokens together in a pair of liquidity pools. Each AMM holds a pool of two assets which enables users to swap between them at an exchange rate set by a formula.
 
-For more information, here is a good starting place:
+For more information, here are a couple of good resources:
 
 {% embed url="https://xrpl.org/docs/concepts/tokens/decentralized-exchange/automated-market-makers/" %}
+
+{% embed url="https://learn.xrpl.org/course/deep-dive-into-xrpl-defi/lesson/what-is-an-automated-market-maker-amm/" %}
 
 ### What role does Xaman play in AMMs?
 
 Beginning with version 2.8, Xaman fully supports AMM transaction signing on the XRP Ledger. &#x20;
+
+
 
 ### That sounds just like the way you support other XRPL amendments such as NFTs.
 
