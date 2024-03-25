@@ -4,7 +4,7 @@ description: All about Xaman and the AMM amendment
 
 # Xaman & AMM
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Effective immediately:\
 \
 We strongly recommend _**against**_ using AMM at this time.&#x20;
