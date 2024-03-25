@@ -5,13 +5,15 @@ description: All about Xaman and the AMM amendment
 # Xaman & AMM
 
 {% hint style="warning" %}
-Effective immediately:\
+Please be aware:\
 \
-We strongly recommend _**against**_ using AMM at this time.&#x20;
+We strongly recommend _**against**_ using AMM at this time. \
 
-"A discrepancy has been found that affects how the DEX payment engine routes liquidity through AMM pools and order books in some complex payment path scenarios."
 
-You can refer to this Tweet for more information:
+![](<../.gitbook/assets/image (91).png>)
+
+\
+For more information, you can follow this thread:
 
 [https://twitter.com/RippleXDev/status/1771680918895558913?s=20](https://twitter.com/RippleXDev/status/1771680918895558913?s=20)
 {% endhint %}
