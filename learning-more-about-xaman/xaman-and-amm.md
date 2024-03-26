@@ -35,6 +35,10 @@ For more information, here are a couple of good resources:
 
 ### What role does Xaman play in AMMs?
 
+If you think of
+
+
+
 Beginning with version 2.8, Xaman fully supports AMM transaction signing on the XRP Ledger. &#x20;
 
 
@@ -66,7 +70,7 @@ You are free to use whichever AMM interface you like, but please be vigilant whe
 
 Once you have selected an AMM interface, you should work with them to learn how to it. They will have instructions on how to participate in the various liquidity pools. Try reaching out to their customer service team for specific instructions on how to do that.
 
-### How much passive income can I expect to receive by participating in an AMM pool? Enough to retire?
+### How much passive income can I expect to receive by participating in an AMM pool?
 
 Liquidity pools are not a guaranteed path to consistent income and should not be viewed as a 'get rich quick" investment. AMM's are complicated and often volatile investment instruments that can sometimes lead to passive income but other times, can lead to a complete loss of invested assets.
 
@@ -78,9 +82,19 @@ Each country will have their own rules when calculating gains/losses related to 
 
 ### Is there a step by step guide to getting started with AMM on the XRPL?
 
-The first thing to do is to install the latest version of Xaman. Doing that will give you the ability to sign AMM transaction types on the XRPL.
+No, not really.
 
-After you have done that, you should research which AMM service providers support the XRPL (and Xaman). There are a few to choose from and not all of them provide the same level of customer service and support.  We recommend searching through social media platforms such as Twitter (X), Discord, Telegram, etc. to see which companies best meet your investment strategies. Once you find a trust worthy AMM service provider with a history of supporting the XRP Ledger, reach out to them and arrange an appointment to discuss your financial goals. This is not something you should rush into.
+The first thing to do is to install the latest version of Xaman. Doing this will give you the ability to sign AMM transaction types on the XRPL.
+
+Next you should do some research and investigate some of the AMM user interfaces in the community. This list above is a good starting place.
+
+Once you have decided on one, they should have a "Getting started" guide explaining how to use their services.
+
+
+
+
+
+
 
 
 
