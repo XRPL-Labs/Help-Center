@@ -84,7 +84,11 @@ Next you should do some research and investigate some of the AMM user interfaces
 
 Once you have decided on one, they should have a "Getting started" guide explaining how to use their services.
 
+### I created my own token. How do I get my token added to an AMM pool?
 
+You can find instructions on how create an AMM for a given asset pair:
+
+{% embed url="https://xrpl.org/docs/tutorials/how-tos/use-tokens/create-an-automated-market-maker/" %}
 
 
 
