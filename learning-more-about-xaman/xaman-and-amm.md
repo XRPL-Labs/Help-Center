@@ -35,13 +35,7 @@ For more information, here are a couple of good resources:
 
 ### What role does Xaman play in AMMs?
 
-If you think of
-
-
-
 Beginning with version 2.8, Xaman fully supports AMM transaction signing on the XRP Ledger. &#x20;
-
-
 
 ### That sounds just like the way you support other XRPL amendments such as NFTs.
 
