@@ -180,6 +180,7 @@
 
 * [Current release](release-notes/current-release.md)
 * [Previous releases](release-notes/previous-releases/README.md)
+  * [Xaman v2.8](release-notes/previous-releases/xaman-v2.8.md)
   * [Xaman v2.6 (Formerly Xumm)](release-notes/previous-releases/xaman-v2.6-formerly-xumm.md)
   * [Xumm v2.5](release-notes/previous-releases/xumm-v2.5.md)
   * [🥳 Updating to Xumm v2.5!](getting-started-with-xumm/updating-to-xumm-v2.5.md)
