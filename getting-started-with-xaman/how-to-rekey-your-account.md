@@ -1,7 +1,4 @@
 ---
-description: >-
-  There are two stages to re-keying an XRP Ledger (XRPL) account: setting a
-  regular key and disabling the master key of the primary account.
 cover: ../.gitbook/assets/Large rock with Key.jpg
 coverY: 0
 ---
