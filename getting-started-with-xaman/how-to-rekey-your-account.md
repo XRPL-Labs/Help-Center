@@ -8,19 +8,7 @@ coverY: 0
 
 # How to Rekey an XRP Ledger (XRPL) Account
 
-### Set / Add a regular key pair to your XRPL account
-
-The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on  behalf of another account.&#x20;
-
-It is often used to protect an account by securing the master key and using the regular key in its place. This has multiple advantages;
-
-1. The primary account is safer because the master key does not need to be generally available
-2. The regular key account does not need to be activated so has no value in and of itself
-3. The regular key can be removed or swapped out as needed
-
 ### Concept and Implementation
-
-
 
 The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on  behalf of another account.&#x20;
 
