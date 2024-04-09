@@ -1,10 +1,10 @@
 ---
-description: How to buy XRP using Xumm
+description: How to buy XRP using Xaman
 ---
 
 # Buying XRP
 
-We offer several easy ways to purchase XRP from the Xumm platform. Take a minute to read through the following options and determine which one best meets your needs.&#x20;
+We offer several easy ways to purchase XRP from the Xaman (formerly Xumm) platform. Take a minute to read through the following options and determine which one best meets your needs.&#x20;
 
 ### **Option 1**
 
@@ -20,7 +20,7 @@ then select your country or currency by pressing the down arrow.
 
 
 
-Xumm will list the exchanges that you can purchase XRP from.
+Xaman will list the exchanges that you can purchase XRP from.
 
 ### Option 2
 
