@@ -130,6 +130,7 @@
   * [Token creator](all-about-xapps/xrpl-services/token-creator.md)
   * [Xahau Import](all-about-xapps/xrpl-services/xahau-import.md)
 * [XRP Community](all-about-xapps/xrp-community/README.md)
+  * [Trust in the XRPL Community](all-about-xapps/xrp-community/trust-in-the-xrpl-community.md)
   * [CasinoCoin Lobby](all-about-xapps/xrp-community/casinocoin-lobby.md)
   * [XRP Ledger TipBot](all-about-xapps/xrp-community/xrp-ledger-tipbot.md)
   * [UniSpend](all-about-xapps/xrp-community/chispend-cash-out.md)
