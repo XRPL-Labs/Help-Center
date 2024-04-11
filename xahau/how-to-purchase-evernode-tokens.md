@@ -13,15 +13,17 @@ There are currently two ways to purchase Evr tokens:
 
 ### Bitrue
 
-Bitrue is currently the only exchange which supports Evernode tokens. &#x20;
+Bitrue is currently the only exchange which supports Evernode tokens.  You can create an account with them, then purchase USDT and exchange it EVR on their platform.
 
 {% embed url="https://www.bitrue.com/trade/evr_usdt" %}
 
 ### Xahau DEX
 
-We are currently working on a Xahau DEX Trade xApp which will allow you to trade on the Xahau DEX. When it is ready, we will make an official announcement here:
+Xaman has an xApp called the [DEX Trade xApp](https://xumm.app/detect/xapp:xumm.dex) which will allow you to trade on the Xahau DEX.&#x20;
 
-{% embed url="https://blog.xumm.app/" %}
+You can launch it in Xaman via this link:
+
+{% embed url="https://xumm.app/detect/xapp:xumm.dex" %}
 
 ## Frequently Asked Questions
 
@@ -37,3 +39,6 @@ For more information about this, please contact Evernode directly at:
 
 {% embed url="https://discord.com/invite/6QyztTrWHq" %}
 
+#### When will other exchanges start supporting Evernode?
+
+It is possible, but you are going to need to contact Evernode for additional information related to their token. (Normally businesses provide their own customer support for their products.)
