@@ -12,7 +12,7 @@
   * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)
 * [Installing Xaman](getting-started-with-xaman/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/README.md)
-  * [How to create an XRPL account](getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
+  * [How to create an XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 * [Activating an account (XRPL)](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/README.md)
   * [From GateHub](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-gatehub.md)
   * [From Uphold](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-uphold.md)

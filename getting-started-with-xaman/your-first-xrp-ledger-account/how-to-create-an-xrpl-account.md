@@ -1,16 +1,16 @@
 ---
-description: How to create an XRP Ledger account using Xumm
+description: How to create an XRP Ledger account using Xaman
 cover: ../../.gitbook/assets/Creating in forest.png
 coverY: 143
 ---
 
-# How to create an XRPL account
+# How to create an XRP Ledger account
 
-If you have just finished installing Xumm and are at this page, start by pressing the **Create a new account** button.
+If you have just finished installing Xaman (formerly Xumm) and are at this page, start by pressing the **Create a new account** button.
 
 <figure><img src="../../.gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
 
-1\) If you are not at the above screen, launch Xumm and press **Settings** -> **Accounts** -> **+ Add account** -> **Create a new account**.
+1\) If you are **not** at the above screen, launch Xaman and press **Settings** -> **Accounts** -> **+ Add account** -> **Create a new account**.
 
 {% hint style="warning" %}
 Make sure you read and understand this page then press the **Next, I understand** button.
@@ -26,8 +26,14 @@ You will need to **carefully** write all of the numbers down in the correct orde
 
 <figure><img src="../../.gitbook/assets/Secret numbers - 2.png" alt=""><figcaption></figcaption></figure>
 
-The next part of the process is to manually enter all of the secret numbers back into Xumm. You can use the <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line">buttons and the <img src="../../.gitbook/assets/image (11) (2).png" alt="" data-size="line">buttons to do this. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
+The next part of the process is to manually enter all of the secret numbers back into Xaman. You can use the <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line">buttons and the <img src="../../.gitbook/assets/image (11) (2).png" alt="" data-size="line">buttons to do this. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
 
+
+{% hint style="info" %}
+This step is deliberately time consuming and tendinous. The secret numbers are absolutely vital to the safety of your XRP Ledger account and are **the only way** to access your account in the event something were to happen to your phone.
+
+Please do not take this process lightly and make sure you accurately record and safely store your secret numbers.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Public address - 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,9 +66,9 @@ Enter the account label, then touch **Done** and press the **Next** button**.**
 
 Press the **Hooray, let's go!**
 
-You should now be at the main screen of Xumm.
+You should now be at the main screen of Xaman.
 
-<figure><img src="../../.gitbook/assets/Activate your account.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Notice that your new account has **not been activated** yet.
 
