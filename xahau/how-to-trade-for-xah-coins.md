@@ -8,7 +8,7 @@ description: How to trade Xahau (XAH) tokens / coins
 
 On November 1, 2023 a new blockchain was launched called **Xahau**.
 
-Xahau is an XRPL-based network, introducing several new features, such as Hooks, not found on the XRPL mainnet.
+Xahau is an XRP Ledger protocol based network, introducing several new features, such as Hooks, not found on the XRPL mainnet.&#x20;
 
 The Xahau network  runs the same code as the XRPL protocol but introduces several new features not found on the main XRPL blockchain.&#x20;
 

@@ -232,7 +232,7 @@
 * [Understanding Trust Lines on Xahau](xahau/understanding-trust-lines-on-xahau.md)
 * [How to create a Trust Line (Xahau)](xahau/how-to-create-a-trust-line-xahau.md)
 * [How to create an Evernode Trust Line](xahau/how-to-create-an-evernode-trust-line.md)
-* [How to trade XAH coins](xahau/how-to-trade-xah-coins.md)
+* [How to trade XAH coins](xahau/how-to-trade-for-xah-coins.md)
 * [How to trade Evernode (Evr) tokens](xahau/how-to-purchase-evernode-tokens.md)
 * [How to send XAH to GateHub](xahau/how-to-send-xah-to-gatehub/README.md)
   * [How to send XAH Tokens to GateHub - Hosted account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-tokens-to-gatehub-hosted-account.md)
