@@ -74,6 +74,8 @@ then choose the **XAH (Xahau)** token and press the **Sign to add token** button
 
 <figure><img src="../.gitbook/assets/Exchange XAH button.png" alt=""><figcaption></figcaption></figure>
 
+## Frequently Asked Questions
+
 #### Is there any other way I can purchase Xahau tokens?
 
 Yes. GateHub sells both XAH tokens and XAH coins. Once you create an account with GateHub you should have the option of purchasing both.
@@ -88,9 +90,5 @@ You can read all about it here:
 [xah-teleport.md](../all-about-xapps/xahau-xapps/xah-teleport.md)
 {% endcontent-ref %}
 
-#### What about the "Burn 2 Mint" feature on Xahau?
-
-The Burn 2 Mint feature allows you to burn XRP on the XRP Ledger and generate XAH on the Xahau network on a 1 to 1 basis. For example, using this feature, you could destroy 1 XRP on the XRP Ledger and at the same, create 1 XAH on the Xahau network.&#x20;
-
-We are currently working on xApp to do this but it is still several weeks away from being ready for public release.
+####
 
