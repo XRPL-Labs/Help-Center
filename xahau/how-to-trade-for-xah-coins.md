@@ -12,7 +12,7 @@ Xahau is an XRP Ledger protocol based network, introducing several new features,
 
 The Xahau network  runs the same code as the XRPL protocol but introduces several new features not found on the main XRPL blockchain.&#x20;
 
-One of the things introduced in Xahau is a new coin with the trading symbol of **XAH**. The primary purpose of XAH is to pay transaction costs on the Xahau network.&#x20;
+One of the things introduced in Xahau is a new native coin with the trading symbol of **XAH**. The primary purpose of the XAH coin is to offset the higher fees encountered from Hook/Smart Contract transactions and pay transaction costs on the Xahau network.&#x20;
 
 ### Understanding the difference between XAH coins and XAH tokens
 
