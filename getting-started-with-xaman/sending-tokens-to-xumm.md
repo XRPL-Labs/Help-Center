@@ -1,22 +1,22 @@
 ---
-description: How to send tokens to your XRP Ledger account managed by Xumm
+description: How to send tokens to your XRP Ledger account managed by Xaman
 ---
 
-# Sending tokens to Xumm
+# Sending tokens to Xaman
 
 **Introduction**
 
-If you are new to Xumm, it can be a little bit confusing to understand what all the buttons and features do. Trust us when we say, it does get easier after a little bit of practice! 😉
+If you are new to Xaman (formerly Xumm), it can be a little bit confusing to understand what all the buttons and features do. Trust us when we say, **it does get easier** after a little bit of practice! 😉
 
-This article talks about how to send funds using Xumm.
+This article talks about how to send funds using Xaman.
 
 ### **Background**
 
 The first thing to know is that all tokens issued on the XRP Ledger use the same r-address to send and receive as XRP does.
 
-For example, if you want send XRP to your account, you would send it to your r-address. In Xumm you can find your r-address here:
+For example, if you want send XRP to your account, you would send it to your r-address. In Xaman you can find your r-address here:
 
-<figure><img src="../.gitbook/assets/raddress (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Now, let’s say you want to send another token to your account, for example, CasinoCoin (CSC), you would send it to the same r-address as you would if you were sending XRP. (In this case, **rAtLaNtiSod5cBiw4vjqtoPBLEbXNg**.)
 
