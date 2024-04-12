@@ -16,7 +16,7 @@ The first thing to know is that all tokens issued on the XRP Ledger use the same
 
 For example, if you want send XRP to your account, you would send it to your r-address. In Xaman you can find your r-address here:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Main scree - r-address.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Of course, your r-address will be different than our r-address. Our account is a [Vanity r-address](../xumm-pro-beta/features-of-pro/vanity-addresses.md).
@@ -30,7 +30,7 @@ In our case, we have one Trust Line configured in our account:
 
 You can see it here:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GateHub EUR.png" alt=""><figcaption></figcaption></figure>
 
 The final thing, which might be the most important thing, is that you **never send tokens to the tokens issuing account**. If you do that, you will destroy them. (More on this later.)
 
