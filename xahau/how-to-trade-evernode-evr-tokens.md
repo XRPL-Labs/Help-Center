@@ -1,19 +1,19 @@
 ---
-description: How to buy Evernode tokens (Evr)
+description: How to trade Evernode (Evr) tokens
 ---
 
-# How to purchase Evernode tokens
+# How to trade Evernode (Evr) tokens
 
 ## Summary
 
-There are currently two ways to purchase Evr tokens:
+There are currently two ways to exchange Evernode tokens:
 
 * via the Bitrue crypto exchange
 * via the Xahau DEX
 
 ### Bitrue
 
-Bitrue is currently the only exchange which supports Evernode tokens.  You can create an account with them, then purchase USDT and exchange it EVR on their platform.
+Bitrue is currently the only exchange which supports Evernode tokens.  You can create an account with them, then exchange USDT for EVR on their platform.
 
 {% embed url="https://www.bitrue.com/trade/evr_usdt" %}
 
