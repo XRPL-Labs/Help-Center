@@ -27,7 +27,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 2\) Launch the Xahau Import xApp.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) You must accept the _Terms and Conditions_ and the _Privacy Policy_ before you can continue. Press the **Next** button when ready.
 
@@ -35,7 +35,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 4\) Select the account you would like to duplicate on the Xahau network, then press **Next** to continue.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5\) Press the **Excute AccountSet** button.
 
@@ -43,11 +43,11 @@ As long as both of these requirements are met, you can follow these instructions
 
 6\) Sign the transaction.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7\) Press **Next** to continue.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8\) Press the three dots <img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> at the top of the screen.
 
@@ -55,15 +55,15 @@ As long as both of these requirements are met, you can follow these instructions
 
 9\) Press the <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">button. (Also known as the _Network Switch_ button.)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 10\) Then tap the **Xahau** network.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 11\) Press the **Import Account** button.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 12\) Sign the transaction.
 
@@ -75,7 +75,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 If it worked, you should see your **activated** account on the Xahau network.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If it didn't work, you should see a screen like this.
 

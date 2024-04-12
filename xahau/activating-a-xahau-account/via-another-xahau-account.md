@@ -28,7 +28,7 @@ There are two ways you can activate a Xahau account from another Xahau account:
 
 4\) Enter the amount of XAH to send. (Only 1 XAH is needed to activate an account on the Xahau network.) Press **Next** when done.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
@@ -36,9 +36,9 @@ There are two ways you can activate a Xahau account from another Xahau account:
 
 In Xaman, an unactivated account on Xahau looks like this:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1\) Pressing the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> button triggers the _Account Activation_ flow.
+1\) Pressing the <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> button triggers the _Account Activation_ flow.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +56,7 @@ Choose an account containing at least 1 XAH of spendable XAH coins.
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to Check if it Worked
 
