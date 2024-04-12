@@ -1,14 +1,16 @@
 ---
-description: How to purchase Xahau (XAH) tokens / coins
+description: How to trade for Xahau (XAH) tokens / coins
 ---
 
-# How to purchase XAH coins
+# How to trade for XAH coins
 
 ### History
 
-On November 1, 2023 a new XRP Ledger (XRPL) sidechain was launched called **Xahau**.
+On November 1, 2023 a new blockchain was launched called **Xahau**.
 
-The Xahau network runs the same code as the XRPL protocol but introduces several new features not found on the main XRPL blockchain.&#x20;
+Xahau is an XRPL-based network, introducing several new features, such as Hooks, not found on the XRPL mainnet.
+
+The Xahau network  runs the same code as the XRPL protocol but introduces several new features not found on the main XRPL blockchain.&#x20;
 
 One of the things introduced in Xahau is a new coin with the trading symbol of **XAH**. The primary purpose of XAH is to pay transaction costs on the Xahau network.&#x20;
 
