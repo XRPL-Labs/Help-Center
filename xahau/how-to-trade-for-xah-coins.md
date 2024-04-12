@@ -18,17 +18,17 @@ The XAH coin is the native currency on the Xahau network. It exists on the Xahau
 
 A XAH token is an issued currency on another network. (In this case, the XRP Ledger.) It exists on a different network than Xahau. A XAH token can not be used to pay transaction costs on Xahau and can not be directly moved to the Xahau network.
 
-For a more in-depth discussion about  XAH tokens and how they work, check out this article:
+For a more in-depth discussion about XAH tokens and how they work, check out this article:
 
 {% content-ref url="understanding-the-xah-token-on-the-xrp-ledger.md" %}
 [understanding-the-xah-token-on-the-xrp-ledger.md](understanding-the-xah-token-on-the-xrp-ledger.md)
 {% endcontent-ref %}
 
-### How to buy XAH coins
+### How to trade XAH coins
 
 There is currently **no way to purchase XAH coins** using Xaman.
 
-In order to purchase XAH coins, you need to open an account with either of the following two crypto exchanges :
+In order to trade XAH coins, you need to open an account with the following crypto exchanges:
 
 [**GateHub** ](https://signin.gatehub.net/signup)
 
@@ -46,7 +46,7 @@ In both cases, once you have created an account with them, you will be able to s
 
 
 
-### How to buy XAH tokens
+### How to trade XAH tokens on the DEX
 
 There is currently **one way to purchase XAH tokens** using Xaman:
 
@@ -76,7 +76,7 @@ then choose the **XAH (Xahau)** token and press the **Sign to add token** button
 
 ## Frequently Asked Questions
 
-#### Is there any other way I can purchase Xahau tokens?
+#### Is there any other way I can acquire Xahau tokens?
 
 Yes. GateHub sells both XAH tokens and XAH coins. Once you create an account with GateHub you should have the option of purchasing both.
 
