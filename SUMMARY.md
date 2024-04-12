@@ -4,7 +4,7 @@
 
 ## Getting started with Xaman
 
-* [😎 Updating to Xaman v2.8.1!](getting-started-with-xaman/updating-to-xaman-v2.8.1.md)
+* [😎 Updating to Xaman v2.8.2!](getting-started-with-xaman/updating-to-xaman-v2.8.2.md)
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
   * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)

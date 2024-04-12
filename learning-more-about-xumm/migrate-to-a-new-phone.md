@@ -35,7 +35,7 @@ Although the installation of Xaman is quite straight-forward and user-friendly ,
 
 When you get to the end of the installation, you will be presented with this screen:
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/New install.png" alt=""><figcaption></figcaption></figure>
 
 Simply press the **+ Add account** button then choose **Import an existing account**.&#x20;
 

@@ -2,11 +2,11 @@
 description: How to update Xaman to the latest version
 ---
 
-# 😎 Updating to Xaman v2.8.1!
+# 😎 Updating to Xaman v2.8.2!
 
 ### Exciting news!
 
-We have just released the latest version Xaman (v2.8.1)!
+We have just released the latest version Xaman (v2.8.2)!
 
 If you're reading this, you probably want to learn all about the new features it contains. Our blog is the ideal place to start:
 
@@ -14,7 +14,7 @@ If you're reading this, you probably want to learn all about the new features it
 
 This article discusses how to upgrade to the latest version so you can begin exploring all great features it contains.&#x20;
 
-### How to update your device to Xaman v2.8.1
+### How to update your device to Xaman v2.8.2
 
 As with all versions of Xaman the app is only available from two sources:
 
@@ -28,7 +28,7 @@ For those who already have a version of Xaman installed, you will get the option
 
 For Apple users, you should see a screen like this:
 
-<figure><img src="../.gitbook/assets/new version - Apple.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/new version - 1 - Apple.png" alt=""><figcaption></figcaption></figure>
 
 For Android users, you should see something like this:
 
@@ -48,7 +48,7 @@ Unfortunately there is no way to get the Update screen back. You will need to ma
 
 Updating is completely optional, but it is important to understand that the latest version contains several bugs fixes and improvements. If you were to encounter an issue with your version of Xaman, you will be asked to update to the latest version in order to receive support.
 
-#### What versions of Android and iOS do I need for Xaman v2.8.1?
+#### What versions of Android and iOS do I need for Xaman v2.8.2?
 
 ⦁ Android v7 and up&#x20;
 
