@@ -1,8 +1,8 @@
 ---
-description: How to trade for Xahau (XAH) tokens / coins
+description: How to trade Xahau (XAH) tokens / coins
 ---
 
-# How to trade for XAH coins
+# How to trade XAH coins
 
 ### History
 
