@@ -32,13 +32,13 @@ You can see it here:
 
 <figure><img src="../.gitbook/assets/GateHub EUR.png" alt=""><figcaption></figcaption></figure>
 
-The final thing, which might be the most important thing, is that you **never send tokens to the tokens issuing account**. If you do that, you will destroy them. (More on this later.)
+The final thing, which might be the most important thing, is that you should **never send tokens to the** _**token issuing account**_. If you do that, you will destroy them. (More on this later.)
 
 ### Putting it all together
 
 Let's go through an example of how it works.
 
-We want to receive a token in our account. In this case we want to receive Euro tokens (EUR) issued by GateHub. The problem is that we do not have a Trust Line configured in our account for EUR so we can not receive them, so we need to create one.
+We want to receive a token in our account. In this case, we want to receive Euro tokens (EUR) issued by GateHub. The problem is that we do not have a Trust Line configured in our account for EUR so we can not receive them. We need to create one.
 
 Here's how to do that:
 
@@ -46,9 +46,9 @@ Here's how to do that:
 [how-to-create-a-trust-line.md](how-to-create-a-trust-line.md)
 {% endcontent-ref %}
 
-Now we have two Trust Lines configured. Here is how Xaman looks after we create the EUR Trust Line.
+After we follow the instructions in the above article, we now have two Trust Lines configured. Here is how Xaman looks after we create the EUR Trust Line.
 
-<figure><img src="../.gitbook/assets/Trust lines on main screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### **Each Trust Line has its own r-address…**
 

@@ -8,7 +8,7 @@ coverY: 251
 
 At XRPL Labs, we are constantly working on improving the XRP Ledger user experience for consumers and for businesses.
 
-Xumm is a self-custodial XRP Ledger wallet. This means that you, and only you, have access to your funds because your funds are in your own account, to which you own the keys. Your keys are encrypted securely on your iOS/Android device.
+Xaman (formerly Xumm) is a self-custodial XRP Ledger wallet. This means that you, and only you, have access to your funds because your funds are in your own account, to which you own the keys. Your keys are encrypted securely on your iOS/Android device.
 
 ### **Keeping your keys safe**
 
@@ -65,7 +65,9 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   [https://xrpl-labs.com/tangem/pricing](https://xrpl-labs.com/tangem/pricing)\
   \
   or via Xumm:\
-  [https://xumm.app/detect/xapp:xumm.tangem-order](https://xumm.app/detect/xapp:xumm.tangem-order)\
+  [https://xumm.app/detect/xapp:xumm.tangem-order](https://xumm.app/detect/xapp:xumm.tangem-order)
+
+
 
 * **Xumm Pro (Beta) is a paid subscription, do I need Pro to use Xumm (Tangem) cards?**\
   When you subscribe to Xumm Pro (Beta), you will receive two free Xumm (Tangem) cards with your order.(Note: Not all countries are eligible to receive the cards due to customs restrictions.) [**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)\
