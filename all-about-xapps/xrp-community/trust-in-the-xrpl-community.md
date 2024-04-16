@@ -8,7 +8,7 @@ The XRPL community is made up of a vast network of users, developers, businesses
 
 ### How can I trust anyone?
 
-It can be very difficult to actually trust someone in any community. In the case of a developer, you might trust their code or you might trust their intentions, but when it comes to software, there are so many variables and unknown factors. (ie. issues with dependencies or 3rd party libraries.) The same applies to business or tokens issuers. They might have a great business plan and a wonderful marketing strategy but that is no guarantee of success. Take us for example... &#x20;
+To start, if you own XRP, you already trust the XRP Ledger community. The XRPL is a decentralized blockchain that is run It can be very difficult to actually trust someone in any community. In the case of a developer, you might trust their code or you might trust their intentions, but when it comes to software, there are so many variables and unknown factors. (ie. issues with dependencies or 3rd party libraries.) The same applies to business or tokens issuers. They might have a great business plan and a wonderful marketing strategy but that is no guarantee of success. Take us for example... &#x20;
 
 ### Is Xaman Trust Worthy?
 
