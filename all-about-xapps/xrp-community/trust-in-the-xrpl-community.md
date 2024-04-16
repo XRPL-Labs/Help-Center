@@ -4,7 +4,11 @@ description: How to figure out who to trust in community
 
 # Trust in the XRPL Community
 
-The XRPL community is made up of a vast network of users, developers, businesses and investors. It has been around for over a decade and it continues to grow and prosper. Unfortunately not all members of the community are trust worthy so it is important to make sure you are vetting the businesses and applications you use. Here are some suggestions and frequently asked questions which should help get you going in the right direction.
+The XRPL community is made up of a vast network of users, developers, businesses and investors. Even though it has been around for over a decade and it continues to grow and prosper it is important to make sure you are vetting the businesses and applications you use. Here are some suggestions and frequently asked questions which should help get you going in the right direction.
+
+### How can I trust anyone?
+
+It can be very difficult to actually trust someone in our community. In the case of a developer, you might trust their code or trust their intentions, but when it comes to software, there are so many variables and unknown factors. (Even developers might not be aware of issues with dependencies or 3rd party libraries.) The same applies to business or tokens issuers.&#x20;
 
 ### Is Xaman Trust Worthy?
 
