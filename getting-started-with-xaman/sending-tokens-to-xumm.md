@@ -48,7 +48,7 @@ Here's how to do that:
 
 After we follow the instructions in the above article, we now have two Trust Lines configured. Here is how Xaman looks after we create the EUR Trust Line.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Trust Line list.png" alt=""><figcaption></figcaption></figure>
 
 ### **Each Trust Line has its own r-address…**
 
