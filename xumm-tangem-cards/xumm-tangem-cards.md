@@ -63,21 +63,27 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
   You can purchase the cards via our website:\
   [https://xrpl-labs.com/tangem/pricing](https://xrpl-labs.com/tangem/pricing)\
   \
-  or via Xumm:\
+  or via Xaman:\
   [https://xumm.app/detect/xapp:xumm.tangem-order](https://xumm.app/detect/xapp:xumm.tangem-order)
 
-
+{% hint style="warning" %}
+Note: Due to the increase in shipping costs, we no longer include free shipping for the cards. Shipping costs will be calculated when you claim your cards and you will be responsible for paying for them separately. **Free shipping is not included in the price of Xaman Pro.**
+{% endhint %}
 
 * **Xumm Pro (Beta) is a paid subscription, do I need Pro to use Xumm (Tangem) cards?**\
-  When you subscribe to Xumm Pro (Beta), you will receive two free Xumm (Tangem) cards with your order.(Note: Not all countries are eligible to receive the cards due to customs restrictions.) [**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)\
-  &#x20;
+  When you subscribe to Xumm Pro (Beta), you will receive two free Xumm (Tangem) cards with your order. (Note: Not all countries are eligible to receive the cards due to customs restrictions.) [**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)
+
+{% hint style="warning" %}
+Note: Due to the increase in shipping costs, we no longer include free shipping for the cards. Shipping costs will be calculated when you claim your cards and you will be responsible for paying for them separately. **Free shipping is not included in the price of Xaman Pro.**
+{% endhint %}
+
 * **Can I extract or backup the secret / private key from my Xumm (Tangem) card?**\
-  No, you cannot. The secret / private key of a Xumm (Tangem) card is stored safely inside the chip in the card. The card can only sign for you, it will **never expose the secret / private key**. While you cannot extract & backup the secret / private key of the card, **Xumm can setup a recovery account, and attach the recovery account to your Xumm (Tangem) card account.** Using this recovery account, you will be able to regain access to your funds in case of a lost, stolen or damaged card.\
+  No, you cannot. The secret / private key of a Xumm (Tangem) card is stored safely inside the chip in the card. The card can only sign for you, it will **never expose the secret / private key**. While you cannot extract & backup the secret / private key of the card, **Xaman can setup a recovery account, and attach the recovery account to your Xumm (Tangem) card account.** Using this recovery account, you will be able to regain access to your funds in case of a lost, stolen or damaged card.\
   \
   See: [**How to use the Tangem Backup xApp**](how-to-configure-a-backup-signing-account.md)\
   &#x20;
 * **How is the Xumm (Tangem) card protected? Can someone else use my card if they have physical access?**\
-  Xumm will allow you to setup a PIN / Password **on** your card. If you do so, signing transactions with your card also requires that you to enter the PIN / Password. This will protect you against physical access attacks, as one not only needs your card, but your PIN / Password as well.\
+  Xaman will allow you to setup a PIN / Password **on** your card. If you do so, signing transactions with your card also requires that you to enter the PIN / Password. This will protect you against physical access attacks, as one not only needs your card, but your PIN / Password as well.\
   If you did not configure a PIN / Password on your card, anyone with physical access to the card can move all your funds.\
   &#x20;\
   See: [**Creating a pin on your card**](creating-a-pin-on-your-xumm-tangem-card.md)\
