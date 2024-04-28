@@ -42,21 +42,15 @@ Here is a summary on how we recommend that you configure the cards:
 
 1\) Import **both** cards into Xaman. (This will create a new XRP Ledger account on each card.)
 
-{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
-[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
-{% endcontent-ref %}
+{% embed url="https://help.xumm.app/app/getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card" %}
 
 2\) Activate one of the cards with 10 XRP.  (The second card does not need to be activated.)
 
-{% content-ref url="../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/" %}
-[how-to-activate-a-new-xrpl-account](../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/)
-{% endcontent-ref %}
+{% embed url="https://help.xumm.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account" %}
 
 3\) Configure the second card to be a backup for the activated card.&#x20;
 
-{% content-ref url="how-to-configure-a-backup-signing-account.md" %}
-[how-to-configure-a-backup-signing-account.md](how-to-configure-a-backup-signing-account.md)
-{% endcontent-ref %}
+{% embed url="https://help.xumm.app/app/xumm-tangem-cards/how-to-configure-a-backup-signing-account" %}
 
 4\) Move your existing funds (XRP and any other assets) from your existing XRPL account to your new card account.
 
@@ -66,19 +60,15 @@ Here is a summary on how we recommend that you configure the cards:
 
 ### A little bit more information
 
-#### Make a backup card
 
-This is the main reason we send you two cards. We want you to create a "backup" card so you can still access your funds if your primary card is ever lost, stolen or damaged. Check out this article on how to do this:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm (Tangem) card backup</td><td></td><td></td><td><a href="../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td><td><a href="how-to-configure-a-backup-signing-account.md">how-to-configure-a-backup-signing-account.md</a></td></tr></tbody></table>
+**Create a pin on your backup card**
 
-#### Create a pin on your backup card
-
-If you decide to follow our first recommendation, creating a pin on your backup card is an extra security feature which makes sense to help protect your funds. Each Xumm card offers the ability to create a pin code which will need to be entered before you can sign a transaction using the card. If your card were ever stolen, a pin will help keep the card from being used by unauthorized people.
+For extra security, consider creating a pin code on you card.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Creating a pin on your card</td><td></td><td></td><td><a href="../.gitbook/assets/Waterfall.png">Waterfall.png</a></td><td><a href="creating-a-pin-on-your-xumm-tangem-card.md">creating-a-pin-on-your-xumm-tangem-card.md</a></td></tr></tbody></table>
 
-#### Read the following article
+#### Brush up on your security practices
 
 We have compiled a set of suggestions on how to use your Xumm (Tangem) cards. A sort of "Do's and Don'ts" list of things to avoid and things to try to practice when it comes to your cards.
 
@@ -90,7 +80,7 @@ We have compiled a set of suggestions on how to use your Xumm (Tangem) cards. A 
 
 The ideal way to configure the cards is to:
 
-* Import two Xumm cards into Xumm
+* Import two Xumm cards into Xaman
 * Create a Primary and Signing account, then link them together using the Tangem Backup xApp.
 * Move the majority of your assets to the Primary account, then put the card into a safe, secure storage location.
 
