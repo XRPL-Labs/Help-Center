@@ -143,7 +143,7 @@
 
 ## Xumm Pro beta
 
-* [😎 What is Xumm Pro?](xumm-pro-beta/all-about-xumm-pro/what-is-xumm-pro.md)
+* [😎 What is Xaman Pro?](xumm-pro-beta/all-about-xumm-pro/what-is-xumm-pro.md)
 * [How to subscribe to Xumm Pro](xumm-pro-beta/how-to-subscribe-to-pro.md)
 * [Features of Pro](xumm-pro-beta/features-of-pro.md)
   * [Profiles](xumm-pro-beta/features-of-pro/profiles.md)
