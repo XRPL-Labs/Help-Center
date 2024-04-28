@@ -21,9 +21,9 @@ This is for the person who wants an easy way to get started on the XRP Ledger, f
 
 ### Top three reasons you'll like this
 
-* No KYC required - You can purchase up to $50 USD along with the cards and you don't have to go through the KYC process!
+* No KYC required - You can purchase up to $50 USD (plus shipping) along with the cards and you don't have to go through the KYC process!
 * Safe - The cards are not shipped with an r-address, which means you don't have to worry your account has been accessed on route.
-* Convenient - One place to go to purchase the cards and XRP. Easy to use as a gift.
+* Convenient - One place to go to purchase the cards and XRP. It is easy to use as a gift.
 
 ### How much XRP can you purchase?
 
@@ -37,9 +37,13 @@ So,  Base reserve = 10 XRP x 1 USD each = 10 USD\
 &#x20;      Additional 50 USD x 1 USD per XRP - 50 XRP\
 &#x20;      Total = You would receive 60 XRP for the cost of 60 USD.
 
-### Can I order them with Xumm Pro?
+### Can I order them with Xaman Pro?
 
-All cards orders come with Xumm Pro, unless you already have a Pro subscription. For those who already have Xumm Pro, the app will detect this and Pro will **not** be included with your purchase.
+The first time you order the cards, they come with a free subscription to Xaman Pro.
 
+For those who already have Xaman Pro, the app will detect this and Pro will **not** be included with your purchase.
 
+### Why are shipping costs so high?
+
+Over the last couple of years, the cost to ship the cards has more than doubled. We are in the process of considering other shipping methods, but so far, there is no economical way to ship them around the world. The shipping costs include packaging, processing fees and any special fees levied by our shipping company.&#x20;
 
