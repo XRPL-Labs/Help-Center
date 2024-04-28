@@ -24,9 +24,9 @@ The main functions of a Xumm card are:
 
 There are multiple use cases and ways to configure the cards, but the core feature of a card is that it allows you to sign transactions on the XRPL account that the card creates.
 
-Keep in mind, since the account secret is stored on the card, this means that the only way you can sign transactions on the card's account, is if you **physically have** the card. While this feature certainly improves security, for some people it might be considered less convenient than a regular XRPL account. (Without the card, you can't interact with the XRPL.)
-
-We make a couple of recommendations below which you should review to better understand this.
+{% hint style="info" %}
+Since an account secret is generated and stored on each card, the only way you can sign transactions on the card's account, is if you **physically have** the card.&#x20;
+{% endhint %}
 
 ### What the cards are not for...
 
@@ -36,17 +36,35 @@ The cards **can not** be used:
 * at an ATM or bank machine.&#x20;
 * as a debit card or a credit card.
 
-### Existing XRPL accounts
+### Our recommendation
 
-Most people will already have an existing XRP Ledger account and may not be sure how to integrate their existing accounts with their new Xumm cards. While this is possible to integrate the cards with existing accounts, it is not advised. Integrating hardware wallet accounts and software wallet accounts is not ideal.
+Here is a summary on how we recommend that you configure the cards:
 
-For more information about this, please refer to this article:
+1\) Import **both** cards into Xaman. (This will create a new XRP Ledger account on each card.)
 
-{% content-ref url="how-to-link-an-existing-account-to-a-xumm-card.md" %}
-[how-to-link-an-existing-account-to-a-xumm-card.md](how-to-link-an-existing-account-to-a-xumm-card.md)
+{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
-### Our recommendations...
+2\) Activate one of the cards with 10 XRP.  (The second card does not need to be activated.)
+
+{% content-ref url="../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/" %}
+[how-to-activate-a-new-xrpl-account](../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/)
+{% endcontent-ref %}
+
+3\) Configure the second card to be a backup for the activated card.&#x20;
+
+{% content-ref url="how-to-configure-a-backup-signing-account.md" %}
+[how-to-configure-a-backup-signing-account.md](how-to-configure-a-backup-signing-account.md)
+{% endcontent-ref %}
+
+4\) Move your existing funds (XRP and any other assets) from your existing XRPL account to your new card account.
+
+5\) Decide what to do with your existing account. (Discussed below)
+
+
+
+### A little bit more information
 
 #### Make a backup card
 
@@ -106,7 +124,11 @@ Some people prefer to have multiple XRPL accounts for different functions. For e
 
 Other people prefer to have one account to manage all their XRP Ledger activity. Once you decide on your plans for the XRPL. you can decide what to do with your account(s).
 
-If you like, you can contact us via the Xumm Support xApp to discuss you plans.
+For more information about this, please refer to this article:
+
+{% content-ref url="how-to-link-an-existing-account-to-a-xumm-card.md" %}
+[how-to-link-an-existing-account-to-a-xumm-card.md](how-to-link-an-existing-account-to-a-xumm-card.md)
+{% endcontent-ref %}
 
 ### Summary
 
