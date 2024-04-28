@@ -141,21 +141,21 @@
   * [Balance Adjustment](all-about-xapps/xahau-xapps/balance-adjustment.md)
   * [XAH Teleport](all-about-xapps/xahau-xapps/xah-teleport.md)
 
-## Xumm Pro beta
+## Xaman Pro beta
 
-* [😎 What is Xaman Pro?](xumm-pro-beta/all-about-xumm-pro/what-is-xumm-pro.md)
-* [How to subscribe to Xumm Pro](xumm-pro-beta/how-to-subscribe-to-pro.md)
-* [Features of Pro](xumm-pro-beta/features-of-pro.md)
-  * [Profiles](xumm-pro-beta/features-of-pro/profiles.md)
-    * [All about Profiles](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/all-about-profiles.md)
-    * [What is PayString?](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/what-is-paystring.md)
-    * [Setting up your Xumm Profile](xumm-pro-beta/all-about-xumm-pro/features-of-pro/profiles/setting-up-your-xumm-profile.md)
-  * [Push notifications](xumm-pro-beta/features-of-pro/push-notifications.md)
-  * [Accounts](xumm-pro-beta/features-of-pro/accounts.md)
-  * [Xumm App early access](xumm-pro-beta/features-of-pro/xumm-app-early-access.md)
-  * [Free Tangem Card](xumm-pro-beta/features-of-pro/free-tangem-card.md)
-  * [Premium Support](xumm-pro-beta/features-of-pro/premium-support.md)
-  * [Vanity addresses](xumm-pro-beta/features-of-pro/vanity-addresses.md)
+* [😎 What is Xaman Pro?](xaman-pro-beta/what-is-xumm-pro.md)
+* [How to subscribe to Xaman Pro](xaman-pro-beta/how-to-subscribe-to-pro.md)
+* [Features of Pro](xaman-pro-beta/features-of-pro/README.md)
+  * [Profiles](xaman-pro-beta/features-of-pro/profiles/README.md)
+    * [All about Profiles](xaman-pro-beta/features-of-pro/profiles/all-about-profiles.md)
+    * [What is PayString?](xaman-pro-beta/features-of-pro/profiles/what-is-paystring.md)
+    * [Setting up your Xumm Profile](xaman-pro-beta/features-of-pro/profiles/setting-up-your-xumm-profile.md)
+  * [Push notifications](xaman-pro-beta/features-of-pro/push-notifications.md)
+  * [Accounts](xaman-pro-beta/features-of-pro/accounts.md)
+  * [Xumm App early access](xaman-pro-beta/features-of-pro/xumm-app-early-access.md)
+  * [Free Tangem Card](xaman-pro-beta/features-of-pro/free-tangem-card.md)
+  * [Premium Support](xaman-pro-beta/features-of-pro/premium-support.md)
+  * [Vanity addresses](xaman-pro-beta/features-of-pro/vanity-addresses.md)
 
 ## Security and Xaman
 

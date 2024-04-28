@@ -19,7 +19,7 @@ For example, if you want send XRP to your account, you would send it to your r-a
 <figure><img src="../.gitbook/assets/Main scree - r-address.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Of course, your r-address will be different than our r-address. Our account is a [Vanity r-address](../xumm-pro-beta/features-of-pro/vanity-addresses.md).
+Of course, your r-address will be different than our r-address. Our account is a [Vanity r-address](../xaman-pro-beta/features-of-pro/vanity-addresses.md).
 {% endhint %}
 
 The second thing to know as that you **can not receive tokens** unless you have configured a Trust Line for those tokens.

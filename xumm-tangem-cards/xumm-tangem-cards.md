@@ -71,7 +71,7 @@ Note: Due to the increase in shipping costs, we no longer include free shipping 
 {% endhint %}
 
 * **Xumm Pro (Beta) is a paid subscription, do I need Pro to use Xumm (Tangem) cards?**\
-  When you subscribe to Xumm Pro (Beta), you will receive two free Xumm (Tangem) cards with your order. (Note: Not all countries are eligible to receive the cards due to customs restrictions.) [**How to subscribe to Xumm Pro Beta 🎉**](../xumm-pro-beta/how-to-subscribe-to-pro.md)
+  When you subscribe to Xumm Pro (Beta), you will receive two free Xumm (Tangem) cards with your order. (Note: Not all countries are eligible to receive the cards due to customs restrictions.) [**How to subscribe to Xumm Pro Beta 🎉**](../xaman-pro-beta/how-to-subscribe-to-pro.md)
 
 {% hint style="warning" %}
 Note: Due to the increase in shipping costs, we no longer include free shipping for the cards. Shipping costs will be calculated when you claim your cards and you will be responsible for paying for them separately. **Free shipping is not included in the price of Xaman Pro.**

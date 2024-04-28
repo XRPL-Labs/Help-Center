@@ -1,20 +1,20 @@
 ---
-description: How to subscribe to Xumm Pro (Beta)
+description: How to subscribe to Xaman Pro (Beta)
 ---
 
-# How to subscribe to Xumm Pro
+# How to subscribe to Xaman Pro
 
 ### Summary
 
-Thank you for your interest Xumm Pro! 🤗
+Thank you for your interest Xaman Pro! 🤗
 
-Xumm Pro is a paid subscription service which provides additional features to the Xaman wallet.
+Xaman Pro is a paid subscription service which provides additional features to the Xaman wallet.
 
-A subscription to Xumm Pro costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit card**.** (This subscription lasts for **1 year** at which time you will be given the option to renew your subscription.)
+A subscription to Xaman Pro costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit card**.** (This subscription lasts for **1 year** at which time you will be given the option to renew your subscription.)
 
 ### Options
 
-There are two ways to subscribe to Xumm Pro, based on how you would like to pay. (Via credit card or with XRP.
+There are two ways to subscribe to Xaman Pro, based on how you would like to pay. (Via credit card or with XRP.
 
 Paying with XRP is by far the better option. It allows you to pay instantly, gets you immediate access to Pro, is less expensive ($60 vs. $70) and you can pay directly from Xaman!
 
@@ -51,11 +51,11 @@ Then sign the transaction with Xaman:
 <figure><img src="../.gitbook/assets/Xumm Pro - Completed transaction.png" alt=""><figcaption></figcaption></figure>
 
 4a) If you are on a desktop computer, click the **Open Pro** button and scan the QR code with Xaman.\
-4b) If you are on a phone, tap the **Open Pro** button and Xumm Pro should launch.
+4b) If you are on a phone, tap the **Open Pro** button and Xaman Pro should launch.
 
 ### **Paying with a credit card (or XRP)**
 
-If you would like to pay for your Xumm Pro subscription using a credit card, you will need to go through our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order). The Get cards xApp takes you through the process of ordering our [Xumm cards](../xumm-tangem-cards/xumm-tangem-cards.md), after which you will receive an email link  granting you access to Xumm Pro.
+If you would like to pay for your Xaman Pro subscription using a credit card, you will need to go through our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order). The Get cards xApp takes you through the process of ordering our [Xumm cards](../xumm-tangem-cards/xumm-tangem-cards.md), after which you will receive an email link  granting you access to Xumm Pro.
 
 1\) Launch Xaman, then press the **xApps** button (on the bottom of the main screen) then choose **Get cards**.
 
@@ -104,22 +104,30 @@ After you fill out the form, press the **Next** button.\
 
 ### Frequently asked questions
 
+#### How much does it cost to have the cards shipped to me?
+
+The shipping costs for the cards will be calculated when you claim the cards. The shipping costs include packaging, processing fees and any special fees levied by our shipping company.
+
+#### Why does it cost so much to have the cards shipped to me?
+
+Over the last couple of years, the cost to ship the cards has more than doubled. We are in the process of investigating other shipping methods, but so far, there is no economical way to ship them around the world.&#x20;
+
 #### When will the cards be shipped?
 
 Most card orders are usually packaged and shipped out the next business day.&#x20;
 
-#### &#x20;I purchased my order with a credit card but Pro is not working.
+#### I purchased my order with a credit card but Pro is not working.
 
-Once your cards are shipped, you will receive an email with an Xumm Pro activation link. You will need to tap on the link to activate Pro on your device. Keep in mind, orders usually ship the next business day so you might have to wait for a day before your receive the email.
+Once your cards are shipped, you will receive an email with an Xaman Pro activation link. You will need to tap on the link to activate Pro on your device. Keep in mind, orders usually ship within one or two business days so if you order on the weekend you might have to wait for a day before your receive the email.
 
-#### If I don't like Xumm Pro can I get a refund?
+#### If I don't like Xaman Pro can I get a refund?
 
-Unfortunately we do not offer refunds on the cards or on Xumm Pro subscriptions. (They are a package deal.) Due to the high cost of shipping, the cost associated with services like KYC and the nature of the cards (they generate a key pair upon first use), refunds are just not possible.
+Unfortunately we do not offer refunds on the cards or on Xaman Pro subscriptions. (They are a package deal.) Due to the high cost of shipping, the cost associated with services like KYC and the nature of the cards (they generate a key pair upon first use), refunds are just not possible.
 
-#### Where can I learn more about Xumm Pro's features?
+#### Where can I learn more about Xaman Pro's features?
 
-For a more in depth look into Xumm Pro, please review this article:
+For a more in depth look into Xaman Pro, please review this article:
 
-{% content-ref url="all-about-xumm-pro/what-is-xumm-pro.md" %}
-[what-is-xumm-pro.md](all-about-xumm-pro/what-is-xumm-pro.md)
+{% content-ref url="what-is-xumm-pro.md" %}
+[what-is-xumm-pro.md](what-is-xumm-pro.md)
 {% endcontent-ref %}
