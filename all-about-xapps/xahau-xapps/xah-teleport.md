@@ -95,5 +95,17 @@ You can only send XAH to the **same account** r-address on the other network.\
 ie. rStargateYHGUdFGeusi34tr on the the XRP Ledger to rStargateYHGUdFGeusi34tr on the Xahau network and vice versa.
 {% endhint %}
 
+#### What if I encounter this screen?
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+The, "The payload is not available on the network you are connect with" message means that you are not connected to the correct network.
+
+If you would like to send XAH tokens from the XRP Ledger to the Xahau network, you have to be on the XRPL network to begin the process.
+
+If you would like to send XAH coins the Xahau network to the XRPL, you have to be on the Xahau network to begin the process.
+
+Fortunately, you just need to tap the 'Switch network' button and switch networks and you should be able to proceed.
+
 
 

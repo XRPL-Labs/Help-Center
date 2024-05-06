@@ -24,9 +24,25 @@ Some people have figured out that they can combine the low fees of the XRPL with
 
 By doing this, they can get their “message” out to thousands of people at a very low cost.
 
+### **How it looks in Xaman**
+
+If you look in the Events log in Xaman (formerly Xumm), you will see something like this:
+
+<figure><img src="../.gitbook/assets/events list.png" alt=""><figcaption></figcaption></figure>
+
+Notice the red triangle with the exclamation mark. This indicates a spam transaction.
+
 ### **Why do token issuers send spam?**
 
-It is simply a marketing ploy to get you to participate in their project. People who send unsolicited transactions on the XRPL are trying to get you to buy their token or their NFT, or whatever it is that they are promoting. Legitimate projects do not send unsolicited transactions across public networks.
+In many cases, i is simply a marketing ploy to get you to participate in their project. People who send unsolicited transactions on the XRPL are trying to get you to buy their token or their NFT, or whatever it is that they are promoting.
+
+In other cases, they are trying to scam you. Check out this spam transaction:
+
+<figure><img src="../.gitbook/assets/Scam transaction.png" alt=""><figcaption></figcaption></figure>
+
+If you were to follow the instructions in the Memo field, you would certainly be scammed.
+
+Legitimate projects do not send unsolicited transactions across public networks.
 
 ### **What can I do about spam on the XRPL?**
 
@@ -34,31 +50,31 @@ Some people who receive spam, take it upon themselves to contact the scam token 
 
 Others take to social media to condemn the token issuers and warn others not to participate.
 
-Most people simply ignore the transactions though and we advise you to do this as well.
+Most people simply ignore the transactions. We advise you to do this as well.
 
-### **Can I delete the transaction from Xumm?**
+### **Can I delete the transaction from Xaman?**
 
-Nobody can delete a transaction from the XRP Ledger or from Xumm. If it exists on the XRPL, Xumm will display it.
+Nobody can delete a transaction from the XRP Ledger or from Xaman (formerly Xumm). If it exists on the XRPL, Xaman will display it.
 
 ### **Do these spam transactions cost me XRP?**
 
-No. It costs the sender to send them. The sender pays the XRPL transaction fees, not you.
+No. It costs the **sender** to send them. The sender pays the XRPL transaction fees, **not** you.
 
 ### **Should I return the tokens to them?**
 
-That is completely up to you. These spammers **want** to get some sort of reply from you. That way they know you are reading their messages. Once you reply, they will most likely send you **targeted** messages and perhaps even try to convince you to purchase their token or get you to send them your private keys. There is no telling what their intentions are.
+That is completely up to you. These spammers **want** to get some sort of reply from you. That way they know you are reading their messages. Once you reply, it is possible that they will send you **targeted** messages. There is no telling what their intentions are. We recommend that you ignore them.
 
 ### **If I return it will I be charged a transaction fee?**
 
-Yes. The XRPL automatically charges transaction fees in order to process transactions. It **will cost you XRP** to send the funds back to them.
+Yes. The XRPL automatically charges transaction fees in order to process transactions. It **will cost you XRP** to send the tokens back to them.
 
 ### **Can they access my account in any way?**
 
-Absolutely not. No one can access you XRPL account unless they know your account secret. (Secret numbers / Family seed / Mnemonic) As long as you keep your account secret safe and secure, your funds are safe. The only way someone can access your XRPL account is if you give them your account secret. See this article for more information:
+Absolutely not. No one can access your XRPL account unless they know your account secret. (Secret numbers / Family seed / Mnemonic) As long as you keep your account secret safe and secure, your funds are safe. The only way someone can access your XRPL account is if you give them your account secret. See this article for more information:
 
 * [How secure is Xumm?](https://support.xumm.app/hc/en-us/articles/4427109779986)
 
-### **I clicked on the memo in a transaction. Am I in any danger?**
+### **I clicked the transaction to view it, am I in any danger?**
 
 No. Reviewing a transaction on the XRPL is not dangerous. The only way someone can access your XRPL account is if they get access to your account secret. See this article for more information:
 
@@ -66,17 +82,19 @@ No. Reviewing a transaction on the XRPL is not dangerous. The only way someone c
 
 ### **How did they get my r-address? I’ve been very careful who I’ve interacted with in the XRP community…**
 
-Since the XRP Ledger is a public blockchain, there are many ways to get a list of random r-addresses. If you have created a Trust Line or sent funds to/from a crypto exchange, or participated in an airdrop, your r-address can be filtered and obtained.
+The XRP Ledger is a public blockchain. There are many ways to get a list of random r-addresses. If you have created a Trust Line or sent funds to/from a crypto exchange, or participated in an airdrop, or even if you activated an account, your r-address can be filtered and obtained.&#x20;
 
-There’s currently no way of preventing this from happening so all addresses can potentially be spammed.
+Here is an example:
 
-### **How does Xumm handle spam?**
+<figure><img src="../.gitbook/assets/scam transaction1.png" alt=""><figcaption></figcaption></figure>
 
-We have numerous ways of identifying spam including searching the XRP Ledger for token issuers who send multiple transactions with memos. When we find accounts that appear to be sending spam, we analyse the history of the account, immediately suppress the memo field and add a notification indicating the transaction may be dangerous. As well, for our [**Xumm Pro**](https://support.xumm.app/hc/en-us/articles/6138022550418) users, the push notifications are suppressed so you are not notified when the spam transactions arrive in your account.
+In this case, a person has just activated their account and suddenly they receive a spam transaction advertising a website.
 
-### **Is Xumm working on some way to fix this?**
+Legitimate projects do not send unsolicited transactions across public networks.
 
-We certainly are! Here is a sneak peek of what we are working on…
+There is currently no way of preventing this from happening on the XRP Ledger.
 
-* We are considering a proposal to amend the XRPL. If transactions with long memos were subjected to escalating fees, it would make it more far more expensive for people to spam the network. It could still be done, but the amendment would make it prohibitively expensive.
-* We have been developing a project that we call **Hooks**. (Hooks are basically smart contracts on the XRPL.) If Hooks makes it to the XRPL (via an amendment), people will be able to install a “hook” that would filter out spam transactions. Think of it like a firewall that would block “shady” or questionable transactions.
+### **How does Xaman handle spam?**
+
+We have numerous ways of identifying spam on the XRPL. When we find accounts that appear to be sending spam, we analyze the history of the account, immediately suppress the memo field and add a notification indicating the transaction may be dangerous. As well, for our [**Xaman Pro**](https://support.xumm.app/hc/en-us/articles/6138022550418) users, the push notifications are suppressed so you are not notified when the spam transactions arrives in your account.
+

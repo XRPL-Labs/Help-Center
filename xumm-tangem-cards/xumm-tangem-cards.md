@@ -33,12 +33,10 @@ Because the chip inside a Xumm (Tangem) card generates and holds the (non-extrac
 ### &#x20;Frequently asked Questions
 
 * **What's the typical use case for a Xumm (Tangem) card?**\
-  Your Xumm Tangem card has its own r-address. It's a separate XRP Ledger account. Xumm, in combination with your Xumm Tangem card, enables all XRPL features. The most common use case would be to use two XRP Ledger accounts: one for receiving funds & daily spending and one for your savings. Your daily spending account in Xumm (as read/write account), and your savings account using a Xumm (Tangem card). When you want to top up your spending account, you use your Xumm Tangem card to sign a transaction from your savings account to your spending account. When your spending account has a higher balance than you're comfortable with, you simply use Xumm to send some of your funds to your Xumm (Tangem) card account.\
+  Your Xumm card has its own r-address. It's a separate XRP Ledger account. Xaman, in combination with your Xumm card, enables you to use all features on the XRPL. The most common use case would be to use two XRP Ledger accounts: one for receiving funds & daily spending and one for your savings. Your daily spending account in Xaman (as read/write account), and your savings account using a Xumm card. When you want to top up your spending account, you use your Xumm card to sign a transaction from your savings account to your spending account. When your spending account has a higher balance than you're comfortable with, you simply use Xaman to send some of your funds to your Xumm card account.\
   &#x20;
 * **Can I use a Xumm (Tangem) card in an ATM / payment terminals?**\
-  No, you cannot. While all Tangem cards feature a bank grade secure chip, the chip is programmed to work only for crypto-currencies with Apps supporting the cards. ATM's and retail payment terminals **will not recognize** a Xumm (Tangem) card.
-
-
+  No, you cannot. While all Tangem cards feature a bank grade secure chip, the chip is programmed to work only for crypto-currencies with Apps supporting the cards. ATM's and retail payment terminals **will not recognize** a Xumm (Tangem) card.\
 
 * **Can I use a Xumm Tangem card to pay bills, buy things in a store or pay for services?**\
   This all depends if the business supports the XRP Ledger.  For example, if you have a debit card and you go into a store that only accepts cash, you can not use your debit card to pay for items in that store. Some stores will allow you to pay with your debit card, but some stores will not. The same applies to the XRP Ledger. If the business accepts XRP as a form of payment, you can certainly pay using the Xumm (Tangem) cards.\
