@@ -8,25 +8,27 @@ description: Re-keying an existing account to a Xumm card
 
 Most people who purchase the cards already have an existing XRP Ledger account and when they get their new cards, they want to 'link' them to their existing account. The thinking is that the cards will either be a 'backup' to their existing account(s) or that the cards should work together with their existing accounts.
 
-You need to decide how you plan to manage your XRP Ledger accounts and why you purchased the cards.
+While it is easy to configure the cards this way, you should consider how you plan to manage your XRP Ledger accounts and why you purchased the cards.
 
-The cards have three main features:
+The cards have two main features:
 
-1\) Each card generates a brand new XRP Ledger account by creating a new account secret and storing it on the card. The new account secret can not be accessed or viewed.&#x20;
+1\) Each card generates a brand new XRP Ledger account by creating a new account secret and storing it on the card. The new account secret can not be accessed or viewed and is no 'online'.&#x20;
 
-2\) In order to access the new XRPL account that a card generates, you must have the card in your possession. If you don't have the card, you can not access the account. This makes it very, very secure.
-
-3\) You&#x20;
+2\) In order to access the new XRPL account that a card generates, you must have the card in your possession. If you don't have the card, you can not access the account. This makes the new card account very, very secure.
 
 ### Xumm card (Hardware wallet) vs Xaman (Software wallet)
 
-Hardware wallets are largely about **long term storage** of your assets.
+Hardware wallets are largely about **long term storage** of your assets. The Xumm cards are hardware wallets.
 
-A hardware wallet stores the  private keys for an XRP Ledger account on a device that is not connected to the internet. Transactions can only be signed on the XRPL account if the signer is in possession of the hardware device. Storing private keys 'offline' limits some potential attack vectors on an account.
+A hardware wallet stores the  private keys for an XRP Ledger account on a device that is not connected to the internet. (ie. the Xumm cards) Transactions can only be signed on the XRPL account if the signer is in possession of the hardware device. Storing private keys 'offline' limits some potential attack vectors on an account.
 
-Xaman is largely about enabling interaction with the XRP Ledger ecosystem.
+Xaman is a software wallet and is largely about enabling interaction with the XRP Ledger ecosystem.
 
 Xaman stores the private keys for an XRP Ledger account on a mobile device. (Which is presumably connected to the internet at various times.) It allows a user to sign transactions on their XRPL account via their phone. By storing private keys on a device that is 'on line', it exposes an account to other types of potential attack vectors.&#x20;
+
+
+
+
 
 
 
