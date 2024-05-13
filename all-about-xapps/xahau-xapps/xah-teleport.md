@@ -107,5 +107,13 @@ If you would like to send XAH coins the Xahau network to the XRPL, you have to b
 
 Fortunately, you just need to tap the 'Switch network' button and switch networks and you should be able to proceed.
 
+#### Can I activate my account using Teleport? send my XAH from my account to a different account?
+
+No. Your Xahau must be activated prior to using the XAH Teleport xApp.
+
+You can activate your Xahau for free by following the instructions in this article:
+
+{% embed url="https://help.xumm.app/app/xahau/activating-a-xahau-account" %}
+
 
 
