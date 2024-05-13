@@ -6,7 +6,29 @@ coverY: 0
 
 # How to remove a Trust Line
 
-#### How do I remove an empty Trust Line?
+#### Before removing a Trust Line
+
+Before you can remove a Trust Line, it must be empty. (This means that the Trust Line can not contain any tokens.) If you need help getting rid of tokens in your Trust Line, skip down to the section on using Token Trasher.)
+
+#### Removing a Trust Line with Xaman
+
+Xaman provides a way to remove Trust Lines in the application.
+
+1\) In Xaman, tap the Trust Line. (In this example, we are removing the Elysian Trust Line.)
+
+<figure><img src="../../../.gitbook/assets/Trust Line - Removal 1.png" alt=""><figcaption></figcaption></figure>
+
+2\) Press the '**Remove token**' button.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Trust Line - Removal (1).png" alt=""><figcaption></figcaption></figure>
+
+3\) Press the '**Yes, I'm sure**' button.
+
+<figure><img src="../../../.gitbook/assets/Trust Line - Removal 2.png" alt=""><figcaption></figcaption></figure>
+
+4\) Sign the transaction is Xaman.
+
+#### How do I remove an empty Trust Line using Token Trasher?
 
 When you launch the Token Trasher xApp, you should see a list of the Trust Lines in your account:
 
@@ -26,4 +48,3 @@ Token Trasher will craft a transaction to remove the Trust Line and display it f
 
 <figure><img src="../../../.gitbook/assets/Token Trasher -3.png" alt=""><figcaption></figcaption></figure>
 
-#### Who do I contact for help?
