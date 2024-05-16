@@ -2,11 +2,11 @@
 description: Re-keying an existing account to a Xumm card
 ---
 
-# How to link an existing account to a  Xumm card
+# How to link an existing account to a Xumm card
 
 ### Why would I want to do this? <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
-Most people who purchase the cards already have an existing XRP Ledger account and when they get their new cards, they want to 'link' them to their existing account. The thinking is that the cards will either be a 'backup' to their existing account(s) or that the cards should work together with their existing accounts.
+Most people who purchase the cards already have an existing XRP Ledger account, sod when they get their new cards, they want to 'link' them to their existing account. The idea is that the cards will either be a 'backup' to their existing account(s) or that the cards should work together with their existing accounts.
 
 While it is easy to configure the cards this way, you should consider how you plan to manage your XRP Ledger accounts and why you purchased the cards.
 
