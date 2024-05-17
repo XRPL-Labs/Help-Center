@@ -35,3 +35,20 @@ There are several crypto exchanges in the blockchain space which sell XRP. Some 
 
 Furthermore, just because we have provided a list of exchanges, it does not mean that we support or endorse any of them in any way. It is entirely up to you to decide which crypto exchange you use.
 {% endhint %}
+
+
+
+### Frequently Asked questions
+
+#### Didn't Xaman offer an On/Off Ramp solution at one point?
+
+Yes, but unfortunately it has been discontinued.
+
+Please see this article for more information:
+
+
+
+####
+
+Yes.
+
