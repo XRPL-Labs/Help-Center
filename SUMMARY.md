@@ -36,6 +36,7 @@
   * [BTCDirect](getting-started-with-xaman/buying-xrp/btcdirect.md)
   * [Guardarian](getting-started-with-xaman/buying-xrp/guardarian.md)
   * [Topper](getting-started-with-xaman/buying-xrp/topper.md)
+  * [Xaman On/Off Ramp](getting-started-with-xaman/buying-xrp/xaman-on-off-ramp.md)
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xumm.md)
 * [Sending tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
 * [How to convert a Read only account to Full Access](getting-started-with-xaman/how-to-convert-a-read-only-account-to-full-access.md)
@@ -108,7 +109,7 @@
 * [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
 * [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md)
 * [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
-* [How to link an existing account to a  Xumm card](xumm-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card.md)
+* [How to link an existing account to a Xumm card](xumm-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card.md)
 
 ## ALL ABOUT XAPPS
 
