@@ -4,37 +4,37 @@ description: Xaman On/Off-Ramp
 
 # Xaman On/Off Ramp
 
-In December 2022, we introduced our Xumm On/Off Ramp Service (XOORS) allowing our Pro users who lived in  the Netherlands and the United Kingdom to move fiat currency to and from the XRP Ledger.
+In December 2022, we introduced our Xumm On/Off Ramp Service allowing our Pro users who lived in  the Netherlands and the United Kingdom to move fiat currency to and from the XRP Ledger.
 
 Xaman Pro (formerly Xumm Pro) users could quickly and efficiently send fiat currency (Euros) from their traditional bank account to their Xaman account for conversion into XRP.
 
-Introducing this service was a bold and risky initiative embraced by our users and praised in the XRP Ledger community.&#x20;
-
-Our rates were exceptionally competitive, our customer service surpassed the big crypto exchanges and our security infrastructure was industry leading. It was difficult to find another platform that compared to our to price, service, security and convenience.&#x20;
+Introducing this service was a bold initiative, primarily because of the high compliance demands which were both extensive and expensive. &#x20;
 
 ### All good things must come to an end...
 
 Alas, our On/Off Ramp service was not meant be.
 
-A number of factors forced us to discontinue XOORS.
+A number of factors forced us to discontinue it:
 
-1\) The regulatory landscape in the crypto industry has made it very difficult (and expensive) to offer fiat exchange services. Almost all countries have released new regulations related to crypto services. We are no longer able to realistically navigate the existing and emerging regulations.
+1\) The regulatory landscape in the crypto industry has made it very difficult (and expensive) to offer fiat exchange services. Almost all countries have released new regulations related to crypto and while we welcome regulations, we have not been able to reach the scale required to offer our services in a cost efficient way.
 
-2\) The profit margins on our exchange rates were so low, it required a large quantity of transactions in order make our service viable in this competitive sector. There just were not enough community members utilizing our services.
+2\) The profit margins on our exchange rates were so low, it required a large quantity of transactions in order make our service viable in this competitive sector. The XRP Ledger community is just not big enough to support the type of service we were offering.
 
-&#x20;3\) Our focus on the XRP ecosystem meant a smaller and more focused user base. Crypto exchanges often cater to dozens or even hundreds of different blockchains. Our commitment solely to the XRP Ledger severely limited the number of potential users.&#x20;
+3\) Our focus on the XRP ecosystem meant a smaller and more focused user base. Crypto exchanges often cater to dozens or even hundreds of different blockchains. Our commitment solely to the XRP Ledger severely limited the number of potential users. When considering the costs involved compared to the limited scale of our ecosystem, it just does not work.
 
-Overall, the ecosystem we are active in, combined with the regulatory landscape, lack of volume and  increasing requirements, do not allow us to keep on offering our On/Off Ramp service.
+Overall, the lack of growth in the ecosystem, combined with the regulatory landscape and increasing expenses, do not allow us to keep on offering our On/Off Ramp service.
 
-### Moving forward
+### Looking back but moving forward
+
+We'd like to say that we are very proud of having launched and run our on/off ramp service. We are the smallest crypto company to ever have successfully gone through the on ramp service registration process with the Netherlands central bank. That is not a small accomplishment. &#x20;
+
+We would also like to thank all of our users who supported us through this venture. We did this to make the community&#x20;
 
 There is a silver lining to this unfortunate turn of events...
 
 {% hint style="info" %}
 We have increased our collaborations with our On Ramp partners like [Uphold](https://buy-sell-xrp.xumm.app/) to streamline and further integrate Xaman with their platform. As well, in the coming months, we plan to bring on another On ramp partner for you to pick from. (We certainly don't want you to be left without any options!)
 {% endhint %}
-
-&#x20;
 
 ### Frequently asked Questions
 
