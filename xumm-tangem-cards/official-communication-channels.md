@@ -7,12 +7,18 @@ description: Official communication channels for Xumm
 {% hint style="danger" %}
 Important!\
 \
-We no longer provide customer support for Xumm via Twitter. Do not fill out forms on social media. Do not reply to DM's from people claiming to be "Xumm Support". The **only 100% trustworthy** way to reach us is via the Xumm Support xApp.
+We **no longer** provide customer support for Xaman (formerly Xumm) via **Twitter (X).**&#x20;
+
+Please **do not** fill out forms on social media.&#x20;
+
+Do not reply to DM's from people claiming to be "Xaman Support" or "Xumm Support".&#x20;
+
+The **only 100% trustworthy** way to reach us is via the Xaman Support xApp from within Xaman.
 {% endhint %}
 
-### Xumm customer support
+### Xaman customer support
 
-For all customer support and technical questions related to the Xumm application, please contact us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xumm buy pressing <img src="../.gitbook/assets/image (2) (1) (4).png" alt="" data-size="line">then selecting [**Xumm Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)
+For all customer support and technical questions related to the Xaman application, please contact us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xaman buy pressing <img src="../.gitbook/assets/image (2) (1) (4).png" alt="" data-size="line">at the bottom of Xaman then selecting [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.**
 
 <figure><img src="../.gitbook/assets/Xumm Support xApp.png" alt=""><figcaption></figcaption></figure>
 
