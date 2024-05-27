@@ -26,14 +26,14 @@ For all customer support and technical questions related to the Xaman applicatio
 
 * [**https://blog.xumm.app/**](https://blog.xumm.app/)
 
-### Follow us on Twitter
+### Follow us on X (formerly Twitter)
 
-* [**@XummWallet**](https://twitter.com/XummWallet)&#x20;
-* [**@XummSupport**](https://twitter.com/XummSupport)
+* [**@Xummwallet**](https://twitter.com/XummWallet)
+* [**@XamanSupport**](https://twitter.com/XamanSupport)
 
 ### Suggestions and Feedback
 
-* [**https://feedback.xumm.dev**](https://feedback.xumm.dev/)
+* Please create a ticket in [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.**
 
 ### Xaman Domain names <a href="#h_772bad7bdc" id="h_772bad7bdc"></a>
 
