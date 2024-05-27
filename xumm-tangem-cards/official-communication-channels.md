@@ -43,7 +43,7 @@ For all customer support and technical questions related to the Xaman applicatio
 
 #### **Alternatively** <a href="#h_1bf826eada" id="h_1bf826eada"></a>
 
-* [**https://xumm.readme.io**](https://xumm.readme.io/) and subdomains (for Developers & Developer docs)
+* [**https://docs.xumm.dev/**  ](https://docs.xumm.dev/)and subdomains (for Developers & Developer docs)
 * [**https://xrpl-labs.com/pro**](official-communication-channels.md#h\_c79d5ef4b1) and subdomains (for Xumm Pro subscriptions)
 
 ### **Xaman - Latest versions of the app** <a href="#h_c79d5ef4b1" id="h_c79d5ef4b1"></a>
