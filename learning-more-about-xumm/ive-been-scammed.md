@@ -4,27 +4,27 @@ description: What to do if you've been hacked or scammed
 
 # I've been scammed!
 
-If you are the victim of a crime, it is vital that you report it to your local police department as soon as possible. They will have the resources, the expertise and experience to conduct a thorough investigation into your case and determine what the best course of action is to recover your funds.
+If you are the victim of a crime, it is vital that you report it to **your local police department** as soon as possible. They will have the resources, the expertise and experience necessary to conduct a thorough investigation into your case and determine what the best course of action is to recover your funds.
 
 Some countries have a special "cyber crime" or "financial crime" unit that you can report crimes to as well. Your local police will provide you with all of your options.
 
 ## Frequently asked questions
 
-### Can Xumm conduct its own investigation?
+### Can Xaman conduct its own investigation?
 
-Xumm is not part of any governmental law enforcement agency and as such, we do not have the authority to conduct a criminal investigation. We can not interfere in police matters.
+Xaman is not part of any **governmental law enforcement agency** and as such, we do not have the authority to conduct a criminal investigation. As well, we can not interfere in police investigations. If the police require our assistance, the will contact us.
 
 ### **My police department doesn't know anything about crypto scams**
 
-In most countries around the world, the local police departments are getting better and better when it come to investigating cyber crimes. Investigating criminal matters, which now includes crypto and blockchain, is one of the primary responsibilities of law enforcement.  If there is any chance in recovering your funds, the police will need to be involved.
+Investigating criminal matters, which now includes crypto and blockchain crimes, is one of the primary responsibilities of law enforcement.  In most countries around the world, the local police departments are getting better when it comes to investigating cyber crimes. If there is any chance in recovering your funds, the police will need to be involved.
 
-### **Why can't Xumm just reverse the transactions and get my funds back?**
+### **Why can't Xaman just reverse the transactions and get my funds back?**
 
-Transactions on the XRP Ledger can not be reversed, blocked or "undone". (The XRPL does not have any administrative functions built into it, so there is no way for Xumm or anyone else to modify or change a completed transaction.) &#x20;
+Transactions on the XRP Ledger can not be reversed, blocked or "undone". (The XRPL does not have any administrative functions built into it, so there is no way for Xaman or anyone else to modify or change a completed transaction.) &#x20;
 
 ### **Why can't I just change my 6 digit passcode or my signing password?**
 
-The 6 digit passcode is used to access the Xumm app and in some cases, sign transactions in Xumm. It is not used to access your XRPL account. (That's what the secret numbers are for.) Changing your passcode has no effect on your secret numbers.&#x20;
+The 6 digit passcode is used to access the Xaman app and in some cases, sign transactions in Xaman. It is not used to access your XRPL account. (That's what the secret numbers are for.) Changing your passcode has no effect on your secret numbers.&#x20;
 
 The same applies to your signing password. Both the passcode and the sign password are LOCAL security measures to protect your secret numbers **locally** on your phone. They do not prevent someone from accessing your account if they have your secret numbers.
 
@@ -89,4 +89,4 @@ If you have found yourself in this situation, you should consider the following 
 * Either re-key the account or
 * Create a new account and move your assets over to the new account
 
-Note: Be advised, trustlines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of trustlines until the move is complete.
+Note: Be advised, Trust Lines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of trustlines until the move is complete.
