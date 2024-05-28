@@ -4,6 +4,14 @@ description: All about Trust Lines on Xahau
 
 # Understanding Trust Lines on Xahau
 
+##
+
+{% hint style="info" %}
+This article is under construction
+{% endhint %}
+
+##
+
 ## Summary
 
 * The Xahau network has the ability to issue assets. (Generally called "tokens".)
