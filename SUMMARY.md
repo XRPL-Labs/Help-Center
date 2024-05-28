@@ -150,7 +150,7 @@
   * [Profiles](xaman-pro-beta/features-of-pro/profiles/README.md)
     * [All about Profiles](xaman-pro-beta/features-of-pro/profiles/all-about-profiles.md)
     * [What is PayString?](xaman-pro-beta/features-of-pro/profiles/what-is-paystring.md)
-    * [Setting up your Xumm Profile](xaman-pro-beta/features-of-pro/profiles/setting-up-your-xumm-profile.md)
+    * [Setting up your Xaman Profile](xaman-pro-beta/features-of-pro/profiles/setting-up-your-xumm-profile.md)
   * [Push notifications](xaman-pro-beta/features-of-pro/push-notifications.md)
   * [Accounts](xaman-pro-beta/features-of-pro/accounts.md)
   * [Xumm App early access](xaman-pro-beta/features-of-pro/xumm-app-early-access.md)
