@@ -38,15 +38,15 @@ This works great on a centralized system like Google but it does not work so wel
 
 You might think that multi-signing accomplishes the same thing as 2FA in that you could require 2 or more signers to submit a transaction, but that only simulates 2FA, and even then, only if you sign with two separate devices that are not in the same location.
 
-### **Xumm uses "4FA"**
+### **Xaman uses "4FA"**
 
-Consider the following requirements to get access to your XRP Ledger account managed with Xumm:
+Consider the following requirements to get access to your XRP Ledger account managed with Xaman:
 
 1\) physical access to your phone
 
 2\) some way to unlock your phone
 
-3\) some way to access Xumm (could be the same as #2, e.g. FaceID / Fingerprint)
+3\) some way to access Xaman (could be the same as #2, e.g. FaceID / Fingerprint, passcode)
 
 4\) some way to sign transactions on your account (optional extra security using a configured password)
 
@@ -54,11 +54,11 @@ Consider the following requirements to get access to your XRP Ledger account man
 
 However, let's say that someone has acquired your phone and somehow circumvented your password and now has full access to it.
 
-An attacker launches Xumm and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 one passcode per second and about 11 days later they have tried all of the possible combinations. So now they have access to Xumm.
+An attacker launches Xaman and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 one passcode per second and about 11 days later they have tried all of the possible combinations... except for one small countermeasure we implemented. We have configured Xaman to only allow 5 attempts before the app starts to **add time** to the next attempt. After the ninth wrong entry, Xaman requires a delay of **2 hours** to input again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all... Or about **228 years**.
 
-Except for one small countermeasure we implemented in Xumm. We have configured Xumm to only allow 5 attempts before Xumm starts to add time to the next attempt. After the ninth wrong entry, Xumm requires a delay of **2 hours** to input again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all... Or about **228 years**.
+However, let's say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes.  In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it.&#x20;
 
-However, let's say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes.  In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it. Provided you selected a strong signing password, this could take awhile to guess.
+Provided you selected a strong signing password, this could take awhile to guess.
 
 &#x20;
 
@@ -73,17 +73,17 @@ However, let's say someone manages to guess your 6 digit passcode in under 228 y
 * You have a centralized system (Google, Twitter, Exchanges, name it)
 * You are registered and need to login (via email / user name)
 
-This only makes sense if the access password is on a separate device, ie. NOT on your smartphone. If your receive your 2FA password via SMS on your phone, 2FA won't help. The main weakness here is the dependency on the service provider. Even without access to your phone, if your 2FA password is delivered via SMS, all someone needs to do is get access to your phone number. This is easier than you might think. Xumm does not have any of these issues.
+This only makes sense if the access password is on a separate device, ie. NOT on your smartphone. If your receive your 2FA password via SMS on your phone, 2FA won't help. The main weakness here is the dependency on the service provider. Even without access to your phone, if your 2FA password is delivered via SMS, all someone needs to do is get access to your phone number. This is easier than you might think. Xaman does not have any of these issues.
 
 &#x20;
 
 ### **Ok, what do you recommend I do then?**
 
-XRP Ledger accounts created using Xumm are already incredibly safe but we certainly understand the desire maximize the security of your account. That is why we partnered with Tangem to create the Xumm Tangem card.
+XRP Ledger accounts created using Xaman are already incredibly safe but we certainly understand the desire maximize the security of your account. That is why we partnered with Tangem to create a hardware wallet to our specifications: the Xumm (Tangem) card.
 
 <figure><img src="../../.gitbook/assets/Xumm Tangem card -3.png" alt=""><figcaption></figcaption></figure>
 
-Instead of using a hardware wallet, or a static, written down secret (that can't be used easily), the Xumm Tangem cards contain a chip and use NFC ([near field communication](https://nl.wikipedia.org/wiki/Near-field\_communication)). The chip **generates** an account secret, while being powered using NFC (by your iOS/Android device). This means the cards are shipped without an account secret on them, and can only be generated on the card, by the owner of the card. The chip used in Xumm Tangem cards offers bank grade security and have been fully audited.
+Unlike other hardware wallets, a Xumm (Tangem) card is light, fits easily into a physical wallet or purse and interfaces with Xaman to make it convenient and easy to use. The card contains a security chip and uses NFC ([near field communication](https://nl.wikipedia.org/wiki/Near-field\_communication)) to interact with your mobile device. The chip **generates** an account secret for an XRPL / Xahau account, while being powered using NFC (by your iOS/Android device). This means the cards are shipped without an account secret on them, and can only be generated on the card, by the owner of the card. The chip used in Xumm (Tangem) cards offers bank grade security and have been fully audited.
 
 If you are interested in learning more about the cards, check out this article:
 
