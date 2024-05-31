@@ -4,19 +4,6 @@ description: All about Xaman and the AMM amendment
 
 # Xaman & AMM
 
-{% hint style="warning" %}
-Please be aware:\
-\
-![](<../.gitbook/assets/image (91).png>)
-
-\
-For more information, you can follow this Tweet:
-
-[https://twitter.com/RippleXDev/status/1771680918895558913?s=20](https://twitter.com/RippleXDev/status/1771680918895558913?s=20)
-{% endhint %}
-
-
-
 On March 22, 2024, the AMM amendment was implemented on the XRP Ledger mainnet.&#x20;
 
 On the same day, Xaman v2.8 was released to support it.

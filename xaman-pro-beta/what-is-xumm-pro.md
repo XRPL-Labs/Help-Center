@@ -40,7 +40,7 @@ For those people who want to get involved with the latest and greatest advanceme
 
 Each Xaman Pro subscription comes with a pair of free Xumm (Tangem) cards. These NFC cards take your XRP savings accounts to the next level in security. (Note: One pair of cards per customer and the customer must pay the shipping costs of the cards.)
 
-### Things we're working on for Xumm Pro
+### Things we're working on for Xaman Pro
 
 #### Multi-sign xApp
 
@@ -62,9 +62,9 @@ Escrows are a native feature on the XRP Ledger and as they gain in popularity, o
 
 ### Commonly asked questions
 
-#### **How much does it cost to subscribe to Xumm Pro (beta)?**
+#### **How much does it cost to subscribe to Xaman Pro (beta)?**
 
-A subscription to Xumm Pro Beta costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit card**.**
+A subscription to Xaman Pro Beta costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit card**.**
 
 #### How much does it cost to have the cards shipped to me?
 
@@ -84,11 +84,11 @@ Check out this article for you options:
 
 #### How long does a subscription last?
 
-Normally it would last for **1 year** but we are so excited about the beta release, we are offering **1 1/2 years** of Xumm Pro access for the price of a 1 year subscription! On top of that, the 1 1/2 year subscription does not begin until the beta period ends.&#x20;
+Normally it would last for **1 year** but we are so excited about the beta release, we are offering **1 1/2 years** of Xaman Pro access for the price of a 1 year subscription! On top of that, the 1 1/2 year subscription does not begin until the beta period ends.&#x20;
 
 #### **So I get to use Pro Beta for free until the beta period ends, then I get a 1 1/2 year subscription?**
 
-That is exactly right. If you subscribe now, you can enjoy all of the current features Xumm Pro (beta) has to offer for free, then, when the beta period ends, your 1 1/2 year subscription starts!
+That is exactly right. If you subscribe now, you can enjoy all of the current features Xaman Pro (beta) has to offer for free, then, when the beta period ends, your 1 1/2 year subscription starts!
 
 #### **When will Xaman Pro (beta) “graduate” to Xaman Pro?**
 
@@ -114,7 +114,7 @@ You certainly can but please be aware, there are a couple of countries where we 
 * Ukraine
 * Vietnam
 
-So while you can subscribe to and enjoy all of the great features of Xaman Pro, unfortunately we will be unable to send you the complimentary Xumm cards.  Reach out to us via the [**Xumm Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
+So while you can subscribe to and enjoy all of the great features of Xaman Pro, unfortunately we will be unable to send you the complimentary Xumm cards.  Reach out to us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
 
 #### **I’m feeling generous! How do I give Pro Beta as a gift?**
 
@@ -128,7 +128,7 @@ This link takes you to a page that looks like this:
 
 Simply press the **Gift directly to r-address** button, enter the r-address of the lucky person and press the _**Purchase**_ button.
 
-#### **How do I launch Pro from Xumm?**
+#### **How do I launch Pro from Xaman?**
 
 You can tap this link:
 
@@ -143,5 +143,5 @@ or scan this QR code with Xaman:
 Unfortunately not. We do not offer a trial period.
 
 {% hint style="warning" %}
-Please note, due to the costs associated with the cards and the KYC process, along with the integration of Profiles into Xumm and the XRP ecosystem, we do not offer refunds on Pro subscriptions, so please make sure you thoroughly review the features before subscribing.
+Please note, due to the costs associated with the cards and the KYC process, along with the integration of Profiles into Xaman and the XRP ecosystem, we do not offer refunds on Pro subscriptions, so please make sure you thoroughly review the features before subscribing.
 {% endhint %}
