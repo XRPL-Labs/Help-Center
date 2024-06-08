@@ -50,12 +50,6 @@ After we follow the instructions in the above article, we now have two Trust Lin
 
 <figure><img src="../.gitbook/assets/Trust Line list.png" alt=""><figcaption></figcaption></figure>
 
-### **Each Trust Line has its own r-address…**
-
-
-
-
-
 Now, in our case, let’s say we had another XRPL account and we wanted to send tokens to it. For example, CasinoCoin (CSC), we would send the tokens the same r-address as we would if we were sending XRP. (In this case, **rstargateUoNLmD683...**)
 
 …and we wanted to send a different token to our account, maybe, Sologenic (SOLO) or Coreum (CORE) or Elysium (ELS), we would still use the our same r-address. (Again, in this case, **rstargateUoNLmD683...**)
