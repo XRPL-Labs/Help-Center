@@ -1,5 +1,7 @@
 ---
-description: Is Xumm safe to store my secret keys? Has it been audited? How secure is Xumm?
+description: >-
+  Is Xaman a safe place to store my secret keys? Has it been audited? How secure
+  is Xaman?
 cover: ../../.gitbook/assets/Tokens and coins -1 (1).png
 coverY: 0
 ---
@@ -10,9 +12,9 @@ coverY: 0
 
 It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best".  When it comes to protecting your assets, for many people, only the best will do so it only makes sense to get the best when it comes to protecting your funds, right...?
 
-The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or two and thinking you have enough information to make a comprehensive comparison is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion on Xumm's security. It is merely a glimpse...
+The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or watching a Youtube video then thinking you have enough information to make a comprehensive comparison between wallets is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion of Xaman's (formerly Xumm) security. It is merely a glimpse...
 
-## **It is a crazy time in the crypto world, how secure is Xumm?**
+## **It is a crazy time in the crypto world, how secure is Xaman?**
 
 There are several ways to view security when it comes to your XRP Ledger account but your first line of security always starts with your mobile device.
 
@@ -29,7 +31,7 @@ Here are the top 9 security threats to look out for when it comes to your phone.
 
 Source: [The Nine most common security threats to mobile devices](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/) &#x20;
 
-So before you even get around to installing Xumm, here are some things to consider:
+So before you even get around to installing Xamana, here are some things to consider:
 
 * Is your mobile device up to date with all security and OS updates?
 * Do you use a VPN?
@@ -39,13 +41,13 @@ So before you even get around to installing Xumm, here are some things to consid
 * Do you have strong passwords?
 * How often do you change your passwords?
 
-If your phone is not secure, the best, most secure software wallet in the world (aka Xumm) will not be able to protect your assets. Starting out with a modern, up to date, secure mobile device is essential when it comes to securing your assets.
+If your phone is not secure, the best, most secure software wallet in the world (aka Xaman) will not be able to protect your assets. Starting out with a modern, up to date, secure mobile device is essential when it comes to securing your assets.
 
 ## **No problem. My phone is secure.**
 
-So your phone has no spyware or malware installed. It is up to date. You use a top of the line VPN, anti-virus software and firewall. You have installed Xumm and you used Xumm to create your XRP Ledger account. Well done!
+So your phone has no spyware or malware installed. It is up to date. You use a top of the line VPN, anti-virus software and firewall. You have installed Xaman and you used Xaman to create your XRP Ledger account. Well done!
 
-Let's consider your XRPL account. Xumm can generate three hundred and forty undecillion, two hundred and eighty-two decillion, three hundred and sixty-six nonillion, nine hundred and twenty octillion, nine hundred and thirty-eight septillion, four hundred and sixty-three sextillion, four hundred and sixty-three quintillion, three hundred and seventy-four quadrillion, six hundred and seven trillion, four hundred and thirty-one billion, seven hundred and sixty-eight million, two hundred and eleven thousand, four hundred and fifty-six different accounts using the secret number standard. Xumm will provide you with one of those possible accounts.
+Let's consider your XRPL account. Xaman can generate three hundred and forty undecillion, two hundred and eighty-two decillion, three hundred and sixty-six nonillion, nine hundred and twenty octillion, nine hundred and thirty-eight septillion, four hundred and sixty-three sextillion, four hundred and sixty-three quintillion, three hundred and seventy-four quadrillion, six hundred and seven trillion, four hundred and thirty-one billion, seven hundred and sixty-eight million, two hundred and eleven thousand, four hundred and fifty-six different accounts using the secret number standard. Xaman will provide you with one of those possible accounts.
 
 It is hard to imagine how many accounts that actually is, so maybe this will help.
 
@@ -69,7 +71,7 @@ The only way someone can access your XRP Ledger account is if they know your Sec
 **Never** give your Secret Numbers to anyone. If someone asks for them, that person is trying to steal your funds!
 {% endhint %}
 
-## **What about the 6 digit passcode to access Xumm. That is only 1 million possibilities. Anyone could guess that.**
+## **What about the 6 digit passcode to access Xaman. That is only 1 million possibilities. Anyone could guess that.**
 
 You are absolutely right. Let’s say that someone has acquired your phone and somehow circumvented your password and now has full access to it.
 
@@ -133,39 +135,48 @@ Of course. check out this article:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td><td><a href="../../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
 
-## **What about if I connect Xumm to a “questionable” website or I scan an untrusted QR code?**
+## **What about if I connect Xaman to a “questionable” website or I scan an untrusted QR code?**
 
-Xumm will never share your private keys with a third party website or application. The website/app will deliver a sign request to Xumm and Xumm will display the sign request for you to approve or deny. Once you approve it, Xumm signs it locally on your phone and returns only the signature to the website/application. Your private keys never leave your phone. Xumm only signs after approval, locally, and then only returns the end product: the signed transaction.
+Xaman will never share your private keys with a third party website or application. The website/app will deliver a sign request to Xaman and Xaman will display the sign request for you to approve or deny. Once you approve it, Xaman signs it locally on your phone and returns only the signature to the website/application. Your private keys never leave your phone. Xaman only signs after approval, locally, and then only returns the end product: the signed transaction.
 
 ## **…and a Trust Line? Can I be hacked by creating a Trust Line?**
 
-It is not possible for someone to access the tokens in your XRPL account via a Trust Line. A token issuer can freeze or misconfigure their own Trust Line though, which would make their issued tokens unusable, but they can not access your account. It is also possible that a token issuer could send you messages via the XRPL (once they know your r-address) and somehow convince you to send them your secret numbers. While not really considered a “hack”, the results are pretty much the same.
+It is not possible for someone to access your **XRP** in your XRPL account via a Trust Line, however creating a Trust Line does pose several risks.
+
+* &#x20;A token issuer can freeze their own Trust Line, which would make their issued tokens unusable. ( but they can not access your account or your XRP.)
+* A token issuer can misconfigure their Trust Line, which could make their issued tokens unusable. (Again, they can not access your account or your XRP.)
+* A token issuer could send you messages via the XRPL (once they know your r-address) and somehow convince you to send them your secret numbers. (While not really considered a “hack”, the results are pretty much the same.)
+* A token issuer could initiate implement the 'clawback' feature on their Trust Line which allows them to take back as much of their token as they like, as often as they like, whenever they like.\
+  \
+  [https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039d-clawback](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039d-clawback)
 
 ## **What about spam transactions? Are they dangerous?**
 
-Unfortunately there is nothing that can be done to stop prevent spam on the XRP Ledger and the moment. There are no “spam filters” yet, so when we identify a spam transaction or a transaction that is coming from a fraudulent address, Xumm will alert you with a warning message about the sender of the transaction.
+A 'spam' transaction is one which is unsolicited.&#x20;
 
-Although annoying, most people are choosing to ignore the messages.
+In most cases, someone will send a small amount of XRP to an account along with a message, advertisement, special offer, marketing idea, business opportunity, etc. The idea is that you will read the message then decide to investigate and either buy their product, visit their website, invest in their business opportunity, etc.
 
-If you are interested in learning more about spam on the XRPL, check out this article:
+The spam transactions themselves **do not pose a threat** to your XRPL account and do not cost you anything, but the 'special offer" they advertise is often risky and dangerous
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Spam on the XRP Ledger</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href="../../.gitbook/assets/Monolith.png">Monolith.png</a></td></tr></tbody></table>
+If you would like to learn more about spam on the XRPL, check out this article:&#x20;
 
+{% embed url="https://help.xumm.app/learning-more-about-xumm/spam-on-the-xrp-ledger" %}
 
-
-## **Can the government freeze my funds via Xumm? What happens if the government seized XRPL Labs?**
+## **Can the government freeze my funds in Xaman? What happens if the government seized XRPL Labs?**
 
 The XRP Ledger is basically a giant, decentralized network. While it is possible that a governmental agency might be able to shut down parts of the XRPL in a particular region, (validators, nodes, internet access points) a single government could not shut down all of them all over the world. The XRPL servers are distributed around the planet to form a global network. It will still run and validate transactions regardless if a bunch of servers were shut down. (That is part of the idea behind decentralization.)
 
 Another feature of the XRPL is that no one, not a government or an exchange or even us can access your XRPL account. You are the only one with the account secret, so without that, there is no way to confiscate or freeze your XRP.
 
-Finally, Xumm will run regardless if XRPL Labs exists or not. Xumm does not need our backend servers to function. All of the XRPL communication and signing happens locally on your mobile device, from within Xumm. It does not need our backend servers for that.
+Finally, Xaman will run regardless if XRPL Labs exists or not. Xaman does not need our backend servers to function. All of the XRPL communication and signing happens locally on your mobile device, from within Xaman. It does not need our backend servers for that.
 
 …plus, if worse came to worse, you could always take your account secret and just use another wallet if you wanted to.
+
+{% embed url="https://help.xumm.app/app/learning-more-about-xaman/moving-your-xrpl-account-to-another-wallet" %}
 
 ## **Ok. Summarize it for me.**
 
 * **Keep your phone safe (physically), up to date and free of spyware and malware**
-* **While security is our number one priority, Xumm can be made safer if you avoid risky interactions with the internet (eg. - public wifi, shady websites, etc.), install a good firewall and use a VPN when possible.**
+* **While security is our number one priority, Xaman can be made safer if you avoid risky interactions with the internet (eg. - public wifi, shady websites, etc.), install a good firewall and use a VPN when possible.**
 * **Never give your account secret (Secret Numbers/Family Seed/Mnemonic) to anyone, for any reason**
 * **Xumm (Tangem) cards are the best solution for long term storage, large account balances and maximum security**
