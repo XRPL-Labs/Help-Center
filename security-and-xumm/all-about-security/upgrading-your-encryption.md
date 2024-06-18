@@ -16,7 +16,7 @@ All versions of Xumm prior to v2.4 use the AES 256-CBC encryption algorithm to e
 
 ### Pushing the envelope...
 
-While the AES 256-CBC (Advanced Encryption Standard) still remains the encryption algorithm of choice for governments and financial institutions, it provides only confidentiality (encryption). AES-256-GCM is "state of the art", it's faster and provides both confidentiality and built-in authentication (integrity check). Updating Xumm to this enhanced standard just extends our lead in the crypto space and to be honest, Xumm users have come to expect nothing less than the best. If there was a better way to encrypt your private keys, we would have already implemented it.
+While the AES 256-CBC (Advanced Encryption Standard) still remains the encryption algorithm of choice for governments and financial institutions, it provides only confidentiality (encryption). AES-256-GCM is "state of the art", it's faster and provides both confidentiality and built-in authentication (integrity check). Updating Xumm (rebranded to Xaman) to this enhanced standard just extends our lead in the crypto space and to be honest, Xaman users have come to expect nothing less than the best. If there was a better way to encrypt your private keys, we would have already implemented it.
 
 ### How to upgrade &#x20;
 
@@ -26,12 +26,12 @@ Launch Xumm and press **Settings** then **Accounts**:
 
 <figure><img src="../../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
 
-Press the ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) button. Xumm will list your accounts that are eligible to be upgraded.&#x20;
+Press the ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) button. Xaman will list your accounts that are eligible to be upgraded.&#x20;
 
 <figure><img src="../../.gitbook/assets/Encryption - 2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You may have noticed in our example that the "Card 1" account is not displayed in the above image. The "Card 1" account is a Xumm (Tangem) card account so it **can not** be upgraded. (Since the private key is stored on the card itself, not in Xumm.)
+You may have noticed in our example that the "Card 1" account is not displayed in the above image. The "Card 1" account is a Xumm (Tangem) card account so it **can not** be upgraded. (Since the private key is stored on the card itself, not in Xaman.)
 {% endhint %}
 
 Press the ![](<../../.gitbook/assets/image (3) (3) (1).png>) button beside the account you would like to update, then enter your 6 digit passcode.
@@ -39,7 +39,7 @@ Press the ![](<../../.gitbook/assets/image (3) (3) (1).png>) button beside the a
 <figure><img src="../../.gitbook/assets/Authenticate screen.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you have configured the "Extra Security" option for your account in Xumm, it will ask you for your **Signing Password** instead of your 6 digit passcode.
+If you have configured the "Extra Security" option for your account in Xaman, it will ask you for your **Signing Password** instead of your 6 digit passcode.
 {% endhint %}
 
 The upgrade only takes a few seconds... and.. all done, It's as easy as that!
@@ -50,7 +50,7 @@ The upgrade only takes a few seconds... and.. all done, It's as easy as that!
 
 #### What if I create a new account in Xumm v2.4?
 
-Any new account that is created with Xumm v2.4 uses the new encryption algorithm. There is no need to upgrade it.
+Any new account that is created with Xumm v2.4 (Xumm was rebranded to Xaman in v2.6) uses the new encryption algorithm. There is no need to upgrade it.
 
 #### What if I import an existing XRPL account into Xumm v2.4?
 
