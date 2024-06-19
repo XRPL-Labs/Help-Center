@@ -4,15 +4,15 @@ description: How to send tokens from your XRP Ledger account managed by Xaman
 
 # Sending tokens from Xaman
 
-Sending tokens from Xaman (formerly) is a very easy process. In fact, sending tokens is one if its primary functions! Here is how it's done...
+Sending tokens from Xaman (formerly Xumm) is a very easy process. In fact, sending tokens is one of its primary functions! Here is how it's done...
 
 ### **Step 1**
 
 From the main screen in Xaman, press the **Send** button.
 
-<figure><img src="../.gitbook/assets/Send button.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Xaman - Send button.png" alt=""><figcaption></figcaption></figure>
 
-On the following screen, you will see the option to enter the **amount** you would like to send.
+On the next screen, you will see the option to enter the **amount** you would like to send.
 
 (You can also change the account you would like to send the tokens **from** and you can change the **type** of token you would like to send.)
 
