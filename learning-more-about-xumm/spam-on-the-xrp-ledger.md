@@ -80,7 +80,7 @@ No. Reviewing a transaction on the XRPL is not dangerous. The only way someone c
 
 * [How secure is Xumm?](https://support.xumm.app/hc/en-us/articles/4427109779986)
 
-### **How did they get my r-address? I’ve been very careful who I’ve interacted with in the XRP community…**
+### **I don't even know them! How did they get my r-address? I’ve been very careful who I’ve interacted with in the XRP community…**
 
 The XRP Ledger is a public blockchain. There are many ways to get a list of random r-addresses. If you have created a Trust Line or sent funds to/from a crypto exchange, or participated in an airdrop, or even if you activated an account, your r-address can be filtered and obtained.&#x20;
 
@@ -98,3 +98,8 @@ There is currently no way of preventing this from happening on the XRP Ledger.
 
 We have numerous ways of identifying spam on the XRPL. When we find accounts that appear to be sending spam, we analyze the history of the account, immediately suppress the memo field and add a notification indicating the transaction may be dangerous. As well, for our [**Xaman Pro**](https://support.xumm.app/hc/en-us/articles/6138022550418) users, the push notifications are suppressed so you are not notified when the spam transactions arrives in your account.
 
+### **Is there any solution to this problem?**
+
+Actually there is. It is called the Xahau network and you can easily interact with the Xahau network using Xaman.
+
+The Xahau network is an XRP Ledger protocol side chain that has all of the same features as the XRP Ledger but it includes additional features like a spam filter.  Once the Spam filter is installed on your account, spam transactions are stopped before they even get to your account.
