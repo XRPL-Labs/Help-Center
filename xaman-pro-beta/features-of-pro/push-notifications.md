@@ -34,7 +34,7 @@ This need to be enabled in order to receive push notifications.
 
 ### Frequently Asked Questions
 
-#### I am not receiving receiving push notifications while I am in Xaman. Why not?
+#### I am not receiving receiving push notifications while I am in Xaman.
 
 You will only receive push notifications if Xaman is **not running**. If you are in the application, push notifications will not be sent. (You can always check the Events log for any activity on your account.)
 
@@ -46,14 +46,14 @@ You will only receive push notifications if Xaman is **not running**. If you are
 
 3\) Exit Xaman, then have someone send XRP to your account to test it.\
 \
-Note: Basically you are disabling push notifications on the account, then re-enabling push notifications.  Remember, the&#x20;
+Note: Basically you are disabling push notifications on the account, then re-enabling push notifications.  Remember, you Xaman has to be closed in order to receive notifications.
 
 
 
-#### I am not receiving push notifications on my Apple device.
+####
 
 
 
-<figure><img src="../../.gitbook/assets/Push Notifications. -1.png" alt=""><figcaption></figcaption></figure>
+
 
 ####
