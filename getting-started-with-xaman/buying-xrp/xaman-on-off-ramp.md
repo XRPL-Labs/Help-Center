@@ -47,12 +47,3 @@ Effective immediately, anyone attempting to sign up with our Xaman On/Off Ramp S
 <figure><img src="../../.gitbook/assets/on-off ramp service - Canel.png" alt=""><figcaption></figcaption></figure>
 
 You will not be able to enroll, but you will be directed to our on ramp partners.
-
-#### How much longer can I use XOORS?
-
-####
-
-#### What will happen to my personal information now that XOORS has been discontinued?
-
-
-
