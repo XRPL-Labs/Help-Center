@@ -58,7 +58,7 @@ Update the Memo if necessary and select Confirm
 
 A QR Code screen appears
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 In Xumm, either respond to the notification or scan the QR code to bring up the transaction&#x20;
 

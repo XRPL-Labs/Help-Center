@@ -68,7 +68,7 @@ Press the **Hooray, let's go!**
 
 You should now be at the main screen of Xaman.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Notice that your new account has **not been activated** yet.
 
