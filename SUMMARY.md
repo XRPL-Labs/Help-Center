@@ -36,6 +36,7 @@
   * [BTCDirect](getting-started-with-xaman/buying-xrp/btcdirect.md)
   * [Guardarian](getting-started-with-xaman/buying-xrp/guardarian.md)
   * [Topper](getting-started-with-xaman/buying-xrp/topper.md)
+  * [C14](getting-started-with-xaman/buying-xrp/c14.md)
   * [Xaman On/Off Ramp](getting-started-with-xaman/buying-xrp/xaman-on-off-ramp.md)
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xumm.md)
 * [Sending tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
