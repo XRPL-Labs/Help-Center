@@ -47,3 +47,7 @@ Effective immediately, anyone attempting to sign up with our Xaman On/Off Ramp S
 <figure><img src="../../.gitbook/assets/on-off ramp service - Canel.png" alt=""><figcaption></figcaption></figure>
 
 You will not be able to enroll, but you will be directed to our on ramp partners.
+
+#### I'm already signed up for XOORS. What happens if I send money to my XOORS account?
+
+Any funds that are now sent to a XOORS account will be rejected by our banking institution and will be returned to the sending account. The return process can take up to 10 business days. If you have sent funds to your XOORS account, please contact your bank and have them either cancel the transaction or monitor the transaction for the return funds.
