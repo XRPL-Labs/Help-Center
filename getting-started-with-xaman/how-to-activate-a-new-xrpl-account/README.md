@@ -14,40 +14,53 @@ After you create a new XRP Ledger account in Xaman (formerly Xumm), you are pres
 
 <figure><img src="../../.gitbook/assets/Activate your account.png" alt=""><figcaption></figcaption></figure>
 
-Here you basically have two options:
+Here you have four options:
 
-**Option 1**
+* **Option 1**
 
-You can purchase the XRP from one of our partners who allow you to purchase XRP with fiat currency.
+You can purchase XRP from one of our partners to activate your account.
 
-**Option 2**
+* **Option 2**
 
-You can activate your account from an external source like a crypto exchange or from another XRP Ledger account
+You can activate your account from another XRPL account in Xaman&#x20;
 
+* **Option 3**
 
+You can activate your account from an external source like a crypto exchange
 
-### **Option 1**&#x20;
+* **Option 4**
 
-Press the ![](<../../.gitbook/assets/image (1) (1) (4).png>) button to get into the Account Activation flow,
+You can activate your account from an external source like another XRP Ledger account
 
-<figure><img src="../../.gitbook/assets/Account Activation xApp.png" alt=""><figcaption></figcaption></figure>
+###
 
-then press the ![](<../../.gitbook/assets/image (4) (1) (2).png>) button to continue.
+### **Option 1, 2**
+
+The first two options can be done via Xaman by pressing the  ![](<../../.gitbook/assets/image (1) (1) (4).png>) button:
+
+<figure><img src="../../.gitbook/assets/Account activation - 1.png" alt=""><figcaption></figcaption></figure>
+
+Your first option is to purchase XRP from one of our partners.
+
+Pressing the, '**Buy XRP**' button gets you into the purchase flow:
+
+<figure><img src="../../.gitbook/assets/Buy-Sell XRP - 1.png" alt=""><figcaption></figcaption></figure>
+
+Press the down arrow in the "Select your country or currency" field then choose your country or currency and you will see a list of service providers for your region.
+
+3\) Select the appropriate service provider by pressing the '**Open xApp**' and follow the instructions provided on the screen.
 
 
 
 <figure><img src="../../.gitbook/assets/Buy and sell.png" alt=""><figcaption></figcaption></figure>
 
-Press the down arrow in the "Select your country or currency" field then choose your country or currency and you will be provided a list of service provides for your region.
+2\) Press the down arrow in the "Select your country or currency" field then choose your country or currency and you will see a list of service providers for your region.
 
-Select the appropriate service provider by pressing the '**Open xApp**' and follow the instructions provided on the screen.
-
-Here is a list of our current service providers:\
+3\) Select the appropriate service provider by pressing the '**Open xApp**' and follow the instructions provided on the screen.
 
 
-<table><thead><tr><th>Exchange</th><th width="173.33333333333331">Link to xApp</th><th>Article</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (2) (2) (3).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:banxa.onofframp"><strong>Banxa xApp</strong></a></td><td>All About Banxa</td></tr><tr><td><img src="../../.gitbook/assets/image (5) (1) (1) (2) (1) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:btcdirect.onofframp"><strong>BTCDirect xApp</strong></a></td><td>All About BTCDirect</td></tr><tr><td><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:guardarian.onofframp"><strong>Guardarian xApp</strong></a></td><td>All About Guardarian</td></tr><tr><td><img src="../../.gitbook/assets/image (4) (2).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:uphold.topper"><strong>Topper xApp</strong></a></td><td>All About Topper</td></tr></tbody></table>
 
-Combined, our partners offer exchange services to most countries around the world.
+
 
 ### Option 2
 
