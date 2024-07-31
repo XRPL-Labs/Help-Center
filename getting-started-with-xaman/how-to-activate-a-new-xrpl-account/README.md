@@ -62,17 +62,29 @@ Choose your existing account in Xaman that has already been activated and has at
 
 <figure><img src="../../.gitbook/assets/Account activation - 4  (1).png" alt=""><figcaption></figcaption></figure>
 
+You can choose any of the pre-determined amounts but the first 10 XRP will be ear marked for the base reserve.  When done, press the **Activate** button then review the transaction and **Slide to Accept**.
 
 
-### Option 2
+
+{% hint style="warning" %}
+You will notice that there is a third option, **Fund via an exchange**. Choosing this option does **not actually activate** your account. It simply provides instructions on how to send XRP from your exchange account to your XRPL account managed by Xaman.
+{% endhint %}
+
+
+
+### Option 3
 
 There are several crypto exchanges in the blockchain space which also sell XRP. Some of the bigger players include:
 
+<table><thead><tr><th width="110.33333333333331" align="center">Icon</th><th width="343">How to transfer XRP from:</th><th>Link to open exchange website</th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt="" data-size="line"></td><td><a href="from-gatehub.md"><mark style="color:blue;"><strong>Gatehub</strong></mark></a></td><td><a href="https://gatehub.net/"><mark style="color:blue;">Open</mark></a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2).png" alt=""></td><td><a href="from-bitstamp.md"><strong>Bitstamp</strong></a></td><td><a href="https://www.bitstamp.net/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"></td><td><a href="from-uphold.md"><strong>Uphold</strong></a></td><td><a href="https://uphold.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (3).png" alt=""></td><td><a href="from-kraken.md"><strong>Kraken</strong></a></td><td><a href="https://www.kraken.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""></td><td><a href="from-crypto.com.md"><strong>Crypto.com</strong></a></td><td><a href="https://crypto.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"></td><td><a href="from-coinbase.md"><strong>Coinbase</strong></a></td><td><a href="https://www.coinbase.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (5).png" alt="" data-size="original"></td><td><a href="from-kucoin.md"><strong>Kucoin</strong></a></td><td><a href="https://www.kucoin.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"></td><td><a href="from-binance.md"><strong>Binance</strong></a></td><td><a href="https://www.binance.com/en">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/wirex (1).png" alt=""></td><td><a href="broken-reference"><strong>Wirex</strong></a></td><td><a href="https://wirexapp.com/">Open</a></td></tr></tbody></table>
 
+For instructions on how to send XRP from one of the above exchanges, simply click on the name of the exchange and follow the steps.
 
-<table><thead><tr><th width="110.33333333333331" align="center">Icon</th><th width="379">How to transfer XRP from:</th><th>Link to open exchange website</th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt="" data-size="line"></td><td><a href="from-gatehub.md"><mark style="color:blue;"><strong>Gatehub</strong></mark></a></td><td><a href="https://gatehub.net/"><mark style="color:blue;">Open</mark></a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2).png" alt=""></td><td><a href="from-bitstamp.md"><strong>Bitstamp</strong></a></td><td><a href="https://www.bitstamp.net/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"></td><td><a href="from-uphold.md"><strong>Uphold</strong></a></td><td><a href="https://uphold.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (3).png" alt=""></td><td><a href="from-kraken.md"><strong>Kraken</strong></a></td><td><a href="https://www.kraken.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""></td><td><a href="from-crypto.com.md"><strong>Crypto.com</strong></a></td><td><a href="https://crypto.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"></td><td><a href="from-coinbase.md"><strong>Coinbase</strong></a></td><td><a href="https://www.coinbase.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (5).png" alt="" data-size="original"></td><td><a href="from-kucoin.md"><strong>Kucoin</strong></a></td><td><a href="https://www.kucoin.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"></td><td><a href="from-binance.md"><strong>Binance</strong></a></td><td><a href="https://www.binance.com/en">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/wirex (1).png" alt=""></td><td><a href="broken-reference"><strong>Wirex</strong></a></td><td><a href="https://wirexapp.com/">Open</a></td></tr></tbody></table>
+If your exchange is not listed above, here are the generic instructions which should help sending from your exchange:
 
-
+{% content-ref url="../sending-xrp-to-xaman.md" %}
+[sending-xrp-to-xaman.md](../sending-xrp-to-xaman.md)
+{% endcontent-ref %}
 
 {% hint style="warning" %}
 **Please** make sure that you **thoroughly research** the crypto exchange that you decide to purchase from. Each exchange has their own rules and fee structures which you should fully understand before signing up.&#x20;
@@ -80,12 +92,12 @@ There are several crypto exchanges in the blockchain space which also sell XRP. 
 Furthermore, just because we have provided a list of exchanges, it does not mean that we support or endorse any of them in any way. It is entirely up to you to decide which crypto exchange you use.
 {% endhint %}
 
-### Option 3
+### Option 4
 
-Finally, you can activate your new XRPL account by sending 10 XRP from **another** XRPL account to it.
+Finally, you can activate your new XRPL account by sending 10 XRP from **another** XRPL account.
 
 For example, if you have a friend, family member, co-worker, etc. who has an activated account, you can have **them** activate your account by having them send 10 XRP to it.
 
-Here is how they can send XRP using Xaman:
+Here is how they can send XRP to Xaman:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Sending XRP using Xaman</td><td></td><td></td><td><a href="../sending-tokens-to-xumm.md">sending-tokens-to-xumm.md</a></td><td><a href="../../.gitbook/assets/store  van gogh style.png">store  van gogh style.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Sending XRP to Xaman</td><td></td><td></td><td><a href="../sending-xrp-to-xaman.md">sending-xrp-to-xaman.md</a></td><td><a href="../../.gitbook/assets/store  van gogh style.png">store  van gogh style.png</a></td></tr></tbody></table>
