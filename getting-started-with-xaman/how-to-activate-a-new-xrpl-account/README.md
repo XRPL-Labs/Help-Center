@@ -12,9 +12,9 @@ If you're interested, this video explains how reserves and fees on the XRP Ledge
 
 After you create a new XRP Ledger account in Xaman (formerly Xumm), you are presented with the following screen:
 
-<figure><img src="../../.gitbook/assets/Activate your account.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Account activation - 2.png" alt=""><figcaption></figcaption></figure>
 
-Here you have four options:
+There are four way to activate an XRPL account:
 
 * **Option 1**
 
@@ -44,21 +44,23 @@ Your first option is to purchase XRP from one of our partners.
 
 Pressing the, '**Buy XRP**' button gets you into the purchase flow:
 
-<figure><img src="../../.gitbook/assets/Buy-Sell XRP - 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy and sell.png" alt=""><figcaption></figcaption></figure>
 
 Press the down arrow in the "Select your country or currency" field then choose your country or currency and you will see a list of service providers for your region.
 
-3\) Select the appropriate service provider by pressing the '**Open xApp**' and follow the instructions provided on the screen.
+Select the appropriate service provider by pressing the '**Open xApp**' and follow the instructions provided on the screen.
 
 
 
-<figure><img src="../../.gitbook/assets/Buy and sell.png" alt=""><figcaption></figcaption></figure>
+Your second option is to fund your new XRPL account from an existing XRPL already imported into Xaman.
 
-2\) Press the down arrow in the "Select your country or currency" field then choose your country or currency and you will see a list of service providers for your region.
+Pressing the, '**Fund with existing account**' button gets you into Xaman send flow.
 
-3\) Select the appropriate service provider by pressing the '**Open xApp**' and follow the instructions provided on the screen.
+<figure><img src="../../.gitbook/assets/Account activation - 3.png" alt=""><figcaption></figcaption></figure>
 
+Choose your existing account in Xaman that has already been activated and has at least 10 XRP available. You will be sending it to your new account.
 
+<figure><img src="../../.gitbook/assets/Account activation - 4  (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
