@@ -39,6 +39,7 @@
   * [C14](getting-started-with-xaman/buying-xrp/c14.md)
   * [Xaman On/Off Ramp](getting-started-with-xaman/buying-xrp/xaman-on-off-ramp.md)
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xumm.md)
+* [Sending XRP to Xaman](getting-started-with-xaman/sending-xrp-to-xaman.md)
 * [Sending tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
 * [How to convert a Read only account to Full Access](getting-started-with-xaman/how-to-convert-a-read-only-account-to-full-access.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xaman/deposit-to-exchange-didnt-arrive.md)
