@@ -4,15 +4,29 @@ description: How to activate a new XRP Ledger account
 
 # Activating an account (XRPL)
 
-In order to be able to hold XRP (or any of the 8300+ tokens issued on the XRP Ledger) in an XRPL account, it must first be activated with a minimum of 10 XRP. An account can be activated several ways but regardless of how it is activated, the first 10 XRP deposited into an XRPL account is used to meet the reserve requirements so it will not be spendable.
+In order to be able to hold XRP (or any of the 9700+ tokens issued on the XRP Ledger) in an XRPL account, it must first be activated with a minimum of 10 XRP. An account can be activated several ways but regardless of how it is activated, the first 10 XRP deposited into an XRPL account is used to meet the reserve requirements so it will not be spendable.
 
 If you're interested, this video explains how reserves and fees on the XRP Ledger work.
 
 {% embed url="https://www.youtube.com/watch?t=50s&v=7E52W4dKmBE" %}
 
-After you create a new XRP Ledger account in Xumm, you are presented with the following screen:
+After you create a new XRP Ledger account in Xaman (formerly Xumm), you are presented with the following screen:
 
 <figure><img src="../../.gitbook/assets/Activate your account.png" alt=""><figcaption></figcaption></figure>
+
+Here you basically have two options:
+
+**Option 1**
+
+You can purchase the XRP from one of our partners who allow you to purchase XRP with fiat currency.
+
+**Option 2**
+
+You can activate your account from an external source like a crypto exchange or from another XRP Ledger account
+
+
+
+### **Option 1**&#x20;
 
 Press the ![](<../../.gitbook/assets/image (1) (1) (4).png>) button to get into the Account Activation flow,
 
@@ -26,7 +40,7 @@ then press the ![](<../../.gitbook/assets/image (4) (1) (2).png>) button to cont
 
 Press the down arrow in the "Select your country or currency" field then choose your country or currency and you will be provided a list of service provides for your region.
 
-Select the appropriate service provider by pressing he Open xApp and follow the instructions provided on the screen.
+Select the appropriate service provider by pressing the '**Open xApp**' and follow the instructions provided on the screen.
 
 Here is a list of our current service providers:\
 
@@ -35,7 +49,7 @@ Here is a list of our current service providers:\
 
 Combined, our partners offer exchange services to most countries around the world.
 
-### Additional options
+### Option 2
 
 There are several crypto exchanges in the blockchain space which also sell XRP. Some of the bigger players include:
 
@@ -46,17 +60,17 @@ There are several crypto exchanges in the blockchain space which also sell XRP. 
 
 
 {% hint style="warning" %}
-**Please** make sure that you **thoroughly research** the crypto exchange that you decide to purchase from. Each exchange has their own rules and fee structures that you should fully understand before signing up.&#x20;
+**Please** make sure that you **thoroughly research** the crypto exchange that you decide to purchase from. Each exchange has their own rules and fee structures which you should fully understand before signing up.&#x20;
 
 Furthermore, just because we have provided a list of exchanges, it does not mean that we support or endorse any of them in any way. It is entirely up to you to decide which crypto exchange you use.
 {% endhint %}
 
-
+### Option 3
 
 Finally, you can activate your new XRPL account by sending 10 XRP from **another** XRPL account to it.
 
 For example, if you have a friend, family member, co-worker, etc. who has an activated account, you can have **them** activate your account by having them send 10 XRP to it.
 
-Here is how they can send XRP using Xumm:
+Here is how they can send XRP using Xaman:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Sending XRP using Xumm</td><td></td><td></td><td><a href="../sending-tokens-to-xumm.md">sending-tokens-to-xumm.md</a></td><td><a href="../../.gitbook/assets/store  van gogh style.png">store  van gogh style.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Sending XRP using Xaman</td><td></td><td></td><td><a href="../sending-tokens-to-xumm.md">sending-tokens-to-xumm.md</a></td><td><a href="../../.gitbook/assets/store  van gogh style.png">store  van gogh style.png</a></td></tr></tbody></table>
