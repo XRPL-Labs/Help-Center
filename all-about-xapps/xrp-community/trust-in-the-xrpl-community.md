@@ -12,7 +12,19 @@ To start, if you own XRP, you already trust the XRP Ledger community. The XRPL i
 
 ### Is Xaman Trust Worthy?
 
-Xaman (formerly Xumm) is an application created by XRPL Labs. We are based out the Netherlands and were founded in 2018. Since then, we have grown into a company with 18 employees, have released several versions and updates to Xaman and have been active in the XRPL community. As well we run several nodes and validators to help contribute to public infrastructure of the XRPL. We offer advanced customer service and technical support services for our application and participate in all major XRPL events. We are active on social media platforms like [**X**](https://twitter.com/XummWallet), run our own [**blog**](https://blog.xumm.app/),  and support the [**developer community**](https://docs.xumm.dev/). We strive to be transparent in everything we do via [**Infrastructure Status**](https://xrpllabs.statuspage.io) and via our CEO's [**X account**](https://twitter.com/WietseWind). We have a proven track record of reliability and honesty that can be easily researched and validated.
+Xaman (formerly Xumm) is an application created by XRPL Labs. We were founded in 2018 and are based in the Netherlands.
+
+Since then, we have grown into a company with 18 employees, have released several versions and updates to Xaman and are active in the XRPL community.&#x20;
+
+As well, we run several nodes and validators to help contribute to public infrastructure of the XRPL.
+
+We offer advanced customer service and technical support services for our application and participate in all major XRPL events.
+
+We are active on social media platforms like [**X**](https://twitter.com/XummWallet), run our own [**blog**](https://blog.xumm.app/),  and support the [**developer community**](https://docs.xumm.dev/).
+
+We strive to be transparent in everything we do via [**Infrastructure Status**](https://xrpllabs.statuspage.io) and via our CEO's [**X account**](https://twitter.com/WietseWind).&#x20;
+
+We have a proven track record of reliability and honesty that can be easily researched and validated.
 
 ### Is Xaman safe to use?
 
@@ -42,7 +54,7 @@ The process of creating an xApp has been [**stream lined**](https://docs.xumm.de
 * Is the developer active in the XRP Ledger community?
 
 {% hint style="danger" %}
-Keep in mind, many xApps have the ability to send you transaction requests or payment requests. It is absolutely imparative that you review all transaction **before your sign** them in Xaman.&#x20;
+Keep in mind, many xApps have the ability to send you transaction requests or payment requests. It is absolutely imperative that you review all transaction **before your sign** them in Xaman.&#x20;
 {% endhint %}
 
 ### Can an xApp access my XRPL / Xahau accounts?
