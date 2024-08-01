@@ -28,12 +28,16 @@ Your r-address basically is your account number on the XRP Ledger. It is the add
 
 You should also know that there are two types of accounts on the XRPL.
 
-* **Self custodial** accounts - All accounts managed by Xaman are self custodial accounts. (Afterall, Xaman is a self custodial wallet.) With a self custodial account, you are solely responsible for managing your private keys.
-* **Custodial** accounts - A company is responsible for managing the private keys to their account. (Usually a crypto exchange.) You are assigned an account number with the exchange called a destination tag.
+* **Self custodial** accounts - All accounts managed by Xaman are self custodial accounts. (After all, Xaman is a self custodial wallet.) With a self custodial account, you are solely responsible for managing your private keys.
+* **Custodial** accounts - A company is responsible for managing the private keys to their account. (Usually a crypto exchange.) You are provided an account address from the exchange and a (unique to your exchange) destination tag.
+
+{% hint style="info" %}
+Destination Tags are usually required when using exchanges. Some exchanges give a different Destination Tag for each transaction. Some exchanges re-use the same Destination Tag for all transactions for your account. make sure you know how your exchange works.
+{% endhint %}
 
 Since this article talks about how to send XRP to your XRPL account managed by Xaman, you will not need a destination tag.&#x20;
 
-See this article for more details:
+See this article for more details about Destination Tags:
 
 {% content-ref url="../learning-more-about-xumm/destination-tags.md" %}
 [destination-tags.md](../learning-more-about-xumm/destination-tags.md)
@@ -73,7 +77,7 @@ Finally we reach the **Summary** screen. Here you can review your transaction to
 
 <figure><img src="../.gitbook/assets/Summary.png" alt=""><figcaption></figcaption></figure>
 
-After you have confirmed the destination r-address is correct, simply **Slide to send** and your transaction will be sent to the XRP Ledger to process.
+After you have confirmed the parameters (destination r-address, amount) are correct, simply **Slide to send** and your transaction will be sent to the XRP Ledger to process.
 
 ### Sending XRP from a crypto exchange account
 
