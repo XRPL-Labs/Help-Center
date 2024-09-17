@@ -20,7 +20,19 @@ or by going through out Buy/Sell xApp here:
 
 ### **How to I to use the BTCDirect xApp**
 
-BTCDirect can be found by pr
+When you first launch the BTCDirect xApp, you have agree to the terms of service.
+
+
+
+<figure><img src="../../.gitbook/assets/BTC -2.png" alt=""><figcaption></figcaption></figure>
+
+then you'll be presented with the main purchase screen:
+
+
+
+<figure><img src="../../.gitbook/assets/BTC -3.png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 
