@@ -33,7 +33,7 @@
   * [How to import an XRP Ledger account from a hardware wallet](getting-started-with-xaman/importing-your-account/how-to-import-an-xrp-ledger-account-from-a-hardware-wallet.md)
 * [Buying XRP](getting-started-with-xaman/buying-xrp/README.md)
   * [Banxa](getting-started-with-xaman/buying-xrp/banxa.md)
-  * [BTCDirect](getting-started-with-xaman/buying-xrp/btcdirect.md)
+  * [BTC Direct](getting-started-with-xaman/buying-xrp/btcdirect.md)
   * [Guardarian](getting-started-with-xaman/buying-xrp/guardarian.md)
   * [Topper](getting-started-with-xaman/buying-xrp/topper.md)
   * [C14](getting-started-with-xaman/buying-xrp/c14.md)
