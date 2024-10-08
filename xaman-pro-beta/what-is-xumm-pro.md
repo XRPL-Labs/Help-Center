@@ -36,9 +36,9 @@ All of our Xaman Pro subscribers receive 24 hour, multi-language customer suppor
 
 For those people who want to get involved with the latest and greatest advancements in the XRP Ledger, this feature gets you early access to things we are working on.
 
-**Free Xumm (Tangem) cards**&#x20;
+**Free Xaman (Tangem) cards**&#x20;
 
-Each Xaman Pro subscription comes with a pair of free Xumm (Tangem) cards. These NFC cards take your XRP savings accounts to the next level in security. (Note: One pair of cards per customer and the customer must pay the shipping costs of the cards.)
+Each Xaman Pro subscription comes with a pair of free Xaman (Tangem) cards. These NFC cards take your XRP savings accounts to the next level in security. (Note: One pair of cards per customer and the customer must pay the shipping costs of the cards.)
 
 ### Things we're working on for Xaman Pro
 
@@ -106,7 +106,7 @@ While we would love everyone to have Pro features forever & for free, developing
 
 #### **Can I order Pro from anywhere in the world?**
 
-You certainly can but please be aware, there are a couple of countries where we **can not** **ship** the Xumm cards to. These include:
+You certainly can but please be aware, there are a couple of countries where we **can not** **ship** the Xaman cards to. These include:
 
 * North Korea
 * Iran
@@ -114,7 +114,7 @@ You certainly can but please be aware, there are a couple of countries where we 
 * Ukraine
 * Vietnam
 
-So while you can subscribe to and enjoy all of the great features of Xaman Pro, unfortunately we will be unable to send you the complimentary Xumm cards.  Reach out to us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
+So while you can subscribe to and enjoy all of the great features of Xaman Pro, unfortunately we will be unable to send you the complimentary Xaman cards.  Reach out to us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
 
 #### **I’m feeling generous! How do I give Pro Beta as a gift?**
 
@@ -136,7 +136,7 @@ You can tap this link:
 
 or scan this QR code with Xaman:
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Xaman Pro QR Code.png" alt=""><figcaption></figcaption></figure>
 
 #### **Is there a way I can test Xaman Pro to see if I like it?**
 
