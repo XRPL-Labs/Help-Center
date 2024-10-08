@@ -28,7 +28,7 @@
   * [...with Secret Numbers](getting-started-with-xaman/importing-your-account/...with-secret-numbers.md)
   * [...with a Family Seed](getting-started-with-xaman/importing-your-account/...with-a-family-seed.md)
   * [...with a Mnemonic](getting-started-with-xaman/importing-your-account/...with-a-mnemonic.md)
-  * [...a Xumm card](getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
+  * [...a Xaman card](getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
   * [...in Read Only mode](getting-started-with-xaman/importing-your-account/...in-read-only-mode.md)
   * [How to import an XRP Ledger account from a hardware wallet](getting-started-with-xaman/importing-your-account/how-to-import-an-xrp-ledger-account-from-a-hardware-wallet.md)
 * [Buying XRP](getting-started-with-xaman/buying-xrp/README.md)
@@ -41,6 +41,7 @@
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xumm.md)
 * [Sending XRP to Xaman](getting-started-with-xaman/sending-xrp-to-xaman.md)
 * [Sending tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
+* [Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [How to convert a Read only account to Full Access](getting-started-with-xaman/how-to-convert-a-read-only-account-to-full-access.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xaman/deposit-to-exchange-didnt-arrive.md)
 * [Can Xaman reverse, freeze or undo a transaction?](getting-started-with-xaman/can-xumm-reverse-freeze-or-undo-a-transaction.md)
@@ -101,17 +102,17 @@
   * [How to post a Session Log](configuring-xaman/understanding-the-settings-options/how-to-post-a-session-log.md)
   * [Third party apps](configuring-xaman/understanding-the-settings-options/third-party-apps.md)
 
-## XUMM (TANGEM) CARDS
+## XAMAN (TANGEM) CARDS
 
-* [All about Xumm (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
-* [Prepaid Xumm (Tangem) cards](xumm-tangem-cards/prepaid-xumm-tangem-cards.md)
-* [Getting started with your new cards 🤗](xumm-tangem-cards/getting-started.md)
-* [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
-* [Creating a pin on your card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
-* [Best Security Practices Using the Xumm (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
-* [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md)
-* [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
-* [How to link an existing account to a Xumm card](xumm-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card.md)
+* [All about Xaman (Tangem) cards](xaman-tangem-cards/xumm-tangem-cards.md)
+* [Prepaid Xaman (Tangem) cards](xaman-tangem-cards/prepaid-xaman-tangem-cards.md)
+* [Getting started with your new cards 🤗](xaman-tangem-cards/getting-started.md)
+* [How to configure a backup signing account](xaman-tangem-cards/how-to-configure-a-backup-signing-account.md)
+* [Creating a pin on your card](xaman-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
+* [Best Security Practices Using the Xaman (Tangem) Cards](xaman-tangem-cards/best-security-practices-using-a-xaman-card.md)
+* [Lost or damaged cards](xaman-tangem-cards/lost-or-damaged-cards.md)
+* [How safe is a card?](xaman-tangem-cards/how-safe-is-a-card.md)
+* [How to link an existing account to a Xaman card](xaman-tangem-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
 
 ## ALL ABOUT XAPPS
 

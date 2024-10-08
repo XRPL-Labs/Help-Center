@@ -55,7 +55,7 @@ Then sign the transaction with Xaman:
 
 ### **Paying with a credit card (or XRP)**
 
-If you would like to pay for your Xaman Pro subscription using a credit card, you will need to go through our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order). The Get cards xApp takes you through the process of ordering our [Xumm cards](../xumm-tangem-cards/xumm-tangem-cards.md), after which you will receive an email link  granting you access to Xumm Pro.
+If you would like to pay for your Xaman Pro subscription using a credit card, you will need to go through our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order). The Get cards xApp takes you through the process of ordering our [Xumm cards](../xaman-tangem-cards/xumm-tangem-cards.md), after which you will receive an email link  granting you access to Xumm Pro.
 
 1\) Launch Xaman, then press the **xApps** button (on the bottom of the main screen) then choose **Get cards**.
 

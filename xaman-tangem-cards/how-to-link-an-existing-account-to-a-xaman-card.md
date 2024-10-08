@@ -1,8 +1,8 @@
 ---
-description: Re-keying an existing account to a Xumm card
+description: Re-keying an existing account to a Xaman card
 ---
 
-# How to link an existing account to a Xumm card
+# How to link an existing account to a Xaman card
 
 ### Why would I want to do this? <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
@@ -10,9 +10,9 @@ Most people who purchase the cards already have an existing XRP Ledger account, 
 
 While it is easy to configure the cards this way, you should consider how you plan to manage your XRP Ledger accounts and why you purchased the cards.
 
-### Xumm card (Hardware wallet) vs Xaman (Software wallet)
+### Xaman card (Hardware wallet) vs Xaman (Software wallet)
 
-Xumm cards are hardware wallets and hardware wallets are largely about **long term storage** of your assets.&#x20;
+Xaman cards are hardware wallets and hardware wallets are largely about **long term storage** of your assets.&#x20;
 
 A hardware wallet stores the private keys for an XRP Ledger account on a device that is not connected to the internet and transactions can only be signed on the XRPL account if the signer is in possession of the hardware device. Storing private keys 'offline' limits some potential attack vectors on an XRPL account.
 
@@ -34,7 +34,7 @@ As long as you are aware of the potential risk, here are the instructions.
 
 The existing account must be imported into Xaman with **Full access** and you must be able to sign transactions on this account. (This is your XRPL account that contains your XRP, your Trust Lines, Escrows, DEX transactions, etc.)
 
-#### Step 2: Import your new Xumm card into Xaman <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+#### Step 2: Import your new Xaman card into Xaman <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
 Import your card into Xaman by following these instructions:
 

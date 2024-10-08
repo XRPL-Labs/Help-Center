@@ -14,11 +14,11 @@ If you have subscribed to **Xaman Pro**, you have the option to enter an email a
 
 <figure><img src="../.gitbook/assets/Email 2.png" alt=""><figcaption><p>Early Access</p></figcaption></figure>
 
-### Xumm (Tangem) card orders
+### Xaman (Tangem) card orders
 
-When you place an order for Xumm (Tangem) cards, you are asked for your email address during the order process. (We use it to send you your "Track-and-Trace" information from our shipping company.) Since we usually ship our orders on the same day, there is a very small window where we could actually change your email information. If you contact us in time, we can change it for your order. 🤞
+When you place an order for Xaman (Tangem) cards, you are asked for your email address during the order process. (We use it to send you your "Track-and-Trace" information from our shipping company.) Since we usually ship our orders on the same day, there is a very small window where we could actually change your email information. If you contact us in time, we can change it for your order. 🤞
 
-As above, open a ticket using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your Xumm (Tangem) order updated. (Don't forget to include your new email address in the message.)
+As above, open a ticket using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your Xaman (Tangem) order updated. (Don't forget to include your new email address in the message.)
 
 Per our Privacy policy, your email address (along with any other information you provide us in your order) gets **automatically purged** from our systems shortly after your order is sent.
 
