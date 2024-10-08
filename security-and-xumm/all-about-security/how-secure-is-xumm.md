@@ -101,7 +101,7 @@ We are talking theoretical here but still, it might be possible, so we decided t
 
 Xumm cards are the perfect way to alleviate the risk of a compromised phone, especially if you follow our recommend guidelines here:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Best Security Practices Using Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xaman-tangem-cards/best-security-practices-using-a-xaman-card.md">best-security-practices-using-a-xaman-card.md</a></td><td><a href="../../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Best Security Practices Using Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/best-security-practices-using-a-xumm-card.md">best-security-practices-using-a-xumm-card.md</a></td><td><a href="../../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td></tr></tbody></table>
 
 Although we believe that your phone is secure and that it will never get lost/damaged/stolen or hacked, having a pair of cards will ensure that even if your phone **was** ever compromised, your XRPL account would still be safe. Here’s how they work…
 
@@ -133,7 +133,7 @@ Here are some interesting facts about the cards.
 
 Of course. check out this article:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xaman-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td><td><a href="../../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td><td><a href="../../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
 
 ## **What about if I connect Xaman to a “questionable” website or I scan an untrusted QR code?**
 

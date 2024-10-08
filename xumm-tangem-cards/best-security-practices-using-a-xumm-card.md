@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Water fall - 2.png
 coverY: 0
 ---
 
-# Best Security Practices Using the Xumm (Tangem) Cards
+# Best Security Practices Using the Xaman (Tangem) Cards
 
 Here are our top 5 recommendations when using our cards...
 

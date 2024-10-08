@@ -104,15 +104,15 @@
 
 ## XAMAN (TANGEM) CARDS
 
-* [All about Xaman (Tangem) cards](xaman-tangem-cards/xumm-tangem-cards.md)
-* [Prepaid Xaman (Tangem) cards](xaman-tangem-cards/prepaid-xaman-tangem-cards.md)
-* [Getting started with your new cards 🤗](xaman-tangem-cards/getting-started.md)
-* [How to configure a backup signing account](xaman-tangem-cards/how-to-configure-a-backup-signing-account.md)
-* [Creating a pin on your card](xaman-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
-* [Best Security Practices Using the Xaman (Tangem) Cards](xaman-tangem-cards/best-security-practices-using-a-xaman-card.md)
-* [Lost or damaged cards](xaman-tangem-cards/lost-or-damaged-cards.md)
-* [How safe is a card?](xaman-tangem-cards/how-safe-is-a-card.md)
-* [How to link an existing account to a Xaman card](xaman-tangem-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
+* [All about Xaman (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
+* [Prepaid Xaman (Tangem) cards](xumm-tangem-cards/prepaid-xumm-tangem-cards.md)
+* [Getting started with your new cards 🤗](xumm-tangem-cards/getting-started.md)
+* [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
+* [Creating a pin on your card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
+* [Best Security Practices Using the Xaman (Tangem) Cards](xumm-tangem-cards/best-security-practices-using-a-xumm-card.md)
+* [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md)
+* [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
+* [How to link an existing account to a Xaman card](xumm-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card.md)
 
 ## ALL ABOUT XAPPS
 

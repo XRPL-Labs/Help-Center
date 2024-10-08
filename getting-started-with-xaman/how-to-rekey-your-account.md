@@ -17,7 +17,7 @@ It is often used to protect an account by securing the master key and using the 
 
 ### Example
 
-A good example of how this works would be to look at the recommended configuration of a pair of [Xaman (Tangem) cards](../xaman-tangem-cards/xumm-tangem-cards.md).
+A good example of how this works would be to look at the recommended configuration of a pair of [Xaman (Tangem) cards](../xumm-tangem-cards/xumm-tangem-cards.md).
 
 In this case, you have a Primary account on one card and you have a Signing account on another card.
 
