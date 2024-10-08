@@ -24,7 +24,9 @@ In the first example, you can see that a payment of .000001 XRP was received in 
 
 #### Where can I find this in Pro?
 
-<figure><img src="../../.gitbook/assets/Pro - Pro Notifications option.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Push notifications - 3.png" alt=""><figcaption></figcaption></figure>
 
 Once you go into the **Push notifications** section, you should see a list of accounts you can enable push notifications for.
 
