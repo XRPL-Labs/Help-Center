@@ -12,13 +12,13 @@ Push notifications are small, pop-up messages that Xaman (formerly Xumm) will di
 
 Here is an example from a typical phone running Android:
 
-<figure><img src="../../.gitbook/assets/push notification - 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Push notifications - 1.png" alt=""><figcaption></figcaption></figure>
 
-Notice the <img src="../../.gitbook/assets/image (1) (2) (1).png" alt="" data-size="line"> at the top of the image and the <img src="../../.gitbook/assets/image (2) (1) (4) (1).png" alt="" data-size="line"> on the Xumm icon. These are indicators that there has been some activity on your account.
+Notice the <img src="../../.gitbook/assets/image (1) (2) (1).png" alt="" data-size="line"> at the top of the image and the <img src="../../.gitbook/assets/image (2) (1) (4) (1).png" alt="" data-size="line"> on the Xaman icon. These are indicators that there has been some activity on your account.
 
-If you tap the <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> you can view the details of the activity. Here are a couple examples of push notifications sent by Xumm:
+If you tap the <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> you can view the details of the activity. Here are a couple examples of push notifications sent by Xaman:
 
-<figure><img src="../../.gitbook/assets/push notification - 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Push notifications - 2.png" alt=""><figcaption></figcaption></figure>
 
 In the first example, you can see that a payment of .000001 XRP was received in the XRPL account labelled "Will" and in the second example you can see that the Xaman Support team has replied to a ticket created via the [Xaman Support xApp](broken-reference).
 
