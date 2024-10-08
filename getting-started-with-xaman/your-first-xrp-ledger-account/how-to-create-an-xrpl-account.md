@@ -29,7 +29,7 @@ You will need to **carefully** write all of the numbers down in the correct orde
 The next part of the process is to manually enter all of the secret numbers back into Xaman. You can use the <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line">buttons and the <img src="../../.gitbook/assets/image (11) (2).png" alt="" data-size="line">buttons to do this. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
 
 
-{% hint style="info" %}
+{% hint style="danger" %}
 This step is deliberately time consuming and tendinous. The secret numbers are absolutely vital to the safety of your XRP Ledger account and are **the only way** to access your account in the event something were to happen to your phone.
 
 Please do not take this process lightly and make sure you accurately record and safely store your secret numbers.
@@ -39,7 +39,9 @@ Please do not take this process lightly and make sure you accurately record and 
 
 You should receive your public address, also known as your r-address. To continue, press the **Next** button.
 
-<figure><img src="../../.gitbook/assets/Activate screen - 1.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/New account - 1.png" alt=""><figcaption></figcaption></figure>
 
 Press the **Next, I understand** button to continue.
 
@@ -56,7 +58,7 @@ The following table should help you decide which option is best for you.
 | ![](<../../.gitbook/assets/image (1) (2) (3).png>)     | Standard security is a great option your daily spending account. You can sign with your 6 digit passcode or enable biometrics and sign with your face/finger print. |
 | ![](<../../.gitbook/assets/image (3) (1) (2) (2).png>) | Extra security allows you to enter a separate signing password. This is the best option for your long term storage account.                                         |
 
-Once you decide, select it and press the **Next** buton.
+Once you decide, select it and press the **Next** button.
 
 <figure><img src="../../.gitbook/assets/Account label 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -78,11 +80,13 @@ Pressing the **Activate your account** button gets you into the Account Activati
 
 
 
-<figure><img src="../../.gitbook/assets/Account Activation xApp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/New account - 2.png" alt=""><figcaption></figcaption></figure>
 
 If you press the **Buy XRP** button you will be provided with several options to purchase XRP.
 
-<figure><img src="../../.gitbook/assets/Buy-Sell XRP.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/New account - 3.png" alt=""><figcaption></figcaption></figure>
 
 For more information about activating your new XRP Ledger account, please refer to this article:
 
