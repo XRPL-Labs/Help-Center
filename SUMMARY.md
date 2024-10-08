@@ -156,7 +156,7 @@
     * [Setting up your Xaman Profile](xaman-pro-beta/features-of-pro/profiles/setting-up-your-xumm-profile.md)
   * [Push notifications](xaman-pro-beta/features-of-pro/push-notifications.md)
   * [Accounts](xaman-pro-beta/features-of-pro/accounts.md)
-  * [Xumm App early access](xaman-pro-beta/features-of-pro/xumm-app-early-access.md)
+  * [Xaman App early access](xaman-pro-beta/features-of-pro/xumm-app-early-access.md)
   * [Free Tangem Card](xaman-pro-beta/features-of-pro/free-tangem-card.md)
   * [Premium Support](xaman-pro-beta/features-of-pro/premium-support.md)
   * [Vanity addresses](xaman-pro-beta/features-of-pro/vanity-addresses.md)
