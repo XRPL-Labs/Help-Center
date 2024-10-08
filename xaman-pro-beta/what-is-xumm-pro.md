@@ -132,7 +132,7 @@ Simply press the **Gift directly to r-address** button, enter the r-address of t
 
 You can tap this link:
 
-{% embed url="https://xumm.app/detect/xapp:xumm.pro-beta" %}
+[https://xumm.app/detect/xapp:xumm.pro-beta](https://xumm.app/detect/xapp:xumm.pro-beta)
 
 or scan this QR code with Xaman:
 
