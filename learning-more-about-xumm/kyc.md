@@ -33,7 +33,7 @@ For a current list of supported documents, please refer to this link:
 
 #### **What about Xaman Pro (Beta)?**&#x20;
 
-When you subscribe to Xaman Pro (Beta), you will have the option to go through the KYC process, however, only those who go through KYC will be able to access to the Pro Bea features like a Profiles, PayString, uploading your avatar and showing your real name when sending payment requests.&#x20;
+When you subscribe to Xaman Pro (Beta), you will have the option to go through the KYC process, however, only those who go through KYC will be able to access to the Pro Beta features like a Profiles, PayString, uploading your avatar and showing your real name when sending payment requests.&#x20;
 
 Because we only want to support trustworthy profiles & to prevent imposters, your avatar & display name will be compared to your KYC government ID information. This way, everybody in the ecosystem will be able to trust other users and their profiles, names, avatars, if they have a Pro Beta subscription.
 
