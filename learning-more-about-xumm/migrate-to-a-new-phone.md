@@ -19,13 +19,15 @@ Congratulations! Getting a new phone can be exciting, but before you get started
 
 The first thing you need to know about getting Xaman (formerly Xumm) working on your new device is that **you can not restore or copy** Xaman from one device to another. Xaman needs to be **installed fresh** on your new phone otherwise you will see this when you launch the app:
 
-<figure><img src="../.gitbook/assets/Wipe Xumm.jpg" alt=""><figcaption><p>Wipe Xumm</p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Push notifications - 4.png" alt=""><figcaption></figcaption></figure>
 
 If you are already at this error screen, **uninstall** Xaman then continue reading...
 
 To install Xaman on your new phone, you can download it from one of 2 places:
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td><td></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">                         Xaman for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td><td></td></tr><tr><td align="center">                      Xaman for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td><td></td></tr></tbody></table>
 
 Just select one of the above links and press the **Install** button to begin the download.
 
