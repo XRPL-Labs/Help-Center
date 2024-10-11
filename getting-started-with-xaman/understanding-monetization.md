@@ -74,35 +74,6 @@ At some point you will notified you are approaching "above average use" and be a
 
 Our goal is to keep the XRPL ecosystem healthy. The usage fees will be kept low and fairly priced. If you have concerns about our fees, please feel free to contact us via the Xaman Support xApp.
 
-#### I have already subscribed to Xaman Pro. How does this apply to me?
-
-The fees are calculated using various factors
-
-\
-
-
-##
-
-## How Monthly Subscription&#x20;
-
-Any of our users can subscribe to our Xaman Pro service.
-
-All Pro subscribers will have unlimited use of Xaman for the period of 1 year.
-
-
-
-> TL;DR: no details: a low, fair price to keep the ecosystem healthy, after more than average use and value from the app.
-
-
-
-although it's hard to share little information :P But I think we can get away with explaining that above average use and value, and the price, are things not equal to everyone. Even based on geographical location, prices, taxes, overhead costs, and incomes differ. We don't want to price out lower income countries, we don't feel every kind of above average use is equal.
-
-We want it to be fair, we want it to be sustainable, and as such we may need to make minor changes along the way.
-
-The average time to commute to work in the USA is 26 minutes.
-
-The average time to commute to work in the Autralia is 54 minutes.
-
 
 
 
