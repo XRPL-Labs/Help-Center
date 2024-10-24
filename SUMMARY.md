@@ -144,6 +144,7 @@
 * [Xahau xApps](all-about-xapps/xahau-xapps.md)
   * [Balance Adjustment](all-about-xapps/xahau-xapps/balance-adjustment.md)
   * [XAH Teleport](all-about-xapps/xahau-xapps/xah-teleport.md)
+  * [Voucher](all-about-xapps/xahau-xapps/voucher.md)
 
 ## Xaman Pro beta
 
