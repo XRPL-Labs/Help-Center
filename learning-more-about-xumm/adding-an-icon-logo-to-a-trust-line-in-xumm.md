@@ -40,7 +40,6 @@ Your project must also feature these traits as reflected by the data we retrieve
 * Token issuer domain name
 * Have a non-trivial number of incoming Trust Lines for your asset
 * Have a non-trivial amount of asset holders for your asset
-* Completed [the XRPL Foundation](https://foundation.xrpl.org/token-assessment-framework/) [Self Assessment](https://foundation.xrpl.org/token-assessment-framework/)
 
 Once you have completed all of the above, your icon is _eligible_ to be displayed in Xaman.
 
