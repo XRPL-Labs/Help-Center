@@ -53,7 +53,7 @@ It is hard to imagine how many accounts that actually is, so maybe this will hel
 
 If you had a job that paid you 390 trillion euros per hour, you would have to work 24 hours per day, 7 days per week, 365 days per year for about 99 quadrillion years to earn 340 undecillion euros.
 
-It is unimaginably difficult for someone to guess your account number out of 340 undecillion possible accounts. you would need to make 390 trillion guess per hour for **99 quadrillion years** to guess them all.
+It is unimaginably difficult for someone to guess your account number out of 340 undecillion possible accounts. You would need to make 390 trillion guess per hour for **99 quadrillion years** to guess them all.
 
 {% hint style="success" %}
 Entire books have been dedicated to this topic but if you are interested in learning a bit more about it, you can check out this link on [entropy](https://en.wikipedia.org/wiki/Entropy\_\(information\_theory\)). It is not exactly "easy reading" but it will get you going in the right direction.
@@ -61,7 +61,7 @@ Entire books have been dedicated to this topic but if you are interested in lear
 
 ## **How is that different from a cold/hard wallet?**
 
-It is no different. Whether an account is generated off line or online, there is no difference in the total number of possible accounts. The chances of guessing your account secret is the same.
+It is no difference. Whether an account is generated off line or online, there is no difference in the total number of possible accounts. The chances of guessing your account secret is the same.
 
 ## **Why you are always telling people to protect their Secret Numbers?**
 
@@ -73,67 +73,53 @@ The only way someone can access your XRP Ledger account is if they know your Sec
 
 ## **What about the 6 digit passcode to access Xaman. That is only 1 million possibilities. Anyone could guess that.**
 
-You are absolutely right. Let’s say that someone has acquired your phone and somehow circumvented your password and now has full access to it.
+You are absolutely right. Let’s say that someone has acquired your phone and somehow circumvented your phone's password and now has full access to it.
 
-An attacker launches Xumm and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 one passcode per second and about 11 days later they have tried all of the possible combinations. So now they have access to Xumm.
+An attacker launches Xaman and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 one passcode per second and about 11 days later they have tried all of the possible combinations. So somewhere along the way, they would get  access to Xaman, right?
 
-**Except** for one small countermeasure we implemented in Xumm. We have configured Xumm to only allow 5 attempts before Xumm starts to add time to the next attempt. After the ninth wrong entry, Xumm requires a delay of **2 hours** to input again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all… Or about **228 years**.
+That makes sense, **except** for one small countermeasure we implemented in Xaman. We have configured Xaman to only allow 5 attempts before it starts to add time to the next attempt. After the ninth wrong entry, Xaman requires a delay of **2 hours** before you can input a passcode again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all… Or about **228 years**.
 
 ## **Ha! So now its down from 99 quadrillion years to 228 years!**
 
-However, let’s say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes.  In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it. Provided that you selected a strong signing password, this could take awhile to guess.
+However, let’s say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. (If you configured one, which we recommend that you do.) Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes.  In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it. Provided that you selected a strong signing password, this could take awhile to guess.
 
-## Does the Xumm passcode and signing password protect my XRPL account?
+The point is, there are multiple layers of security in Xaman to protect your XRPL account. A potential hacker who gets your phone, needs to crack the phone's passcode, then crack Xaman's passcode, then crack Xaman's signing password. This is very, very difficult to do if you use good passcodes/passwords.
+
+## Does the Xaman passcode and signing password protect my XRPL account?
 
 Yes and no.&#x20;
 
-The passcode that you configure in Xumm is designed to keep people from accessing the Xumm application. It **does not** protect your Secret Numbers from being used by someone else.
+The passcode that you configure in Xaman is designed to keep people from accessing the Xaman application. It **does not** protect your Secret Numbers from being used by someone else.
 
-For example, let's say you have two phones and you have installed Xumm on both of them. You could import your secret numbers into both phones and access your XRP Ledger account from both devices. The passcode that you setup on one phone does not affect your second phone. You could configure one phone with one passcode and your other phone with a different passcode. Changing your passcode on either device does not affect the other device. In other words, the passcode is a local security measure on your device to prevent accessing the Xumm app. The same applies to any signing password you create.&#x20;
+For example, let's say you have two phones and you have installed Xaman on both of them. You could import your secret numbers into both phones and access your XRP Ledger account from both devices. The passcode that you setup on one phone does not affect your second phone. You could configure one phone with one passcode and your other phone with a different passcode. Changing your passcode on either device does not affect the other device. In other words, the Xaman passcode (and signing password) are local security measures on your device to prevent accessing the Xaman app.
 
-The goal for Xumm is to protect your Secret Numbers **on your phone**. The passcode and signing passwords are designed to help do this.
+The goal for Xaman is to protect your Secret Numbers **on your phone**. The passcode and signing passwords are designed to help do this.
 
-## **Why would I need the Xumm Tangem cards then?**
+## **Why would I need the Xaman (Tangem) cards then?**
 
-By this point, hopefully you realize it is basically impossible to **guess** the Secret Numbers in your lifetime. The amount of possibilities is just too great, but... there is the risk that your phone could be lost or stolen. If that were to happen, and given enough time and resources, your phone could be hacked and once someone gained access to your phone, they might be able to hack Xumm and if they did that they might be able to decrypt your secret numbers, and if they did that, they could access your funds! &#x20;
+By this point, hopefully you realize it is basically impossible to **guess** the Secret Numbers in your lifetime. The amount of possibilities is just too great, but... there is the risk that your phone could be lost or stolen. If that were to happen, and given enough time and resources, your phone could be hacked and once someone gained access to your phone, they might be able to hack Xaman and if they did that they might be able to decrypt your secret numbers, and if they did that, they could access your funds! &#x20;
 
-We are talking theoretical here but still, it might be possible, so we decided to offer a way to mitigate the risk of a lost or stolen phone... enter **Xumm (Tangem) cards**.
+We are talking theoretical here but still, it might be possible, so we decided to offer a way to mitigate the risk of a lost or stolen phone... enter **Xaman (Tangem) cards**.
 
-Xumm cards are the perfect way to alleviate the risk of a compromised phone, especially if you follow our recommend guidelines here:
+Xaman cards are the perfect way to alleviate the risk of a compromised phone, especially if you follow our recommend guidelines here:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Best Security Practices Using Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/best-security-practices-using-a-xumm-card.md">best-security-practices-using-a-xumm-card.md</a></td><td><a href="../../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Best Security Practices Using Xaman (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/best-security-practices-using-a-xumm-card.md">best-security-practices-using-a-xumm-card.md</a></td><td><a href="../../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td></tr></tbody></table>
 
 Although we believe that your phone is secure and that it will never get lost/damaged/stolen or hacked, having a pair of cards will ensure that even if your phone **was** ever compromised, your XRPL account would still be safe. Here’s how they work…
 
-A Xumm card will generate a set of private keys **on the card**. They never leave the card. No one will ever see them, (including you) and there is no way to access them. You can never be tricked into giving your account secret away and the only way to access your account is by having the card with you.
+A Xaman card will generate a set of private keys **on the card**. They never leave the card. No one will ever see them, (including you) and there is no way to access them. You can never be tricked into giving your account secret away and the only way to access your account is by having the card with you.
 
 ## **This sounds better than a cold wallet.**
 
-You’re right. Most cold wallets give you the account secret (Secret Numbers/Family Seed/Mnemonic) so you can be tricked into giving it away. This can not happen with the Xumm cards. As well, most cold wallets also require that you have a computer to use them and computers can be VERY difficult to secure. This is not an issue with the Xumm cards.
+You’re right. Most cold wallets give you the account secret (Secret Numbers/Family Seed/Mnemonic) so you can be tricked into giving it away. This cannot happen with the Xaman cards. As well, most cold wallets also require that you have a computer to use them and computers can be VERY difficult to secure. This is not an issue with the Xaman cards.
 
-Your private key (keypair) is generated by a chip inside the Xumm card. The keypair **cannot be extracted or wiped** from the card and the [key generation by the chip inside the card is very secure](https://twitter.com/Tangem/status/1346555757009899520?s=20). (And has been audited.) There is no way for you to access them so you can never give them away. Like we said, the account secret is **on the card** and the only way to access your account is by physically having the card with you.
-
-## **Could someone hack the card?**
-
-Just like Xaman, the chances of guessing the account secret is 1 out of 340 undecillion.
-
-Here are some interesting facts about the cards.
-
-* Contains $0 & 0 XRP in value upon delivery: the card will generate a keypair when first used with Xaman, and the newly generated keypair (and r-address on the XRPL) will have to be [activated with 10 XRP as per XRP Ledger requirement](../../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/) first.
-* Card dimensions: 85.60 mm x 54.00 mm x 0.80 mm
-* Weight: about 4 grams
-* **S3D350A microchip from Samsung**
-* **Common Criteria EAL6+ Assurance Level**
-* Uses 3DES, AES, RSA, & ECC cryptography
-* **Arm SecurCore SC000 Core**
-* Compatible with Android 5.1+ or iPhone with NFC (select models, iOS 13+)
-* **Firmware** [**audited**](https://research.kudelskisecurity.com/2018/08/06/audit-of-tangems-smartcard-wallet-code/) **by Kudelski Security**
+Your private key (keypair) is generated by a chip inside the Xaman card. The keypair **cannot be extracted or wiped** from the card and the [key generation by the chip inside the card is very secure](https://twitter.com/Tangem/status/1346555757009899520?s=20). (And has been audited.) There is no way for you to access them so you can never give them away. Like we said, the account secret is **on the card** and the only way to access your account is by physically having the card with you.
 
 ## **I want to know more about the cards.**
 
 Of course. check out this article:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td><td><a href="../../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xaman (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td><td><a href="../../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
 
 ## **What about if I connect Xaman to a “questionable” website or I scan an untrusted QR code?**
 
@@ -146,9 +132,11 @@ It is not possible for someone to access your **XRP** in your XRPL account via a
 * &#x20;A token issuer can freeze their own Trust Line, which would make their issued tokens unusable. ( but they can not access your account or your XRP.)
 * A token issuer can misconfigure their Trust Line, which could make their issued tokens unusable. (Again, they can not access your account or your XRP.)
 * A token issuer could send you messages via the XRPL (once they know your r-address) and somehow convince you to send them your secret numbers. (While not really considered a “hack”, the results are pretty much the same.)
-* A token issuer could initiate implement the 'clawback' feature on their Trust Line which allows them to take back as much of their token as they like, as often as they like, whenever they like.\
-  \
-  [https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039d-clawback](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039d-clawback)
+* A token issuer could initiate the 'clawback' feature on their Trust Line which allows them to take back as much of their token as they like, as often as they like, whenever they like.
+
+See this link for more information about the Clawback feature on the XRPL:\
+\
+[https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039d-clawback](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039d-clawback)
 
 ## **What about spam transactions? Are they dangerous?**
 
