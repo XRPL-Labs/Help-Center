@@ -6,21 +6,23 @@ description: What to do if you've been hacked or scammed
 
 If you are the victim of a crime, it is vital that you report it to **your local police department** as soon as possible. They will have the resources, the expertise and experience necessary to conduct a thorough investigation into your case and determine what the best course of action is to recover your funds.
 
-Some countries have a special "cyber crime" or "financial crime" unit that you can report crimes to as well. Your local police will provide you with all of your options.
+Some countries have a special "cyber crime" or "financial crime" units that you can report crimes to as well. Your local police should provide you with all of your options.
 
 ## Frequently asked questions
 
 ### Can Xaman conduct its own investigation?
 
-Xaman is not part of any **governmental law enforcement agency** and as such, we do not have the authority to conduct a criminal investigation. As well, we can not interfere in police investigations. If the police require our assistance, the will contact us.
+Xaman is not part of any governmental law enforcement agency nor we do not have the legal authority to conduct a criminal investigation. As well, we are not permitted to interfere in police investigations.&#x20;
+
+If the police require our assistance, the will contact us.
 
 ### **My police department doesn't know anything about crypto scams**
 
-Investigating criminal matters, which now includes crypto and blockchain crimes, is one of the primary responsibilities of law enforcement.  In most countries around the world, the local police departments are getting better when it comes to investigating cyber crimes. If there is any chance in recovering your funds, the police will need to be involved.
+Investigating criminal matters, which now includes crypto and blockchain crimes, is one of the primary responsibilities of law enforcement.  In most countries around the world, the local police departments are getting better when it comes to investigating cyber crimes. (After all, blockchain has been around for over 15 years now.) If there is any chance in recovering your funds, the police will need to be involved.
 
 ### **Why can't Xaman just reverse the transactions and get my funds back?**
 
-Transactions on the XRP Ledger can not be reversed, blocked or "undone". (The XRPL does not have any administrative functions built into it, so there is no way for Xaman or anyone else to modify or change a completed transaction.) &#x20;
+Transactions on the XRP Ledger can not be reversed, blocked or "undone" and the XRPL does not have any administrative functions built into it, so there is no way for Xaman or anyone else to modify or change a completed transaction. All transactions on the XRPL are permanent.
 
 ### **Why can't I just change my 6 digit passcode or my signing password?**
 
@@ -30,15 +32,7 @@ The same applies to your signing password. Both the passcode and the sign passwo
 
 ### **What else should I do?**
 
-After you have contacted the police, you should consider doing the following:
-
-1. Submit a fraudulent account report to **XRPforensics**. They track accounts involved in criminal activity.  -> [https://xrplorer.com/contact](https://xrplorer.com/contact)\
-   \
-   Their main contact page looks like this:\
-   \
-   ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/5118562529298/mceclip0.png)\
-   \
-   \
+1. After you have contacted the police, explain exactly what happened which lead up to this situation. They might need access to your phone and your internet history so you should be prepared to surrender your mobile device and your internet records if required.\
 
 2. Consider re-keying your account and disabling the master key for the compromised account. If you do this, it will prevent the scammers from accessing your account again.
 
@@ -54,10 +48,22 @@ After you have contacted the police, you should consider doing the following:
    \
    [How to create a new XRP Ledger account using Xumm](https://support.xumm.app/hc/en-us/articles/4875348911762)\
    \
-   [How to delete your XRP Ledger account](https://support.xumm.app/hc/en-us/articles/360018166359)
-4. Once your account / funds are secure again, try to think of ways your account secret could have been compromised. Have you shared it with someone? Was it stored on a cloud account? On your PC? Mobile device? Have you entered your account secret someplace? A google form? A crypto wallet? Website? Airdrop? If you can't think of anything, there is a good chance your mobile device has been hacked.\
-   \
-   At this point we strongly recommend you consider wiping your phone and start reinstalling applications one at a time. Do not restore from backup! Without knowing how your phone was compromised, restoring from backup could be dangerous.\
+   [How to delete your XRP Ledger account](https://support.xumm.app/hc/en-us/articles/360018166359)\
+
+4. Try to think of ways your account secret could have been compromised.&#x20;
+
+* Have you ever shared your private key it with anyone?&#x20;
+* Was your private key stored on a cloud account or somewhere else online?
+* Was you private key stored on your PC? Mobile device?&#x20;
+* Have you ever entered your private key into a Google form?
+* Have you ever entered your private key into another crypto wallet service?
+* Have you ever entered your private key into a Website?
+* Has your phone ever been in for servicing or repairs?
+* Do you use public wifi?
+
+If none of these apply to your situation, there is a good chance that your mobile device has been hacked.\
+\
+At this point we strongly recommend you consider wiping your phone and start reinstalling applications one at a time. Do not restore from backup! Without knowing how your phone was compromised, restoring from backup could be dangerous.\
 
 
 **Apple**
@@ -75,13 +81,13 @@ We take security VERY seriously.
 
 If you have found yourself in this situation, you should consider the following suggestions moving forward:
 
-* **Xumm (Tangem) cards** - these cards are an excellent way to take the security of your XRPL account to the next level. You can learn how here:
+* **Xaman (Tangem) cards** - these cards are an excellent way to take the security of your XRPL account to the next level. You can learn more about them here:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How safe are Xumm (Tangem) cards?</td><td></td><td></td><td><a href="../xumm-tangem-cards/how-safe-is-a-card.md">how-safe-is-a-card.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How safe are Xaman (Tangem) cards?</td><td></td><td></td><td><a href="../xumm-tangem-cards/how-safe-is-a-card.md">how-safe-is-a-card.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
 
 * Review the following article and consider how you plan to interact with the XRP Ledger in the future.&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xumm?</td><td></td><td></td><td><a href="../security-and-xumm/all-about-security/how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../.gitbook/assets/Tokens and coins -1 (1).png">Tokens and coins -1 (1).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xaman?</td><td></td><td></td><td><a href="../security-and-xumm/all-about-security/how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../.gitbook/assets/Tokens and coins -1 (1).png">Tokens and coins -1 (1).png</a></td></tr></tbody></table>
 
 ### **Summary**
 
@@ -89,4 +95,4 @@ If you have found yourself in this situation, you should consider the following 
 * Either re-key the account or
 * Create a new account and move your assets over to the new account
 
-Note: Be advised, Trust Lines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of trustlines until the move is complete.
+Note: Be advised, Trust Lines will have to be duplicated (temporarily) in the new account until they can be removed from the old account requiring enough XRP to cover reserves for two sets of Trust Lines until the move is complete.
