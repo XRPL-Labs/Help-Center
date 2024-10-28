@@ -14,7 +14,7 @@ Simply touch this link:
 
 [**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth)
 
-or you can find it by pressing the **xApps** button at the bottom of the main screen in Xumm.\
+or you can find it by pressing the **xApps** button at the bottom of the main screen in Xaman (formerly Xumm).\
 
 
 
@@ -28,14 +28,14 @@ For each token in your account, the Account Worth xApp looks at the XRPL DEX and
 <figure><img src="../../.gitbook/assets/Account Worth - xApp - 2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Xumm shows the _real_ representation of each asset based on the _current_ DEX liquidity. It shows the amount you can _actually_ trade your tokens for, which is, in case of illiquid pairs, a lot less than the fake price most platforms show.&#x20;
+Xaman shows the _real_ representation of each asset based on the _current_ DEX liquidity. It shows the amount you can _actually_ trade your tokens for, which is, in case of illiquid pairs, a lot less than the fake price most platforms show.&#x20;
 {% endhint %}
 
 ### **What about the base reserve and owner reserves? Are they counted in the total value?**
 
 The Account Worth xApp **includes** the base reserve and owner reserves when calculating the value of your XRP.  The reason for this is that while the reserves are marked as "un-spendable" on the XRPL, they are still **in your account** so they are counted when Account Worth calculates the total value of your XRP. &#x20;
 
-### **Why is there a difference been what Account Worth shows and what the DEX Trade xApp shows?**
+### **Why is there a difference between what Account Worth shows and what the DEX Trade xApp shows?**
 
 Account Worth shows the real value of each asset based on the current liquidity on the DEX. The DEX Trade xApp shows the last traded price. (It does not calculate the actual worth of token.)
 
