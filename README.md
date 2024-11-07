@@ -9,7 +9,7 @@ coverY: 0
 # Welcome to the Xaman Help Center!
 
 {% hint style="info" %}
-If you are looking for Customer Support for Xaman, please contact us directly through the application using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support). You can find it by pressing the '**xApps**' button located at the bottom on the screen in Xaman.'
+If you are looking for Customer Support for Xaman, please contact us directly through the application using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support). You can find it by pressing the '**xApps**' button located at the bottom on the screen in Xaman.
 
 
 
