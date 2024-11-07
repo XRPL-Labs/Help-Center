@@ -8,6 +8,14 @@ coverY: 0
 
 # Welcome to the Xaman Help Center!
 
+{% hint style="info" %}
+If you are looking for Customer Support for Xaman, please contact us directly through the application using the **Xaman Support xApp**. You can find it by pressing the xApp button located at the bottom on the screen in Xaman.
+
+
+
+
+{% endhint %}
+
 We have divided this site into various categories that you can browse at your convenience or simply use the **Search** button at the top of the page to get a quick list of articles related to your search criteria.
 
 Should you notice an article that is out of date or if you would like to see an article about a topic that is not covered here, [**just let us know.**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) We are always happy to hear from the community on how we can improve!&#x20;
