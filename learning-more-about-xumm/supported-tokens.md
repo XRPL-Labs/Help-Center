@@ -23,7 +23,7 @@ Those tokens are all issued currencies. They were created on the XRPL/Xahau netw
 
 The BTC/ETH/SGB/FLR tokens that were issued on the XRPL are not the same as the native BTC/ETH/SGB/FLR tokens on their respective blockchains.&#x20;
 
-For example, you can not send BTC issued on the XRPL to the Bitcoin network because the Bitcoin network and the XRP Ledger are separate and incompatible networks.&#x20;
+For example, you can not send BTC issued on the XRPL directly to the Bitcoin network because the Bitcoin network and the XRP Ledger are separate and incompatible networks.&#x20;
 
 People/companies issue tokens on XRPL to enjoy all the benefits of the XRPL but who don't want the limitations or issues associated with other blockchains.
 
@@ -31,7 +31,7 @@ If your are interested in learning more about this, check out this article:
 
 * [How do Gatehub’s issued tokens work](https://support.xumm.app/hc/en-us/articles/4619198806802)
 
-### **So can I send ETH to the XRPL?**
+### **So can I send ETH coins directly to the XRPL?**
 
 No. ETH is the native token on the Ethereum blockchain. The Ethereum blockchain and the XRPL are separate and incompatible networks.
 
@@ -53,7 +53,7 @@ No. XDC is the native token on the XinFin blockchain. The XinFin blockchain and 
 
 ### **Where can I see a list of the tokens that you support?**
 
-We are not aware of a definitive list of tokens on the XRP Ledger, but you can do a search for most of them here:
+There is not a definitive and updated list of tokens on the XRP Ledger, but you can do a search for most of them here:
 
 {% embed url="https://xrpl.services/tokens" %}
 XRPL Services Tokens page
