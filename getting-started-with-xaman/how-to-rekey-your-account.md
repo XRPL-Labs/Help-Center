@@ -1,4 +1,5 @@
 ---
+description: How to rekey an XRPL account
 cover: ../.gitbook/assets/Large rock with Key.jpg
 coverY: 0
 ---
@@ -59,7 +60,7 @@ Once you have completed the following steps, you will be able to sign transactio
 
 <figure><img src="../.gitbook/assets/regular keys -3.png" alt=""><figcaption></figcaption></figure>
 
-3\) Now, switch accounts to your **Primary** account in Xumm and to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
+3\) Switch accounts to your **Primary** account and go to [**XRP Ledger Services**](https://xrpl.services/)**.**
 
 4\) Press the ![](<../.gitbook/assets/image (1) (6).png>) button then press **Open in Xumm App** and sign in.
 
