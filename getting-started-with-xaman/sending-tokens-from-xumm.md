@@ -64,3 +64,26 @@ When you create an account with a crypto exchange, they issue you a customer acc
 If you would like to learn a bit more about destination tags, check out this video:
 
 {% embed url="https://www.youtube.com/watch?index=5&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp_l&v=gAWnIw4gzW8" %}
+
+
+
+### Frequently Asked Questions
+
+#### I noticed that there is a 'Memo' field on the Summary screen before I sign the transaction. What is that for?
+
+
+
+<figure><img src="../.gitbook/assets/Memo field.png" alt=""><figcaption></figcaption></figure>
+
+The Memo field is a location where you can add additional information to a transaction. For example, you might be paying an invoice and you would like to include an invoice number in your transaction. You could add the invoice number in the Memo field.
+
+There are cases where you might want to prove that you own your XRPL account. (ie. Perhaps a crypto exchange or a bank is asking for proof that it is your account.) You could agree to send them a transaction and include a word or phrase that you and the bank agree on in the transaction. You would put the word or phrase in the Memo field.
+
+There are also cases where you might have sent funds to a wrong account and you would like to try to contact the account owner and ask them to return your funds. You could write a short message in the Memo field and explain that the funds were sent by mistake and you would be very happy if they returned your funds to you.
+
+But, please note, the Memo field is **not for a destination tag**. There is a separate field for destination tags. (As explained above.)
+
+
+
+
+
