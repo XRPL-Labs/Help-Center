@@ -51,6 +51,10 @@ No. SGB is the native token on the Songbird blockchain. The Songbird blockchain 
 
 No. XDC is the native token on the XinFin blockchain. The XinFin blockchain and the XRPL are separate and incompatible networks.
 
+### **.and USDT?**
+
+No. USDT (aka Tether) has been issued on fourteen protocols and blockchains, but not on the XRP Ledger or Xahau yet. They might decide to issue on the XRPL/Xahau, but as of November 2024, there are no reports of this .
+
 ### **Where can I see a list of the tokens that you support?**
 
 There is not a definitive and updated list of tokens on the XRP Ledger, but you can do a search for most of them here:
