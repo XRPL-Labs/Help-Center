@@ -34,7 +34,7 @@ Notice the red triangle with the exclamation mark. This indicates a spam transac
 
 ### **Why do token issuers send spam?**
 
-In many cases, i is simply a marketing ploy to get you to participate in their project. People who send unsolicited transactions on the XRPL are trying to get you to buy their token or their NFT, or whatever it is that they are promoting.
+In many cases, it is simply a marketing ploy to get you to participate in their project. People who send unsolicited transactions on the XRPL are trying to get you to buy their token or their NFT, or whatever it is that they are promoting.
 
 In other cases, they are trying to scam you. Check out this spam transaction:
 
@@ -72,13 +72,13 @@ Yes. The XRPL automatically charges transaction fees in order to process transac
 
 Absolutely not. No one can access your XRPL account unless they know your account secret. (Secret numbers / Family seed / Mnemonic) As long as you keep your account secret safe and secure, your funds are safe. The only way someone can access your XRPL account is if you give them your account secret. See this article for more information:
 
-* [How secure is Xumm?](https://support.xumm.app/hc/en-us/articles/4427109779986)
+* [How secure is Xaman?](../security-and-xumm/all-about-security/how-secure-is-xumm.md)
 
 ### **I clicked the transaction to view it, am I in any danger?**
 
 No. Reviewing a transaction on the XRPL is not dangerous. The only way someone can access your XRPL account is if they get access to your account secret. See this article for more information:
 
-* [How secure is Xumm?](https://support.xumm.app/hc/en-us/articles/4427109779986)
+* [How secure is Xumm?](../security-and-xumm/all-about-security/how-secure-is-xumm.md)
 
 ### **I don't even know them! How did they get my r-address? I’ve been very careful who I’ve interacted with in the XRP community…**
 
