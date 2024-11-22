@@ -20,13 +20,13 @@ All donations will be deposited into an XRP account and once a year, the funds w
 
 1. **The Terry Fox Foundation**\
    To maintain the vision and principles of Terry Fox while raising money for cancer research through the annual Terry Fox Run, Terry Fox School Run, as well as via memoriam donations and planned giving.\
-   _Learn more at:_ [_https://terryfox.org_](https://terryfox.org/)
+   &#xNAN;_&#x4C;earn more at:_ [_https://terryfox.org_](https://terryfox.org/)
 2. **Make a wish Foundation**\
    Make-A-Wish creates life-changing wishes for children with critical illnesses.\
-   _Learn more at:_ [_https://wish.org_](https://wish.org/)
+   &#xNAN;_&#x4C;earn more at:_ [_https://wish.org_](https://wish.org/)
 3. **Ocean Conservancy**\
    Ocean Conservancy is working with you to protect the ocean from today’s greatest global challenges. Together, we create science-based solutions for a healthy ocean and the wildlife and communities that depend on it.\
-   _Learn more at:_ [_https://oceanconservancy.org_](https://oceanconservancy.org/)
+   &#xNAN;_&#x4C;earn more at:_ [_https://oceanconservancy.org_](https://oceanconservancy.org/)
 
 ## There are two ways that you can donate:
 
@@ -36,7 +36,7 @@ All donations will be deposited into an XRP account and once a year, the funds w
 2. By opening this link or scanning this QR code to pay with XUMM\
    [**Open the XUMM Payment Request page**](https://xumm.app/detect/request:rxUMmcHjebM2cEXWrnvwHWn5NU9tZTxb8)\
    \
-   ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4414871176082/mceclip0.png)\
+   ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article_attachments/4414871176082/mceclip0.png)\
 
 
 ## Frequently Asked Questions

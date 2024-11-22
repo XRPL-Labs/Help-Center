@@ -64,7 +64,7 @@ Escrows are a native feature on the XRP Ledger and as they gain in popularity, o
 
 #### **How much does it cost to subscribe to Xaman Pro (beta)?**
 
-A subscription to Xaman Pro Beta costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit card**.**
+A subscription to Xaman Pro Beta costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit car&#x64;**.**
 
 #### How much does it cost to have the cards shipped to me?
 

@@ -10,7 +10,7 @@ Thank you for your interest Xaman Pro! 🤗
 
 Xaman Pro is a paid subscription service which provides additional features to the Xaman wallet.
 
-A subscription to Xaman Pro costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit card**.** (This subscription lasts for **1 year** at which time you will be given the option to renew your subscription.)
+A subscription to Xaman Pro costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit car&#x64;**.** (This subscription lasts for **1 year** at which time you will be given the option to renew your subscription.)
 
 ### Options
 

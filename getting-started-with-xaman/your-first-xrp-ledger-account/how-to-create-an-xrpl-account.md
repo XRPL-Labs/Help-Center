@@ -62,7 +62,7 @@ Once you decide, select it and press the **Next** button.
 
 <figure><img src="../../.gitbook/assets/Account label 1.png" alt=""><figcaption></figcaption></figure>
 
-Enter the account label, then touch **Done** and press the **Next** button**.**
+Enter the account label, then touch **Done** and press the **Next** butto&#x6E;**.**
 
 <figure><img src="../../.gitbook/assets/Hooray.png" alt=""><figcaption></figcaption></figure>
 
