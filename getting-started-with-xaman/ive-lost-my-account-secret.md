@@ -41,11 +41,9 @@ You can read more about this here:
 [can-i-view-export-my-account-secret.md](can-i-view-export-my-account-secret.md)
 {% endcontent-ref %}
 
-### Can I can't find my account secret. What are my options?
+### I can't find my account secret. What are my options?
 
-There are only five possible options to access your XRP Ledger account.
-
-#### Option 1 - You still have existing access on a device
+#### Option 1 - You still have existing access on your device
 
 Are you able to access your XRPL account on your mobile device **and** you can you still sign transactions on your account?&#x20;
 
@@ -107,17 +105,11 @@ Importing the correct account secret into Xaman will always result in the same r
 
 Xaman is just an interface to the XRP Ledger.&#x20;
 
-When you enter an account secret into Xaman, it If you have a set of secret numbers, they need to be entered exactly that same way that they were displayed when the account was created. Every number needs to be correct, in the correct spot and in the correct row. If even one number is wrong, another XRPL account will be accessed.&#x20;
+When you enter an account secret into Xaman, it provides you access to the XRPL account that the account secret belongs to.  Xaman can only access the account that the account secret belongs to.&#x20;
 
-In some cases, sometimes people have confused a 1 with a 7, a 6 with an 8, a 3 with an 8 or perhaps some other numbers.
+Imagine a big apartment building with about 340 undecillion apartments in it. Each apartment has a lock on the door and there is only one key that opens that lock. When you create an XRP Ledger account, you basically get the one and only key to one of those apartments. There are many other keys that fit other apartments, but your key is the only one that fits your apartment. When you enter your account secret into Xaman, it searches through all 340 undecillion apartments and finds the only apartment which your key opens. Your key will not open any other apartments. It will only open one apartment. Xaman can not open another apartment with your key. It can only open the apartment that the key belongs to.
 
-Take a close look at your secret numbers and consider the possibility that you have written one of them down wrong. If you think there is a chance that one of them is incorrect, see if you can supplement one of the numbers with another possibility and try importing them into Xaman. It may take several attempts with various numbers to get the correct combination. &#x20;
-
-### Do I have any other options?
-
-As mentioned earlier, there is only one way to access an XRP Ledger account... you know the correct account secret for it. (This is one of the main reasons for self-custody. You are the only person who can access your account.)
-
-The XRP Ledger does not have any administrator functions and there are no "back-doors" to get access to an account.&#x20;
+Consider the possibility that there is another account secret for your account.
 
 
 
