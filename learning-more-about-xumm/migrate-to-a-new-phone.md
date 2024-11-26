@@ -51,17 +51,17 @@ If you need assistance on how to do this, select one of these three articles for
 
 ### Frequently asked questions
 
-#### Why did you ask me to keep my old phone?
+### Why did you ask me to keep my old phone?
 
 We have seen cases where people have forgotten their account secret or recorded their account secret incorrectly. Your old phone should still be able to access your XRP Ledger account(s) in case you run into any trouble configuring your new phone. Once you are able to access and sign transactions on your new device, you can uninstall Xaman from your old device or keep it around as a "backup" just in case something happens to your new phone.&#x20;
 
-#### Why can't I restore Xaman from backup?
+### Why can't I restore Xaman from backup?
 
 If Xaman were to store sensitive data, (like your account secrets) in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.&#x20;
 
 This is why it's really important to keep your account secret stored offline, in a secure place.
 
-#### What about my Xaman (Tangem) card accounts?
+### What about my Xaman (Tangem) card accounts?
 
 If you have Xaman cards, you will need to re-import them into Xaman on your new phone.
 
@@ -69,7 +69,7 @@ If you need assist doing this, check out this article:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
-#### My account was created during the Casino Coin swap. How do I access it?
+### My account was created during the Casino Coin swap. How do I access it?
 
 If you have access to your old CasinoCoin wallet secret in the form of a code that starts with a lower case '**s'**, you can **import your CasinoCoin wallet secret** [**with this link (scan the QR with Xaman)**](https://xumm.app/detect/secret?type=alt-family-seed\&name=CasinoCoin\&alphabet=cpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2brdeCg65jkm8oFqi1tuvAxyz).
 
@@ -78,3 +78,19 @@ If you do not have your CasinoCoin secret mentioned above, the CasinoCoin team h
 [How to recover a CasinoCoin account](https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account)
 
 If you run into any trouble with the recovery process, please contact the CasinoCoin support staff here: [CasinoCoin Support](https://eminence.freshdesk.com/support/tickets/new)
+
+### I imported my account secret but it did not access my account. My account secret accessed an un-activated account. Do I need to activate it access my original account?
+
+No. In order to access an XRP Ledger account, you need to know the **correct** account secret for it. (Secret Numbers / Family Seed / Mnemonic). As long as you have the correct one, importing the account secret into Xaman **will always** result in the same r-address, with the balance and tokens in place. If you import an account secret into Xaman and you get a different r-address, there are three possibilities:
+
+* it was originally written down incorrectly when you created your account
+* it was entered into Xaman incorrectly
+* there is another account secret for your XRP Ledger account
+
+The account secret that you entered into Xaman belongs to the XRPL account that is being accessed.&#x20;
+
+Please refer to this article for more information:
+
+{% content-ref url="../getting-started-with-xaman/ive-lost-my-account-secret.md" %}
+[ive-lost-my-account-secret.md](../getting-started-with-xaman/ive-lost-my-account-secret.md)
+{% endcontent-ref %}
