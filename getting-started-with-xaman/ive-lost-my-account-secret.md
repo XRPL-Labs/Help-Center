@@ -75,7 +75,16 @@ If your account was created during the Casino Coin swap, there is a special set 
 
 **Option 5 - Someone else knows your account secret.**
 
-Have you shared your account secret with anyone? (Family member?) Was anyone else with you when you created your XRPL account? If so, do they have a copy of your account secret? If they do, you can use it to access your account.
+Have you shared your account secret with anyone? (Family member?) Was anyone else with you when you created your XRPL account? If so, do they have a copy of your account secret? If they do, you can use it to access your account.\
+
+
+**Option 6 - You have configured a backup account.**
+
+One of the features on the XRP Ledger is the ability to configure a "regular key" on an account.
+
+{% embed url="https://xrpl.org/docs/tutorials/how-tos/manage-account-settings/assign-a-regular-key-pair" %}
+
+The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/docs/concepts/accounts/cryptographic-keys/), to sign future transactions on an account. If you have configured a regular key on your account, you can still access the account using the regular key account.&#x20;
 
 ## Frequently asked questions
 
