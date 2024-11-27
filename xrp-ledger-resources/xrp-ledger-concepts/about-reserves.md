@@ -61,7 +61,7 @@ Here is a list of objects that require an owner reserve:
 
 Owner reserves can be recovered when the object is removed from the account. (i.e.. By finishing an escrow, deleting or fulfilling your offer on the decentralized exchange, removing your Trust Line, etc.)
 
-Many of these operations can be performed in Xamanor by visiting XRPL Services at:
+Many of these operations can be performed in Xaman or by visiting XRPL Services at:
 
 * [XRPL Services](https://xrpl.services/tools)
 
