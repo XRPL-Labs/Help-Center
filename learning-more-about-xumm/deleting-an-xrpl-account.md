@@ -12,6 +12,8 @@ description: How to delete an XRP Ledger account from the XRPL.
 
 3\) Select the **Account delete** option.
 
+<figure><img src="../.gitbook/assets/Delete your account.png" alt=""><figcaption></figcaption></figure>
+
 4\) Enter the r-address where you would like your funds delivered to.
 
 5\) Sign the transaction.
