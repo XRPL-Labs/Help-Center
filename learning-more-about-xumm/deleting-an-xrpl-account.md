@@ -20,9 +20,9 @@ description: How to delete an XRP Ledger account from the XRPL.
 
 ### Important things to consider
 
-* If you plan to send your remaining funds to a crypto exchange or to another wallet, please make sure that they support the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction on the XRPL. Quality exchanges such as [Gatehub](https://gatehub.net/) support it but many do not.&#x20;
-* The XRP Ledger has a 2 XRP fee to delete an account. (In addition to the regular transaction fee.) This means that after you delete your account you should receive about 8 XRP from your 10 XRP base reserve.
-* A new account on the XRP Ledger **can not** be activated by the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction. If you try to do this, it will be rejected and you will still be charged the 2 XRP fee.&#x20;
+* If you plan to send your remaining funds to a crypto exchange or to another wallet, please make sure that they support the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction on the XRPL. Quality exchanges such as [GateHub](https://gatehub.net/) support it, but many **do not**.&#x20;
+* The XRP Ledger has a 0.2 XRP fee to delete an account. (In addition to the regular transaction fee.) This means that after you delete your account you should receive about 0.79999 XRP from your 1 XRP base reserve.
+* A new account on the XRP Ledger **can not** be activated by the [_accountdelete_](https://xrpl.org/accounts.html#deletion-of-accounts) transaction. If you try to do this, it will be rejected and you will still be charged the 0.2 XRP fee.&#x20;
 * Even after you delete your account, you should **not throw away your account secret**. Someone may send funds to your account in the future and you will need your account secret to access them.
 
 ### Frequently asked questions
@@ -42,7 +42,7 @@ To delete an XRPL account, you need to follow the instructions above.
 {% hint style="warning" %}
 If your XRPL account was removed from Xaman in error, it can be imported back into Xaman using the account secret (Secret numbers / Family Seed / Mnemonic) by following the instructions here:\
 \
-[**Importing your account into Xumm**](../getting-started-with-xaman/importing-your-account/)
+[**Importing your account into Xaman**](../getting-started-with-xaman/importing-your-account/)
 {% endhint %}
 
 #### **I deleted my XRPL account and sent the funds to my exchange account**
@@ -59,4 +59,4 @@ You can not own **any objects** in your XRP Ledger account, including NFTs, if y
 
 #### **I removed all the NFTs in my account but I still can not delete it. What should I do?**
 
-If you ever minted an NFT and it still exists on the XRP Ledger, you will not be able to delete your account until the minted NFT has been burned. (This is a requirement of the the NFT implementation on the XRP Ledger (See the [XLS-20 amendment](https://github.com/XRPLF/XRPL-Standards/discussions/46)), and as a XRPL requirement, cannot be bypassed)  You will need to track down the NFT you minted and make arrangements for it to be deleted. Once you have done that you should be able to delete your XRPL account.
+If you have ever minted an NFT and it still exists on the XRP Ledger, you will not be able to delete your account until the NFT(s) that you minted have been burned. (This is a requirement of the the NFT implementation on the XRP Ledger (See the [XLS-20 amendment](https://github.com/XRPLF/XRPL-Standards/discussions/46)), and as a XRPL requirement, cannot be by-passed)  You will need to track down the NFT you minted and make arrangements for it to be deleted. Once you have done that you should be able to delete your XRPL account.
