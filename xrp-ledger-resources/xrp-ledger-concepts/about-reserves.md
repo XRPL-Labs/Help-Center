@@ -38,15 +38,15 @@ The XRPL has two types of reserves:
 
 #### **Base reserve**
 
-This reserve is required to activate an XRPL account and needs to be maintained in order to submit transactions on the XRPL. The current base reserve is **10 XRP**. Each XRPL account must contain at least 10 XRP, which is automatically marked as un-spendable by the XRPL in order to be able to transact on the XRPL. The base reserve cannot be used or sent to other accounts. It can only be recovered by deleting account from the XRPL.
+This reserve is required to activate an XRPL account and needs to be maintained in order to submit transactions on the XRPL. The current base reserve is **1 XRP**. Each XRPL account must contain at least 1 XRP, which is automatically marked as un-spendable by the XRPL in order to be able to transact on the XRPL. The base reserve cannot be used or sent to other accounts. It can only be recovered by deleting your account from the XRPL.
 
-_Fun fact!_ When the XRPL was first created the base reserve was 1000 XRP! It was reduced to 200 XRP, then to 20 XRP and has now settled to 10 XRP. (The XRPL validators monitor the state of the network and can vote to change the reserve amounts as the blockchain evolves.)&#x20;
+_Fun fact!_ When the XRPL was first created the base reserve was 1000 XRP! It was reduced to 200 XRP, then to 20 XRP then to 10 XRP and has now settled to 1 XRP. (The XRPL validators monitor the state of the network and can vote to change the reserve amounts as the blockchain evolves.)&#x20;
 
 &#x20;
 
 #### **Owner reserves**
 
-These reserves apply to objects on the XRPL that you own in your account. The owner reserve is currently set at **2 XRP** per object.
+These reserves apply to objects on the XRPL that you own in your account. The owner reserve is currently set at **0.2 XRP** per object.
 
 Here is a list of objects that require an owner reserve:
 
@@ -77,23 +77,25 @@ Any reserve that is applied to your account, **stays in your account.** The XRP 
 
 ### **How can I see my account reserves in Xaman?**
 
-On the main page of Xamn, press the **Reserved** button.
+On the main page of Xaman, press the **Reserved** button.
 
 <figure><img src="../../.gitbook/assets/v24 - Reserves -1.png" alt=""><figcaption></figcaption></figure>
 
 Xaman should display your **Account balance**, the amount of XRP **Available for spending** and a list of **Reserved on ledger** objects in your account.
 
-<figure><img src="../../.gitbook/assets/v24 - Reserves -2.png" alt=""><figcaption></figcaption></figure>
 
-In the above example, you can see that the account has 10 XRP marked as un-spendable to meet the wallet reserve and 2 XRP marked as un-spendable to meet the owner reserves for each of the Trust Lines created in the account. &#x20;
+
+<figure><img src="../../.gitbook/assets/Reserves.png" alt=""><figcaption></figcaption></figure>
+
+In the above example, you can see that the account has 1 XRP marked as un-spendable to meet the wallet reserve and 0.2 XRP marked as un-spendable for each Token to meet the owner reserves for each of the Trust Lines created in the account. &#x20;
 
 ### **On my list is a line titled: NFTokenPages**
 
 When a NFT is minted on the XRPL, an object called _NFTokenpage_ is created to 'store" it.
 
-An NFTokenpage is an object on the XRPL so it requires a 2 XRP owner reserve.&#x20;
+An NFTokenpage is an object on the XRPL so it requires a 0.2 XRP owner reserve.&#x20;
 
-If you would like to recover the 2 XRP for this object you need to get rid of **all of the NFTs** stored on this page. The site where you minted/purchased your NFTs will have instructions on how to do this.
+If you would like to recover the 0.2 XRP for this object you need to get rid of **all of the NFTs** stored on this page. The site where you minted/purchased your NFTs will have instructions on how to do this.
 
 NFTokenpage concept is a bit of a complicated topic but if you are interested in learning more about it, here's a link to an excellent resource:
 
@@ -101,9 +103,9 @@ NFTokenpage concept is a bit of a complicated topic but if you are interested in
 
 ### **How do I recover the Wallet reserve?**
 
-As mentioned above, each XRPL account **must** contain at least 10 XRP to meet the base reserve requirement of the XRP Ledger. If you would like to recover the base reserve, the only way to do this is to delete your account from the XRPL.
+As mentioned above, each XRPL account **must** contain at least 1 XRP to meet the base reserve requirement of the XRP Ledger. If you would like to recover the base reserve, the only way to do this is to delete your account from the XRPL.
 
-There is a 2 XRP fee for doing this which is levied by the XRPL along with the normal transaction fee which applies to all transactions.
+There is a 0.2 XRP fee for doing this which is levied by the XRPL along with the normal transaction fee which applies to all transactions.
 
 (These fees are part of the XRP Ledger and are in **not** related to Xaman.)
 
