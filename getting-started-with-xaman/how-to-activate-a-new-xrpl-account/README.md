@@ -4,9 +4,9 @@ description: How to activate a new XRP Ledger account
 
 # Activating an account (XRPL)
 
-In order to be able to hold XRP (or any of the 9700+ tokens issued on the XRP Ledger) in an XRPL account, it must first be activated with a minimum of 10 XRP.
+In order to be able to hold XRP (or any of the 25,000+ tokens issued on the XRP Ledger) in an XRPL account, it must first be activated with a minimum of 1 XRP.
 
-An account can be activated several ways but regardless of how it is activated, the first 10 XRP deposited into an XRPL account is used to meet the reserve requirements so it will not be spendable (unless and until the account is deleted and the reserve gets moved to another account).
+An account can be activated several ways but regardless of how it is activated, the first 1 XRP deposited into an XRPL account will be used to meet the reserve requirements and will not be spendable (unless and until the account is deleted and the reserve gets moved to another account).
 
 If you're interested, this video explains how reserves and fees on the XRP Ledger work.
 
@@ -40,7 +40,9 @@ You can activate your account from an external source like another XRP Ledger ac
 
 The first two options can be done via Xaman by pressing the  ![](<../../.gitbook/assets/image (1) (1) (4).png>) button:
 
-<figure><img src="../../.gitbook/assets/Account activation - 1.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/activation 2.png" alt=""><figcaption></figcaption></figure>
 
 Your first option is to purchase XRP from one of our partners.
 
@@ -60,11 +62,11 @@ Pressing the, '**Fund with existing account**' button gets you into Xaman send f
 
 <figure><img src="../../.gitbook/assets/Account activation - 3.png" alt=""><figcaption></figcaption></figure>
 
-Choose your existing account in Xaman that has already been activated and has at least 10 XRP available. You will be sending it to your new account.
+Choose your existing account in Xaman that has already been activated and has at least 1 XRP available for spending. You will be sending it to your new account.
 
 <figure><img src="../../.gitbook/assets/Account activation - 4  (1).png" alt=""><figcaption></figcaption></figure>
 
-You can choose any of the pre-determined amounts but the first 10 XRP will be ear marked for the base reserve.  When done, press the **Activate** button then review the transaction and **Slide to Accept**.
+You can choose any of the pre-determined amounts but the first 1 XRP will be ear marked for the account reserve.  When done, press the **Activate** button then review the transaction and **Slide to Accept**.
 
 
 
@@ -96,9 +98,9 @@ Furthermore, just because we have provided a list of exchanges, it does not mean
 
 ### Option 4
 
-Finally, you can activate your new XRPL account by sending 10 XRP from **another** XRPL account.
+Finally, you can activate your new XRPL account by sending 1 XRP from **another** XRPL account.
 
-For example, if you have a friend, family member, co-worker, etc. who has an activated account, you can have **them** activate your account by having them send 10 XRP to it.
+For example, if you have a friend, family member, co-worker, etc. who has an activated account, you can have **them** activate your account by having them send 1 XRP to it.
 
 Here is how they can send XRP to Xaman:
 
