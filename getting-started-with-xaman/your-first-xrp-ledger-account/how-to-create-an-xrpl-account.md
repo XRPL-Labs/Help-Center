@@ -41,7 +41,7 @@ You should receive your public address, also known as your r-address. To continu
 
 
 
-<figure><img src="../../.gitbook/assets/New account - 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reserved.png" alt=""><figcaption></figcaption></figure>
 
 Press the **Next, I understand** button to continue.
 
@@ -80,7 +80,7 @@ Pressing the **Activate your account** button gets you into the Account Activati
 
 
 
-<figure><img src="../../.gitbook/assets/New account - 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/activation 1.png" alt=""><figcaption></figcaption></figure>
 
 If you press the **Buy XRP** button you will be provided with several options to purchase XRP.
 
