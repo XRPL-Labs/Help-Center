@@ -4,13 +4,15 @@ description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sus
 
 # 💡 Understanding monetization
 
-Xaman has become a cornerstone of the XRP Ledger (XRPL) ecosystem, trusted by users and developers for its security, innovation, and user-first approach. From the beginning, grants and community support have been instrumental in building Xaman into one of the most vital wallets on the XRPL. However, as the ecosystem grows, sustainability has become critical.
+{% hint style="info" %}
+Xaman’s monetization model is a necessary step to secure our future as the most trusted, secure, and feature-complete software wallet for the XRPL ecosystem. Sustainability is critical for us to continue delivering the high-quality experience you rely on without compromising what matters most: **your security and a seamless user experience**.
+{% endhint %}
 
-Xaman’s monetization model is necessary to ensure a sustainable future while continuing to deliver the high-quality features and security you trust. This change will impact only the most active users, while casual users will remain unaffected.&#x20;
+The alternative would mean cutting corners—sacrificing the very principles that make Xaman a cornerstone of the ecosystem. We refuse to let that happen. We understand how important Xaman is to you, and we’re committed to keeping essential features like sending transactions **always free**, no matter what.
 
-If you exceed the monthly dynamic usage threshold, some advanced features will be restricted, but sending transactions will always remain free. Users can pay a small fee to regain unrestricted access or subscribe to Xaman Pro for a flat annual fee, offering unlimited use without thresholds.
+However, to ensure we remain resilient and innovative, we’re asking the most active users—the power users—to chip in. If you exceed the monthly dynamic usage threshold, some advanced features will require a small fee to unlock. If this feels inconvenient, we offer flexible options like a flat-rate **Xaman Pro subscription** for unlimited access without thresholds.
 
-<figure><img src="../.gitbook/assets/montization (1).png" alt=""><figcaption><p>The Monetization Flow Consists of Three Stages.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61) (1).png" alt=""><figcaption><p>The Monetization Flow Consists of Three Stages.</p></figcaption></figure>
 
 ## How Does Monetization Work?
 
