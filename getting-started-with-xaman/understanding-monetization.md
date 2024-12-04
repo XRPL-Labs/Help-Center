@@ -14,7 +14,7 @@ This knowledge base article will address why we introduced monetization, how it 
 
 ***
 
-#### Why Did Xaman Introduce Monetization?
+### Why Did Xaman Introduce Monetization?
 
 The decision to monetize was not taken lightly. Here’s why we believe it’s the right step for Xaman and the XRPL ecosystem:
 
@@ -29,17 +29,17 @@ The decision to monetize was not taken lightly. Here’s why we believe it’s t
 
 ***
 
-#### How Does Monetization Work?
+### How Does Monetization Work?
 
-Our monetization model is designed to be fair and inclusive, ensuring casual users can continue to enjoy Xaman for free while power users and businesses contribute to its sustainability.
+Our monetization model is designed to be fair and inclusive, ensuring casual users can continue to enjoy Xaman for free while power users and businesses contribute to our sustainability.
 
 Here are the key elements:
 
 1. **Usage Based Charging**
 
+* The usage threshold is dynamic. It is calculated based on the average usage of all Xaman users each month, ensuring fairness and adaptability.
 * After exceeding the usage threshold, advanced features may require a nominal fee.
 * The usage threshold resets every month.
-* The usage threshold is dynamic. It is calculated based on the average usage of all Xaman users each month, ensuring fairness and adaptability.
 * Using the '**Send**' button remains free for all users, ensuring essential functionality is always available.
 * Users can access Xaman for free up to a certain monthly activity level.
 
@@ -54,17 +54,21 @@ For more details on our monetization model, visit our[ Monetization Blog](https:
 
 ***
 
-#### What If I Choose to Leave Xaman?
+### What If I Choose to Leave Xaman?
 
 If you decide that Xaman no longer meets your needs, you have two options:
 
-Transfer your funds to a **Centralized Exchange** (Moderate Risk)
+1\) Transfer your funds to a **Centralized Exchange** (Moderate Risk)
 
 You can transfer your XRP to a centralized exchange, but this comes with moderate risks. Centralized platforms have a history of breaches and failures, making user assets vulnerable.
 
+{% content-ref url="sending-tokens-from-xumm.md" %}
+[sending-tokens-from-xumm.md](sending-tokens-from-xumm.md)
+{% endcontent-ref %}
 
 
-Transfer your XRPL account to another **Self-Custodial Wallet** (Safer Option)
+
+2\) Transfer your XRPL account to another **Self-Custodial Wallet** (Safer Option)
 
 You can import your wallet into another trusted self-custodial solution using your private keys.
 
@@ -80,54 +84,25 @@ We remain committed to providing the safest, most reliable self-custodial wallet
 
 ***
 
-#### The Bigger Picture: Building a Sustainable and Thriving Ecosystem
-
-Monetization is more than just a financial model—it’s a commitment to the future. By adopting this approach, Xaman aims to:
-
-* Create a platform that is sustainable, independent, and capable of long-term growth.
-* Foster innovation across the XRPL ecosystem by setting a standard for self-sufficiency.
-* Provide users with the best wallet experience, backed by robust support and continuous updates.
-
-Together, we’re building a stronger, more dynamic ecosystem where users and developers alike can thrive.
-
-***
-
-#### Join Us on This Journey
-
-We understand that change can be challenging, but monetization is a necessary step toward securing Xaman’s future and supporting the broader XRPL ecosystem. Your contributions will allow us to continue delivering the features and support you love while fostering innovation and growth.
-
-Thank you for your trust and support. We’re excited to grow alongside you and shape the future of Xaman and the XRPL ecosystem.
-
-For additional questions or support, visit our[ Support Center](https://help.xaman.app/app).
-
-\
 
 
 ## Frequently asked questions
 
 #### How are threshold usage levels determined?
 
-The fees are calculated using various factors but it will all boil down to above average use and value.
+The fees are calculated using various factors but itl boils down to how active your are on Xaman and your account value.
 
 For example:
 
 A) Are you a long term investor who uses Xaman to check their balance once a month?&#x20;
 
-In these cases, Xaman will remain free to use since you rarely use Xaman.
+In these cases, Xaman will remain free to use since you rarely use the app.
 
 B) Are you a long term investor who uses Xaman to check their balance every day, once an hour?&#x20;
 
 At some point you will notified you are approaching "above average use" and be asked to pay to continue using Xaman. Checking user balance once an hour would be considered above average user.
 
-#### I don't like the idea of having to pay. What are my options?
-
-Our goal is to keep the XRPL ecosystem healthy. The usage fees will be kept low and fairly priced. If you have concerns about our fees, please feel free to contact us via the Xaman Support xApp.
-
-
-
-
-
-
+####
 
 
 
