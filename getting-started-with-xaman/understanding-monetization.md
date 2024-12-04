@@ -2,7 +2,7 @@
 description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sustainability'
 ---
 
-# 💡Understanding monetization
+# 💡 Understanding monetization
 
 Xaman has become a cornerstone of the XRP Ledger (XRPL) ecosystem, trusted by users and developers for its security, innovation, and user-first approach. From the beginning, grants and community support have been instrumental in building Xaman into one of the most vital wallets on the XRPL. However, as the ecosystem grows, sustainability has become critical.
 

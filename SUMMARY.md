@@ -4,7 +4,7 @@
 
 ## Getting started with Xaman
 
-* [💡Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
+* [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [😎 Updating to Xaman v2.8.2!](getting-started-with-xaman/updating-to-xaman-v2.8.2.md)
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
