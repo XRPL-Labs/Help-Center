@@ -12,6 +12,10 @@ To ensure Xaman remains resilient, innovative, and secure, we’ve introduced a 
 
 This knowledge base article will address why we introduced monetization, how it works, what it means for users, and the steps to take if you choose to move your account to another platform.
 
+
+
+<figure><img src="../.gitbook/assets/montization.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Why Did Xaman Introduce Monetization?
