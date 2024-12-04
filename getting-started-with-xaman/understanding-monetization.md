@@ -4,8 +4,6 @@ description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sus
 
 # Understanding monetization
 
-### Understanding Monetization: Keeping Security #1 While Ensuring Sustainability
-
 Xaman has become a cornerstone of the XRP Ledger (XRPL) ecosystem, trusted by users and developers for its security, innovation, and user-first approach. From the beginning, grants and community support have been instrumental in building Xaman into one of the most vital wallets on the XRPL. However, as the ecosystem grows, sustainability has become critical.
 
 To ensure Xaman remains resilient, innovative, and secure, we’ve introduced a monetization model that allows us to grow independently while continuing to deliver the high-quality features and support you deserve.
