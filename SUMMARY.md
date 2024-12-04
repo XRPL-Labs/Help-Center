@@ -4,6 +4,7 @@
 
 ## Getting started with Xaman
 
+* [Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [😎 Updating to Xaman v2.8.2!](getting-started-with-xaman/updating-to-xaman-v2.8.2.md)
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
@@ -41,7 +42,6 @@
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xumm.md)
 * [Sending XRP to Xaman](getting-started-with-xaman/sending-xrp-to-xaman.md)
 * [Sending tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
-* [Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [How to convert a Read only account to Full Access](getting-started-with-xaman/how-to-convert-a-read-only-account-to-full-access.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xaman/deposit-to-exchange-didnt-arrive.md)
 * [Can Xaman reverse, freeze or undo a transaction?](getting-started-with-xaman/can-xumm-reverse-freeze-or-undo-a-transaction.md)
