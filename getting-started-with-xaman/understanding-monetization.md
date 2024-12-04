@@ -6,9 +6,9 @@ description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sus
 
 Xaman has become a cornerstone of the XRP Ledger (XRPL) ecosystem, trusted by users and developers for its security, innovation, and user-first approach. From the beginning, grants and community support have been instrumental in building Xaman into one of the most vital wallets on the XRPL. However, as the ecosystem grows, sustainability has become critical.
 
-To ensure Xaman remains resilient, innovative, and secure, we’ve introduced a monetization model that allows us to grow independently while continuing to deliver the high-quality features and support you deserve.
+Xaman’s monetization model is launching soon to ensure a sustainable future while continuing to deliver the high-quality features and security you trust. This change will impact only the most active users, while casual users will remain unaffected.&#x20;
 
-This knowledge base article will address why we introduced monetization, how it works, what it means for users, and the steps to take if you choose to move your account to another platform.
+If you exceed the monthly dynamic usage threshold, some advanced features will be restricted, but sending transactions will always remain free. Users can pay a small fee to regain unrestricted access or subscribe to Xaman Pro for a flat annual fee, offering unlimited use without thresholds.
 
 <figure><img src="../.gitbook/assets/montization (1).png" alt=""><figcaption><p>The Monetization Flow Consists of Three Stages.</p></figcaption></figure>
 
@@ -96,7 +96,7 @@ A) Are you a long-term investor who uses Xaman to check their balance once a mon
 
 In these cases, Xaman will remain free to use since you rarely use the app.
 
-B) Are you a long-term investor who uses Xaman to check their balance every day, once an hour and transact 20 times per day?&#x20;
+B) Are you a long-term investor who uses Xaman to check their balance every day, once an hour, and transact 20 times per day?&#x20;
 
 At some point you will notified you are approaching "above average use" and be asked to pay to continue using Xaman. Checking user balance once an hour would be considered above average user.
 
@@ -114,13 +114,13 @@ For an unlimited access to Xaman for 1 year, you can subscribe to Xaman Pro:
 
 No, you can continue to use Xaman for free. If you eventually reach the usage threshold, you will be prompted to make a payment. You do not need to subscribe to Xaman Pro unless you would like unlimited access for 1 year.
 
-#### What are my payment options?
+**What payment options are available?**
 
-We accept **Google Pay** and **Apple Pay**.&#x20;
+We accept **Google Pay** and **Apple Pay.**
 
 **Can I pay in XRP?**
 
-Not currently. No.&#x20;
+Not yet. Apple and Google policies currently prohibit us from offering XRP as a payment method in the app. However, we hope to introduce this option if platform rules evolve in the future.
 
 &#x20;&#x20;
 
