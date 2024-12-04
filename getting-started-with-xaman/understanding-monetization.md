@@ -4,6 +4,18 @@ description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sus
 
 # Understanding monetization
 
+### Understanding Monetization: Keeping Security #1 While Ensuring Sustainability
+
+Xaman has become a cornerstone of the XRP Ledger (XRPL) ecosystem, trusted by users and developers for its security, innovation, and user-first approach. From the beginning, grants and community support have been instrumental in building Xaman into one of the most vital wallets on the XRPL. However, as the ecosystem grows, sustainability has become critical.
+
+To ensure Xaman remains resilient, innovative, and secure, we’ve introduced a monetization model that allows us to grow independently while continuing to deliver the high-quality features and support you deserve.
+
+This knowledge base article will address why we introduced monetization, how it works, what it means for users, and the steps to take if you choose to move your account to another platform.
+
+<figure><img src="../.gitbook/assets/montization (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### How Does Monetization Work?
 
 Our monetization model is designed to be fair and inclusive, ensuring casual users can continue to enjoy Xaman for free while power users and businesses contribute to our sustainability.
@@ -26,18 +38,6 @@ Here are the key elements:
 This dual approach ensures casual users are not burdened while giving power users the flexibility to choose the plan that best suits their needs.
 
 For more details on our monetization model, visit our[ Monetization Blog](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing).
-
-### Why Xaman Introduced Monetization: Ensuring Sustainability and Growth
-
-Xaman has become a cornerstone of the XRP Ledger (XRPL) ecosystem, trusted by users and developers for its security, innovation, and user-first approach. From the beginning, grants and community support have been instrumental in building Xaman into one of the most vital wallets on the XRPL. However, as the ecosystem grows, sustainability has become critical.
-
-To ensure Xaman remains resilient, innovative, and secure, we’ve introduced a monetization model that allows us to grow independently while continuing to deliver the high-quality features and support you deserve.
-
-This knowledge base article will address why we introduced monetization, how it works, what it means for users, and the steps to take if you choose to move your account to another platform.
-
-
-
-<figure><img src="../.gitbook/assets/montization.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
