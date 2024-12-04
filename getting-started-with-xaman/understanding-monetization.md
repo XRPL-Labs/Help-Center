@@ -2,7 +2,7 @@
 description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sustainability'
 ---
 
-# Understanding monetization
+# 💡Understanding monetization
 
 Xaman has become a cornerstone of the XRP Ledger (XRPL) ecosystem, trusted by users and developers for its security, innovation, and user-first approach. From the beginning, grants and community support have been instrumental in building Xaman into one of the most vital wallets on the XRPL. However, as the ecosystem grows, sustainability has become critical.
 
@@ -10,9 +10,7 @@ To ensure Xaman remains resilient, innovative, and secure, we’ve introduced a 
 
 This knowledge base article will address why we introduced monetization, how it works, what it means for users, and the steps to take if you choose to move your account to another platform.
 
-<figure><img src="../.gitbook/assets/montization (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/montization (1).png" alt=""><figcaption><p>The Monetization Flow Consists of Three Stages.</p></figcaption></figure>
 
 ### How Does Monetization Work?
 
@@ -20,15 +18,17 @@ Our monetization model is designed to be fair and inclusive, ensuring casual use
 
 Here are the key elements:
 
-1. **Usage Based Charging**
+1. **Usage-Based Charging**
 
 * The usage threshold is dynamic. It is calculated based on the average usage of all Xaman users each month, ensuring fairness and adaptability.
 * After exceeding the usage threshold, advanced features may require a nominal fee.
 * The usage threshold resets every month.
 * Using the '**Send**' button remains free for all users, ensuring essential functionality is always available.
-* Users can access Xaman for free up to a certain monthly activity level.
+* Users can use all of Xaman's features and functions for free up to a certain monthly activity level.
+* Your usage is measured over a rolling 30-day period. If heavy use is followed by low use, you will roll out of monetization just as you roll in. The system adjusts dynamically based on your recent activity.
+* **Exemption for XAH Holders**: If you hold over **5,000 XAH** in your Xaman wallet, you are **exempt from all monetization charges**.
 
-2. **Monthly Subscription: Xaman Pro**
+2. **Yearly Subscription: Xaman Pro**
 
 * For unlimited usage, users can [**subscribe to Xaman Pro**](../xaman-pro-beta/how-to-subscribe-to-pro.md) for a flat annual rate.
 * Pro subscribers are exempt from threshold-based charges and enjoy uninterrupted access to all features.
@@ -66,8 +66,6 @@ You can transfer your XRP to a centralized exchange, but this comes with moderat
 [sending-tokens-from-xumm.md](sending-tokens-from-xumm.md)
 {% endcontent-ref %}
 
-
-
 2\) Transfer your XRPL account to another **Self-Custodial Wallet** (Safer Option)
 
 You can import your wallet into another trusted self-custodial solution using your private keys.
@@ -80,7 +78,7 @@ You can import your wallet into another trusted self-custodial solution using yo
 Important: Only use verified, reputable wallets to avoid scams. Double-check the wallet’s authenticity before proceeding.
 {% endhint %}
 
-We remain committed to providing the safest, most reliable self-custodial wallet experience for XRPL users. However, if you choose to move on, we encourage you to do so responsibly.
+We remain committed to providing the safest, most reliable, self-custodial wallet experience for XRPL users. However, if you choose to move on, we encourage you to do so responsibly.
 
 ***
 
@@ -90,15 +88,15 @@ We remain committed to providing the safest, most reliable self-custodial wallet
 
 #### How are threshold usage levels determined?
 
-The fees are calculated using various factors but itl boils down to how active your are on Xaman and your account value.
+The fees are calculated using various factors, but it boils down to how active you are on Xaman and your account value. If you open xApps 1000 times a month, you are a power user. If you sign 1000 transactions a month, you are a power user. If you hold over 100,000 XRP with Xaman, you are a power user. These are a few examples of metrics used to determine the threshold.
 
 For example:
 
-A) Are you a long term investor who uses Xaman to check their balance once a month?&#x20;
+A) Are you a long-term investor who uses Xaman to check their balance once a month, set a few trustlines and transact a few times?&#x20;
 
 In these cases, Xaman will remain free to use since you rarely use the app.
 
-B) Are you a long term investor who uses Xaman to check their balance every day, once an hour?&#x20;
+B) Are you a long-term investor who uses Xaman to check their balance every day, once an hour and transact 20 times per day?&#x20;
 
 At some point you will notified you are approaching "above average use" and be asked to pay to continue using Xaman. Checking user balance once an hour would be considered above average user.
 
@@ -119,8 +117,6 @@ No, you can continue to use Xaman for free. If you eventually reach the usage th
 #### What are my payment options?
 
 We accept **Google Pay** and **Apple Pay**.&#x20;
-
-
 
 **Can I pay in XRP?**
 
