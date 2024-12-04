@@ -28,7 +28,7 @@ Here are the key elements:
 * Using the '**Send**' button remains free for all users, ensuring essential functionality is always available.
 * Users can use all of Xaman's features and functions for free up to a certain monthly activity level.
 * Your usage is measured over a rolling 30-day period. If heavy use is followed by low use, you will roll out of monetization just as you roll in. The system adjusts dynamically based on your recent activity.
-* **Exemption for XAH Holders**: If you hold over **5,000 XAH** in your Xaman wallet, you are **exempt from all monetization charges**.
+* **Exemption for XAH Holders**: If you hold over **5,000 XAH on the Xahau Network** in your Xaman wallet, you are **exempt from all monetization charges**.
 
 2. **Yearly Subscription: Xaman Pro**
 
