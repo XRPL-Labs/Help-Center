@@ -45,12 +45,16 @@ Here are the key elements:
 
 2. **Monthly Subscription: Xaman Pro**
 
-* For unlimited usage, users can subscribe to Xaman Pro for a flat annual rate.
+* For unlimited usage, users can [**subscribe to Xaman Pro**](../xaman-pro-beta/how-to-subscribe-to-pro.md) for a flat annual rate.
 * Pro subscribers are exempt from threshold-based charges and enjoy uninterrupted access to all features.
 
 This dual approach ensures casual users are not burdened while giving power users the flexibility to choose the plan that best suits their needs.
 
 For more details on our monetization model, visit our[ Monetization Blog](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing).
+
+
+
+
 
 ***
 
@@ -102,9 +106,31 @@ B) Are you a long term investor who uses Xaman to check their balance every day,
 
 At some point you will notified you are approaching "above average use" and be asked to pay to continue using Xaman. Checking user balance once an hour would be considered above average user.
 
-####
+#### Is there a lifetime subscription option?
+
+No, currently we only offer monthly and yearly payment options.&#x20;
+
+For an unlimited access to Xaman for 1 year, you can subscribe to Xaman Pro:
+
+{% content-ref url="../xaman-pro-beta/how-to-subscribe-to-pro.md" %}
+[how-to-subscribe-to-pro.md](../xaman-pro-beta/how-to-subscribe-to-pro.md)
+{% endcontent-ref %}
+
+#### Do I have to subscribe to Xaman Pro?
+
+No, you can continue to use Xaman for free. If you eventually reach the usage threshold, you will be prompted to make a payment. You do not need to subscribe to Xaman Pro unless you would like unlimited access for 1 year.
+
+#### What are my payment options?
+
+We accept **Google Pay** and **Apple Pay**.&#x20;
 
 
+
+**Can I pay in XRP?**
+
+Not currently. No.&#x20;
+
+&#x20;&#x20;
 
 
 
