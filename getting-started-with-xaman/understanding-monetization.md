@@ -12,7 +12,7 @@ If you exceed the monthly dynamic usage threshold, some advanced features will b
 
 <figure><img src="../.gitbook/assets/montization (1).png" alt=""><figcaption><p>The Monetization Flow Consists of Three Stages.</p></figcaption></figure>
 
-### How Does Monetization Work?
+## How Does Monetization Work?
 
 Our monetization model is designed to be fair and inclusive, ensuring casual users can continue to enjoy Xaman for free while power users and businesses contribute to our sustainability.
 
@@ -39,7 +39,7 @@ For more details on our monetization model, visit our[ Monetization Blog](https:
 
 ***
 
-### Why Did Xaman Introduce Monetization?
+## Why Did Xaman Introduce Monetization?
 
 The decision to monetize was not taken lightly. Here’s why we believe it’s the right step for Xaman and the XRPL ecosystem:
 
@@ -54,7 +54,7 @@ The decision to monetize was not taken lightly. Here’s why we believe it’s t
 
 ***
 
-### What If I Choose to Leave Xaman?
+## What If I Choose to Leave Xaman?
 
 If you decide that Xaman no longer meets your needs, you have two options:
 
@@ -81,8 +81,6 @@ Important: Only use verified, reputable wallets to avoid scams. Double-check the
 We remain committed to providing the safest, most reliable, self-custodial wallet experience for XRPL users. However, if you choose to move on, we encourage you to do so responsibly.
 
 ***
-
-
 
 ## Frequently asked questions
 
