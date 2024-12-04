@@ -1,8 +1,31 @@
 ---
-description: 'Understanding monetization: Ensuring Sustainability and Growth'
+description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sustainability'
 ---
 
 # Understanding monetization
+
+### How Does Monetization Work?
+
+Our monetization model is designed to be fair and inclusive, ensuring casual users can continue to enjoy Xaman for free while power users and businesses contribute to our sustainability.
+
+Here are the key elements:
+
+1. **Usage Based Charging**
+
+* The usage threshold is dynamic. It is calculated based on the average usage of all Xaman users each month, ensuring fairness and adaptability.
+* After exceeding the usage threshold, advanced features may require a nominal fee.
+* The usage threshold resets every month.
+* Using the '**Send**' button remains free for all users, ensuring essential functionality is always available.
+* Users can access Xaman for free up to a certain monthly activity level.
+
+2. **Monthly Subscription: Xaman Pro**
+
+* For unlimited usage, users can [**subscribe to Xaman Pro**](../xaman-pro-beta/how-to-subscribe-to-pro.md) for a flat annual rate.
+* Pro subscribers are exempt from threshold-based charges and enjoy uninterrupted access to all features.
+
+This dual approach ensures casual users are not burdened while giving power users the flexibility to choose the plan that best suits their needs.
+
+For more details on our monetization model, visit our[ Monetization Blog](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing).
 
 ### Why Xaman Introduced Monetization: Ensuring Sustainability and Growth
 
@@ -30,35 +53,6 @@ The decision to monetize was not taken lightly. Here’s why we believe it’s t
    For the XRPL ecosystem to grow, projects like Xaman need to be self-sufficient. Monetization sets a precedent for building robust, interconnected platforms that can innovate and flourish without external reliance.
 4. Enhanced User Support\
    Sustainable revenue allows us to expand and strengthen our support infrastructure, ensuring timely and effective assistance for all users.
-
-***
-
-### How Does Monetization Work?
-
-Our monetization model is designed to be fair and inclusive, ensuring casual users can continue to enjoy Xaman for free while power users and businesses contribute to our sustainability.
-
-Here are the key elements:
-
-1. **Usage Based Charging**
-
-* The usage threshold is dynamic. It is calculated based on the average usage of all Xaman users each month, ensuring fairness and adaptability.
-* After exceeding the usage threshold, advanced features may require a nominal fee.
-* The usage threshold resets every month.
-* Using the '**Send**' button remains free for all users, ensuring essential functionality is always available.
-* Users can access Xaman for free up to a certain monthly activity level.
-
-2. **Monthly Subscription: Xaman Pro**
-
-* For unlimited usage, users can [**subscribe to Xaman Pro**](../xaman-pro-beta/how-to-subscribe-to-pro.md) for a flat annual rate.
-* Pro subscribers are exempt from threshold-based charges and enjoy uninterrupted access to all features.
-
-This dual approach ensures casual users are not burdened while giving power users the flexibility to choose the plan that best suits their needs.
-
-For more details on our monetization model, visit our[ Monetization Blog](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing).
-
-
-
-
 
 ***
 
