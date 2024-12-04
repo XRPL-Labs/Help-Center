@@ -6,7 +6,7 @@ description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sus
 
 Xaman has become a cornerstone of the XRP Ledger (XRPL) ecosystem, trusted by users and developers for its security, innovation, and user-first approach. From the beginning, grants and community support have been instrumental in building Xaman into one of the most vital wallets on the XRPL. However, as the ecosystem grows, sustainability has become critical.
 
-Xaman’s monetization model is launching soon to ensure a sustainable future while continuing to deliver the high-quality features and security you trust. This change will impact only the most active users, while casual users will remain unaffected.&#x20;
+Xaman’s monetization model is necessary to ensure a sustainable future while continuing to deliver the high-quality features and security you trust. This change will impact only the most active users, while casual users will remain unaffected.&#x20;
 
 If you exceed the monthly dynamic usage threshold, some advanced features will be restricted, but sending transactions will always remain free. Users can pay a small fee to regain unrestricted access or subscribe to Xaman Pro for a flat annual fee, offering unlimited use without thresholds.
 
