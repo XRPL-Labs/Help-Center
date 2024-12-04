@@ -29,15 +29,33 @@ Here are the key elements:
 * Users can use all of Xaman's features and functions for free up to a certain monthly activity level.
 * Your usage is measured over a rolling 30-day period. If heavy use is followed by low use, you will roll out of monetization just as you roll in. The system adjusts dynamically based on your recent activity.
 * **Exemption for XAH Holders**: If you hold over **5,000 XAH on the Xahau Network** in your Xaman wallet, you are **exempt from all monetization charges**.
+* There are 6&#x20;
 
 2. **Yearly Subscription: Xaman Pro**
 
 * For unlimited usage, users can [**subscribe to Xaman Pro**](../xaman-pro-beta/how-to-subscribe-to-pro.md) for a flat annual rate.
 * Pro subscribers are exempt from threshold-based charges and enjoy uninterrupted access to all features.
 
+
+
 This dual approach ensures casual users are not burdened while giving power users the flexibility to choose the plan that best suits their needs.
 
 For more details on our monetization model, visit our[ Monetization Blog](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing).
+
+## **Monetization Tiers: Tailored for Fairness**
+
+To ensure fairness and adaptability, Xaman’s monetization model uses **six tiers**, each reflecting your app usage. These tiers are:
+
+* **$0.99**
+* **$1.99**
+* **$3.99**
+* **$5.99**
+* **$9.99**
+* **$19.99**
+
+The more you use the app, the higher the tier you may reach. However, it’s important to note that the jump between tiers becomes increasingly harder as usage escalates. For example, moving from **$9.99 to $19.99** requires **exponentially more activity**, such as signing thousands of transactions per month or engaging with the app hundreds of times per day.
+
+These tiers are billed in **your local currency**, ensuring a seamless and accessible experience for users around the globe. By keeping these tiers usage-based and dynamic, we maintain fairness while continuing to support Xaman’s growth and innovation.
 
 ***
 
