@@ -29,7 +29,7 @@ Here are the key elements:
 * Users can use all of Xaman's features and functions for free up to a certain monthly activity level.
 * Your usage is measured over a rolling 30-day period. If heavy use is followed by low use, you will roll out of monetization just as you roll in. The system adjusts dynamically based on your recent activity.
 * **Exemption for XAH Holders**: If you hold over **5,000 XAH on the Xahau Network** in your Xaman wallet, you are **exempt from all monetization charges**.
-* There are 6&#x20;
+* There are 6 monetization tiers. You can read more about them below.
 
 2. **Yearly Subscription: Xaman Pro**
 
@@ -53,7 +53,7 @@ To ensure fairness and adaptability, Xaman’s monetization model uses **six tie
 * **$9.99**
 * **$19.99**
 
-The more you use the app, the higher the tier you may reach. However, it’s important to note that the jump between tiers becomes increasingly harder as usage escalates. For example, moving from **$9.99 to $19.99** requires **exponentially more activity**, such as signing thousands of transactions per month or engaging with the app hundreds of times per day.
+The more you use the app, the higher the tier you may reach. However, it’s important to note that the jump between tiers becomes increasingly more difficult to achieve as usage escalates. For example, moving from **$9.99 to $19.99** requires **exponentially more activity**, such as signing thousands of transactions per month or engaging with the app hundreds of times per day.
 
 These tiers are billed in **your local currency**, ensuring a seamless and accessible experience for users around the globe. By keeping these tiers usage-based and dynamic, we maintain fairness while continuing to support Xaman’s growth and innovation.
 
@@ -139,8 +139,4 @@ We accept **Google Pay** and **Apple Pay.**
 **Can I pay in XRP?**
 
 Not yet. Apple and Google policies currently prohibit us from offering XRP as a payment method in the app. However, we hope to introduce this option if platform rules evolve in the future.
-
-#### Can I pay in XRP?
-
-Unfortunately no. We only accept **Google Pay** and **Apple Pay**.
 
