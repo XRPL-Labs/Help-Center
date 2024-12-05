@@ -104,7 +104,7 @@ We remain committed to providing the safest, most reliable, self-custodial walle
 
 ## Frequently asked questions
 
-#### How are threshold usage levels determined?
+### How are threshold usage levels determined?
 
 The fees are calculated using various factors, but it boils down to how active you are on Xaman and your account value. If you open xApps 1000 times a month, you are a power user. If you sign 1000 transactions a month, you are a power user. If you hold over 100,000 XRP with Xaman, you are a power user. These are a few examples of metrics used to determine the threshold.
 
@@ -118,7 +118,7 @@ B) Are you a long-term investor who uses Xaman to check their balance every day,
 
 At some point you will notified you are approaching "above average use" and be asked to pay to continue using Xaman. Checking user balance once an hour would be considered above average user.
 
-#### Is there a lifetime subscription option?
+### Is there a lifetime subscription option?
 
 No, currently we only offer monthly and yearly payment options.&#x20;
 
@@ -128,25 +128,27 @@ For an unlimited access to Xaman for 1 year, you can subscribe to Xaman Pro:
 [how-to-subscribe-to-pro.md](../xaman-pro-beta/how-to-subscribe-to-pro.md)
 {% endcontent-ref %}
 
-#### Do I have to subscribe to Xaman Pro?
+### Do I have to subscribe to Xaman Pro?
 
 No, you can continue to use Xaman for free. If you eventually reach the usage threshold, you will be prompted to make a payment. You do not need to subscribe to Xaman Pro unless you would like unlimited access for 1 year.
 
-**What payment options are available?**
+### **What payment options are available?**
 
 We accept **Google Pay** and **Apple Pay.**
 
-**Can I pay in XRP?**
+### **I live in an area where I can't use Google Pay. What are my options?**
 
-Not yet. Apple and Google policies currently prohibit us from offering XRP as a payment method in the app. However, we hope to introduce this option if platform rules evolve in the future.
+We are finding that most people are subscribing to [**Xaman Pro** ](../xaman-pro-beta/what-is-xumm-pro.md)which offers 1 year of unlimited use and can be purchased **using XRP.**&#x20;
 
-#### **Did You Announce This Before?**
+{% embed url="https://xrpl-labs.com/pro/" %}
+
+### **Did You Announce This Before?**
 
 Yes, we first announced our monetization model in **September** through our [blog](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing) and **social media**. Since then, we've shared additional updates, including more [blog articles](https://xaman.app/blog/xaman-3-2), tweets, and an **in-app announcement** to ensure everyone had plenty of notice in advance.
 
 We understand this might be new to some, but we've worked hard to communicate this change transparently over the past few months. If you’d like to dive deeper into why and how this works, check out our blogs for all the details.
 
-#### **How Does "Restore Purchase" Work?**
+### **How Does "Restore Purchase" Work?**
 
 If you’ve purchased a subscription or paid for a tier, the "Restore Purchase" feature ensures you don’t pay again when reinstalling the app or switching devices.
 
