@@ -140,7 +140,7 @@ We accept **Google Pay** and **Apple Pay.**
 
 Not yet. Apple and Google policies currently prohibit us from offering XRP as a payment method in the app. However, we hope to introduce this option if platform rules evolve in the future.
 
-&#x20;&#x20;
+#### Can I pay in XRP?
 
-
+Unfortunately no. We only accept **Google Pay** and **Apple Pay**.
 
