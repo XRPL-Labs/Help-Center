@@ -145,3 +145,13 @@ Not yet. Apple and Google policies currently prohibit us from offering XRP as a 
 Yes, we first announced our monetization model in **September** through our [blog](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing) and **social media**. Since then, we've shared additional updates, including more [blog articles](https://xaman.app/blog/xaman-3-2), tweets, and an **in-app announcement** to ensure everyone had plenty of notice in advance.
 
 We understand this might be new to some, but we've worked hard to communicate this change transparently over the past few months. If you’d like to dive deeper into why and how this works, check out our blogs for all the details.
+
+#### **How Does "Restore Purchase" Work?**
+
+If you’ve purchased a subscription or paid for a tier, the "Restore Purchase" feature ensures you don’t pay again when reinstalling the app or switching devices.
+
+* Log in with the same **Google Play** or **Apple ID** account used for the purchase.
+* Tap "Restore Purchase" in the app settings.
+* The app will verify your purchase and restore your access.
+
+If it doesn’t work, double-check your order.
