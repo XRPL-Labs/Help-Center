@@ -140,3 +140,8 @@ We accept **Google Pay** and **Apple Pay.**
 
 Not yet. Apple and Google policies currently prohibit us from offering XRP as a payment method in the app. However, we hope to introduce this option if platform rules evolve in the future.
 
+#### **Did You Announce This Before?**
+
+Yes, we first announced our monetization model in **September** through our [blog](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing) and **social media**. Since then, we've shared additional updates, including more [blog articles](https://xaman.app/blog/xaman-3-2), tweets, and an **in-app announcement** to ensure everyone had plenty of notice in advance.
+
+We understand this might be new to some, but we've worked hard to communicate this change transparently over the past few months. If you’d like to dive deeper into why and how this works, check out our blogs for all the details.
