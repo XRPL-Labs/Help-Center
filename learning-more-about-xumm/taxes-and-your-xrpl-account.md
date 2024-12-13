@@ -43,3 +43,8 @@ Unfortunately, we do not recommend any specific tax software. There are too many
 ### **Last resort**
 
 Your transaction history is available to view on both the XRP Ledger and Xahau. You can always check your account via a blockchain explorer such as Bithomp or XRPscan and manually transcribe your transactions.
+
+### **Do you send my tax information to my government?**
+
+No. We do not gather or store information about our users, nor do we keep track of XRP Ledger accounts. Even if a governmental agency were to contact us, we have no way of identifying which XRPL accounts you own.&#x20;
+
