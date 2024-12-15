@@ -4,6 +4,12 @@ description: Guidelines and Review Process for publishing an xApp in Xaman
 
 # xApp Publishing
 
+### **What is an xApp?**
+
+An xApp within Xaman Wallet is a third-party application integrated directly into the Xaman ecosystem, allowing users to seamlessly interact with various tools and services on the XRP Ledger without leaving the Xaman wallet interface.&#x20;
+
+xApps enhance functionality by providing features such as access to the DEX, access to many XRPL features, cryptocurrency swaps, NFT management, and more, all while maintaining the security and user-friendliness that Xaman Wallet is known for.
+
 ### **History**
 
 In January 2022, we opened the xApp development process up to the XRP community.
@@ -11,6 +17,8 @@ In January 2022, we opened the xApp development process up to the XRP community.
 Anyone who would like to create their own xApp is now able to do so, but the created xApps will be 'sandboxed' ie. they can only be accessed by the developer.
 
 This article is designed to assist you with this process and outline the steps required to get your completed xApp published in Xaman, so other users can open & use your xApp.
+
+In August 2023, we published a tool called xAppBuilder, lowering the barrier of entry to the xApp ecosystem: [https://blog.xaman.app/xappbuilder](https://blog.xaman.app/xappbuilder)&#x20;
 
 ### **Steps**
 
