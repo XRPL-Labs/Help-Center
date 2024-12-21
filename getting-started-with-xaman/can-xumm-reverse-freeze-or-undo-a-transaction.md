@@ -4,15 +4,15 @@
 
 The XRP Ledger is a decentralized blockchain. Part of that means, that no single person, entity, group or company has control over it.  Once data has been saved on the XRP Ledger, it can not be modified or altered by anyone. _All transactions on the XRPL are final and permanent._&#x20;
 
-### **Why can't Xumm do something to reverse my transaction?**
+### **Why can't Xaman do something to reverse my transaction?**
 
-The XRP Ledger does not have any administrative functions built into it, so there is no way for Xumm or anyone else to modify or change a transaction.
+The XRP Ledger does not have any administrative functions built into it, so there is no way for Xaman or anyone else to modify or change a transaction.
 
-Xumm is an application that allows you to interact with the XRP Ledger and helps you manage your XRP Ledger account. It does not have administrative privileges on the XRPL.&#x20;
+Xaman is an application that allows you to interact with the XRP Ledger and helps you manage your XRP Ledger account. It does not have administrative privileges on the XRPL.&#x20;
 
-### **...but Xumm runs a validator. Why can't you just undo my transaction in the next block?**
+### **...but Xaman runs a validator. Why can't you just undo my transaction in the next block?**
 
-While Xumm is one of the many companies that runs a validator on the XRPL, that does not entitle us to any special privileges or network access.&#x20;
+While Xaman is one of the many companies that runs a validator on the XRPL, that does not entitle us to any special privileges or network access.&#x20;
 
 Per the Xrpl.org website:
 
