@@ -6,7 +6,7 @@ description: What is Xaman Pro and why should you subscribe?
 
 ### Background
 
-Xaman (formerly Xumm) is a self-custodial wallet designed from the ground up exclusively for the XRP Ledger. It has evolved over several years to become the most comprehensive and complete XRP wallet in the world, supporting all features of the XRPL including [Xahau](https://app.gitbook.com/o/NNsnm9HPzBLfgVAzdj9P/s/m6f29os4wP16vCS4lHNh/). It is completely free to use and for most people, it is all they will ever need to interact with the XRP and Xahau communities.
+Xaman (formerly Xumm) is a self-custodial wallet designed from the ground up exclusively for the XRP Ledger. It has evolved over several years to become the most comprehensive and complete XRP wallet in the world, supporting all features of the XRPL including [Xahau](https://app.gitbook.com/o/NNsnm9HPzBLfgVAzdj9P/s/m6f29os4wP16vCS4lHNh/).
 
 While Xaman is feature complete, it became apparent that the XRP community wanted Xaman to do more than provide access to the XRPL. More and more people wanted additional features to enhance their user experience, hence, Xaman Pro was born.&#x20;
 
