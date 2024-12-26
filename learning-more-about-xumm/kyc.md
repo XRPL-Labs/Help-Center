@@ -37,7 +37,7 @@ When you subscribe to Xaman Pro (Beta), you will have the option to go through t
 
 Because we only want to support trustworthy profiles & to prevent imposters, your avatar & display name will be compared to your KYC government ID information. This way, everybody in the ecosystem will be able to trust other users and their profiles, names, avatars, if they have a Pro Beta subscription.
 
-* [**How to subscribe to Xaman Pro Beta 🎉**](../xaman-pro-beta/how-to-subscribe-to-pro.md)
+* [**How to subscribe to Xaman Pro Beta 🎉**](../xaman-pro/how-to-subscribe-to-pro.md)
 
 #### **Will Xaman disclose my identity if I go through the KYC process?**
 
@@ -65,7 +65,7 @@ Xaman does not currently have a place in the app to verify that you went through
 
 <figure><img src="../.gitbook/assets/Bithomp - Verified.png" alt=""><figcaption></figcaption></figure>
 
-* You can visit this site: [https://xrpscan.com/](https://xrpscan.com/) then enter your r-address and look for:                          ![mceclip2.png](https://drtc9zr.dlvr.cloud/hc/article\_attachments/4475788481810/mceclip2.png)
+* You can visit this site: [https://xrpscan.com/](https://xrpscan.com/) then enter your r-address and look for:                          ![mceclip2.png](https://drtc9zr.dlvr.cloud/hc/article_attachments/4475788481810/mceclip2.png)
 
 <figure><img src="../.gitbook/assets/XRPscan - Verified.png" alt=""><figcaption></figcaption></figure>
 
@@ -83,4 +83,4 @@ We are super excited about the release of Xaman Pro Beta! 🎉.&#x20;
 
 You can learn all about it here:
 
-* &#x20;[**How to subscribe to Xaman Pro Beta 🎉**](../xaman-pro-beta/how-to-subscribe-to-pro.md)
+* &#x20;[**How to subscribe to Xaman Pro Beta 🎉**](../xaman-pro/how-to-subscribe-to-pro.md)

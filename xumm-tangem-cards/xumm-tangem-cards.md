@@ -16,7 +16,7 @@ While keeping your keys encrypted on your device makes a lot of sense for your d
 
 ### **Enter Xaman (Tangem) Cards**
 
-Just like XRPL Labs, [Tangem](https://shop.tangem.com/pages/start) is making the cryptocurrency space a safer, more user-friendly place. Their take on keeping keys for XRPL accounts safe is one we at XRPL Labs appreciate a lot. To the point where we feel confident using their cards ourselves to keep our savings safe. Instead of using a hardware wallet, or a static, written down secret (that can't be used easily), their cards contain a chip and use NFC ([near field communication](https://nl.wikipedia.org/wiki/Near-field\_communication)). The first time you use the card, the chip generates a private key, while being powered using NFC (by your iOS/Android device). This means the cards are shipped without a private key on them, so there is no chance of it being compromised between you and the factory. The chip used in Xaman (Tangem) cards offers bank grade security and have been fully audited.
+Just like XRPL Labs, [Tangem](https://shop.tangem.com/pages/start) is making the cryptocurrency space a safer, more user-friendly place. Their take on keeping keys for XRPL accounts safe is one we at XRPL Labs appreciate a lot. To the point where we feel confident using their cards ourselves to keep our savings safe. Instead of using a hardware wallet, or a static, written down secret (that can't be used easily), their cards contain a chip and use NFC ([near field communication](https://nl.wikipedia.org/wiki/Near-field_communication)). The first time you use the card, the chip generates a private key, while being powered using NFC (by your iOS/Android device). This means the cards are shipped without a private key on them, so there is no chance of it being compromised between you and the factory. The chip used in Xaman (Tangem) cards offers bank grade security and have been fully audited.
 
 ### **Security + usability**
 
@@ -69,7 +69,7 @@ Note: Due to the increase in shipping costs, we no longer include free shipping 
 {% endhint %}
 
 * **Xaman Pro (Beta) is a paid subscription, do I need Pro to use Xaman (Tangem) cards?**\
-  When you subscribe to Xaman Pro (Beta), you will receive two free Xaman (Tangem) cards with your order. (Note: Not all countries are eligible to receive the cards due to customs restrictions.) [**How to subscribe to Xaman Pro Beta 🎉**](../xaman-pro-beta/how-to-subscribe-to-pro.md)
+  When you subscribe to Xaman Pro (Beta), you will receive two free Xaman (Tangem) cards with your order. (Note: Not all countries are eligible to receive the cards due to customs restrictions.) [**How to subscribe to Xaman Pro Beta 🎉**](../xaman-pro/how-to-subscribe-to-pro.md)
 
 {% hint style="warning" %}
 Note: Due to the increase in shipping costs, we no longer include free shipping for the cards. Shipping costs will be calculated when you claim your cards and you will be responsible for paying for them separately. **Free shipping is not included in the price of Xaman Pro.**

@@ -6,7 +6,6 @@
 
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
-* [😎 Updating to Xaman v2.8.2!](getting-started-with-xaman/updating-to-xaman-v2.8.2.md)
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
   * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
@@ -148,21 +147,21 @@
   * [XAH Teleport](all-about-xapps/xahau-xapps/xah-teleport.md)
   * [Voucher](all-about-xapps/xahau-xapps/voucher.md)
 
-## Xaman Pro beta
+## Xaman Pro
 
-* [😎 What is Xaman Pro?](xaman-pro-beta/what-is-xumm-pro.md)
-* [How to subscribe to Xaman Pro](xaman-pro-beta/how-to-subscribe-to-pro.md)
-* [Features of Pro](xaman-pro-beta/features-of-pro/README.md)
-  * [Profiles](xaman-pro-beta/features-of-pro/profiles/README.md)
-    * [All about Profiles](xaman-pro-beta/features-of-pro/profiles/all-about-profiles.md)
-    * [What is PayString?](xaman-pro-beta/features-of-pro/profiles/what-is-paystring.md)
-    * [Setting up your Xaman Profile](xaman-pro-beta/features-of-pro/profiles/setting-up-your-xumm-profile.md)
-  * [Push notifications](xaman-pro-beta/features-of-pro/push-notifications.md)
-  * [Accounts](xaman-pro-beta/features-of-pro/accounts.md)
-  * [Xaman App early access](xaman-pro-beta/features-of-pro/xumm-app-early-access.md)
-  * [Free Tangem Card](xaman-pro-beta/features-of-pro/free-tangem-card.md)
-  * [Premium Support](xaman-pro-beta/features-of-pro/premium-support.md)
-  * [Vanity addresses](xaman-pro-beta/features-of-pro/vanity-addresses.md)
+* [😎 What is Xaman Pro?](xaman-pro/what-is-xumm-pro.md)
+* [How to subscribe to Xaman Pro](xaman-pro/how-to-subscribe-to-pro.md)
+* [Features of Pro](xaman-pro/features-of-pro/README.md)
+  * [Profiles](xaman-pro/features-of-pro/profiles/README.md)
+    * [All about Profiles](xaman-pro/features-of-pro/profiles/all-about-profiles.md)
+    * [What is PayString?](xaman-pro/features-of-pro/profiles/what-is-paystring.md)
+    * [Setting up your Xaman Profile](xaman-pro/features-of-pro/profiles/setting-up-your-xumm-profile.md)
+  * [Push notifications](xaman-pro/features-of-pro/push-notifications.md)
+  * [Accounts](xaman-pro/features-of-pro/accounts.md)
+  * [Xaman App early access](xaman-pro/features-of-pro/xumm-app-early-access.md)
+  * [Free Tangem Card](xaman-pro/features-of-pro/free-tangem-card.md)
+  * [Premium Support](xaman-pro/features-of-pro/premium-support.md)
+  * [Vanity addresses](xaman-pro/features-of-pro/vanity-addresses.md)
 
 ## Security and Xaman
 
@@ -188,6 +187,7 @@
 
 * [Current release](release-notes/current-release.md)
 * [Previous releases](release-notes/previous-releases/README.md)
+  * [😎 Updating to Xaman v2.8.2!](release-notes/previous-releases/updating-to-xaman-v2.8.2.md)
   * [Xaman v2.8](release-notes/previous-releases/xaman-v2.8.md)
   * [Xaman v2.6 (Formerly Xumm)](release-notes/previous-releases/xaman-v2.6-formerly-xumm.md)
   * [Xumm v2.5](release-notes/previous-releases/xumm-v2.5.md)

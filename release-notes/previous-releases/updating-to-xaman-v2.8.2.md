@@ -18,7 +18,7 @@ This article discusses how to upgrade to the latest version so you can begin exp
 
 As with all versions of Xaman the app is only available from two sources:
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
 
 If you don't already have Xaman on your phone, you can simply download and install the app by selecting one of the above links.
 
@@ -28,11 +28,11 @@ For those who already have a version of Xaman installed, you will get the option
 
 For Apple users, you should see a screen like this:
 
-<figure><img src="../.gitbook/assets/new version - 1 - Apple.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new version - 1 - Apple.png" alt=""><figcaption></figcaption></figure>
 
 For Android users, you should see something like this:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In both cases, simply press the **Update** button and Xaman will download and update you to the latest version.&#x20;
 
@@ -64,7 +64,7 @@ Simply create a support ticket in Xaman using the Xaman Support xApp:
 
 If you encounter this screen during to update process:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 The upgrade has not frozen. It just means that the database migration is still ongoing.
 

@@ -21,7 +21,7 @@ Here is where you can find you r-address in Xaman.
 <figure><img src="../.gitbook/assets/Send flow - 1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Of course, your r-address will be different than our r-address. Our account is a [Vanity r-address](../xaman-pro-beta/features-of-pro/vanity-addresses.md).
+Of course, your r-address will be different than our r-address. Our account is a [Vanity r-address](../xaman-pro/features-of-pro/vanity-addresses.md).
 {% endhint %}
 
 Your r-address basically is your account number on the XRP Ledger. It is the address that you will send your XRP to.

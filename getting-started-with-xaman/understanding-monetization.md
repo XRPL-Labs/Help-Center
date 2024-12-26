@@ -33,7 +33,7 @@ Here are the key elements:
 
 2. **Yearly Subscription: Xaman Pro**
 
-* For unlimited usage, users can [**subscribe to Xaman Pro**](../xaman-pro-beta/how-to-subscribe-to-pro.md) for a flat annual rate.
+* For unlimited usage, users can [**subscribe to Xaman Pro**](../xaman-pro/how-to-subscribe-to-pro.md) for a flat annual rate.
 * Pro subscribers are exempt from threshold-based charges and enjoy uninterrupted access to all features.
 
 
@@ -124,8 +124,8 @@ No, currently we only offer monthly and yearly payment options.&#x20;
 
 For an unlimited access to Xaman for 1 year, you can subscribe to Xaman Pro:
 
-{% content-ref url="../xaman-pro-beta/how-to-subscribe-to-pro.md" %}
-[how-to-subscribe-to-pro.md](../xaman-pro-beta/how-to-subscribe-to-pro.md)
+{% content-ref url="../xaman-pro/how-to-subscribe-to-pro.md" %}
+[how-to-subscribe-to-pro.md](../xaman-pro/how-to-subscribe-to-pro.md)
 {% endcontent-ref %}
 
 ### Do I have to subscribe to Xaman Pro?
@@ -138,7 +138,7 @@ We accept **Google Pay** and **Apple Pay.**
 
 ### **I live in an area where I can't use Google Pay. What are my options?**
 
-We are finding that most people are subscribing to [**Xaman Pro** ](../xaman-pro-beta/what-is-xumm-pro.md)which offers 1 year of unlimited use and can be purchased **using XRP.**&#x20;
+We are finding that most people are subscribing to [**Xaman Pro** ](../xaman-pro/what-is-xumm-pro.md)which offers 1 year of unlimited use and can be purchased **using XRP.**&#x20;
 
 {% embed url="https://xrpl-labs.com/pro/" %}
 
