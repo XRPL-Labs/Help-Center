@@ -1,5 +1,5 @@
 ---
-description: How to subscribe to Xaman Pro (Beta)
+description: How to subscribe to Xaman Pro
 ---
 
 # How to subscribe to Xaman Pro
@@ -24,13 +24,15 @@ Paying with XRP is by far the better option. It allows you to pay instantly, get
 
 {% embed url="https://xrpl-labs.com/pro/" %}
 
-and select '**Get Pro (Beta) now!**':
+and select '**Get Pro now!**':
 
-<figure><img src="../.gitbook/assets/Xumm Pro purchase screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pro link.png" alt=""><figcaption></figcaption></figure>
 
-2a) If you are on a desktop computer, you can scan the QR with Xaman:&#x20;
+2a) If you are on a desktop computer, you can scan the QR code with Xaman:&#x20;
 
-<figure><img src="../.gitbook/assets/Xumm Pro Sign request.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pro QR Code.png" alt=""><figcaption></figcaption></figure>
+
+
 
 Then sign the transaction with Xaman:
 
