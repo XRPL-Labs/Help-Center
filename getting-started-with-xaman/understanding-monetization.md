@@ -10,7 +10,7 @@ Xaman’s monetization model is a necessary step to secure our future as the mos
 
 The alternative would mean cutting corners—sacrificing the very principles that make Xaman a cornerstone of the ecosystem. We refuse to let that happen. We understand how important Xaman is to you, and we’re committed to keeping essential features like sending transactions **always free**, no matter what.
 
-However, to ensure we remain resilient and innovative, we’re asking the most active users—the power users—to chip in. If you exceed the monthly dynamic usage threshold, some advanced features will require a small fee to unlock. If this feels inconvenient, we offer flexible options like a flat-rate **Xaman Pro subscription** for unlimited access without thresholds.
+To ensure Xaman remains resilient and innovative, we’re asking the most active users—the power users—to contribute. If you exceed the monthly dynamic usage threshold, some advanced features will require a small fee to unlock. **For those who prefer to pay for monetization with crypto, you can easily do so by purchasing Xaman Pro** with **XRP** at [xrpl-labs.com/pro](https://xrpl-labs.com/pro). With Xaman Pro, you’ll enjoy unlimited access to all features without thresholds, offering both convenience and flexibility.
 
 <figure><img src="../.gitbook/assets/image (61) (1).png" alt=""><figcaption><p>The Monetization Flow Consists of Three Stages.</p></figcaption></figure>
 
