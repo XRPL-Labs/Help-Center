@@ -1,7 +1,7 @@
 ---
 description: >-
   How to can a token issuer add a custom Logo/Icon to their Trust Line so it is
-  displayed in Xumm
+  displayed in Xaman
 ---
 
 # Adding an Icon/Logo to a Trust Line in Xaman
@@ -12,7 +12,7 @@ Trust Lines are a fundamental part of the XRP Ledger in that they allow an accou
 
 Each Trust Line has a unique r-address which helps to identify it but it can be confusing for new users and sometimes people mix up the various tokens and issuing accounts.
 
-Here at Xaman \*formerly Xumm) we are constantly trying to make things safer and easier for our users so we are excited to introduce **Trust Line icons** for all token issuers on the XRPL. It is our hope that by adding icons to Trust Lines, it will help our people quickly and accurately identity which projects they are dealing with.
+Here at Xaman (formerly Xumm) we are constantly trying to make things safer and easier for our users so we are excited to introduce **Trust Line icons** for all token issuers on the XRPL. It is our hope that by adding icons to Trust Lines, it will help our people quickly and accurately identity which projects they are dealing with.
 
 ### **How do I get my icon/logo to show on the Trust Line list in Xaman?**
 
@@ -20,13 +20,15 @@ When we talk about the Trust Line icons in Xaman, we are talking about the littl
 
 <figure><img src="../.gitbook/assets/Icon-Logos.png" alt=""><figcaption></figcaption></figure>
 
-Xaman fetches all token information (including icons/logos) from the [**xrplmeta.org**](http://xrplmeta.org) project.
-
 You can find the setup instructions here: [**xrplmeta.org**](http://xrplmeta.org)&#x20;
 
 If you need assistance with the instructions, xrplmeta.org can be reached here:
 
 [https://twitter.com/xrplmeta](https://twitter.com/xrplmeta)
+
+{% hint style="info" %}
+It is important to know that Xaman fetches all token information (including icons/logos) from the [**xrplmeta.org**](http://xrplmeta.org) project.
+{% endhint %}
 
 ### **What exactly are the requirements to get an icon/logo added in Xaman?**
 
