@@ -105,7 +105,6 @@
 ## XAMAN (TANGEM) CARDS
 
 * [All about Xaman (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
-* [Prepaid Xaman (Tangem) cards](xumm-tangem-cards/prepaid-xumm-tangem-cards.md)
 * [Getting started with your new cards 🤗](xumm-tangem-cards/getting-started.md)
 * [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
 * [Creating a pin on your card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)
