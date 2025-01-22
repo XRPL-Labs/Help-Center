@@ -24,17 +24,17 @@ For a more in-depth discussion about XAH tokens and how they work, check out thi
 [understanding-the-xah-token-on-the-xrp-ledger.md](understanding-the-xah-token-on-the-xrp-ledger.md)
 {% endcontent-ref %}
 
-### How to trade XAH coins
+### How to purchase XAH coins
 
-There is currently **no way to purchase XAH coins** using Xaman.
-
-In order to trade XAH coins, you need to open an account with the following crypto exchanges:
+In order to purchase XAH coins, you need to open an account with the following crypto exchanges:
 
 [**GateHub** ](https://signin.gatehub.net/signup)
 
 [**Bitrue**](https://www.bitrue.com/user/register)
 
-In both cases, once you have created an account with them, you will be able to send fiat money to your account with them, then exchange it for XAH coins. Once you have done that, you can refer to the following articles to send your XAH coins to your Xahau account managed by Xaman.
+[**BitMart**](https://www.bitmart.com/)
+
+In all cases, once you have created an account with them, you will be able to send fiat money to your account with them, then exchange it for XAH coins. Once you have done that, you can refer to the following articles to send your XAH coins to your Xahau account managed by Xaman.
 
 {% content-ref url="activating-a-xahau-account/how-to-send-xah-from-gatehub.md" %}
 [how-to-send-xah-from-gatehub.md](activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
