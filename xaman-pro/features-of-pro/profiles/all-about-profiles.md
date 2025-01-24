@@ -1,6 +1,6 @@
 ---
-description: How does the Profiles feature in Xumm Pro work?
-cover: ../../../../.gitbook/assets/van gogh notebook.png
+description: How does the Profiles feature in Xaman Pro work?
+cover: ../../../.gitbook/assets/van gogh notebook.png
 coverY: 216
 ---
 
@@ -12,7 +12,7 @@ The Profiles feature allows you to create an identity page and PayString so peop
 
 Here’s what a Profile page looks like:&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Profile picture - Kevin -2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Profile picture - Kevin -2.png" alt=""><figcaption></figcaption></figure>
 
 ### **Why would I want to create a public Profile on the XRPL?**
 
@@ -44,7 +44,7 @@ In Kevin's case, his PayString is:
 
 <mark style="color:blue;">kevin$xumm.me</mark>
 
-<figure><img src="../../../../.gitbook/assets/Profiles - Kevin.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Profiles - Kevin.png" alt=""><figcaption></figcaption></figure>
 
 If you wanted to send XRP to Kevin's account, you could always enter his r-address: **rUBvs5S....**
 
@@ -54,11 +54,11 @@ Think of PayString like a phone book that links your r-address to an easy-to-rem
 
 ### How can people find my PayString?
 
-Since all Xumm Profile pages start with: **xumm.me/**\<yourname> you could simply tell people how to find your Profile page, or, since all PayStrings end with: \<yourname>**$xumm.me** your could simply tell them your PayString but we have taken it one step further.
+Since all Xaman Profile pages start with: **xumm.me/**\<yourname> you could simply tell people how to find your Profile page, or, since all PayStrings end with: \<yourname>**$xumm.me** your could simply tell them your PayString...but we have taken it one step further.
 
-In Xumm, you can actually search for a PayString directly from the Send flow. In this case, we search for "kevin" and Xumm will display the results for you to choose.
+In Xaman, you can actually search for a PayString directly from the Send flow. In this case, we search for "kevin" and Xaman will display the results for you to choose.
 
-<figure><img src="../../../../.gitbook/assets/Profiles - Search.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Profiles - Search.png" alt=""><figcaption></figcaption></figure>
 
 It is just like a phone book, you can look up someone's r-address just by knowing their name!  🎉
 
@@ -66,4 +66,4 @@ It is just like a phone book, you can look up someone's r-address just by knowin
 
 We have created an article to walk you through the process:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Setting up your Profile</td><td></td><td></td><td><a href="setting-up-your-xumm-profile.md">setting-up-your-xumm-profile.md</a></td><td><a href="../../../../.gitbook/assets/Bench.png">Bench.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Setting up your Profile</td><td></td><td></td><td><a href="setting-up-your-xumm-profile.md">setting-up-your-xumm-profile.md</a></td><td><a href="../../../.gitbook/assets/Bench.png">Bench.png</a></td></tr></tbody></table>
