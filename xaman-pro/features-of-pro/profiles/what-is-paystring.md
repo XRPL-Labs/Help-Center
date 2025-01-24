@@ -1,6 +1,6 @@
 ---
 description: What is PayString and why is it useful?
-cover: ../../../../.gitbook/assets/Paystring.png
+cover: ../../../.gitbook/assets/Paystring.png
 coverY: 57
 ---
 
@@ -24,13 +24,13 @@ Due to their complexity, r-addresses can be difficult to remember. PayString sol
 
 Currently, only the XRP Ledger supports the PayString protocol.
 
-### How does PayString work in Xumm?
+### How does PayString work in Xaman?
 
-PayString is part of the Profiles feature in Xumm Pro.
+PayString is part of the Profiles feature in Xaman Pro.
 
 More information about about Profiles (and how it works) please refer to this article:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">All about Profiles</td><td></td><td></td><td><a href="../../../../.gitbook/assets/van gogh office.png">van gogh office.png</a></td><td><a href="all-about-profiles.md">all-about-profiles.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">All about Profiles</td><td></td><td></td><td><a href="../../../.gitbook/assets/van gogh office.png">van gogh office.png</a></td><td><a href="all-about-profiles.md">all-about-profiles.md</a></td></tr></tbody></table>
 
 
 
