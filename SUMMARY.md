@@ -92,6 +92,7 @@
 * [How to take a screenshot](learning-more-about-xumm/how-to-take-a-screenshot.md)
 * [Moving your XRPL account to another wallet](learning-more-about-xumm/moving-your-xrpl-account-to-another-wallet.md)
 * [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
+* [How to access Testnet on XRP Ledger](learning-more-about-xaman/how-to-access-testnet-on-xrp-ledger.md)
 
 ## Configuring Xaman
 
