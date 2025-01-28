@@ -34,6 +34,8 @@ In order to purchase XAH coins, you need to open an account with the following c
 
 [**BitMart**](https://www.bitmart.com/)
 
+[**C14**](https://c14.money/buy/xahau-xahau)
+
 In all cases, once you have created an account with them, you will be able to send fiat money to your account with them, then exchange it for XAH coins. Once you have done that, you can refer to the following articles to send your XAH coins to your Xahau account managed by Xaman.
 
 {% content-ref url="activating-a-xahau-account/how-to-send-xah-from-gatehub.md" %}
