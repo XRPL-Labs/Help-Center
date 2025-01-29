@@ -38,13 +38,13 @@ Then sign the transaction with Xaman:
 
 
 
-<figure><img src="../.gitbook/assets/Xumm Pro Transaction screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/review transaction.png" alt=""><figcaption></figcaption></figure>
 
 2b) If you are on your phone, sign into Xaman and sign the transaction.
 
 
 
-<figure><img src="../.gitbook/assets/Xumm Pro Transaction screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/review transaction.png" alt=""><figcaption></figcaption></figure>
 
 
 
