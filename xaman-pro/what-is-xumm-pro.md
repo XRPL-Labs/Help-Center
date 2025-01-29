@@ -14,15 +14,13 @@ Xaman Pro is a paid subscription service which provides additional features to t
 
 ### Current features&#x20;
 
-### Unlimited use of Xaman
+### Enhanced us of Xaman
 
-We recently began the process of monetizing Xaman.
+We recently began the process of monetizing Xaman. A subscription to Pro will allow you to use higher tiers of XRPL transactions.  For more information about how this works, please refer to this article:
 
 {% content-ref url="../getting-started-with-xaman/understanding-monetization.md" %}
 [understanding-monetization.md](../getting-started-with-xaman/understanding-monetization.md)
 {% endcontent-ref %}
-
-A subscription to Pro allows you unlimited usage to Xaman. This means that for the period of 1 year, you will be able to use all of Xaman's features as often as you like, without restrictions.
 
 ### [**Profiles and Paystring**](features-of-pro/profiles/all-about-profiles.md)
 
@@ -36,13 +34,15 @@ Push notifications are small, pop-up messages that Xaman will display on your ph
 
 This feature allows you to go through the KYC process to help verify your identity and add trust to your XRP Ledger and Xahau accounts.
 
-### **Premium Support**
+### [**Premium Support**](https://xaman.app/detect/xapp:xumm.support-md)
 
 All of our Xaman Pro subscribers receive priority 24 hour, multi-language customer support. Standard support tickets are handled on a 'first come, first served' basis, but with premium support, you 'skip the line' and your tickets are prioritized.
 
 ### **Early access to new features**
 
-For those people who want to get involved with the latest and greatest advancements in the XRP Ledger, this feature gets you early access to all of the things we are working on.
+For those people who want to get involved with the latest and greatest advancements in the XRP Ledger, this feature gets you early access to all of the things we are working on. Just enter your email address to enroll.
+
+<figure><img src="../.gitbook/assets/early access.png" alt=""><figcaption></figcaption></figure>
 
 ### **Free Xaman cards**&#x20;
 
@@ -56,27 +56,9 @@ Xaman Pro subscribers will get access to special offers and discounts.
 
 See: [Vanity accounts](features-of-pro/vanity-addresses.md)
 
-### **Premium Community Access**&#x20;
+### [**Premium Community Access** ](https://www.xaman.community/feed)
 
-A Pro subscription gets you access to Premium sections of the Xaman Community!&#x20;
-
-### Things we're working on for Xaman Pro
-
-#### Multi-sign xApp
-
-Multi-signing on the XRP Ledger is a method of authorizing transactions by using a combination of accounts. (Up to 32 different accounts to be exact.) This xApp will assist advanced users in configuring and using the multi-sign feature on the XRP Ledger/Xahau.
-
-Check out this link for more information the Multi-Signing feature:
-
-{% embed url="https://xrpl.org/multi-signing.html" %}
-
-#### Encrypted Backup xApp
-
-This xApp will be exclusively for our Xaman Pro subscribers. This one will allow users to backup their account secrets in a safe and easy way. Have you ever worried about losing your secret numbers? That will no longer be a concern once this xApp is released.
-
-#### Escrows - Auto finish
-
-Escrows are a native feature on the XRP Ledger and as they gain in popularity, our users have asked for an easier way to finish an escrow. This xApp will make this process **very** easy.
+A Pro subscription gets you access to Premium sections of the [**Xaman Community**](https://www.xaman.community/feed)!&#x20;
 
 
 
@@ -118,15 +100,7 @@ While we would love everyone to have Pro features forever & for free, developing
 
 #### **Can I order Pro from anywhere in the world?**
 
-You certainly can but please be aware, there are a couple of countries where we **can not** **ship** the Xaman cards to. These include:
-
-* North Korea
-* Iran
-* Belarus
-* Ukraine
-* Vietnam
-
-So while you can subscribe to and enjoy all of the great features of Xaman Pro, unfortunately we will be unable to send you the complimentary Xaman cards.  Reach out to us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
+You certainly can but please be aware, there are a couple of countries where we **can not** **ship** the Xaman cards to. So while you can subscribe to and enjoy all of the great features of Xaman Pro, unfortunately we will be unable to send you the complimentary Xaman cards.  Reach out to us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
 
 #### **I’m feeling generous! How do I give Pro as a gift?**
 
