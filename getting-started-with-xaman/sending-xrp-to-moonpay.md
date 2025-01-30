@@ -46,11 +46,15 @@ Note: This article assumes:
 
 <figure><img src="../.gitbook/assets/Moonpay -7.png" alt=""><figcaption></figcaption></figure>
 
-10\) The the amount of XRP you would like to send then press the **Next** button.
+10\) Enter the amount of XRP you would like to send then press the **Next** button.
 
 <figure><img src="../.gitbook/assets/Moonpay -8.png" alt=""><figcaption></figcaption></figure>
 
-11\) Tap and hold in the 'Enter a name of an address' field, press 'Paste' then press the Next button.&#x20;
+11\) Tap and hold in the 'Enter a name of an address' field, press '**Paste**' then press the **Next** button.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Moonpay -9 (1).png" alt=""><figcaption></figcaption></figure>
 
 12\) Review the Summary screen. Confirm the amount you are going to send and confirm the destination r-address is correct.&#x20;
 
