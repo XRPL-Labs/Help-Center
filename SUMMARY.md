@@ -42,6 +42,7 @@
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xumm.md)
 * [Sending XRP to Xaman](getting-started-with-xaman/sending-xrp-to-xaman.md)
 * [Sending tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
+* [Sending XRP to Moonpay](getting-started-with-xaman/sending-xrp-to-moonpay.md)
 * [How to convert a Read only account to Full Access](getting-started-with-xaman/how-to-convert-a-read-only-account-to-full-access.md)
 * [Deposit to Exchange Didn’t Arrive](getting-started-with-xaman/deposit-to-exchange-didnt-arrive.md)
 * [Can Xaman reverse, freeze or undo a transaction?](getting-started-with-xaman/can-xumm-reverse-freeze-or-undo-a-transaction.md)
