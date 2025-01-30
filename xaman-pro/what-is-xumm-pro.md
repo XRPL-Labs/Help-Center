@@ -14,7 +14,7 @@ Xaman Pro is a paid subscription service which provides additional features to t
 
 ### Current features&#x20;
 
-### Enhanced us of Xaman
+### Enhanced use of Xaman
 
 We recently began the process of monetizing Xaman. A subscription to Pro will allow you to use higher tiers of XRPL transactions.  For more information about how this works, please refer to this article:
 
