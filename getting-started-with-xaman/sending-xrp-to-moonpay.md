@@ -28,17 +28,27 @@ Note: This article assumes:
 
 <figure><img src="../.gitbook/assets/Moonpay -4.png" alt=""><figcaption></figcaption></figure>
 
-5\) Press the three dots
+5\) Press the **three dots**.
 
-6\) Press 'Copy address'
+<figure><img src="../.gitbook/assets/Moonpay -5 (1).png" alt=""><figcaption></figcaption></figure>
+
+6\) Press '**Copy address**'.
+
+<figure><img src="../.gitbook/assets/Moonpay -6.png" alt=""><figcaption></figcaption></figure>
 
 7\) Switch screens to Xaman.
 
-8\) Sign into Xaman
+8\) Sign into Xaman.
 
-9\) Press the 'Send' button
+9\) Press the '**Send**' button.
 
-10\) The the amount of XRP you would like to send then press the Next button.
+
+
+<figure><img src="../.gitbook/assets/Moonpay -7.png" alt=""><figcaption></figcaption></figure>
+
+10\) The the amount of XRP you would like to send then press the **Next** button.
+
+<figure><img src="../.gitbook/assets/Moonpay -8.png" alt=""><figcaption></figcaption></figure>
 
 11\) Tap and hold in the 'Enter a name of an address' field, press 'Paste' then press the Next button.&#x20;
 
