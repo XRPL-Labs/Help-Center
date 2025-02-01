@@ -1,5 +1,6 @@
 ---
 description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sustainability'
+hidden: true
 ---
 
 # 💡 Understanding monetization
