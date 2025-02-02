@@ -1,7 +1,8 @@
 ---
 description: >-
   Xaman remains committed to providing the most secure, feature-rich, and
-  user-friendly wallet for the XRP Ledger and Xahau ecosystems.
+  user-friendly wallet for the XRP Ledger and Xahau ecosystems. We've introduced
+  fees because leading in security isn’t optional.
 ---
 
 # 💙 Understanding the Xaman Service Fee
