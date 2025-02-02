@@ -4,6 +4,7 @@
 
 ## Getting started with Xaman
 
+* [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
