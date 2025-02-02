@@ -11,11 +11,15 @@ To ensure long-term sustainability while maintaining an exceptional user experie
 
 This update eliminates the previous threshold-based monetization and replaces it with a transparent, per-use fee structure. Fees are applied only to specific transactions that require extensive processing resources or involve trading activity.
 
-> **Most transactions remain free**\
-> **Trading now has a small 0.7% fee with a minimum of 0.09XRP**\
-> **Some transactions cost a fixed-fee of 0.09 XRP**
->
-> **High Value Xaman Service Fee on Transactions over $50,000**
+{% hint style="info" %}
+**Most transactions remain free**
+
+**Trading now has a small 0.7% fee with a minimum of 0.09XRP**
+
+**Some transactions cost a fixed-fee of 0.09 XRP**
+
+**High Value Xaman Service Fee on Transactions over $50,000**
+{% endhint %}
 
 ## Xaman 3.3.1 Brought Key Changes in Monetization
 
