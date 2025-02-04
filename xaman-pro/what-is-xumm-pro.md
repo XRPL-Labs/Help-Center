@@ -16,10 +16,12 @@ Xaman Pro is a paid subscription service which provides additional features to t
 
 ### Enhanced use of Xaman
 
-We recently began the process of monetizing Xaman. A subscription to Pro will allow you to use higher tiers of XRPL transactions.  For more information about how this works, please refer to this article:
+Xaman Pro users enjoy 25 feeless trading transactions or up to $1,000 in trading volume per month—no extra costs, no limits on features.
 
-{% content-ref url="../getting-started-with-xaman/understanding-monetization.md" %}
-[understanding-monetization.md](../getting-started-with-xaman/understanding-monetization.md)
+&#x20; For more information about how this works, please refer to this article:
+
+{% content-ref url="../getting-started-with-xaman/understanding-the-xaman-service-fee.md" %}
+[understanding-the-xaman-service-fee.md](../getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 {% endcontent-ref %}
 
 ### [**Profiles and Paystring**](features-of-pro/profiles/all-about-profiles.md)
