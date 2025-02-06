@@ -112,15 +112,15 @@ The shipping costs for the cards will be calculated when you claim the cards. Th
 
 #### Why does it cost so much to have the cards shipped to me?
 
-Over the last couple of years, the cost to ship the cards has more than doubled. We are in the process of investigating other shipping methods, but so far, there is no economical way to ship them around the world.&#x20;
+Over the last couple of years, the cost to ship the cards has more than doubled. We are in the process of investigating other shipping methods, but so far, we have not found an economical way to ship the cards around the world.&#x20;
 
 #### When will the cards be shipped?
 
-Most card orders are usually packaged and shipped out the next business day.&#x20;
+Most card orders are usually packaged and shipped out within 2 business days.&#x20;
 
 #### I purchased my order with a credit card but Pro is not working.
 
-Once your cards are shipped, you will receive an email with an Xaman Pro activation link. You will need to tap on the link to activate Pro on your device. Keep in mind, orders usually ship within one or two business days so if you order on the weekend you might have to wait for a day before your receive the email.
+Once your cards are shipped, you will receive an email with an Xaman Pro activation link. You will need to tap on the link to activate Pro on your device. Keep in mind, orders usually ship within two business days so if you order on the weekend you might have to wait for a day or two before your receive the email.
 
 #### If I don't like Xaman Pro can I get a refund?
 
