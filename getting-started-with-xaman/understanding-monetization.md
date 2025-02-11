@@ -1,6 +1,18 @@
 ---
 description: 'Understanding Monetization: Keeping Security #1 While Ensuring Sustainability'
 hidden: true
+noIndex: true
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 💡 Understanding monetization

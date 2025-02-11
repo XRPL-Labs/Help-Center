@@ -21,11 +21,7 @@ This update eliminates the previous threshold-based monetization and replaces it
 **High Value Xaman Service Fee on Transactions over $50,000**
 {% endhint %}
 
-## Xaman 3.3.1 Brought Key Changes in Monetization
 
-* **No more Google & Apple Pay for monetization**
-* **No more usage-based thresholds**
-* **All fees are now paid in XRP, directly on the ledger**
 
 ### Transactions That Remain Free
 
@@ -36,6 +32,7 @@ The vast majority of user activity remains unaffected. The following transaction
 * Trustline operations
 * Canceling offers
 * Deleting accounts
+* Minting & Listing NFTs
 
 ### Trading and High-Load Transactions
 
