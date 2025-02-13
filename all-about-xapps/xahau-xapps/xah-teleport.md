@@ -97,7 +97,7 @@ ie. rStargateYHGUdFGeusi34tr on the the XRP Ledger to rStargateYHGUdFGeusi34tr o
 
 #### What if I encounter this screen?
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 The, "The payload is not available on the network you are connect with" message means that you are not connected to the correct network.
 

@@ -26,7 +26,7 @@ Paying with XRP is by far the better option. It allows you to pay instantly, get
 
 and select '**Get Pro now!**':
 
-<figure><img src="../.gitbook/assets/Pro link.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 2a) If you are on a desktop computer, you can scan the QR code with Xaman:&#x20;
 
