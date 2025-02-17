@@ -29,10 +29,11 @@ The vast majority of user activity remains unaffected. The following transaction
 
 * Sending and receiving XRP
 * Sending and receiving tokens
-* Trustline operations
+* Removing Trustlines
 * Canceling offers
 * Deleting accounts
 * Minting & Listing NFTs
+* Placing limit orders
 
 ### Trading and High-Load Transactions
 
@@ -42,7 +43,7 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 
 * Token swaps
 * AMM deposits and withdrawals
-* Trading on the DEX
+* Trading on the DEX (except limit orders)
 
 ### **Small Fixed Fees for Certain Transactions**
 
