@@ -33,7 +33,8 @@ The vast majority of user activity remains unaffected. The following transaction
 * Canceling offers
 * Deleting accounts
 * Minting & Listing NFTs
-* Placing limit orders
+
+
 
 ### Trading and High-Load Transactions
 
@@ -43,7 +44,7 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 
 * Token swaps
 * AMM deposits and withdrawals
-* Trading on the DEX (except limit orders)
+* Trading on the DEX&#x20;
 
 ### **Small Fixed Fees for Certain Transactions**
 
