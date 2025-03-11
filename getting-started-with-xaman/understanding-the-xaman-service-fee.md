@@ -14,7 +14,7 @@ This update eliminates the previous threshold-based monetization and replaces it
 {% hint style="info" %}
 **Most transactions remain free**
 
-**Trading now has a small 0.7% fee with a minimum of 0.09XRP**
+**Trading has a small 0.8% fee with a minimum of 0.09XRP**
 
 **Some transactions cost a fixed-fee of 0.09 XRP**
 
@@ -40,7 +40,7 @@ The vast majority of user activity remains unaffected. The following transaction
 
 To maintain optimal performance and security, Xaman now applies a small fee to transactions that require additional infrastructure resources:
 
-**Trading Transactions (0.7% service fee, minimum 0.09 XRP per transaction):**
+**Trading Transactions (0.8% service fee, minimum 0.09 XRP per transaction):**
 
 * Token swaps
 * AMM deposits and withdrawals
