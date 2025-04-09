@@ -23,7 +23,7 @@ As well, officially Xaman does not support tablets such as Apple iPads. While yo
 Finally, we have encountered issues with the following devices:
 
 * On the Samsung A50, A51, Samsung A71 and Motorola One Action phones, there are known issues on Android 10. After updating to Android 11 the Samsung A51 and A71 will work just fine.
-* There are known NFC issues with Android devices by Nokia, like the Nokia 8.1. If you intended to use Xumm (Tangem) card on these phone, the cards will not work.
+* There are known NFC issues with Android devices by Nokia, like the Nokia 8.1. If you intended to use a Xaman card on these phones, the cards will not work.
 
 ### **Getting started…**
 
