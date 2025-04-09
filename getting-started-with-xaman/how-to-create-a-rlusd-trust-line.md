@@ -8,7 +8,7 @@ The RLUSD token is a stable coin issued on the XRP Ledger by Ripple.
 
 To create a Trust Line for Ripple's RLUSD token, press the '**+Add**' button on the main screen of Xaman:
 
-<figure><img src="../.gitbook/assets/RLUSD - 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Add button.png" alt=""><figcaption></figcaption></figure>
 
 then choose '**RLUSD**'
 
