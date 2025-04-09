@@ -55,6 +55,7 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 * Account settings modifications (AccountSet)
 * Trustline modifications (TrustSet)
 * Pathfinding payments (0.15 XRP fee due to additional computational complexity)
+* Placing limit orders
 
 ### High-Value Transactions
 
