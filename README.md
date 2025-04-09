@@ -18,15 +18,13 @@ If you are looking for Customer Support for Xaman, please contact us directly th
 
 
 
-<figure><img src=".gitbook/assets/xApp - 1.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/Xaman Support xApp (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Please note: The [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) is the official channel for reaching us. We **do not** offer support through social media. &#x20;
 {% endhint %}
 
-We have divided this site into various categories that you can browse at your convenience or simply use the **Search** button at the top of the page to get a quick list of articles related to your search criteria.
+We have divided this site into various categories that you can browse at your convenience or you can simply use the **Search** button at the top of the page to get a quick list of articles related to your search criteria.
 
 Should you notice an article that is out of date or if you would like to see an article about a topic that is not covered here, [**just let us know.**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) We are always happy to hear from the community on how we can improve!&#x20;
 
