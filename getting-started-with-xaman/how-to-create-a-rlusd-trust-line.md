@@ -26,5 +26,5 @@ and '**Slide to accept**'
 
 You should now see the RLUSD in your Trust Line list.
 
-<figure><img src="../.gitbook/assets/RLUSD - 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/RLUSD TL.png" alt=""><figcaption></figcaption></figure>
 
