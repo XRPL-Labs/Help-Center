@@ -35,7 +35,7 @@ Xaman can only be download from 1 of 2 places:
 
 Just select one of the above links and press the **Install** button begin the download.
 
-<figure><img src="../.gitbook/assets/Google play - Xumm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Googe Play - Xaman install.png" alt=""><figcaption></figcaption></figure>
 
 
 
