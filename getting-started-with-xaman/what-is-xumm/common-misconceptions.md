@@ -14,9 +14,9 @@ Once you enter your private key into Xaman, it is immediately encrypted and plac
 
 A custodial wallet is basically a customer account in a crypto exchange's company database. It is not an XRP Ledger account. Xaman is a self-custodial wallet. It stores the private key to access your XRP Ledger account.&#x20;
 
-### You can't buy XRP using Xaman - You certainly can.
+### You can't buy XRP using Xaman - You certainly can!
 
-This is false. Xaman offers several ways to purchase XRP. Simply select [**this link**](https://xumm.app/detect/xapp:xumm.buysellxrp) and you can explore the many options we offer.
+This is false. We have partnered with several exchanges who would be happy to sell you XRP. Simply select [**this link**](https://xumm.app/detect/xapp:xumm.buysellxrp) and you can explore the many options we offer.
 
 ### Xaman is not as safe as a cold wallet
 
@@ -24,4 +24,4 @@ There are many attack vectors for both cold and hot wallets and both types have 
 
 ### Xaman offers staking
 
-No, the XRP Ledger is not a Proof of Stake network so there is no way to offer staking natively on the XRPL. Furthermore, there is no need to stake coins since the validation process is a cooperative based system, not a competitive based system. All fees charged by the XRP Ledger are destroyed so there is no way to generate "rewards" for users.
+No, the XRP Ledger is not a Proof of Stake network so there is no way to offer staking natively on the XRPL. Furthermore, there is no need to stake coins since the validation process is a cooperative based system, not a competitive based system.&#x20;
