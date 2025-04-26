@@ -49,7 +49,7 @@ You are free to use whichever AMM interface you like, but please be vigilant whe
 
 ### How do I provide liquidity to an AMM pool?
 
-Once you have selected an AMM interface, you should work with them to learn how to it. They will have instructions on how to participate in the various liquidity pools. Try reaching out to their customer service team for specific instructions on how to do that.
+Once you have selected an AMM interface, you should work with them to learn how to use it. They will have instructions on how to participate in the various liquidity pools, what . Try reaching out to their customer service team for specific instructions on how to do that.
 
 ### How much passive income can I expect to receive by participating in an AMM pool?
 
