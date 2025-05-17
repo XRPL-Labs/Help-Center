@@ -27,11 +27,11 @@ This update eliminates the previous threshold-based monetization and replaces it
 
 The vast majority of user activity remains unaffected. The following transactions are free for all users:
 
-* Sending and receiving XRP
-* Sending and receiving tokens
-* Removing Trustlines
+* Sending and receiving XRP up to $50,000 USD in value
+* Sending and receiving tokens up to $50,000 USD in value
+* Removing Trust Lines
 * Canceling offers
-* Deleting accounts
+* Deleting accounts on the XRP Ledger
 * Minting & Listing NFTs
 
 
@@ -44,7 +44,7 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 
 * Token swaps
 * AMM deposits and withdrawals
-* Trading on the DEX&#x20;
+* Trading on the XRP Ledger DEX&#x20;
 
 ### **Small Fixed Fees for Certain Transactions**
 
@@ -53,7 +53,7 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 * NFT trading
 * AMM creation and voting
 * Account settings modifications (AccountSet)
-* Trustline modifications (TrustSet)
+* Trust Line creation and modifications (TrustSet)
 * Pathfinding payments (0.15 XRP fee due to additional computational complexity)
 * Placing limit orders
 
