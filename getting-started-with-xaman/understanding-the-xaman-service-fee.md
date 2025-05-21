@@ -21,8 +21,6 @@ This update eliminates the previous threshold-based monetization and replaces it
 **High Value Xaman Service Fee on Transactions over $50,000**
 {% endhint %}
 
-
-
 ### Transactions That Remain Free
 
 The vast majority of user activity remains unaffected. The following transactions are free for all users:
@@ -33,8 +31,6 @@ The vast majority of user activity remains unaffected. The following transaction
 * Canceling offers
 * Deleting accounts on the XRP Ledger
 * Minting & Listing NFTs
-
-
 
 ### Trading and High-Load Transactions
 
@@ -83,3 +79,11 @@ This update brings Xaman in line with industry standards used by wallets across 
 These changes support Xaman’s mission to deliver best-in-class self-custodial security, ongoing innovation, and continued growth.
 
 For more details, visit [xaman.app/pro](https://xaman.app/pro) or refer to our full update at [xaman.app/blog/3-3-1](https://xaman.app/blog/3-3-1).
+
+### Frequently asked questions
+
+**I have subscribed to Xaman Pro, does the High Value transaction fees apply to me?**
+
+Yes. Regardless of when you subscribed to Pro (before or after Feb. 1-2025) the High Value fees apply.
+
+Any transaction exceeding $50,000 will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee,** regardless if you are a Pro subscriber or not.
