@@ -16,7 +16,7 @@ This update eliminates the previous threshold-based monetization and replaces it
 
 **Trading has a small 0.8% fee with a minimum of 0.09XRP**
 
-**Some transactions cost a fixed-fee of 0.09 XRP**
+**Pathfinding transactions cost a fixed-fee of 0.15 XRP**
 
 **High Value Xaman Service Fee on Transactions over $50,000**
 {% endhint %}
@@ -25,12 +25,18 @@ This update eliminates the previous threshold-based monetization and replaces it
 
 The vast majority of user activity remains unaffected. The following transactions are free for all users:
 
-* Sending and receiving XRP up to $50,000 USD in value
-* Sending and receiving tokens up to $50,000 USD in value
+* Sending XRP up to $50,000 USD in value
+* Sending tokens up to $50,000 USD in value
+* Receiving any amount of XRP or Tokens.
 * Removing Trust Lines
 * Canceling offers
 * Deleting accounts on the XRP Ledger
 * Minting & Listing NFTs
+* NFT trading
+* AMM creation and voting
+* Account settings modifications (AccountSet)
+* Trust Line creation and modifications (TrustSet)
+* Placing limit orders
 
 ### Trading and High-Load Transactions
 
@@ -44,14 +50,9 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 
 ### **Small Fixed Fees for Certain Transactions**
 
-**The following bear a fixed 0.09 XRP fee per transaction with the exception of pathfinding.**
+**The following bear a fixed fee per transaction.**
 
-* NFT trading
-* AMM creation and voting
-* Account settings modifications (AccountSet)
-* Trust Line creation and modifications (TrustSet)
 * Pathfinding payments (0.15 XRP fee due to additional computational complexity)
-* Placing limit orders
 
 ### High-Value Transactions
 
