@@ -7,7 +7,6 @@
 * [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [🎉 What's New in Xaman 4.1](getting-started-with-xaman/whats-new-in-xaman-4.1.md)
-* [Xaman 4.0](getting-started-with-xaman/xaman-4.0.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
 * [How to create a USDC Trust Line](getting-started-with-xaman/how-to-create-a-usdc-trust-line.md)
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
@@ -192,6 +191,7 @@
 
 * [Current release](release-notes/current-release.md)
 * [Previous releases](release-notes/previous-releases/README.md)
+  * [Xaman 4.0](release-notes/previous-releases/xaman-4.0.md)
   * [😎 Updating to Xaman v2.8.2!](release-notes/previous-releases/updating-to-xaman-v2.8.2.md)
   * [Xaman v2.8](release-notes/previous-releases/xaman-v2.8.md)
   * [Xaman v2.6 (Formerly Xumm)](release-notes/previous-releases/xaman-v2.6-formerly-xumm.md)
