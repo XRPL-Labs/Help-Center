@@ -6,7 +6,8 @@
 
 * [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
-* [🎉 Xaman 4.0](getting-started-with-xaman/xaman-4.0.md)
+* [🎉 What's New in Xaman 4.1](getting-started-with-xaman/whats-new-in-xaman-4.1.md)
+* [Xaman 4.0](getting-started-with-xaman/xaman-4.0.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
   * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)

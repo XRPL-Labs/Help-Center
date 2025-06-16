@@ -21,13 +21,14 @@ This update eliminates the previous threshold-based monetization and replaces it
 **High Value Xaman Service Fee on Transactions over $50,000**
 {% endhint %}
 
-### Transactions That Remain Free
+### Transactions That Are Free
 
 The vast majority of user activity remains unaffected. The following transactions are free for all users:
 
 * Sending XRP up to $50,000 USD in value
 * Sending tokens up to $50,000 USD in value
 * Receiving any amount of XRP or Tokens.
+* Trust Line creation and modifications (TrustSet)
 * Removing Trust Lines
 * Canceling offers
 * Deleting accounts on the XRP Ledger
@@ -35,7 +36,6 @@ The vast majority of user activity remains unaffected. The following transaction
 * NFT trading
 * AMM creation and voting
 * Account settings modifications (AccountSet)
-* Trust Line creation and modifications (TrustSet)
 * Placing limit orders
 
 ### Trading and High-Load Transactions

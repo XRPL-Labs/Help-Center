@@ -5,7 +5,7 @@ description: >-
   experience. This guide covers everything you need.
 ---
 
-# 🎉 Xaman 4.0
+# Xaman 4.0
 
 ## **Key Features in Xaman 4.0**
 
