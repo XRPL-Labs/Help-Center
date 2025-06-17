@@ -4,53 +4,68 @@ description: How to send tokens to your XRP Ledger account managed by Xaman
 
 # Sending tokens to Xaman
 
-**Introduction**
+### **Introduction**
 
-If you are new to Xaman (formerly Xumm), it can be a little bit confusing to understand what all the buttons and features do. Trust us when we say, **it does get easier** after a little bit of practice! 😉
+If you are new to Xaman, it can be a little bit confusing to understand what all the buttons and features do. Trust us when we say, **it does get easier** after a little bit of practice! 😉
 
-This article talks about how to send funds using Xaman.
+This article talks about how to send tokens to Xaman.
 
-### **Background**
+### **First things first...**
 
-The first thing to know is that all tokens issued on the XRP Ledger use the same r-address to send and receive as XRP does.&#x20;
+All tokens issued on the XRP Ledger should be sent to your r-address. For example, if you want send XRP to your account, you would send it to your r-address. which you can find here:
 
-For example, if you want send XRP to your account, you would send it to your r-address. In Xaman you can find your r-address here:
-
-<figure><img src="../.gitbook/assets/Main scree - r-address.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/r-address.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Of course, your r-address will be different than our r-address. Our account is a [Vanity r-address](../xaman-pro/features-of-pro/vanity-addresses.md).
 {% endhint %}
 
+Similarly, if you want to send a token to your account, your would send it **to your r-address**.
+
+
+
 The second thing to know as that you **can not receive tokens** unless you have configured a Trust Line for those tokens.
 
-In our case, we have one Trust Line configured in our account:
+In our case, we have several Trust Lines configured in our account:
 
 * XAH (Xahau)
+* USDC
+* Euros (issued by GateHub)
+* RLUSD
 
-You can see it here:
-
-<figure><img src="../.gitbook/assets/GateHub EUR.png" alt=""><figcaption></figcaption></figure>
-
-The final thing, which might be the most important thing, is that you should **never send tokens to the** _**token issuing account**_. If you do that, you will destroy them. (More on this later.)
+This means that we can receive and hold these tokens in our account.
 
 ### Putting it all together
 
 Let's go through an example of how it works.
 
-We want to receive a token in our account. In this case, we want to receive Euro tokens (EUR) issued by GateHub. The problem is that we do not have a Trust Line configured in our account for EUR so we can not receive them. We need to create one.
+We want to receive a token in our account. (In this case, **rstargateUoNLmD6837twth...**)
 
-Here's how to do that:
+We can receive XAH, USDC, Euros (issued by GateHub) or RLUSD tokens because we have Trust Lines configured for those tokens.
 
-{% content-ref url="how-to-create-a-trust-line.md" %}
-[how-to-create-a-trust-line.md](how-to-create-a-trust-line.md)
-{% endcontent-ref %}
+Our friend has their own XRP Ledger account.
 
-After we follow the instructions in the above article, we now have two Trust Lines configured. Here is how Xaman looks after we create the EUR Trust Line.
+<figure><img src="../.gitbook/assets/r-address - Atlantis (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Trust Line list.png" alt=""><figcaption></figcaption></figure>
+We can see that they have XAH tokens (issued by GateHub) just like we do, and they have Euro tokens (issued by GateHub) like us.
 
-Now, in our case, let’s say we had another XRPL account and we wanted to send tokens to it. For example, CasinoCoin (CSC), we would send the tokens the same r-address as we would if we were sending XRP. (In this case, **rstargateUoNLmD683...**)
+They are going to send us 10 Euro tokens.
+
+First, our friend taps the '**Send**' button.
+
+<figure><img src="../.gitbook/assets/r-address - Atlantis -1.png" alt=""><figcaption></figcaption></figure>
+
+then they press the **down arrow** in the 'Token' arrow section and select **Euro** (issued by GateHub), then they enter '10' in the 'Amount' field, then press the '**Next**' button.
+
+<figure><img src="../.gitbook/assets/r-address - Atlantis -2.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+in our case, let’s say we had another XRPL account and we wanted to send tokens to it. For example, CasinoCoin (CSC), we would send the tokens the same r-address as we would if we were sending XRP. (In this case, **rstargateUoNLmD683...**)
 
 …and we wanted to send a different token to our account, maybe, Sologenic (SOLO) or Coreum (CORE) or Elysium (ELS), we would still use the our same r-address. (Again, in this case, **rstargateUoNLmD683...**)
 
@@ -85,3 +100,13 @@ For more information about Trust Lines and how they work, check out this link:
 {% hint style="danger" %}
 One final note, you should never send tokens back to an issuing account. Doing this will destroy them. If you are unsure about this, please contact us to discuss.
 {% endhint %}
+
+The problem is that we do not have a Trust Line configured in our account for EUR so we can not receive them. We need to create one.
+
+Here's how to do that:
+
+{% content-ref url="how-to-create-a-trust-line.md" %}
+[how-to-create-a-trust-line.md](how-to-create-a-trust-line.md)
+{% endcontent-ref %}
+
+After we follow the instructions in the above article, we now have two Trust Lines configured. Here is how Xaman looks after we create the EUR Trust Line.
