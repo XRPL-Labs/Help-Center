@@ -35,7 +35,7 @@ In our case, we have several Trust Lines configured in our account:
 
 This means that we can receive and hold these tokens in our account.
 
-### Putting it all together
+### Putting it together
 
 Let's go through an example of how it works.
 
@@ -59,11 +59,19 @@ then they press the **down arrow** in the 'Token' arrow section and select **Eur
 
 <figure><img src="../.gitbook/assets/r-address - Atlantis -2.png" alt=""><figcaption></figcaption></figure>
 
+Now it's time for our friend to enter our r-address since we will be the recipient of the tokens. After our complete r-address has been entered, they will press the '**Next**' button.
+
+<figure><img src="../.gitbook/assets/r-address - Atlantis -3.png" alt=""><figcaption></figcaption></figure>
+
+
+
+Finally, we have the Summary screen. Our friend will review the transaction, then slide the 'Slide to send' button to complete the transaction.
 
 
 
 
 
+&#x20;
 
 in our case, let’s say we had another XRPL account and we wanted to send tokens to it. For example, CasinoCoin (CSC), we would send the tokens the same r-address as we would if we were sending XRP. (In this case, **rstargateUoNLmD683...**)
 
