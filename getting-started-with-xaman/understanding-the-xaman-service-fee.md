@@ -88,3 +88,15 @@ For more details, visit [xaman.app/pro](https://xaman.app/pro) or refer to our f
 Yes. Regardless of when you subscribed to Pro (before or after Feb. 1-2025) the High Value fees apply.
 
 Any transaction exceeding $50,000 will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee,** regardless if you are a Pro subscriber or not.
+
+
+
+**I want to send over 50,000 USD worth of XRP to my XRP Ledger account managed by Xaman. Do I have to pay a fee?**
+
+No.  Sending funds to your XRP Ledger account managed by Xaman does not incur a fee.&#x20;
+
+
+
+**I want to send over 50,000 USD worth of XRP from my XRP Ledger account managed by Xaman. Do I have to pay a fee?**
+
+Yes.  Any transaction where you send $50,000 USD or more **from** your XRP Ledger account managed by Xaman will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee.**
