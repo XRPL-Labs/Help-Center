@@ -1,16 +1,5 @@
 ---
 description: All about the Balance Adjustment xApp
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Balance Adjustment

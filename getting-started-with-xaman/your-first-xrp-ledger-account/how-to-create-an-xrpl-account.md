@@ -12,11 +12,11 @@ If you have just finished installing Xaman (formerly Xumm) and are at this page,
 
 1\) If you are **not** at the above screen, launch Xaman and press **Settings** -> **Accounts** -> **+ Add account** -> **Create a new account**.
 
+<figure><img src="../../.gitbook/assets/Create a new account - 1.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 Make sure you read and understand this page then press the **Next, I understand** button.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/Install - Important screen.png" alt=""><figcaption></figcaption></figure>
 
 You will be presented with a set of secret numbers. The secret numbers consist of 8 rows, (A through H) with each row containing 6 digits. (0,1,2,3,-> 9)&#x20;
 
