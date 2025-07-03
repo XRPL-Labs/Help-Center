@@ -68,13 +68,13 @@ Press the **Hooray, let's go!**
 
 You should now be at the main screen of Xaman.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Create a new account - 5.png" alt=""><figcaption></figcaption></figure>
 
 Notice that your new account has **not been activated** yet.
 
-All XRPL accounts [need to be activated](../how-to-activate-a-new-xrpl-account/) with at least 10 XRP in order to hold XRP in them.
+All XRPL accounts [need to be activated](../how-to-activate-a-new-xrpl-account/) with at least 1 XRP in order to hold XRP in them.
 
-Pressing the **Activate your account** button gets you into the Account Activation flow.
+Pressing the **Activate your account** button gets you into the "Account Activation" flow.
 
 
 
