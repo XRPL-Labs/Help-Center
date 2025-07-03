@@ -39,9 +39,7 @@ Please do not take this process lightly and make sure you accurately record and 
 
 You should receive your public address, also known as your r-address. To continue, press the **Next** button.
 
-
-
-<figure><img src="../../.gitbook/assets/reserved.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Create a new account - 3.png" alt=""><figcaption></figcaption></figure>
 
 Press the **Next, I understand** button to continue.
 
