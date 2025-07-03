@@ -76,9 +76,7 @@ All XRPL accounts [need to be activated](../how-to-activate-a-new-xrpl-account/)
 
 Pressing the **Activate your account** button gets you into the "Account Activation" flow.
 
-
-
-<figure><img src="../../.gitbook/assets/activation 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Account activation - 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 If you press the **Buy XRP** button you will be provided with several options to purchase XRP.
 
