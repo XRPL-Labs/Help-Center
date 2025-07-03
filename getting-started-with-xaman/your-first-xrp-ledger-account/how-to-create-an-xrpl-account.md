@@ -24,13 +24,13 @@ You will be presented with a set of secret numbers. The secret numbers consist o
 
 You will need to **carefully** write all of the numbers down in the correct order. These numbers are used to generate your private keys. It is vital that you record these numbers correctly and store them in a safe place. After writing down the first row of numbers, press **Next** to see the following row. Repeat this process until you have recorded all of the secret numbers.
 
-<figure><img src="../../.gitbook/assets/Secret numbers - 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Create a new account - 2.png" alt=""><figcaption></figcaption></figure>
 
-The next part of the process is to manually enter all of the secret numbers back into Xaman. You can use the <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line">buttons and the <img src="../../.gitbook/assets/image (11) (2).png" alt="" data-size="line">buttons to do this. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
+The next part of the process is to manually enter all of the secret numbers back into Xaman. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
 
 
 {% hint style="danger" %}
-This step is deliberately time consuming and tendinous. The secret numbers are absolutely vital to the safety of your XRP Ledger account and are **the only way** to access your account in the event something were to happen to your phone.
+The secret numbers are absolutely vital to the safety of your XRP Ledger account and are **the only way** to access your account in the event something were to happen to your phone.
 
 Please do not take this process lightly and make sure you accurately record and safely store your secret numbers.
 {% endhint %}
