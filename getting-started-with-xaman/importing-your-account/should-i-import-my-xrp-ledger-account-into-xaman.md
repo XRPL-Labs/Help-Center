@@ -10,7 +10,7 @@ Xaman (formerly Xumm) is an excellent application for making payments on the XRP
 
 Hardware wallets are largely about **long term storage** of your assets.
 
-A hardware wallet stores the  private keys for an XRP Ledger account on a device that is not connected to the internet. Transactions can only be signed on the XRPL account if the signer is in possession of the hardware device. Storing private keys 'offline' limits some potential attack vectors on an account.
+A hardware wallet stores the private keys for an XRP Ledger account on a device that is not directly connected to the internet. Transactions can only be signed on the XRPL account if the signer is in possession of the hardware device. Storing private keys 'offline' limits some potential attack vectors on an account.
 
 Xaman is largely about enabling interaction with the XRP Ledger ecosystem.
 
