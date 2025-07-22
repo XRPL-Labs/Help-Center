@@ -18,7 +18,7 @@ This update eliminates the previous threshold-based monetization and replaces it
 
 **Pathfinding transactions cost a fixed-fee of 0.15 XRP**
 
-**High Value Xaman Service Fee on Transactions over $50,000**
+**High Value Xaman Service Fee on Payments over $50,000**
 {% endhint %}
 
 ### Transactions That Are Free
