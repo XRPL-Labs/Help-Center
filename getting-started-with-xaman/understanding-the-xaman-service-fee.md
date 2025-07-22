@@ -36,7 +36,6 @@ The vast majority of user activity remains unaffected. The following transaction
 * NFT trading
 * AMM creation and voting
 * Account settings modifications (AccountSet)
-* Placing limit orders
 
 ### Trading and High-Load Transactions
 
@@ -53,6 +52,7 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 **The following bear a fixed fee per transaction.**
 
 * Pathfinding payments (0.15 XRP fee due to additional computational complexity)
+* Limit orders incur a fixed 0.09XRP fee
 
 ### High-Value Transactions
 
