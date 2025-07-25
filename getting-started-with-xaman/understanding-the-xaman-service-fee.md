@@ -14,7 +14,9 @@ This update eliminates the previous threshold-based monetization and replaces it
 {% hint style="info" %}
 **Most transactions remain free**
 
-**Trading has a small 0.8% fee with a minimum of 0.09XRP**
+**Market trading has a small 0.8% fee with a minimum of 0.09XRP**
+
+**Limit orders have a flat fee of 0.09 XRP**
 
 **Pathfinding transactions cost a fixed-fee of 0.15 XRP**
 
@@ -45,7 +47,7 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 
 * Token swaps
 * AMM deposits and withdrawals
-* Trading on the XRP Ledger DEX&#x20;
+* Market trades on the XRP Ledger DEX&#x20;
 
 ### **Small Fixed Fees for Certain Transactions**
 
@@ -64,7 +66,7 @@ This measure ensures the security and continued development of infrastructure th
 
 Xaman Pro users and holders of 5,000 or more XAH tokens continue to benefit from reduced fees:
 
-* **25 feeless trading transactions per month** OR **$1,000 in total trading volume per month before fees apply**
+* **25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month** OR **$1,000 in total trading volume per month before fees apply**
 * **Pro users who purchased before February 1, 2025, will enjoy a full year of completely fee-free trading**
 
 This adjustment ensures that high-activity users receive premium benefits while maintaining the best experience for the broader user base.
@@ -87,7 +89,7 @@ For more details, visit [xaman.app/pro](https://xaman.app/pro) or refer to our f
 
 Yes. Regardless of when you subscribed to Pro (before or after Feb. 1-2025) the High Value fees apply.
 
-Any transaction exceeding $50,000 will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee,** regardless if you are a Pro subscriber or not.
+Any payment transaction exceeding $50,000 will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee,** regardless if you are a Pro subscriber or not.
 
 
 
@@ -99,4 +101,19 @@ No.  Sending funds to your XRP Ledger account managed by Xaman does not incur a 
 
 **I want to send over 50,000 USD worth of XRP from my XRP Ledger account managed by Xaman. Do I have to pay a fee?**
 
-Yes.  Any transaction where you send $50,000 USD or more **from** your XRP Ledger account managed by Xaman will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee.**
+Yes.  Any payment transaction where you send $50,000 USD or more **from** your XRP Ledger account managed by Xaman will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee.**
+
+**I have 5000 XAH in my Xahau account. Do I have to pay the 0.09 XRP for limit orders?**
+
+Holding 5000 XAH in your account grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume per month before fees apply.
+
+Fixed fee transactions (limit orders and pathfinding payments) are not free. You will still be charged 0.15 XRP per Pathfinding payment and 0.09 XRP per limit order.
+
+**I have subscribed to Xaman Pro. Do I have to pay the 0.09 XRP for limit orders?**
+
+Xaman Pro grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume per month before fees apply.
+
+Fixed fee transactions (limit orders and pathfinding payments) are not free. You will still be charged 0.15 XRP per Pathfinding payment and 0.09 XRP per limit order.
+
+
+
