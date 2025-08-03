@@ -66,7 +66,7 @@ This measure ensures the security and continued development of infrastructure th
 
 Xaman Pro users and holders of 5,000 or more XAH tokens continue to benefit from reduced fees:
 
-* **25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month** OR **$1,000 in total trading volume per month before fees apply**
+* **25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per 30 days** OR **$1,000 in total trading volume per 30 days before fees apply**
 * **Pro users who purchased before February 1, 2025, will enjoy a full year of completely fee-free trading**
 
 This adjustment ensures that high-activity users receive premium benefits while maintaining the best experience for the broader user base.
@@ -95,7 +95,7 @@ Any payment transaction exceeding $50,000 will incur a **0.1% service fee**, whi
 
 **I want to send over 50,000 USD worth of XRP to my XRP Ledger account managed by Xaman. Do I have to pay a fee?**
 
-No.  Sending funds to your XRP Ledger account managed by Xaman does not incur a fee.&#x20;
+No.  Sending funds to accounts managed by Xaman does not incur a fee.&#x20;
 
 
 
@@ -109,7 +109,7 @@ Yes.  Any payment transaction where you send $50,000 USD or more **from** your X
 
 Yes..
 
-Holding 5000 XAH in your account grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume per month before fees apply.
+Holding 5000 XAH in your account grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per 30 days OR $1,000 in total trading volume per 30 days before fees apply.
 
 Fixed fee transactions (limit orders and pathfinding payments) are not free. You will still be charged 0.15 XRP per Pathfinding payment and 0.09 XRP per limit order.
 
@@ -119,7 +119,7 @@ Fixed fee transactions (limit orders and pathfinding payments) are not free. You
 
 Yes.
 
-Xaman Pro grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume per month before fees apply.
+Xaman Pro grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per 30 days OR $1,000 in total trading volume per 30 days before fees apply.
 
 Fixed fee transactions (limit orders and pathfinding payments) are not free. You will still be charged 0.15 XRP per Pathfinding payment and 0.09 XRP per limit order.
 
@@ -143,13 +143,13 @@ On August 21 you do your 25th token swap. You have to wait 30 days before your f
 
 You do 10 tokens swaps on August 15th. You do not do any more trades. On September 14 your feeless trades reset. On September 14th, you would get 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR $1,000 in total trading volume before fees apply again.
 
-**If I don't use my 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market** **trading transactions during the month (or $1,000 in total trading volume), do they carry over into the next month?**
+**If I don't use my 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market** **trading transactions during the 30 day window (or $1,000 in total trading volume), do they carry over into the next 30 days?**
 
 No. Fees are based on a rolling balance and reset every 30 days.
 
 For example, if you subscribed to Pro on August 1, you have 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR $1,000 in total trading volume before fees apply.&#x20;
 
-If you do not use your 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR do $1,000 in total trading volume within 30 days, your fees reset. They do not carry over into the next month.
+If you do not use your 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR do $1,000 in total trading volume within 30 days, your fees reset. They do not carry over into the next 30 days.
 
 
 
