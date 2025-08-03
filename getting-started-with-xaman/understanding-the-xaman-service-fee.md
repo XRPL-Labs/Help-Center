@@ -103,6 +103,8 @@ No.  Sending funds to your XRP Ledger account managed by Xaman does not incur a 
 
 Yes.  Any payment transaction where you send $50,000 USD or more **from** your XRP Ledger account managed by Xaman will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee.**
 
+
+
 **I have 5000 XAH in my Xahau account. Do I have to pay the 0.09 XRP for limit orders?**
 
 Yes..
@@ -110,6 +112,8 @@ Yes..
 Holding 5000 XAH in your account grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume per month before fees apply.
 
 Fixed fee transactions (limit orders and pathfinding payments) are not free. You will still be charged 0.15 XRP per Pathfinding payment and 0.09 XRP per limit order.
+
+
 
 **I have subscribed to Xaman Pro. Do I have to pay the 0.09 XRP for limit orders?**
 
@@ -119,31 +123,33 @@ Xaman Pro grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/
 
 Fixed fee transactions (limit orders and pathfinding payments) are not free. You will still be charged 0.15 XRP per Pathfinding payment and 0.09 XRP per limit order.
 
+
+
 **When do the fees reset?**
 
 Fees are based on a rolling balance.
 
-For example, if you subscribed to Pro on August 1, you have 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume before fees apply.
+For example, if you subscribed to Pro on August 1, you have 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR $1,000 in total trading volume before fees apply.
 
 **Case 1**
 
-Let's say you do 25 token swaps on the same day (August 1), you will have to wait 30 days before your feeless trades reset. In this case, you would have to wait until August 31. On August 31, your fees would reset and you would get 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume before fees apply.
+Let's say you do 25 token swaps on the same day (August 1), you will have to wait 30 days before your feeless trades reset. In this case, you would have to wait until August 31. On August 31, your fees would reset and you would get 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR $1,000 in total trading volume before fees apply again.
 
 **Case 2**
 
-On August 21 you do your 25th token swap. You have to wait 30 days before your feeless trades reset. In this case, you would have to wait until September 24th. On September 24th, your fees would reset and you would get 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume before fees apply.
+On August 21 you do your 25th token swap. You have to wait 30 days before your feeless trades reset. In this case, you would have to wait until September 24th. On September 24th, your fees would reset and you would get 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR $1,000 in total trading volume before fees apply again.
 
 **Case 3**
 
-You do 10 tokens swaps on August 15th. On September 14 your feeless trades reset. On September 14th, your fees would reset and you would get 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume before fees apply.
+You do 10 tokens swaps on August 15th. You do not do any more trades. On September 14 your feeless trades reset. On September 14th, you would get 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR $1,000 in total trading volume before fees apply again.
 
-**If I don't use my 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market** **trading transactions during the month OR $1,000 in total trading volume, do they care over into the next month?**
+**If I don't use my 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market** **trading transactions during the month (or $1,000 in total trading volume), do they carry over into the next month?**
 
 No. Fees are based on a rolling balance and reset every 30 days.
 
-For example, if you subscribed to Pro on August 1, you have 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per month OR $1,000 in total trading volume before fees apply.&#x20;
+For example, if you subscribed to Pro on August 1, you have 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR $1,000 in total trading volume before fees apply.&#x20;
 
-If you do not use your 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR do $1,000 in total trading volume within 30 days, your fees reset. They do not cary over.
+If you do not use your 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions OR do $1,000 in total trading volume within 30 days, your fees reset. They do not carry over into the next month.
 
 
 
