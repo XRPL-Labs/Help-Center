@@ -4,9 +4,10 @@ description: How to get the Glacier Airdrop
 
 # How to get the Glacier Airdrop
 
-The Glacier Airdrop is live.&#x20;
-
-X:  [https://x.com/midnightfdn](https://x.com/midnightfdn)
+* The Glacier Airdrop is live from August 5-2025 to October 4-2025.&#x20;
+* Here is their official website: [https://www.midnight.gd/](https://www.midnight.gd/)&#x20;
+* Their customer service team can be reached here: [https://www.midnight.gd/faq](https://www.midnight.gd/faq)
+* Their official X account is:  [https://x.com/midnightfdn](https://x.com/midnightfdn)
 
 ### Here's what you need to know:
 
