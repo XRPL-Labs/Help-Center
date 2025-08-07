@@ -5,6 +5,7 @@
 ## Getting started with Xaman
 
 * [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
+* [How to get the Glacier Airdrop](getting-started-with-xaman/how-to-get-the-glacier-airdrop.md)
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [🎉 What's New in Xaman 4.1](getting-started-with-xaman/whats-new-in-xaman-4.1.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
