@@ -70,7 +70,17 @@ Note:  For instructions on how to scan a QR code with Xaman, see this article:
 
 <figure><img src="../.gitbook/assets/Glacier claim - 5.png" alt=""><figcaption></figcaption></figure>
 
-7\)
+7\) Click the "CONTINUE" button.
+
+<figure><img src="../.gitbook/assets/Glacier claim - 6.png" alt=""><figcaption></figcaption></figure>
+
+8\) Click the Cardano wallet you would like your NIGHT tokens sent to.
+
+<figure><img src="../.gitbook/assets/Glacier claim - 7.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 
 
