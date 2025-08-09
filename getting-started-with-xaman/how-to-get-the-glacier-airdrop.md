@@ -40,17 +40,17 @@ Currently, Xaman Wallet is the **only XRP Ledger wallet** officially supported b
 
 1\) On a **desktop computer**, open an internet browser then enter this link: [ https://claim.midnight.gd](https://claim.midnight.gd)
 
-2\) Click the, "START A NEW CLAIM NOW" button.
+2\) Click the "START A NEW CLAIM NOW" button.
 
 <figure><img src="../.gitbook/assets/Glacier claim - 1.png" alt=""><figcaption></figcaption></figure>
 
 
 
-3\) Click the down arrow, select, "XRP" from the list, then press the, "CONFIRM NETWORK" button.
+3\) Click the down arrow, select "XRP" from the list, then press the "CONFIRM NETWORK" button.
 
 <figure><img src="../.gitbook/assets/Glacier claim - 2.png" alt=""><figcaption></figcaption></figure>
 
-4\) Click on the, "CONTINUE" button.
+4\) Click on the "CONTINUE" button.
 
 <figure><img src="../.gitbook/assets/Glacier claim - 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,5 +58,11 @@ Currently, Xaman Wallet is the **only XRP Ledger wallet** officially supported b
 
 <figure><img src="../.gitbook/assets/Glacier claim - 4.png" alt=""><figcaption></figcaption></figure>
 
-6\)
+6\) Click the "NEXT" button.
+
+<figure><img src="../.gitbook/assets/Glacier claim - 5.png" alt=""><figcaption></figcaption></figure>
+
+7\)
+
+
 
