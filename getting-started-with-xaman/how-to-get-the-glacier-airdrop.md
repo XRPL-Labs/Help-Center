@@ -46,12 +46,7 @@ Currently, Xaman Wallet is the **only XRP Ledger wallet** officially supported b
 
 
 
-&#x20;Xaman wallet is the **only** XRP Ledger wallet officially supported by the project.&#x20;
+3\) Click the down arrow, select, "XRP" from the list, then press the, "CONFIRM NETWORK" button.
 
-&#x20;2\) The claim page is for desktop only. You can not connect with your mobile device. You must have a desktop or laptop computer.
+<figure><img src="../.gitbook/assets/Glacier claim - 2.png" alt=""><figcaption></figcaption></figure>
 
-3\) You can only sign in with Xaman. If you can sign in with another wallet, you are dealing with a scam
-
-4\) There is no rush to claim. The start date of the first claim phase, Glacier Drop, was August 5, 2025. It will last until October 4, 2025.
-
-5\) We will inform all our users with a Push notification & in-app message on how to claim the airdrop.
