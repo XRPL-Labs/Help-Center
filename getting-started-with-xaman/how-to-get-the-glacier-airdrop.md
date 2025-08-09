@@ -50,3 +50,13 @@ Currently, Xaman Wallet is the **only XRP Ledger wallet** officially supported b
 
 <figure><img src="../.gitbook/assets/Glacier claim - 2.png" alt=""><figcaption></figcaption></figure>
 
+4\) Click on the, "CONTINUE" button.
+
+<figure><img src="../.gitbook/assets/Glacier claim - 3.png" alt=""><figcaption></figcaption></figure>
+
+5\) Scan the QR code with Xaman.&#x20;
+
+<figure><img src="../.gitbook/assets/Glacier claim - 4.png" alt=""><figcaption></figcaption></figure>
+
+6\)
+
