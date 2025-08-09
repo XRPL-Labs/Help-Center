@@ -1,8 +1,8 @@
 ---
-description: How to get the Glacier Airdrop
+description: How to get the Midnight Glacier Airdrop
 ---
 
-# How to get the Glacier Airdrop
+# How to get the Midnight Glacier Airdrop
 
 ### Background
 
@@ -57,6 +57,14 @@ Currently, Xaman Wallet is the **only XRP Ledger wallet** officially supported b
 5\) Scan the QR code with Xaman.&#x20;
 
 <figure><img src="../.gitbook/assets/Glacier claim - 4.png" alt=""><figcaption></figcaption></figure>
+
+Note:  For instructions on how to scan a QR code with Xaman, see this article:
+
+{% content-ref url="how-to-scan-a-qr-code.md" %}
+[how-to-scan-a-qr-code.md](how-to-scan-a-qr-code.md)
+{% endcontent-ref %}
+
+
 
 6\) Click the "NEXT" button.
 
