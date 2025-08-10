@@ -78,6 +78,18 @@ Note:  For instructions on how to scan a QR code with Xaman, see this article:
 
 <figure><img src="../.gitbook/assets/Glacier claim - 7.png" alt=""><figcaption></figcaption></figure>
 
+9\) Continue following the instructions on the screen from there.
+
+### Frequently Asked Questions
+
+**I'm running into trouble with claiming the airdrop, who do I contact?**
+
+You can contact the Midnight customer service team at:  [https://www.midnight.gd/faq](https://www.midnight.gd/faq)
+
+
+
+
+
 
 
 
