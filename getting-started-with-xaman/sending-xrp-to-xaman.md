@@ -16,9 +16,9 @@ The first thing to know is that your XRPL account is identified by an "r-address
 
 Here is where you can find you r-address in Xaman.
 
+<figure><img src="../.gitbook/assets/sending-xrp -1.png" alt=""><figcaption></figcaption></figure>
 
 
-<figure><img src="../.gitbook/assets/Send flow - 1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Of course, your r-address will be different than our r-address. Our account is a [Vanity r-address](../xaman-pro/features-of-pro/vanity-addresses.md).
@@ -45,13 +45,19 @@ See this article for more details about Destination Tags:
 
 ## The '**Send Flow**'
 
-This is how to send XRP from another device with Xaman installed on it, to your XRPL account managed by Xaman. (For instructions on how to send from various crypto exchanges, see the links below.)
+Obviously we can not provide step-by-step instructions for every crypto wallet or crypto exchange. (There are just too many of them and they continually change their applications. We can't keep up with all of them!)
+
+This is how to send XRP from another device with Xaman installed on it, to your XRPL account managed by Xaman.  The steps are similar to what you will find in other wallets.
 
 ### **Step 1**
 
 From the main screen in Xaman, press the **Send** button.
 
 <figure><img src="../.gitbook/assets/Xaman - Send button.png" alt=""><figcaption></figcaption></figure>
+
+Most wallets have a send button of some kind. You should be able to find the send button in your wallet.
+
+For example,&#x20;
 
 On the next screen, you will see the option to enter the **amount** you would like to send.
 
