@@ -1,5 +1,5 @@
 ---
-description: Official communication channels for Xumm
+description: Official communication channels for Xaman
 ---
 
 # Official communication channels
@@ -8,6 +8,8 @@ description: Official communication channels for Xumm
 Important!\
 \
 We **no longer** provide customer support for Xaman (formerly Xumm) via **Twitter (X).**&#x20;
+
+We **do not** have a Telegram account. We **do not** offer support via Telegram.
 
 Please **do not** fill out forms on social media.&#x20;
 
@@ -24,12 +26,13 @@ For all customer support and technical questions related to the Xaman applicatio
 
 ### Xaman blog  <a href="#h_e9d18079e4" id="h_e9d18079e4"></a>
 
-* [**https://blog.xumm.app/**](https://blog.xumm.app/)
+* [**https://blog.xaman.app/**](https://blog.xumm.app/)
 
 ### Follow us on X (formerly Twitter)
 
-* [**@Xummwallet**](https://twitter.com/XummWallet)
-* [**@XamanSupport**](https://twitter.com/XamanSupport)
+* [https://x.com/XamanHelp](https://x.com/XamanHelp)
+* [https://x.com/xrpllabs](https://x.com/xrpllabs)
+* [https://x.com/XamanWallet](https://x.com/XamanWallet)
 
 ### Suggestions and Feedback
 
@@ -43,8 +46,8 @@ For all customer support and technical questions related to the Xaman applicatio
 
 #### **Alternatively** <a href="#h_1bf826eada" id="h_1bf826eada"></a>
 
-* [**https://docs.xumm.dev/**  ](https://docs.xumm.dev/)and subdomains (for Developers & Developer docs)
-* [**https://xrpl-labs.com/pro**](official-communication-channels.md#h\_c79d5ef4b1) and subdomains (for Xumm Pro subscriptions)
+* [**https://docs.xaman.dev/**  ](https://docs.xumm.dev/)and subdomains (for Developers & Developer docs)
+* [https://xaman.app/pro?xrpllabs](https://xaman.app/pro?xrpllabs) and subdomains (for Xumm Pro subscriptions)
 
 ### **Xaman - Latest versions of the app** <a href="#h_c79d5ef4b1" id="h_c79d5ef4b1"></a>
 
@@ -53,6 +56,5 @@ For all customer support and technical questions related to the Xaman applicatio
 
 ### XRPL Labs (creators of Xaman) <a href="#h_ab0f4368eb" id="h_ab0f4368eb"></a>
 
-* XRPL Labs [**website**](https://xrpl-labs.com/)
-* [**@XRPLLabs**](https://twitter.com/XRPLLabs) on Twitter
+* XRPL Labs [**website**](https://xaman.app/)
 * Source code at [**Github**](https://github.com/XRPL-Labs/)
