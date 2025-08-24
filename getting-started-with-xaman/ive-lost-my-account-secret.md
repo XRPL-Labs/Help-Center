@@ -27,7 +27,7 @@ Xaman is fully compatible with all three account secret formats.
 
 ### Why is an account secret important?
 
-The XRP Ledger is a decentralized network. It does not have any administrator functions. It does not have any 'back doors' which allows access to an account. There is no 'secret way' to access an XRPL account. They **only** way to get full  access an XRPL account is with the correct account secret. An account secret is important because it is the only thing that will allow you to get full access to an XRPL account.
+The XRP Ledger is a decentralized network. It does not have any administrator functions. It does not have any 'back doors' which allows access to an account. There is no 'secret way' to access an XRPL account. They **only** way to get full access an XRPL account is with the **correct** account secret. An account secret is important because it is the only thing that will allow you to get full access to an XRPL account.
 
 ### Can I view an account secret in Xaman?
 
@@ -51,9 +51,9 @@ If so,  you can create a new XRP Ledger account using Xaman then move your asset
 
 1\) Press **Settings** then **Accounts**.
 
-2\) Choose **+ Add account** then **Create a new account**
+2\) Choose **+ Add account** then + **Create a new account**
 
-3\) Once you have completed the steps (and written down your new secret numbers), you can activate it with 10 XRP, then start moving your assets over to your new account using the **Send** feature on the main page of Xaman.
+3\) Once you have completed the steps (and written down your new secret numbers), you can activate it with 1 XRP, then start moving your assets over to your new account using the **Send** feature on the main page of Xaman.
 
 Note: You will need to create Trust Lines for any tokens you might have and arrange to move any NFTs with your NFT platform.
 
@@ -61,7 +61,7 @@ By creating a new account, you will get a new set of secret numbers which you ca
 
 #### Option 2 - You have existing access on another device
 
-Do you have an old phone or mobile device which still has signing access to your account. Does anyone else have signing access to your account? (Family member) If so, you can run through the steps in Option 1 to create a new account.
+Do you have an old phone or mobile device which still has signing access to your account? Does anyone else have signing access to your account? (Family member) If so, you can run through the steps in Option 1 to create a new account.
 
 #### Option 3 - You created your XRP Ledger account using another wallet or platform
 
