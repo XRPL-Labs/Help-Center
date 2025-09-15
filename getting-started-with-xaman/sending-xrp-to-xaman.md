@@ -55,9 +55,15 @@ From the main screen in Xaman, press the **Send** button.
 
 <figure><img src="../.gitbook/assets/Xaman - Send button.png" alt=""><figcaption></figcaption></figure>
 
-Most wallets have a send button of some kind. You should be able to find the send button in your wallet.
+Most wallets have a 'send' or 'withdraw' button of some kind. You should be able to easily find the send or withdraw option on your platform/wallet.
 
-For example,&#x20;
+For example, in GateHub it looks like this:
+
+<figure><img src="../.gitbook/assets/GateHub send.png" alt=""><figcaption></figcaption></figure>
+
+In Kraken, it looks like this:
+
+<figure><img src="../.gitbook/assets/Kraken - Send.png" alt=""><figcaption></figcaption></figure>
 
 On the next screen, you will see the option to enter the **amount** you would like to send.
 
