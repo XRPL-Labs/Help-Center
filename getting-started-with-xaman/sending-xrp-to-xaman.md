@@ -45,19 +45,15 @@ See this article for more details about Destination Tags:
 
 ## The '**Send Flow**'
 
-Obviously we can not provide step-by-step instructions for every crypto wallet or crypto exchange. (There are just too many of them and they continually change their applications. We can't keep up with all of them!)
+Obviously we can not provide step-by-step instructions for every crypto wallet and crypto exchange. (There are just too many of them and they continually change their applications. We can't keep up with all of them!)&#x20;
 
-This is how to send XRP from another device with Xaman installed on it, to your XRPL account managed by Xaman.  The steps are similar to what you will find in other wallets.
+You goal is to find the "**Send**" option or the "**Withdraw**" option.
 
-### **Step 1**
-
-From the main screen in Xaman, press the **Send** button.
+In Xaman it looks like this:
 
 <figure><img src="../.gitbook/assets/Xaman - Send button.png" alt=""><figcaption></figcaption></figure>
 
-Most wallets have a 'send' or 'withdraw' button of some kind. You should be able to easily find the send or withdraw option on your platform/wallet.
-
-For example, in GateHub it looks like this:
+In GateHub it looks like this:
 
 <figure><img src="../.gitbook/assets/GateHub send.png" alt=""><figcaption></figcaption></figure>
 
@@ -65,31 +61,43 @@ In Kraken, it looks like this:
 
 <figure><img src="../.gitbook/assets/Kraken - Send.png" alt=""><figcaption></figcaption></figure>
 
-On the next screen, you will see the option to enter the **amount** you would like to send.
+In Coinbase, it looks like this:
 
-(You can also change the account you would like to send the tokens **from** and you can change the **type** of token you would like to send.)
+<figure><img src="../.gitbook/assets/Coinbase - Send.png" alt=""><figcaption></figcaption></figure>
+
+
+
+From there, you often have to choose the **amount** you would like to send.
+
+Here is how it looks in Xaman.
 
 <figure><img src="../.gitbook/assets/Send screen - 2.png" alt=""><figcaption></figcaption></figure>
 
-In our case, we are going to send 1 XRP.
+You will also need to know the **r-address** that you are sending to.
 
-Press the **Next** button to continue.
+Your r-address basically is your account number on the XRP Ledger. It is the address that you will send your XRP to.
 
-### **Step 2**
+See above on how to get your r-address in Xaman.
 
-In this screen you can enter the **recipient's** account that you are sending your tokens to.
+In Xaman, you would enter would enter the **recipient's** account that you are sending your tokens to here.
 
 <figure><img src="../.gitbook/assets/Recipient screen.png" alt=""><figcaption></figcaption></figure>
 
-Press **Next** after you have entered/selected the correct destination r-address.
+At this point, you might be asked to choose a  "**Network type**". Many exchanges still refer to the XRP Ledger as the "Ripple" network, or simply the "XRP" network.
 
-### **Step 3**
+You will have to contact your exchange if they call the XRP Ledger something else and it is not obvious.
 
-Finally we reach the **Summary** screen. Here you can review your transaction to make sure it is correct.
+Finally, many exchanges as for a **destination tag**. XRP Ledger accounts do not require a Destination Tag/Memo ID/XRP tag unless they have been specifically configured to require one.
+
+If you exchange or wallet demands that you enter one, you can make up any number you like and try using it. For example, most people use this one: **1234** . In some cases, the exchange requires a 5 or 6 digit number, in which case, you could try: 12345 or 123456.
+
+If you are interested, this video provides some additional information on how Destination Tags work... [Destination tags](https://help.xumm.app/learning-more-about-xaman/destination-tags)
+
+In Xaman, the **Summary** screen is where you can review your transaction to make sure it is correct and where you would enter a destination tag if you needed to.
 
 <figure><img src="../.gitbook/assets/Summary.png" alt=""><figcaption></figcaption></figure>
 
-After you have confirmed the parameters (destination r-address, amount) are correct, simply **Slide to send** and your transaction will be sent to the XRP Ledger to process.
+
 
 ### Sending XRP from a crypto exchange account
 
@@ -100,4 +108,16 @@ In the table below, you can find instructions for some of the more popular excha
 
 
 <table><thead><tr><th width="352">How to transfer XRP from:</th><th>Link to open exchange website</th></tr></thead><tbody><tr><td><a href="how-to-activate-a-new-xrpl-account/from-gatehub.md"><mark style="color:blue;"><strong>Gatehub</strong></mark></a></td><td><a href="https://gatehub.net/"><mark style="color:blue;">Open</mark></a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-uphold.md"><strong>Uphold</strong></a></td><td><a href="https://uphold.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-kraken.md"><strong>Kraken</strong></a></td><td><a href="https://www.kraken.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-crypto.com.md"><strong>Crypto.com</strong></a></td><td><a href="https://crypto.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-coinbase.md"><strong>Coinbase</strong></a></td><td><a href="https://www.coinbase.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-kucoin.md"><strong>Kucoin</strong></a></td><td><a href="https://www.kucoin.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-binance.md"><strong>Binance</strong></a></td><td><a href="https://www.binance.com/en">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-bitrue.md"><strong>Bitrue</strong></a></td><td><a href="https://www.bitrue.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-bitstamp.md"><strong>Bitstamp</strong></a></td><td><a href="https://www.bitstamp.net/">Open</a></td></tr></tbody></table>
+
+### Frequently asked questions
+
+#### How long does it take for me to get my funds?
+
+Transactions on the XRP Ledger take about 4 seconds to complete, so after your exchange submits the transaction to the XRPL, you should see your XRP in your account almost immediately.
+
+...unless your exchange does not submit your transaction to the XRP Ledger right away. In many cases, the exchange will say, "Your transaction has been submitted for processing", or "Your transaction is complete, we will submit it shortly." Remember, crypto exchange control your funds. They can decide if they want to send them, when they want to send them and where they want to send them. We've seen cases where an exchange waited 18 hours before submitting a transaction to the XRP Ledger. You are at their mercy when it comes to accessing your funds with them.
+
+If your funds do not arrive in your account within a minute or two, you should be contacting your exchange and find out what the delay is all about.
+
+&#x20;
 
