@@ -43,6 +43,10 @@ Simply press the **+ Add account** button then choose **Import an existing accou
 
 <figure><img src="../.gitbook/assets/Import an existin account button.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Note: If you have a Xaman card, you will want to press the "Add Tangem card" button and follow the instructions on the screen.
+{% endhint %}
+
 Next you can choose the appropriate account secret for your XRP Ledger account then enter it into  Xaman to complete the process.&#x20;
 
 If you need assistance on how to do this, select one of these three articles for instructions:
@@ -65,7 +69,7 @@ This is why it's really important to keep your account secret stored offline, in
 
 If you have Xaman cards, you will need to re-import them into Xaman on your new phone.
 
-If you need assist doing this, check out this article:
+This article explains how to do this:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
