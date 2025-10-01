@@ -6,6 +6,10 @@ coverY: -226
 
 # Creating a pin on your card
 
+{% hint style="success" %}
+Note: This article applies to the first generation of Xumm cards. The new Xaman cards have this feature disabled.
+{% endhint %}
+
 One of the security features on a Xaman (Tangem) card is the ability to create a passcode or pin. Once enabled, the pin/passcode must be entered in order to sign with the card account.&#x20;
 
 In certain situations, setting a pin can make a lot of sense.
