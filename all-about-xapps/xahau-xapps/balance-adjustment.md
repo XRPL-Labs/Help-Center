@@ -56,17 +56,23 @@ You should see a screen that looks like this:
 
 Yes. The balance adjustment period resets every 30 days, 2 hours and 13 minutes. Once this amount of time expires, repeat these steps to receive the next balance adjustment.
 
-#### Why do I have to enroll every month?
+#### Why do I have to claim the tokens every month?
 
-The idea of this feature is to reward frequent users of the network. This incentive is designed to encourage people to participate more frequently.
+Yes. The idea of this feature is to reward frequent users of the network. This incentive is designed to encourage people to participate in the Xahau community more frequently.
 
-#### Does this xApp work for XRP as well?
+#### Does this xApp work for the XRP Ledger as well?
 
 No, the Balance Adjustment is for the Xahau network only. The XRP Ledger does not have a feature like this.
 
-#### If I have more XAH tokens do I get a higher payout?
+#### Is there a limit to the amount of  XAH I can hold in my account to claim the balance adjustment?
 
-No. The adjustment rate is the same regardless of the balance of XAH you have in your account. If you have 1 XAH or a million XAH, you still receive 4% per annum.
+No. There is no lower or upper limit.
+
+#### Isn't the payout actually more that 4% per annum?
+
+It depends on how you do with your balance adjustment every month. The effective annual rate is actually 4.0742% of you compound your XAH.
+
+For an annual interest rate of **4%** compounded monthly, the **effective annual interest rate** (EAR) will be slightly higher than **4.0742%** due to the impact of compounding. This is because interest is calculated and added to the principal **12 times** per year, meaning you earn interest on both the initial principal and the accumulated interest from previous months
 
 #### Is this like staking on other networks?
 
