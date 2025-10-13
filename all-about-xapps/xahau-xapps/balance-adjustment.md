@@ -68,11 +68,15 @@ No, the Balance Adjustment is for the Xahau network only. The XRP Ledger does no
 
 No. There is no lower or upper limit.
 
-#### Isn't the payout actually more that 4% per annum?
+#### Isn't the payout actually more that 4% per annum since it pays out 12 times per year?
 
-It depends on how you do with your balance adjustment every month. The effective annual rate is actually 4.0742% of you compound your XAH.
+Yes, depending on what you do with your balance adjustment every month.&#x20;
 
-For an annual interest rate of **4%** compounded monthly, the **effective annual interest rate** (EAR) will be slightly higher than **4.0742%** due to the impact of compounding. This is because interest is calculated and added to the principal **12 times** per year, meaning you earn interest on both the initial principal and the accumulated interest from previous months
+The **effective annual rate** is actually 4.0742% if you compound your XAH.
+
+For example, for an annual interest rate of **4%** compounded monthly, the **effective annual interest rate** will be **4.0742%** due to the impact of compounding. This is because interest is calculated and added to the principal **12 times** per year, meaning you earn interest on both the initial principal and the accumulated interest from previous months.
+
+If you take your balance adjustments out of your account each month, your effective annual rate will be 4%.
 
 #### Is this like staking on other networks?
 
