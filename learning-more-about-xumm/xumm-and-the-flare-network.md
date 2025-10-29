@@ -1,5 +1,5 @@
 ---
-description: Interested in the Flare airdrop or holding the Spark token?
+description: Interested in the Flare airdrop, Fassets or holding the Spark token?
 ---
 
 # Xaman & the Flare network
@@ -12,23 +12,23 @@ For more information and to keep up to date on Flare’s progress, check out the
 
 [Flare News Page](https://flare.network/news/)
 
-### **Is Xumm involved in Flare Networks?**
+### **Is Xaman involved in Flare Networks?**
 
-No. Flare Networks Limited is a separate company from XRPL Labs (the creators of Xumm). Xumm does not support the Spark token, the Flare airdrop or the Flare network.&#x20;
+No. Flare Networks Limited is a separate company from XRPL Labs (the creators of Xaman). Xaman does not support the Spark token, fassets, the Flare airdrop or the Flare network.&#x20;
 
-### **I claimed my Flare tokens using Xumm. You must be involved in some capacity.**
+### **I claimed my Flare tokens using Xaman. You must be involved in some capacity.**
 
-In order to claim the Flare tokens, you would have had to modify your XRP Ledger account with a message key pointing to your Flare address. The Xumm team created a tool that simplified that process. That is the extent of our involvement in the Flare project.
+In order to claim the Flare tokens, you would have had to modify your XRP Ledger account with a message key pointing to your Flare address. The Xaman team created a tool that simplified that process. That is the extent of our involvement in the Flare project.
 
-### **Why did Xumm do that?**
+### **Why did Xaman do that?**
 
-Xumm supports all transaction types on the XRP Ledger and is committed to supporting the XRPL community. We created the tool to assist the community with modifying their XRPL accounts.
+Xaman supports all transaction types on the XRP Ledger and is committed to supporting the XRPL community. We created the tool to assist the community with modifying their XRPL accounts.
 
-### **Will my Flare tokens be delivered to my Xumm account?**
+### **Will my Flare tokens be delivered to my Xaman account?**
 
 No. They will be delivered to your Flare account. \
 \
-The Flare network is not compatible with the XRP Ledger, so there is no way to move Flare tokens back and forth between from them.&#x20;
+The Flare network is not compatible with the XRP Ledger, so there is no way to move Flare tokens directly back and forth between from them.&#x20;
 
 For more information, please contact Flare Support. They can be reached at:
 
@@ -44,17 +44,17 @@ For more information, please contact Flare Support. They can be reached at:
 
 [Contact Flare](https://flare.network/contact/)
 
-### **Is Xumm compatible with the Flare network?**
+### **Is Xaman compatible with the Flare network?**
 
-No. Xumm is exclusively an XRP Ledger wallet. We support XRP and all of the 8200+ tokens on the XRPL. You can not access or interact with the Flare network with Xumm.&#x20;
+No. Xaman is exclusively an XRP Ledger protocol wallet. This means that we support the XRP Ledger and Xahau networks and all of the 8200+ tokens on the XRPL and Xahau. You can not access or interact with the Flare network with Xaman.&#x20;
 
-### **Does XUMM allow FTSO delegation?**
+### **Does Xaman allow FTSO delegation?**
 
-No. Xumm is exclusively an XRP Ledger wallet. We support XRP and all of the 8200+ tokens on the XRPL. You can not access the Flare network with Xumm.
+No. Xaman is exclusively an XRP Ledger wallet. We support XRP and all of the 8200+ tokens on the XRPL. You can not access the Flare network with Xaman.
 
 ### **… But why can I create a Trust Line to “Flare Spark” then?**
 
-Gatehub has issued both Songbird and Flare tokens on the XRP Ledger. You can create a Trust Line to either of these assets, but they were issued on the XRPL, not the Songbird or Flare networks.
+GateHub has issued both Songbird and Flare tokens on the XRP Ledger. You can create a Trust Line to either of these assets, but they were issued on the XRPL, not the Songbird or Flare networks.
 
 For more information about this, please refer to this article:\
 \
@@ -88,7 +88,7 @@ Flare Networks Support can be reached at:
 
 [Contact Flare](https://flare.network/contact/)
 
-### **Does Xumm provide technical support for Flare Networks?**
+### **Does Xaman provide technical support for Flare Networks?**
 
 No. We provide support for our own products and applications.
 
@@ -96,7 +96,7 @@ For support on anything to do with Flare, please visit their website here:
 
 [Contact Flare](https://flare.network/contact/)
 
-### **Can I send Flare tokens (Spark) to my XRPL account managed by Xumm?**
+### **Can I send Flare tokens (Spark) to my XRPL account managed by Xaman?**
 
-No. FLR is the native token on the Flare blockchain. The Flare blockchain and the XRPL are separate and incompatible networks. You can not access the Flare network with Xumm.
+No. FLR is the native token on the Flare blockchain. The Flare blockchain and the XRPL are separate and incompatible networks. You can not access the Flare network with Xaman.
 
