@@ -6,7 +6,7 @@ description: A little bit about Quantum attacks
 
 ## **Introduction**
 
-This article is meant to answer some basic questions about quantum computing and to explain our view on the future of quantum attacks as they relate to Xumm and the XRP Ledger.
+This article is meant to answer some basic questions about quantum computing and to explain our view on the future of quantum attacks as they relate to Xaman and the XRP Ledger.
 
 ### **What is a quantum computer?**
 
@@ -26,8 +26,8 @@ Currently, there is no agreed upon definition of what makes an algorithm quantum
 
 In theory, a quantum resistant algorithm for the XRP Ledger must be able to:
 
-* resist quantum factoring (See [Shor's algorithm](https://en.wikipedia.org/wiki/Shor's\_algorithm))
-* resist quantum searching (See [Grover's algorithm](https://en.wikipedia.org/wiki/Grover's\_algorithm))
+* resist quantum factoring (See [Shor's algorithm](https://en.wikipedia.org/wiki/Shor's_algorithm))
+* resist quantum searching (See [Grover's algorithm](https://en.wikipedia.org/wiki/Grover's_algorithm))
 * resist quantum machine learning&#x20;
 
 When such an algorithm is developed, integrating it into the XRPL should be a straight forward process. (Just as the Ed25519 algorithm was added).&#x20;
@@ -45,10 +45,4 @@ There are currently two options to options to help protect against quantum attac
 Spam is a real issue on the XRPL. In-coming transactions such as spam will **not** effect your quantum protection. Only outgoing transactions will.
 {% endhint %}
 
-### What is Xumm doing to prepare against quantum attacks?
-
-One of the major projects we have been developing is adding smart contact functionality to the XRP Ledger. We call it, "Hooks".
-
-A Hook can be developed to create any signing scheme you desire. For example, you could delegate a transaction through a Hook which could allow you to change your signing scheme to which ever algorithm you like. Such a hook could give you complete control over how your transactions would be signed and allow you to choose from various quantum resistant algorithms.
-
-Another option could be to create a Hook that simply blocks any transaction that doesn't include a quantum resistant signature. This type of hook could prevent you from accidentally signing a transaction using a non-quantum resistant algorithm.&#x20;
+###

@@ -48,11 +48,17 @@ You will only receive push notifications if Xaman is **not running**. If you are
 
 3\) Exit Xaman, then have someone send XRP to your account to test it.\
 \
-Note: Basically you are disabling push notifications on the account, then re-enabling push notifications.  Remember, you Xaman has to be closed in order to receive notifications.
+Note: Basically you are disabling push notifications on the account, then re-enabling push notifications.  Remember, Xaman has to be closed in order to receive notifications.
+
+#### I did a conversion payment. Why didn't I receive a notification?
+
+On an exchange (conversion) transaction. That transaction type is outside the notification scope because there is no third party involved in the source+destination. It is a Payment so it is instant. If it was an offer that was passively on the order books and triggered by a third party, then it would have triggered a notification.
+
+From our perspective, it doesn't make much sense to notify for something someone is doing on the spot. You know that you are doing it so why would we notify you of something you are already looking at on the screen.
 
 
 
-####
+You will only receive push notifications if Xaman is **not running**. If you are in the application, push notifications will not be sent. (You can always check the Events log for any activity on your account.)
 
 
 
