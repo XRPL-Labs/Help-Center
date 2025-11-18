@@ -62,7 +62,7 @@ To reinforce Xaman’s position as the leading self-custodial wallet in security
 
 These thresholds apply to large-value movements between the same source and destination within a rolling 12-hour window.
 
-Our brand is built on trust and a flawless track record spanning more than half a decade. As the tip of the spear in crypto infrastructure and wallet security, this framework ensures we continue delivering the resilience, protection, and reliability our users expect—now and in the future.
+Our brand is built on trust and a flawless track record spanning more than half a decade. As the tip of the spear in crypto infrastructure and wallet security, this framework ensures we continue delivering the resilience, protection, and reliability our users expect, now and in the future.
 
 ### Xaman Pro and 5000+ XAH Holders
 
