@@ -60,7 +60,9 @@ To maintain optimal performance and security, Xaman now applies a small fee to t
 
 To reinforce Xaman’s position as the leading self-custodial wallet in security and reliability, transactions exceeding $50,000 will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee**.&#x20;
 
-This measure ensures the security and continued development of infrastructure that safeguards large-scale transfers.
+These thresholds apply to large-value movements between the same source and destination within a rolling 12-hour window.
+
+Our brand is built on trust and a flawless track record spanning more than half a decade. As the tip of the spear in crypto infrastructure and wallet security, this framework ensures we continue delivering the resilience, protection, and reliability our users expect—now and in the future.
 
 ### Xaman Pro and 5000+ XAH Holders
 
