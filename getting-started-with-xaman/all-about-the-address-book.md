@@ -53,7 +53,7 @@ During the send flow,  after you enter the amount to send. you will see the "Rec
 
 In this example, we selected the crypto exchange, Bitrue from the Address Book.
 
-<figure><img src="../.gitbook/assets/Address Book - 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Address Book - 5 (1).png" alt=""><figcaption></figcaption></figure>
 
 You will notice that the Destination Tag has been automatically inserted into the correct field.
 
