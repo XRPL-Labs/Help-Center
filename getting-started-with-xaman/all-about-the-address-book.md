@@ -4,13 +4,13 @@ description: All about the Address Book
 
 # All about the Address Book
 
-**Background**
+### **Background**
 
 One of the nice features of Xaman is the ability to store an r-addresses in an Address Book. This article discusses this feature and how to use it.
 
 &#x20;
 
-**How to find the Address Book**
+### **How to find the Address Book**
 
 The Address Book can be found by clicking on **Settings** -> **Address Book**.
 
@@ -20,7 +20,7 @@ The Address Book can be found by clicking on **Settings** -> **Address Book**.
 
 <figure><img src="../.gitbook/assets/Address Book - 1.png" alt=""><figcaption></figcaption></figure>
 
-**How to add a contact to the Address Book**
+### **How to add a contact to the Address Book**
 
 To add a new contact to your Address book tap the "**+**" button.
 
@@ -44,6 +44,14 @@ Note:&#x20;
 * &#x20;Self-custody accounts on the XRP Ledger do not require Destination Tags unless they are specifically configured. &#x20;
 * Custodial accounts (like the ones created by crypto exchanges) **do** require Destination tags. Make sure you enter the correct destination tag otherwise your funds may not been delivered to the expected custodial account.
 {% endhint %}
+
+### Frequently Asked Questions
+
+#### I just purchased a new phone. Can I import my Address Book into it?
+
+No, unfortunately this is not an option yet. (We're working on adding this feature for a future release.)
+
+
 
 
 
