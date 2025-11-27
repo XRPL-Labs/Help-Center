@@ -1,5 +1,5 @@
 ---
-description: All about the Address Book
+description: How to create a contact, and how the Address Book works
 ---
 
 # All about the Address Book
@@ -34,7 +34,9 @@ In the "**Name:**" field, enter the name of your contact.
 
 In the "**Address:**" field enter the r-address of your contact.
 
-In the "**Destination tag**" field enter the destination tag for your contact's account. (If applicable)
+(If applicable)
+
+In the "**Destination tag**" field enter the destination tag for your contact's account.
 
 When done, tap the "**Save**" button.
 
