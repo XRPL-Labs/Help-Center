@@ -14,8 +14,7 @@ Simply touch this link:
 
 [**Account Worth**](https://xumm.app/detect/xapp:xumm.accountworth)
 
-or you can find it by pressing the **xApps** button at the bottom of the main screen in Xaman (formerly Xumm).\
-
+or you can find it by pressing the **xApps** button at the bottom of the main screen in Xaman (formerly Xumm).<br>
 
 
 

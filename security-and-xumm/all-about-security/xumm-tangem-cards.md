@@ -23,7 +23,7 @@ A paper wallet (your secret offline, written down) is not user friendly. It’s 
 
 Just like XRPL Labs, [Tangem](https://shop.tangem.com/pages/start) is making the cryptocurrency space a safer, more user-friendly place. Their take on keeping keys for XRPL accounts safe is one we at XRPL Labs appreciate a lot. To the point where we feel confident using their cards ourselves to keep our savings safe.
 
-Instead of using a hardware wallet, or a static, written down secret (that can’t be used easily), their cards contain a chip and use NFC ([near field communication](https://nl.wikipedia.org/wiki/Near-field\_communication)). The first time you use the card, the chip generates a private key, while being powered using NFC (by your iOS/Android device). This means the cards are shipped without a private key on them, so there is no chance of it being compromised between you and the factory. The chip used in Xaman cards offers bank grade security and have been fully audited.
+Instead of using a hardware wallet, or a static, written down secret (that can’t be used easily), their cards contain a chip and use NFC ([near field communication](https://nl.wikipedia.org/wiki/Near-field_communication)). The first time you use the card, the chip generates a private key, while being powered using NFC (by your iOS/Android device). This means the cards are shipped without a private key on them, so there is no chance of it being compromised between you and the factory. The chip used in Xaman cards offers bank grade security and have been fully audited.
 
 **Security + usability**
 
@@ -55,16 +55,13 @@ Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem B
 
     When you want to top up your spending account, you use your Xaman card to sign a transaction from your savings account to your spending account.
 
-    When your spending account has a higher balance than you’re comfortable with, you simply use Xaman to send some of your funds to your Xaman card account.\
-
+    When your spending account has a higher balance than you’re comfortable with, you simply use Xaman to send some of your funds to your Xaman card account.<br>
 *   **Can I use a Xaman card in** [**ATM’s**](https://twitter.com/WietseWind/status/1329910752325619715) **/** [**Retail**](https://twitter.com/WietseWind/status/1329909916631494665) **payment terminals?**
 
-    No, you cannot. While all Tangem cards feature a bank grade secure chip, the chip is programmed to work only for crypto-currencies with Apps supporting the cards. ATM’s and retail payment terminals **will not recognize** a Xaman card.\
-
+    No, you cannot. While all Tangem cards feature a bank grade secure chip, the chip is programmed to work only for crypto-currencies with Apps supporting the cards. ATM’s and retail payment terminals **will not recognize** a Xaman card.<br>
 *   **Can I use an existing XRP Tangem cards with Xaman?**
 
-    Yes and no. The most current Tangem cards are V2 multi-cards. These cards are **not** compatible with Xaman. Some of the older Tangem cards will work with Xaman but your plan is to participate and interact with the XRP Ledger and Xahau communities, Xaman cards are the way to go. \
-
+    Yes and no. The most current Tangem cards are V2 multi-cards. These cards are **not** compatible with Xaman. Some of the older Tangem cards will work with Xaman but your plan is to participate and interact with the XRP Ledger and Xahau communities, Xaman cards are the way to go. <br>
 *   **Xaman Pro is a paid subscription, do I need Xaman Pro to use Xaman cards?**
 
     When you subscribe to Xaman Pro, you will receive two free Xaman cards with your order.
@@ -73,8 +70,7 @@ Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem B
     \
     For the most current information, please refer to this article:
 
-    [How to subscribe to Xaman Pro Beta 🎉](https://support.xumm.app/hc/en-us/articles/6138022550418)\
-
+    [How to subscribe to Xaman Pro Beta 🎉](https://support.xumm.app/hc/en-us/articles/6138022550418)<br>
 *   **How can I purchase Xaman cards?**
 
     They are available via our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order):\
@@ -83,26 +79,21 @@ Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem B
     \
     or via our website:\
     \
-    [https://xrpl-labs.com/tangem/product](https://xrpl-labs.com/tangem/product)\
-
+    [https://xrpl-labs.com/tangem/product](https://xrpl-labs.com/tangem/product)<br>
 *   **Can I extract or backup the secret / private key from my Xaman card?**
 
     No, you cannot. The secret / private key of a Xaman card is stored safely inside the chip in the card. The card can only sign for you, it will **never expose the secret / private key**.
 
-    While you cannot extract & backup the secret / private key of the card, **Xaman can setup a recovery account, and attach the recovery account to your Xaman card account.** Using this recovery account, you will be able to regain access to your funds in case of a lost, stolen or damaged card.\
+    While you cannot extract & backup the secret / private key of the card, **Xaman can setup a recovery account, and attach the recovery account to your Xaman card account.** Using this recovery account, you will be able to regain access to your funds in case of a lost, stolen or damaged card.<br>
 
-
-    See: [How to use the Tangem Backup xApp](https://support.xumm.app/hc/en-us/articles/4417047349394)\
-
+    See: [How to use the Tangem Backup xApp](https://support.xumm.app/hc/en-us/articles/4417047349394)<br>
 *   **How is the Xaman card protected? Can someone else use my card if they have physical access?**
 
     Xaman will allow you to setup a PIN / Password **on** your card. If you do so, signing transactions with your card also requires that you to enter the PIN / Password. This will protect you against physical access attacks, as one not only needs your card, but your PIN / Password as well.
 
-    If you did not configure a PIN / Password on your card, anyone with physical access to the card can access and move all your funds.   If you use your Xaman card to keep significant amounts of XRP (or other currencies), it is advisable to both enable PIN / Password protection on your card and not to keep your card with you during your daily commute.\
+    If you did not configure a PIN / Password on your card, anyone with physical access to the card can access and move all your funds.   If you use your Xaman card to keep significant amounts of XRP (or other currencies), it is advisable to both enable PIN / Password protection on your card and not to keep your card with you during your daily commute.<br>
 
-
-    See: [Tangem cards - Back Up & Best Practices](https://support.xumm.app/hc/en-us/articles/4416929335186)\
-
+    See: [Tangem cards - Back Up & Best Practices](https://support.xumm.app/hc/en-us/articles/4416929335186)<br>
 * **Does a Xaman card require another 10 XRP reserve?**
 
 That depends on how you configure the cards. While primary cards require that they be activated,               backup cards do not require activation.

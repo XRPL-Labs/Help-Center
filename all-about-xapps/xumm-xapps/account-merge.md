@@ -38,8 +38,7 @@ Simply touch this link:
 
 [**Account Merge**](https://xumm.app/detect/xapp:xumm.accountmerge)
 
-or you can find it by pressing the <img src="../../.gitbook/assets/image (2) (5).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm then select ![](<../../.gitbook/assets/image (2) (6) (1).png>)\
-
+or you can find it by pressing the <img src="../../.gitbook/assets/image (2) (5).png" alt="" data-size="line"> button at the bottom of the main screen in Xumm then select ![](<../../.gitbook/assets/image (2) (6) (1).png>)<br>
 
 <figure><img src="../../.gitbook/assets/Account merge - xApp - 1.png" alt=""><figcaption></figcaption></figure>
 

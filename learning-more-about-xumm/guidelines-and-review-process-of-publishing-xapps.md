@@ -42,8 +42,7 @@ This **does not** imply that your app will be listed in the Xumm "more xApps" se
   * be designed in a way that protects users from dangerous mistakes
   * say what it does and do what it says
   * have publicly available source code&#x20;
-  * _**Keep it updated**_\
-
+  * _**Keep it updated**_<br>
 * xApp developers need to:
   * have gone through the KYC process
   * provide both customer and technical support for their xApp

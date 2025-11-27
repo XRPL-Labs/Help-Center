@@ -32,8 +32,7 @@ The same applies to your signing password. Both the passcode and the sign passwo
 
 ### **What else should I do?**
 
-1. After you have contacted the police, explain exactly what happened which lead up to this situation. They might need access to your phone and your internet history so you should be prepared to surrender your mobile device and your internet records if required.\
-
+1. After you have contacted the police, explain exactly what happened which lead up to this situation. They might need access to your phone and your internet history so you should be prepared to surrender your mobile device and your internet records if required.<br>
 2. Consider re-keying your account and disabling the master key for the compromised account. If you do this, it will prevent the scammers from accessing your account again.
 
 
@@ -48,8 +47,7 @@ The same applies to your signing password. Both the passcode and the sign passwo
    \
    [How to create a new XRP Ledger account using Xumm](https://support.xumm.app/hc/en-us/articles/4875348911762)\
    \
-   [How to delete your XRP Ledger account](https://support.xumm.app/hc/en-us/articles/360018166359)\
-
+   [How to delete your XRP Ledger account](https://support.xumm.app/hc/en-us/articles/360018166359)<br>
 4. Try to think of ways your account secret could have been compromised.&#x20;
 
 * Have you ever shared your private key it with anyone?&#x20;
@@ -63,8 +61,7 @@ The same applies to your signing password. Both the passcode and the sign passwo
 
 If none of these apply to your situation, there is a good chance that your mobile device has been hacked.\
 \
-At this point we strongly recommend you consider wiping your phone and start reinstalling applications one at a time. Do not restore from backup! Without knowing how your phone was compromised, restoring from backup could be dangerous.\
-
+At this point we strongly recommend you consider wiping your phone and start reinstalling applications one at a time. Do not restore from backup! Without knowing how your phone was compromised, restoring from backup could be dangerous.<br>
 
 **Apple**
 

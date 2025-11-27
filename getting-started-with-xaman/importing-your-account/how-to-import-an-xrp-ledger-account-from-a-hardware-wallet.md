@@ -28,8 +28,7 @@ We strongly recommend you read this article before continuing:
 
 
 
-1\) On your phone, create a new Full-Access XRP Ledger account in Xaman.\
-
+1\) On your phone, create a new Full-Access XRP Ledger account in Xaman.<br>
 
 {% content-ref url="../your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md" %}
 [how-to-create-an-xrpl-account.md](../your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
@@ -51,8 +50,7 @@ We strongly recommend you read this article before continuing:
 
 <figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
-5\) In the _**Assign Regular Key**_ section, press the QR code button in the _Regular Key_ field, then scan the QR code from Xaman on your phone. (The one from Step 2 above.) \
-
+5\) In the _**Assign Regular Key**_ section, press the QR code button in the _Regular Key_ field, then scan the QR code from Xaman on your phone. (The one from Step 2 above.) <br>
 
 Alternatively, you can manually enter your Xaman r-address in the _Regular key_ field.
 
@@ -76,8 +74,7 @@ Importing your hardware wallet account into Xaman in read only mode **does not**
 
 ### How it works
 
-If you successfully followed the above instructions, you are able to sign transactions on your hardware wallet account, using the new XRPL account created in Xaman.\
-
+If you successfully followed the above instructions, you are able to sign transactions on your hardware wallet account, using the new XRPL account created in Xaman.<br>
 
 This only works if both accounts are in Xaman.\
 \

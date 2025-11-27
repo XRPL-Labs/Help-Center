@@ -20,7 +20,7 @@ A good example of how this works would be to look at the recommended configurati
 
 In this case, you have a Primary account on one card and you have a Signing account on another card.
 
-When you run the [Tangem Backup xApp](broken-reference), it creates a "link" between the two accounts which is called a 'regular key pair'. It connects the Primary account to the Signing account which allows you to sign transactions on the Primary account **using the Signing account**.
+When you run the [Tangem Backup xApp](/broken/pages/Ypotp0jrufYxwEF2ciFO), it creates a "link" between the two accounts which is called a 'regular key pair'. It connects the Primary account to the Signing account which allows you to sign transactions on the Primary account **using the Signing account**.
 
 The following steps explain how to manually configure a regular key pair between two Xahau accounts.
 
@@ -40,8 +40,7 @@ This account does not need to contain XAH and does not even need to be activated
 
 Once you have completed the following steps, you will be able to sign transactions on your Primary account using **both** your Primary account **and** your Signing account.
 
-1\) Launch Xaman and switch networks to ensure you are connected to Xahau.\
-
+1\) Launch Xaman and switch networks to ensure you are connected to Xahau.<br>
 
 <figure><img src="../.gitbook/assets/Xahau - Switch Networks.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +54,7 @@ Once you have completed the following steps, you will be able to sign transactio
 
 4\) Switch accounts to your **Primary** account and go to [**Xahau Services**](https://xahau.services/)**.**
 
-5\) Press the ![](https://help.xaman.app/\~gitbook/image?url=https%3A%2F%2F3221812686-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FMiHAzvIPISVuuzt0AeOR%252Fuploads%252FpWxtCQGbLekH3czjbro6%252Fimage.png%3Falt%3Dmedia%26token%3Db8d31395-8d20-473f-8741-bbaf668d71f4\&width=300\&dpr=4\&quality=100\&sign=ada60351\&sv=1) button then sign in.
+5\) Press the ![](https://help.xaman.app/~gitbook/image?url=https%3A%2F%2F3221812686-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FMiHAzvIPISVuuzt0AeOR%252Fuploads%252FpWxtCQGbLekH3czjbro6%252Fimage.png%3Falt%3Dmedia%26token%3Db8d31395-8d20-473f-8741-bbaf668d71f4\&width=300\&dpr=4\&quality=100\&sign=ada60351\&sv=1) button then sign in.
 
 6\) On the Xahau Services page, select **Set Regular Key**
 

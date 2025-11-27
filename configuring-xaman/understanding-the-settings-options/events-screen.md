@@ -10,8 +10,7 @@ The Events option in Xumm is used to display historical information about your X
 
 The **Events** button is one of the main five buttons on the Xumm home screen. Simply tap the Events button to access this feature.
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Events 2 (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -36,8 +36,7 @@ Because the chip inside a Xaman (Tangem) card generates and holds the (non-extra
   Your Xaman card has its own r-address. It's a separate XRP Ledger account. Xaman, in combination with your Xaman card, enables you to use all features on the XRPL. The most common use case would be to use two XRP Ledger accounts: one for receiving funds & daily spending and one for your savings. Your daily spending account in Xaman (as read/write account), and your savings account using a Xaman card. When you want to top up your spending account, you use your Xaman card to sign a transaction from your savings account to your spending account. When your spending account has a higher balance than you're comfortable with, you simply use Xaman to send some of your funds to your Xaman card account.\
   &#x20;
 * **Can I use a Xaman (Tangem) card in an ATM / payment terminals?**\
-  No, you cannot. While all Tangem cards feature a bank grade secure chip, the chip is programmed to work only for crypto-currencies with Apps supporting the cards. ATM's and retail payment terminals **will not recognize** a Xaman (Tangem) card.\
-
+  No, you cannot. While all Tangem cards feature a bank grade secure chip, the chip is programmed to work only for crypto-currencies with Apps supporting the cards. ATM's and retail payment terminals **will not recognize** a Xaman (Tangem) card.<br>
 * **Can I use a Xaman Tangem card to pay bills, buy things in a store or pay for services?**\
   This all depends if the business supports the XRP Ledger.  For example, if you have a debit card and you go into a store that only accepts cash, you can not use your debit card to pay for items in that store. Some stores will allow you to pay with your debit card, but some stores will not. The same applies to the XRP Ledger. If the business accepts XRP as a form of payment, you can certainly pay using the Xaman (Tangem) cards.\
   &#x20;
@@ -55,8 +54,7 @@ Because the chip inside a Xaman (Tangem) card generates and holds the (non-extra
   [https://tangem.com/en/#product-component-6864268689474](https://tangem.com/en/#product-component-6864268689474)\
   \
   If your plan is to interact with the XRP Ledger, our cards are way to go.\
-  \
-
+  <br>
 * **How do I purchase the cards?**\
   You can purchase the cards via our website:\
   [https://xrpl-labs.com/tangem/pricing](https://xrpl-labs.com/tangem/pricing)\

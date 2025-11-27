@@ -6,8 +6,7 @@ description: The price difference between selling and buying is too high
 
 ### Situation
 
-When trying to purchase or swap tokens, you receive the message, "The price difference between selling and buying is too high".\
-
+When trying to purchase or swap tokens, you receive the message, "The price difference between selling and buying is too high".<br>
 
 <figure><img src="../../../.gitbook/assets/Price difference.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,7 +48,7 @@ There are several other ways to place orders on the DEX, but remember, dealing w
 
     * [https://www.xrptoolkit.com](https://www.xrptoolkit.com/)
     * [https://dex.onxrp.com](https://dex.onxrp.com/)
-    * [https://unhosted.exchange/?base=XRP\&quote=EUR\_rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq](https://unhosted.exchange/?base=XRP\&quote=EUR\_rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq)
+    * [https://unhosted.exchange/?base=XRP\&quote=EUR\_rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq](https://unhosted.exchange/?base=XRP\&quote=EUR_rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq)
 
 
 * xApp:

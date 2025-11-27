@@ -58,12 +58,10 @@ Since NFC allows mobile devices to establish radio communication with each other
 
 ### **What Xaman is doing to prevent proximity attacks**
 
-We have implemented three main security features to combat proximity attacks.\
-
+We have implemented three main security features to combat proximity attacks.<br>
 
 1. Security Delay\
-   You might have noticed that you are required to hold the card against your phone for 15 seconds before it will sign a transaction. By doing this, a potential attacker would need to be within about 4 cm of your Xaman card for at least 15 seconds in order to send a transaction to it. In theory, you would notice someone standing so close to you for this long. \
-
+   You might have noticed that you are required to hold the card against your phone for 15 seconds before it will sign a transaction. By doing this, a potential attacker would need to be within about 4 cm of your Xaman card for at least 15 seconds in order to send a transaction to it. In theory, you would notice someone standing so close to you for this long. <br>
 2.  Strict security settings\
     Tangem cards offer a large variety of settings that can only be configured at the factory. All Xaman cards leave the factory preconfigured to our custom specifications.&#x20;
 

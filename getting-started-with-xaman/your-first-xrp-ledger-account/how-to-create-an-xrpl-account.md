@@ -26,8 +26,7 @@ You will need to **carefully** write all of the numbers down in the correct orde
 
 <figure><img src="../../.gitbook/assets/Create a new account - 2.png" alt=""><figcaption></figcaption></figure>
 
-The next part of the process is to manually enter all of the secret numbers back into Xaman. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.\
-
+The next part of the process is to manually enter all of the secret numbers back into Xaman. Once you have successfully re-entered the correct secret numbers, press the **Next** button to continue.<br>
 
 {% hint style="danger" %}
 The secret numbers are absolutely vital to the safety of your XRP Ledger account and are **the only way** to access your account in the event something were to happen to your phone.

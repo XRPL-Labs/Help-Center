@@ -22,7 +22,7 @@ A good example of how this works would be to look at the recommended configurati
 
 In this case, you have a Primary account on one card and you have a Signing account on another card.
 
-When you run the [Tangem Backup xApp](broken-reference), it creates a "link" between the two accounts which is called a regular key pair. It connects the Primary account to the Signing account which allows you to sign transactions on the Primary account **using the Signing account**.
+When you run the [Tangem Backup xApp](/broken/pages/Ypotp0jrufYxwEF2ciFO), it creates a "link" between the two accounts which is called a regular key pair. It connects the Primary account to the Signing account which allows you to sign transactions on the Primary account **using the Signing account**.
 
 The following steps explain how to manually configure a regular key pair between two XRPL accounts.
 

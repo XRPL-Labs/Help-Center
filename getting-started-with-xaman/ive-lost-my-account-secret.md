@@ -15,8 +15,7 @@ On the XRP Ledger, an account secret is the private key to your XRPL account. It
 An account secret comes in three main forms:
 
 * **Secret numbers** - If you created your XRP Ledger account using Xaman (formerly Xumm), you would have received a set of secret numbers consisting of 8 rows, (A-H), each with 6 digits.&#x20;
-*   **Family Seed** - A 29 character string of numbers and letters starting with the letter "s".\
-
+*   **Family Seed** - A 29 character string of numbers and letters starting with the letter "s".<br>
 
     A typical family seed looks something like this:
 
@@ -75,8 +74,7 @@ If your account was created during the Casino Coin swap, there is a special set 
 
 **Option 5 - Someone else knows your account secret.**
 
-Have you shared your account secret with anyone? (Family member?) Was anyone else with you when you created your XRPL account? If so, do they have a copy of your account secret? If they do, you can use it to access your account.\
-
+Have you shared your account secret with anyone? (Family member?) Was anyone else with you when you created your XRPL account? If so, do they have a copy of your account secret? If they do, you can use it to access your account.<br>
 
 **Option 6 - You have configured a backup account.**
 

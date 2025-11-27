@@ -9,8 +9,7 @@ description: How to send SGB to BiFrost
 * In September 2021, **Flare Networks** launched a proprietary canary network called Songbird. They issued 15 Billion SGB tokens on the Songbird network.
 * On October 11-2021, **Gatehub** issued 1,594,2003 SGB tokens on the XRP Ledger.
 
-While both companies issued a token with the same symbol, **SGB**, they issued them on different and incompatible networks. (Songbird vs. the XRP Ledger)\
-
+While both companies issued a token with the same symbol, **SGB**, they issued them on different and incompatible networks. (Songbird vs. the XRP Ledger)<br>
 
 ### **Can I send SGB issued on the XRPL to the Songbird network?**
 

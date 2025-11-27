@@ -34,8 +34,7 @@ Yes and No.
 
 * Through a crypto exchange  \
   \
-  Companies like [Gatehub](https://gatehub.net/) and [Bitrue](https://www.bitrue.com/home/) fully support the Xahau network and will provide services for buying, selling, exchanging, trading, sending and receiving XAH coins.\
-
+  Companies like [Gatehub](https://gatehub.net/) and [Bitrue](https://www.bitrue.com/home/) fully support the Xahau network and will provide services for buying, selling, exchanging, trading, sending and receiving XAH coins.<br>
 * Through the Burn to Mint feature.\
   \
   The Xahau network has a unique "Burn to Mint" (B2M) feature which allows you to convert XRP directly into XAH. XRPL Labs will be releasing a B2M xApp in the near future.
@@ -123,8 +122,7 @@ Please refer to this article for more information:
 
 
 
-\
-
+<br>
 
 
 

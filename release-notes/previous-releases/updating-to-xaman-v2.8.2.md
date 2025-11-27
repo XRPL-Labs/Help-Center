@@ -68,7 +68,6 @@ If you encounter this screen during to update process:
 
 The upgrade has not frozen. It just means that the database migration is still ongoing.
 
-Please keep the Xaman app open until the migration has completed.\
-
+Please keep the Xaman app open until the migration has completed.<br>
 
 The migration seed will depend on the device's resources and the network bandwidth. Older and/or slower phones on slower networks may take a while to update.&#x20;

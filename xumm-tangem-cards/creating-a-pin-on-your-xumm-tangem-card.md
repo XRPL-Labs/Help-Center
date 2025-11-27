@@ -38,8 +38,7 @@ We strongly recommend that you **only configure a pin** if you have created a **
    **Notice the warning!**\
    \
    ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article_attachments/4420120240786/mceclip0.png)\
-   \
-
+   <br>
 6. Press "**Yes, I'm Sure**"
 7. Enter your new passcode and press **Save**.\
    \

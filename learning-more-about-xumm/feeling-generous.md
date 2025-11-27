@@ -31,13 +31,11 @@ All donations will be deposited into an XRP account and once a year, the funds w
 ## There are two ways that you can donate:
 
 1. By manually sending XRP (or supported tokens) to this account address:\
-   **rxUMmcHjebM2cEXWrnvwHWn5NU9tZTxb8**\
-
+   **rxUMmcHjebM2cEXWrnvwHWn5NU9tZTxb8**<br>
 2. By opening this link or scanning this QR code to pay with XUMM\
    [**Open the XUMM Payment Request page**](https://xumm.app/detect/request:rxUMmcHjebM2cEXWrnvwHWn5NU9tZTxb8)\
    \
-   ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article_attachments/4414871176082/mceclip0.png)\
-
+   ![mceclip0.png](https://drtc9zr.dlvr.cloud/hc/article_attachments/4414871176082/mceclip0.png)<br>
 
 ## Frequently Asked Questions
 
