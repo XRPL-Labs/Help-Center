@@ -45,6 +45,22 @@ Note:&#x20;
 * Custodial accounts (like the ones created by crypto exchanges) **do** require Destination tags. Make sure you enter the correct destination tag otherwise your funds may not been delivered to the expected custodial account.
 {% endhint %}
 
+### **How to use the contacts in your Address Book**
+
+During the send flow,  after you enter the amount to send. you will see the "Recipient" screen. You should see a list of your contacts from your Address Book listed so you can choose one. (You may need to scroll down to see your Contact list):
+
+<figure><img src="../.gitbook/assets/Address Book - 4.png" alt=""><figcaption></figcaption></figure>
+
+In this example, we selected the crypto exchange, Bitrue from the Address Book.
+
+<figure><img src="../.gitbook/assets/Address Book - 5.png" alt=""><figcaption></figcaption></figure>
+
+You will notice that the Destination Tag has been automatically inserted into the correct field.
+
+(As long as you add the correct Destination Tag in the contact, Xaman will populate the information in the send flow.)
+
+
+
 ### Frequently Asked Questions
 
 #### I just purchased a new phone. Can I import my Address Book into it?
