@@ -26,3 +26,32 @@ To add a new contact to your Address book tap the "**+**" button.
 
 <figure><img src="../.gitbook/assets/Address Book - 2.png" alt=""><figcaption></figcaption></figure>
 
+You should see this screen:
+
+<figure><img src="../.gitbook/assets/Address Book - 3.png" alt=""><figcaption></figcaption></figure>
+
+In the "**Name:**" field, enter the name of your contact.
+
+In the "**Address:**" field enter the r-address of your contact.
+
+In the "**Destination tag**" field enter the destination tag for your contact's account. (If applicable)
+
+When done, tap the "**Save**" button.
+
+{% hint style="success" %}
+Note:&#x20;
+
+* &#x20;Self-custody accounts on the XRP Ledger do not require Destination Tags unless they are specifically configured. &#x20;
+* Custodial accounts (like the ones created by crypto exchanges) **do** require Destination tags. Make sure you enter the correct destination tag otherwise your funds may not been delivered to the expected custodial account.
+{% endhint %}
+
+
+
+
+
+
+
+
+
+
+
