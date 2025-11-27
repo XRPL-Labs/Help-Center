@@ -26,7 +26,7 @@ To add a new contact to your Address book tap the "**+**" button.
 
 
 
-You should see this screen:
+You will see this screen:
 
 <figure><img src="../.gitbook/assets/Address Book - 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,6 +60,34 @@ In this example, we selected the crypto exchange, Bitrue from the Address Book.
 You will notice that the Destination Tag has been automatically inserted into the correct field.
 
 (As long as you add the correct Destination Tag in the contact, Xaman will populate the information in the send flow.)
+
+### **Adding a contact from your Event list**
+
+Rather then manually entering a contact, you choose one from the Event list and have Xaman do it for you.&#x20;
+
+Open the Event list and choose the transaction which contains the r-address of the person you want to create a contact for.
+
+<figure><img src="../.gitbook/assets/Address Book - 6.png" alt=""><figcaption></figcaption></figure>
+
+
+
+Press the three dots beside the r-address you would like to add.
+
+<figure><img src="../.gitbook/assets/Address Book - 7.png" alt=""><figcaption></figcaption></figure>
+
+Tap the, "+ Add to contacts" button.
+
+<figure><img src="../.gitbook/assets/Address Book - 8.png" alt=""><figcaption></figcaption></figure>
+
+You will be taken to the Contact create screen.
+
+<figure><img src="../.gitbook/assets/Address Book - 9.png" alt=""><figcaption></figcaption></figure>
+
+
+
+You will notice that the r-address has been populated for you.
+
+At this point you just need to add the Contact Name, then tap the **Save** button.
 
 ### Frequently Asked Questions
 
