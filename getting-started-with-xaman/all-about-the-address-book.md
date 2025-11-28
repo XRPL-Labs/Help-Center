@@ -34,9 +34,7 @@ In the "**Name:**" field, enter the name of your contact.
 
 In the "**Address:**" field enter the r-address of your contact.
 
-(If applicable)
-
-In the "**Destination tag**" field enter the destination tag for your contact's account.
+If applicable, in the "**Destination tag**" field enter the destination tag for your contact's account.
 
 When done, tap the "**Save**" button.
 
@@ -44,7 +42,7 @@ When done, tap the "**Save**" button.
 Note:&#x20;
 
 * Self-custody accounts on the XRP Ledger do not require Destination Tags unless they are specifically configured. &#x20;
-* Custodial accounts (like the ones created by crypto exchanges) **do** require Destination tags. Make sure you enter the correct destination tag otherwise your funds may not been delivered to the expected custodial account.
+* Custodial accounts (like the ones created by crypto exchanges) **do** require Destination tags. Make sure you enter the **correct** destination tag otherwise your funds may not been delivered to the expected custodial account. As keep in mind, some exchanges rotate Destination tags every so often so be sure to regularly check with your exchange to ensure you are using the correct one.
 {% endhint %}
 
 ### **How to use the contacts in your Address Book**
