@@ -19,6 +19,7 @@
 * [Your first XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/README.md)
   * [How to create an XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 * [Activating an account (XRPL)](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/README.md)
+  * [What is a "Pre-funded" Xaman card?](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card.md)
   * [From GateHub](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-gatehub.md)
   * [From Uphold](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-uphold.md)
   * [From Kraken](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-kraken.md)

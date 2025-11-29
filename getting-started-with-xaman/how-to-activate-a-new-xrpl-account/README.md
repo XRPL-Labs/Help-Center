@@ -34,6 +34,10 @@ You can activate your account from an external source like a crypto exchange
 
 You can activate your account from an external source like another XRP Ledger account
 
+* **Option 5**
+
+If you purchased a Xaman card, one of them comes pre-funded.&#x20;
+
 ###
 
 ### **Option 1, 2**
