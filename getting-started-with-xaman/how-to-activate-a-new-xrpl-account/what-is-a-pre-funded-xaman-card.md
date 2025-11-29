@@ -28,9 +28,21 @@ You can purchase two or more cards here:
 
 ### How does "pre-funding" work?
 
-1\) You  either order the cards or claim them if you subscribed to Pro.
+1\) You  either order the cards or if you subscribed to Pro, you claim them.
 
-2\) When we send your cards, we pick one and attach 1 XRP to the card.
+2\) When we send your cards, we pick one and scan the serial number of the card/
+
+3 When you import the card into Xaman, it detects the serial number and looks to see if there is a pre-funded amount waiting to be claimed. ( Normally 1 XRP).
+
+4\) After the card creates it's account secret, you will see this screen with the, "Avtivate your account" button.
+
+<figure><img src="../../.gitbook/assets/activation 3.png" alt=""><figcaption></figcaption></figure>
+
+5\) When you tap that button you will see this screen:
+
+<figure><img src="../../.gitbook/assets/activation 4.png" alt=""><figcaption></figcaption></figure>
+
+6\) Tap the, "Activate" button and we will send 1 XRP to your newly created Xaman card account.
 
 3\) s order the cards, the price includes 1 XRP that can be applied to your XRP Ledger account after you import it into Xaman.  The 1 XRP will be used to meet the  base reserve requirement of the XRP Ledger.
 
