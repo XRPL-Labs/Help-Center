@@ -16,11 +16,11 @@ If you've never heard about them or if you are interested in learning more, this
 
 There are two ways to get Xaman cards.
 
-Option 1
+**Option 1**
 
-If you are a first time subscriber to Xaman Pro, you will receive a pair of Xaman cards for free with your subscription! (Shipping fees are extra.)
+If you are a first time subscriber to Xaman Pro, you will receive a pair of Xaman cards for free with your subscription!  (Shipping fees are extra.)
 
-Option 2
+**Option 2**
 
 You can purchase two or more cards here:
 
@@ -28,7 +28,11 @@ You can purchase two or more cards here:
 
 ### How does "pre-funding" work?
 
-When you order the cards, the price includes 1 XRP that can be applied to your XRP Ledger account to meet the 'account reserve' requirement.&#x20;
+1\) You  either order the cards or claim them if you subscribed to Pro.
+
+2\) When we send your cards, we pick one and attach 1 XRP to the card.
+
+3\) s order the cards, the price includes 1 XRP that can be applied to your XRP Ledger account after you import it into Xaman.  The 1 XRP will be used to meet the  base reserve requirement of the XRP Ledger.
 
 {% content-ref url="../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md" %}
 [about-reserves.md](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
