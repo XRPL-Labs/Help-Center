@@ -28,13 +28,13 @@ You can purchase two or more cards here:
 
 ### How does "pre-funding" work?
 
-1\) You  either order the cards or if you subscribed to Pro, you claim them.
+1\) You either[ order the cards](https://xumm.app/detect/xapp:xumm.tangem-order), or if you [subscribed](https://xaman.app/pro?xrpllabs) to Xaman Pro, you [claim them](https://xumm.app/detect/xapp:xumm.tangem-order) through Pro.
 
-2\) When we send your cards, we pick one and scan the serial number of the card/
+2\) When we process your order, we pick one out of a box and scan the serial number of the card and record it on our systems.
 
-3 When you import the card into Xaman, it detects the serial number and looks to see if there is a pre-funded amount waiting to be claimed. ( Normally 1 XRP).
+3 When you receive the cards and import them into  Xaman, our application detects the serial number and looks to see if there is a pre-funded amount waiting to be claimed. ( Normally 1 XRP).
 
-4\) After the card creates it's account secret, you will see this screen with the, "Avtivate your account" button.
+4\) After the card creates it's account secret, you will see this screen with the, "Activate your account" button.
 
 <figure><img src="../../.gitbook/assets/activation 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,13 +44,23 @@ You can purchase two or more cards here:
 
 6\) Tap the, "Activate" button and we will send 1 XRP to your newly created Xaman card account.
 
-3\) s order the cards, the price includes 1 XRP that can be applied to your XRP Ledger account after you import it into Xaman.  The 1 XRP will be used to meet the  base reserve requirement of the XRP Ledger.
+### Frequently Asked Questions
+
+#### I claimed the pre-funded amount but I can not see it in my account. What gives?
+
+In order to be able to hold XRP in an XRPL account, it must first be activated with a minimum of 1 XRP.
+
+The first 1 XRP deposited into an XRPL account will be used to meet the reserve requirements and will not be spendable (unless and until the account is deleted and the reserve gets moved to another account).
+
+This article provides more information about this:
 
 {% content-ref url="../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md" %}
 [about-reserves.md](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
 {% endcontent-ref %}
 
-This 1 XRP can be claimed after you have imported the card into Xaman.
+#### I didn't realize I had to claim the pre-funded XRP and activated the account from another source. Can I still claim the pre-funded XRP?
+
+You certainly can. Just In order to be able to hold XRP in an XRPL account, it must first be activated with a minimum of 1 XRP.
 
 ### Explain it in simple terms
 
