@@ -46,12 +46,6 @@ For those people who want to get involved with the latest and greatest advanceme
 
 <figure><img src="../.gitbook/assets/early access.png" alt=""><figcaption></figcaption></figure>
 
-### **Free Xaman cards**&#x20;
-
-Each Xaman Pro subscription comes with a pair of free Xaman cards. These NFC cards take your XRP savings accounts to the next level in security.
-
-&#x20;(Note: One pair of cards per customer and the customer must pay the shipping costs of the cards.)
-
 ### **Discounts and special offers**&#x20;
 
 Xaman Pro subscribers will get access to special offers and discounts.
@@ -71,18 +65,6 @@ A Pro subscription gets you access to Premium sections of the [**Xaman Community
 A subscription to Xaman Pro Beta costs **$60 USD** (paid in XRP) or about **$70 USD** if purchased via credit car&#x64;**.**
 
 When you subscribe, you will be presented with the option to pay in either XRP or with a credit card.
-
-#### How much does it cost to have the cards shipped to me?
-
-The shipping costs for the cards will be calculated when you claim the cards.&#x20;
-
-<figure><img src="../.gitbook/assets/Claim cards.png" alt=""><figcaption></figcaption></figure>
-
-The shipping costs include packaging, processing fees and any special fees levied by our shipping company.
-
-#### Why does it cost so much to have the cards shipped to me?
-
-Over the last couple of years, the cost to ship the cards has more than doubled. We are in the process of investigating other shipping methods, but so far, we have been unable to find a reliable and economical way to ship them around the world.&#x20;
 
 #### How do I subscribe?
 
