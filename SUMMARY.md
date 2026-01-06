@@ -167,7 +167,6 @@
   * [Push notifications](xaman-pro/features-of-pro/push-notifications.md)
   * [Accounts](xaman-pro/features-of-pro/accounts.md)
   * [Xaman App early access](xaman-pro/features-of-pro/xumm-app-early-access.md)
-  * [Free Tangem Card](xaman-pro/features-of-pro/free-tangem-card.md)
   * [Premium Support](xaman-pro/features-of-pro/premium-support.md)
   * [Vanity addresses](xaman-pro/features-of-pro/vanity-addresses.md)
 
