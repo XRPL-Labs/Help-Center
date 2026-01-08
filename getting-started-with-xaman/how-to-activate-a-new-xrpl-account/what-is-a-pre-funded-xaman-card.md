@@ -14,13 +14,7 @@ If you've never heard about them or if you are interested in learning more, this
 
 ### How do I get a Xaman card?
 
-There are two ways to get Xaman cards.
-
-**Option 1**
-
-If you are a first time subscriber to Xaman Pro, you will receive a pair of Xaman cards for free with your subscription!  (Shipping fees are extra.)
-
-**Option 2**
+There is only one way get Xaman cards.
 
 You can purchase two or more cards here:
 
@@ -28,11 +22,11 @@ You can purchase two or more cards here:
 
 ### How does "pre-funding" work?
 
-1\) You either[ order the cards](https://xumm.app/detect/xapp:xumm.tangem-order), or if you [subscribed](https://xaman.app/pro?xrpllabs) to Xaman Pro, you [claim them](https://xumm.app/detect/xapp:xumm.tangem-order) through Pro.
+1\) Order and pay for the cards.
 
 2\) When we process your order, we pick one out of a box and scan the serial number of the card and record it on our systems.
 
-3 When you receive the cards and import them into  Xaman, our application detects the serial number and looks to see if there is a pre-funded amount waiting to be claimed. ( Normally 1 XRP).
+3 When you receive the cards and import them into Xaman, our application detects the serial number and looks to see if there is a pre-funded amount waiting to be claimed. ( Normally 1 XRP).
 
 4\) After the card creates it's account secret, you will see this screen with the, "Activate your account" button.
 
@@ -61,20 +55,6 @@ This article provides more information about this:
 #### I didn't realize I had to claim the pre-funded XRP and activated the account from another source. Can I still claim the pre-funded XRP?
 
 You certainly can. Just In order to be able to hold XRP in an XRPL account, it must first be activated with a minimum of 1 XRP.
-
-### Explain it in simple terms
-
-Most people who receive the cards follow the instructions in this article to configure them:
-
-{% content-ref url="../../xumm-tangem-cards/getting-started.md" %}
-[getting-started.md](../../xumm-tangem-cards/getting-started.md)
-{% endcontent-ref %}
-
-As the article explains, you have to import each card into Xaman.
-
-(Settings -> Accounts ->  + Add Account -> Add Tangem card)
-
-You will go through the steps:
 
 
 
