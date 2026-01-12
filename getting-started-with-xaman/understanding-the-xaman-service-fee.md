@@ -12,11 +12,11 @@ To ensure long-term sustainability while maintaining an exceptional user experie
 This update eliminates the previous threshold-based monetization and replaces it with a transparent, per-use fee structure. Fees are applied only to specific transactions that require extensive processing resources or involve trading activity.
 
 {% hint style="info" %}
-**Most transactions remain free**
+**Most regular transactions remain free**
 
 **Market trading has a small 0.8% fee with a minimum of 0.09XRP**
 
-**Limit orders have a flat fee of 0.09 XRP**
+**Yield-products incur a 0.5% fee**
 
 **Pathfinding transactions cost a fixed-fee of 0.15 XRP**
 
@@ -63,6 +63,17 @@ To reinforce Xaman’s position as the leading self-custodial wallet in security
 These thresholds apply to large-value movements between the same source and destination within a rolling 12-hour window.
 
 Our brand is built on trust and a flawless track record spanning more than half a decade. As the tip of the spear in crypto infrastructure and wallet security, this framework ensures we continue delivering the resilience, protection, and reliability our users expect, now and in the future.
+
+#### Yield Products
+
+To support yield integrations and the extra infrastructure required to keep them reliable, **deposits into supported yield products incur a 0.5% Xaman service fee**.
+
+* **Applies to:** deposits into yield products
+* **Does not apply to:** withdrawals, reward claims, or receiving funds
+* **Transparent before signing:** you will always see the exact service fee before confirming the transaction
+
+**Why a yield fee?**\
+XRPfi doesn’t build itself. To deliver yield products in a secure and trusted way inside a self-custody wallet, we invest in integrations, infrastructure, and ongoing support. This one-time fee applies to the deposit only, while the potential yield can continue afterwards. Yield rates and outcomes depend on the provider and market conditions.
 
 ### Xaman Pro and 5000+ XAH Holders
 
@@ -148,6 +159,12 @@ Thirty days later, on September 9, you will have $100 USD worth of trades. If yo
 On August 1st you do your first swap with a value of $500 USD. On August 10th you do another swap of $500. You have used up your $1000 USD in free trades. You will be charged fees on your other swaps until until August 31st. On August 31st, you will have $500 USD in free trades.&#x20;
 
 If you do a trade on September 2nd for $250 USD and another trade on September 3rd for $250 USD, you will need to pay fees until  September 9th, when you will have $500 worth of trades. (Since it has been 30 days from August 10th when you placed an order for $500)
+
+**Case 4**
+
+Contributing 10,000XRP to a yield product. \
+Deposit value: 10,000 XRP\
+Xaman service fee (0.5%): 50 XRP
 
 
 
