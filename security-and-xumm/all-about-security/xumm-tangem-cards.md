@@ -35,17 +35,17 @@ This offers the best combination of user experience and security. Using your sma
 
 While Tangem already offered XRP cards, one could only use them for regular XRP payments. The XRPL has much more to offer than simple XRP payments: Issued tokens / IOU’s (decentralized exchange), account settings, multi signing, escrows, NFTs, AMM, etc. All fully supported by Xaman.
 
->
-
 **Recovery**
 
-Because the chip inside a Xaman card generates and holds the (non-extractable) private key to access your funds, a lost card means you won’t be able to access your funds anymore.
+Because the chip inside a Xaman card generates and holds the (non-extractable) private key to access your funds, a lost card means you won’t be able to access your funds anymore
 
 Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem Backup” which allows you to **configure a second card as a backup**. By doing this, you don’t have to worry about a lost, stolen or damaged card… you will have a backup card to protect your assets.
 
 * [How to use the Tangem Backup xApp](https://support.xumm.app/hc/en-us/articles/4417047349394)
 
-**Further explanation & FAQ’s**
+### **Further explanation & FAQ’s**
+
+
 
 *   **What’s the typical use case for a Xaman card?**
 
@@ -62,15 +62,6 @@ Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem B
 *   **Can I use an existing XRP Tangem cards with Xaman?**
 
     Yes and no. The most current Tangem cards are V2 multi-cards. These cards are **not** compatible with Xaman. Some of the older Tangem cards will work with Xaman but your plan is to participate and interact with the XRP Ledger and Xahau communities, Xaman cards are the way to go. <br>
-*   **Xaman Pro is a paid subscription, do I need Xaman Pro to use Xaman cards?**
-
-    When you subscribe to Xaman Pro, you will receive two free Xaman cards with your order.
-
-    (Note: Not all countries are eligible to receive the cards due to customs restrictions and customers are required to pay shipping costs for the cards.) \
-    \
-    For the most current information, please refer to this article:
-
-    [How to subscribe to Xaman Pro Beta 🎉](https://support.xumm.app/hc/en-us/articles/6138022550418)<br>
 *   **How can I purchase Xaman cards?**
 
     They are available via our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order):\
@@ -87,14 +78,7 @@ Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem B
     While you cannot extract & backup the secret / private key of the card, **Xaman can setup a recovery account, and attach the recovery account to your Xaman card account.** Using this recovery account, you will be able to regain access to your funds in case of a lost, stolen or damaged card.<br>
 
     See: [How to use the Tangem Backup xApp](https://support.xumm.app/hc/en-us/articles/4417047349394)<br>
-*   **How is the Xaman card protected? Can someone else use my card if they have physical access?**
-
-    Xaman will allow you to setup a PIN / Password **on** your card. If you do so, signing transactions with your card also requires that you to enter the PIN / Password. This will protect you against physical access attacks, as one not only needs your card, but your PIN / Password as well.
-
-    If you did not configure a PIN / Password on your card, anyone with physical access to the card can access and move all your funds.   If you use your Xaman card to keep significant amounts of XRP (or other currencies), it is advisable to both enable PIN / Password protection on your card and not to keep your card with you during your daily commute.<br>
-
-    See: [Tangem cards - Back Up & Best Practices](https://support.xumm.app/hc/en-us/articles/4416929335186)<br>
-* **Does a Xaman card require another 10 XRP reserve?**
+* **Does a Xaman card require another 1 XRP reserve?**
 
 That depends on how you configure the cards. While primary cards require that they be activated,               backup cards do not require activation.
 
