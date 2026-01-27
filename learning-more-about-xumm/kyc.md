@@ -31,14 +31,6 @@ For a current list of supported documents, please refer to this link:
 
 * [**List of supported documents and counties**](https://www.veriff.com/supported-countries)&#x20;
 
-#### **What about Xaman Pro (Beta)?**&#x20;
-
-When you subscribe to Xaman Pro (Beta), you will have the option to go through the KYC process, however, only those who go through KYC will be able to access to the Pro Beta features like a Profiles, PayString, uploading your avatar and showing your real name when sending payment requests.&#x20;
-
-Because we only want to support trustworthy profiles & to prevent imposters, your avatar & display name will be compared to your KYC government ID information. This way, everybody in the ecosystem will be able to trust other users and their profiles, names, avatars, if they have a Pro Beta subscription.
-
-* [**How to subscribe to Xaman Pro Beta 🎉**](../xaman-pro/how-to-subscribe-to-pro.md)
-
 #### **Will Xaman disclose my identity if I go through the KYC process?**
 
 Xaman does not disclose personal information to third parties, unless it is necessary due to legal obligations. We work together with industry experts to fulfil our commitment in building and maintaining a safe XRP ecosystem. In our [privacy statement](../about-xaman-and-xrpl-labs/where-can-i-find-your-privacy-statement.md), you will find the personal data we process and the grounds for processing. &#x20;
@@ -46,41 +38,3 @@ Xaman does not disclose personal information to third parties, unless it is nece
 #### **Can I go through the KYC process using a "read only" account in Xaman?**
 
 Since anyone can import an XRPL account into Xaman as "read only", there is no way for us to verify that you own the account unless your have full signing access to it. (This is also why you can not go through the KYC process on an account that has been blackholed.) The idea behind KYC is to verify your identity **and associate this verification with an XRP Ledger account that you own.** In order to do that, you need to have "full access" to your XRPL account. This means that you know the secret keys for your account and you have imported them into Xaman.  &#x20;
-
-#### **How do I go through the KYC process?**
-
-In Xaman Pro Beta, simply click on the _**Open KYC xApp**_ and follow the instructions on the screen.
-
-<figure><img src="../.gitbook/assets/Open KYC xApp.png" alt=""><figcaption></figcaption></figure>
-
-#### **I went through the KYC process in Pro but I can't see it in Xaman.**
-
-Xaman does not currently have a place in the app to verify that you went through the KYC process. (We assume that you already know that you completed it so there is no reason to display it. )
-
-...but just in case, here are a couple of ways to check:
-
-* You can visit this site: [https://bithomp.com/](https://bithomp.com/) then enter your r-address and look for: &#x20;
-
-**Xaman: verified √**&#x20;
-
-<figure><img src="../.gitbook/assets/Bithomp - Verified.png" alt=""><figcaption></figcaption></figure>
-
-* You can visit this site: [https://xrpscan.com/](https://xrpscan.com/) then enter your r-address and look for:                          ![mceclip2.png](https://drtc9zr.dlvr.cloud/hc/article_attachments/4475788481810/mceclip2.png)
-
-<figure><img src="../.gitbook/assets/XRPscan - Verified.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-The only way to get "Xaman verified" to be displayed in Bithomp or XRPScan is to go through the KYC process via Xaman Pro.
-{% endhint %}
-
-#### &#x20;**Do I have to go through the KYC process to get an airdrop?**
-
-That depends on the airdrop. Some projects on the XRPL require that you go through the KYC process in order to participate. Normally, the project would provide the means to do this.&#x20;
-
-#### **You've mentioned Xaman Pro (beta) a couple of times, where do I learn more about it?**
-
-We are super excited about the release of Xaman Pro Beta! 🎉.&#x20;
-
-You can learn all about it here:
-
-* &#x20;[**How to subscribe to Xaman Pro Beta 🎉**](../xaman-pro/how-to-subscribe-to-pro.md)
