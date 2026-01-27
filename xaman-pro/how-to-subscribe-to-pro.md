@@ -1,5 +1,6 @@
 ---
 description: How to subscribe to Xaman Pro
+hidden: true
 ---
 
 # How to subscribe to Xaman Pro

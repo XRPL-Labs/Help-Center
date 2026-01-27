@@ -11,7 +11,7 @@ coverY: 0
 The Get Cards xApp is a utility that allows you to:
 
 * purchase [**Xumm cards**](../../xumm-tangem-cards/xumm-tangem-cards.md)
-* purchase [**Xumm Pro (Beta)**](xumm-pro-beta.md)
+* purchase [**Xumm Pro (Beta)**](/broken/pages/Mt8EhJngKXONqYB5Iwul)
 * purchase a limited amount of XRP&#x20;
 
 ### **How do I find it?**

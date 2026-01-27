@@ -1,5 +1,6 @@
 ---
 description: What is Xaman Pro and why should you subscribe?
+hidden: true
 ---
 
 # 😎 What is Xaman Pro?
