@@ -75,15 +75,6 @@ To support yield integrations and the extra infrastructure required to keep them
 **Why a yield fee?**\
 XRPfi doesn’t build itself. To deliver yield products in a secure and trusted way inside a self-custody wallet, we invest in integrations, infrastructure, and ongoing support. This one-time fee applies to the deposit only, while the potential yield can continue afterwards. Yield rates and outcomes depend on the provider and market conditions.
 
-### Xaman Pro and 5000+ XAH Holders
-
-Xaman Pro users and holders of 5,000 or more XAH tokens continue to benefit from reduced fees:
-
-* **25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per 30 days** OR **$1,000 in total trading volume per 30 days before fees apply**
-* **Pro users who purchased before February 1, 2025, will enjoy a full year of completely fee-free trading**
-
-This adjustment ensures that high-activity users receive premium benefits while maintaining the best experience for the broader user base.
-
 ### Why This Change Was Made
 
 This update brings Xaman in line with industry standards used by wallets across the XRP Ledger, Ethereum, and Solana ecosystems. By moving to a per-use fee structure instead of a usage threshold model, Xaman ensures:
@@ -94,17 +85,9 @@ This update brings Xaman in line with industry standards used by wallets across 
 
 These changes support Xaman’s mission to deliver best-in-class self-custodial security, ongoing innovation, and continued growth.
 
-For more details, visit [xaman.app/pro](https://xaman.app/pro) or refer to our full update at [xaman.app/blog/3-3-1](https://xaman.app/blog/3-3-1).
+For more details, visit [xaman.app/blog/3-3-1](https://xaman.app/blog/3-3-1).
 
 ### Frequently asked questions
-
-**I have subscribed to Xaman Pro, does the High Value transaction fees apply to me?**
-
-Yes. Regardless of when you subscribed to Pro (before or after Feb. 1-2025) the High Value fees apply.
-
-Any payment transaction exceeding $50,000 will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee,** regardless if you are a Pro subscriber or not.
-
-
 
 **I want to send over 50,000 USD worth of XRP to my XRP Ledger account managed by Xaman. Do I have to pay a fee?**
 
@@ -115,26 +98,6 @@ No.  Sending funds to accounts managed by Xaman does not incur a fee.&#x20;
 **I want to send over 50,000 USD worth of XRP from my XRP Ledger account managed by Xaman. Do I have to pay a fee?**
 
 Yes.  Any payment transaction where you send $50,000 USD or more **from** your XRP Ledger account managed by Xaman will incur a **0.1% service fee**, while transactions over $100,000 will have a **0.07% service fee.**
-
-
-
-**I have 5000 XAH in my Xahau account. Do I have to pay the 0.09 XRP for limit orders?**
-
-Yes..
-
-Holding 5000 XAH in your account grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per 30 days OR $1,000 in total trading volume per 30 days before fees apply.
-
-Fixed fee transactions (limit ordrs and pathfinding payments) are not free. You will still be charged 0.15 XRP per Pathfinding payment and 0.09 XRP per limit order.
-
-
-
-**I have subscribed to Xaman Pro. Do I have to pay the 0.09 XRP for limit orders?**
-
-Yes.
-
-Xaman Pro grants you 25 feeless tokens swaps, AMM deposits, AMM withdrawals and/or market trading transactions per 30 days OR $1,000 in total trading volume per 30 days before fees apply.
-
-Fixed fee transactions (limit orders and pathfinding payments) are not free. You will still be charged 0.15 XRP per Pathfinding payment and 0.09 XRP per limit order.
 
 
 
