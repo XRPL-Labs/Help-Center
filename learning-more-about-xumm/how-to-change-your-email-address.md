@@ -6,13 +6,7 @@ In the Xaman application itself, we **do not** gather or store any personal info
 
 [XRPL Labs Privacy Statement](https://xrpl-labs.com/static/documents/XRPL-Labs-Privacy-Statement-V1.pdf)
 
-Having said this, there are a couple of places where email can be stored...
-
-### **Xaman Pro - Early Access**&#x20;
-
-If you have subscribed to **Xaman Pro**, you have the option to enter an email address if you would like to participate in our beta testing program. You can change your email address by launching Xaman Pro, then choosing **Xaman App early access**.&#x20;
-
-<figure><img src="../.gitbook/assets/Email 2.png" alt=""><figcaption><p>Early Access</p></figcaption></figure>
+Having said this, there are a couple of places where email can be stored:
 
 ### Xaman (Tangem) card orders
 
