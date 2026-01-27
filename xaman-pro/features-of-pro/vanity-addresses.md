@@ -1,5 +1,6 @@
 ---
 description: A quick overview of the Vanity address feature of Xumm Pro
+noIndex: true
 ---
 
 # Vanity addresses

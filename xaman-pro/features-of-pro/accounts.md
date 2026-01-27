@@ -1,5 +1,6 @@
 ---
 description: Managing accounts in Pro
+noIndex: true
 ---
 
 # Accounts

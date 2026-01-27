@@ -1,5 +1,6 @@
 ---
 description: What are push notifications?
+noIndex: true
 ---
 
 # Push notifications

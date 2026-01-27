@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # Premium Support
 
 {% hint style="info" %}
