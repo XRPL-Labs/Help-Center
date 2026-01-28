@@ -91,7 +91,7 @@ There is currently no way of preventing this from happening on the XRP Ledger.
 
 ### **How does Xaman handle spam?**
 
-We have numerous ways of identifying spam on the XRPL. When we find accounts that appear to be sending spam, we analyze the history of the account, immediately suppress the memo field and add a notification indicating the transaction may be dangerous. As well, for our [**Xaman Pro**](https://support.xumm.app/hc/en-us/articles/6138022550418) users, the push notifications are suppressed so you are not notified when the spam transactions arrives in your account.
+We have numerous ways of identifying spam on the XRPL. When we find accounts that appear to be sending spam, we analyze the history of the account, immediately suppress the memo field and add a notification indicating the transaction may be dangerous.&#x20;
 
 ### **Is there any solution to this problem?**
 
