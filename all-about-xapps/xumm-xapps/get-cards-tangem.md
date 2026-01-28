@@ -10,9 +10,7 @@ coverY: 0
 
 The Get Cards xApp is a utility that allows you to:
 
-* purchase [**Xumm cards**](../../xumm-tangem-cards/xumm-tangem-cards.md)
-* purchase [**Xumm Pro (Beta)**](/broken/pages/Mt8EhJngKXONqYB5Iwul)
-* purchase a limited amount of XRP&#x20;
+* purchase [**Xaman cards**](../../xumm-tangem-cards/xumm-tangem-cards.md)
 
 ### **How do I find it?**
 
@@ -36,7 +34,7 @@ Press the **Order cards** button...&#x20;
 
 **Step 1** involves:
 
-* choosing the number of Xumm cards you would like to purchase.
+* choosing the number of Xaman cards you would like to purchase.
 
 Currently we offer quantities of 2, 3,4 or 5 cards. (We do not offer bulk orders.)&#x20;
 
@@ -44,8 +42,8 @@ If you decide to go with the 5 card option, the team will even sign one for you!
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* deciding if you would like to purchase XRP to cover the [**account reserve**](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md) for one card. (This option allows you to purchase 10 XRP to meet the account reserve requirement of the XRPL. )
-* deciding  if you would like to purchase extra XRP in addition to the 10 XRP for the account reserve.
+* deciding if you would like to purchase XRP to cover the [**account reserve**](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md) for one card. (This option allows you to purchase 1 XRP to meet the account reserve requirement of the XRPL. )
+* deciding  if you would like to purchase extra XRP in addition to the 1 XRP for the account reserve.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,7 +69,7 @@ When done, press the **Continue to payment** button.
 
 **Step 3**
 
-Choose how you would like to pay for your cards and Pro subscription.
+Choose how you would like to pay for your cards.
 
 If you are not going to purchase additional XRP, paying with Xaman (in XRP) is quick, easy and will save you money. (We recommend this option.)
 
@@ -92,7 +90,3 @@ Enter your credit card information in the form then press, **Process Payment**.
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 9\) You are all set! Thank you for your order. We can't do what we do without your support.
-
-
-
-### Frequently asked questions

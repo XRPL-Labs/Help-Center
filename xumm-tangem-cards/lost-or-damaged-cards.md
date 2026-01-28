@@ -12,7 +12,7 @@ So what happens if you lose the card, or if the card is damaged, destroyed or st
 
 If any of these options happened, you would lose access to your account since the only way to access a card account is with the card and there is no recovery option.
 
-This is why we always ship two cards with every Xaman Pro order and why don't offer the option to purchase single cards. We want people to configure a second card as a backup to the first card so if something happens to one of the cards, you still have a way to access the funds in your account.
+This is why we don't offer the option to purchase single cards. We want people to configure a second card as a backup to the first card so if something happens to one of the cards, you still have a way to access the funds in your account.
 
 ### Ideal configuration
 

@@ -20,7 +20,7 @@ The **only 100% trustworthy** way to reach us is via the Xaman Support xApp from
 
 ### Xaman customer support
 
-For all customer support and technical questions related to the Xaman application, please contact us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xaman buy pressing <img src="../.gitbook/assets/image (2) (1) (4).png" alt="" data-size="line">at the bottom of Xaman then selecting [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.**
+For all customer support and technical questions related to the Xaman application, please contact us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xaman buy pressing <img src="../.gitbook/assets/image (2) (1) (4).png" alt="" data-size="line"> at the bottom of Xaman then selecting [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.**
 
 <figure><img src="../.gitbook/assets/Xaman Support.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +47,6 @@ For all customer support and technical questions related to the Xaman applicatio
 #### **Alternatively** <a href="#h_1bf826eada" id="h_1bf826eada"></a>
 
 * [**https://docs.xaman.dev/**  ](https://docs.xumm.dev/)and subdomains (for Developers & Developer docs)
-* [https://xaman.app/pro?xrpllabs](https://xaman.app/pro?xrpllabs) and subdomains (for Xumm Pro subscriptions)
 
 ### **Xaman - Latest versions of the app** <a href="#h_c79d5ef4b1" id="h_c79d5ef4b1"></a>
 
