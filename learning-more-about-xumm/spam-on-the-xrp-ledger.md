@@ -6,7 +6,7 @@ description: Understanding SPAM
 
 ### **What is spam?**
 
-A spam transaction is any unwanted or unsolicited transaction that gets sent out in bulk across the XRP Ledger (XRPL). Here is how spam transactions look in Xaman:
+A spam transaction is any unwanted or unsolicited transaction that gets sent out in bulk across the XRP Ledger (XRPL). Here are a couple of examples on how spam transactions might look in Xaman:
 
 <figure><img src="../.gitbook/assets/Spam - 1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,6 +16,7 @@ The spam transactions themselves are not dangerous. The majority of spam falls i
 
 * a marketing ploy to try to get you to participate in their project
 * a scam trying to get you to visit a website
+* a scam trying to get you to buy an NFT
 * a scam trying to get you contact them for "help"
 * an empty transaction designed to clog the network&#x20;
 
@@ -27,7 +28,9 @@ If you were to follow the instructions in the Memo field, you would certainly be
 
 ### **Can they access my account in any way?**
 
-Absolutely not. No one can access your XRPL account unless they know your account secret. (Secret numbers / Family seed / Mnemonic) As long as you keep your account secret safe and secure, your funds are safe. The only way someone can access your XRPL account is if they learn your account secret. See this article for more information:
+Absolutely not. No one can access your XRPL account unless they know your account secret. (Secret numbers / Family seed / Mnemonic) As long as you keep your account secret safe and secure, your funds are safe. The only way someone can access your XRPL account is if they learn your account secret. \
+\
+See this article for more information:
 
 * [How secure is Xaman?](../security-and-xumm/all-about-security/how-secure-is-xumm.md)
 
@@ -45,7 +48,7 @@ Some people who receive spam, take it upon themselves to contact the sender and 
 
 Others take to social media to condemn the senders and warn others about them.
 
-Most people simply ignore the transactions. We advise you to do this as well.
+Most people simply ignore the transactions.&#x20;
 
 ### **Can I delete the spam transactions from my account?**
 
@@ -57,9 +60,7 @@ Some people who receive spam, take it upon themselves to contact the scam token 
 
 Others take to social media to condemn the token issuers and warn others not to participate.
 
-Most people simply ignore the transactions. We advise you to do this as well.
-
-###
+Most people simply ignore the transactions.&#x20;
 
 ### **Should I return the tokens to them?**
 
@@ -71,9 +72,11 @@ Yes. The XRPL automatically charges transaction fees in order to process transac
 
 ### **I clicked the transaction to view it, am I in any danger?**
 
-No. Reviewing a transaction on the XRPL is not dangerous. The only way someone can access your XRPL account is if they get access to your account secret. See this article for more information:
+No. Reviewing a transaction on the XRPL is not dangerous. The only way someone can access your XRPL account is if they get access to your account secret.&#x20;
 
-* [How secure is Xumm?](../security-and-xumm/all-about-security/how-secure-is-xumm.md)
+See this article for more information:
+
+* [How secure is Xaman?](../security-and-xumm/all-about-security/how-secure-is-xumm.md)
 
 ### **I don't even know them! How did they get my r-address? I’ve been very careful who I’ve interacted with in the XRP community…**
 
