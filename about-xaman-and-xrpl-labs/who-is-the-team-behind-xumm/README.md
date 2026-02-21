@@ -38,10 +38,6 @@ If you are interested in getting to know us a bit better, check these out:
 [team-kevin.md](team-kevin.md)
 {% endcontent-ref %}
 
-{% content-ref url="team-dominique-and-dirk-jan.md" %}
-[team-dominique-and-dirk-jan.md](team-dominique-and-dirk-jan.md)
-{% endcontent-ref %}
-
 {% content-ref url="team-will.md" %}
 [team-will.md](team-will.md)
 {% endcontent-ref %}
