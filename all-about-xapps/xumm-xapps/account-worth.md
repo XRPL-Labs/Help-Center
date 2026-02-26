@@ -22,12 +22,12 @@ or you can find it by pressing the **xApps** button at the bottom of the main sc
 
 ### **How does Account Worth calculate the "value" of my tokens?**
 
-For each token in your account, the Account Worth xApp looks at the XRPL DEX and calculates what the liquidation value would be based on the open orders currently on the DEX.  &#x20;
+For each token in your account, the Account Worth xApp looks at the XRPL DEX and calculates what the possible liquidation value would be based on the open orders and the current liquidity.  &#x20;
 
 <figure><img src="../../.gitbook/assets/Account Worth - xApp - 2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Xaman shows the _real_ representation of each asset based on the _current_ DEX liquidity. It shows the amount you can _actually_ trade your tokens for, which is, in case of illiquid pairs, a lot less than the fake price most platforms show.&#x20;
+Note: The value displayed is **not** the actual value of the tokens. It is the approximate value you would get if you were to try to sell them on the XRP Ledger DEX.&#x20;
 {% endhint %}
 
 ### **What about the base reserve and owner reserves? Are they counted in the total value?**
@@ -36,12 +36,12 @@ The Account Worth xApp **includes** the base reserve and owner reserves when cal
 
 ### **Why is there a difference between what Account Worth shows and what the DEX Trade xApp shows?**
 
-Account Worth shows the real value of each asset based on the current liquidity on the DEX. The DEX Trade xApp shows the last traded price. (It does not calculate the actual worth of token.)
+Account Worth shows the value of each asset based on the current liquidity on the DEX. The DEX Trade xApp shows the last traded price. (It does not calculate the actual worth of token.)
 
 In other words, [slippage](../../getting-started-with-xaman/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md) and [liquidity](../../getting-started-with-xaman/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md) have been taken into account with Account Worth but not with the DEX Trade xApp.
 
 ### **Why is there a difference been what Account Worth shows and what my exchange shows?**
 
-Account Worth shows the real value of each asset based on the current liquidity on the DEX.&#x20;
+Account Worth shows the approximate value of each asset based on the current liquidity on the DEX.&#x20;
 
 Many crypto exchanges use a different method of calculating value. Some exchanges have their own liquidity pool which they use to calculate value. Some exchange rely on third parties to calculate value.  Account Worth relies on the XRP Ledger DEX to calculate value.
