@@ -11,6 +11,7 @@
   * [Overview](getting-started-with-xaman/using-the-flare-xapp/overview.md)
   * [What fees are involved in this process?](getting-started-with-xaman/using-the-flare-xapp/what-fees-are-involved-in-this-process.md)
   * [Estimated "break even" time](getting-started-with-xaman/using-the-flare-xapp/estimated-break-even-time.md)
+  * [How the xApp works](getting-started-with-xaman/using-the-flare-xapp/how-the-xapp-works.md)
 
 ## Learning more about Xaman
 

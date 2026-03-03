@@ -1,7 +1,3 @@
----
-description: What fees are involved in this process?
----
-
 # What fees are involved in this process?
 
 ### What fees are involved in this process?
