@@ -34,8 +34,8 @@ Part of the process of opening an account includes going through the KYC process
 
 If you do not have a Euro Trust line configured for the GateHub EUR token, you can create one by following the instructions in this article:
 
-{% content-ref url="../getting-started-with-xaman/how-to-create-a-trust-line.md" %}
-[how-to-create-a-trust-line.md](../getting-started-with-xaman/how-to-create-a-trust-line.md)
+{% content-ref url="/broken/pages/Udx6x9jcV2DOMzt8yoCq" %}
+[Broken link](/broken/pages/Udx6x9jcV2DOMzt8yoCq)
 {% endcontent-ref %}
 
 

@@ -84,8 +84,8 @@ If you decide that Xaman no longer meets your needs, you have two options:
 
 You can transfer your XRP to a centralized exchange, but this comes with moderate risks. Centralized platforms have a history of breaches and failures, making user assets vulnerable.
 
-{% content-ref url="sending-tokens-from-xumm.md" %}
-[sending-tokens-from-xumm.md](sending-tokens-from-xumm.md)
+{% content-ref url="/broken/pages/W6X3HBFBEMlNfXi4mjHB" %}
+[Broken link](/broken/pages/W6X3HBFBEMlNfXi4mjHB)
 {% endcontent-ref %}
 
 2\) Transfer your XRPL account to another **Self-Custodial Wallet** (Safer Option)

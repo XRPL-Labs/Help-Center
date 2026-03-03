@@ -33,7 +33,7 @@ Just select one of the above links and press the **Install** button to begin the
 
 Although the installation of Xaman is quite straight-forward and user-friendly , you can always refer to our step by step instructions...
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to install Xaman</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../getting-started-with-xaman/installing-xumm.md">installing-xumm.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to install Xaman</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="/broken/pages/q67kkrQVvCytqhJukFOK">Broken link</a></td></tr></tbody></table>
 
 When you get to the end of the installation, you will be presented with this screen:
 
@@ -51,7 +51,7 @@ Next you can choose the appropriate account secret for your XRP Ledger account t
 
 If you need assistance on how to do this, select one of these three articles for instructions:
 
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-a-mnemonic.md">...with-a-mnemonic.md</a></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="/broken/pages/TKbSkrUGrBvD2fguFpc6">Broken link</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="/broken/pages/cV8qUxvU7R0cQzbHDPVn">Broken link</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="/broken/pages/S4nEQvzgbjW6XQ5pkzCD">Broken link</a></td></tr></tbody></table>
 
 ### Frequently asked questions
 
@@ -71,7 +71,7 @@ If you have Xaman cards, you will need to re-import them into Xaman on your new 
 
 This article explains how to do this:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="/broken/pages/ynFD0GKqN8DWqB0hCzXB">Broken link</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
 ### My account was created during the Casino Coin swap. How do I access it?
 
@@ -95,6 +95,6 @@ The account secret that you entered into Xaman belongs to the XRPL account that 
 
 Please refer to this article for more information:
 
-{% content-ref url="../getting-started-with-xaman/ive-lost-my-account-secret.md" %}
-[ive-lost-my-account-secret.md](../getting-started-with-xaman/ive-lost-my-account-secret.md)
+{% content-ref url="/broken/pages/yHYOD2T5rFuG7XJpiDhQ" %}
+[Broken link](/broken/pages/yHYOD2T5rFuG7XJpiDhQ)
 {% endcontent-ref %}

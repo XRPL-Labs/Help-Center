@@ -38,7 +38,7 @@ The Account Worth xApp **includes** the base reserve and owner reserves when cal
 
 Account Worth shows the value of each asset based on the current liquidity on the DEX. The DEX Trade xApp shows the last traded price. (It does not calculate the actual worth of token.)
 
-In other words, [slippage](../../getting-started-with-xaman/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md) and [liquidity](../../getting-started-with-xaman/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md) have been taken into account with Account Worth but not with the DEX Trade xApp.
+In other words, [slippage](/broken/pages/HLeyGHkq3Ixcv8tfEM85) and [liquidity](/broken/pages/HLeyGHkq3Ixcv8tfEM85) have been taken into account with Account Worth but not with the DEX Trade xApp.
 
 ### **Why is there a difference been what Account Worth shows and what my exchange shows?**
 

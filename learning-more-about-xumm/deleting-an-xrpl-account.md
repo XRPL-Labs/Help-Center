@@ -42,7 +42,7 @@ To delete an XRPL account, you need to follow the instructions above.
 {% hint style="warning" %}
 If your XRPL account was removed from Xaman in error, it can be imported back into Xaman using the account secret (Secret numbers / Family Seed / Mnemonic) by following the instructions here:\
 \
-[**Importing your account into Xaman**](../getting-started-with-xaman/importing-your-account/)
+[**Importing your account into Xaman**](/broken/pages/5BtKfbOhGYDqyiQjU93Z)
 {% endhint %}
 
 #### **I deleted my XRPL account and sent the funds to my exchange account**
