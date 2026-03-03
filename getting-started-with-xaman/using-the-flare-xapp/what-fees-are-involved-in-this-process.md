@@ -50,12 +50,16 @@ On any yield that is earned by the vault, Upshift automatically takes 10%.
 
 **Summary**
 
-| **Fee Type**       | **Provider** | **Amount**  | **Timing** | **Notes**                                               |
-| ------------------ | ------------ | ----------- | ---------- | ------------------------------------------------------- |
-| Service Fee        | Xaman        | 0.5%        | Deposit    | Calculated on the total deposit amount.                 |
-| Smart Contract Fee | Flare        | 2 XRP       | One-time   | Flat fee to deploy your Flare Smart Account (FSA).      |
-| Minting Fee        | Flare        | 0.11%       | Deposit    | Calculated _after_ the Xaman Service Fee is deducted.   |
-| Management Fee     | Upshift      | 1% (Annual) | Ongoing    | Deducted from the vault on a daily basis.               |
-| Performance Fee    | Upshift      | 10%         | Ongoing    | Only taken from the _yield earned_ by the vault.        |
-| Redemption Fee     | Flare        | 0.2%        | Withdrawal | Automatically charged when converting FXRP back to XRP. |
+<table data-header-hidden><thead><tr><th width="181.4296875"></th><th width="106.31640625"></th><th width="122.375"></th><th width="119.52734375"></th><th></th></tr></thead><tbody><tr><td><strong>Fee Type</strong></td><td><strong>Provider</strong></td><td><strong>Amount</strong></td><td><strong>Timing</strong></td><td><strong>Notes</strong></td></tr><tr><td>Service Fee</td><td>Xaman</td><td>0.5%</td><td>Deposit</td><td>Calculated on the total deposit amount.</td></tr><tr><td>Smart Contract Fee</td><td>Flare</td><td>2 XRP</td><td>One-time</td><td>Flat fee to deploy your Flare Smart Account (FSA).</td></tr><tr><td>Minting Fee</td><td>Flare</td><td>0.11%</td><td>Deposit</td><td>Calculated <em>after</em> the Xaman Service Fee is deducted.</td></tr><tr><td>Management Fee</td><td>Upshift</td><td>1% (Annual)</td><td>Ongoing</td><td>Deducted from the vault on a daily basis.</td></tr><tr><td>Performance Fee</td><td>Upshift</td><td>10%</td><td>Ongoing</td><td>Only taken from the <em>yield earned</em> by the vault.</td></tr><tr><td>Redemption Fee</td><td>Flare</td><td>0.2%</td><td>Withdrawal</td><td>Automatically charged when converting FXRP back to XRP.</td></tr></tbody></table>
 
+***
+
+### **Important Disclaimer**
+
+### **Important Disclaimer**
+
+**Flare Smart Accounts, FAssets, and any associated vault products are developed, operated, and managed by Flare and their respective third-party partners. They are not developed, operated, or controlled by XRPL Labs or Xaman.** Xaman serves solely as a signing interface for XRPL transactions.
+
+While the Flare Smart Accounts architecture is designed to maintain user custody through XRPL key governance, interacting with DeFi protocols and vault strategies still carries inherent risks including but not limited to: smart contract vulnerabilities, cross-chain execution failures, counterparty exposure at the protocol level, liquidity constraints, and market volatility. Self-custody of keys does not eliminate protocol-level risk. Estimated returns are not guarantees of future results.
+
+**Do your own research.** Before interacting with any third-party product through an xApp, understand how it works, what the risks are, where your assets go, and what you are agreeing to. Xaman does not endorse, guarantee, or take responsibility for the performance, security, or outcomes of any third-party xApp, protocol, or platform.
