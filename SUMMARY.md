@@ -7,7 +7,7 @@
 * [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 * [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
-* [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/README.md)
+* [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp.md)
   * [Overview](getting-started-with-xaman/using-the-flare-xapp/overview.md)
   * [What fees are involved in this process?](getting-started-with-xaman/using-the-flare-xapp/what-fees-are-involved-in-this-process.md)
   * [Estimated "break even" time](getting-started-with-xaman/using-the-flare-xapp/estimated-break-even-time.md)
