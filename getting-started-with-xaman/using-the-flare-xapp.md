@@ -32,19 +32,6 @@ Upshift manages the vault's strategies, deploying the FXRP into various decentra
 
 For more technical details on the underlying infrastructure, you can visit: [flare.network/products/flare-smart-accounts](https://flare.network/products/flare-smart-accounts)
 
-### How does the withdraw process work?
-
-When you want to stop earning yield, you first request a withdrawal from the earnXRP Vault.
-
-* What happens: Your "receipt tokens" (earnXRP) are burned, and your assets are pulled out of the various DeFi protocols.
-* Note on Timing: Because the vault has to unwind positions from lending and liquidity markets, there is typically a 72-hour processing period before your FXRP is released back to your Flare Smart Account.
-
-Once your FXRP is sitting in your Flare Smart Account, the final step is to "redeem" it.
-
-* What happens: The xApp triggers the FAsset system to burn the FXRP on the Flare Network. This simultaneously signals the Flare-controlled account on the XRPL (`rGWGTbxqmpLJ3TYGjoCFDqY9mPQ4T1GTGb`) to release the original XRP (plus your earnings) directly back to your Xaman wallet address.
-
-
-
 ### What fees are involved in this process?
 
 Since we are dealing with a bridge between two different blockchains (XRPL and Flare), the fees are split between network costs, service fees, and management.
