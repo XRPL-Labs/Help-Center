@@ -22,11 +22,15 @@ This tab shows the most recent **1000** transactions that were written to the XR
 
 <figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-The **Planned** tab displays future events which may happen on the XRP Ledger. In the screenshot below we can see a DEX offer which is waiting to be filled on the XRPL DEX, an open offer to sell an NFT and an open Xaman Support ticket which is waiting for a reply.
+The **Planned** tab displays future events which may happen on the XRP Ledger. In the screenshot below we can see a DEX offer which is waiting to be filled on the XRPL DEX and two open offers that people have made on your NFTs. (If you ever create a ticket with Xaman Support, it will appear on this tab.)
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-The **Requests** tab displays sign requests such payment requests and NFT offers. In the image below we can see several offers that have been received for NFTs
+The **Requests** tab displays current transactions that you can act on. In the image below we can see:
+
+* a check that someone has sent us which we can either cash or cancel
+* a xApp that requires our attention. (In this case, it wants us to complete the KYC process.)
+* two offers that people have made for two different NFTs we have for sale.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
