@@ -5,20 +5,18 @@ description: How to upgrade your account to a stronger encryption algorithm
 # Upgrading your encryption
 
 {% hint style="info" %}
-Before we continue, we want to assure you that the whichever version of Xumm that you are currently using, it is still **very** **safe**. Upgrading your accounts using our new algorithm simply increases the security from very secure to extremely secure. This process is completely optional and while we recommend that you go through the process, it is not required.&#x20;
-
-
+Before we continue, we want to assure you that the whichever version of Xumm that you are currently using, it is still **very** **safe**. Upgrading your accounts using our new algorithm simply increases the security from very secure to extremely secure. This process is completely optional and while we recommend that you go through the process, it is not required.
 {% endhint %}
 
 ### A Brief background
 
-All versions of Xumm prior to v2.4 use the AES 256-CBC encryption algorithm to encrypt your secret keys on your phone. It is the same algorithm currently used by banks, large businesses and even governments all over the world and is extremely secure.  The AES 256 is also the standard encryption algorithm in the crypto industry and is widely used however...
+All versions of Xumm prior to v2.4 use the AES 256-CBC encryption algorithm to encrypt your secret keys on your phone. It is the same algorithm currently used by banks, large businesses and even governments all over the world and is extremely secure. The AES 256 is also the standard encryption algorithm in the crypto industry and is widely used however...
 
 ### Pushing the envelope...
 
 While the AES 256-CBC (Advanced Encryption Standard) still remains the encryption algorithm of choice for governments and financial institutions, it provides only confidentiality (encryption). AES-256-GCM is "state of the art", it's faster and provides both confidentiality and built-in authentication (integrity check). Updating Xumm (rebranded to Xaman) to this enhanced standard just extends our lead in the crypto space and to be honest, Xaman users have come to expect nothing less than the best. If there was a better way to encrypt your private keys, we would have already implemented it.
 
-### How to upgrade &#x20;
+### How to upgrade
 
 We have made the upgrade process super easy, so if you are ready to upgrade your accounts here are the steps:
 
@@ -26,7 +24,7 @@ Launch Xumm and press **Settings** then **Accounts**:
 
 <figure><img src="../../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
 
-Press the ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) button. Xaman will list your accounts that are eligible to be upgraded.&#x20;
+Press the ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) button. Xaman will list your accounts that are eligible to be upgraded.
 
 <figure><img src="../../.gitbook/assets/Encryption - 2.png" alt=""><figcaption></figcaption></figure>
 

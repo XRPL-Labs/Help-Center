@@ -8,8 +8,6 @@ description: Activating an account from Bitrue
 
 This article provides instructions on how to send XAH coins to your Xahau account managed by Xaman.
 
-
-
 1\) Go to the [Bitrue website](https://www.bitrue.com/), sign into your Bitrue account and choose the **Assets** menu then **Spot**.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -28,7 +26,7 @@ In the _Amount_ field, enter the amount you would like to send.
 
 In the _PIN code_ field, enter your **PIN** (if available)
 
-Press the the **Withdraw XAH** button.&#x20;
+Press the the **Withdraw XAH** button.
 
 <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,6 +36,6 @@ Press the the **Withdraw XAH** button.&#x20;
 
 5\) Review your transaction and press the **Confirm** button.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note: Processing times can vary depending on how fast Bitrue processes your request on their system.

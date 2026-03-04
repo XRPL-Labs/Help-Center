@@ -10,7 +10,7 @@ For years, GateHub has been a strong member of the XRP Ledger (XRPL) community a
 
 ### GateHub's issued stable coins
 
-GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency. They have also issued over a dozen different tokens on the XRPL, including XAH, USDT, USDC, GALA, Flare, SGB, EUR, USD and GBP. All of their issued currencies will be honored by them as the actual asset they represent.  The on/off-ramp feature requires the use of GateHub's issued coins.
+GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency. They have also issued over a dozen different tokens on the XRPL, including XAH, USDT, USDC, GALA, Flare, SGB, EUR, USD and GBP. All of their issued currencies will be honored by them as the actual asset they represent. The on/off-ramp feature requires the use of GateHub's issued coins.
 
 Check out this article for more information:
 
@@ -18,7 +18,7 @@ Check out this article for more information:
 
 ### Getting started - Open an account with GateHub
 
-1\) Open an account at GateHub and activate it with 10 XRP.  &#x20;
+1\) Open an account at GateHub and activate it with 10 XRP.
 
 {% embed url="https://gatehub.net/" %}
 
@@ -30,11 +30,11 @@ Part of the process of opening an account includes going through the KYC process
 
 1\) Launch Xaman and tap the GateHub issued currency you would like to send to your bank account. (In this example, we are sending GH-EUR.)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Tap the **Withdraw Euro** button.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Enter your contact information and the appropriate information about your bank, then press the **Continue** button.
 
@@ -42,11 +42,11 @@ Part of the process of opening an account includes going through the KYC process
 
 Note: The information you enter into this screen will be saved for future use. The Contact Name is the name you are going to give this information. Most people would call it, "Bank of America Account" or "Deutsche Bank Account" or "Whatever bank you are going to send your fiat to account".
 
-4\) Enter the amount you would like to send to your bank.  Press **Continue** when done.
+4\) Enter the amount you would like to send to your bank. Press **Continue** when done.
 
 (In our example, we are sending 10 Euro.)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5\) Review your transaction to make sure it is correct. Press **Continue** when done.
 
@@ -54,16 +54,16 @@ Note: The information you enter into this screen will be saved for future use. T
 
 6\) Review the transaction again and sign it with Xaman.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Frequently Asked Questions
 
 #### How long does it take for me to get my money?
 
-It could take anywhere from 1 to 3 business days for your funds to arrive in your bank account.&#x20;
+It could take anywhere from 1 to 3 business days for your funds to arrive in your bank account.
 
 {% hint style="info" %}
-Ultimately this depends on how long GateHub takes to process the transaction, and how long your bank takes to process it on their end. &#x20;
+Ultimately this depends on how long GateHub takes to process the transaction, and how long your bank takes to process it on their end.
 {% endhint %}
 
 #### Is there anyway I can track the progress of the transfer?
@@ -75,6 +75,3 @@ Unfortunately there is no way to do this. Xaman does not receive any information
 GateHub support can be reached [here](https://support.gatehub.net/hc/en-us/requests/new) if you have any questions about your transfer or:
 
 {% embed url="https://support.gatehub.net/hc/en-us/requests/new" %}
-
-
-

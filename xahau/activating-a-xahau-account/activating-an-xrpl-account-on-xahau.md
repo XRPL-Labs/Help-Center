@@ -6,13 +6,13 @@ description: How to activate an existing XRPL account on the Xahau network
 
 ### Overview
 
-&#x20;This article explains how to activate an existing XRPL account on the Xahau network.&#x20;
+This article explains how to activate an existing XRPL account on the Xahau network.
 
 ### How it works
 
 In order to access an account on the XRP Ledger, you must know the account secret (private keys) for that account. Xaman (formerly Xumm) is an application that helps manage your account secret(s) and allows you to access your XRPL account. This processes authorizes Xaman to use the account secret for your XRPL account for a duplicate account on Xahau.
 
-### Getting started...&#x20;
+### Getting started...
 
 The following process has two requirements:
 
@@ -27,7 +27,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 2\) Launch the Xahau Import xApp.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) You must accept the _Terms and Conditions_ and the _Privacy Policy_ before you can continue. Press the **Next** button when ready.
 
@@ -43,11 +43,11 @@ As long as both of these requirements are met, you can follow these instructions
 
 6\) Sign the transaction.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7\) Press **Next** to continue.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8\) Press the three dots <img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> at the top of the screen.
 
@@ -59,7 +59,7 @@ As long as both of these requirements are met, you can follow these instructions
 
 10\) Then tap the **Xahau** network.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 11\) Press the **Import Account** button.
 

@@ -12,7 +12,7 @@ If you're reading this, you probably want to learn all about the new features it
 
 {% embed url="https://blog.xumm.app/2.8.0" %}
 
-This article discusses how to upgrade to the latest version so you can begin exploring all great features it contains.&#x20;
+This article discusses how to upgrade to the latest version so you can begin exploring all great features it contains.
 
 ### How to update your device to Xaman v2.8.2
 
@@ -23,7 +23,7 @@ As with all versions of Xaman the app is only available from two sources:
 If you don't already have Xaman on your phone, you can simply download and install the app by selecting one of the above links.
 
 {% hint style="info" %}
-For those who already have a version of Xaman installed, you will get the option to upgrade the next time you launch the application.&#x20;
+For those who already have a version of Xaman installed, you will get the option to upgrade the next time you launch the application.
 {% endhint %}
 
 For Apple users, you should see a screen like this:
@@ -32,11 +32,9 @@ For Apple users, you should see a screen like this:
 
 For Android users, you should see something like this:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-In both cases, simply press the **Update** button and Xaman will download and update you to the latest version.&#x20;
-
-
+In both cases, simply press the **Update** button and Xaman will download and update you to the latest version.
 
 ### Frequently asked questions
 
@@ -50,7 +48,7 @@ Updating is completely optional, but it is important to understand that the late
 
 #### What versions of Android and iOS do I need for Xaman v2.8.2?
 
-⦁ Android v7 and up&#x20;
+⦁ Android v7 and up
 
 ⦁ iOS v13 or higher and an iPhone 7 or newer
 
@@ -70,4 +68,4 @@ The upgrade has not frozen. It just means that the database migration is still o
 
 Please keep the Xaman app open until the migration has completed.<br>
 
-The migration seed will depend on the device's resources and the network bandwidth. Older and/or slower phones on slower networks may take a while to update.&#x20;
+The migration seed will depend on the device's resources and the network bandwidth. Older and/or slower phones on slower networks may take a while to update.
