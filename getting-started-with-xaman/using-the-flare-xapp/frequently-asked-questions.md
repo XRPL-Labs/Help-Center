@@ -37,3 +37,7 @@ Our xApp allows you to easily participate in this program without worrying to ab
 #### What is the worst case scenario?
 
 The primary risks are **Smart Contract Risk** (a bug in the code) or a massive, unprecedented "Black Swan" event on the Flare Network that causes the FAsset collateral system to fail.
+
+#### I've noticed that my balance of FXRP is slowing declining. Why is that happening?
+
+Upshift Management fees are taken from the vault **daily**. These fees are reflected in the value of your investment.
