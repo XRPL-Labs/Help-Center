@@ -5,7 +5,7 @@ description: All about the Stably xApp
 # Stably xApp
 
 {% hint style="warning" %}
-### Update
+#### Update
 
 Due to the insolvency of their liquidity provider. (Prime Trust)[_,_](https://fid.nv.gov/) Stably is is no longer able to offer their deposit/withdrawal services in the United States, and as such, the Stably xApp will be removed from Xumm.
 
@@ -14,15 +14,13 @@ For more information about this, please refer to the following link:
 {% embed url="https://support.stably.io/en/articles/8039846-prime-trust-halting-deposit-withdrawal" %}
 {% endhint %}
 
-
-
 ### Background
 
-On September 22, 2022, Stably issued 10 million USD tokens on the XRP Ledger.&#x20;
+On September 22, 2022, Stably issued 10 million USD tokens on the XRP Ledger.
 
 Issuing account: rEn9eRkX25wfGPLysUMAvZ84jAzFNpT5fL
 
-The [**Stably On/Off-ramp**](https://xumm.app/detect/xapp:stably.ramp) service allows users located in the United States, to purchase some of these USD tokens directly from Stably via their xApp in Xumm.&#x20;
+The [**Stably On/Off-ramp**](https://xumm.app/detect/xapp:stably.ramp) service allows users located in the United States, to purchase some of these USD tokens directly from Stably via their xApp in Xumm.
 
 ### Frequently Asked Questions
 
@@ -48,7 +46,7 @@ Yes, but you can not purchase their token from them for XRP. You will need to pl
 
 #### How do I contact Stably for more information or if I have more questions about their service?
 
-To contact Stably Customer Service, just launch the Stably xApp and press the hamburger menu,&#x20;
+To contact Stably Customer Service, just launch the Stably xApp and press the hamburger menu,
 
 <figure><img src="../../.gitbook/assets/Stably -1.png" alt=""><figcaption></figcaption></figure>
 
