@@ -24,7 +24,7 @@ Launch Xumm and press **Settings** then **Accounts**:
 
 <figure><img src="../../.gitbook/assets/Encryption - 1.png" alt=""><figcaption></figcaption></figure>
 
-Press the ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) button. Xaman will list your accounts that are eligible to be upgraded.
+Press the ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) button. Xaman will list your accounts that are eligible to be upgraded.
 
 <figure><img src="../../.gitbook/assets/Encryption - 2.png" alt=""><figcaption></figcaption></figure>
 
