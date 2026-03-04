@@ -28,9 +28,7 @@ The **Planned** tab displays future events which may happen on the XRP Ledger. I
 
 The **Requests** tab displays sign requests such payment requests and NFT offers. In the image below we can see several offers that have been received for NFTs
 
-
-
-<figure><img src="../../.gitbook/assets/Events tab - Requests.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The **Owned** tab displays&#x20;
 
