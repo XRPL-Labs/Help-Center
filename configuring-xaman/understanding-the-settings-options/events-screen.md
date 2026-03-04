@@ -10,9 +10,9 @@ The Events list Xaman is used to display historical information about your XRP L
 
 The **Events** button is one of the main five buttons on the Xaman home screen. Simply tap the Events button to access this feature.
 
-<br>
+<figure><img src="../../.gitbook/assets/Events - 6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Events 2 (1).png" alt=""><figcaption></figcaption></figure>
+
 
 ### How it looks
 
