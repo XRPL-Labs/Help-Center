@@ -34,7 +34,9 @@ The **Requests** tab displays current transactions that you can act on. In the i
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-The **Owned** tab displays&#x20;
+The **Owned** tab displays MPToken Issuances, MPTokens, Permissioned Domains, Deposit Preauthorizations, Vaults, Loan Broker and Loans.
+
+
 
 ### Frequently asked questions
 
