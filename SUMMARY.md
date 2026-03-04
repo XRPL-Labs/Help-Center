@@ -11,7 +11,8 @@
   * [Overview](getting-started-with-xaman/using-the-flare-xapp/overview.md)
   * [What fees are involved in this process?](getting-started-with-xaman/using-the-flare-xapp/what-fees-are-involved-in-this-process.md)
   * [Estimated "break even" time](getting-started-with-xaman/using-the-flare-xapp/estimated-break-even-time.md)
-  * [How the xApp works](getting-started-with-xaman/using-the-flare-xapp/how-the-xapp-works.md)
+  * [How to deposit XRP](getting-started-with-xaman/using-the-flare-xapp/how-to-deposit-xrp.md)
+  * [How to withdraw XRP](getting-started-with-xaman/using-the-flare-xapp/how-to-withdraw-xrp.md)
   * [Frequently Asked Questions](getting-started-with-xaman/using-the-flare-xapp/frequently-asked-questions.md)
 
 ## Learning more about Xaman
