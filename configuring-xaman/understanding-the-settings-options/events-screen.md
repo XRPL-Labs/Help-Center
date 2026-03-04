@@ -24,7 +24,11 @@ The **Planned** tab displays future events which may happen on the XRP Ledger. I
 
 <figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-The **Requests** tab displays sign requests such payment requests and NFT offers. In the image below we can see several offers that have been received for NFTs
+The **Requests** tab displays current transactions that you can act on. In the image below we can see:
+
+* a check that someone has sent us which we can either cash or cancel
+* a xApp that requires our attention. (In this case, it wants us to complete the KYC process.)
+* two offers that people have made for two different NFTs we have for sale.
 
 <figure><img src="../../.gitbook/assets/Events tab - Requests.png" alt=""><figcaption></figcaption></figure>
 
