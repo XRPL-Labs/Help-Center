@@ -9,7 +9,7 @@
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/README.md)
   * [Overview](getting-started-with-xaman/using-the-flare-xapp/overview.md)
-  * [Page 2](getting-started-with-xaman/using-the-flare-xapp/page-2.md)
+  * [Fees](getting-started-with-xaman/using-the-flare-xapp/fees.md)
   * [How to Deposit XRP](getting-started-with-xaman/using-the-flare-xapp/how-to-deposit-xrp.md)
   * [Page 3](getting-started-with-xaman/using-the-flare-xapp/page-3.md)
   * [Frequently Asked Questions](getting-started-with-xaman/using-the-flare-xapp/page-1.md)
