@@ -18,7 +18,7 @@
 
 6\) Sign the transaction.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 7\)&#x20;
 
