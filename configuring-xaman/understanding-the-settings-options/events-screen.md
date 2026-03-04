@@ -1,18 +1,16 @@
 ---
-description: Understanding the Events screen in Xumm
+description: Understanding the Events screen in Xaman
 ---
 
 # Events screen
 
-The Events option in Xumm is used to display historical information about your XRP Ledger account.
+The Events option in Xaman is used to display historical information about your XRP Ledger account.
 
 ### How to find it
 
-The **Events** button is one of the main five buttons on the Xumm home screen. Simply tap the Events button to access this feature.
+The **Events** button is one of the main five buttons on the Xaman home screen. Simply tap the Events button to access this feature.
 
-<br>
-
-<figure><img src="../../.gitbook/assets/Events 2 (1).png" alt=""><figcaption></figcaption></figure>
+<p align="center"><img src="../../.gitbook/assets/image (94).png" alt=""><br></p>
 
 ### How it looks
 
@@ -28,11 +26,7 @@ The **Planned** tab displays future events which may happen on the XRP Ledger. I
 
 The **Requests** tab displays sign requests such payment requests and NFT offers. In the image below we can see several offers that have been received for NFTs
 
-
-
 <figure><img src="../../.gitbook/assets/Events tab - Requests.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Frequently asked questions
 
@@ -42,7 +36,7 @@ In some cases you might notice a red dot beside the Events button.
 
 <figure><img src="../../.gitbook/assets/Events button with bubble 2.png" alt=""><figcaption></figcaption></figure>
 
-The red dot means that there is an event under the **Requests** ot the **All** tab that requires your attention.&#x20;
+The red dot means that there is an event under the **Requests** ot the **All** tab that requires your attention.
 
 In the following example, you can see there is a Sign Request waiting to be signed.
 
