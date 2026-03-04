@@ -12,11 +12,11 @@
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-5\) Decide how much XRP you would like to invest, then enter the amount into the appropriate field then press the **Request deposit** button.&#x20;
+5\) Decide how much XRP you would like to invest, then enter the amount into the appropriate field and press the **Request deposit** button.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
-
+6\)&#x20;
 
 
 
