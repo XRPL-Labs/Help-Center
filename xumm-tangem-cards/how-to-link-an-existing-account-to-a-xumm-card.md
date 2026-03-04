@@ -38,8 +38,8 @@ The existing account must be imported into Xaman with **Full access** and you mu
 
 Import your card into Xaman by following these instructions:
 
-{% content-ref url="/broken/pages/ynFD0GKqN8DWqB0hCzXB" %}
-[Broken link](/broken/pages/ynFD0GKqN8DWqB0hCzXB)
+{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
 #### Step 3: Copy the r-address for your card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
@@ -76,8 +76,8 @@ Sign the transaction in Xumm and you're all done!&#x20;
 
 Follow these instructions to do this:
 
-{% content-ref url="/broken/pages/ynFD0GKqN8DWqB0hCzXB" %}
-[Broken link](/broken/pages/ynFD0GKqN8DWqB0hCzXB)
+{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
 #### Step 2: Activate your new card account with at least 10 XRP <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
@@ -86,8 +86,8 @@ In order to hold assets in a XRP Ledger account, it must first be activated with
 
 This article explains how to activate an XRPL account:
 
-{% content-ref url="/broken/pages/qtAnBSRJ7bJjsxiiFv4a" %}
-[Broken link](/broken/pages/qtAnBSRJ7bJjsxiiFv4a)
+{% content-ref url="../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/" %}
+[how-to-activate-a-new-xrpl-account](../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/)
 {% endcontent-ref %}
 
 #### Step 3: Copy the r-address for your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>

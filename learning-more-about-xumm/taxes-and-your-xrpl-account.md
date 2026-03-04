@@ -6,7 +6,7 @@ description: Exporting your XRP Ledger or Xahau account for tax purposes
 
 ### **Introduction**
 
-Xaman is an [self-custodial wallet](/broken/pages/A73YKD6nMYcWja7qmQxF) which allows you to interact with the XRP Ledger and the Xahau network. Depending on where you live, some of these interactions can incur tax obligations.
+Xaman is an [self-custodial wallet](../getting-started-with-xaman/what-is-xumm/understanding-self-custody.md) which allows you to interact with the XRP Ledger and the Xahau network. Depending on where you live, some of these interactions can incur tax obligations.
 
 It is your responsibility to investigate and settle these tax obligations with your local government.
 
