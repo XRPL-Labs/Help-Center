@@ -18,13 +18,11 @@ Simply tap this link: [**XAH Teleport**](https://xumm.app/detect/xapp:xahau.tele
 
 ### **How do I launch it?**
 
-You can launch the XAH Teleport xApp by pressing the _xApps_ button at the bottom of the Xaman screen:&#x20;
+You can launch the XAH Teleport xApp by pressing the _xApps_ button at the bottom of the Xaman screen:
 
 <figure><img src="../../.gitbook/assets/xApps Button.png" alt=""><figcaption></figcaption></figure>
 
 select the \*\*\***All**\*\*\* tab then choose _**XAH Teleport**_:
-
-
 
 <figure><img src="../../.gitbook/assets/XAH Teleport - 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,15 +36,13 @@ The first thing you need to decide is which way you would like to send your XAH 
 
 You can press the '**Invert direction**' button to switch between the XRP Ledger and the Xahau network.
 
-
-
 <figure><img src="../../.gitbook/assets/XAH Teleport - 4.png" alt=""><figcaption></figcaption></figure>
 
 You'll know which way the tokens/coins are moving by looking at the following areas:
 
 <figure><img src="../../.gitbook/assets/XAH Teleport - 5.png" alt=""><figcaption></figcaption></figure>
 
-The next thing to decide is how much you would like to send.&#x20;
+The next thing to decide is how much you would like to send.
 
 You have three options:
 
@@ -77,11 +73,11 @@ No. You can only send XAH from your account to the same r-address on the other n
 \
 For example:
 
-On the XRP Ledger you have an account:&#x20;
+On the XRP Ledger you have an account:
 
 * rStargateYHGUdFGeusi34tr
 
-&#x20;and on the Xahau network you have three accounts:
+and on the Xahau network you have three accounts:
 
 * rStargateYHGUdFGeusi34tr
 * rXahauf8jUF076HGhhtyf45
@@ -97,7 +93,7 @@ ie. rStargateYHGUdFGeusi34tr on the the XRP Ledger to rStargateYHGUdFGeusi34tr o
 
 #### What if I encounter this screen?
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The, "The payload is not available on the network you are connect with" message means that you are not connected to the correct network.
 
@@ -114,6 +110,3 @@ No. Your Xahau must be activated prior to using the XAH Teleport xApp.
 You can activate your Xahau for free by following the instructions in this article:
 
 {% embed url="https://help.xumm.app/app/xahau/activating-a-xahau-account" %}
-
-
-

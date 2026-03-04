@@ -22,33 +22,25 @@ Paying with XRP is by far the better option. It allows you to pay instantly, get
 
 ### Paying with XRP
 
-1\) Click on the following link:  &#x20;
+1\) Click on the following link:
 
 {% embed url="https://xrpl-labs.com/pro/" %}
 
 and select '**Get Pro now!**':
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-2a) If you are on a desktop computer, you can scan the QR code with Xaman:&#x20;
+2a) If you are on a desktop computer, you can scan the QR code with Xaman:
 
 <figure><img src="../.gitbook/assets/Pro QR Code.png" alt=""><figcaption></figcaption></figure>
 
-
-
 Then sign the transaction with Xaman:
-
-
 
 <figure><img src="../.gitbook/assets/review transaction.png" alt=""><figcaption></figcaption></figure>
 
 2b) If you are on your phone, sign into Xaman and sign the transaction.
 
-
-
 <figure><img src="../.gitbook/assets/review transaction.png" alt=""><figcaption></figcaption></figure>
-
-
 
 3\) You should be forwarded to this screen after signing:
 
@@ -59,19 +51,17 @@ Then sign the transaction with Xaman:
 
 ### **Paying with a credit card (or XRP)**
 
-If you would like to pay for your Xaman Pro subscription using a credit card, you will need to go through our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order). The Get cards xApp takes you through the process of ordering our [Xaman cards](../xumm-tangem-cards/xumm-tangem-cards.md), after which you will receive an email link  granting you access to Xumm Pro.
+If you would like to pay for your Xaman Pro subscription using a credit card, you will need to go through our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order). The Get cards xApp takes you through the process of ordering our [Xaman cards](../xumm-tangem-cards/xumm-tangem-cards.md), after which you will receive an email link granting you access to Xumm Pro.
 
 1\) Launch Xaman, then press the **xApps** button (on the bottom of the main screen) then choose **Get cards**.
 
-
-
 <figure><img src="../.gitbook/assets/Get cards 1.png" alt=""><figcaption></figcaption></figure>
 
-2\) Press the **Order cards** button...&#x20;
+2\) Press the **Order cards** button...
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3\) Chose the number of cards you would like to receive along with your Pro subscription. Most people go with the **2x Card** option, but you choose 2,3,4 or 5 depending on your needs.&#x20;
+3\) Chose the number of cards you would like to receive along with your Pro subscription. Most people go with the **2x Card** option, but you choose 2,3,4 or 5 depending on your needs.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -103,7 +93,7 @@ After you fill out the form, press the **Next** button.\
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-9\) You are all set!  Please continue reading to our Frequently asked questions section for more information.
+9\) You are all set! Please continue reading to our Frequently asked questions section for more information.
 
 ### Frequently asked questions
 

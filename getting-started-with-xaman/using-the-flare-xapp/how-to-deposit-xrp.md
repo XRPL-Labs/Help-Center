@@ -1,3 +1,7 @@
+---
+description: How to use the Flare xApp
+---
+
 # How to Deposit XRP
 
 1\) Launch Xaman
@@ -6,7 +10,7 @@
 
 3\) Tap the **Flare XRPFi Yield** xApp.
 
-<figure><img src="/broken/files/dbSIuZwV6y4FKSqRWHf8" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 4\) You should see the following screen:
 
