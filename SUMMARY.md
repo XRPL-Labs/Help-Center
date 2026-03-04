@@ -8,6 +8,7 @@
 * [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp.md)
+* [How to Deposit XRP](getting-started-with-xaman/how-to-deposit-xrp.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
 * [How to create a USDC Trust Line](getting-started-with-xaman/how-to-create-a-usdc-trust-line.md)
 * [How to get the Midnight Glacier Airdrop](getting-started-with-xaman/how-to-get-the-midnight-glacier-airdrop.md)
