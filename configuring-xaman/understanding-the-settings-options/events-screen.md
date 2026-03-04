@@ -30,7 +30,7 @@ The **Requests** tab displays current transactions that you can act on. In the i
 * a xApp that requires our attention. (In this case, it wants us to complete the KYC process.)
 * two offers that people have made for two different NFTs we have for sale.
 
-<figure><img src="../../.gitbook/assets/Events tab - Requests.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 ### Frequently asked questions
 
