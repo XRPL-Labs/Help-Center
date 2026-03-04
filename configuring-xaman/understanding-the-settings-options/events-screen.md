@@ -20,7 +20,7 @@ The **All** tab displays the historical events for your XRPL account.
 
 This tab shows the most recent **1000** transactions that were written to the XRP Ledger.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Planned** tab displays future events which may happen on the XRP Ledger. In the screenshot below we can see a DEX offer which is waiting to be filled on the XRPL DEX and two open offers that people have made on your NFTs. (If you ever create a ticket with Xaman Support, it will appear on this tab.)
 
@@ -32,7 +32,7 @@ The **Requests** tab displays current transactions that you can act on. In the i
 * a xApp that requires our attention. (In this case, it wants us to complete the KYC process.)
 * two offers that people have made for two different NFTs we have for sale.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Owned** tab displays MPToken Issuances, MPTokens, Permissioned Domains, Deposit Preauthorizations, Vaults, Loan Broker and Loans.
 
@@ -44,7 +44,7 @@ The **Owned** tab displays MPToken Issuances, MPTokens, Permissioned Domains, De
 
 In some cases you might notice a red dot beside the Events button.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 The red dot means that there is an event under the **Requests** or the **All** tab that requires your attention.&#x20;
 

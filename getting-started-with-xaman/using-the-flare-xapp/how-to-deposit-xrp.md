@@ -16,7 +16,9 @@
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
-6\)&#x20;
+6\) Sign the transaction.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+7\)&#x20;
 
