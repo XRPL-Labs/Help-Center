@@ -38,7 +38,8 @@ description: How to use the Flare xApp
 
 ### Frequently Asked Questions
 
+Why can't I deposit XRP into the fund?\
+<br>
 
-
-
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
