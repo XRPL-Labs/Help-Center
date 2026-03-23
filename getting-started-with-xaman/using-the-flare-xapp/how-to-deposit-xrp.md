@@ -20,8 +20,10 @@ description: How to use the Flare xApp
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-6\) Sign the transaction.
+6\) Sign the transaction. (This will send your XRP to the Flare account and create FXRP on the Flare network.)
 
 <figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
-7\)&#x20;
+7\) Press the **Deposit Now** button to authorize Flare to deposit your FXRP into the Flare vault on the Flare network.)
+
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
