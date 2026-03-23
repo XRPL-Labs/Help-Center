@@ -22,8 +22,6 @@ description: How to use the Flare xApp
 
 6\) Sign the transaction.
 
-<figure><img src="/broken/files/0SDvJdMB7YHcf2fsKczY" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="/broken/files/F7GULwpL3WGVHv7RqSf3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 7\)&#x20;
