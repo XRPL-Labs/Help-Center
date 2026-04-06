@@ -16,6 +16,7 @@ Here are several ways you can export your XRP Ledger account transactions into .
 \
 &#x20;[https://transaction-exporter.xrpl-labs.com](https://transaction-exporter.xrpl-labs.com/)
 
+\
 2\) So does this one: [https://gatehub.net/explorer](https://gatehub.net/explorer)
 
 Enter your r-address, select the **Transactions** option, then **Export CSV**.
@@ -32,9 +33,7 @@ Enter your r-address, select the **Transactions** option, then **Export CSV**.
 
 ### **How do I get a list of transactions on Xahau so I can file my taxes?**
 
-Here is one way you can export your Xahau account transactions into .CSV format.
-
-[https://xahau-transaction-exporter.xrpl-labs.com/](https://xahau-transaction-exporter.xrpl-labs.com/)
+All of the above sites also support the Xahau network. Simply switch from the XRP Ledger to the Xahau network and repeat the same steps you would go through on the XRPL.
 
 ### **What if my tax software does not support .CSV files?**
 
