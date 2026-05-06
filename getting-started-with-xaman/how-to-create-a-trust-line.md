@@ -8,17 +8,19 @@ description: How to create a Trust Line on the XRP Ledger
 
 2\) Tap the  _**+ Add a token**_ button.
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 
+3\) Chose one of the token categories.\
+\
+**Stable** - Stable coins
 
-Xaman will display a screen that looks like this:
+**Popular** - Popular coins from within the community
 
-<figure><img src="../.gitbook/assets/Short List screen - 1.png" alt=""><figcaption></figcaption></figure>
+**Ecosystem** - A complete list of tokens in the community.
+
+![](../.gitbook/assets/image.png)
 
 From here you can simply select an issuer, for example, **Gatehub**, then choose which token you would like to create a Trust line for, in this case, we'll choose the **Euro**, then press **Sign to add Token.**
-
-<figure><img src="../.gitbook/assets/Short List screen - 2.png" alt=""><figcaption></figcaption></figure>
 
 Xaman will craft a transaction with the details of the Trust line and after you have reviewed them, you can **Slide to accept**.
 
