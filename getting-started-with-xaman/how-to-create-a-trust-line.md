@@ -8,7 +8,7 @@ description: How to create a Trust Line on the XRP Ledger
 
 2\) Tap the  _**+ Add a token**_ button.
 
-
+<figure><img src="../.gitbook/assets/Main screen - 2.png" alt=""><figcaption></figcaption></figure>
 
 3\) Chose one of the token categories.\
 \
@@ -18,7 +18,23 @@ description: How to create a Trust Line on the XRP Ledger
 
 **Ecosystem** - A complete list of tokens in the community.
 
-![](../.gitbook/assets/image.png)
+<figure><img src="../.gitbook/assets/Trust Line - 1.png" alt=""><figcaption></figcaption></figure>
+
+3\) You can manually search for a token here.
+
+<figure><img src="../.gitbook/assets/Trust Line - 2.png" alt=""><figcaption></figcaption></figure>
+
+4\) When you find the token you wish to create a Trust line for, tap it.
+
+
+
+3\) You can manually search for a token here.
+
+
+
+
+
+Chose one of the token categories.<br>
 
 From here you can simply select an issuer, for example, **Gatehub**, then choose which token you would like to create a Trust line for, in this case, we'll choose the **Euro**, then press **Sign to add Token.**
 
