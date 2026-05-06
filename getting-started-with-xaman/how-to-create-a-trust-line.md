@@ -4,15 +4,9 @@ description: How to create a Trust Line on the XRP Ledger
 
 # How to create a Trust Line
 
-There are two easy ways to create Trust line using Xaman:
+1\) Launch Xaman.
 
-1\) Selecting one of the pre-vetted tokens from our **short list**
-
-2\) Visiting **XRPL.Services** and sign using Xaman
-
-### **What is the Xaman short list?**
-
-The "short list" is the list of tokens that is presented when you press the _**+Add**_ button on the main screen of Xaman.
+2\) Tap the  _**+ Add a token**_ button.
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
