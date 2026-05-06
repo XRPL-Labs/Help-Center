@@ -1,5 +1,5 @@
 ---
-description: How to create a passcode / pin for your Xaman (Tangem) card
+description: How to create a passcode / pin for your Xaman card
 cover: ../.gitbook/assets/Waterfall.png
 coverY: -226
 ---
@@ -10,15 +10,15 @@ coverY: -226
 Note: This article applies to the first generation of Xumm cards. The new Xaman cards have this feature disabled.
 {% endhint %}
 
-One of the security features on a Xaman (Tangem) card is the ability to create a passcode or pin. Once enabled, the pin/passcode must be entered in order to sign with the card account.&#x20;
+One of the security features on a Xaman card is the ability to create a passcode or pin. Once enabled, the pin/passcode must be entered in order to sign with the card account.
 
 In certain situations, setting a pin can make a lot of sense.
 
-For example, if you configure your cards as [recommended](getting-started.md), you will create a Primary account then set up a second card as a Signing account. This configuration allows you to store your Primary card in safe/secure location while using the Signing account to sign transactions on your Primary account.  In this case, assigning a pin to your Signing card adds an additional level of protection in case your card is ever stolen.
+For example, if you configure your cards as [recommended](getting-started.md), you will create a Primary account then set up a second card as a Signing account. This configuration allows you to store your Primary card in safe/secure location while using the Signing account to sign transactions on your Primary account. In this case, assigning a pin to your Signing card adds an additional level of protection in case your card is ever stolen.
 
 ### **If you forget the pin...**
 
-There is no recovery feature or 'back door' option to reset a pin so if you forget the pin, you will not be able to use the card to sign transactions. This is why we mentioned that setting up a pin is useful **only in certain situations**. If you configure a backup card for your Primary account, forgetting your pin is unfortunate, but you can still access your account with the Primary card. You would lose the ability to use the Signing card but you would not lose access to your funds. If you were to configure a pin on a card that has no backup card, you would not be able to access your funds if you forgot your pin.&#x20;
+There is no recovery feature or 'back door' option to reset a pin so if you forget the pin, you will not be able to use the card to sign transactions. This is why we mentioned that setting up a pin is useful **only in certain situations**. If you configure a signing (backup) card for your Primary account, forgetting your pin is unfortunate, but you can still access your account with the Primary card. You would lose the ability to use the Signing card but you would not lose access to your funds. If you were to configure a pin on a card that has no backup card, you would not be able to access your funds if you forgot your pin.
 
 {% hint style="danger" %}
 We strongly recommend that you **only configure a pin** if you have created a **backup card** for your account.
@@ -26,8 +26,8 @@ We strongly recommend that you **only configure a pin** if you have created a **
 
 ### **Setting up a pin**
 
-1. Launch XUMM and press **Settings** -> **Accounts**&#x20;
-2. Press the "**Edit**" button side the account you would like to add a passcode on.
+1. Launch Xaman and press **Settings** -> **Accounts**
+2. Press the "**Edit**" button side the card account you would like to add a passcode on.
 3. Select "**Card enforced security**"
 4. Select "**Passcode**"
 
@@ -44,6 +44,3 @@ We strongly recommend that you **only configure a pin** if you have created a **
    \
    ![](<../.gitbook/assets/image (23).png>)
 8. Sign with the card.
-
-
-
