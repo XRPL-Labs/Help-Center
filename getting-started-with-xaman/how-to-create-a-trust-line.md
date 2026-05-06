@@ -14,9 +14,9 @@ There are two easy ways to create Trust line using Xaman:
 
 The "short list" is the list of tokens that is presented when you press the _**+Add**_ button on the main screen of Xaman.
 
+<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 
-<figure><img src="../.gitbook/assets/Xaman - Add button.png" alt=""><figcaption></figcaption></figure>
 
 Xaman will display a screen that looks like this:
 
@@ -26,15 +26,15 @@ From here you can simply select an issuer, for example, **Gatehub**, then choose
 
 <figure><img src="../.gitbook/assets/Short List screen - 2.png" alt=""><figcaption></figcaption></figure>
 
-Xaman will craft a transaction with the details of the Trust line and after you have reviewed them, you can **Slide to accept**. &#x20;
+Xaman will craft a transaction with the details of the Trust line and after you have reviewed them, you can **Slide to accept**.
 
-You should see a warning message cautioning you about the potential dangers. Make sure you read the message, then press **Continue**.&#x20;
+You should see a warning message cautioning you about the potential dangers. Make sure you read the message, then press **Continue**.
 
 Finally, either enter your **passcode/signing password/biometrics** to sign the transaction and the Trust line will be created.
 
 ### **What is XRPL.Services?**
 
-XRPL.Services is a website which allows you to interact with the XRP Ledger in various ways and to easily create transactions that you can sign with Xaman.&#x20;
+XRPL.Services is a website which allows you to interact with the XRP Ledger in various ways and to easily create transactions that you can sign with Xaman.
 
 In this case, you can use it to create a Trust line.
 
@@ -83,4 +83,3 @@ In this case, you can use it to create a Trust line.
 7\) Review the transaction to make sure it is correct.
 
 8\) **Slide to sign**.
-
