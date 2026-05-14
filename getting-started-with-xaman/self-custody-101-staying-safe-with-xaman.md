@@ -1,8 +1,8 @@
 ---
 description: >-
   Self-custody means you, and only you, control your funds. That is the freedom
-  Xaman is built on. The cost of that freedom is responsibility, and right now
-  responsibility matters more than usual: there
+  Xaman is built on. The cost of that freedom is responsibility, and
+  responsibility matters more than usual.
 ---
 
 # 🔐 Self-Custody 101: Staying Safe with Xaman
@@ -13,7 +13,7 @@ This guide gives you the rules that will keep you safe. Read it. Take it serious
 
 Your **Secret Numbers** (also called Family Seed or Mnemonic) are the keys to your account. Anyone who has them can control your funds. Completely. Irreversibly.
 
-> **Never share your Secret Numbers with anyone. Not Xaman. Not a website. Not an xApp. Not a "validator". Not anyone, anywhere, for any reason.**
+> **Never share your Secret Numbers with anyone. Not Xaman. Not a website. Not an xApp. Not a developer, validator, exchange. Not anyone, anywhere, for any reason.**
 
 If someone asks for them, they are trying to steal from you. That is the entire test. There is no exception, no special case, no real support process that ever needs them.&#x20;
 
