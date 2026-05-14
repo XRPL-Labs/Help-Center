@@ -4,6 +4,12 @@
 
 ## Getting started with Xaman
 
+* [💸 What is Xaman?](hot-topics/what-is-xumm.md)
+  * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
+  * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
+  * [Xaman & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
+  * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)
+* [🔐 Self-Custody 101: Staying Safe with Xaman](getting-started-with-xaman/self-custody-101-staying-safe-with-xaman.md)
 * [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 * [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 * [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
@@ -16,11 +22,6 @@
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
 * [How to create a USDC Trust Line](getting-started-with-xaman/how-to-create-a-usdc-trust-line.md)
 * [How to get the Midnight Glacier Airdrop](getting-started-with-xaman/how-to-get-the-midnight-glacier-airdrop.md)
-* [💸 What is Xaman?](hot-topics/what-is-xumm.md)
-  * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
-  * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
-  * [Xaman & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
-  * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)
 * [Installing Xaman](getting-started-with-xaman/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/README.md)
   * [How to create an XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
