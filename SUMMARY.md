@@ -12,7 +12,6 @@
 * [🔐 Self-Custody 101: Staying Safe with Xaman](getting-started-with-xaman/self-custody-101-staying-safe-with-xaman.md)
 * [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 * [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
-* [💡 Understanding monetization](getting-started-with-xaman/understanding-monetization.md)
 * [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/README.md)
   * [Overview](getting-started-with-xaman/using-the-flare-xapp/overview.md)
   * [Fees](getting-started-with-xaman/using-the-flare-xapp/fees.md)
