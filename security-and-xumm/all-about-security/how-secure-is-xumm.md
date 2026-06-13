@@ -10,7 +10,7 @@ coverY: 0
 
 ## Comparing different wallets
 
-It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best".  When it comes to protecting your assets, for many people, only the best will do so it only makes sense to get the best when it comes to protecting your funds, right...?
+It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best". When it comes to protecting your assets, for many people, only the best will do so it only makes sense to get the best when it comes to protecting your funds, right...?
 
 The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or watching a Youtube video then thinking you have enough information to make a comprehensive comparison between wallets is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion of Xaman's (formerly Xumm) security. It is merely a glimpse...
 
@@ -29,9 +29,9 @@ Here are the top 9 security threats to look out for when it comes to your phone.
 * Poor Password Habits
 * Lost or Stolen Mobile Devices
 
-Source: [The Nine most common security threats to mobile devices](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/) &#x20;
+Source: [The Nine most common security threats to mobile devices](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/)
 
-So before you even get around to installing Xamana, here are some things to consider:
+So before you even get around to installing Xaman, here are some things to consider:
 
 * Is your mobile device up to date with all security and OS updates?
 * Do you use a VPN?
@@ -56,7 +56,7 @@ If you had a job that paid you 390 trillion euros per hour, you would have to wo
 It is unimaginably difficult for someone to guess your account number out of 340 undecillion possible accounts. You would need to make 390 trillion guess per hour for **99 quadrillion years** to guess them all.
 
 {% hint style="success" %}
-Entire books have been dedicated to this topic but if you are interested in learning a bit more about it, you can check out this link on [entropy](https://en.wikipedia.org/wiki/Entropy\_\(information\_theory\)). It is not exactly "easy reading" but it will get you going in the right direction.
+Entire books have been dedicated to this topic but if you are interested in learning a bit more about it, you can check out this link on [entropy](https://en.wikipedia.org/wiki/Entropy_\(information_theory\)). It is not exactly "easy reading" but it will get you going in the right direction.
 {% endhint %}
 
 ## **How is that different from a cold/hard wallet?**
@@ -65,7 +65,7 @@ It is no difference. Whether an account is generated off line or online, there i
 
 ## **Why you are always telling people to protect their Secret Numbers?**
 
-The only way someone can access your XRP Ledger account is if they know your Secret Numbers. Keeping them safe is the best way to keep your assets safe. The second you share your Secret Numbers with anyone, you give them 100% access to your funds and give them permission to use your funds in any way they choose.&#x20;
+The only way someone can access your XRP Ledger account is if they know your Secret Numbers. Keeping them safe is the best way to keep your assets safe. The second you share your Secret Numbers with anyone, you give them 100% access to your funds and give them permission to use your funds in any way they choose.
 
 {% hint style="danger" %}
 **Never** give your Secret Numbers to anyone. If someone asks for them, that person is trying to steal your funds!
@@ -75,19 +75,19 @@ The only way someone can access your XRP Ledger account is if they know your Sec
 
 You are absolutely right. Let’s say that someone has acquired your phone and somehow circumvented your phone's password and now has full access to it.
 
-An attacker launches Xaman and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 one passcode per second and about 11 days later they have tried all of the possible combinations. So somewhere along the way, they would get  access to Xaman, right?
+An attacker launches Xaman and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 one passcode per second and about 11 days later they have tried all of the possible combinations. So somewhere along the way, they would get access to Xaman, right?
 
 That makes sense, **except** for one small countermeasure we implemented in Xaman. We have configured Xaman to only allow 5 attempts before it starts to add time to the next attempt. After the ninth wrong entry, Xaman requires a delay of **2 hours** before you can input a passcode again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all… Or about **228 years**.
 
 ## **Ha! So now its down from 99 quadrillion years to 228 years!**
 
-However, let’s say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. (If you configured one, which we recommend that you do.) Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes.  In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it. Provided that you selected a strong signing password, this could take awhile to guess.
+However, let’s say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. (If you configured one, which we recommend that you do.) Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes. In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it. Provided that you selected a strong signing password, this could take awhile to guess.
 
 The point is, there are multiple layers of security in Xaman to protect your XRPL account. A potential hacker who gets your phone, needs to crack the phone's passcode, then crack Xaman's passcode, then crack Xaman's signing password. This is very, very difficult to do if you use good passcodes/passwords.
 
 ## Does the Xaman passcode and signing password protect my XRPL account?
 
-Yes and no.&#x20;
+Yes and no.
 
 The passcode that you configure in Xaman is designed to keep people from accessing the Xaman application. It **does not** protect your Secret Numbers from being used by someone else.
 
@@ -97,7 +97,7 @@ The goal for Xaman is to protect your Secret Numbers **on your phone**. The pass
 
 ## **Why would I need the Xaman (Tangem) cards then?**
 
-By this point, hopefully you realize it is basically impossible to **guess** the Secret Numbers in your lifetime. The amount of possibilities is just too great, but... there is the risk that your phone could be lost or stolen. If that were to happen, and given enough time and resources, your phone could be hacked and once someone gained access to your phone, they might be able to hack Xaman and if they did that they might be able to decrypt your secret numbers, and if they did that, they could access your funds! &#x20;
+By this point, hopefully you realize it is basically impossible to **guess** the Secret Numbers in your lifetime. The amount of possibilities is just too great, but... there is the risk that your phone could be lost or stolen. If that were to happen, and given enough time and resources, your phone could be hacked and once someone gained access to your phone, they might be able to hack Xaman and if they did that they might be able to decrypt your secret numbers, and if they did that, they could access your funds!
 
 We are talking theoretical here but still, it might be possible, so we decided to offer a way to mitigate the risk of a lost or stolen phone... enter **Xaman (Tangem) cards**.
 
@@ -129,7 +129,7 @@ Xaman will never share your private keys with a third party website or applicati
 
 It is not possible for someone to access your **XRP** in your XRPL account via a Trust Line, however creating a Trust Line does pose several risks.
 
-* &#x20;A token issuer can freeze their own Trust Line, which would make their issued tokens unusable. ( but they can not access your account or your XRP.)
+* A token issuer can freeze their own Trust Line, which would make their issued tokens unusable. ( but they can not access your account or your XRP.)
 * A token issuer can misconfigure their Trust Line, which could make their issued tokens unusable. (Again, they can not access your account or your XRP.)
 * A token issuer could send you messages via the XRPL (once they know your r-address) and somehow convince you to send them your secret numbers. (While not really considered a “hack”, the results are pretty much the same.)
 * A token issuer could initiate the 'clawback' feature on their Trust Line which allows them to take back as much of their token as they like, as often as they like, whenever they like.
@@ -140,13 +140,13 @@ See this link for more information about the Clawback feature on the XRPL:\
 
 ## **What about spam transactions? Are they dangerous?**
 
-A 'spam' transaction is one which is unsolicited.&#x20;
+A 'spam' transaction is one which is unsolicited.
 
 In most cases, someone will send a small amount of XRP to an account along with a message, advertisement, special offer, marketing idea, business opportunity, etc. The idea is that you will read the message then decide to investigate and either buy their product, visit their website, invest in their business opportunity, etc.
 
 The spam transactions themselves **do not pose a threat** to your XRPL account and do not cost you anything, but the 'special offer" they advertise is often risky and dangerous
 
-If you would like to learn more about spam on the XRPL, check out this article:&#x20;
+If you would like to learn more about spam on the XRPL, check out this article:
 
 {% embed url="https://help.xumm.app/learning-more-about-xumm/spam-on-the-xrp-ledger" %}
 
