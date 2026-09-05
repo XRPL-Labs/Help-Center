@@ -1,8 +1,5 @@
 ---
 description: Here is how to setup Xaman on your new device.
-cover: >-
-  https://images.unsplash.com/photo-1621330396173-e41b1cafd17f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxwaG9uZXN8ZW58MHx8fHwxNjc0NTczMDQ4&ixlib=rb-4.0.3&q=80
-coverY: 0
 ---
 
 # 📱 Got a new phone?
@@ -12,14 +9,12 @@ coverY: 0
 Congratulations! Getting a new phone can be exciting, but before you get started migrating everything over from your old phone, here are a couple of suggestions to make the process a little smoother...
 
 * Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
-* Ensure that you have the account secret (Secret numbers / Family seed / Mnemonic) for your XRP Ledger account.&#x20;
+* Ensure that you have the account secret (Secret numbers / Family seed / Mnemonic) for your XRP Ledger account.
 * If you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support).
 
 ### Configuring Xaman on your new phone
 
 The first thing you need to know about getting Xaman (formerly Xumm) working on your new device is that **you can not restore or copy** Xaman from one device to another. Xaman needs to be **installed fresh** on your new phone otherwise you will see this when you launch the app:
-
-
 
 <figure><img src="../.gitbook/assets/Push notifications - 4.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,7 +22,7 @@ If you are already at this error screen, **uninstall** Xaman then continue readi
 
 To install Xaman on your new phone, you can download it from one of 2 places:
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">                         Xaman for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td><td></td></tr><tr><td align="center">                      Xaman for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Xaman for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td><td></td></tr><tr><td align="center">Xaman for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td><td></td></tr></tbody></table>
 
 Just select one of the above links and press the **Install** button to begin the download.
 
@@ -39,7 +34,7 @@ When you get to the end of the installation, you will be presented with this scr
 
 <figure><img src="../.gitbook/assets/New install.png" alt=""><figcaption></figcaption></figure>
 
-Simply press the **+ Add account** button then choose **Import an existing account**.&#x20;
+Simply press the **+ Add account** button then choose **Import an existing account**.
 
 <figure><img src="../.gitbook/assets/Import an existin account button.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +42,7 @@ Simply press the **+ Add account** button then choose **Import an existing accou
 Note: If you have a Xaman card, you will want to press the "Add Tangem card" button and follow the instructions on the screen.
 {% endhint %}
 
-Next you can choose the appropriate account secret for your XRP Ledger account then enter it into  Xaman to complete the process.&#x20;
+Next you can choose the appropriate account secret for your XRP Ledger account then enter it into Xaman to complete the process.
 
 If you need assistance on how to do this, select one of these three articles for instructions:
 
@@ -57,11 +52,11 @@ If you need assistance on how to do this, select one of these three articles for
 
 ### Why did you ask me to keep my old phone?
 
-We have seen cases where people have forgotten their account secret or recorded their account secret incorrectly. Your old phone should still be able to access your XRP Ledger account(s) in case you run into any trouble configuring your new phone. Once you are able to access and sign transactions on your new device, you can uninstall Xaman from your old device or keep it around as a "backup" just in case something happens to your new phone.&#x20;
+We have seen cases where people have forgotten their account secret or recorded their account secret incorrectly. Your old phone should still be able to access your XRP Ledger account(s) in case you run into any trouble configuring your new phone. Once you are able to access and sign transactions on your new device, you can uninstall Xaman from your old device or keep it around as a "backup" just in case something happens to your new phone.
 
 ### Why can't I restore Xaman from backup?
 
-If Xaman were to store sensitive data, (like your account secrets) in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.&#x20;
+If Xaman were to store sensitive data, (like your account secrets) in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
 
 This is why it's really important to keep your account secret stored offline, in a secure place.
 
@@ -91,7 +86,7 @@ No. In order to access an XRP Ledger account, you need to know the **correct** a
 * it was entered into Xaman incorrectly
 * there is another account secret for your XRP Ledger account
 
-The account secret that you entered into Xaman belongs to the XRPL account that is being accessed.&#x20;
+The account secret that you entered into Xaman belongs to the XRPL account that is being accessed.
 
 Please refer to this article for more information:
 
