@@ -47,6 +47,6 @@ Common causes:
 * Your XRP balance is insufficient after network fees.
 * The Flare vault is temporarily full (rare).
 
-If none of those apply, create a support ticket with a screenshot of the error and your r-address.\
+If none of those apply, [create a support ticket](https://xumm.app/detect/xapp:xumm.support) with a screenshot of the error.\
 <br>
 
