@@ -15,7 +15,7 @@
 * [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/README.md)
   * [Overview](getting-started-with-xaman/using-the-flare-xapp/overview.md)
   * [Fees](getting-started-with-xaman/using-the-flare-xapp/fees.md)
-  * [How to Deposit XRP](getting-started-with-xaman/using-the-flare-xapp/how-to-deposit-xrp.md)
+  * [How to Deposit XRP using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/how-to-deposit-xrp-using-the-flare-xapp.md)
   * [The "BreakEven" Calculation](getting-started-with-xaman/using-the-flare-xapp/the-breakeven-calculation.md)
   * [Frequently Asked Questions](getting-started-with-xaman/using-the-flare-xapp/page-1.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
