@@ -1,5 +1,5 @@
 ---
-description: All about airdrop Scams
+description: Xaman does not run airdrops. How to spot fake airdrop scams.
 ---
 
 # Airdrop Scams
@@ -8,7 +8,7 @@ description: All about airdrop Scams
 
 **Xaman does not run airdrops.** Xaman is a self-custody wallet — we do not issue tokens, we have never done an airdrop and we will never do an airdrop. If you saw a post on social media claiming there is an Xaman airdrop, an automatic airdrop for XRP holders, a Xaman rewards program or some kind of token/XRP giveaway, the post is not from us.
 
-This is our official channel on X: **@XamanWallet**. Any other variation of this is a scam account.<br>
+This is our official channel on X: **@XamanWallet**. Any other account using a variation of our name is an impersonation.<br>
 
 ### How fake airdrop scams work
 
