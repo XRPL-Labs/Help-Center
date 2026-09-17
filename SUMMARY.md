@@ -19,6 +19,7 @@
   * [The "BreakEven" Calculation](getting-started-with-xaman/using-the-flare-xapp/the-breakeven-calculation.md)
   * [Frequently Asked Questions](getting-started-with-xaman/using-the-flare-xapp/page-1.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
+* [Airdrop Scams](getting-started-with-xaman/airdrop-scams.md)
 * [How to create a USDC Trust Line](getting-started-with-xaman/how-to-create-a-usdc-trust-line.md)
 * [How to get the Midnight Glacier Airdrop](getting-started-with-xaman/how-to-get-the-midnight-glacier-airdrop.md)
 * [Installing Xaman](getting-started-with-xaman/installing-xumm.md)
