@@ -21,8 +21,6 @@ The following table explains the differences.
 | ![](<../.gitbook/assets/image (1) (2) (3).png>)     | Standard security is a great option your daily spending account. You can sign with your 6 digit passcode or enable biometrics and sign with your face/finger print. |
 | ![](<../.gitbook/assets/image (3) (1) (2) (2).png>) | Extra security allows you to enter a separate signing password. This is the best option for your long term storage account.                                         |
 
-
-
 If you selected **Extra security** you would have created a separate signing password. If you have forgotten that signing password, if it is not working, or you would like to change it, here are the instructions on how to do this.
 
 ### Step 1 - Remove the account from Xumm
@@ -38,4 +36,4 @@ Note: This assumes that you have the passcode to remove the account. If you do n
 
 1. Your account secret will come in the the form of a set of secret numbers / Family seed /Mnemonic. This article will guide you through importing your account with which ever one you have:\
    \
-   [<mark style="color:blue;">**Importing your account into Xumm**</mark>](../getting-started-with-xaman/importing-your-account/)
+   [<mark style="color:blue;">**Importing your account into Xumm**</mark>](../all-about-scams/importing-your-account/)

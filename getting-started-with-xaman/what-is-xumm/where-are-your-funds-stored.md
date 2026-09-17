@@ -15,7 +15,6 @@ Also available in this video series:
 | Video                                                                                                |                                          |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | [What is Xaman?](../../hot-topics/what-is-xumm.md)                                                   | Explaining the Xaman (formerly Xumm) app |
-| [Protecting your account secret](../how-can-you-access-your-xrpl-account.md)                         | Tips on protecting your secret numbers   |
+| [Protecting your account secret](../../all-about-scams/how-can-you-access-your-xrpl-account.md)      | Tips on protecting your secret numbers   |
 | [Reserves and Fees](../../xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md) | Base reserve and XRPL Fees               |
 | [Destination Tags](../../learning-more-about-xumm/destination-tags.md)                               | About Destination Tags/XRP Tags          |
-

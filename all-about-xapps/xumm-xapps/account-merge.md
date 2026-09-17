@@ -18,7 +18,7 @@ In order to use the Account Merge xApp the following criteria needs to be met:
 
 1\) Both accounts must be managed by Xumm.
 
-* This means that you must have [**imported**](../../getting-started-with-xaman/importing-your-account/) both of your accounts (the one being deleted and the one that will receive the deleted account’s XRP) into Xumm using the account secrets. (Secret numbers / Family seed / Mnemonic)
+* This means that you must have [**imported**](../../all-about-scams/importing-your-account/) both of your accounts (the one being deleted and the one that will receive the deleted account’s XRP) into Xumm using the account secrets. (Secret numbers / Family seed / Mnemonic)
 
 2\) Xumm must have full access to both accounts.
 
@@ -29,8 +29,6 @@ In order to use the Account Merge xApp the following criteria needs to be met:
 * This means that both accounts must have met the XRPL base reserve requirement of 10 XRP.
 
 4\) All Trust Lines, escrows, payment channels and other objects on the account to be deleted must be removed **before** running the Account Merge xApp.
-
-
 
 ### **How to find it**
 

@@ -31,7 +31,7 @@ This is our official channel on X: **@XamanWallet**. Any other account using a v
 
 1. **Do not visit the link, do not connect your wallet, and do not sign anything** from the post or the accounts in it.
 2. **Report the fake accounts on X** — especially the impersonation of Xaman. Taking it down helps protect the next person.
-3. **If you already signed something**, treat your account as potentially compromised: move your funds to a fresh account and follow the steps in [_I've been scammed_](../learning-more-about-xumm/ive-been-scammed.md) article.
+3. **If you already signed something**, treat your account as potentially compromised: move your funds to a fresh account and follow the steps in [_I've been scammed_](ive-been-scammed.md) article.
 
 ### Real airdrops do exist — how to tell the difference
 
@@ -45,7 +45,7 @@ Ecosystem projects occasionally run genuine airdrops. The difference is never th
 
 Impersonation accounts do not only promote fake airdrops — they also fake "rewards", "token unlocks", "staking bonuses" and "mystery box" claims. The template is identical: a lookalike account, a deadline, and a "connect and sign" button. When in doubt, apply the three checks above, or ask [Xaman Support](https://xumm.app/detect/xapp:xumm.support) first. Asking costs nothing; signing the wrong thing costs your account.
 
-**See also:** [_I've been scammed_](../learning-more-about-xumm/ive-been-scammed.md) · _I received a suspicious NFT offer_ · _I'm receiving tiny "dust" payments on my account_
+**See also:** [_I've been scammed_](ive-been-scammed.md) · _I received a suspicious NFT offer_ · _I'm receiving tiny "dust" payments on my account_
 
 ***
 

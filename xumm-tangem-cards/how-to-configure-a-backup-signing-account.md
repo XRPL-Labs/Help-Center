@@ -10,7 +10,7 @@ coverY: 0
 
 The Tangem Backup xApp is designed to simplify the process of creating a regular key between two Xaman (Tangem) cards. By doing this, you will effectively configure one of the cards as a "backup" to the other one. This is not a cloning process where you would make a duplicate card, instead, this process configures one of the cards to be able to sign transactions on the other card's account.
 
-Don't worry if you can't quite understand it at first. This article will walk you through each step of the process and provide lots of pictures to help.&#x20;
+Don't worry if you can't quite understand it at first. This article will walk you through each step of the process and provide lots of pictures to help.
 
 ### What we are trying to achieve...
 
@@ -18,9 +18,9 @@ To start, you should have two Xaman (Tangem) cards. Here are a couple of example
 
 <figure><img src="../.gitbook/assets/Xumm Tangem card -3.png" alt=""><figcaption></figcaption></figure>
 
-From now on we will refer to the cards as your **Primary card** and your **Signing Card**.&#x20;
+From now on we will refer to the cards as your **Primary card** and your **Signing Card**.
 
-It doesn't matter which one you choose to be your primary or signing card since they are functionally identical, but most people choose the _<mark style="color:blue;">blue</mark>_ card as the Primary card and the _transparent_ card as the Signing card.&#x20;
+It doesn't matter which one you choose to be your primary or signing card since they are functionally identical, but most people choose the _<mark style="color:blue;">blue</mark>_ card as the Primary card and the _transparent_ card as the Signing card.
 
 When we are done with this process, you will have created an XRPL account on your Primary card, activated it with at least 1 XRP and have created a "link" between your Primary card and your Signing card.
 
@@ -35,16 +35,16 @@ If you plan to carry one of the cards with you in your wallet/purse, you would c
 Before you can begin this process, you need to have **two** Xaman cards and **both of them must** be imported into Xaman.
 
 {% hint style="danger" %}
-This is the number one question we get when it comes to configuring the cards.&#x20;
+This is the number one question we get when it comes to configuring the cards.
 
 This process requires that you have two cards and that **each one** of them needs to be added into Xaman **before** you can proceed.
 {% endhint %}
 
 This article provides step by step instructions on how to do this:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../all-about-scams/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
-Since the <mark style="color:blue;">blue</mark> card is going to be your **Primary account**, you will need to activate it with at least 1 XRP.&#x20;
+Since the <mark style="color:blue;">blue</mark> card is going to be your **Primary account**, you will need to activate it with at least 1 XRP.
 
 {% hint style="warning" %}
 You **do not** need to activate your **Signing account.** You just need to import it into Xaman.

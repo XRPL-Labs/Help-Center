@@ -46,7 +46,7 @@ Next you can choose the appropriate account secret for your XRP Ledger account t
 
 If you need assistance on how to do this, select one of these three articles for instructions:
 
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-a-mnemonic.md">...with-a-mnemonic.md</a></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../all-about-scams/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../all-about-scams/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="../all-about-scams/importing-your-account/...with-a-mnemonic.md">...with-a-mnemonic.md</a></td></tr></tbody></table>
 
 ### Frequently asked questions
 
@@ -66,7 +66,7 @@ If you have Xaman cards, you will need to re-import them into Xaman on your new 
 
 This article explains how to do this:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../all-about-scams/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
 ### My account was created during the Casino Coin swap. How do I access it?
 
@@ -90,6 +90,6 @@ The account secret that you entered into Xaman belongs to the XRPL account that 
 
 Please refer to this article for more information:
 
-{% content-ref url="../getting-started-with-xaman/ive-lost-my-account-secret.md" %}
-[ive-lost-my-account-secret.md](../getting-started-with-xaman/ive-lost-my-account-secret.md)
+{% content-ref url="../all-about-scams/ive-lost-my-account-secret.md" %}
+[ive-lost-my-account-secret.md](../all-about-scams/ive-lost-my-account-secret.md)
 {% endcontent-ref %}

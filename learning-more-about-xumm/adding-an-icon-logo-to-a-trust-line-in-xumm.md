@@ -20,7 +20,7 @@ When we talk about the Trust Line icons in Xaman, we are talking about the littl
 
 <figure><img src="../.gitbook/assets/Icon-Logos.png" alt=""><figcaption></figcaption></figure>
 
-You can find the setup instructions here: [**xrplmeta.org**](http://xrplmeta.org)&#x20;
+You can find the setup instructions here: [**xrplmeta.org**](http://xrplmeta.org)
 
 If you need assistance with the instructions, xrplmeta.org can be reached here:
 
@@ -51,7 +51,7 @@ Yes, here are a couple of other things you should be aware of:
 
 1. Adding a Trust Line icon **does not** mean that Xaman endorses the asset in question. Xaman will still show users the **appropriate warnings** when **adding Trust Lines.**
 2. We do not endorse or support ANY token issued on the XRPL. Xaman is simply displaying your icon information that is publicly available by 3rd party data feeds.
-3. Adding an icon to a Trust Line icon **DOES NOT** add the asset to the Xaman [short list](../getting-started-with-xaman/how-to-create-a-trust-line.md).
+3. Adding an icon to a Trust Line icon **DOES NOT** add the asset to the Xaman [short list](../all-about-scams/how-to-create-a-trust-line.md).
 4. We only _publish_ token icons from the XRPL Meta API. Xamam does not sync the information.
 
 ### **How often does Xaman refresh / update the icon information?**

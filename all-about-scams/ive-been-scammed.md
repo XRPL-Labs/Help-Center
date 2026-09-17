@@ -12,13 +12,13 @@ Some countries have a special "cyber crime" or "financial crime" units that you 
 
 ### Can Xaman conduct its own investigation?
 
-Xaman is not part of any governmental law enforcement agency nor we do not have the legal authority to conduct a criminal investigation. As well, we are not permitted to interfere in police investigations.&#x20;
+Xaman is not part of any governmental law enforcement agency nor we do not have the legal authority to conduct a criminal investigation. As well, we are not permitted to interfere in police investigations.
 
 If the police require our assistance, the will contact us.
 
 ### **My police department doesn't know anything about crypto scams**
 
-Investigating criminal matters, which now includes crypto and blockchain crimes, is one of the primary responsibilities of law enforcement.  In most countries around the world, the local police departments are getting better when it comes to investigating cyber crimes. (After all, blockchain has been around for over 15 years now.) If there is any chance in recovering your funds, the police will need to be involved.
+Investigating criminal matters, which now includes crypto and blockchain crimes, is one of the primary responsibilities of law enforcement. In most countries around the world, the local police departments are getting better when it comes to investigating cyber crimes. (After all, blockchain has been around for over 15 years now.) If there is any chance in recovering your funds, the police will need to be involved.
 
 ### **Why can't Xaman just reverse the transactions and get my funds back?**
 
@@ -26,7 +26,7 @@ Transactions on the XRP Ledger can not be reversed, blocked or "undone" and the 
 
 ### **Why can't I just change my 6 digit passcode or my signing password?**
 
-The 6 digit passcode is used to access the Xaman app and in some cases, sign transactions in Xaman. It is not used to access your XRPL account. (That's what the secret numbers are for.) Changing your passcode has no effect on your secret numbers.&#x20;
+The 6 digit passcode is used to access the Xaman app and in some cases, sign transactions in Xaman. It is not used to access your XRPL account. (That's what the secret numbers are for.) Changing your passcode has no effect on your secret numbers.
 
 The same applies to your signing password. Both the passcode and the sign password are LOCAL security measures to protect your secret numbers **locally** on your phone. They do not prevent someone from accessing your account if they have your secret numbers.
 
@@ -35,11 +35,7 @@ The same applies to your signing password. Both the passcode and the sign passwo
 1. After you have contacted the police, explain exactly what happened which lead up to this situation. They might need access to your phone and your internet history so you should be prepared to surrender your mobile device and your internet records if required.<br>
 2. Consider re-keying your account and disabling the master key for the compromised account. If you do this, it will prevent the scammers from accessing your account again.
 
-
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to re-key your XRPL account</td><td></td><td></td><td><a href="../getting-started-with-xaman/how-to-rekey-your-account.md">how-to-rekey-your-account.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr><tr><td align="center">How to disable the Master keys on an account</td><td></td><td></td><td><a href="../getting-started-with-xaman/how-to-disable-the-master-key.md">how-to-disable-the-master-key.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
-
-
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to re-key your XRPL account</td><td></td><td></td><td><a href="how-to-rekey-your-account.md">how-to-rekey-your-account.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr><tr><td align="center">How to disable the Master keys on an account</td><td></td><td></td><td><a href="how-to-disable-the-master-key.md">how-to-disable-the-master-key.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
 
 3. If re-keying looks too complicated, you can alternatively create a new account, then move your remaining funds over to your new account then delete your compromised account.\
    \
@@ -48,11 +44,11 @@ The same applies to your signing password. Both the passcode and the sign passwo
    [How to create a new XRP Ledger account using Xumm](https://support.xumm.app/hc/en-us/articles/4875348911762)\
    \
    [How to delete your XRP Ledger account](https://support.xumm.app/hc/en-us/articles/360018166359)<br>
-4. Try to think of ways your account secret could have been compromised.&#x20;
+4. Try to think of ways your account secret could have been compromised.
 
-* Have you ever shared your private key it with anyone?&#x20;
+* Have you ever shared your private key it with anyone?
 * Was your private key stored on a cloud account or somewhere else online?
-* Was you private key stored on your PC? Mobile device?&#x20;
+* Was you private key stored on your PC? Mobile device?
 * Have you ever entered your private key into a Google form?
 * Have you ever entered your private key into another crypto wallet service?
 * Have you ever entered your private key into a Website?
@@ -82,7 +78,7 @@ If you have found yourself in this situation, you should consider the following 
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How safe are Xaman (Tangem) cards?</td><td></td><td></td><td><a href="../xumm-tangem-cards/how-safe-is-a-card.md">how-safe-is-a-card.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
 
-* Review the following article and consider how you plan to interact with the XRP Ledger in the future.&#x20;
+* Review the following article and consider how you plan to interact with the XRP Ledger in the future.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xaman?</td><td></td><td></td><td><a href="../security-and-xumm/all-about-security/how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../.gitbook/assets/Tokens and coins -1 (1).png">Tokens and coins -1 (1).png</a></td></tr></tbody></table>
 

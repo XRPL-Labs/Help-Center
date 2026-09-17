@@ -12,19 +12,19 @@ While it is easy to configure the cards this way, you should consider how you pl
 
 ### Xaman card (Hardware wallet) vs Xaman (Software wallet)
 
-Xaman cards are hardware wallets and hardware wallets are largely about **long term storage** of your assets.&#x20;
+Xaman cards are hardware wallets and hardware wallets are largely about **long term storage** of your assets.
 
 A hardware wallet stores the private keys for an XRP Ledger account on a device that is not connected to the internet and transactions can only be signed on the XRPL account if the signer is in possession of the hardware device. Storing private keys 'offline' limits some potential attack vectors on an XRPL account.
 
 Xaman is a software wallet and is largely about enabling **interaction** with the XRP Ledger ecosystem.
 
-Xaman stores the private keys for an XRP Ledger account on a mobile device. (Which is presumably connected to the internet at various times.) It allows a user to sign transactions on their XRPL account via their phone. By storing private keys on a device that is 'on line', it exposes an account to other types of potential attack vectors.&#x20;
+Xaman stores the private keys for an XRP Ledger account on a mobile device. (Which is presumably connected to the internet at various times.) It allows a user to sign transactions on their XRPL account via their phone. By storing private keys on a device that is 'on line', it exposes an account to other types of potential attack vectors.
 
 ### How are you planning to interact with the XRPL ecosystem? <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
 If you are going to use the cards as a 'savings' account, where you plan to store your XRP and wait for the price to go up, we recommend that you create a 'primary' card account and configure a 'backup' card account. By doing this, you take advantage of the cards features. (Creating and storing the account secret off line.) Configuring the cards this way, does not involve an existing account.
 
-If you plan to be **active in the XRPL community**, and want to use the cards with an existing XRPL account, you should consider that if you configure an existing account as a backup to a card account, you are **adding an additional attack vector** to the card account. If your existing account was ever comprised, some could access you card account.  (Configuring a card as a backup to an existing account is ok though.)
+If you plan to be **active in the XRPL community**, and want to use the cards with an existing XRPL account, you should consider that if you configure an existing account as a backup to a card account, you are **adding an additional attack vector** to the card account. If your existing account was ever comprised, some could access you card account. (Configuring a card as a backup to an existing account is ok though.)
 
 As long as you are aware of the potential risk, here are the instructions.
 
@@ -38,8 +38,8 @@ The existing account must be imported into Xaman with **Full access** and you mu
 
 Import your card into Xaman by following these instructions:
 
-{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
-[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
+{% content-ref url="../all-about-scams/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../all-about-scams/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
 #### Step 3: Copy the r-address for your card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
@@ -68,7 +68,7 @@ Paste the r-address for your new Xumm card in the field titled, "XRPL address wh
 
 #### Step 6: Sign the transaction with your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-Sign the transaction in Xumm and you're all done!&#x20;
+Sign the transaction in Xumm and you're all done!
 
 ### How to configure an existing account to sign on a card account <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
@@ -76,8 +76,8 @@ Sign the transaction in Xumm and you're all done!&#x20;
 
 Follow these instructions to do this:
 
-{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
-[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
+{% content-ref url="../all-about-scams/importing-your-account/...a-xumm-tangem-card.md" %}
+[...a-xumm-tangem-card.md](../all-about-scams/importing-your-account/...a-xumm-tangem-card.md)
 {% endcontent-ref %}
 
 #### Step 2: Activate your new card account with at least 10 XRP <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
@@ -86,8 +86,8 @@ In order to hold assets in a XRP Ledger account, it must first be activated with
 
 This article explains how to activate an XRPL account:
 
-{% content-ref url="../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/" %}
-[how-to-activate-a-new-xrpl-account](../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/)
+{% content-ref url="../all-about-scams/how-to-activate-a-new-xrpl-account/" %}
+[how-to-activate-a-new-xrpl-account](../all-about-scams/how-to-activate-a-new-xrpl-account/)
 {% endcontent-ref %}
 
 #### Step 3: Copy the r-address for your existing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
@@ -139,6 +139,3 @@ This is a great security feature but since the account secret only exists in one
 This is why we only sell a minimum of two cards. With two Xumm cards, you can create a backup card which allows you to access your funds in case one of them is ever lost or damaged.
 
 If you only have one card, "linking" an existing account to it allows your existing account to act as a backup in case something happens to the card.
-
-
-
