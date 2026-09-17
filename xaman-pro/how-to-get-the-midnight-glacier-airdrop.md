@@ -39,37 +39,37 @@ Currently, Xaman Wallet is the **only XRP Ledger wallet** officially supported b
 
 2\) Click the "START A NEW CLAIM NOW" button.
 
-<figure><img src=".gitbook/assets/Glacier claim - 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Glacier claim - 1.png" alt=""><figcaption></figcaption></figure>
 
 3\) Click the down arrow, select "XRP" from the list, then press the "CONFIRM NETWORK" button.
 
-<figure><img src=".gitbook/assets/Glacier claim - 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Glacier claim - 2.png" alt=""><figcaption></figcaption></figure>
 
 4\) Click on the "CONTINUE" button.
 
-<figure><img src=".gitbook/assets/Glacier claim - 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Glacier claim - 3.png" alt=""><figcaption></figcaption></figure>
 
 5\) Scan the QR code with Xaman.
 
-<figure><img src=".gitbook/assets/Glacier claim - 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Glacier claim - 4.png" alt=""><figcaption></figcaption></figure>
 
 Note: For instructions on how to scan a QR code with Xaman, see this article:
 
-{% content-ref url="all-about-scams/how-to-scan-a-qr-code.md" %}
-[how-to-scan-a-qr-code.md](all-about-scams/how-to-scan-a-qr-code.md)
+{% content-ref url="../all-about-scams/how-to-scan-a-qr-code.md" %}
+[how-to-scan-a-qr-code.md](../all-about-scams/how-to-scan-a-qr-code.md)
 {% endcontent-ref %}
 
 6\) Click the "NEXT" button.
 
-<figure><img src=".gitbook/assets/Glacier claim - 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Glacier claim - 5.png" alt=""><figcaption></figcaption></figure>
 
 7\) Click the "CONTINUE" button.
 
-<figure><img src=".gitbook/assets/Glacier claim - 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Glacier claim - 6.png" alt=""><figcaption></figcaption></figure>
 
 8\) Click the Cardano wallet you would like your NIGHT tokens sent to.
 
-<figure><img src=".gitbook/assets/Glacier claim - 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Glacier claim - 7.png" alt=""><figcaption></figcaption></figure>
 
 9\) Continue following the instructions on the screen from there.
 

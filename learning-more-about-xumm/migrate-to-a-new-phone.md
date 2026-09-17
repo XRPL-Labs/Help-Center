@@ -28,7 +28,7 @@ Just select one of the above links and press the **Install** button to begin the
 
 Although the installation of Xaman is quite straight-forward and user-friendly , you can always refer to our step by step instructions...
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to install Xaman</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../getting-started-with-xaman/installing-xumm.md">installing-xumm.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to install Xaman</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../installing-xumm.md">installing-xumm.md</a></td></tr></tbody></table>
 
 When you get to the end of the installation, you will be presented with this screen:
 

@@ -9,7 +9,6 @@
   * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
   * [Xaman & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
   * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)
-* [Installing Xaman](getting-started-with-xaman/installing-xumm.md)
 * [🔐 Self-Custody 101: Staying Safe with Xaman](getting-started-with-xaman/self-custody-101-staying-safe-with-xaman.md)
 * [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 * [💙 Understanding the Xaman Service Fee](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
@@ -23,12 +22,14 @@
 
 ***
 
-* [How to get the Midnight Glacier Airdrop](how-to-get-the-midnight-glacier-airdrop.md)
+* [Installing Xaman](installing-xumm.md)
 * [How to create a USDC Trust Line](how-to-create-a-usdc-trust-line.md)
 
 ## ALL ABOUT SCAMS
 
 * [Airdrop Scams](all-about-scams/airdrop-scams.md)
+* [NFT Scams](all-about-scams/nft-scams.md)
+* [Dust attacks](all-about-scams/dust-attacks.md)
 * [I've been scammed!](all-about-scams/ive-been-scammed.md)
 * [Your first XRP Ledger account](all-about-scams/your-first-xrp-ledger-account/README.md)
   * [How to create an XRP Ledger account](all-about-scams/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
@@ -181,6 +182,7 @@
   * [Xaman App early access](xaman-pro/features-of-pro/xumm-app-early-access.md)
   * [Premium Support](xaman-pro/features-of-pro/premium-support.md)
   * [Vanity addresses](xaman-pro/features-of-pro/vanity-addresses.md)
+* [How to get the Midnight Glacier Airdrop](xaman-pro/how-to-get-the-midnight-glacier-airdrop.md)
 
 ## Security and Xaman
 
