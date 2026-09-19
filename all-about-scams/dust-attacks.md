@@ -46,6 +46,33 @@ The only thing a dust payment changes is your transaction history. That is exact
 4. **Do not pay anyone to "remove" the payments.** On-chain transactions cannot be deleted, by anyone.
 5. **If you have already sent funds to an unfamiliar address**, follow the steps in _I've been scammed_: file a police report, contact Xaman support, and be alert for second-stage "recovery" scams.
 
+#### Advanced option: stop the payments at your account
+
+The dust is not harmful on its own, and most people do not need to act. If you still want the payments to stop landing, the XRP Ledger has an account setting called **Deposit Authorization (DepositAuth)**.
+
+**What it does**
+
+When you turn it on, your account blocks incoming payments from any account you have not preauthorized. It blocks XRP and tokens. Only two things can still reach your account:
+
+* An account you have preauthorized.
+* A transaction you start yourself to receive funds, such as finishing an escrow.
+
+**What to know before you turn it on**
+
+* It blocks **every payment** from a sender you have not preauthorized, not just dust. There is no way to block only small payments.
+* If you normally receive payments from an exchange or a service, you must preauthorize it first. If you do not, you will not receive from it.
+* Each account you preauthorize adds to your account's owner reserve, so your account must hold more XRP.
+* This feature was built for regulated businesses that must know the sender of every payment. It is not a simple anti-spam switch.
+* A balance at or below the minimum account reserve can still receive a small amount of XRP, so a nearly empty account is not fully protected.
+
+**How to turn it on**
+
+It is set with a ledger transaction (`AccountSet` with the `asfDepositAuth` flag). If you want to use it, contact us via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support) and we will help you set it up.
+
+**Our advice**
+
+For most people, the best response to dust is to ignore it, and never copy an address from your own transaction history. Deposit Authorization is a strong tool, but it is broad and easy to set up wrong. Use it only if you want a hard block and are willing to manage the preauthorization list.
+
 ### A red flag worth knowing
 
 On the XRP Ledger, anyone can send anyone 1 drop, and every payment is public and permanent. A single 1-drop payment is not, by itself, evidence of anything. But a _series_ of 1-drop payments from a rotating set of addresses — especially right after a scam — means someone is actively preparing a follow-up attack against you. If you see that pattern after losing funds, assume the next message that arrives will try to take more, and route it straight to Xaman support.
