@@ -6,17 +6,19 @@ description: Dust attacks
 
 ### What is a dusting attack?
 
-A dusting attack is when unknown accounts send you extremely small payments — as little as 1 drop (0.000001 XRP). The payments are called **dust** because they are basically worthless: no one can meaningfully spend 1 drop, and they leave your balance effectively unchanged.
+A dusting attack is when unknown accounts send you extremely small payments — as little as 1 drop (0.000001 XRP), or a single unit of a token. The payments are called **dust** because they are basically worthless: no one can meaningfully spend them, and they leave your balance effectively unchanged.
+
+A token can only be sent to an account that already has a trust line to that token's issuer. So if the dust is a token, the sender already knew you could receive it.
 
 The dust itself is not the attack. **The dust is the setup.**
 
 ### What the attacker is trying to do
 
-The goal is usually **address poisoning**: getting the attacker's addresses into your transaction history, your wallet's address book, or your app's autocomplete — places you naturally look when you send XRP.
+The goal is usually **address poisoning**: getting the attacker's address into your transaction history, your wallet's address book, or your app's autocomplete — places you naturally look when you send XRP. That address looks familiar — it is in your own history — so you are more likely to copy it without checking.&#x20;
 
-Later, a fake "refund," "recovery," or "support" message will ask you to send real funds to an address. That address looks familiar — it is in your own history — so you are more likely to copy it without checking. By then, the dust has done its job.
+The dust is the setup, not the theft. The only real risk is a future mistake: copying the wrong, familiar-looking address from your own history instead of the verified one.
 
-In short: **the theft is a different transaction, weeks later. The dust just prepares the ground.**
+The dust itself never costs you anything. The only real risk is a future mistake: copying the wrong, familiar-looking address from your own history instead of the verified one.
 
 ### What it looks like
 
@@ -41,10 +43,10 @@ The only thing a dust payment changes is your transaction history. That is exact
 ### What to do
 
 1. **Ignore the payments.** They are worthless and cannot be used against you directly.
-2. **Never copy an address from your own transaction history.** When you send XRP, take the destination address from the known-good source like a verifed contact in your Address Book. Always check the r-address character by character.
-3. **Treat any follow-up contact as a scam.** If someone contacts you about a "refund," "recovery of your funds," or "cleaning up" your account — especially if they ask you to send XRP first or to share your account secret — it is a scam. Xaman will never ask for your account secret.
+2. **Never copy an address from your own transaction history.** When you send XRP or a token, take the destination address from the known-good source, such as a verified contact in your Address Book. Always check the r-address character by character.
+3. **Treat any follow-up contact as a scam.** If someone contacts you about a "refund," "recovery of your funds," or "cleaning up" your account, especially if they ask you to send XRP first or to share your account secret, it is a scam. Xaman will never ask for your account secret.
 4. **Do not pay anyone to "remove" the payments.** On-chain transactions cannot be deleted, by anyone.
-5. **If you have already sent funds to an unfamiliar address**, follow the steps in _I've been scammed_: file a police report, contact Xaman support, and be alert for second-stage "recovery" scams.
+5. **If you have already sent funds to an unfamiliar address**, follow the steps in [_I've been scammed_](ive-been-scammed.md): file a police report, contact Xaman support via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support), and be alert for second-stage "recovery" scams.
 
 #### Advanced option: stop the payments at your account
 
@@ -75,7 +77,9 @@ For most people, the best response to dust is to ignore it, and never copy an ad
 
 ### A red flag worth knowing
 
-On the XRP Ledger, anyone can send anyone 1 drop, and every payment is public and permanent. A single 1-drop payment is not, by itself, evidence of anything. But a _series_ of 1-drop payments from a rotating set of addresses — especially right after a scam — means someone is actively preparing a follow-up attack against you. If you see that pattern after losing funds, assume the next message that arrives will try to take more, and route it straight to Xaman support.
+On the XRP Ledger, anyone can send anyone a payment as small as 1 drop, and every payment is public and permanent. (A single unit of a token works the same way, but a token can only be sent to an account that already trusts that token's issuer.) A single tiny payment is not, by itself, evidence of anything.
+
+The red flag is a _series_ of tiny payments from a _rotating_ set of addresses, especially right after a scam. That pattern is consistent with someone setting up an address-poisoning attack against your account. If you see it, do not copy any address from your own transaction history, and treat any follow-up contact with extra caution. If you have already lost funds, remember that "recovery" scams are a common follow-up after a loss, and route anything you are unsure about to [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support).
 
 **See also:** [_I've been scammed_](ive-been-scammed.md) · [_NFT scams_](nft-scams.md)
 
