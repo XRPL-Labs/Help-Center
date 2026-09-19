@@ -1,5 +1,5 @@
 ---
-description: I received a suspicious NFT offerNFT Scams
+description: I received a suspicious NFT offer
 ---
 
 # NFT Scams
