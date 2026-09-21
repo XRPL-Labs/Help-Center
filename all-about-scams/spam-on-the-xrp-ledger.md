@@ -1,5 +1,5 @@
 ---
-description: Understanding SPAM
+description: Understanding spam
 ---
 
 # Spam on the XRP Ledger
