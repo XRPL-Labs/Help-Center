@@ -6,17 +6,17 @@ description: Understanding SPAM
 
 ### **What is spam?**
 
-Spam on the XRP Ledger is any unsolicited transaction that someone broadcasts to you in bulk. It can be a payment of XRP or of a token, a message in the transaction's memo field, or an otherwise empty transaction sent only to fill the ledger.
+Spam on the XRP Ledger is an unsolicited transaction from an account you have not dealt with. It is a transaction you did not ask for, sent by someone you do not know. The sender is almost always trying to advertise a project, buy a token or participate in an airdrop.
 
-Most spam falls into a few buckets:
+Most spam falls into a few categories:
 
-* a marketing push to get you to join a project
+* a marketing push to get you to join a project or airdrop
 * a scam that wants you to visit a website
 * a scam that wants you to buy an NFT
-* a scam that wants you to message the sender for "help"
-* an empty transaction sent only to clog the network
+* a scam that wants you to contact the sender
+* an empty transaction sent only to "dust" your account
 
-The spam transaction itself is not the danger. **It is the bait behind it.**
+The spam transaction itself is not the danger. **The real danger is the bait behind it.**
 
 ### What the sender is trying to do
 
