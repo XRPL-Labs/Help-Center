@@ -6,7 +6,7 @@ description: How to rekey a Xahau account
 
 ### Concept and Implementation
 
-The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on  behalf of another account.&#x20;
+The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on behalf of another account.
 
 It is often used to protect an account by securing the master key and using the regular key in its place. This has multiple advantages;
 
@@ -26,7 +26,7 @@ The following steps explain how to manually configure a regular key pair between
 
 ### Step 1: Make sure you have a Primary account <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
-The Primary account must be imported into Xaman (formerly Xumm) with **Full access**. (You must be able to sign transactions on this account.)
+The Primary account must be imported into Xaman with **Full access** and it [**must be activated**](activating-a-xahau-account/activating-an-xrpl-account-on-xahau.md).&#x20;
 
 This is the account that will have your XAH.
 
@@ -65,4 +65,3 @@ Once you have completed the following steps, you will be able to sign transactio
 <figure><img src="../.gitbook/assets/Xahau - Rekey article - 4.png" alt=""><figcaption></figcaption></figure>
 
 8\) Sign the transaction in Xaman and you're all done!
-
