@@ -1,5 +1,5 @@
 ---
-description: Dust attacks
+description: I received a dust transaction
 ---
 
 # Dust attacks

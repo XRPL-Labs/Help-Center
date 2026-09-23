@@ -30,6 +30,7 @@
 * [Airdrop Scams](all-about-scams/airdrop-scams.md)
 * [NFT Scams](all-about-scams/nft-scams.md)
 * [Dust attacks](all-about-scams/dust-attacks.md)
+* [Escrow Scams](all-about-scams/escrow-scams.md)
 * [I've been scammed!](all-about-scams/ive-been-scammed.md)
 * [Spam on the XRP Ledger](all-about-scams/spam-on-the-xrp-ledger.md)
 * [Your first XRP Ledger account](all-about-scams/your-first-xrp-ledger-account/README.md)
