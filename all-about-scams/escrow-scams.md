@@ -6,24 +6,24 @@ description: I received an escrow transaction
 
 ### What is an escrow?
 
-On the XRP Ledger, an escrow is a built-in mechanism that locks assets—either XRP or supported tokens—directly on the blockchain. These funds are securely locked and are only released to the recipient when predefined conditions are met, such as a specific date and time passing.
+On the XRP Ledger, an escrow is a built-in mechanism that locks assets, either XRP or supported tokens, directly on the blockchain. These funds are securely locked and are only released to the recipient when predefined conditions are met, such as a specific date and time passing.
 
 ### What does an escrow scam look like?
 
 A scammer sends you an unsolicited escrow that appears to hold a large amount of a token. They attach a memo with a link telling you to visit a website to "finalize" or "release" it. The escrow itself is not the attack. **The signature on the website is the attack.**
 
-This escrow scam is a form of a phishing attack which uses distinct two-step processes:
+This escrow scam is a a form of phishing that works in two distinct steps:
 
-* The "Lure" via Memos: The XRP Ledger is public and permissionless so anyone can initiate an escrow naming your account as the destination. Scammers send an unsolicited escrow appearing to hold a large amount of value, then attach custom text in the `Memo` field containing a phishing link. This link tells you to visit an external website to "verify," "claim," "finalize," or "release" the funds. The high token value is purely a lure.
-* The True Vector of Attack: Simply receiving an unsolicited escrow on-chain does not grant a scammer access to your account or endanger your funds—the escrow object itself is not the attack. The actual attack occurs off-chain when you visit the scammer's website and sign a malicious transaction with your wallet (such as a `SetRegularKey` transaction, which hands signing control of your XRPL account over to the attacker).
+* The "lure" via memos: The XRP Ledger is public and permissionles&#x73;**,** so anyone can initiate an escrow naming your account as the destination. Scammers send an unsolicited escrow appearing to hold a large amount of value, then attach custom text in the `Memo` field containing a phishing link. This link tells you to visit an external website to "verify," "claim," "finalize," or "release" the funds. The high token value is purely a lure.
+* The true vector of attack: Simply receiving an unsolicited escrow on-chain does not grant a scammer access to your account or endanger your funds, the escrow object itself is not the attack. The actual attack occurs off-chain when you visit the scammer's website and sign a malicious transaction with your wallet (such as a `SetRegularKey` transaction, which hands signing control of your XRPL account over to the attacker).
 
 ### What the attacker is trying to do
 
 The goal is to make a large, tempting balance appear in your account, and then get you to act on it. The token amount looks valuable, so you are more likely to want to claim it.
 
-The token is almost always a fake look-alike, issued by an account you do not recognize. Some memos even claim it is XRP, but the token is a fake code you have never heard of. You could not spend it, and you could not claim it on the ledger yourself.
+The token is almost always a fake look-alike, issued by an account you do not recognize. Some memos even claim it is XRP, but it is a fake token you have never heard of. You could not spend it, and you could not claim it on the ledger yourself.
 
-A conditional escrow can only be released by the person who holds the matching key, and the attacker is the one who created it. So even on the legitimate path, the funds are not yours to claim.
+A conditional escrow only releases once its condition is met, and the attacker is the one who set that condition. The token on the screen is worthless, so "releasing" it hands you nothing of value. The value was never there. The website is just the excuse to get your signature.
 
 On that website, you are asked to connect your wallet and sign a transaction to "receive" the funds. **Do not sign it.** That transaction is not a harmless release. It is designed to take your real assets, or to give the attacker control of your account. You never actually receive the token amount you were shown.
 
