@@ -1,12 +1,12 @@
 ---
-description: How to activate a Xumm card account (and Backup card) on Xahau
+description: How to activate a Xaman card account (and Backup card) on Xahau
 ---
 
-# Activating a Xumm card account on Xahau
+# Activating a Xaman card account on Xahau
 
 ### Background
 
-If you already have configured two Xumm cards per these instructions:
+If you already have configured two Xaman cards per these instructions:
 
 {% content-ref url="../../xumm-tangem-cards/getting-started.md" %}
 [getting-started.md](../../xumm-tangem-cards/getting-started.md)

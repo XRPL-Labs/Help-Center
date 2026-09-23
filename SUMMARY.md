@@ -252,7 +252,7 @@
 
 * [Activating a Xahau account](getting-started-with-xumm/activating-a-xahau-account/README.md)
   * [Activating an XRPL account on Xahau](xahau/activating-a-xahau-account/activating-an-xrpl-account-on-xahau.md)
-  * [Activating a Xumm card account on Xahau](xahau/activating-a-xahau-account/activating-a-xumm-card-account-on-xahau.md)
+  * [Activating a Xaman card account on Xahau](xahau/activating-a-xahau-account/activating-a-xumm-card-account-on-xahau.md)
   * [Activating a Vanity Account on Xahau](xahau/activating-a-xahau-account/activating-a-vanity-account-on-xahau.md)
   * [How to send XAH from GateHub](xahau/activating-a-xahau-account/how-to-send-xah-from-gatehub.md)
   * [How to send XAH from Bitrue](getting-started-with-xumm/activating-a-xahau-account/bitrue.md)
