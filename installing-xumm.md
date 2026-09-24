@@ -31,23 +31,23 @@ Installing Xaman is a simple and straightforward process. From start to finish i
 
 Xaman can only be download from 1 of 2 places:
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Xumm for iOS</td><td><a href=".gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td></tr><tr><td align="center">Xumm for Google Play</td><td><a href=".gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td></tr></tbody></table>
 
 Just select one of the above links and press the **Install** button begin the download.
 
-<figure><img src="../.gitbook/assets/Googe Play - Xaman install.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Googe Play - Xaman install.png" alt=""><figcaption></figcaption></figure>
 
 Once the download has completed, press the **Open** button to begin the Xaman installation process and you should be presented with this screen:
 
-<figure><img src="../.gitbook/assets/Install - Page 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Page 1.png" alt=""><figcaption></figcaption></figure>
 
 Press the **Start** button to begin.
 
-<figure><img src="../.gitbook/assets/Install - Page 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Page 2.png" alt=""><figcaption></figcaption></figure>
 
 Press **Go** to get to the passcode setup page.
 
-<figure><img src="../.gitbook/assets/Install - Page 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Page 3.png" alt=""><figcaption></figcaption></figure>
 
 Here is where you enter the 6 digit passcode which you can use to unlock and access Xaman once the installation has completed. When done, press **Next** then re-enter your new passcode and press the **Save** button.
 
@@ -57,26 +57,26 @@ Try to avoid using a simple passcode such as 123456, 000000, 111111, 222222, etc
 
 You will see the Biometric Authentication screen next. Here you can choose **Yes** if you would like to be given the option to sign into Xaman using biometrics and/or sign transactions using biometrics. If you are unsure about this, you can always enable this feature later.
 
-<figure><img src="../.gitbook/assets/Install - Page 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Page 8.png" alt=""><figcaption></figcaption></figure>
 
 On this screen, you get the option to enable push notifications on your phone. If you are unsure about this, you can always enable the feature later.
 
-<figure><img src="../.gitbook/assets/Install - Push notification screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Push notification screen.png" alt=""><figcaption></figcaption></figure>
 
 The ensuing 9 screens display import information about how Xaman and the XRP Ledger work, our Terms of Service and the current release notes. You will need to acknowledge that you have read through each page to continue.
 
-<figure><img src="../.gitbook/assets/Install - Page 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Page 4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Install - Page 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Page 5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Install - Page 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Page 6.png" alt=""><figcaption></figcaption></figure>
 
 Next, press the **+ Add account** button.
 
-<figure><img src="../.gitbook/assets/Install - Page 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Install - Page 7.png" alt=""><figcaption></figcaption></figure>
 
 Here is where you can decide which account you would like to manage with Xaman.
 
-<figure><img src="../.gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Add an account screen.png" alt=""><figcaption></figcaption></figure>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How to create a new XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Create a new account.png">Create a new account.png</a></td><td><a href="../all-about-scams/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr><tr><td>How to import an existing XRP Ledger Account</td><td></td><td></td><td><a href="../.gitbook/assets/Import an existing account.png">Import an existing account.png</a></td><td><a href="../all-about-scams/importing-your-account/">importing-your-account</a></td></tr><tr><td>How to import a Xumm Tangem Card</td><td></td><td></td><td><a href="../.gitbook/assets/Add Tangem card card.png">Add Tangem card card.png</a></td><td><a href="../all-about-scams/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How to create a new XRP Ledger account</td><td></td><td></td><td><a href=".gitbook/assets/Create a new account.png">Create a new account.png</a></td><td><a href="getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr><tr><td>How to import an existing XRP Ledger Account</td><td></td><td></td><td><a href=".gitbook/assets/Import an existing account.png">Import an existing account.png</a></td><td><a href="getting-started-with-xaman/importing-your-account/">importing-your-account</a></td></tr><tr><td>How to import a Xumm Tangem Card</td><td></td><td></td><td><a href=".gitbook/assets/Add Tangem card card.png">Add Tangem card card.png</a></td><td><a href="getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td></tr></tbody></table>

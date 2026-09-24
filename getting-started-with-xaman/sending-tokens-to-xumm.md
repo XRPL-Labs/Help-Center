@@ -73,17 +73,13 @@ Finally, we have the Summary screen. Our friend will review the transaction, the
 
 The person who you are sending tokens to must have a Trust Line setup for the same token. If you are getting that message, the recipient does not have a Trust Line setup for the token you are trying to send.
 
-
-
 **How to I setup a Trust Line for a token?**
 
 This article explains how to do this:
 
-{% content-ref url="how-to-create-a-trust-line.md" %}
-[how-to-create-a-trust-line.md](how-to-create-a-trust-line.md)
+{% content-ref url="../learning-more-about-xaman/how-to-create-a-trust-line.md" %}
+[how-to-create-a-trust-line.md](../learning-more-about-xaman/how-to-create-a-trust-line.md)
 {% endcontent-ref %}
-
-
 
 **Does each token have a different issuing r-address?**
 

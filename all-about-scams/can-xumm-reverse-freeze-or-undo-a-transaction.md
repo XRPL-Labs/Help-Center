@@ -26,7 +26,7 @@ It depends on the circumstances regarding your transaction.
 
 * **If you sent funds to a crypto exchange and they did not arrive.**\
   \
-  [Contact your crypto exchange](deposit-to-exchange-didnt-arrive.md) and explain the details of the transaction. Most exchanges have a process that you will need to go through to redirect your funds to the correct location.<br>
+  [Contact your crypto exchange](../learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md) and explain the details of the transaction. Most exchanges have a process that you will need to go through to redirect your funds to the correct location.<br>
 * **If you accidently sent your funds to the wrong r-address**\
   \
   Contact the destination address and see if they will send the funds back. Do this by sending a small payment (.000001 XRP) to the account with a polite message in the memo field asking them to return the funds.<br>

@@ -47,10 +47,10 @@ If you are not sure where to find a transaction hash, contact [Xaman Support](ht
 If your account was compromised (someone accessed it without your permission), act now to stop further losses:
 
 * **Re-key your account** and disable the master key for the compromised account. This prevents the scammers from accessing your account again.
-  * [How to re-key your XRPL account](how-to-rekey-your-account.md)
-  * [How to disable the master key on an account](how-to-disable-the-master-key.md)
+  * [How to re-key your XRPL account](../learning-more-about-xaman/how-to-rekey-your-account.md)
+  * [How to disable the master key on an account](../learning-more-about-xaman/how-to-disable-the-master-key.md)
 * If re-keying looks too complicated, **create a new account**, move your remaining funds to the new account, then delete the compromised account.
-  * [How to create a new XRP Ledger account using Xaman](your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
+  * [How to create a new XRP Ledger account using Xaman](../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
   * [How to delete your XRP Ledger account](../learning-more-about-xumm/deleting-an-xrpl-account.md)
   * Note: Trust lines will have to be duplicated (temporarily) in the new account until they can be removed from the old one, requiring enough XRP to cover reserves until the move is complete.
 

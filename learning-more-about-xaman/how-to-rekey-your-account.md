@@ -8,7 +8,7 @@ coverY: 0
 
 ### Concept and Implementation
 
-The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on  behalf of another account.&#x20;
+The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on behalf of another account.
 
 It is often used to protect an account by securing the master key and using the regular key in its place. This has multiple advantages;
 
@@ -34,7 +34,7 @@ This is the account that will have your XRP, your Trust Lines, Escrows, DEX tran
 
 If you are new to Xaman and don't have an XRP Ledger account yet, you can create one by following the instructions in this article:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
 
 ### Step 2: Make sure you have a Signing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
@@ -44,9 +44,7 @@ This account does not need to contain XRP and does not even need to be activated
 
 If you don't have signing account yet, you can create one by following the instructions in this article:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
-
-
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
 
 ### Step 3: How to set a Regular Key Pair <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
@@ -74,7 +72,7 @@ Once you have completed the following steps, you will be able to sign transactio
 
 <figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
 
-7\) Sign the transaction in Xaman and you're all done!&#x20;
+7\) Sign the transaction in Xaman and you're all done!
 
 Now when you look at your Signing account, notice how Xaman now reports "Regular key for Primary Acct".
 
@@ -86,6 +84,6 @@ If you configured the regular key so you would have a second signing account (E.
 
 ...but if you configured the regular key because your Primary account has been **compromised**, you are only half way there. The next step is to disable the master key for your Primary account.
 
-&#x20;This article explains how to proceed:
+This article explains how to proceed:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to disable the Master key</td><td></td><td></td><td><a href="how-to-disable-the-master-key.md">how-to-disable-the-master-key.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>

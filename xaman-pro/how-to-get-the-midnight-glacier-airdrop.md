@@ -55,8 +55,8 @@ Currently, Xaman Wallet is the **only XRP Ledger wallet** officially supported b
 
 Note: For instructions on how to scan a QR code with Xaman, see this article:
 
-{% content-ref url="../all-about-scams/how-to-scan-a-qr-code.md" %}
-[how-to-scan-a-qr-code.md](../all-about-scams/how-to-scan-a-qr-code.md)
+{% content-ref url="../learning-more-about-xaman/how-to-scan-a-qr-code.md" %}
+[how-to-scan-a-qr-code.md](../learning-more-about-xaman/how-to-scan-a-qr-code.md)
 {% endcontent-ref %}
 
 6\) Click the "NEXT" button.

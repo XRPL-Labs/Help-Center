@@ -34,8 +34,8 @@ Part of the process of opening an account includes going through the KYC process
 
 If you do not have a Euro Trust line configured for the GateHub EUR token, you can create one by following the instructions in this article:
 
-{% content-ref url="../all-about-scams/how-to-create-a-trust-line.md" %}
-[how-to-create-a-trust-line.md](../all-about-scams/how-to-create-a-trust-line.md)
+{% content-ref url="how-to-create-a-trust-line.md" %}
+[how-to-create-a-trust-line.md](how-to-create-a-trust-line.md)
 {% endcontent-ref %}
 
 2\) Tap the **Add Euro** button.
