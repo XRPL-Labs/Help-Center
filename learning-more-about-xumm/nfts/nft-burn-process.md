@@ -28,7 +28,7 @@ Or
 
 Navigate to _XRPL Tools > Raw JSON Transactions > NFTokenBurn Template_
 
-Update the field values to match the requirements of your transaction as follows;
+Update the field values to match the requirements of your transaction as follows:
 
 <table data-header-hidden><thead><tr><th width="131"></th><th></th></tr></thead><tbody><tr><td>Field</td><td>Description</td></tr><tr><td><code>Account</code></td><td><em>(Required)</em> The unique address of the <a href="https://xrpl.org/accounts.html">account</a> initiating the transaction.</td></tr><tr><td>Owner</td><td>(Optional) The owner of the NFToken to burn. Only used if that owner is different than the account sending this transaction.</td></tr><tr><td>NFTokenID</td><td><em>(Required)</em> The NFToken to be removed by this transaction.</td></tr></tbody></table>
 
@@ -61,7 +61,7 @@ Slide to Accept
 
 Sign the transaction
 
-Success or;
+Success or:
 
 ### Error Cases <a href="#error-cases" id="error-cases"></a>
 
