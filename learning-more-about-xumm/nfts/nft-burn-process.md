@@ -12,7 +12,7 @@ Resource: [https://xrpl.services/tools](https://xrpl.services/tools)
 
 Note: The following process **permanently deletes** an NFT and **cannot be undone!**
 
-Requirements;
+Requirements:
 
 * Must be NFT Owner
 
@@ -30,7 +30,7 @@ Navigate to _XRPL Tools > Raw JSON Transactions > NFTokenBurn Template_
 
 Update the field values to match the requirements of your transaction as follows;
 
-<table data-header-hidden><thead><tr><th width="131"></th><th></th></tr></thead><tbody><tr><td>Field</td><td>Description</td></tr><tr><td><code>Account</code></td><td><em>(Required)</em> The unique address of the <a href="https://xrpl.org/accounts.html">account</a> initiating the transaction.</td></tr><tr><td>Owner</td><td>Optional) The owner of the NFToken to burn. Only used if that owner is different than the account sending this transaction.</td></tr><tr><td>NFTokenID</td><td><em>(Required)</em> The NFToken to be removed by this transaction.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="131"></th><th></th></tr></thead><tbody><tr><td>Field</td><td>Description</td></tr><tr><td><code>Account</code></td><td><em>(Required)</em> The unique address of the <a href="https://xrpl.org/accounts.html">account</a> initiating the transaction.</td></tr><tr><td>Owner</td><td>(Optional) The owner of the NFToken to burn. Only used if that owner is different than the account sending this transaction.</td></tr><tr><td>NFTokenID</td><td><em>(Required)</em> The NFToken to be removed by this transaction.</td></tr></tbody></table>
 
 N.B. The "Sequence" and "Fee" fields are not present since Xaman will take care of this!
 
