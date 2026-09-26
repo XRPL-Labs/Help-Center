@@ -1,21 +1,16 @@
 ---
-description: Delete an NFT using XRPL.Services Raw JSO
+description: Delete an NFT using XRPL.Services Raw JSON
 ---
 
 # NFT Burn Process
 
-```
-// NOT Intended for general use 
-
-```
-
 > The `NFTokenBurn` transaction is used to remove a `NFToken` object from the `NFTokenPage` in which it is being held, effectively removing the token from the ledger (_burning_ it).
-
-
 
 Reference: [https://xrpl.org/nftokenburn.html](https://xrpl.org/nftokenburn.html)
 
 Resource: [https://xrpl.services/tools](https://xrpl.services/tools)
+
+Note: The following process **permanently deletes** an NFT and **cannot be undone!**
 
 Requirements;
 
@@ -23,7 +18,7 @@ Requirements;
 
 Or
 
-* if the `NFToken` has the `lsfBurnable` flag enabled
+* if the `NFToken` has the `flagBurnable` flag enabled
   * can be the issuer
   * or the issuer's authorized [`NFTokenMinter` ](https://xrpl.org/nftoken-authorized-minting.html)account instead
 
@@ -37,7 +32,7 @@ Update the field values to match the requirements of your transaction as follows
 
 <table data-header-hidden><thead><tr><th width="131"></th><th></th></tr></thead><tbody><tr><td>Field</td><td>Description</td></tr><tr><td><code>Account</code></td><td><em>(Required)</em> The unique address of the <a href="https://xrpl.org/accounts.html">account</a> initiating the transaction.</td></tr><tr><td>Owner</td><td>Optional) The owner of the NFToken to burn. Only used if that owner is different than the account sending this transaction.</td></tr><tr><td>NFTokenID</td><td><em>(Required)</em> The NFToken to be removed by this transaction.</td></tr></tbody></table>
 
-N.B. The "Sequence" and "Fee" fields are not present since XUMM will take care of this!
+N.B. The "Sequence" and "Fee" fields are not present since Xaman will take care of this!
 
 ```json
 {
@@ -48,7 +43,7 @@ N.B. The "Sequence" and "Fee" fields are not present since XUMM will take care o
 }
 ```
 
-Submit the transaction to Xumm via the button under the code
+Submit the transaction to Xaman via the button under the code
 
 ![](<../../.gitbook/assets/image (3) (6).png>)
 
@@ -60,7 +55,7 @@ A QR Code screen appears
 
 ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-In Xumm, either respond to the notification or scan the QR code to bring up the transaction&#x20;
+In Xaman, either respond to the notification or scan the QR code to bring up the transaction
 
 Slide to Accept
 
