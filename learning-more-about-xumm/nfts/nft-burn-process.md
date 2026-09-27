@@ -1,16 +1,38 @@
 ---
-description: Delete an NFT using XRPL.Services Raw JSON
+description: Burn (permanently delete) an NFT from the XRP Ledger
 ---
 
-# NFT Burn Process
+# How to Burn an NFT
 
-> The `NFTokenBurn` transaction is used to remove a `NFToken` object from the `NFTokenPage` in which it is being held, effectively removing the token from the ledger (_burning_ it).
+The following process **permanently deletes** an NFT and **cannot be undone!**
 
-Reference: [https://xrpl.org/nftokenburn.html](https://xrpl.org/nftokenburn.html)
+### Who can burn an NFT
 
-Resource: [https://xrpl.services/tools](https://xrpl.services/tools)
+* The current **owner** (holder) of the NFT
+* If the NFT was created with the `flagBurnable` flag enabled:
+  * The **issuer**, or
+  * The issuer's authorized [`NFTokenMinter`](https://xrpl.org/nftoken-authorized-minting.html) account
 
-Note: The following process **permanently deletes** an NFT and **cannot be undone!**
+### Method 1: Bithomp (easiest)
+
+If you already use Bithomp or don't mind connecting your wallet to a third-party site, this is the quickest option.&#x20;
+
+1. Go to [Bithomp](https://bithomp.com/) and connect your Xaman wallet.
+
+<figure><img src="../../.gitbook/assets/nft_burn_bithomp_signin.png" alt=""><figcaption></figcaption></figure>
+
+2. Find the NFT you want to burn in your collection. It will show the image, name, and Token ID.\
+   <br>
+3. Tap the red **Burn** button.
+4. Review ad sign the transaction in Xaman.
+
+\[Bithomp screenshot showing NFT card with Burn button]
+
+That's it. The NFT is gone.
+
+
+
+
 
 Requirements:
 

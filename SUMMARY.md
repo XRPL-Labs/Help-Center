@@ -84,7 +84,7 @@
 * [Deleting an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
 * [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
 * [NFTs](learning-more-about-xumm/nfts/README.md)
-  * [NFT Burn Process](learning-more-about-xumm/nfts/nft-burn-process.md)
+  * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
 * [Does Xaman offer Staking?](learning-more-about-xumm/does-xumm-offer-staking.md)
 * [General Terms and definitions](learning-more-about-xaman/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
 * [I've lost my account secret!](learning-more-about-xaman/ive-lost-my-account-secret.md)
