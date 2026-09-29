@@ -30,9 +30,69 @@ If you already use Bithomp or don't mind connecting your wallet to a third-party
 
 That's it. The NFT is gone.
 
+### Method 2: NFT Burn xApp
 
+A community xApp that lets you burn an NFT directly inside Xaman. You'll need the NFTokenID (64 hex characters).
 
+{% hint style="info" %}
+This is a community xApp (made by XRPLWin). It is not operated by Xaman.
+{% endhint %}
 
+1. Open the [NFT Burn xApp](https://xumm.app/detect/xapp:xrplwin.nftburn) in Xaman.
+2. Paste the NFTokenID.
+3. Tap Burn and confirm in Xaman.
+
+To find your NFTokenID, check the NFT details in Xaman or ask support.
+
+### Method 3: Manual (XRPL.Services Raw JSON)
+
+If the above options don't work for you, you can submit the burn transaction manually using XRPL.Services.<br>
+
+1. Sign in to XRPL.Services with the account that owns the NFT.
+
+\[XRPL.Services sign-in screenshot]
+
+Navigate to _XRPL Tools > Raw JSON Transactions > NFTokenBurn Template_.
+
+Update the field values as follows:
+
+| Field       | Description                                                                               |
+| ----------- | ----------------------------------------------------------------------------------------- |
+| `Account`   | _(Required)_ The address of the account initiating the transaction.                       |
+| `Owner`     | _(Optional)_ The owner of the NFToken. Only needed if different from the sending account. |
+| `NFTokenID` | _(Required)_ The 64-character NFTokenID to burn.                                          |
+
+N.B. The "Sequence" and "Fee" fields are not present since Xaman handles those.
+
+`{ "TransactionType": "NFTokenBurn", "Account": "rNCFjv8Ek5oDrNiMJ3pw6eLLFtMjZLJnf2", "Owner": "rvYAfWj5gh67oV6fW32ZzP3Aw4Eubs59B", "NFTokenID": "000B013A95F14B0044F78A264E41713C64B5F89242540EE208C3098E00000D65" }`
+
+Remove the `Owner` line if the sender is the owner.
+
+Submit the transaction via the button under the code block.
+
+\[Submit button screenshot]
+
+Update the Memo if necessary, then select **Confirm**.
+
+\[Confirm screenshot]
+
+A QR Code screen appears. In Xaman, respond to the notification or scan the QR code.
+
+\[QR code screenshot]
+
+Slide to Accept. Sign the transaction.
+
+***
+
+### Error Cases
+
+Besides errors that can occur for all transactions, NFTokenBurn can result in:
+
+| Error Code         | Description                                                      |
+| ------------------ | ---------------------------------------------------------------- |
+| `temDISABLED`      | The NonFungibleTokensV1 amendment is not enabled on the network. |
+| `tecNO_ENTRY`      | The specified TokenID was not found (already burned or invalid). |
+| `tecNO_PERMISSION` | The account does not have permission to burn this token.         |
 
 Requirements:
 
