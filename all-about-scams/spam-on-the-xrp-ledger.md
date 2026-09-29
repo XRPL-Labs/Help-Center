@@ -6,7 +6,7 @@ description: Understanding spam
 
 ### **What is spam?**
 
-Spam on the XRP Ledger is an unsolicited transaction from an account you have not dealt with. It is a transaction you did not ask for, sent by someone you do not know. The sender is almost always trying to get you to buy a token, join an airdrop, or visit a project.
+Spam on the XRP Ledger is an unsolicited transaction from an account you have not dealt with, sent by someone you do not know. The sender is almost always trying to get you to buy a token, join an airdrop, or visit a project.
 
 Most spam falls into a few categories:
 
@@ -17,6 +17,10 @@ Most spam falls into a few categories:
 * a dust payment, sent only to 'dust' your account. (See: [Dust attacks](dust-attacks.md))
 
 The spam transaction itself is not the danger. **The real danger is the bait behind it.**
+
+### A red flag worth knowing
+
+The bait is usually a follow-up. If someone contacts you after the spam about a "refund," "recovery," or "help," and asks you to send XRP first or to share your account secret, it is a scam. Spam is often the first step in a longer sequence, and the reply is where the real attempt starts. Route any such message to [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support).
 
 ### Is my account compromised?
 
