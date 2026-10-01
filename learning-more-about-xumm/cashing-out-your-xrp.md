@@ -4,45 +4,71 @@ description: How can I convert my XRP into fiat?
 
 # Cashing out your XRP
 
-There are several options for off-ramping funds from your XRP Ledger account managed by Xaman. (formerly Xumm)
+This guide explains how to convert the XRP in your Xaman wallet into fiat currency (USD, EUR, GBP, and more) and get it back out as real money. Where it lands — your bank account, a card, or another method — depends on the partner or exchange you choose. There are **two ways** to do it:<br>
 
-### Off-ramping fiat
+* **Route 1 — Off-ramp inside Xaman:** use a partnered off-ramp xApp. It runs in the app and pays the proceeds out to a method the partner supports. Fewest steps.
+* **Route 2 — Convert on a crypto exchange:** move your XRP to an exchange, sell it for fiat, and withdraw. More control, a few more steps.
 
-Gatehub has issued several stablecoins on the XRP Ledger. If your plan is to off-ramp fiat such as Euro, USD, GBP, etc. directly to your bank account, you can simply exchange your XRP for the desire stablecoin then send the send it to you bank via our integration with Gatehub.
+Pick Route 1 if you want the fastest, most hands-off path. Pick Route 2 if you'd rather manage the sale on an exchange you already use.
 
-Here is how:
+***
 
-{% content-ref url="cashing-out-with-gatehub.md" %}
-[cashing-out-with-gatehub.md](cashing-out-with-gatehub.md)
-{% endcontent-ref %}
+### Route 1 — Off-ramp inside Xaman
 
-### Off-ramping XRP
+We have partnered with several off-ramp providers, and you reach all of them from one place — the [**Buy/Sell XRP**](https://xaman.app/detect/xapp:xumm.buysellxrp) xApp. The xApp is where you start. You pick your country or currency, choose a partner, and then you follow that partner's own off-ramp process. For most of our partners this means creating an account, completing identity verification (KYC), and going through a few more steps. Once it is done, the partner sends your money out to the method you chose.&#x20;
 
-If you are interested in converting some of your XRP into fiat, you have several options.
+**How to sell using the Buy/Sell XRP xApp**<br>
 
-### **Option 1**
+1. Open Xaman and launch the **Buy/Sell XRP** xApp.\
+   \
+   ![](<../.gitbook/assets/image (108).png>)
+2. **Select your country or currency.** The xApp shows the partners available to you.
+3. Under **Supported providers**, tap **Open XAPP** on the partner you want. Partners that aren't available in your country are listed under **Unsupported providers** and are greyed out.\
+   \
+   ![](<../.gitbook/assets/image (109).png>)
+4. **Follow the partner's own process.** This usually means creating an account, completing identity verification (KYC, one-time and required to receive fiat), entering the amount of XRP to sell, and confirming. The exact steps differ by partner.
+5. The partner pays the fiat out to the method you chose (a bank account, a card, or in some regions PayPal or Venmo). Depending on the partner and your region, this takes from a few minutes to a few business days
 
-We have partnered with several exchanges, some of which offer off-ramp services.
+For the **United States**, the supported partners are **MoonPay**, **Topper (by Uphold)**, **Banxa**, and **Exolix**. Each runs its own sell flow. You enter the amount and verify your identity, and the partner pays you out. **How you get paid varies by partner.** Each partner decides how the fiat reaches you, and the options differ from one partner to the next — a bank account, a Visa or Mastercard, a debit card, and in some regions PayPal or Venmo. Not every partner supports every method: some pay to a card, some only to a bank account, and the exact choices also depend on your region. The partner shows you the payout options available to you during its flow, so you select the one you want there. Depending on the partner and the method you choose, the funds arrive anywhere from a few minutes to a few business days. The partners also differ from each other. Each one competes on its fees, its exchange rate, the regions it supports, and its customer service. The exact fee and rate are shown to you during the partner's own process. The steps are broadly the same across partners, so the worked example below, using **MoonPay Sell**, is a good guide for most of them. Where a partner's flow differs, follow that partner's own screens.
 
-<table><thead><tr><th>Exchange</th><th width="173.33333333333331">Link to xApp</th><th>Article</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (2) (2) (3).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:banxa.onofframp"><strong>Banxa xApp</strong></a></td><td>All About Banxa</td></tr><tr><td><img src="../.gitbook/assets/image (5) (1) (1) (2) (1) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:btcdirect.onofframp"><strong>BTCDirect xApp</strong></a></td><td>All About BTCDirect</td></tr><tr><td><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:guardarian.onofframp"><strong>Guardarian xApp</strong></a></td><td>All About Guardarian</td></tr><tr><td><img src="../.gitbook/assets/image (4) (2).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:uphold.topper"><strong>Topper xApp</strong></a></td><td><a href="../getting-started-with-xaman/buying-xrp/topper.md">All About Topper</a></td></tr></tbody></table>
+{% hint style="info" %}
+**Region availability** The partners you see depend on your country and each provider's local licensing — the xApp sorts them into **Supported** and **Unsupported** for you. If a partner is grayed out, or tells you it isn't available in your region, choose another supported partner, or continue to Route 2 below.
+{% endhint %}
 
-Due to the changing regulations in various countries, you'll need to reach out to your preferred exchange and see if they offer off-ramp services to your region.
+***
 
-### Option 2
+### Route 2 — Convert on a crypto exchange
 
-There are several exchanges in the blockchain space where you can convert XRP into fiat. Some of the bigger players include:
+If you'd rather sell on an exchange you already use, move your XRP there, sell it for fiat, and withdraw. You manage the account, the sale, and the withdrawal yourself.
 
-* [Gatehub](https://gatehub.net)
-* [Bitstamp](https://bitstamp.net)
-* [Uphold](https://uphold.com)
-* [Kraken](https://kraken.com)
-* [Bitrue](https://bitrue.com)
-* [Crypto.com](https://crypto.com)
+1. **Pick an exchange and sign up.** Choose an exchange that supposes XRP, create an account, and complete its identity verification (KYC).
+2. **Deposit XRP.** In the exchange, choose to deposit XRP. It will give you an XRP Ledger **r-address** and a **destination tag**. Send your XRP from your Xaman account to that r-address, and enter the destination tag exactly as the exchange shows it.
+3. **Sell XRP for fiat.** Once the deposit arrives, sell your XRP for the fiat currency you want (USD, EUR, GBP, etc.).
+4. **Withdraw the fiat.** Transfer it from the exchange to your bank account or another method the exchange supports.
 
-**Please** make sure that you **thoroughly research** the crypto exchange that you decide to go with. Each exchange has their own rules and fee structures that you should fully understand before signing up. As well, just because we provided a list of exchanges, it does not mean that we support or endorse any of them in any way. It is entirely up to you to decide which crypto exchange you use.
+***
 
-### **Frequently asked questions**
+### What happens next?
 
-#### **What about other XRP Ledger tokens? How to I cash them out?**
+* **Route 1:** the fiat is paid out to the method you chose (a bank account, a card, or another method). You'll get a confirmation from the provider; delivery time depends on the provider and your region.
+* **Route 2:** you've moved the XRP to the exchange and withdrawn the fiat. Once the withdrawal clears, your XRP Ledger account no longer holds that XRP.
+* In both cases, any XRP you did **not** sell stays in your Xaman wallet.
 
-Some crypto exchanges support multiple XRP Ledger tokens along with XRP. (Gatehub is a good example of one.) This should be one of the things that you research before you create an account with an exchange. If you find that your current exchange does not support your desired XRP Ledger token, contact them directly and see if they have any plans to do so in the future.
+***
+
+### Frequently Asked Questions
+
+**Which route should I use?**\
+Use **Route 1** if you want it done quickly inside Xaman with the least setup. Use **Route 2** if you already have an exchange account, want a specific fiat currency, or prefer to control the sale yourself.&#x20;
+
+**How long does it take?**\
+Route 1 is usually fastest — often a few minutes to a few business days, depending on the provider and your region. Route 2 usually takes longer because of the deposit, sale, and bank withdrawal steps.&#x20;
+
+**Why is a partner greyed out, or unavailable in my country?**\
+Partners operate only where they're licensed, and the **Buy/Sell XRP** xApp sorts them into **Supported** and **Unsupported** for your selected country. If a partner is greyed out, choose another supported partner in Route 1, or use Route 2 with an exchange that serves your region.&#x20;
+
+**Which partner should I choose? Which one has the best rates?**\
+We cannot tell you which is best. Each partner sets its own fees and its own exchange rates, and they differ from partner to partner. They also compete on more than price, such as the regions they support and their customer service. The partner shows you its exact fee and rate during its off-ramp process. If those do not work for you, you can stop at any time before you confirm, then choose a different supported partner.&#x20;
+
+**What about other XRP Ledger tokens? How do I cash them out?**\
+Some exchanges support tokens in addition to XRP. Check whether your exchange supports the specific token before you attempt to move it. If it doesn't, contact the exchange to ask whether they plan to add it.&#x20;
