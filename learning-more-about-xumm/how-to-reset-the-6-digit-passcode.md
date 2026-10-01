@@ -14,7 +14,7 @@ This 6 digit code is one of the primary ways to access the Xaman application. (T
 
 To change your passcode, launch Xaman, press **Settings** then **Security** then **Change passcode**.
 
-<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-3bd5fc48c52860642666bd00d4dd534a3f39e41b%2FSecurity%20-%20Change%20Passcode.png?alt=media" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://dxsqlba.dlvr.cloud/change_passcode_android.png" alt="Security > Change passcode"><figcaption></figcaption></figure>
 
 Enter in your current passcode, then enter in your new passcode. You have 1 million possible combinations to choose from. This is one of the primary security measures for protecting your funds, so do not choose 123456, 000000, 111111 or something similar. Your passcode should be difficult to guess.
 
