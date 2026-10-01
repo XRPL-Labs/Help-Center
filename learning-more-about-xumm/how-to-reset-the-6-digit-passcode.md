@@ -52,16 +52,23 @@ What _does_ come back: each account's r-address, balance and tokens are on the l
 
 #### **Frequently asked questions**
 
-**Where can find the account secret in Xaman?**\
+**Where can find the account secret in Xaman?**
+
+If you created your account using Xaman, you would have received a set of ‘secret numbers’. (8 rows of numbers, A to H, each with 6 digits.)  The app does not have the ability to display or recover your secret numbers. They are only displayed once, when an account is created. After that, there is no way to see them again.
+
+You can read more about this here:
+
+[**Can I view/export my account secret?**](../learning-more-about-xaman/can-i-view-export-my-account-secret.md)
+
 \
-**I've lost my account secret, what should I do?**\
+**I've lost my account secret, what should I do?**
+
+Xaman does not have an account secret recovery mechanism — no cloud backup, no "email me my seed," no support reset. If you lose your account secret, your funds remain safe on the XRPL ledger but become **permanently inaccessible** without it.
+
+If you account secret is truely lost, you only have a couple of options. See this article for the full picture:
+
+[**I've lost my account secret!**](https://help.xaman.app/app/learning-more-about-xaman/ive-lost-my-account-secret)\
 \
 **How can my passcode work one minute, then completely stop working the next?**\
 \
-<br>
-
-
-
-###
-
-###
+Xaman can be very sensitive to changes made to a phone, an operating system or to Xaman itself. Anything that might compromise the security of your XRP Ledger account is viewed as suspicious and may require that you prove account ownership. (Although this security feature may be a bit annoying, it helps ensure the safety of your account.)
