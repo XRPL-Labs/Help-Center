@@ -27,7 +27,7 @@ We have partnered with several off-ramp providers, and you reach all of them fro
    \
    ![](<../.gitbook/assets/image (109).png>)
 4. **Follow the partner's own process.** This usually means creating an account, completing identity verification (KYC, one-time and required to receive fiat), entering the amount of XRP to sell, and confirming. The exact steps differ by partner.
-5. The partner pays the fiat out to the method you chose (a bank account, a card, or in some regions PayPal or Venmo). Depending on the partner and your region, this takes from a few minutes to a few business days
+5. The partner pays the fiat out to the method you chose (a bank account, a card, or in some regions PayPal or Venmo). Depending on the partner and your region, this takes from a few minutes to a few business days.
 
 For the **United States**, the supported partners are **MoonPay**, **Topper (by Uphold)**, **Banxa**, and **Exolix**. Each runs its own sell flow. You enter the amount and verify your identity, and the partner pays you out. **How you get paid varies by partner.** Each partner decides how the fiat reaches you, and the options differ from one partner to the next — a bank account, a Visa or Mastercard, a debit card, and in some regions PayPal or Venmo. Not every partner supports every method: some pay to a card, some only to a bank account, and the exact choices also depend on your region. The partner shows you the payout options available to you during its flow, so you select the one you want there. Depending on the partner and the method you choose, the funds arrive anywhere from a few minutes to a few business days. The partners also differ from each other. Each one competes on its fees, its exchange rate, the regions it supports, and its customer service. The exact fee and rate are shown to you during the partner's own process.&#x20;
 
@@ -45,6 +45,12 @@ If you'd rather sell on an exchange you already use, move your XRP there, sell i
 2. **Deposit XRP.** In the exchange, choose to deposit XRP. It will give you an XRP Ledger **r-address** and a **destination tag**. Send your XRP from your Xaman account to that r-address, and enter the destination tag exactly as the exchange shows it.
 3. **Sell XRP for fiat.** Once the deposit arrives, sell your XRP for the fiat currency you want (USD, EUR, GBP, etc.).
 4. **Withdraw the fiat.** Transfer it from the exchange to your bank account or another method the exchange supports.
+
+{% hint style="info" %}
+**Important**\
+\
+Xaman does **not** support, endorse, or take responsibility for any exchange, and using one is entirely your choice. Each exchange has its own rules, fees, and withdrawal limits. **Research the exchange carefully** before you sign up or move funds.
+{% endhint %}
 
 ***
 
