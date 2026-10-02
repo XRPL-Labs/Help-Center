@@ -14,7 +14,7 @@ This 6 digit code is one of the primary ways to access the Xaman application. (T
 
 To change your passcode, launch Xaman, press **Settings** then **Security** then **Change passcode**.
 
-<figure><img src="https://dxsqlba.dlvr.cloud/change_passcode_android.png" alt="Security > Change passcode"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Security passcode.png" alt=""><figcaption></figcaption></figure>
 
 Enter in your current passcode, then enter in your new passcode. You have 1 million possible combinations to choose from. This is one of the primary security measures for protecting your funds, so do not choose 123456, 000000, 111111 or something similar. Your passcode should be difficult to guess.
 
@@ -32,9 +32,9 @@ We strongly recommend that you test your account secret before continuing.\
 
 
 
-1. Uninstall Xaman, then install it again.
+1. Uninstall Xaman, then install it again. (See: [**Installing Xaman**](../installing-xumm.md))
 2. When Xaman asks you to set a passcode, enter your new 6 digit code.
-3. Bring each account back: press **+ Add account**, then **Import an existing account**, and enter its **account secret**.
+3. Bring each account back: press **+ Add account**, then **Import an existing account**, and enter its **account secret**. (See: [**How to import your account**](../getting-started-with-xaman/importing-your-account/))
 
 Because the app data is wiped when you remove Xaman from your phone, a couple of things do not come back on their own:
 
@@ -65,7 +65,7 @@ You can read more about this here:
 
 Xaman does not have an account secret recovery mechanism — no cloud backup, no "email me my seed," no support reset. If you lose your account secret, your funds remain safe on the XRPL ledger but become **permanently inaccessible** without it.
 
-If you account secret is truely lost, you only have a couple of options. See this article for the full picture:
+If your account secret is truly lost, you only have a couple of options. See this article for the full picture:
 
 [**I've lost my account secret!**](https://help.xaman.app/app/learning-more-about-xaman/ive-lost-my-account-secret)\
 \
