@@ -17,37 +17,29 @@ Before you remove an account, make sure you have its **account secret** (Secret 
 1. Open Xaman and tap **Settings** (gear icon, bottom tab).
 2. Tap **Accounts**.
 3. Tap **Edit** on the account you want to remove.
-4. Scroll to the bottom and tap **Remove from Xaman** (red button).
-5.  A warning appears:
 
-    > **Warning** Your account will be deleted permanently from Xaman. Are you sure?
+<figure><img src=".gitbook/assets/Remove - 15.png" alt=""><figcaption></figcaption></figure>
+
+4. Scroll to the bottom and tap **Remove from Xaman** (red button).
+
+<figure><img src=".gitbook/assets/remove_account_3_edit_account.png" alt=""><figcaption></figcaption></figure>
+
+5. A warning appears:
+
+> **Warning** Your account will be deleted permanently from Xaman. Are you sure?
+
 6. **Full-access accounts** (imported with a secret or a Tangem card): you'll be asked to enter your 6-digit passcode. Biometrics are not offered at this step. **Read-only accounts:** no passcode is needed.
 7. Tap **Yes, I'm sure**.
 
-The account is removed and you're returned to the Accounts list.
+The account is removed and you are returned to the Accounts list.
 
 ***
 
-### What gets removed from your device
-
-| Item                               | Full access | Read-only         |
-| ---------------------------------- | ----------- | ----------------- |
-| Account record (address, label)    | Removed     | Removed           |
-| Trust lines                        | Removed     | Removed           |
-| Encrypted private key (keychain)   | Removed     | N/A (none stored) |
-| Push notifications for the address | Disabled    | Disabled          |
-
-### What stays
-
-* **Everything on-chain.** Your XRP balance, tokens, and full transaction history remain on the XRP Ledger. Removing the account from Xaman does not touch any of it.
-* **Your account secret.** It was never stored in a recoverable form on the device. It's the paper (or offline note) you wrote down at creation.
-* **Other accounts in Xaman.** Removing one account does not affect the others.
-
 ### How to get the account back
 
-Open Xaman, tap **+ Add account** → **Import an existing account**, and enter the same account secret (Secret Numbers, Family Seed, or Mnemonic). You'll be logged back into the **same** r-address with the same balance and history. It's not a new account — it's the same one.
+Open Xaman, tap **+ Add account** → **Import an existing account** → **Full access**, and enter the same account secret (Secret Numbers, Family Seed, or Mnemonic). You'll be logged back into the **same** r-address with the same balance and history. It's not a new account — it's the same one.
 
-For Tangem card accounts, re-pair the card the same way you did originally (see [Importing your account](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account)).
+For Xaman card accounts, re-pair the card the same way you did originally. (See [Importing your account](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account)).
 
 ***
 
@@ -61,8 +53,6 @@ For Tangem card accounts, re-pair the card the same way you did originally (see 
 | Support tickets in-app | Unaffected                 | No longer reachable                   |
 | Re-import needed       | Only the removed account   | Every account                         |
 | Passcode               | Unchanged                  | Reset on reinstall                    |
-
-If you only need to get rid of one account, use **Remove from Xaman**. If you're setting up a fresh install, see [How to reset the 6 digit passcode](https://help.xaman.app/app/learning-more-about-xaman/how-to-reset-the-6-digit-passcode) for the uninstall/reinstall path.
 
 ***
 
