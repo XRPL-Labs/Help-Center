@@ -32,7 +32,7 @@ We strongly recommend that you test your account secret before continuing.\
 
 
 
-1. Uninstall Xaman, then install it again. (See: [**Installing Xaman**](../installing-xumm.md))
+1. Uninstall Xaman, then install it again. (See: [**Installing Xaman**](../getting-started-with-xaman/installing-xumm.md))
 2. When Xaman asks you to set a passcode, enter your new 6 digit code.
 3. Bring each account back: press **+ Add account**, then **Import an existing account**, and enter its **account secret**. (See: [**How to import your account**](../getting-started-with-xaman/importing-your-account/))
 

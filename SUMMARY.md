@@ -10,6 +10,7 @@
   * [Xaman & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
   * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)
 * [🔐 Self-Custody 101: Staying Safe with Xaman](getting-started-with-xaman/self-custody-101-staying-safe-with-xaman.md)
+* [Installing Xaman](getting-started-with-xaman/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/README.md)
   * [How to create an XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
 * [Activating an account (XRPL)](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/README.md)
@@ -53,7 +54,7 @@
 
 ***
 
-* [Installing Xaman](installing-xumm.md)
+* [How to remove an account from Xaman](how-to-remove-an-account-from-xaman.md)
 * [How to create a USDC Trust Line](how-to-create-a-usdc-trust-line.md)
 
 ## Learning more about Xaman
