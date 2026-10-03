@@ -45,14 +45,14 @@ For Xaman card accounts, open Xaman, tap **Settings** → **Accounts** → **+ A
 
 ### Removing an account vs. uninstalling the app
 
-|                        | Remove an account                  | Uninstall the app                 |
-| ---------------------- | ---------------------------------- | --------------------------------- |
-| Scope                  | One XRPL account managed wit Xaman | All XRPL accounts manged by Xaman |
-| Funds on the ledger    | Unaffected                         | Unaffected                        |
-| Address Book           | Unaffected                         | Wiped                             |
-| Support tickets in-app | Unaffected                         | No longer accessible              |
-| Re-import needed       | Only the removed account           | Every account                     |
-| Passcode               | Unchanged                          | Reset on reinstall                |
+|                        | Remove an account                   | Uninstall the app                    |
+| ---------------------- | ----------------------------------- | ------------------------------------ |
+| Scope                  | One XRPL account managed with Xaman | All XRPL accounts managed with Xaman |
+| Funds on the ledger    | Unaffected                          | Unaffected                           |
+| Address Book           | Unaffected                          | Wiped                                |
+| Support tickets in-app | Unaffected                          | No longer accessible                 |
+| Re-import needed       | Only the removed account            | Every account                        |
+| Passcode               | Unchanged                           | Reset on reinstall                   |
 
 ***
 
