@@ -12,9 +12,9 @@ On the XRP Ledger, an escrow is a built-in mechanism that locks assets, either X
 
 A scammer sends you an unsolicited escrow that appears to hold a large amount of a token. They attach a memo with a link telling you to visit a website to "finalize" or "release" it. The escrow itself is not the attack. **The signature on the website is the attack.**
 
-This escrow scam is a a form of phishing that works in two distinct steps:
+This escrow scam is a form of phishing that works in two distinct steps:
 
-* The "lure" via memos: The XRP Ledger is public and permissionles&#x73;**,** so anyone can initiate an escrow naming your account as the destination. Scammers send an unsolicited escrow appearing to hold a large amount of value, then attach custom text in the `Memo` field containing a phishing link. This link tells you to visit an external website to "verify," "claim," "finalize," or "release" the funds. The high token value is purely a lure.
+* The "lure" via memos: The XRP Ledger is public and permissionless, so anyone can initiate an escrow naming your account as the destination. Scammers send an unsolicited escrow appearing to hold a large amount of value, then attach custom text in the `Memo` field containing a phishing link. This link tells you to visit an external website to "verify," "claim," "finalize," or "release" the funds. The high token value is purely a lure.
 * The true vector of attack: Simply receiving an unsolicited escrow on-chain does not grant a scammer access to your account or endanger your funds, the escrow object itself is not the attack. The actual attack occurs off-chain when you visit the scammer's website and sign a malicious transaction with your wallet (such as a `SetRegularKey` transaction, which hands signing control of your XRPL account over to the attacker).
 
 ### What the attacker is trying to do
