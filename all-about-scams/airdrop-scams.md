@@ -41,6 +41,31 @@ Ecosystem projects occasionally run genuine airdrops. The difference is never th
 * A real airdrop never requires you to sign something you cannot read. Xaman shows you exactly what you are signing in every prompt — **if you cannot explain the transaction in one sentence, do not sign it.**
 * A real airdrop has no artificial countdown designed to stop you from checking. Deadlines that punish you for being careful are a scam signal.
 
+### What we are doing about scams
+
+The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognizing a scam before you act on it.
+
+What we do, every day:
+
+* **Blacklist.** Xaman maintains a blacklist of thousands of known scam and spam accounts, updated daily from multiple sources: Ripple's own flags, the xrpl.to scam database, OFAC sanctions, and our internal monitoring. When you try to send to a blacklisted address, the app shows a warning before you sign.
+* **Pre-sign warnings.** Before you confirm any transaction, Xaman checks the destination against the blacklist and other threat feeds. Known-bad addresses are flagged so you see the warning before you tap sign.
+* **Memo suppression.** Memos from blacklisted or known-spam accounts are hidden by default, so a phishing link does not sit in your transaction history looking like a legitimate message.
+* **Scam website takedowns.** We actively report and pursue takedown of websites that impersonate Xaman or the XRP Ledger.
+* **Social media enforcement.** We report scam accounts on X and other platforms for removal.
+* **Support-led forensics.** When you report a suspicious transaction, our team pulls the full ledger history, checks every involved address against the blacklist, and identifies the attack pattern. This is how new scam accounts get flagged and added.
+* **NFT offer blocking.** You can turn off incoming NFT offers in your account settings so unsolicited buy offers stop appearing in your app.
+
+What we cannot do:
+
+* Reverse or delete a completed transaction.
+* Stop an unsolicited incoming payment, escrow, or NFT at the protocol level.
+* Control what a third-party website asks you to sign.
+* Guarantee that a brand-new scam account has already been flagged.
+
+The single best way to keep your assets safe in the future is[ **to contact us**](https://xumm.app/detect/xapp:xumm.support) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
+
+It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support) before you act. We will check it for you.
+
 ### A red flag worth knowing
 
 Impersonation accounts do not only promote fake airdrops — they also fake "rewards", "token unlocks", "staking bonuses" and "mystery box" claims. The template is identical: a lookalike account, a deadline, and a "connect and sign" button. When in doubt, apply the three checks above, or ask [Xaman Support](https://xumm.app/detect/xapp:xumm.support) first. Asking costs nothing; signing the wrong thing costs your account.
