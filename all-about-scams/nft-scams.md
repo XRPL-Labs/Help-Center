@@ -17,11 +17,11 @@ A common scam works like this: an offer for an NFT that sounds valuable simply *
 The steps below were verified on-chain from a real case:
 
 1. **The scammer mints a fake NFT.** Creating an NFT costs a fraction of a cent. The scammer gives it a plausible name — for example "Ripple Credit Certificate" or "Earning XRPL Key" — and points the image at a free image host. The NFT has no value.
-2. **The offer appears in your app.** No one messages you. When you open Xaman, the offer is simply there — a NFT being sold to you at a price. No contact, no prior relationship, no context. That is the point: it just shows up, and it looks legitimate.
+2. **The offer appears in your app.** No one messages you. When you open Xaman, the offer is simply there — an NFT being sold to you at a price. No contact, no prior relationship, no context. That is the point: it just shows up, and it looks legitimate.
 3. **You sign what looks like accepting an offer.** The screen may say "selling for _x_ XRP" or similar — that wording describes the _seller's_ side of the trade. What you actually signed is a **buy offer**: "I will pay _x_ XRP for this NFT."
 4. **The scammer accepts.** Seconds later on the ledger. Your XRP moves to the scammer, the worthless NFT moves to you. Final.
 
-**Note:** While most NFT scams involve XRP, a NFT offer can be made with **any** issued token on the XRP Ledger.
+**Note:** While most NFT scams involve XRP, an NFT offer can be made with **any** issued token on the XRP Ledger.
 
 ### Signs of a fake offer
 
@@ -54,13 +54,13 @@ This stops other accounts from creating new NFT offers to your account.
 
 After a scam, your account is often targeted again. You may see two kinds of follow-up:
 
-* **A "recovery" or "refund" contact.** Someone reaches out — often posing as support or a "crypto recovery" service  — offering to get your funds back for a fee or by asking you for your account secret. This is a second scam. Xaman never asks for your account secret, and no one can reverse a completed transaction.
+* **A "recovery" or "refund" contact.** Someone reaches out — often posing as support or a "crypto recovery" service — offering to get your funds back for a fee or by asking you for your account secret. This is a second scam. Xaman never asks for your account secret, and no one can reverse a completed transaction.
 * **Tiny payments from unknown addresses.** These are usually 1 drop of XRP, but they can also be a single unit of a token, for example 1 of a token you already hold. These payments are worthless. They may be **address poisoning**: the sender's address is put into your history so that later, when you make an outgoing payment, you might copy that look-alike address instead of the real one. The fix is simple: **never copy an address from your transaction history or autocomplete.** Always take it from the verified, known-good source and check it character by character.
 
 ### What to do if you already accepted
 
 1. **The XRP cannot be recovered.** Anyone who promises to recover it for a fee is running a second scam. Xaman will never ask for your account secret, and no one can reverse an accepted NFT offer.
-2. **File a police report.** Include:&#x20;
+2. **File a police report**. Include:&#x20;
 
 * Amount lost:
 * Transaction hash / ID:
