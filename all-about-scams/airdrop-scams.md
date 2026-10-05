@@ -70,7 +70,7 @@ It is very important that you **never sign a transaction you did not start yours
 
 Impersonation accounts do not only promote fake airdrops — they also fake "rewards", "token unlocks", "staking bonuses" and "mystery box" claims. The template is identical: a lookalike account, a deadline, and a "connect and sign" button. When in doubt, apply the three checks above, or ask [Xaman Support](https://xumm.app/detect/xapp:xumm.support) first. Asking costs nothing; signing the wrong thing costs your account.
 
-**See also:** [_I've been scammed_](ive-been-scammed.md) · _I received a suspicious NFT offer_ · _I'm receiving tiny "dust" payments on my account_
+**See also:** [_I've been scammed_](ive-been-scammed.md) · [_NFT Scams_](nft-scams.md) · [_I'm receiving tiny "dust" payments on my account_](dust-attacks.md)
 
 ***
 
