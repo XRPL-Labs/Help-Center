@@ -18,8 +18,6 @@ The goal is usually **address poisoning**: getting the attacker's address into y
 
 The dust is the setup, not the theft. The only real risk is a future mistake: copying the wrong, familiar-looking address from your own history instead of the verified one.
 
-The dust itself never costs you anything. The only real risk is a future mistake: copying the wrong, familiar-looking address from your own history instead of the verified one.
-
 ### What it looks like
 
 * Payments of 1 drop (0.000001 XRP) from addresses you have never dealt with.
