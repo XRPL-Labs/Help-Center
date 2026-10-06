@@ -78,7 +78,7 @@ If you are unsure whether a transaction is spam or something more, contact [**Xa
 
 #### What we are doing about scams
 
-The XRP Ledger is a decentralised, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognizing a scam before you act on it.
+The XRP Ledger is a decentralised, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognising a scam before you act on it.
 
 What we do, every day:
 
