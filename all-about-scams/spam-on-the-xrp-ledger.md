@@ -4,7 +4,7 @@ description: I received spam in my Event log
 
 # Spam on the XRP Ledger
 
-\*\*The spam transaction itself is not the danger. The real danger is the bait behind it.\*\*
+**The spam transaction itself is not the danger. The real danger is the bait behind it.**
 
 ### What is spam?
 
@@ -66,7 +66,7 @@ The transaction itself stays in your history, because it is public and permanent
 
 If you are unsure whether a transaction is spam or something more, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) and we will take a look.
 
-### What to do&#x20;
+### What to do
 
 1. **Ignore it.** Spam cannot be used against you directly, and replying only tells the sender you are reading it.
 2. **Do not click the links.** A link in a memo leads somewhere the sender chose. It is not a safe place.
