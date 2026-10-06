@@ -34,7 +34,7 @@ The only thing spam changes is your transaction history. Nobody can read your ac
 
 Spam on the XRP Ledger typically appears as one of the following in your account log:
 
-* **XRP dust.** A payment of 1 drop (0.000001 XRP) from an address you do not recognise. The XRP amount is negligible; the goal is the memo or the address itself.
+* **XRP dust.** A payment of 1 drop (0.000001 XRP) from an address you do not recognize. The XRP amount is negligible; the goal is the memo or the address itself.
 * **XRP with a memo.** A small XRP payment carrying a text memo that contains a URL, a token name, or a "claim your airdrop" message. The XRP is just the delivery mechanism.
 * **NFT spam.** An unsolicited `NFTokenOffer` of a low-value or worthless NFT. NFTs do not require a trust line, so anyone can push one to any account.
 * **Pre-trusted token drop.** A single unit of a token from an issuer you already have a trust line to. The token amount is negligible; the goal is the memo or the address itself.
@@ -78,7 +78,7 @@ If you are unsure whether a transaction is spam or something more, contact [**Xa
 
 #### What we are doing about scams
 
-The XRP Ledger is a decentralised, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognising a scam before you act on it.
+The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defense is recognizing a scam before you act on it.
 
 What we do, every day:
 
