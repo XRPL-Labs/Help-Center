@@ -38,7 +38,7 @@ The steps below were verified on-chain from a real case:
 * **Check the direction before you sign.** Every signature in Xaman shows you what you are signing. If XRP is leaving your account, you are buying — and you should be certain you want to buy.
 * **Check the NFT's history.** When was it minted, and by whom? A token minted ten minutes ago by an account with no history is worthless.
 * **Turn off "Allow Incoming NFT Offers" in Xaman.** Be clear about what it does: it blocks offers _targeting your account_ (offers that can only be accepted by you). It does **not** stop you from signing a buy offer — that choice is always yours, which is why the first three points matter most.
-* **Contact us!** If you are ever unsure, contact us via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support) before you act. We can verify whether an offer is legitimate before you sign anything.
+* **Contact us!** If you are ever unsure, contact us via the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) before you act. We can verify whether an offer is legitimate before you sign anything.
 
 ### How to block incoming NFT offers
 
@@ -68,14 +68,14 @@ After a scam, your account is often targeted again. You may see two kinds of fol
 * Your XRP Ledger address (r-address):
 * Date/time of incident:
 
-If you are not sure where to find all of this information, contact us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) and we will help you pull it from the ledger.
+If you are not sure where to find all of this information, contact us via the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) and we will help you pull it from the ledger.
 
 3. **Turn off "Allow Incoming NFT Offers"** in your settings (as described above).
 4. **Watch for the 1-drop follow-up activity** described earlier, and do not act on any "recovery" contact.
 
 ### What we are doing about scams
 
-The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognizing a scam before you act on it.
+The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defense is recognizing a scam before you act on it.
 
 What we do, every day:
 
@@ -94,9 +94,9 @@ What we cannot do:
 * Control what a third-party website asks you to sign.
 * Guarantee that a brand-new scam account has already been flagged.
 
-The single best way to keep your assets safe in the future is[ **to contact us**](https://xumm.app/detect/xapp:xumm.support) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
+The single best way to keep your assets safe in the future is[ **to contact us**](https://xaman.app/detect/xapp:xumm.support-md) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
 
-It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support) before you act. We will check it for you.
+It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) before you act. We will check it for you.
 
 ### Summary
 

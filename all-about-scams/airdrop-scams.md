@@ -19,13 +19,13 @@ This is our official channel on X: **@XamanWallet**. Any other account using a v
 
 ### The one rule that catches it
 
-**Xaman will never ask you to claim anything.** No airdrops, no rewards, no "sign before the window closes." You should never sign something you don't fully understand. If in doubt, contact us via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support).
+**Xaman will never ask you to claim anything.** No airdrops, no rewards, no "sign before the window closes." You should never sign something you don't fully understand. If in doubt, contact us via the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md).
 
 ### Three checks before you tap "claim"
 
 1. **Is it from the real account?** Compare the account name _and_ the handle, character by character. Xaman's official X account is **@XamanWallet**. A checkmark is a paid verification — it does not prove affiliation.
 2. **Does it ask you to connect or sign on a site you do not know?** If yes, stop. "Connect your wallet and sign to claim" is the standard wallet-drainer pattern.
-3. **Have you contacted Xaman Support to confirm?** If you are not 100% sure the airdrop is legit, contact us via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support).
+3. **Have you contacted Xaman Support to confirm?** If you are not 100% sure the airdrop is legit, contact us via the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md).
 
 ### What to do
 
@@ -43,7 +43,7 @@ Ecosystem projects occasionally run genuine airdrops. The difference is never th
 
 ### What we are doing about scams
 
-The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognizing a scam before you act on it.
+The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defense is recognizing a scam before you act on it.
 
 What we do, every day:
 
@@ -62,13 +62,13 @@ What we cannot do:
 * Control what a third-party website asks you to sign.
 * Guarantee that a brand-new scam account has already been flagged.
 
-The single best way to keep your assets safe in the future is[ **to contact us**](https://xumm.app/detect/xapp:xumm.support) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
+The single best way to keep your assets safe in the future is[ **to contact us**](https://xaman.app/detect/xapp:xumm.support-md) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
 
-It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support) before you act. We will check it for you.
+It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) before you act. We will check it for you.
 
 ### A red flag worth knowing
 
-Impersonation accounts do not only promote fake airdrops — they also fake "rewards", "token unlocks", "staking bonuses" and "mystery box" claims. The template is identical: a lookalike account, a deadline, and a "connect and sign" button. When in doubt, apply the three checks above, or ask [Xaman Support](https://xumm.app/detect/xapp:xumm.support) first. Asking costs nothing; signing the wrong thing costs your account.
+Impersonation accounts do not only promote fake airdrops — they also fake "rewards", "token unlocks", "staking bonuses" and "mystery box" claims. The template is identical: a lookalike account, a deadline, and a "connect and sign" button. When in doubt, apply the three checks above, or ask [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) first. Asking costs nothing; signing the wrong thing costs your account.
 
 **See also:** [_I've been scammed_](ive-been-scammed.md) · [_NFT Scams_](nft-scams.md) · [_I'm receiving tiny "dust" payments on my account_](dust-attacks.md)
 
