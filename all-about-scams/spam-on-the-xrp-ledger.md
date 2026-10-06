@@ -15,7 +15,7 @@ Most spam falls into a few categories:
 * a scam that wants you to buy an NFT
 * a scam that wants you to contact the sender
 * a dust payment, sent only to 'dust' your account (see: [Dust attacks](dust-attacks.md))
-* a token sent from an issuer you do not recognise, often with a memo asking you to "claim" or "verify"
+* an unexpected token or XRP received containing a memo asking you to "claim" or "verify"
 
 The spam transaction itself is not the danger. **The real danger is the bait behind it.**
 
@@ -30,7 +30,7 @@ No. A spam transaction:
 
 The only thing spam changes is your transaction history. Nobody can read your account secret from it. As long as you keep your account secret safe, your funds are safe.
 
-### What it looks like
+#### What it looks like
 
 Spam on the XRP Ledger typically appears as one of the following in your account log:
 
@@ -64,21 +64,21 @@ Xaman checks every incoming transaction against its blacklist of thousands of kn
 
 The transaction itself stays in your history, because it is public and permanent. What changes is how it is displayed.
 
-If you are unsure whether a transaction is spam or something more, cotact [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support) and we will take a look.
+If you are unsure whether a transaction is spam or something more, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) and we will take a look.
 
 #### What to do about spam transactions
 
 1. **Ignore it.** Spam cannot be used against you directly, and replying only tells the sender you are reading it.
 2. **Do not click the links.** A link in a memo leads somewhere the sender chose. It is not a safe place.
-3. **Do not return the token "to be polite".** Sending it back costs you a network fee, and it flags you as an active account for more targeted spam. If you do choose to return it, understand that you are paying to send it and will most likely be targetted for further scams.
+3. **Do not return the token "to be polite".** Sending it back costs you a network fee, and it flags you as an active account for more targeted spam. If you do choose to return it, understand that you are paying to send it and will most likely be targeted for further scams.
 4. **Do not pay anyone to "clean it up".** On-chain transactions cannot be deleted, by anyone.
 5. **Treat any follow-up contact as a scam.** If someone contacts you after the spam about a "refund," "recovery," or "help," and asks you to send XRP first or to share your account secret, it is a scam. Spam is often the first step in a longer sequence, and the reply is where the real attempt starts.
-6. **If the spam is persistent or you are unsure**, contact [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support). We can check the pattern, flag the accounts, and let you know if there is anything you should do.
+6. **If the spam is persistent or you are unsure**, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md). We can check the pattern, flag the accounts, and let you know if there is anything you should do.
 7. **If you clicked something or sent funds**, follow the steps in [_I've been scammed_](ive-been-scammed.md).
 
 #### What we are doing about scams
 
-The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognizing a scam before you act on it.
+The XRP Ledger is a decentralised, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognizing a scam before you act on it.
 
 What we do, every day:
 
@@ -97,8 +97,9 @@ What we cannot do:
 * Control what a third-party website asks you to sign.
 * Guarantee that a brand-new scam account has already been flagged.
 
-The single best way to keep your assets safe in the future is [**to contact us**](https://xumm.app/detect/xapp:xumm.support) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
+The single best way to keep your assets safe in the future is [**to contact us**](https://xaman.app/detect/xapp:xumm.support-md) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
 
-It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support) before you act. We will check it for you.
+It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) before you act. We will check it for you.
 
 **See also:** [_I've been scammed_](ive-been-scammed.md) · [_NFT scams_](nft-scams.md) · [_Dust attacks_](dust-attacks.md)
+
