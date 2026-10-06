@@ -44,7 +44,7 @@ The only thing a dust payment changes is your transaction history. That is exact
 2. **Never copy an address from your own transaction history.** When you send XRP or a token, take the destination address from the known-good source, such as a verified contact in your Address Book. Always check the r-address character by character.
 3. **Treat any follow-up contact as a scam.** If someone contacts you about a "refund," "recovery of your funds," or "cleaning up" your account, especially if they ask you to send XRP first or to share your account secret, it is a scam. Xaman will never ask for your account secret.
 4. **Do not pay anyone to "remove" the payments.** On-chain transactions cannot be deleted, by anyone.
-5. **If you have already sent funds to an unfamiliar address**, follow the steps in [_I've been scammed_](ive-been-scammed.md): file a police report, contact Xaman support via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support), and be alert for second-stage "recovery" scams.
+5. **If you have already sent funds to an unfamiliar address**, follow the steps in [_I've been scammed_](ive-been-scammed.md): file a police report, contact Xaman support via the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md), and be alert for second-stage "recovery" scams.
 
 #### Advanced option: stop the payments at your account
 
@@ -67,7 +67,7 @@ When you turn it on, your account blocks incoming payments from any account you 
 
 **How to turn it on**
 
-It is set with a ledger transaction (`AccountSet` with the `asfDepositAuth` flag). If you want to use it, contact us via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support) and we will help you set it up.
+It is set with a ledger transaction (`AccountSet` with the `asfDepositAuth` flag). If you want to use it, contact us via the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) and we will help you set it up.
 
 **Our advice**
 
@@ -77,11 +77,11 @@ For most people, the best response to dust is to ignore it, and never copy an ad
 
 On the XRP Ledger, anyone can send anyone a payment as small as 1 drop, and every payment is public and permanent. (A single unit of a token works the same way, but a token can only be sent to an account that already trusts that token's issuer.) A single tiny payment is not, by itself, evidence of anything.
 
-The red flag is a _series_ of tiny payments from a _rotating_ set of addresses, especially right after a scam. That pattern is consistent with someone setting up an address-poisoning attack against your account. If you see it, do not copy any address from your own transaction history, and treat any follow-up contact with extra caution. If you have already lost funds, remember that "recovery" scams are a common follow-up after a loss, and route anything you are unsure about to [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support).
+The red flag is a _series_ of tiny payments from a _rotating_ set of addresses, especially right after a scam. That pattern is consistent with someone setting up an address-poisoning attack against your account. If you see it, do not copy any address from your own transaction history, and treat any follow-up contact with extra caution. If you have already lost funds, remember that "recovery" scams are a common follow-up after a loss, and route anything you are unsure about to [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md).
 
 ### What we are doing about scams
 
-The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defence is recognizing a scam before you act on it.
+The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defense is recognizing a scam before you act on it.
 
 What we do, every day:
 
@@ -100,9 +100,9 @@ What we cannot do:
 * Control what a third-party website asks you to sign.
 * Guarantee that a brand-new scam account has already been flagged.
 
-The single best way to keep your assets safe in the future is[ **to contact us**](https://xumm.app/detect/xapp:xumm.support) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
+The single best way to keep your assets safe in the future is[ **to contact us**](https://xaman.app/detect/xapp:xumm.support-md) if you are ever unsure about something. We live and breathe the XRP Ledger. We are constantly searching for new scams and are always here to help you verify whether an offer, airdrop, or transaction is safe before you "Slide to send."
 
-It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support) before you act. We will check it for you.
+It is very important that you **never sign a transaction you did not start yourself**. If something looks unexpected, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) before you act. We will check it for you.
 
 **See also:** [_I've been scammed_](ive-been-scammed.md) · [_NFT scams_](nft-scams.md)
 
