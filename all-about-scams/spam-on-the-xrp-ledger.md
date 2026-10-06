@@ -1,10 +1,12 @@
 ---
-description: Understanding spam
+description: I received spam in my Event log
 ---
 
 # Spam on the XRP Ledger
 
-#### What is spam?
+\*\*The spam transaction itself is not the danger. The real danger is the bait behind it.\*\*
+
+### What is spam?
 
 Spam on the XRP Ledger is an unsolicited transaction from an account you have not dealt with, sent by someone you do not know. The sender is almost always trying to get you to buy a token, join an airdrop, or visit a project.
 
@@ -17,20 +19,7 @@ Most spam falls into a few categories:
 * a dust payment, sent only to 'dust' your account (see: [Dust attacks](dust-attacks.md))
 * an unexpected token or XRP received containing a memo asking you to "claim" or "verify"
 
-The spam transaction itself is not the danger. **The real danger is the bait behind it.**
-
-#### Is my account compromised?
-
-No. A spam transaction:
-
-* does not spend your XRP
-* does not cost you network fees
-* does not change any settings on your account
-* does not give the sender any access to your account
-
-The only thing spam changes is your transaction history. Nobody can read your account secret from it. As long as you keep your account secret safe, your funds are safe.
-
-#### What it looks like
+### What it looks like
 
 Spam on the XRP Ledger typically appears as one of the following in your account log:
 
@@ -41,7 +30,18 @@ Spam on the XRP Ledger typically appears as one of the following in your account
 
 In all cases, the transaction has no value to you. Do not interact with it and do not visit any URL in the memo.
 
-#### How did they get my address?
+### Is my account compromised?
+
+No. A spam transaction:
+
+* does not spend your XRP
+* does not cost you network fees
+* does not change any settings on your account
+* does not give the sender any access to your account
+
+The only thing spam changes is your transaction history. Nobody can read your account secret from it. As long as you keep your account secret safe, your funds are safe.
+
+### How did they get my address?
 
 The XRP Ledger is a public blockchain, and every account address is public. A scammer can get your address if you:
 
@@ -54,7 +54,7 @@ That is why people who have "done nothing" can still receive spam. A fresh accou
 
 There is currently no way to make an address unfindable, and no setting that stops incoming spam at the account level.
 
-#### How Xaman handles spam
+### How Xaman handles spam
 
 Xaman checks every incoming transaction against its blacklist of thousands of known scam and spam accounts. When a match is found:
 
@@ -66,7 +66,7 @@ The transaction itself stays in your history, because it is public and permanent
 
 If you are unsure whether a transaction is spam or something more, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) and we will take a look.
 
-#### What to do about spam transactions
+### What to do&#x20;
 
 1. **Ignore it.** Spam cannot be used against you directly, and replying only tells the sender you are reading it.
 2. **Do not click the links.** A link in a memo leads somewhere the sender chose. It is not a safe place.
@@ -76,7 +76,7 @@ If you are unsure whether a transaction is spam or something more, contact [**Xa
 6. **If the spam is persistent or you are unsure**, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md). We can check the pattern, flag the accounts, and let you know if there is anything you should do.
 7. **If you clicked something or sent funds**, follow the steps in [_I've been scammed_](ive-been-scammed.md).
 
-#### What we are doing about scams
+### What we are doing about scams
 
 The XRP Ledger is a decentralized, public network. There are no "network police," no central authority that can reverse a transaction, block an address at the protocol level, or remove a scammer from the ledger. Every address is public, and anyone can send XRP, a token, an escrow, or an NFT to any other address. You are responsible for your own funds, and the strongest defense is recognizing a scam before you act on it.
 
