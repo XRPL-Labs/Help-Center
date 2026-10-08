@@ -84,6 +84,7 @@
 * [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 * [How to convert a Read only account to Full Access](learning-more-about-xaman/how-to-convert-a-read-only-account-to-full-access.md)
 * [Deleting an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
+* [What is the Third Party Apps section?](learning-more-about-xaman/what-is-the-third-party-apps-section.md)
 * [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
 * [NFTs](learning-more-about-xumm/nfts/README.md)
   * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
