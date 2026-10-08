@@ -8,9 +8,39 @@ description: What is the Third Party Apps section?
 
 I opened Settings in Xaman and I see a row called "Third party apps." I want to understand what it does and what those apps can actually see.
 
+**The Third Party Apps section is your authorization list. It shows every xApp that has been granted permission to see your public address and send notifications through Xaman, and when that permission expires. You can revoke any app at any time.**
+
 #### What is an xApp?
 
-An xApp (xRPL Application) is a third-party web application that runs inside Xaman. xApps can provide extra features like token management, NFT tools, or account utilities. When an xApp needs access to your account, it asks for permission through Xaman's built-in authorization flow. Once you approve, the app appears in the Third Party Apps list.
+An xApp is a web application that runs inside Xaman. Both Xaman and independent developers build xApps. They can provide extra features like token management, NFT tools, or account utilities. The first time an xApp wants to display your public address, Xaman shows an authorization prompt. You can approve or deny. If you approve, the app appears in the Third Party Apps list.
+
+#### What permissions does an xApp get?
+
+When you authorize an xApp, you are granting exactly two permissions:
+
+* **See your public r-address.** Your address is already public on the XRPL. Authorizing an xApp does not expose it to anyone new.
+* **Send push notifications through Xaman.** The xApp can send you notifications, but only through Xaman's notification system.
+
+An xApp **cannot**:
+
+* Sign transactions on your behalf
+* Access your account secret or recovery phrase
+* Send code, files, or anything to your phone
+* Access your camera, microphone, location, or any other device sensor
+* Spy on you or monitor your activity inside Xaman, on your phone, or anywhere else
+
+Your keys never leave your device. An xApp is a web page running inside Xaman's WebView. It cannot install software, modify your device, or reach outside of Xaman.
+
+**What an xApp can do:** It can create a transaction and send you a push notification asking you to review and sign it. You will see the full transaction details before you sign. You can decline. Nothing is signed or sent without your explicit approval and vault authentication (passcode, biometrics, or Tangem).
+
+#### Why would I want to grant this access?
+
+Because knowing your r-address (a public value) makes the xApp useful to you without you having to paste your address every time. Two examples:
+
+* **An NFT marketplace xApp.** Once you grant access, the marketplace can look up your r-address on the public ledger, find the NFTs it holds, and display your collection in its interface. You can browse, list, or buy NFTs without re-entering your address on every screen. It can also send you a push notification when one of your NFTs is listed or when a marketplace event happens.
+* **An XRPL transaction tool (such as XRPL.Services).** Once you grant access, the tool can pre-fill your r-address into transaction forms. You build a trust line, an offer, or an NFT operation without retyping your address. It can send you a push notification when a transaction you created is ready for you to review and sign.
+
+In both cases, the xApp is reading public ledger data that anyone with your r-address can already see. The only difference is convenience: the app already has your address, so you do not have to type it in.
 
 #### Where to find it
 
@@ -33,24 +63,24 @@ Each authorized app shows its **icon** and **name**. Tap an app to see its detai
 
 When you tap an app in the list, you see four sections:
 
-**App information**
+**Details**
 
 The app's icon, name, and a short description of what it does.
 
-**What this app can do**
+**Grants**
 
-Xaman shows a fixed set of capabilities. The check and cross icons are not configurable.&#x20;
+Xaman shows a fixed set of capabilities. The check and cross icons are not configurable. They are set by the Xaman backend:
 
 | Capability                              | Status      |
 | --------------------------------------- | ----------- |
-| See your r-address                      | Allowed     |
+| See r-address                           | Allowed     |
 | Send push notifications (through Xaman) | Allowed     |
-| Access your balances                    | Not allowed |
-| Sign transactions on your behalf        | Not allowed |
+| Access balances                         | Not allowed |
+| Sign on your behalf                     | Not allowed |
 
-In short: an authorized xApp can see your public address and send you notifications. It **cannot** sign or send transactions. Your keys never leave your device.
+In short: an authorized xApp can see your public address and send you notifications. It **cannot** see how much XRP or tokens you hold, and it **cannot** sign or send transactions. Your keys never leave your device.
 
-**Permission dates**
+**Permission**
 
 Three dates for each authorization:
 
@@ -64,7 +94,7 @@ When the expiration date passes, the app's access is automatically removed. It w
 
 **Developer information**
 
-If the app's developer provided links, you will see them here: Website, Support, Privacy policy, and/or Terms of service. Tap any link to open it in your browser. Not all apps provide these.
+If the app's developer provided links, you will see them here: Website, Support, Privacy policy, and/or Terms & conditions. Tap any link to open it in your browser. Not all apps provide these.
 
 #### Revoking access
 
@@ -72,10 +102,12 @@ You can remove an app's permission at any time.
 
 1. In the Third Party Apps list, tap the app you want to revoke.
 2. Scroll down and tap **Revoke access** (red button at the bottom).
-3. A confirmation prompt appears: \*"Are you sure you want to revoke access to {app name}?"\*
-4. Tap **Do it** to confirm.
+3. A **Warning** dialog appears: "Are you sure you want to revoke access to {app name}?"
+4. Tap **Yes, I'm sure** to confirm, or **Cancel** to go back.
 
-The app is immediately removed from your list. It can no longer see your address or send you notifications. If you use that xApp again in the future, it will ask for permission again from the start.
+The app is immediately removed from your list. It can no longer see your address or send notifications. If you use that xApp again in the future, it will ask for permission again from the start.
+
+**What revoking does not do:** It does not delete data the app already collected. The app already received your r-address during your session and can store it in their own database. If the app's website asked you for a name, email address, or other personal information and you provided it, that data remains on their side. If you no longer trust the app, contact the developer directly to request deletion of your data.
 
 #### What you cannot do from this section
 
@@ -89,7 +121,7 @@ This section is **list and revoke only**. You cannot:
 
 An xApp requests permission the first time you use a feature that needs it. For example, if you open an xApp that wants to display your address in its UI, Xaman shows an authorization prompt. You can approve or deny. If you approve, the app appears in the Third Party Apps list with the dates and capabilities described above.
 
-You will not see an app in this list unless you (or a previous version of your account) explicitly approved its request.
+You will not see an app in this list unless you explicitly approved its request.
 
 #### What if I see an app I do not recognize?
 
@@ -99,30 +131,18 @@ If you see an app in the list and you do not remember authorizing it:
 2. Check the **Developer information** section for a website or support link. Verify it is a legitimate developer.
 3. If you are unsure, **revoke the access**. It takes ten seconds. The worst case is that you re-authorize later if you actually use that app.
 
-If you believe the app was added without your knowledge, [contact support](https://xaman.app/detect/xapp:xumm.support-md) and include a screenshot of the app details screen.
+If you believe the app was added without your knowledge, contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) from within the app and include a screenshot of the app details screen.
 
 #### FAQ
 
 **Does revoking an app delete my data?**
 
-No. Revoking removes the app's permission to interact with your Xaman account. It does not delete any transactions, tokens, or ledger data. The xApp itself (the website it loads) is not affected.
+No. Revoking removes the app's ability to see your r-address and send you push notifications through Xaman. It does not delete any transactions, tokens, or ledger data. The xApp website itself (the developer's own site) is not affected.
 
 **Can an xApp see my transaction history?**
 
-No. The permission set does not include transaction history access. An xApp can see your r-address, which is public on the XRPL, but it cannot query your transaction history through Xaman.
-
-**How often should I check this list?**
-
-There is no fixed schedule. A good habit is to check it whenever you install a new xApp or after a few months of use. If an app's expiration date is approaching and you no longer use it, let it lapse naturally or revoke it early.
-
-**Why does the app list show "No authorized third party app" even though I use xApps?**
-
-Some xApps do not request account-level permissions. They run entirely in the WebView without needing to know your address or send notifications. Only xApps that explicitly request authorization through the XUMM flow appear in this list.
+Your r-address is public on the XRPL. Anyone, including an xApp, can look up your transaction history on a public ledger explorer. The difference with an xApp is convenience: it already has your address, so it does not need you to type it in.
 
 #### Need help?
 
-[Contact Xaman support](https://xaman.app/detect/xapp:xumm.support-md). Include a screenshot of the Third Party Apps screen and the app details if you have a question about a specific app.
-
-***
-
-<br>
+Contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) from within the app. Include a screenshot of the Third Party Apps screen and the app details if you have a question about a specific app.
