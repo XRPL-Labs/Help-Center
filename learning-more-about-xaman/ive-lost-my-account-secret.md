@@ -73,7 +73,7 @@ Unlike hardware wallets such as Ledger or Trezor, a Xaman card has no screen, no
 
 * **You still have the card:** Tap it to your phone and sign a transaction. Your "secret" is the card itself. Make sure you store it safely.
 * **You configured a backup card:** A properly configured backup card allows you to access your Primary card's account. See: [How to configure a backup card](../xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
-* **You have lost or damaged your primary card and did not configure a backup card:** This is a serious situation. Without the physical card, you cannot sign transactions from that account unless you have configured a backup card. If you do not, your assets remain on the ledger but you cannot access them without the card.
+* **You have lost or damaged your primary card and did not configure a backup card:** This is a serious situation. Without the physical card, you cannot sign transactions from that account. Your assets remain on the XRP Ledger, but you cannot move them without the card.
 
 **Option 4 - You created your account using another wallet or platform**
 
