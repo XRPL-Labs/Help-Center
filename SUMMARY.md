@@ -63,6 +63,7 @@
 * [📱 Got a new phone?](learning-more-about-xumm/migrate-to-a-new-phone.md)
 * [🪙 Supported tokens](learning-more-about-xumm/supported-tokens.md)
 * [Adding an Icon/Logo to a Trust Line in Xaman](learning-more-about-xumm/adding-an-icon-logo-to-a-trust-line-in-xumm.md)
+* [What do "Full" and "Read Only" mean in Xaman?](learning-more-about-xaman/what-do-full-and-read-only-mean-in-xaman.md)
 * [Cashing out your XRP](learning-more-about-xumm/cashing-out-your-xrp.md)
 * [Sending XRP to Moonpay](learning-more-about-xaman/sending-xrp-to-moonpay.md)
 * [Cashing out with GateHub](learning-more-about-xumm/cashing-out-with-gatehub.md)
