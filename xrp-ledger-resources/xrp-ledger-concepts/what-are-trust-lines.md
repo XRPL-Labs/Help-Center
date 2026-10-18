@@ -101,8 +101,6 @@ The real risk is in _which issuer_ you open a Trust Line to. Here is how to thin
 5. **A Trust Line is public.** Anyone can look at the ledger and see every issuer your account has a Trust Line to. This is not a secret relationship.
 6. **Trust Lines are not reversible by Xaman.** Once you have signed a TrustSet, the relationship exists on the network. Xaman cannot undo it for you. You can remove it yourself at any time, following the steps in [How to remove a Trust Line](https://help.xaman.app/app/all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line).
 
-The short version: a Trust Line is a normal, low-risk part of using the XRP Ledger. The danger is never the mechanism. The danger is the issuer on the other end of it.
-
 {% hint style="info" %}
 **The short version**\
 \
