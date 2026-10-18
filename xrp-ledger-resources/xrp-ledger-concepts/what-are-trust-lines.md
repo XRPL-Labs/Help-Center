@@ -141,9 +141,9 @@ Yes, in a limited sense. The Trust Line is a public record that names your accou
 
 No. When Xaman creates a Trust Line for you, it sets a working limit automatically. You do not need to manage this value.
 
-**What happens if I delete my account while I have Trust Lines?**
+**Can I delete my account while I have Trust Lines?**
 
-Deleting the account removes all objects owned by the account, including every Trust Line, and releases their owner reserves. See [Deleting an XRPL account](https://help.xaman.app/app/learning-more-about-xaman/deleting-an-xrp-ledger-account).
+No, before an account can be deleted, you must make sure all of your Trust Lines have been removed from your account. See [Deleting an XRPL account](../../learning-more-about-xumm/deleting-an-xrpl-account.md).
 
 **Does Xaman charge a service fee for creating a Trust Line?**
 
