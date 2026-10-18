@@ -27,7 +27,7 @@ XRP is the **native asset** of the ledger. It is the one asset that needs no Tru
 
 XRP is also used to pay the small network fee on every transaction, and to cover the reserves that keep your account in good standing. See [About Reserves](https://help.xaman.app/app/xrp-ledger-resources/xrp-ledger-concepts/about-reserves).
 
-Every other asset you hold is an issued asset, and every issued asset sits on a Trust Line.
+Every other asset you hold is an issued asset. In the common case, an issued asset sits on a Trust Line. A newer class of tokens, **Multi-Purpose Tokens (MPTs)**, uses a different ledger object, but follows the same rule: you must opt in before you can hold them. See [Multi-Purpose Tokens](https://xrpl.org/docs/concepts/tokens/fungible-tokens/multi-purpose-tokens).
 
 #### What is a Trust Line?
 
@@ -95,7 +95,7 @@ The Trust Line mechanism itself is not dangerous. It cannot move your funds, it 
 The real risk is in _which issuer_ you open a Trust Line to. Here is how to think about it:
 
 1. **Only create a Trust Line to an issuer you recognize.** If a token in Xaman shows an issuer r-address you do not expect, do not add it.
-2. **The issuer controls more than you might think.** An issuer can charge a transfer fee on their token, and an issuer can freeze the token, either in a specific holder's account or across the whole token. There is a common belief that XRP can be frozen. That is not true. XRP is the backbone of the ledger and cannot be frozen. Only issued assets can be frozen, and only by their issuer.
+2. **The issuer controls more than you might think.** An issuer can charge a transfer fee on their token, and an issuer can freeze the token, either in a specific holder's account or across the whole token. There is a common belief that XRP can be frozen. That is not true. XRP is the backbone of the ledger and cannot be frozen. Only issued assets can be frozen, and only by their issuer. An issuer can also **claw back** a token — force it back out of your account — but only if they enabled that option when creating the token. It is not on by default. See [Clawing Back Tokens](https://xrpl.org/docs/concepts/tokens/fungible-tokens/clawing-back-tokens).
 3. **Issuers go out of business.** A token's value depends on the entity behind it standing ready to honor it. When that entity disappears, the token usually becomes worthless, even if it once represented a real asset. Check the issuers behind the tokens you hold, and clean up Trust Lines you no longer need.
 4. **Receiving a token you did not ask for is a common scam pattern.** A stranger can send you any token whose issuer you already have a Trust Line to. This is how dust and spam tokens show up in accounts.  See [Spam on the XRP Ledger](https://help.xaman.app/app/all-about-scams/spam-on-the-xrp-ledger) and [Dust attacks](https://help.xaman.app/app/all-about-scams/dust-attacks).
 5. **A Trust Line is public.** Anyone can look at the ledger and see every issuer your account has a Trust Line to. This is not a secret relationship.
