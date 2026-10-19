@@ -61,11 +61,35 @@ These principles support Xaman’s mission to deliver best-in-class self-custodi
 
 For more details, visit: [Building a Sustainable Future for Xaman](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing)&#x20;
 
-#### What you see before you sign
+#### Where you will see the service fee in Xaman
 
-Xaman shows the service fee before you confirm any transaction that has one. You see the exact amount in XRP, next to the other details, before you sign. You can choose to continue or cancel.
+Every transaction that has a service fee shows a **Network & Service Fee** line on the **Review transaction** screen. The line shows the total in XRP. That total is made of two parts: the XRP Ledger network fee, and the Xaman service fee.
 
-If you do not want service fee events to show in your activity list, you can hide them. In **Settings**, go to **General** and turn on **Hide Service Fee events**. This only hides the events in the list. The fee still applies when a transaction has one.
+To see the two parts separately:
+
+1. On the **Review transaction** screen, tap the info icon next to the **Network & Service Fee** line.
+
+<div align="left"><figure><img src="../.gitbook/assets/fee_trade_518.png" alt="" width="290"><figcaption></figcaption></figure></div>
+
+2. In the **Fees** sheet, the total is broken down:
+
+* **Network fee** : the fee paid to the XRP Ledger. You can choose the speed: Low, Medium, or High.
+* **Service fee** : our fee for the transaction. The amount is already calculated and shown.
+
+<div align="left"><figure><img src="../.gitbook/assets/fee_breakdown.png" alt="" width="300"><figcaption></figcaption></figure></div>
+
+3. If you want a different network fee speed, select it and tap **Apply**.
+4. Return to the **Review transaction** screen. Slide to accept to sign, or close to cancel.
+
+Here is an example from a token swap. The trading rate is 0.8%, so the service fee is 0.8% of the XRP being sent:
+
+| Part                                             | Amount       |
+| ------------------------------------------------ | ------------ |
+| Service fee                                      | 3.172372 XRP |
+| Network fee (Low)                                | 0.000012 XRP |
+| Total shown on the **Review transaction** screen | 3.172384 XRP |
+
+If a transaction qualifies for a service fee, you will always see it before you sign.
 
 ### Frequently asked questions
 
