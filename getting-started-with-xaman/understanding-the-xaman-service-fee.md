@@ -6,7 +6,7 @@ description: >-
 
 # 💙 Understanding Xaman Service Fees
 
-**Xaman is a feature complete, secure wallet for the XRP Ledger and Xahau. A small service fee on certain transactions is how we keep building it, running the infrastructure, and supporting you. This page explains the fees, what is free, and how the fees work.**
+**Xaman is a feature-complete, secure wallet for the XRP Ledger and Xahau. A small service fee on certain transactions is how we keep building it, running the infrastructure, and supporting you. This page explains the fees, what is free, and how the fees work.**
 
 ### Transactions that are free
 
@@ -82,7 +82,7 @@ To see the two parts separately:
 3. If you want a different network fee speed, select it and tap **Apply**.
 4. Return to the **Review transaction** screen. Slide to accept to sign, or close to cancel.
 
-Here is an example from a token swap. The trading rate is 0.8%, so the service fee is 0.8% of the XRP being sent:
+Here is an example from a token swap. The trading rate is 0.8%, so the service fee is 0.8% of the XRP-equivalent value of the transaction:
 
 | Part                                             | Amount       |
 | ------------------------------------------------ | ------------ |
