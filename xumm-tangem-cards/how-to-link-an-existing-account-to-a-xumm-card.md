@@ -18,11 +18,11 @@ A hardware wallet stores the private keys for an XRP Ledger account on a device 
 
 Xaman is a software wallet and is largely about enabling **interaction** with the XRP Ledger ecosystem.
 
-Xaman stores the private keys for an XRP Ledger account on a mobile device. (Which is presumably connected to the internet at various times.) It allows a user to sign transactions on their XRPL account via their phone. By storing private keys on a device that is 'on line', it exposes an account to other types of potential attack vectors.
+Xaman stores the private keys for an XRP Ledger account on a mobile device. (Which is presumably connected to the internet at various times.) It allows a user to sign transactions on their XRPL account via their phone. By storing private keys on a device that is 'online', it exposes an account to other types of potential attack vectors.
 
 ### How are you planning to interact with the XRPL ecosystem? <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
-If you are going to use the cards as a 'savings' account, where you plan to store your XRP and wait for the price to go up, we recommend that you create a 'primary' card account and configure a 'backup' card account. By doing this, you take advantage of the cards' features. (Creating and storing the account secret off line.) Configuring the cards this way, does not involve an existing account.
+If you are going to use the cards as a 'savings' account, where you plan to store your XRP and wait for the price to go up, we recommend that you create a 'primary' card account and configure a 'backup' card account. By doing this, you take advantage of the cards' features. (Creating and storing the account secret offline.) Configuring the cards this way, does not involve an existing account.
 
 If you plan to be **active in the XRPL community**, and want to use the cards with an existing XRPL account, you should consider that if you configure an existing account as a backup to a card account, you are **adding an additional attack vector** to the card account. If your existing account was ever compromised, someone could access your card account. (Configuring a card as a backup to an existing account is ok though.)
 
@@ -62,7 +62,7 @@ On the XRP Ledger Services page, select **Set Regular Key**
 
 <figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
 
-Paste the r-address for your new Xumm card in the field titled, "XRPL address which will be able to sign transactions", then press the **Send Set Regular Key to Xumm** button.
+Paste the r-address for your new Xaman card in the field titled, "XRPL address which will be able to sign transactions", then press the **Send Set Regular Key to Xumm** button.
 
 <figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
 
@@ -104,7 +104,7 @@ Switch accounts to your existing XRPL account and press the **Request** button t
 
 <figure><img src="../.gitbook/assets/regular keys -3.png" alt=""><figcaption></figcaption></figure>
 
-then switch accounts to your **Xumm card account** and press [<mark style="color:blue;">**here**</mark>](https://xrpl.services/) to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
+then switch accounts to your **Xaman card account** and press [<mark style="color:blue;">**here**</mark>](https://xrpl.services/) to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
 
 #### Step 4: Sign into XRPL.Services with your Xaman card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
@@ -124,7 +124,7 @@ Paste the r-address for your existing account into the field titled, "XRPL addre
 
 #### Step 6: Sign the transaction with your Xaman card <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
 
-Sign the transaction with your Xumm card and you're all done!
+Sign the transaction with your Xaman card and you're all done!
 
 {% hint style="info" %}
 #### Important: what this procedure does and does not do
@@ -134,9 +134,9 @@ This procedure adds the card as a signer. It does not remove your existing keys.
 If your goal is for the card to be the only signer, you must also disable the master key. That is a separate advanced step. Talk to support before you do it.
 {% endhint %}
 
-## _Frequently asked Questions_
+### _Frequently asked Questions_
 
-### What is the recommended way to configure my Xaman cards?
+#### What is the recommended way to configure my Xaman cards?
 
 The recommended and ideal way to configure a card is to have **two cards**, then "link" them together using the Tangem Backup xApp. This is explained in this article:
 
@@ -144,7 +144,7 @@ The recommended and ideal way to configure a card is to have **two cards**, then
 [getting-started.md](getting-started.md)
 {% endcontent-ref %}
 
-### I only have one card though...
+#### I only have one card though...
 
 Each card will generate and store an XRP Ledger account secret on the card.
 
@@ -152,6 +152,6 @@ The account secret **can not** be viewed or extracted from the card so anytime y
 
 This is a great security feature but since the account secret only exists in one place, (on the card) what would happen if you lost or damaged the card? (You would lose access to your funds!)
 
-This is why we only sell a minimum of two cards. With two Xumm cards, you can create a backup card which allows you to access your funds in case one of them is ever lost or damaged.
+This is why we only sell a minimum of two cards. With two Xaman cards, you can create a backup card which allows you to access your funds in case one of them is ever lost or damaged.
 
 If you only have one card, "linking" an existing account to it allows your existing account to act as a backup in case something happens to the card.
