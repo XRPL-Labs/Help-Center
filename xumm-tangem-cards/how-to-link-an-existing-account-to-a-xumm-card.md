@@ -14,11 +14,11 @@ While it is easy to configure the cards this way, you should consider how you pl
 
 Xaman cards are hardware wallets and hardware wallets are largely about **long term storage** of your assets.
 
-A hardware wallet stores the private keys for an XRP Ledger account on a device that is not connected to the internet and transactions can only be signed on the XRPL account if the signer is in possession of the hardware device. Storing private keys 'offline' limits some potential attack vectors on an XRPL account.
+A hardware wallet stores the private keys for an XRP Ledger account on a device that is not connected to the internet and transactions can only be signed on the XRPL account if the signer is in possession of the hardware device. Storing private keys offline limits some potential attack vectors on an XRPL account.
 
 Xaman is a software wallet and is largely about enabling **interaction** with the XRP Ledger ecosystem.
 
-Xaman stores the private keys for an XRP Ledger account on a mobile device. (Which is presumably connected to the internet at various times.) It allows a user to sign transactions on their XRPL account via their phone. By storing private keys on a device that is 'online', it exposes an account to other types of potential attack vectors.
+Xaman stores the private keys for an XRP Ledger account on a mobile device. (Which is presumably connected to the internet at various times.) It allows a user to sign transactions on their XRPL account via their phone. By storing private keys on a device that is online, it exposes an account to other types of potential attack vectors.
 
 ### How are you planning to interact with the XRPL ecosystem? <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
 
@@ -134,7 +134,7 @@ This procedure adds the card as a signer. It does not remove your existing keys.
 If your goal is for the card to be the only signer, you must also disable the master key. That is a separate advanced step. Talk to support before you do it.
 {% endhint %}
 
-### _Frequently asked Questions_
+### _Frequently Asked Questions_
 
 #### What is the recommended way to configure my Xaman cards?
 
