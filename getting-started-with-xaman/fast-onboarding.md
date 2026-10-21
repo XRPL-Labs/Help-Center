@@ -6,7 +6,7 @@ description: Fast onboarding (risky) and the Back up button
 
 When you create your first account with a fresh install of Xaman, the app shows an **Onboarding** screen with two options.
 
-* **Write your account secret down now (safer):** You write all 8 rows of your account secret on paper, then you re-enter them in the app. After that, you choose the security level for the account. (Verified)
+* **Write your account secret down now (safer):** You write all 8 rows of your account secret on paper, then you re-enter them in the app. After that, you choose the security level for the account.
 * **Fast onboarding (risky):** You skip the write-down step for now. The app keeps the numbers and shows a red **Back up** button on the account home screen.
 
 The app explains the risky option in its own words: "Write down & re-enter later: all your funds are at risk until you do so!"
