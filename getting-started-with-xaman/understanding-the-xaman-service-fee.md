@@ -37,6 +37,7 @@ A service fee applies to transactions that use extra processing or trading resou
 **Yield products: 0.5%**
 
 * Deposits into supported yield products
+* The app shows you which yield products are available when you deposit
 * Does not apply to withdrawals, reward claims, or receiving funds
 
 **Pathfinding payments: 0.15 XRP**
@@ -57,9 +58,9 @@ This fee structure brings Xaman in line with industry standards used by wallets 
 * No arbitrary limitations or access restrictions
 * Users pay based on actual usage
 
-These principles support Xaman’s mission to deliver best-in-class self-custodial security, ongoing innovation, and continued growth.
+These principles support Xaman's mission to deliver best-in-class self-custodial security, ongoing innovation, and continued growth.
 
-For more details, visit: [Building a Sustainable Future for Xaman](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing)&#x20;
+For more details, visit: [Building a Sustainable Future for Xaman](https://xaman.app/blog/building-a-sustainable-future-for-xaman-introducing-monetization-and-revenue-sharing)
 
 #### Where you will see the service fee in Xaman
 
@@ -91,6 +92,8 @@ Here is an example from a token swap. The trading rate is 0.8%, so the service f
 
 If a transaction qualifies for a service fee, you will always see it before you sign.
 
+If you do not want service fee events to show in your activity list, you can hide them. In **Settings**, go to **General** and turn on **Hide Service Fee events**. This only hides the events in the list. The fee still applies when a transaction has one.
+
 ### Frequently asked questions
 
 **What is the difference between a Xaman service fee and an XRP Ledger network fee?**
@@ -112,7 +115,7 @@ No. Sending funds to an account you manage in Xaman does not incur a service fee
 
 **I want to send more than $50,000 out of my Xaman account to another address. Do I pay a fee?**
 
-Yes. A payment of XRP or tokens with a value of $50,000 USD or more from your Xaman account to another address has a 0.1% service fee. A payment over $100,000 USD has a 0.07% service fee. The app shows the exact fee before you sign.
+Yes. A payment of XRP or tokens with a value over $50,000 USD from your Xaman account to another address has a 0.1% service fee. A payment over $100,000 USD has a 0.07% service fee. The app shows the exact fee before you sign.
 
 **The fee was small last time. Why is it larger now?**
 
@@ -124,8 +127,8 @@ The service fee goes to Xaman. It funds the software, the servers and backup sys
 
 **I didn't know Xaman had service fees. Can I get a refund?**
 
-Xaman has charged a service fee on covered transactions since **September 2024**, when monetization was introduced with Xaman v3.0.&#x20;
+Xaman has charged a service fee on covered transactions since **September 2024**, when monetization was introduced with Xaman v3.0.
 
-As well, before you can sign any transaction in Xaman the app displays network and service fees. You do not have to sign any transaction in Xaman unless you choose to. \
-\
-We do not issue refunds for our service fees.<br>
+In addition, the app displays the network fee and service fee before you sign any transaction. You only sign a transaction if you choose to.
+
+We do not issue refunds for our service fees.
