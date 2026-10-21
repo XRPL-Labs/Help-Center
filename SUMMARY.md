@@ -13,6 +13,7 @@
 * [Installing Xaman](getting-started-with-xaman/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/README.md)
   * [How to create an XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
+* [Fast onboarding](getting-started-with-xaman/fast-onboarding.md)
 * [Activating an account (XRPL)](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/README.md)
   * [What is a "Pre-funded" Xaman card?](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card.md)
   * [How to Send XRP from eToro](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/how-to-send-xrp-from-etoro.md)
