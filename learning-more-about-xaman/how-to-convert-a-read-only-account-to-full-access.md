@@ -87,29 +87,3 @@ No. Xaman cannot display or recover an account secret. See [Can I view/export my
 * [I've lost my account secret!](https://help.xaman.app/app/learning-more-about-xaman/ive-lost-my-account-secret)
 * [Can I view/export my account secret?](https://help.xaman.app/app/learning-more-about-xaman/can-i-view-export-my-account-secret)
 
-
-
-#### Be careful of "recovery" scammers
-
-If you post online that you lost your account secret, people will message you and claim they can recover it for a fee. They cannot. No tool, no service, and no person can derive your private key from your r-address. Anyone who claims otherwise is trying to scam you. Do not send them XRP, do not give them your address, and do not download any tool they send you.
-
-### Frequently asked questions
-
-_**I am sure my account secret is correct. Why does Xaman show a different account?**_
-
-When you enter an account secret, Xaman opens the account that the secret belongs to. If Xaman shows a different r-address, the secret you entered belongs to a different account, not the one you want to convert.
-
-The correct account secret always produces the same r-address, with your balance and tokens in place. If you get a different r-address, consider the possibility that you have the wrong account secret, or that the one you have is for a different account.
-
-_**I went through KYC and I can prove I own the account. Does that help?**_
-
-No. The XRP Ledger has no central authority and no way to link your identity to your private keys. The KYC process does not give anyone access to your account. The only way to access an XRP Ledger account is with the correct account secret.
-
-_**Can Xaman give me my account secret back?**_
-
-No. Xaman cannot display or recover an account secret. See [Can I view/export my account secret?](https://help.xaman.app/app/learning-more-about-xaman/can-i-view-export-my-account-secret.md).
-
-### See also
-
-* [I've lost my account secret!](https://help.xaman.app/app/learning-more-about-xaman/ive-lost-my-account-secret)
-* [Can I view/export my account secret?](https://help.xaman.app/app/learning-more-about-xaman/can-i-view-export-my-account-secret)
