@@ -1,5 +1,7 @@
 ---
-description: How to convert a Read only account to Full access
+description: >-
+  Change a Read only account to Full access by entering the correct account
+  secret for that account.
 ---
 
 # How to convert a Read only account to Full access
