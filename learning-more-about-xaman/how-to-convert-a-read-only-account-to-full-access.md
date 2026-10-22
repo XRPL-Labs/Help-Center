@@ -2,7 +2,7 @@
 description: How to convert a Read only account to Full access
 ---
 
-# How to convert a Read only account to Full Access
+# How to convert a Read only account to Full access
 
 In Xaman, you can import an XRP Ledger account in Full access mode or Read only mode. The mode tells you whether Xaman has a working path to get a signature for the account.
 
@@ -24,7 +24,7 @@ This is the most common reason a conversion fails. Many people are sure they hav
 
 <figure><img src="../.gitbook/assets/Read only -1.png" alt=""><figcaption></figcaption></figure>
 
-2\) Tap the **Access level** option
+2\) Tap the **Access level** option...
 
 <figure><img src="../.gitbook/assets/Read only -2.png" alt=""><figcaption></figcaption></figure>
 

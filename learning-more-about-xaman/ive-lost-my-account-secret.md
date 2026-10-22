@@ -101,7 +101,7 @@ The XRP Ledger allows an account to authorize a secondary key pair, called a [re
 
 If you have posted online that you lost your account secret, you will receive messages from people claiming they can recover it for a fee. **They cannot.** No one can recover an account secret. No tool, no service, no person can derive your private key from your r-address. Anyone who claims otherwise is trying to scam you. Do not send them XRP, do not give them your address, and do not download any tool they send you.
 
-#### Frequently asked questions
+### _Frequently asked questions_
 
 **I can prove that I own the account. I went through the KYC process. I can provide ID that I own it. Doesn't that make a difference?**
 
