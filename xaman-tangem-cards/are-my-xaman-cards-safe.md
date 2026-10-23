@@ -11,7 +11,6 @@ You ordered your Xaman cards directly from us. They arrived, but something looks
 * the cards are loose in the package
 * the package is cut open
 * one card has a clear plastic sleeve and the others do not
-* one card has a hand-written note on it
 
 Nothing you are seeing means your cards are unsafe. This article answers the questions we get most often.
 
@@ -43,11 +42,11 @@ The sleeve does not change the card.&#x20;
 
 #### Why do the cards have different colours or designs?
 
-When you order the cards, you have the option to select from a few different colors and styles, which means a single order can include a mix of different card designs.
+When you order the cards, you have the option to select from a few different colours and styles, which means a single order can include a mix of different card designs.
 
 <figure><img src="../.gitbook/assets/Gemini_Generated_Image_lwuv3glwuv3glwuv.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
-Please rest assured that these differences are strictly cosmetic. The color or artwork on the cards does not change how the card work. Every single card in your order functions exactly the same way and provides the same high-level security in the Xaman app.
+Every card in your order works the same way and provides the same security. The colour or artwork on the cards does not change how the cards work.&#x20;
 
 #### Why was my package opened by customs, and are my cards still safe?
 
@@ -55,7 +54,7 @@ International packages are sometimes inspected by customs authorities to verify 
 
 Your cards are completely safe and secure:
 
-* **No pre-loaded secrets**: Brand-new cards do not contain private keys, wallet secrets, or pre-configured accounts. Keys are generated only when you personally initialize the card inside the Xaman app.
+* **No stored account secret.** Your account secret is created inside the card when you initialize it in the Xaman app. A brand-new card holds no account secret and no pre-configured account."
 * **Nothing to intercept**: Because an uninitialized chip holds zero account data, there is no sensitive information for anyone to read, copy, or steal.
 * **Cryptographic verification**: Physical tampering cannot bypass on-chip security. The moment you first tap the card to your phone, the Xaman app automatically validates the chip's cryptographic integrity to confirm it is genuine and untouched.
 
@@ -64,8 +63,8 @@ Your cards are completely safe and secure:
 Three layers protect you.
 
 1. **A new card holds no account secret.** Your account secret is created inside the card when you set it up. Opening a package cannot copy something that does not exist yet.
-2. **The card itself cannot be altered.** Our cards cannot be physically modified. The firmware on the cards can not be modified. Xaman can accurately verify that it was originally produced by Tangem for us and that our firmware was installed on it.
-3. **The final check is in the app, on every card, every time.** When you first tap a new card, the Xaman app verifies that the card was made by Tangem and that it runs our firmware. The app then shows:
+2. **The card itself cannot be altered.** The card hardware and its firmware cannot be modified. Xaman can accurately verify that it was originally produced by Tangem for us and that our firmware was installed on it.
+3. **The final check is in the app, on every cardat first tap.** When you first tap a new card, the Xaman app verifies that the card was made by Tangem and that it runs our firmware. The app then shows:
 
 <figure><img src="../.gitbook/assets/Card import -2.png" alt="" width="375"><figcaption></figcaption></figure>
 
