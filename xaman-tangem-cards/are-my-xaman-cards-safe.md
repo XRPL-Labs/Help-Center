@@ -54,7 +54,7 @@ International packages are sometimes inspected by customs authorities to verify 
 
 Your cards are completely safe and secure:
 
-* **No stored account secret.** Your account secret is created inside the card when you initialize it in the Xaman app. A brand-new card holds no account secret and no pre-configured account."
+* **No stored account secret.** Your account secret is created inside the card when you initialize it in the Xaman app. A brand-new card holds no account secret and no pre-configured account.
 * **Nothing to intercept**: Because an uninitialized chip holds zero account data, there is no sensitive information for anyone to read, copy, or steal.
 * **Cryptographic verification**: Physical tampering cannot bypass on-chip security. The moment you first tap the card to your phone, the Xaman app automatically validates the chip's cryptographic integrity to confirm it is genuine and untouched.
 
@@ -64,7 +64,7 @@ Three layers protect you.
 
 1. **A new card holds no account secret.** Your account secret is created inside the card when you set it up. Opening a package cannot copy something that does not exist yet.
 2. **The card itself cannot be altered.** The card hardware and its firmware cannot be modified. Xaman can accurately verify that it was originally produced by Tangem for us and that our firmware was installed on it.
-3. **The final check is in the app, on every cardat first tap.** When you first tap a new card, the Xaman app verifies that the card was made by Tangem and that it runs our firmware. The app then shows:
+3. **The final check is in the app, on every card, at first tap.** When you first tap a new card, the Xaman app verifies that the card was made by Tangem and that it runs our firmware. The app then shows:
 
 <figure><img src="../.gitbook/assets/Card import -2.png" alt="" width="375"><figcaption></figcaption></figure>
 
