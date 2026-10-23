@@ -9,7 +9,9 @@
   * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
   * [Xaman & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
   * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)
+* [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 * [🔐 Self-Custody 101: Staying Safe with Xaman](getting-started-with-xaman/self-custody-101-staying-safe-with-xaman.md)
+* [💙 Understanding Xaman Service Fees](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 * [Installing Xaman](getting-started-with-xaman/installing-xumm.md)
 * [Your first XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/README.md)
   * [How to create an XRP Ledger account](getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
@@ -42,8 +44,6 @@
   * [Topper](getting-started-with-xaman/buying-xrp/topper.md)
   * [C14](getting-started-with-xaman/buying-xrp/c14.md)
   * [Xaman On/Off Ramp](getting-started-with-xaman/buying-xrp/xaman-on-off-ramp.md)
-* [💙 Understanding Xaman Service Fees](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
-* [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 * [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/README.md)
   * [Overview](getting-started-with-xaman/using-the-flare-xapp/overview.md)
   * [Fees](getting-started-with-xaman/using-the-flare-xapp/fees.md)
@@ -54,11 +54,8 @@
 * [Sending tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
 * [Sending XRP to Xaman](getting-started-with-xaman/sending-xrp-to-xaman.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
-
-***
-
-* [How to remove an account from Xaman](how-to-remove-an-account-from-xaman.md)
-* [How to create a USDC Trust Line](how-to-create-a-usdc-trust-line.md)
+* [How to remove an account from Xaman](getting-started-with-xaman/how-to-remove-an-account-from-xaman.md)
+* [How to create a USDC Trust Line](getting-started-with-xaman/how-to-create-a-usdc-trust-line.md)
 
 ## Learning more about Xaman
 
@@ -135,6 +132,7 @@
 ## XAMAN (TANGEM) CARDS
 
 * [All about Xaman (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
+* [Are my Xaman Cards safe?](xaman-tangem-cards/are-my-xaman-cards-safe.md)
 * [Getting started with your new cards 🤗](xumm-tangem-cards/getting-started.md)
 * [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
 * [Creating a pin on your card](xumm-tangem-cards/creating-a-pin-on-your-xumm-tangem-card.md)

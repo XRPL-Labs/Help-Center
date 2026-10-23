@@ -46,7 +46,7 @@ Import your card into Xaman by following these instructions:
 
 After you have imported your Xaman card, press the **Receive** button then press the **Copy** button:
 
-<figure><img src="../.gitbook/assets/Recieve button -1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Recieve button -2.png" alt="" width="375"><figcaption></figcaption></figure>
 
 then switch accounts to your **Primary** account (your existing account) in Xaman and press [<mark style="color:blue;">**here**</mark>](https://xrpl.services/) to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
 
@@ -102,7 +102,7 @@ This article explains how to activate an XRPL account:
 
 Switch accounts to your existing XRPL account and press the **Receive** button then press the **Copy** button:
 
-<figure><img src="../.gitbook/assets/Recieve button -1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Recieve button -2 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 then switch accounts to your **Xaman card account** and press [<mark style="color:blue;">**here**</mark>](https://xrpl.services/) to go to [**XRP Ledger Services**](https://xrpl.services/)**.**
 
