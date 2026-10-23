@@ -44,7 +44,7 @@ The sleeve does not change the card.&#x20;
 
 When you order the cards, you have the option to select from a few different colours and styles, which means a single order can include a mix of different card designs.
 
-<figure><img src="../.gitbook/assets/Gemini_Generated_Image_lwuv3glwuv3glwuv.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Gemini_Generated_Image_lwuv3glwuv3glwuv.jpeg" alt="Card design options in the Xaman app" width="375"><figcaption></figcaption></figure>
 
 Every card in your order works the same way and provides the same security. The colour or artwork on the cards does not change how the cards work.&#x20;
 
@@ -66,11 +66,11 @@ Three layers protect you.
 2. **The card itself cannot be altered.** The card hardware and its firmware cannot be modified. Xaman can accurately verify that it was originally produced by Tangem for us and that our firmware was installed on it.
 3. **The final check is in the app, on every card, at first tap.** When you first tap a new card, the Xaman app verifies that the card was made by Tangem and that it runs our firmware. The app then shows:
 
-<figure><img src="../.gitbook/assets/Card import -2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Card import -2.png" alt="Xaman app confirming a brand new card" width="375"><figcaption></figcaption></figure>
 
 If a card was used before you, the app shows a warning instead:
 
-<figure><img src="../.gitbook/assets/Card import - 1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Card import - 1.png" alt="Xaman app warning that a card was used before" width="375"><figcaption></figcaption></figure>
 
 If you see that warning on a card you just received, stop. Do not import that card. Contact [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
 
