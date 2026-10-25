@@ -12,12 +12,22 @@ To start, if you own XRP, you already trust the XRP Ledger community. The XRPL i
 
 ### Is Xaman Trust Worthy?
 
-When handling digital assets, you shouldn't have to rely on blind faith. We designed Xaman with a "verify, don't trust" philosophy:
+When handling digital assets, you shouldn't have to rely on blind faith. We designed Xaman with a "verify, don't trust" philosophy. You can trust our application because of our architecture, not just our words::
 
-* Your Keys, Your Sovereignty: Xaman is non-custodial. All signing happens strictly on your local device. We never see, hold, or store your private credentials, meaning only you have custody over your funds.
-* Decentralized Independence: Xaman connects directly to the XRP Ledger. Because transactions settle on-chain, your funds remain secure and accessible even if our backend servers go offline.
-* Proven Security Standards: Operating since 2018 out of the Netherlands, our code has undergone rigorous independent audits. To date, Xaman has maintained a clean record with zero protocol breaches.
-* Ecosystem Commitment: Beyond building an application, XRPL Labs maintains validator nodes, develops open-source SDKs, and runs public infrastructure monitoring to bolster the resilience of the wider XRP Ledger ecosystem.
+* **True Self-Custody:** Xaman is entirely non-custodial. We never see, store, or have access to your private keys or Secret Numbers. Your funds remain under your exclusive control on the XRP Ledger.
+* **Your Keys, Your Sovereignty:** All signing happens strictly on your local device. Only you have custody over your funds.
+* **Decentralized Independence:** Xaman connects directly to the XRP Ledger. Transactions settle on-chain and your funds remain secure and accessible even if our backend servers go offline.
+* **Proven Security Standards**: Operating since 2018 out of the Netherlands, our code has undergone rigorous independent audits. To date, Xaman has maintained a clean record with zero protocol breaches.
+* **Hardware-Grade Security:** For maximum protection, Xaman integrates directly with Xaman (Tangem) NFC cards, allowing you to sign transactions using an audited hardware secure element.
+* **Public Accountability:** We operate with a fully doxxed, public-facing team. You can monitor our network reliability in real-time via our \[Infrastructure Status page]
+* **Ecosystem Commitment:** Beyond building an application, we develop open-source SDKs, and and maintains open-source developer tooling.
+*   **Foundational Infrastructure & Network Governance**
+
+    XRPL Labs doesn't just build client-facing apps—we are a core infrastructure backbone for the entire XRP Ledger:
+
+    * **Trusted Network Validator:** We operate a primary XRPL validator node (`validator.xrpl-labs.com`) that is officially included on the default Unique Node List (dUNL) by the XRPL Foundation and Ripple. This means our servers actively vote on ledger consensus, protocol amendments, and the integrity of every transaction on the network.
+    * **Powering Ecosystem Traffic (XRPLcluster)**: We built and maintain XRPLcluster, the globally distributed node network that routes billions of public API requests and ledger queries for thousands of developers, businesses, and wallets across the globe every day.
+    * **Vested in Ledger Health:** We contribute directly to network consensus and public routing so our commitment is aligned with the long-term health, decentralization, and uptime of the entire ledger, not just our own bottom line.
 
 ### Is Xaman safe to use?
 
