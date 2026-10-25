@@ -38,15 +38,17 @@ There are two kinds of xApps in Xaman:
 
 The process of creating an xApp has been [**streamlined**](https://docs.xumm.dev/) so making an xApp is easier than ever before, but just because it is easy, does not make it unsafe. We have incorporated several checks and balances into each step to ensure that all xApps meet our high standards of quality and useability. Having said that, we do recommend that you do your own research when it comes to choosing which xApps to use. Things like:
 
-* Visit the developers website. Does it look professional? Is it up to date?
-* Read the description of the xApp? Is it clear as to what it does? Does it make sense?
-* Is the developer easy to get a hold of? How quickly do they respond to messages?
+* **Visit the developers website.** Does it look professional? Is it up to date?
+* **Read the description of the xApp.** Is it clear as to what it does? Does it make sense?
+* **Is the developer easy to get a hold of?** How quickly do they respond to messages?
 * Does the developer offer customer support?
 * Is the developer active in the XRP Ledger community?
 
 {% hint style="danger" %}
 Keep in mind, many xApps have the ability to send you transaction requests or payment requests. It is absolutely imperative that you review all transactions **before you sign** them in Xaman.
 {% endhint %}
+
+Even when using an un-verified xApp, Xaman will never hand over your private keys to the developer. The xApp must request a transaction, and Xaman will explicitly show you exactly what will happen to your account (e.g., how much XRP will be spent) before you authorize it with a biometric sign or password.
 
 #### Can an xApp access my XRPL / Xahau accounts?
 
@@ -86,4 +88,3 @@ For tokenized real-world assets (for example, tokens that claim to represent sha
 
 Remember, when you create a Trust Line you are basically saying: "I trust you and your token. I have reviewed your business plan, which included your marketing strategy, your goals, your timelines and your tokenomics. It is well organized, realistic and viable. I have researched your staff including your CEO, your developers and your support personnel and they are all world class, highly motivated and honest people who have well documented employment histories. I trust your funding sources and I believe you did not simply create a token to try to scam people. I trust your KYC information is legitimate. I trust that you will provide excellent customer support and that you will be easy to contact and reply to my inquiries. I trust you will not abandon your project. Finally, I trust that you and your staff have the necessary skills and experience to launch and maintain a token on the XRPL."
 
-Xaman also maintains a safety blacklist of known scam and spam issuers. See Spam on the XRP Ledger. If an issuer is on that list, Xaman blocks the trust line for you.
