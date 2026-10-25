@@ -1,5 +1,5 @@
 ---
-description: How to figure out who to trust in community
+description: How to figure out who to trust in the XRPL community
 ---
 
 # Trust in the XRPL Community
@@ -12,18 +12,18 @@ To start, if you own XRP, you already trust the XRP Ledger community. The XRPL i
 
 ### Is Xaman Trust Worthy?
 
-When handling digital assets, you shouldn't have to rely on blind faith. We designed Xaman with a "verify, don't trust" philosophy. You can trust our application because of our architecture, not just our words::
+When handling digital assets, you shouldn't have to rely on blind faith. We designed Xaman with a "verify, don't trust" philosophy. You can trust our application because of our architecture, not just our words:
 
-* **True Self-Custody:** Xaman is entirely non-custodial. We never see, store, or have access to your private keys or Secret Numbers. Your funds remain under your exclusive control on the XRP Ledger.
+* **True Self-Custody:** Xaman is entirely non-custodial. We never see, store, or have access to your account secret. Your funds remain under your exclusive control on the XRP Ledger.
 * **Your Keys, Your Sovereignty:** All signing happens strictly on your local device. Only you have custody over your funds.
 * **Decentralized Independence:** Xaman connects directly to the XRP Ledger. Transactions settle on-chain and your funds remain secure and accessible even if our backend servers go offline.
-* **Proven Security Standards**: Operating since 2018 out of the Netherlands, our code has undergone rigorous independent audits. To date, Xaman has maintained a clean record with zero protocol breaches.
-* **Hardware-Grade Security:** For maximum protection, Xaman integrates directly with Xaman (Tangem) NFC cards, allowing you to sign transactions using an audited hardware secure element.
-* **Public Accountability:** We operate with a fully doxxed, public-facing team. You can monitor our network reliability in real-time via our \[Infrastructure Status page]
-* **Ecosystem Commitment:** Beyond building an application, we develop open-source SDKs, and and maintains open-source developer tooling.
+* **Proven Security Standards**: Operating since 2018 out of the Netherlands, our code has undergone an independent audit (Cossack Labs, August 2021). To date, Xaman has maintained a clean record with no known protocol breaches.
+* **Hardware-Grade Security:** For maximum protection, Xaman integrates directly with our Xaman NFC cards, allowing you to sign transactions using an audited hardware secure element.
+* **Public Accountability:** We operate with a fully doxxed, public-facing team. You can monitor our network reliability in real-time via our [Infrastructure Status page](https://xrpllabs.statuspage.io)
+* **Ecosystem Commitment:** Beyond building an application, we develop open-source SDKs, and maintain open-source developer tooling.
 *   **Foundational Infrastructure & Network Governance**
 
-    XRPL Labs doesn't just build client-facing apps—we are a core infrastructure backbone for the entire XRP Ledger:
+    XRPL Labs doesn't just build client-facing apps. We are a core infrastructure backbone for the entire XRP Ledger:
 
     * **Trusted Network Validator:** We operate a primary XRPL validator node (`validator.xrpl-labs.com`) that is officially included on the default Unique Node List (dUNL) by the XRPL Foundation and Ripple. This means our servers actively vote on ledger consensus, protocol amendments, and the integrity of every transaction on the network.
     * **Powering Ecosystem Traffic (XRPLcluster)**: We built and maintain XRPLcluster, the globally distributed node network that routes billions of public API requests and ledger queries for thousands of developers, businesses, and wallets across the globe every day.
@@ -37,14 +37,14 @@ It definitely is. Keeping your XRPL/Xaman accounts safe is what we do. We actual
 [how-secure-is-xumm.md](../../security-and-xumm/all-about-security/how-secure-is-xumm.md)
 {% endcontent-ref %}
 
-#### What is an xApp?
+### What is an xApp?
 
 There are two kinds of xApps in Xaman:
 
 * Verified - The xApp was either created by the XRPL Labs team or it has been vetted by XRPL Labs.
-* Un-Verified - The xApp was created by a community developer or business that has not been vetted by XRPL Labs.
+* Unverified - The xApp was created by a community developer or business that has not been vetted by XRPL Labs.
 
-#### Are un-verified xApps safe to use?
+### Are unverified xApps safe to use?
 
 The process of creating an xApp has been [**streamlined**](https://docs.xumm.dev/) so making an xApp is easier than ever before, but just because it is easy, does not make it unsafe. We have incorporated several checks and balances into each step to ensure that all xApps meet our high standards of quality and useability. Having said that, we do recommend that you do your own research when it comes to choosing which xApps to use. Things like:
 
@@ -58,9 +58,9 @@ The process of creating an xApp has been [**streamlined**](https://docs.xumm.dev
 Keep in mind, many xApps have the ability to send you transaction requests or payment requests. It is absolutely imperative that you review all transactions **before you sign** them in Xaman.
 {% endhint %}
 
-Even when using an un-verified xApp, Xaman will never hand over your private keys to the developer. The xApp must request a transaction, and Xaman will explicitly show you exactly what will happen to your account (e.g., how much XRP will be spent) before you authorize it with a biometric sign or password.
+Even when using an unverified xApp, Xaman will never hand over your account secret to the developer. The xApp must request a transaction, and Xaman will explicitly show you exactly what will happen to your account (e.g., how much XRP will be spent) before you authorize it with a biometric sign or password.
 
-#### Can an xApp access my XRPL / Xahau accounts?
+### Can an xApp access my XRPL / Xahau accounts?
 
 An xApp is a web application that runs inside Xaman. It does not access your account directly. The first time an xApp wants to display your public address, Xaman shows an authorization prompt. You can approve or deny.
 
@@ -80,7 +80,7 @@ Your keys never leave your device. An xApp can create a transaction and ask you 
 
 You can review and revoke any authorized xApp at any time. See What is the Third Party Apps section?
 
-#### How do I vet a token issuer before creating a Trust Line?
+### How do I vet a token issuer before creating a Trust Line?
 
 There is no foolproof way of ensuring a token is not a scam. It all comes down to trusting the issuer.
 
