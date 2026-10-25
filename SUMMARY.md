@@ -100,6 +100,7 @@
 * [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
 * [How to test your Account Secret](learning-more-about-xaman/how-to-test-your-account-secret.md)
 * [How to access Testnet on XRP Ledger](learning-more-about-xaman/how-to-access-testnet-on-xrp-ledger.md)
+* [All about Checks](learning-more-about-xaman/all-about-checks.md)
 * [How to Rekey an XRP Ledger (XRPL) Account](learning-more-about-xaman/how-to-rekey-your-account.md)
 * [How to disable the Master key](learning-more-about-xaman/how-to-disable-the-master-key.md)
 * [How to enable the Master Key](learning-more-about-xaman/how-to-enable-the-master-key.md)
