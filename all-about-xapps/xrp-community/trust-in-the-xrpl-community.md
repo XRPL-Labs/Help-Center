@@ -19,7 +19,7 @@ When handling digital assets, you shouldn't have to rely on blind faith. We desi
 * **Decentralized Independence:** Xaman connects directly to the XRP Ledger. Transactions settle on-chain and your funds remain secure and accessible even if our backend servers go offline.
 * **Proven Security Standards**: Operating since 2018 out of the Netherlands, our code has undergone an independent audit (Cossack Labs, August 2021). To date, Xaman has maintained a clean record with no known protocol breaches.
 * **Hardware-Grade Security:** For maximum protection, Xaman integrates directly with our Xaman NFC cards, allowing you to sign transactions using an audited hardware secure element.
-* **Public Accountability:** We operate with a fully doxxed, public-facing team. You can monitor our network reliability in real-time via our [Infrastructure Status page](https://xrpllabs.statuspage.io)
+* **Public Accountability:** We operate with a fully doxxed, public-facing team. You can monitor our network reliability in real-time via our [Infrastructure Status page](https://status.xrpl-labs.com/)
 * **Ecosystem Commitment:** Beyond building an application, we develop open-source SDKs, and maintain open-source developer tooling.
 *   **Foundational Infrastructure & Network Governance**
 
