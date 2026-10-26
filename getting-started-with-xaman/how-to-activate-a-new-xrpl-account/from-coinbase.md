@@ -2,7 +2,7 @@
 description: How to send XRP from Coinbase to Xaman (deposit)
 ---
 
-# From Coinbase
+# How to Send XRP from Coinbase
 
 1. Open the Coinbase app, select the "**Send"** button.
 
@@ -12,7 +12,7 @@ description: How to send XRP from Coinbase to Xaman (deposit)
 
 <figure><img src="../../.gitbook/assets/Coinbase - 2.png" alt=""><figcaption></figcaption></figure>
 
-⚠️ Please note: If you are trying to activate an account on the XRP Ledger, you will need to send at least **10 XRP**
+⚠️ Please note: If you are trying to activate an account on the XRP Ledger, you will need to send at least **1 XRP**
 
 3. Enter **your r-address** from Xaman, (No XRP Tag is needed.) then press “**Preview send**”.
 
@@ -37,8 +37,6 @@ Note: You can find your r-address in Xaman here…
 <figure><img src="../../.gitbook/assets/Coinbase - 6.png" alt=""><figcaption></figcaption></figure>
 
 Your XRP will arrive in your XRP Ledger account managed with Xaman shortly 🎉
-
-
 
 Note: For your you convenience, we have created this short video to guide you through the above steps.
 
