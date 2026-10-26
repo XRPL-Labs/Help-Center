@@ -82,7 +82,7 @@ You can review and revoke any authorized xApp at any time. See What is the Third
 
 ### How do I vet a token issuer before creating a Trust Line?
 
-There is no foolproof way of ensuring a token is not a scam. It all comes down to trusting the issuer.
+On the XRP Ledger, creating a Trust Line is a deliberate decision to extend credit and accept tokens issued by a specific address. There is no automated mechanism to determine whether an issuer is legitimate; you must evaluate their credibility yourself.There is no foolproof way of ensuring a token is not a scam. It all comes down to trusting the issuer.
 
 As a minimum, before you even consider setting up any Trust Line, we recommend that you do the following:
 
@@ -94,7 +94,9 @@ As a minimum, before you even consider setting up any Trust Line, we recommend t
 6. Have they gone through the KYC process?
 7. Have you tried to contact them? How long did it take for them to reply?
 
-For tokenized real-world assets (for example, tokens that claim to represent shares in a company), add one more check. Confirm the issuer address through the program's own official website or announcement. A token name alone does not prove what the token represents. Anyone can create a token with any name.
+Note: If a token claims to represent a business or real-world asset (RWA), confirm the exact issuer address directly from their official domain. Anyone can assign any ticker or currency code to a token.
 
-Remember, when you create a Trust Line you are basically saying: "I trust you and your token. I have reviewed your business plan, which included your marketing strategy, your goals, your timelines and your tokenomics. It is well organized, realistic and viable. I have researched your staff including your CEO, your developers and your support personnel and they are all world class, highly motivated and honest people who have well documented employment histories. I trust your funding sources and I believe you did not simply create a token to try to scam people. I trust your KYC information is legitimate. I trust that you will provide excellent customer support and that you will be easy to contact and reply to my inquiries. I trust you will not abandon your project. Finally, I trust that you and your staff have the necessary skills and experience to launch and maintain a token on the XRPL."
+Setting up a Trust Line signals that you have evaluated the counterparty risk of that issuer. If you do not know who is behind the issuing address or what gives the token its utility, do not create the Trust Line.
+
+###
 
