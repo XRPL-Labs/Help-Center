@@ -19,6 +19,7 @@
 * [Activating an account (XRPL)](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/README.md)
   * [What is a "Pre-funded" Xaman card?](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card.md)
   * [How to Send XRP from eToro](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/how-to-send-xrp-from-etoro.md)
+  * [How to Send XRP from Gemini](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/how-to-send-xrp-from-gemini.md)
   * [How to Send XRP from Luno](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/how-to-send-xrp-from-luno.md)
   * [How to Send XRP from GateHub](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-gatehub.md)
   * [How to Send XRP from Uphold](getting-started-with-xaman/how-to-activate-a-new-xrpl-account/from-uphold.md)
