@@ -10,7 +10,7 @@ The XRPL community is a large network of users, developers, businesses and inves
 
 To start, if you own XRP, you already trust the XRP Ledger community. The XRPL is a decentralized blockchain. In any community, it can be very difficult to actually trust someone. In the case of a developer, you might trust their code or you might trust their intentions, but when it comes to software there are so many variables and unknown factors. (ie. issues with dependencies or 3rd party libraries.) The same applies to business and token issuers. They might have a great business plan and a wonderful marketing strategy, but that is no guarantee of success.
 
-### Is Xaman Trust Worthy?
+### Is Xaman Trustworthy?
 
 When handling digital assets, you shouldn't have to rely on blind faith. We designed Xaman with a "verify, don't trust" philosophy. You can trust our application because of our architecture, not just our words:
 
