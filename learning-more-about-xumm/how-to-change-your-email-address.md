@@ -1,37 +1,48 @@
-# How to change your Email Address
+---
+description: How to change your email address
+---
 
-## Background
+# How to change your email address
 
-In the Xaman application itself, we **do not** gather or store any personal information about you or your XRP Ledger account. (This includes email). If you are interested, you can view our Privacy policy here:
+### Background
 
-[XRPL Labs Privacy Statement](https://xrpl-labs.com/static/documents/XRPL-Labs-Privacy-Statement-V1.pdf)
+The Xaman wallet app does not collect or store any personal information. This includes email addresses. You can read more about this in our [privacy statement](https://xrpl-labs.com/static/documents/XRPL-Labs-Privacy-Statement-V1.pdf).
 
-Having said this, there are a couple of places where email can be stored:
+However, some of our services do hold your email address. This page lists each case and explains how to change it.
 
-### Xaman (Tangem) card orders
+### Xaman card orders
 
-When you place an order for Xaman (Tangem) cards, you are asked for your email address during the order process. (We use it to send you your "Track-and-Trace" information from our shipping company.) Since we usually ship our orders on the same day, there is a very small window where we could actually change your email information. If you contact us in time, we can change it for your order. 🤞
+When you order Xaman cards, we ask for your email address during the order process. We use it to send shipping updates.
 
-As above, open a ticket using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your Xaman (Tangem) order updated. (Don't forget to include your new email address in the message.)
+If you contact us **before** the order ships, we can change the email address on the order. (We usually ship orders the same day, so your window is short.)
 
-Per our Privacy policy, your email address (along with any other information you provide us in your order) gets **automatically purged** from our systems shortly after your order is sent.
+Once your order is delivered, your order data is automatically removed from our systems two weeks after delivery, per our privacy statement. After that, there is nothing left to change.
 
-### **3rd Party xApps**&#x20;
+To request a change before shipping, open a ticket using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter). Include your new email address in the message.
 
-As we continue to expand the XRPL ecosystem, you will notice we more partnerships with 3rd party companies such as Banxa, BTC Direct, Gatehub, etc.
+### Third-party xApps
+
+The XRPL ecosystem keeps growing, and we have more partnerships with third-party companies. Some of these partners hold an account, and an email address, for you.
 
 {% hint style="warning" %}
-Please note: We have absolutely **no control** over what information a 3rd party vendor gathers, stores and/or maintains.&#x20;
+We have no control over the information a third-party vendor collects, stores, or keeps.
 {% endhint %}
 
-These companies have their own privacy and disclosure policies and each one collects and maintains their own records. In order to change your email address with them, you are going to need to contact them directly.
+Each company keeps its own records under its own privacy policy. To change your email address with one of these partners, contact the partner directly:
 
-* [Banxa Support](https://support.banxa.com/en/support/tickets/new)
-* [BTC Support](https://support.btcdirect.eu/hc/en-gb/requests/new)
-* [Gatehub Support](https://support.gatehub.net/hc/en-us/requests/new)
+* [Banxa](https://support.banxa.com/en/support/tickets/new) (buy and sell XRP)
+* [BTC Direct](https://support.btcdirect.eu/hc/en-gb/requests/new) (buy and sell XRP for EUR)
+* [Exolix](https://www.exolix.com/contact) (sell XRP)
+* [Flare](https://flare.com/support) (FXRP yield xApp)
+* [Gatehub](https://support.gatehub.net/hc/en-us/requests/new) (euro tokens and Xahau)
+* [MoonPay](https://help.moonpay.com/) (buy and sell XRP)
+* [Topper (by Uphold)](https://www.uphold.com/) (sell XRP)
 
-### **Xaman Developer Portal**&#x20;
+The partners shown in the **Buy/Sell XRP** xApp depend on your country. If your partner is not listed above, open the xApp, check the list for your region, and contact that partner directly.
 
-If you have signed up for our developer portal, you would have entered your email address.
+### Xaman Developer Portal
 
-To get this changed, open a ticket using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask to have your email address for your developer portal account updated.
+If you signed up for the Xaman developer portal, you entered your email address when you registered. To change it, open a ticket using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) and ask for your developer portal account to be updated.
+
+
+

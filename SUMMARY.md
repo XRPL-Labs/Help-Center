@@ -71,7 +71,7 @@
 * [Xaman & AMM](learning-more-about-xaman/xaman-and-amm.md)
 * [Xaman & Fractal ID](learning-more-about-xumm/xaman-and-fractal-id.md)
 * [How to set the currency](learning-more-about-xumm/how-to-set-the-currency.md)
-* [How to change your Email Address](learning-more-about-xumm/how-to-change-your-email-address.md)
+* [How to change your email address](learning-more-about-xumm/how-to-change-your-email-address.md)
 * [KYC](learning-more-about-xumm/kyc.md)
 * [xApp Publishing](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
 * [How to Get a Token Added to the Xaman Short List](learning-more-about-xumm/how-to-get-a-token-added-to-the-xumm-short-list.md)
