@@ -31,7 +31,7 @@ Since these services operate under their own independent systems and privacy pol
 * [Flare](https://flare.com/support) (FXRP yield xApp)
 * [Gatehub](https://support.gatehub.net/hc/en-us/requests/new) (euro tokens and Xahau)
 * [MoonPay](https://help.moonpay.com/) (buy and sell XRP)
-* [Topper (by Uphold)](https://www.uphold.com/) (sell XRP)
+* [Topper (by Uphold)](https://support.topperpay.com/hc/en-us/requests/new) (sell XRP)
 
 Note: Available providers vary by country. If you used a partner not listed above, open the Buy/Sell XRP xApp to check which provider operates in your region, then reach out through their official website.
 
