@@ -8,19 +8,19 @@ description: What is the Xahau (XAH) token on the XRPL?
 
 On November 1, 2023 a new XRP Ledger (XRPL) sidechain was launched called **Xahau**.
 
-The Xahau network runs the same code as the XRPL protocol but introduces several new features not found on the main XRPL blockchain.&#x20;
+The Xahau network runs the same code as the XRPL protocol but introduces several new features not found on the main XRPL blockchain.
 
-One of the things introduced in Xahau is a new coin with the trading symbol of **XAH**. The primary purpose of XAH is to pay transaction costs on the Xahau network.&#x20;
+One of the things introduced in Xahau is a new coin with the trading symbol of **XAH**. The primary purpose of XAH is to pay transaction costs on the Xahau network.
 
 ### Tokens on the XRPL
 
-One of the great features of the XRP Ledger is that it allows any asset (other than XRP) to be represented on the XRP Ledger as a **token**. Tokens can represent any type of value, including "stable coins" backed by assets that exist outside of the XRPL, purely digital tokens created specifically on the XRPL, community credit, and more. Tokens are tracked in relationships called [trust lines](https://xrpl.org/trust-lines-and-issuing.html) between accounts.&#x20;
+One of the great features of the XRP Ledger is that it allows any asset (other than XRP) to be represented on the XRP Ledger as a **token**. Tokens can represent any type of value, including "stable coins" backed by assets that exist outside of the XRPL, purely digital tokens created specifically on the XRPL, community credit, and more. Tokens are tracked in relationships called [trust lines](https://xrpl.org/trust-lines-and-issuing.html) between accounts.
 
 **Note:** In the past, tokens on the XRP Ledger have also been called "IOUs" (as in [I-Owe-You ](https://en.wikipedia.org/wiki/IOU)) and "issued currencies". By themselves, these terms do not accurately cover the entire range of digital assets that XRP Ledger tokens can represent, but they may help you understand the concept a little better.
 
 ### The XAH token on the XRPL
 
-A good example of a token issuer would be the Gatehub exchange. On October 29-2023, Gatehub isssued 500,000 XAH tokens on the XRPL. At the same, they moved 500,000 XAH tokens into their reserves to back their issued tokens with XAH on the Xahau network. This means that each one of the XAH tokens they created on the XRPL, has a XAH coin on the Xahau network to back it up. **The XAH tokens on the XRPL are 'IOUs' for the XAH coins which exist on the Xahau network.** If Gatehub issues more XAH tokens on the XRPL, they move more tokens into their XAH reserves. This ensures that the XAH tokens they issue maintain their value on the XRPL.&#x20;
+A good example of a token issuer would be the Gatehub exchange. On October 29-2023, Gatehub isssued 500,000 XAH tokens on the XRPL. At the same, they moved 500,000 XAH tokens into their reserves to back their issued tokens with XAH on the Xahau network. This means that each one of the XAH tokens they created on the XRPL, has a XAH coin on the Xahau network to back it up. **The XAH tokens on the XRPL are 'IOUs' for the XAH coins which exist on the Xahau network.** If Gatehub issues more XAH tokens on the XRPL, they move more tokens into their XAH reserves. This ensures that the XAH tokens they issue maintain their value on the XRPL.
 
 ### Frequently asked Questions
 
@@ -32,7 +32,7 @@ Yes and No.
 
 **No.** You can not purchase the **native** XAH coin on the XRP Ledger. The XAH coin **only** exists on the Xahau blockchain. If you plan to interact with the Xahau network, use any of the features of Xahau or participate in the Xahau ecosystem, you will need to acquire XAH coins via a crypto exchange or via the Burn to Mint (B2M) feature.
 
-* Through a crypto exchange  \
+* Through a crypto exchange\
   \
   Companies like [Gatehub](https://gatehub.net/) and [Bitrue](https://www.bitrue.com/home/) fully support the Xahau network and will provide services for buying, selling, exchanging, trading, sending and receiving XAH coins.<br>
 * Through the Burn to Mint feature.\
@@ -41,7 +41,7 @@ Yes and No.
 
 #### Why are there XAH tokens on the XRP Ledger then?
 
-Anyone can issue a token on the XRP Ledger and people issue tokens for various reasons.&#x20;
+Anyone can issue a token on the XRP Ledger and people issue tokens for various reasons.
 
 For example, GateHub issued their XAH tokens as a way to represent the value of a XAH coin on the XRPL. They will will honor their XAH as "real" XAH on the Xahau network and will allow you to exchange their XAH tokens for XAH issued on the Xahau network.
 
@@ -52,18 +52,18 @@ For more information on Gatehub's issued tokens, please refer to this article:
 {% endcontent-ref %}
 
 {% hint style="danger" %}
-Please note, not all token issuers are legitimate. It is import that you **trust the issuer** before acquiring their tokens&#x20;
+Please note, not all token issuers are legitimate. It is import that you **trust the issuer** before acquiring their tokens
 {% endhint %}
 
 #### But there are other people have issued XAH. What about them?
 
-**Anyone** can issue a token on the Ledger but not all token issuers are trust worthy.
+**Anyone** can issue a token on the Ledger but not all token issuers are trustworthy.
 
 Reputable companies like GateHub have a proven track record of supporting the XRP Ledger community, but not all token issuers do.
 
 There is no fool proof way of ensuring a token is legitimate. It all comes down to trusting the issuer.
 
-If you are considering owning a XAH token, as a minimum,  we recommend that you do the following:
+If you are considering owning a XAH token, as a minimum, we recommend that you do the following:
 
 1. Visit the token issuer's website.
 2. Read their business plan. (Goals, execution, timeline, tokenomics, etc.)
@@ -72,11 +72,11 @@ If you are considering owning a XAH token, as a minimum,  we recommend that you 
 5. Research their funding.
 6. Check that they have gone through the KYC process.
 
-Remember, when you create a Trust Line you are basically saying, \
+Remember, when you create a Trust Line you are basically saying,\
 \
 "I trust you and your token. I have reviewed your business plan. which included your marketing strategy, your goals, your timelines and your tokenomics. It is well organized, realistic and viable.
 
-I have researched your staff including your CEO, your developers and your support personnel and they are all world class, highly motivated and honest people who have well documented employment histories.&#x20;
+I have researched your staff including your CEO, your developers and your support personnel and they are all world class, highly motivated and honest people who have well documented employment histories.
 
 I trust your funding sources and I believe you did not simply create a token to try to scam people. I trust your KYC information is legitimate and honest. I trust that you will provide excellent customer support and that you will be easy to contact and reply to my inquiries.
 
@@ -120,11 +120,4 @@ Please refer to this article for more information:
 [gatehubs-issued-tokens.md](../learning-more-about-xumm/gatehubs-issued-tokens.md)
 {% endcontent-ref %}
 
-
-
 <br>
-
-
-
-
-
