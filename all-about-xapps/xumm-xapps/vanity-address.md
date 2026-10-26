@@ -26,7 +26,7 @@ The normal cost of a vanity account is € 50 per account.
 
 ### How it works
 
-You may have noticed in the Overview section, we mentioned we have over 400 billion pre-mined accounts. The 'pre-mined' part means that we have tested and stored the private keys for all of those accounts. If you would like to purchase one of them, we can't just give you the private keys for it. If we did, how could you trust us to get rid of them after we gave them to you? (Well, we are trust worthy, but still, you can't trust anyone when it comes to your private keys.)
+You may have noticed in the Overview section, we mentioned we have over 400 billion pre-mined accounts. The 'pre-mined' part means that we have tested and stored the private keys for all of those accounts. If you would like to purchase one of them, we can't just give you the private keys for it. If we did, how could you trust us to get rid of them after we gave them to you? (Well, we are trustworthy, but still, you can't trust anyone when it comes to your private keys.)
 
 The solution to this conundrum lies in the XRP Ledger itself. One of the great features of the XRPL is the ability to 're-key' an account. An XRP Ledger account can authorize a secondary key pair, called a _regular key pair_. After doing so, you can use either the master key pair or the regular key to authorize transactions.
 
