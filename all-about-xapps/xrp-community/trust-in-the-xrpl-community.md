@@ -97,6 +97,3 @@ As a minimum, before you even consider setting up any Trust Line, we recommend t
 Note: If a token claims to represent a business or real-world asset (RWA), confirm the exact issuer address directly from their official domain. Anyone can assign any ticker or currency code to a token.
 
 Setting up a Trust Line signals that you have evaluated the counterparty risk of that issuer. If you do not know who is behind the issuing address or what gives the token its utility, do not create the Trust Line.
-
-###
-
