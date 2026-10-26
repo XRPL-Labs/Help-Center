@@ -12,23 +12,18 @@ However, some of our services do hold your email address. This page lists each c
 
 ### Xaman card orders
 
-When you order Xaman cards, we ask for your email address during the order process. We use it to send shipping updates.
+When you purchase Xaman cards, we collect your email address during checkout strictly to provide order confirmations and track-and-trace shipping updates.
 
-If you contact us **before** the order ships, we can change the email address on the order. (We usually ship orders the same day, so your window is short.)
+* **Before Shipment:** Since orders are typically packaged and dispatched the same day, there is a very short window to adjust shipping details. To request an email change, open a ticket via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) immediately. Please include your **Order Number**, the **current email on the order**, and your **new email address**.
+* **After Delivery:** In compliance with our privacy policy, all customer order data is permanently purged from our systems two weeks after delivery. Once purged, no record remains on our servers
 
-Once your order is delivered, your order data is automatically removed from our systems two weeks after delivery, per our privacy statement. After that, there is nothing left to change.
 
-To request a change before shipping, open a ticket using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter). Include your new email address in the message.
 
-### Third-party xApps
+### Third-party xApps & On/Off-Ramps
 
-The XRPL ecosystem keeps growing, and we have more partnerships with third-party companies. Some of these partners hold an account, and an email address, for you.
+When using third-party services inside Xaman (such as fiat on/off-ramps or partner tools), any account or email address you register is managed directly by that provider—not by Xaman.
 
-{% hint style="warning" %}
-We have no control over the information a third-party vendor collects, stores, or keeps.
-{% endhint %}
-
-Each company keeps its own records under its own privacy policy. To change your email address with one of these partners, contact the partner directly:
+Since these services operate under their own independent systems and privacy policies, Xaman support cannot view or update your details on their behalf. To change your registered email, contact the provider's support team directly:
 
 * [Banxa](https://support.banxa.com/en/support/tickets/new) (buy and sell XRP)
 * [BTC Direct](https://support.btcdirect.eu/hc/en-gb/requests/new) (buy and sell XRP for EUR)
@@ -38,7 +33,7 @@ Each company keeps its own records under its own privacy policy. To change your 
 * [MoonPay](https://help.moonpay.com/) (buy and sell XRP)
 * [Topper (by Uphold)](https://www.uphold.com/) (sell XRP)
 
-The partners shown in the **Buy/Sell XRP** xApp depend on your country. If your partner is not listed above, open the xApp, check the list for your region, and contact that partner directly.
+Note: Available providers vary by country. If you used a partner not listed above, open the Buy/Sell XRP xApp to check which provider operates in your region, then reach out through their official website.
 
 ### Xaman Developer Portal
 
