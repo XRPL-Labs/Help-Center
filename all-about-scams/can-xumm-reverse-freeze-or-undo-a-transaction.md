@@ -1,40 +1,39 @@
 # Can Xaman reverse, freeze or undo a transaction?
 
-**All transactions on the XRP Ledger are final.** Once a transaction is confirmed, no one can change it or cancel it. This includes Xaman. The options below match your situation.
+**All transactions on the XRP Ledger are final.** Once a transaction is confirmed, no one can change it or cancel it. This includes Xaman.&#x20;
 
-### **How do I reverse, freeze or undo a transaction on the XRP Ledger?**
+#### Why can't Xaman just cancel or reverse it?
 
-The XRP Ledger is a decentralized blockchain. Part of that means, that no single person, entity, group or company has control over it. Once data has been saved on the XRP Ledger, it can not be modified or altered by anyone. _All transactions on the XRPL are final and permanent._
+Xaman is a self-custody wallet, which means it acts like a remote control for the XRP Ledger. It allows you to view and interact with your account, but Xaman does not hold your funds and has no administrative control over the network.
 
-### **Why can't Xaman do something to reverse my transaction?**
+**What about validators?**\
+Even though Xaman operates a validator on the network, this does not give us special privileges. Decentralized networks don't have a "central boss" or customer support team that can override the rules. Validators simply confirm that transactions follow the math and rules of the network; they cannot rewrite history, freeze accounts, or undo mistakes.
 
-The XRP Ledger does not have any administrative functions built into it, so there is no way for Xaman or anyone else to modify or change a transaction.
+#### So, what are my options?
 
-Xaman is an application that allows you to interact with the XRP Ledger and helps you manage your XRP Ledger account. It does not have administrative privileges on the XRPL.
+Depending on your specific situation, here are the steps you can take:
 
-### **...but Xaman runs a validator. Why can't you just undo my transaction in the next block?**
+**1. I sent funds to an exchange, and they didn't arrive**
 
-While Xaman is one of the many companies that runs a validator on the XRPL, that does not entitle us to any special privileges or network access.
+This usually happens if you forgot to include the exchange's **Destination Tag**, or if you entered the wrong one.
 
-Per the Xrpl.org website:
+* **What to do:** Contact the support team of the crypto exchange you sent the funds to. Provide them with the transaction hash (TxID). Most exchanges have a standard process to locate your funds and credit them to your account.
 
-"_Consensus_ is the most important property of any decentralized payment system. In traditional centralized payment systems, one authoritative administrator gets the final say in how and when payments occur.
+**2. I accidentally sent funds to the wrong address**
 
-Decentralized systems, by definition, don't have an administrator to do that. Instead, decentralized systems like the XRP Ledger define a set of rules all participants follow, so every participant can agree on the exact same series of events and their outcome at any point in time. We call this set of rules a "_consensus protocol_."
+If you sent funds to a personal wallet address that you don't control, the only way to get them back is if the owner voluntarily returns them.
 
-### **So what are my options?**
+* **What to do:** You can try sending a tiny "micro-payment" (e.g., 0.000001 XRP) to that same address. In the **Memo** field of this tiny transaction, write a polite message explaining the mistake and asking them to return the funds. _(Note: There is no guarantee they will respond or comply)._
 
-It depends on the circumstances regarding your transaction.
+**3. My account was compromised, and my funds were stolen**
 
-* **If you sent funds to a crypto exchange and they did not arrive.**\
-  \
-  [Contact your crypto exchange](../learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md) and explain the details of the transaction. Most exchanges have a process that you will need to go through to redirect your funds to the correct location.<br>
-* **If you accidently sent your funds to the wrong r-address**\
-  \
-  Contact the destination address and see if they will send the funds back. Do this by sending a small payment (.000001 XRP) to the account with a polite message in the memo field asking them to return the funds.<br>
-* **If your account was compromised and your funds were stolen.**\
-  \
-  Contact your [local police](ive-been-scammed.md). They should conduct an investigation into the matter.<br>
-* **If you lost the account secret for your account or your account is in "Read only" mode.**\
-  \
-  Try to locate your account secret (secret numbers, family seed, mnemonic) for your account. (The **only** way to access an account is if you have the account secret.) If you still have signing access to your account on your phone, (or perhaps on an old phone), you can create a new XRP Ledger account using Xumm (**Settings** -> **Accounts** -> **+ Add account** -> **Create a new account**), then move your funds over to your new account using the **Send** feature on the main page. By creating a new account, you will get a new set of secret numbers which you can use to access your account on your phone.<br>
+If you fell victim to a scam or someone gained access to your secret recovery numbers, Xaman cannot freeze the scammer's account or retrieve your assets.
+
+* **What to do:** Treat this as a theft. File a report with your local law enforcement or cybercrime division. They are the only entities equipped to investigate stolen digital assets.
+
+**4. I lost my secret backup or my account says "Read Only"**
+
+Your options here depend entirely on whether your current Xaman app still has signing access:
+
+* **If you have "Full Access" on your phone but lost your paper backup:** Create a brand-new XRPL account in Xaman (which gives you a new set of secret numbers), write the new backup down safely, and immediately send all your funds from the old account to the new one.
+* **If your account says "Read Only":** Your phone no longer holds the keys to sign transactions. You **must** find your physical backup (secret numbers, family seed, or mnemonic phrase) to restore full access. Without it, the funds cannot be moved.
