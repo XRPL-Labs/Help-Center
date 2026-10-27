@@ -13,15 +13,16 @@ Blackholing is a deliberate, irreversible action performed by an account operato
 There are two primary reasons an account operator blackholes an address:
 
 * **To prove a fixed token supply.** When a token issuer blackholes the issuing account, it mathematically proves to the community that no more of that token can ever be minted. It also locks the token settings forever, meaning the issuer can no longer change transfer fees, set freeze flags, or alter trustline configurations.
-* **To permanently decommission an account.** Some accounts cannot be deleted using the standard `AccountDelete` transaction (for example, if they still have active trustlines or ledger dependencies). Blackholing ensures the account can never be used again, effectively neutralizing it while leaving its base reserve locked.
+* **To permanently decommission an account.** Some accounts cannot be deleted using the standard `AccountDelete` transaction (for example, if they still have active trustlines or ledger dependencies). Blackholing ensures the account can never be used again, effectively neutralizing it while leaving its reserves locked on the ledger.
 
 #### How do I check if an account is blackholed?
 
 There is no single "blackhole" flag on the XRPL. Instead, an account is considered blackholed only when **all three** of the following conditions are met:
 
 1. **The Master Key is disabled.** The `lsfDisableMaster` flag is enabled on the account, revoking the authority of the original secret key/passphrase.
-2. **The Regular Key is set to a verifiable blackhole address.** The account’s `RegularKey` is set to an address with no known private key, most commonly `rrrrrrrrrrrrrrrrrrrrrhoLvTp` (`ACCOUNT_ZERO`) or `rrrrrrrrrrrrrrrrrrrrBZbvji` (`ACCOUNT_ONE`).
-3. **No Signer List exists.** The account has no multi-signing list configured, meaning no group of secondary keys can authorize transactions on its behalf.
+2. **The Regular Key is set to a known blackhole address.** The account's `RegularKey` is set to one of two specific addresses that provably have no private key: `rrrrrrrrrrrrrrrrrrrrrhoLvTp` (ACCOUNT\_ZERO) or `rrrrrrrrrrrrrrrrrrrrBZbvji` (ACCOUNT\_ONE). A `RegularKey` set to any other address does not count. The ledger cannot verify who holds that other address's key.
+3. **No Signer List exists.** The account has no multi-signing list configured.
+4. **No Delegates exist.** The account has no delegate entries, so no other account can act on its behalf.
 
 You can verify these conditions using a public XRPL block explorer (such as XRP Scan or Bithomp) or directly via the XRPL API:
 
@@ -39,7 +40,7 @@ If the destination address is truly blackholed, **the funds are permanently lost
 
 Since the private keys do not exist, no one on Earth can authorize a transaction to send them back:
 
-* **Token issuers cannot refund you.** Even if you contact the project or developer who originally operated the account, they no longer hold any keys or permissions to access it.
+* **The operator of the account cannot get the funds back either.** Once an account is blackholed, no one holds its keys. If you sent an issued token, the issuer cannot refund you. If you sent XRP, there is no issuer to contact. In either case, no one can authorize a transaction to move the funds out.
 * **Validators and wallet providers cannot reverse it.** The XRP Ledger has no central administrator, and non-custodial wallets like Xaman do not control your funds or the ledger rules.
 * **Beware of recovery scammers.** Anyone who claims they can "hack," "trace," or "reverse" funds from a blackholed account is a scammer. Recovery services targeting accidental transactions are fraudulent. See I've been scammed.
 
