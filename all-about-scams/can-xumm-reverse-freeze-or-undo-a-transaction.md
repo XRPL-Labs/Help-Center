@@ -1,5 +1,7 @@
 # Can Xaman reverse, freeze or undo a transaction?
 
+**All transactions on the XRP Ledger are final.** Once a transaction is confirmed, no one can change it or cancel it. This includes Xaman. The options below match your situation.
+
 ### **How do I reverse, freeze or undo a transaction on the XRP Ledger?**
 
 The XRP Ledger is a decentralized blockchain. Part of that means, that no single person, entity, group or company has control over it. Once data has been saved on the XRP Ledger, it can not be modified or altered by anyone. _All transactions on the XRPL are final and permanent._
