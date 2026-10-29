@@ -12,9 +12,7 @@ Most people will receive two cards. They might look like this:
 
 <figure><img src="../.gitbook/assets/Xumm Tangem card -3.png" alt=""><figcaption></figcaption></figure>
 
-or like this:
-
-Don't worry, the cards are exactly the same, other than their appearance. We sent you two different cards so you can easily tell them apart!&#x20;
+Don't worry, the cards are exactly the same, other than their appearance. We sent you two different cards so you can easily tell them apart!
 
 ### What are the cards for...
 
@@ -27,15 +25,15 @@ The main functions of a Xaman card are:
 There are multiple use cases and ways to configure the cards, but the core feature of a card is that it allows you to sign transactions on the XRPL account that the card creates.
 
 {% hint style="info" %}
-Since an account secret is generated and stored on each card, the only way you can sign transactions on the card's account, is if you **physically have** the card.&#x20;
+Since an account secret is generated and stored on each card, the only way you can sign transactions on the card's account, is if you **physically have** the card.
 {% endhint %}
 
 ### What the cards are not for...
 
 The cards **can not** be used:
 
-* to connect to your bank account.&#x20;
-* at an ATM or bank machine.&#x20;
+* to connect to your bank account.
+* at an ATM or bank machine.
 * as a debit card or a credit card.
 
 ### Our recommendation
@@ -46,27 +44,17 @@ Here is a summary on how we recommend that you configure the cards:
 
 {% embed url="https://help.xumm.app/app/getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card" %}
 
-2\) Activate **one** of the cards with 1 XRP.  (The second card does not need to be activated.)
+2\) Activate **one** of the cards with 1 XRP. (The second card does not need to be activated.)
 
 {% embed url="https://help.xumm.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account" %}
 
-3\) Configure the second card to be a backup for the activated card.&#x20;
+3\) Configure the second card to be a backup for the activated card.
 
 {% embed url="https://help.xumm.app/app/xumm-tangem-cards/how-to-configure-a-backup-signing-account" %}
 
 4\) Move your existing funds (XRP and any other assets) from your existing XRPL account to your new card account.
 
 5\) Decide what to do with your existing account. (Discussed below)
-
-
-
-### A little bit more information
-
-Some people will want to create a pin or passcode on their cards. If you are going to do this, please make sure you read the following article thoroughly:
-
-**Create a pin on your backup card**
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Creating a pin on your card</td><td></td><td></td><td><a href="../.gitbook/assets/Waterfall.png">Waterfall.png</a></td><td><a href="creating-a-pin-on-your-xumm-tangem-card.md">creating-a-pin-on-your-xumm-tangem-card.md</a></td></tr></tbody></table>
 
 #### Brush up on your security practices
 
@@ -88,7 +76,7 @@ With the Xaman cards, we utilize the "regular key" feature on the XRP Ledger to 
 
 {% embed url="https://xrpl.org/docs/concepts/accounts/cryptographic-keys" %}
 
-The idea is that you create a new XRPL account on one card, (The "Primary" account) then you create another XRPL account on a second card. (The "Backup" account). Once you have done this, you link the two cards together using the regular key feature on the XRP Ledger. The "link" allows you to sign transactions on the Primary account with the Backup account.&#x20;
+The idea is that you create a new XRPL account on one card, (The "Primary" account) then you create another XRPL account on a second card. (The "Backup" account). Once you have done this, you link the two cards together using the regular key feature on the XRP Ledger. The "link" allows you to sign transactions on the Primary account with the Backup account.
 
 The backup is not a duplicate or a clone of an account. The backup is an alternative way to access your XRPL account.
 
