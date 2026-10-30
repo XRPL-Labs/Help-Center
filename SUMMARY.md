@@ -141,7 +141,7 @@
 * [Best security practices for the Xaman cards](xaman-tangem-cards/best-security-practices-using-a-xaman-card.md)
 * [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md)
 * [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
-* [How to link an existing account to a Xaman card](xumm-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card.md)
+* [How to link an existing account to a Xaman card](xaman-tangem-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
 
 ## ALL ABOUT XAPPS
 

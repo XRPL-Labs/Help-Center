@@ -140,8 +140,8 @@ If your goal is for the card to be the only signer, you must also disable the ma
 
 The recommended and ideal way to configure a card is to have **two cards**, then "link" them together using the Tangem Backup xApp. This is explained in this article:
 
-{% content-ref url="getting-started.md" %}
-[getting-started.md](getting-started.md)
+{% content-ref url="../xumm-tangem-cards/getting-started.md" %}
+[getting-started.md](../xumm-tangem-cards/getting-started.md)
 {% endcontent-ref %}
 
 #### I only have one card though...
