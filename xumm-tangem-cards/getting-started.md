@@ -130,13 +130,13 @@ If you had an XRP Ledger account before the cards, you can move everything to th
 
 Most people store the **Primary** card somewhere safe (in a safe, a safe deposit box, or a locked drawer), because it is the master key to the account where the money lives. They carry the **Backup** card with them and use it to sign everyday transactions on the Primary account.
 
-This setup limits the damage if something goes wrong. If you lose the Backup card you carry, you remove it as the backup, and your Primary card still controls everything. Either choice works, though. Both cards control the same account after the link.
+This setup limits the damage if something goes wrong. If you lose the Backup card you carry, you use your Primary card to remove the link to it, and your Primary card still controls everything. See [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards). Either choice works, though. Both cards control the same account after the link.
 
 #### I have more than two cards. What do I do with the others?
 
 The regular key feature allows **one** Backup card per account, so you cannot link a third card to the same account as a second backup. People use extra cards in a few ways:
 
-* as an extra spare in case something happens to the Primary or Backup cards
+* as a spare, ready to become your new Backup (or new Primary) if one of your cards is ever lost or damaged
 * as a separate account for daily spending, NFTs, trading, or testing
 * to give to a friend or family member
 * as part of a [multi-signing](https://xrpl.org/multi-signing.html) setup (advanced)
