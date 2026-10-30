@@ -114,7 +114,7 @@ Deleting an account costs a small network fee, so you will get back slightly les
 
 **Step 3. Link the Backup card to your Primary account.**
 
-Use the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) to link the Backup card to your Primary account. After this step, both cards can sign for the Primary account. This uses the XRP Ledger "regular key" feature. You do not need to understand the feature to use it. The xApp walks you through every step.
+Use the [Tangem Backup xApp](https://xaman.app/detect/xapp:xumm.tangem-backup) to link the Backup card to your Primary account. After this step, both cards can sign for the Primary account. This uses the XRP Ledger "regular key" feature. You do not need to understand the feature to use it. The xApp walks you through every step.
 
 See: [How to configure a backup signing account](https://help.xaman.app/app/xaman-tangem-cards/how-to-configure-a-backup-signing-account) for more information.
 
@@ -124,7 +124,7 @@ Send your XRP (and any other assets) to the Primary account.
 
 **Step 5. Decide what to do with your old account (if you have one).**
 
-If you had an XRP Ledger account before the cards, you can move everything to the card account or keep both. Both are fine. See: [How to link an existing account to a Xaman card](https://help.xaman.app/xaman-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card).
+If you had an XRP Ledger account before the cards, you can move everything to the card account or keep both. Both are fine. See: [How to link an existing account to a Xaman card](https://help.xaman.app/app/xaman-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card).
 
 #### Which card do I use day to day?
 
@@ -147,4 +147,4 @@ Extra cards are not pre-funded, so you need to activate each one you plan to use
 
 The Xaman card is a cold wallet option. Each card holds its own account secret in a secure chip. You import the pre-funded card and claim its XRP, import your second card, and link it as your Backup. After that, two cards control one account, and you keep your XRP under your own control.
 
-For more, read [Best security practices with a Xaman card](https://help.xaman.app/xaman-tangem-cards/best-security-practices-using-a-xumm-card). If you have questions, contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md)  in Xaman.
+For more, read [Best security practices with a Xaman card](https://help.xaman.app/app/xaman-tangem-cards/best-security-practices-using-a-xumm-card). If you have questions, contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md)  in Xaman.
