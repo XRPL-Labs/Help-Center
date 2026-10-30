@@ -8,7 +8,7 @@ You can import an XRP Ledger account in either of these two modes:\
 \
 **Full access** - Choose this option if you would like to be able to interact with your XRPL account. ie. if you would like to create a Trust Line or send XRP to another account.
 
-**Read only** access - Choose this option if you would like to simply follow the activity of an XRPL account. This option does not allow you to sign transactions on your account.&#x20;
+**Read only** access - Choose this option if you would like to simply follow the activity of an XRPL account. This option does not allow you to sign transactions on your account.
 
 Most people choose to import their accounts with **Full access** so they can interact with the XRP Ledger.
 
@@ -18,9 +18,7 @@ As well, Xaman is compatible with all industry standard account secrets. Choose 
 
 If you have a Xaman (Tangem) card, this article explains how to import it:
 
-
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="...a-xumm-tangem-card.md">...a-xumm-tangem-card.md</a></td><td><a href="../../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="...a-xaman-tangem-card.md">...a-xaman-tangem-card.md</a></td><td><a href="../../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
 #### If your account was created during the Casino Coin swap...
 
@@ -31,14 +29,3 @@ If you do not have your CasinoCoin secret mentioned above, the CasinoCoin team h
 [How to recover a CasinoCoin account](https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account)
 
 If you run into any trouble with the recovery process, please contact the CasinoCoin support staff here: [CasinoCoin Support](https://eminence.freshdesk.com/support/tickets/new)
-
-
-
-
-
-
-
-
-
-
-

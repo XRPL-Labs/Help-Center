@@ -138,5 +138,5 @@ Consider the possibility that there is another account secret for your account, 
 #### See also
 
 * [Can I view/export my account secret?](can-i-view-export-my-account-secret.md)
-* [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
+* [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md)
 

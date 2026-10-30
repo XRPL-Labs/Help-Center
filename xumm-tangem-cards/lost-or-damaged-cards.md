@@ -68,8 +68,8 @@ If your Backup card was stolen, the thief will not be able to access your Primar
 
 2\) Import your Backup card into Xaman.
 
-{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md" %}
-[...a-xumm-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
+{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md" %}
+[...a-xaman-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md)
 {% endcontent-ref %}
 
 3\) Import your Primary card account into Xaman in Read only mode.

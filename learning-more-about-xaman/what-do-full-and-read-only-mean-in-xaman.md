@@ -70,6 +70,6 @@ You can lose the ability to sign from it if you lose the card and do not have a 
 #### See also
 
 * [I've lost my account secret!](ive-lost-my-account-secret.md)
-* [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card.md)
+* [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md)
 
 <br>
