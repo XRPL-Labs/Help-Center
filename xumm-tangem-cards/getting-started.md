@@ -1,115 +1,150 @@
----
-description: Just received your Xaman cards?
----
-
 # Getting started with your new cards 🤗
 
-If you just received your Xaman cards and you are not sure what to do with them or how to configure them, this is exactly where you want to be. We are going to go over the basics of the cards, how to use them, and answer some common questions related to the cards.
+Your Xaman cards have arrived! 🎉
 
-### Taking a look at the cards
+Let’s open the package together. In about ten minutes, you will go from a sealed pouch to a working cold wallet: two cards, one account, and your XRP secured by a card you can hold in your hand. We will walk you through every step, from your first tap to linking your backup.
 
-Most people will receive two cards. They might look like this:
+#### What you can expect in the package
 
-<figure><img src="../.gitbook/assets/Xumm Tangem card -3.png" alt=""><figcaption></figcaption></figure>
+Your package arrives in a sealed pouch and contains:
 
-Don't worry, the cards are exactly the same, other than their appearance. We sent you two different cards so you can easily tell them apart!
+* **At least two cards**, in the designs you picked when you ordered. The cards are loose in the pouch. This is normal.
+* **Your pre-funded card**, which is one of your cards in a clear plastic sleeve with an orange label telling you to import it first. This card comes with 1 XRP that you claim when you set it up, so you do not need to buy XRP to get started. The sleeve is only there so you can spot the card. It does not change how the card works.
+* **A printed instruction sheet**, which covers the same setup as this article, in less detail.
+* **A thank-you card** with links to download Xaman from the App Store or Google Play.
 
-### What are the cards for...
+Whichever designs you picked, every card works exactly the same way, including partner ecosystem cards. The only difference is that one card comes pre-funded, and that is the card you will use as your Primary.
 
-The main functions of a Xaman card are:
-
-* to securely create an account secret for an XRP Ledger account
-* to safely store that account secret on the card
-* to sign transactions on the card's account
-
-There are multiple use cases and ways to configure the cards, but the core feature of a card is that it allows you to sign transactions on the XRPL account that the card creates.
+If your package arrived opened, see [Are my Xaman cards safe?](https://help.xaman.app/app/xaman-tangem-cards/are-my-xaman-cards-safe)
 
 {% hint style="info" %}
-Since an account secret is generated and stored on each card, the only way you can sign transactions on the card's account, is if you **physically have** the card.
+**Already have an XRP Ledger account in Xaman?** Read [How to link an existing account to a Xaman card](https://help.xaman.app/xaman-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card) before you start. It helps you decide whether to keep using your existing account or move everything to a new card account.
 {% endhint %}
 
-### What the cards are not for...
+#### Before you start
 
-The cards **can not** be used:
+To use Xaman cards, you need:
 
-* to connect to your bank account.
-* at an ATM or bank machine.
-* as a debit card or a credit card.
+* a phone with NFC (the same technology used for tap-to-pay), with NFC turned on
+* an up-to-date version of iOS or Android
+* the latest version of the official Xaman app from the [App Store](https://apps.apple.com/app/id1492302343) or [Google Play](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm)
 
-### Our recommendation
+#### The one thing to understand first
 
-Here is a summary on how we recommend that you configure the cards:
+**Each new card creates and holds its own account.**
 
-1\) Import **both** cards into Xaman. (This will create a new XRP Ledger account on each card.)
+A new card holds no account at all. When you import it, the card creates a brand new XRP Ledger account inside itself. So after you import your two cards, they are **two different accounts**, not one.
 
-{% embed url="https://help.xumm.app/app/getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card" %}
+That is normal. Here is what you do next. Your pre-funded card becomes your **Primary** card. The Primary card is where your XRP will live. Then you link your other card to it as your **Backup** card. (The printed sheet in your package calls this the **Signing** card. It is the same thing.) After the link, both cards can sign for the **same** account (the Primary account).
 
-2\) Activate **one** of the cards with 1 XRP. (The second card does not need to be activated.)
+Think of it like two keys to the same door. The Primary card is the master key. The Backup card is a second key to that same door.
 
-{% embed url="https://help.xumm.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account" %}
+{% hint style="info" %}
+The Backup card is not a clone of the Primary card. It is an alternative way to access the same account.
 
-3\) Configure the second card to be a backup for the activated card.
+* **If you lose the Backup card**, use your Primary card to remove the link to the Backup card, then keep using your Primary card.
+* **If you lose the Primary card**, use the Backup card to move your assets to another account.
 
-{% embed url="https://help.xumm.app/app/xumm-tangem-cards/how-to-configure-a-backup-signing-account" %}
+Write down your Primary account's r-address and keep it somewhere safe. If you ever lose your phone and your Primary card at the same time, you will need it to get back into your account with the Backup card.
 
-4\) Move your existing funds (XRP and any other assets) from your existing XRPL account to your new card account.
+See [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards) for step-by-step help.
+{% endhint %}
 
-5\) Decide what to do with your existing account. (Discussed below)
+#### What the cards are for
 
-#### Brush up on your security practices
+A Xaman card is a cold wallet option. It is a physical card with a secure chip (a secure element). Its three jobs are:
 
-We have compiled a set of suggestions on how to use your Xaman cards. A sort of, 'Do's and Don'ts' list of things to avoid and things to try to practice when it comes to your cards.
+* create an account secret for an account
+* store that account secret inside the chip
+* sign transactions on the account that the card created
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Best security practices for your Xaman (Tangem) card</td><td></td><td></td><td><a href="../.gitbook/assets/Water fall - 2.png">Water fall - 2.png</a></td><td><a href="best-security-practices-using-a-xumm-card.md">best-security-practices-using-a-xumm-card.md</a></td></tr></tbody></table>
+The account secret never leaves the chip, and it never touches your phone. Xaman never sees it. Since the secret is stored on the card, the only way someone can sign for that account is to **physically have the card**. This also means you should treat your cards like cash or house keys: anyone who holds a card can use it to sign.
 
-### Frequently Asked Questions
+{% hint style="info" %}
+The cards work with **both** XRP (on the XRP Ledger) and XAH (on Xahau).
+{% endhint %}
 
-#### Tell me more about the "backup " process
+#### What the cards are not for
 
-The ideal way to configure the cards is to:
+The cards are not bank cards. You cannot use them:
 
-* Import two Xaman cards into Xaman
-* Create a Primary and Signing account, then link them together using the Tangem Backup xApp.
-* Move the majority of your assets to the Primary account, then put the card into a safe, secure storage location.
+* to connect to your bank account
+* at an ATM or bank machine
+* as a debit or credit card
 
-With the Xaman cards, we utilize the "regular key" feature on the XRP Ledger to accomplish the "link" between cards. See:
+They only do one thing. They protect and control your XRPL/Xahau account.
 
-{% embed url="https://xrpl.org/docs/concepts/accounts/cryptographic-keys" %}
+#### Setting up your two cards, step by step
 
-The idea is that you create a new XRPL account on one card, (The "Primary" account) then you create another XRPL account on a second card. (The "Backup" account). Once you have done this, you link the two cards together using the regular key feature on the XRP Ledger. The "link" allows you to sign transactions on the Primary account with the Backup account.
+This is the setup we recommend. It takes about ten minutes.
 
-The backup is not a duplicate or a clone of an account. The backup is an alternative way to access your XRPL account.
+**Step 1. Import the pre-funded card and claim your XRP.**
 
-For example, if you were to lose the Backup card (or if it was damaged, stolen, destroyed, etc.) you would just disable the Backup card and use the Primary card to access the Primary account. If you were to lose your Primary card (or if it was damaged, stolen, destroyed, etc.), you would simply move the assets off or your Primary account using the Backup card.
+Take the card out of the clear sleeve and import it first. In Xaman, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Tangem card**. The app walks you through the rest.
 
-#### I have three cards. What do I do with the third one?
+See: [How to import your Xaman card](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card) for more information.
 
-As mentioned above, we use the "regular key" feature of the XRP Ledger to "link' two card accounts together. (This eff ectively allows the "backup" card to sign transactions on the Primary card's account.) The XRPL only allows for **one** regular key to be set per account, so this limits the number of backup cards that can be configured to one card.
+{% hint style="danger" %}
+When you first tap a new card, Xaman checks that the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card. Contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
+{% endhint %}
 
-So what can a third card be used for?
+After the import, tap the **Activate** button in the app to claim the pre-funded 1 XRP. This activates the account, which is now your Primary account. See [What is a "Pre-funded" Xaman card?](https://help.xaman.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card)
 
-Basically it all depends on how you plan to interact with the XRP Ledger community. For some people. the third card is just stored away in a safe place in case something happens to one of the other two cards. (Sort of like a spare card in case one of the others are damaged or lost.)
+{% hint style="info" %}
+**Why can't I spend the 1 XRP?** An XRP Ledger account that holds funds must keep a minimum balance, called the **reserve**. The 1 XRP on your Primary account is that reserve. You will see it in your balance, but you cannot spend it. This is a rule of the XRP Ledger, not a Xaman fee. The reserve amount is set by the network and can change over time.
+{% endhint %}
 
-Some people use the third card as a dedicated account for gambling, or for NFTs or a dedicated trading account. Some use it for testing features on the XRPL or as a daily spending account.
+**Step 2. Import your second card.**
 
-Other people give it away to a friend or family member to introduce them to the XRP Ledger.
+Import the second card the same way. This card becomes your Backup card. It does not need any XRP, because its only job is to sign for your Primary account. Xaman shows its account as not activated. This is expected, and you can leave it that way.
 
-For advanced users, the XRP Ledger has a feature called [**Multi-signing**](https://xrpl.org/multi-signing.html) which allows multiple XRPL accounts to be linked together for signing purposes. The third card can be used in a multi-sign configuration if desired.
+<details>
 
-#### I have an existing XRP Ledger account(s). What should I do with them now that I have the cards?
+<summary>I would rather use the other card as my Primary card</summary>
 
-It depends on how you plan to interact with the XRP Ledger community.
+You can, but it takes a few extra steps. Do these after Step 2:
 
-Some people prefer to have multiple XRPL accounts for different functions. For example, you might want to have a dedicated account for airdrops, or for collecting NFTs, or for gambling or for gaming or you might want to use your Xaman cards for long term savings, but you might also want a "daily spending" account for routine transactions.
+1. Activate the second card's account yourself by sending it at least the reserve amount of XRP. See: [How to activate a new XRPL account](https://help.xaman.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account).
+2. Delete the account on the pre-funded card, and choose your new Primary account as the destination. The remaining XRP is sent there. See: [How to delete your account](../learning-more-about-xumm/deleting-an-xrpl-account.md).
+3. Continue with Step 3 below, linking the pre-funded card as your Backup card.
 
-Other people prefer to have one account to manage all their XRP Ledger activity. Once you decide on your plans for the XRPL. you can decide what to do with your account(s).
+Deleting an account costs a small network fee, so you will get back slightly less than the reserve. Once deleted, an account can be activated again later, but only by sending it new XRP.
 
-For more information about this, please refer to this article:
+</details>
 
-{% content-ref url="how-to-link-an-existing-account-to-a-xumm-card.md" %}
-[how-to-link-an-existing-account-to-a-xumm-card.md](how-to-link-an-existing-account-to-a-xumm-card.md)
-{% endcontent-ref %}
+**Step 3. Link the Backup card to your Primary account.**
 
-### Summary
+Use the [Tangem Backup xApp](https://xumm.app/detect/xapp:xumm.tangem-backup) to link the Backup card to your Primary account. After this step, both cards can sign for the Primary account. This uses the XRP Ledger "regular key" feature. You do not need to understand the feature to use it. The xApp walks you through every step.
 
-The Xaman card is a hardware wallet that offers peace of mind by providing a reliable and secure storage solution for your private keys for your XRPL account. Should you have any additional questions regarding this topic, you are welcome to contact us any time via the [<mark style="color:blue;">**Xaman Support xApp**</mark>](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) in Xaman.
+See: [How to configure a backup signing account](https://help.xaman.app/app/xaman-tangem-cards/how-to-configure-a-backup-signing-account) for more information.
+
+**Step 4. Move your funds to your Primary account.**
+
+Send your XRP (and any other assets) to the Primary account.
+
+**Step 5. Decide what to do with your old account (if you have one).**
+
+If you had an XRP Ledger account before the cards, you can move everything to the card account or keep both. Both are fine. See: [How to link an existing account to a Xaman card](https://help.xaman.app/xaman-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card).
+
+#### Which card do I use day to day?
+
+Most people store the **Primary** card somewhere safe (in a safe, a safe deposit box, or a locked drawer), because it is the master key to the account where the money lives. They carry the **Backup** card with them and use it to sign everyday transactions on the Primary account.
+
+This setup limits the damage if something goes wrong. If you lose the Backup card you carry, you remove it as the backup, and your Primary card still controls everything. Either choice works, though. Both cards control the same account after the link.
+
+#### I have more than two cards. What do I do with the others?
+
+The regular key feature allows **one** Backup card per account, so you cannot link a third card to the same account as a second backup. People use extra cards in a few ways:
+
+* as an extra spare in case something happens to the Primary or Backup cards
+* as a separate account for daily spending, NFTs, trading, or testing
+* to give to a friend or family member
+* as part of a [multi-signing](https://xrpl.org/multi-signing.html) setup (advanced)
+
+Extra cards are not pre-funded, so you need to activate each one you plan to use as its own account.
+
+#### Summary
+
+The Xaman card is a cold wallet option. Each card holds its own account secret in a secure chip. You import the pre-funded card and claim its XRP, import your second card, and link it as your Backup. After that, two cards control one account, and you keep your XRP under your own control.
+
+For more, read [Best security practices with a Xaman card](https://help.xaman.app/xaman-tangem-cards/best-security-practices-using-a-xumm-card). If you have questions, contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md)  in Xaman.
