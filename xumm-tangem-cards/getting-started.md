@@ -2,7 +2,7 @@
 
 Your Xaman cards have arrived! 🎉
 
-Let’s open the package together. In about ten minutes, you will go from a sealed pouch to a working cold wallet: two cards, one account, and your XRP secured by a card you can hold in your hand. We will walk you through every step, from your first tap to linking your backup.
+Let’s open the package together. In about ten minutes, you will go from a sealed pouch to a working cold-wallet setup: two cards, one account, and your XRP secured by a card you can hold in your hand. We will walk you through every step, from your first tap to linking your backup.
 
 #### What you can expect in the package
 

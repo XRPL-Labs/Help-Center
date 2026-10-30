@@ -1,47 +1,82 @@
 ---
 description: How we recommend using the cards
-cover: ../.gitbook/assets/Water fall - 2.png
-coverY: 0
 ---
 
-# Best Security Practices Using the Xaman (Tangem) Cards
+# Best security practices for the Xaman cards
 
-Here are our top 5 recommendations when using our cards...
+Your Xaman cards keep your account secret on a secure chip. It never leaves the card, it never touches your phone, and Xaman never sees it. That makes your cards one of the safest ways to protect your XRP and XAH.
 
-### Never use your card in an untrusted environment
+The habits below help you get the most out of that protection.
 
-For maximum security, you should be using your Xumm cards at home, in a private, secure and trusted environment.  It is generally not a good idea to sign transactions in large public areas. (Think grocery stores, malls, crowded streets, etc.)
+#### Always set up a Backup card
 
-If you do a lot of transactions in public environments, consider using the cards in conjunction with a regular XRPL account managed by Xumm. Such an account could be used to store **limited funds** that will be accessed on a daily basis, keeping the majority of your funds safely managed by your Xumm cards. If you need to top up your balance in your regular account, you can do so using your Signing card when you get home.
+This is the most important thing you can do on this list. Your account secret exists in only one place: on the card. If your only card is lost, damaged, or stolen, there is no way to recover the account.
 
-### Keep your pin/passcode safe&#x20;
+That is why every order includes at least two cards. Link your second card to your Primary account as a Backup card, so you can still reach your funds if something happens to one of them. The setup takes a few minutes, and the [Tangem Backup xApp](https://xaman.app/detect/xapp:xumm.tangem-backup) walks you through it.
 
-Your Xumm card is basically an advanced version of your master password to access your XRP Ledger account, so keeping your pin/passcode safe (if you configure one), is vitally important.  You are probably very cautious when entering your pin/passcode for your bank card or credit card so you should be just a vigilant when it comes to your [pin for your Xumm card](creating-a-pin-on-your-xumm-tangem-card.md). &#x20;
+* [Getting started with your new cards](https://help.xaman.app/app/xaman-tangem-cards/getting-started)
+* [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards)
 
-### Never use your card on an untrusted device
+Also write down your Primary account's r-address and keep it somewhere safe. If you ever lose your phone and your Primary card at the same time, you will need it to get back into your account with your Backup card.
 
-You should only add the card(s) to a trusted phone. Things to ensure are:
+#### Keep your cards physically safe
 
-* your device has the most recent security and OS updates.
-* you have strong and complex passcodes/passwords
-* Do not 'root' or jailbreak your phone.
-* install applications only from the App Store and Google Play. Do not install “cracked” apps from random sites on the internet.
-* Review your installed applications from time-to-time and remove those you don’t use.
+Anyone who holds one of your cards can use it to sign transactions on your account. Treat your cards the way you treat cash or house keys.
 
-### Never connect to the internet using public WiFi
+* Store your Primary card somewhere secure, such as a safe, a safe deposit box, or a locked drawer.
+* Keep your Primary and Backup cards in **different places**, so a single event (a fire, a flood, or a break-in) cannot take both.
+* Do not lend your cards to anyone.
+* Keep your cards where they will not get bent, cracked, or chewed by a curious pet.
 
-Public WiFi can be very dangerous. The list of possible attack vectors using public WiFi include: malware, viruses, worms, network snooping, session hi-jacking... the list goes on and on. If you use Xumm or Xumm cards, we **strongly recommend against** using public WiFi.
+{% hint style="info" %}
+**Have an older card with a PIN?** Earlier Xaman cards let you set a PIN. If you set one, keep it somewhere safe. If you forget it, you can lose access to the account on that card. New cards do not use PINs.
+{% endhint %}
 
-### Consider having at least two XRPL accounts
+#### Only sign in private, trusted places
 
-In some cases, having two or more separate XRPL accounts can be a good idea. It really depends on how you plan to interact with the XRP Ledger community, but some people will have separate accounts for:
+Use your cards at home or somewhere else private and secure. Avoid signing transactions in busy public places, such as grocery stores, malls, or crowded streets, where someone could watch your screen or grab your card.
 
-* airdrops
+If you make a lot of transactions on the go, consider keeping a separate everyday account in Xaman with a small amount of funds for daily use. Keep most of your funds on your card account. When your everyday account runs low, top it up from your card account when you are back home.
+
+#### Only use your cards with a trusted phone
+
+Only add your cards to a phone you trust and control. Make sure:
+
+* your phone has the latest security and operating system updates
+* your phone is protected by a strong passcode
+* your phone is not rooted or jailbroken
+* you only install apps from the [App Store](https://apps.apple.com/app/id1492302343) or [Google Play](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm), never "cracked" apps from other websites
+* you review your installed apps from time to time and remove the ones you do not use
+
+#### Avoid public Wi-Fi
+
+Public Wi-Fi networks can expose you to network snooping, fake hotspots, and other attacks. When you use Xaman or your cards, use your mobile data connection or a Wi-Fi network you trust, such as your home network.
+
+#### Never sign a transaction you do not understand
+
+Your card protects your account secret, but it cannot protect you from approving a harmful transaction. Before you tap your card to sign, read what the transaction does.
+
+Be especially careful with transactions that change who controls your account, such as **Set Regular Key** or **Account Delete**. Scammers sometimes trick people into signing a Set Regular Key transaction that gives the scammer's account the power to sign for theirs. Only sign these transactions when you started them yourself, for example when you link your own Backup card.
+
+{% hint style="danger" %}
+**Xaman will never contact you first.** The only official support is the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) inside Xaman. We will never send you a direct message, and no one from Xaman will ever ask you to tap your card or sign a transaction to "verify" or "fix" your account.
+
+Support may ask for your r-address to look into a problem. That is safe to share: your r-address is public, just like an email address. It cannot be used to sign for your account.
+{% endhint %}
+
+#### Consider spreading your funds across accounts
+
+Some people keep separate accounts for different activities, for example:
+
+* long-term savings
+* daily spending
 * DEX trading
 * NFTs
-* daily spending
-* long term savings
-* gambling
+* airdrops
 * games
 
-By spreading your funds between multiple accounts, it ensures that if someone were to somehow get access to one account, they would not get access to **all** of your funds. Some people have gone so far as to have multiple Xumm card accounts (each with their own backup card configured) and divide their funds between them. Having a single account is like having all of your eggs in one basket. Even if it is the most secure basket in the world, everything is still in one place. Having multiple accounts helps minimize the risk.
+Spreading your funds this way means that if someone ever gained access to one account, they would not get access to **all** of your funds. Some people even use several card accounts, each with its own Backup card, and divide their savings between them. Even the most secure basket in the world still holds all of your eggs in one place.
+
+#### Questions?
+
+If you have questions about keeping your cards secure, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
