@@ -137,7 +137,7 @@
 * [Are my Xaman Cards safe?](xaman-tangem-cards/are-my-xaman-cards-safe.md)
 * [Getting started with your new cards 🤗](xumm-tangem-cards/getting-started.md)
 * [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
-* [Creating a pin on your card](xaman-tangem-cards/creating-a-pin-on-your-xaman-tangem-card.md)
+* [PINs on older Xumm/Xamam cards](xaman-tangem-cards/creating-a-pin-on-your-xaman-tangem-card.md)
 * [Best security practices for the Xaman cards](xaman-tangem-cards/best-security-practices-using-a-xaman-card.md)
 * [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md)
 * [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
