@@ -77,6 +77,14 @@ Some people keep separate accounts for different activities, for example:
 
 Spreading your funds this way means that if someone ever gained access to one account, they would not get access to **all** of your funds. Some people even use several card accounts, each with its own Backup card, and divide their savings between them. Even the most secure basket in the world still holds all of your eggs in one place.
 
+#### Only buy cards directly from Xaman
+
+Only buy Xaman cards from the official store at [order.xaman.app](https://order.xaman.app/). Do not buy cards second-hand, from online marketplaces, or from other sellers. A card from anyone else could have been used before.
+
+To protect you, Xaman checks every new card the first time you tap it, to confirm the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card, and contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
+
+A new Xaman card never comes with an account already set up, a recovery phrase, or a PIN. If a card arrives with any of these, or with instructions telling you to use one, do not use it.
+
 #### Questions?
 
 If you have questions about keeping your cards secure, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
