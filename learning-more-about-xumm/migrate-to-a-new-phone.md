@@ -9,7 +9,7 @@ description: Here is how to setup Xaman on your new device.
 Congratulations on your new phone! Before you move everything over, these three tips will make the process smoother:
 
 * **Keep your old phone** until Xaman is set up and working on your new phone.
-* **Make sure you have the account secret** (Secret Numbers, Family Seed, or Mnemonic) for every account you want to move. If your accounts are on Xaman cards, you only need your cards. See What about my Xaman cards?
+* **Make sure you have the account secret** (Secret Numbers, Family Seed, or Mnemonic) for every account you want to move. If your accounts are on Xaman cards, you only need your cards. See _What about my Xaman cards?_ at the end of this article.
 * **Ask us if you get stuck.** If you are unsure about any step in this article, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
 
 #### Setting up Xaman on your new phone
@@ -20,11 +20,11 @@ You **cannot restore or copy** Xaman from one phone to another. You need to inst
 
 **Step 1. Install Xaman.**
 
-If you already see the screen above, **uninstall** Xaman first. Then install Xaman from the official store for your phone. Tap the link for your phone, then tap **Install**.
+If you already see the screen above, **uninstall** Xaman first. \
+\
+Next, download the official Xaman app from the [App Store](https://apps.apple.com/app/id1492302343) or [Google Play](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm) and follow the instructions on this article to install it:
 
-Need help? Step-by-step instructions are here:
-
-
+[How to install Xaman](https://help.xaman.app/app/getting-started-with-xaman/installing-xumm)
 
 **Step 2. Add your accounts.**
 
@@ -37,14 +37,18 @@ Tap **+ Add account**, then choose **Import an existing account**.
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-99ff35052316ec325605bce91f112645c9293f29%2FImport%20an%20existin%20account%20button.png?alt=media" alt="The Import an existing account button in Xaman"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Have Xaman cards?** Tap **Add Tangem card** instead, and follow the instructions on the screen. See What about my Xaman cards?
+**Have Xaman cards?** Tap **Add Tangem card** instead, and follow the instructions on the screen. See _What about my Xaman cards?_ at the end of this article.
 {% endhint %}
 
 **Step 3. Enter your account secret.**
 
 Choose the type of account secret you have and enter it into Xaman. These articles walk you through each type:
 
-Repeat Steps 2 and 3 for each account you want to move.
+* [How to import your Secret Numbers](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/...with-secret-numbers)
+* [How to import your Family Seed](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/...with-a-family-seed)
+* [How to import your Mnemonic](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/...with-a-mnemonic)
+
+Repeat Steps 2 and 3 for each account you want to import.
 
 **Step 4. Check your accounts before you retire your old phone.**
 
@@ -54,13 +58,13 @@ Make sure each account on your new phone shows the same r-address and balance as
 
 **What about my Xaman cards?**
 
-Good news: your card accounts move with you. Each card's account secret is stored on the card itself, not on your phone, so there is nothing to back up or write down. On your new phone, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Tangem card**. Import each of your cards, including your Backup card.
+Each card's account secret is stored on the card itself, not on your phone, so there is nothing to back up or write down. On your new phone, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Tangem card**. Import each of your cards, including your Backup card.
+
+[How to import your Xaman card](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card)
 
 Your Backup card link is stored on the XRP Ledger, not on your phone, so it still works on your new phone. You do not need to run the Tangem Backup xApp again.
 
-Because your cards already hold accounts, Xaman may tell you that a card has been used before. That is expected when you re-import your own cards. Only treat that warning as a problem on a card that is brand new.
-
-For step-by-step instructions, see:
+Since your cards already hold your accounts, Xaman will warn you that each card has been used before. **That is expected** when you re-import your own cards. Only treat that warning as a problem on a card that is brand new.
 
 {% hint style="warning" %}
 **Lost your old phone and your Primary card?** You can still reach your account with your Backup card, but you will need your Primary account's r-address. See [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards).
@@ -96,4 +100,8 @@ If you get a different r-address, the secret you entered belongs to a different 
 * the secret was entered into Xaman incorrectly
 * your account uses a different account secret
 
-Activating the other account will not give you access to your original one. For more help, see:
+Activating the other account will not give you access to your original one. For more help, see [I've lost my account secret!](https://help.xaman.app/app/learning-more-about-xaman/ive-lost-my-account-secret)
+
+#### Questions?
+
+If you have questions about moving Xaman to a new phone, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
