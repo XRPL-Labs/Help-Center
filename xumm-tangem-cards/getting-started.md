@@ -18,7 +18,7 @@ Whichever designs you picked, every card works exactly the same way, including p
 If your package arrived opened, see [Are my Xaman cards safe?](https://help.xaman.app/app/xaman-tangem-cards/are-my-xaman-cards-safe)
 
 {% hint style="info" %}
-**Already have an XRP Ledger account in Xaman?** Read [How to link an existing account to a Xaman card](https://help.xaman.app/xaman-tangem-cards/how-to-link-an-existing-account-to-a-xumm-card) before you start. It helps you decide whether to keep using your existing account or move everything to a new card account.
+**Already have an XRP Ledger account in Xaman?** Read [How to link an existing account to a Xaman card](../xaman-tangem-cards/how-to-link-an-existing-account-to-a-xaman-card.md) before you start. It helps you decide whether to keep using your existing account or move everything to a new card account.
 {% endhint %}
 
 #### Before you start
