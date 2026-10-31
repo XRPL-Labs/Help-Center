@@ -1,5 +1,5 @@
 ---
-description: Here is how to setup Xaman on your new device.
+description: Here is how to set up Xaman on your new device.
 ---
 
 # 📱 Got a new phone?
@@ -20,11 +20,11 @@ You **cannot restore or copy** Xaman from one phone to another. You need to inst
 
 **Step 1. Install Xaman.**
 
-If you already see the screen above, **uninstall** Xaman first. \
-\
-Next, download the official Xaman app from the [App Store](https://apps.apple.com/app/id1492302343) or [Google Play](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm) and follow the instructions on this article to install it:
+If you already see the screen above, **uninstall** Xaman first.
 
-[How to install Xaman](https://help.xaman.app/app/getting-started-with-xaman/installing-xumm)
+Next, download the official Xaman app from the [App Store](https://apps.apple.com/app/id1492302343) or [Google Play](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm), and follow the instructions in this article to install it:
+
+[How to install Xaman](https://help.xaman.app/app/getting-started-with-xaman/installing-xumm)<br>
 
 **Step 2. Add your accounts.**
 
