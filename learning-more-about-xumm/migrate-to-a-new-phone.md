@@ -4,92 +4,96 @@ description: Here is how to setup Xaman on your new device.
 
 # 📱 Got a new phone?
 
-### Three things to get you started...
+#### Before you start
 
-Congratulations! Getting a new phone can be exciting, but before you get started migrating everything over from your old phone, here are a couple of suggestions to make the process a little smoother...
+Congratulations on your new phone! Before you move everything over, these three tips will make the process smoother:
 
-* Do not get rid of your old phone until your new phone has been properly setup and is working as expected.
-* Ensure that you have the account secret (Secret numbers / Family seed / Mnemonic) for your XRP Ledger account.
-* If you are unsure how to proceed or need clarification on any of the steps in this article, contact us via the [Xaman Support xApp](https://xumm.app/detect/xapp:xumm.support).
+* **Keep your old phone** until Xaman is set up and working on your new phone.
+* **Make sure you have the account secret** (Secret Numbers, Family Seed, or Mnemonic) for every account you want to move. If your accounts are on Xaman cards, you only need your cards. See What about my Xaman cards?
+* **Ask us if you get stuck.** If you are unsure about any step in this article, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
 
-### Configuring Xaman on your new phone
+#### Setting up Xaman on your new phone
 
-The first thing you need to know about getting Xaman (formerly Xumm) working on your new device is that **you can not restore or copy** Xaman from one device to another. Xaman needs to be **installed fresh** on your new phone otherwise you will see this when you launch the app:
+You **cannot restore or copy** Xaman from one phone to another. You need to install Xaman **fresh** on your new phone. If Xaman was restored from a backup, you will see this screen when you open the app:
 
-<figure><img src="../.gitbook/assets/Push notifications - 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-adc32b6ec01d60074cc3c3d7a6b33f67d180ddcc%2FPush%20notifications%20-%204.png?alt=media" alt="The Xaman screen shown when the app was restored from a backup"><figcaption></figcaption></figure>
 
-If you are already at this error screen, **uninstall** Xaman then continue reading...
+**Step 1. Install Xaman.**
 
-To install Xaman on your new phone, you can download it from one of 2 places:
+If you already see the screen above, **uninstall** Xaman first. Then install Xaman from the official store for your phone. Tap the link for your phone, then tap **Install**.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Xaman for iOS</td><td><a href="../.gitbook/assets/Apple store big.png">Apple store big.png</a></td><td><a href="https://apps.apple.com/us/app/xumm/id1492302343">https://apps.apple.com/us/app/xumm/id1492302343</a></td><td></td></tr><tr><td align="center">Xaman for Google Play</td><td><a href="../.gitbook/assets/Google store big.png">Google store big.png</a></td><td><a href="https://play.google.com/store/apps/details?id=com.xrpllabs.xumm">https://play.google.com/store/apps/details?id=com.xrpllabs.xumm</a></td><td></td></tr></tbody></table>
+Need help? Step-by-step instructions are here:
 
-Just select one of the above links and press the **Install** button to begin the download.
 
-Although the installation of Xaman is quite straight-forward and user-friendly , you can always refer to our step by step instructions...
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to install Xaman</td><td></td><td></td><td><a href="../.gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="../getting-started-with-xaman/installing-xumm.md">installing-xumm.md</a></td></tr></tbody></table>
+**Step 2. Add your accounts.**
 
-When you get to the end of the installation, you will be presented with this screen:
+At the end of the installation, you will see this screen:
 
-<figure><img src="../.gitbook/assets/New install.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-c7522ec5cdf38ac377d0016ef35b32bc44b94eb4%2FNew%20install.png?alt=media" alt="The Xaman home screen after a new installation"><figcaption></figcaption></figure>
 
-Simply press the **+ Add account** button then choose **Import an existing account**.
+Tap **+ Add account**, then choose **Import an existing account**.
 
-<figure><img src="../.gitbook/assets/Import an existin account button.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-99ff35052316ec325605bce91f112645c9293f29%2FImport%20an%20existin%20account%20button.png?alt=media" alt="The Import an existing account button in Xaman"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: If you have a Xaman card, you will want to press the "Add Tangem card" button and follow the instructions on the screen.
+**Have Xaman cards?** Tap **Add Tangem card** instead, and follow the instructions on the screen. See What about my Xaman cards?
 {% endhint %}
 
-Next you can choose the appropriate account secret for your XRP Ledger account then enter it into Xaman to complete the process.
+**Step 3. Enter your account secret.**
 
-If you need assistance on how to do this, select one of these three articles for instructions:
+Choose the type of account secret you have and enter it into Xaman. These articles walk you through each type:
 
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Secret Numbers</td><td></td><td></td><td><a href="../.gitbook/assets/Secret numbers.png">Secret numbers.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-secret-numbers.md">...with-secret-numbers.md</a></td></tr><tr><td align="center">Family Seed</td><td></td><td></td><td><a href="../.gitbook/assets/Family Seed.png">Family Seed.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-a-family-seed.md">...with-a-family-seed.md</a></td></tr><tr><td align="center">Mnemonic</td><td></td><td></td><td><a href="../.gitbook/assets/Mnemonic.png">Mnemonic.png</a></td><td><a href="../getting-started-with-xaman/importing-your-account/...with-a-mnemonic.md">...with-a-mnemonic.md</a></td></tr></tbody></table>
+Repeat Steps 2 and 3 for each account you want to move.
 
-### Frequently asked questions
+**Step 4. Check your accounts before you retire your old phone.**
 
-### Why did you ask me to keep my old phone?
+Make sure each account on your new phone shows the same r-address and balance as on your old phone. Once everything matches and you can sign transactions on your new phone, you can uninstall Xaman from your old phone.
 
-We have seen cases where people have forgotten their account secret or recorded their account secret incorrectly. Your old phone should still be able to access your XRP Ledger account(s) in case you run into any trouble configuring your new phone. Once you are able to access and sign transactions on your new device, you can uninstall Xaman from your old device or keep it around as a "backup" just in case something happens to your new phone.
+#### Frequently asked questions
 
-### Why can't I restore Xaman from backup?
+**What about my Xaman cards?**
 
-If Xaman were to store sensitive data, (like your account secrets) in a Google / Apple iCloud backup, an attacker gaining access to your Google / Apple account(s) would be able to restore a backup of your device to their own device, resulting in the loss of your cryptocurrency funds.
+Good news: your card accounts move with you. Each card's account secret is stored on the card itself, not on your phone, so there is nothing to back up or write down. On your new phone, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Tangem card**. Import each of your cards, including your Backup card.
 
-This is why it's really important to keep your account secret stored offline, in a secure place.
+Your Backup card link is stored on the XRP Ledger, not on your phone, so it still works on your new phone. You do not need to run the Tangem Backup xApp again.
 
-### What about my Xaman (Tangem) card accounts?
+Because your cards already hold accounts, Xaman may tell you that a card has been used before. That is expected when you re-import your own cards. Only treat that warning as a problem on a card that is brand new.
 
-If you have Xaman cards, you will need to re-import them into Xaman on your new phone.
+For step-by-step instructions, see:
 
-This article explains how to do this:
+{% hint style="warning" %}
+**Lost your old phone and your Primary card?** You can still reach your account with your Backup card, but you will need your Primary account's r-address. See [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards).
+{% endhint %}
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md">...a-xaman-tangem-card.md</a></td><td><a href="../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+**Why should I keep my old phone?**
 
-### My account was created during the Casino Coin swap. How do I access it?
+Sometimes people forget their account secret, or find out it was written down incorrectly. Your old phone can still access your accounts, so it is your safety net if you run into trouble on your new phone.
 
-If you have access to your old CasinoCoin wallet secret in the form of a code that starts with a lower case '**s'**, you can **import your CasinoCoin wallet secret** [**with this link (scan the QR with Xaman)**](https://xumm.app/detect/secret?type=alt-family-seed\&name=CasinoCoin\&alphabet=cpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2brdeCg65jkm8oFqi1tuvAxyz).
+Once you can access your accounts and sign transactions on your new phone, you can uninstall Xaman from your old phone. You can also keep it as a backup, in case something happens to your new phone.
 
-If you do not have your CasinoCoin secret mentioned above, the CasinoCoin team has documented a process to access accounts created during the CSC swap. You can find the instructions here:
+**Why can't I restore Xaman from a backup?**
 
-[How to recover a CasinoCoin account](https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account)
+If Xaman stored sensitive data, like your account secrets, in a Google or Apple iCloud backup, anyone who got into your Google or Apple account could restore that backup to their own phone and take your funds.
 
-If you run into any trouble with the recovery process, please contact the CasinoCoin support staff here: [CasinoCoin Support](https://eminence.freshdesk.com/support/tickets/new)
+That is why it is so important to keep your account secrets stored offline, in a safe place.
 
-### I imported my account secret but it did not access my account. My account secret accessed an un-activated account. Do I need to activate it access my original account?
+**My account was created during the CasinoCoin swap. How do I access it?**
 
-No. In order to access an XRP Ledger account, you need to know the **correct** account secret for it. (Secret Numbers / Family Seed / Mnemonic). As long as you have the correct one, importing the account secret into Xaman **will always** result in the same r-address, with the balance and tokens in place. If you import an account secret into Xaman and you get a different r-address, there are three possibilities:
+If you have your old CasinoCoin wallet secret (a code that starts with a lowercase **s**), you can import it [with this link (scan the QR code with Xaman)](https://xumm.app/detect/secret?type=alt-family-seed\&name=CasinoCoin\&alphabet=cpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2brdeCg65jkm8oFqi1tuvAxyz).
 
-* it was originally written down incorrectly when you created your account
-* it was entered into Xaman incorrectly
-* there is another account secret for your XRP Ledger account
+If you do not have that secret, the CasinoCoin team has documented a process to access accounts created during the swap: [How to recover a CasinoCoin account](https://eminence.freshdesk.com/support/solutions/articles/80000965171-how-to-recover-a-swapped-casinocoin-xumm-account).
 
-The account secret that you entered into Xaman belongs to the XRPL account that is being accessed.
+If you run into trouble with that process, contact [CasinoCoin Support](https://eminence.freshdesk.com/support/tickets/new).
 
-Please refer to this article for more information:
+**I imported my account secret, but it opened a different, unactivated account. Do I need to activate it?**
 
-{% content-ref url="../learning-more-about-xaman/ive-lost-my-account-secret.md" %}
-[ive-lost-my-account-secret.md](../learning-more-about-xaman/ive-lost-my-account-secret.md)
-{% endcontent-ref %}
+No. To access an XRP Ledger account, you need the **correct** account secret for it. The correct secret **always** opens the same r-address, with your balance and tokens in place.
+
+If you get a different r-address, the secret you entered belongs to a different account. There are three possible reasons:
+
+* the secret was written down incorrectly when the account was created
+* the secret was entered into Xaman incorrectly
+* your account uses a different account secret
+
+Activating the other account will not give you access to your original one. For more help, see:
