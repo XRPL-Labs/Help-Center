@@ -6,7 +6,7 @@ description: Use your Xaman cards with an XRP Ledger account you already have
 
 Many people who buy Xaman cards already have an XRP Ledger account in Xaman. This article helps you decide what to do with that account, and shows you how to link it to a card if that is the right choice for you.
 
-**First, decide what you want**
+#### **First, decide what you want**
 
 You have three options. Most people should choose the first one.
 
@@ -19,7 +19,7 @@ This adds the card as a second way to sign for your existing account. Choose thi
 **Option 3 (not recommended): Let your existing account sign for your card account.**\
 This weakens the security of your card account, and it uses up the slot you would otherwise use for a Backup card. It only makes sense if you have a single card and no way to get a second one.
 
-**Why it matters: where the account secret lives**
+#### **Why it matters: where the account secret lives**
 
 **A Xaman card keeps its account secret on the card.** The secret never leaves the card, so you need the card in your hand to sign. You can use your cards for everyday activity just as well as for long-term savings.
 
@@ -27,7 +27,7 @@ This weakens the security of your card account, and it uses up the slot you woul
 
 Both are secure ways to hold your funds. Linking changes how many ways there are to sign for an account: after a link, the account can be signed for by its own secret **and** by the linked one. So it helps to think about which secret ends up controlling which account. That is the main difference between Options 2 and 3.
 
-**Option 2: Let a card sign for your existing account**
+#### **Option 2: Let a card sign for your existing account**
 
 {% hint style="info" %}
 **What this does and does not do.** This adds the card as a signer for your existing account. It does not remove your existing account secret. After you finish, both your original account secret and the card can sign for the account.
@@ -73,7 +73,7 @@ Paste your **card's** r-address into the field labeled "XRPL address which will 
 
 Sign the transaction in Xaman with your existing account. You're done! Your card can now sign for your existing account.
 
-**Option 3: Let your existing account sign for your card account**
+#### **Option 3: Let your existing account sign for your card account**
 
 {% hint style="danger" %}
 **We do not recommend this option.** Read this before you continue:
@@ -118,7 +118,7 @@ Paste your **existing account's** r-address into the field labeled "XRPL address
 
 Sign the transaction with your card. You're done! Your existing account can now sign for your card account.
 
-**Frequently asked questions**
+#### _**Frequently asked questions**_
 
 **What is the recommended way to set up my cards?**
 
@@ -142,6 +142,6 @@ After this, only the account's own secret can sign for it.
 
 If you disabled the account's master key, the XRP Ledger will not let you remove the regular key, because the account would be left with no way to sign. Contact support before you change anything.
 
-**Questions?**
+#### **Questions?**
 
 If you have questions about linking an existing account, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
