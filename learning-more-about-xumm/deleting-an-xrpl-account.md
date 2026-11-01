@@ -51,7 +51,7 @@ Removing an account from Xaman (**Settings**, then **Accounts**, then **Edit**, 
 When you remove an account from Xaman, its account secret is deleted from the app, but the account still exists on the XRP Ledger, with all of its funds. To get your reserve back, you need to delete the account using the steps above.
 
 {% hint style="warning" %}
-**Removed an account by mistake?** You can add it back to Xaman with its account secret (Secret Numbers, Family Seed, or Mnemonic). See See [Importing your account into Xaman](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account)..
+**Removed an account by mistake?** You can add it back to Xaman with its account secret (Secret Numbers, Family Seed, or Mnemonic). See [Importing your account into Xaman](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account)..
 {% endhint %}
 
 **I deleted my account and sent the XRP to an exchange that does not support it. What now?**
