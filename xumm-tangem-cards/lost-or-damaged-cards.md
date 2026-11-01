@@ -31,7 +31,7 @@ If your Primary card is lost, damaged, or destroyed, or it may have been stolen,
 
 If you do not have another account, see [How to create an XRP Ledger account](https://help.xaman.app/app/getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account).
 
-Once your funds are safe, you can delete the old Primary account to get back most of its reserve, signing with your Backup card. See [Deleting an XRPL account](https://help.xaman.app/app/learning-more-about-xaman/deleting-an-xrpl-account).
+Once your funds are safe, you can delete the old Primary account to get back most of its reserve, signing with your Backup card. See [How to delete an XRPL account](../learning-more-about-xaman/how-to-delete-an-xrpl-account.md).
 
 #### If you lose your Backup card
 
@@ -50,7 +50,7 @@ If your Backup card is lost, damaged, or destroyed, or it may have been stolen, 
 
 Your Primary card still controls everything. If you have a spare card, link it as your new Backup card with the Tangem Backup xApp. See [How to configure a backup signing account](https://help.xaman.app/app/xaman-tangem-cards/how-to-configure-a-backup-signing-account).
 
-#### _Frequently asked questions_
+#### Frequently asked questions
 
 **What if I lose my phone and my Primary card at the same time?**
 
