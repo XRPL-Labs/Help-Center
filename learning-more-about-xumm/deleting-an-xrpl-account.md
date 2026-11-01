@@ -12,11 +12,11 @@ The XRP Ledger only lets you delete an account when all of these are true:
 
 * **The account holds no tokens.** Send or sell any token balances, then remove the trust lines.
 * **The account holds no NFTs.** Sell, transfer, or burn them first.
-* **Every NFT the account ever minted has been burned,** even ones you no longer own.&#x20;
+* **Every NFT the account ever minted has been burned,** even ones you no longer own.
 * **The account has no open escrows, checks, or payment channels.**
 * **The account was activated at least 15 minutes ago.** Brand-new accounts cannot be deleted right away.
 
-Also make sure the account that will receive your XRP **already exists** (is activated) and is **your own account**, not an exchange.&#x20;
+Also make sure the account that will receive your XRP **already exists** (is activated) and is **your own account**, not an exchange.
 
 #### How to delete your account
 
@@ -51,7 +51,7 @@ Removing an account from Xaman (**Settings**, then **Accounts**, then **Edit**, 
 When you remove an account from Xaman, its account secret is deleted from the app, but the account still exists on the XRP Ledger, with all of its funds. To get your reserve back, you need to delete the account using the steps above.
 
 {% hint style="warning" %}
-**Removed an account by mistake?** You can add it back to Xaman with its account secret (Secret Numbers, Family Seed, or Mnemonic). See Importing your account into Xaman.
+**Removed an account by mistake?** You can add it back to Xaman with its account secret (Secret Numbers, Family Seed, or Mnemonic). See See [Importing your account into Xaman](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account)..
 {% endhint %}
 
 **I deleted my account and sent the XRP to an exchange that does not support it. What now?**
@@ -62,7 +62,7 @@ Unfortunately, **Xaman Support cannot help** in this case. Only your exchange or
 
 **Can I delete my account if I still have NFTs in it?**
 
-No. An account cannot hold any NFTs when you delete it. Sell, transfer, or burn your NFTs first. If you are not sure how to this, ask the marketplace or project where you got them.
+No. An account cannot hold any NFTs when you delete it. Sell, transfer, or burn your NFTs first. If you are not sure how to do this, ask the marketplace or project where you got them.
 
 **I removed all my NFTs, but I still cannot delete my account**
 
