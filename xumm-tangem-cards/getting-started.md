@@ -12,13 +12,13 @@ Your package arrives in a sealed pouch and contains:
 * **A printed instruction sheet**, which covers the same setup as this article, in less detail.
 * **A thank-you card** with links to download Xaman from the App Store or Google Play.
 
-<figure><img src="../.gitbook/assets/xaman-thank-you-card.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xaman-thank-you-card.png" alt="" width="188"><figcaption><p>The thank-you card included <br>in every package</p></figcaption></figure>
 
 **Your pre-funded card**
 
 One of your cards comes in a clear plastic sleeve with an orange label telling you to import it first. This is your **pre-funded card** (the label calls it "pre paid"). It comes with 1 XRP that you claim when you set it up, so you do not need to buy XRP to get started. The sleeve is only there so you can spot the card. It does not change how the card works.
 
-<figure><img src="../.gitbook/assets/xaman-prepaid-label.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xaman-prepaid-label.png" alt="" width="188"><figcaption><p>The orange label on your <br>pre-funded card’s sleeve</p></figcaption></figure>
 
 Whichever designs you picked, every card works exactly the same way, including partner ecosystem cards. The only difference is that one card comes pre-funded, and that is the card you will use as your Primary.
 
