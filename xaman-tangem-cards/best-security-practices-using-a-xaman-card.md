@@ -81,7 +81,7 @@ Spreading your funds this way means that if someone ever gained access to one ac
 
 Only buy Xaman cards from the official store at [order.xaman.app](https://order.xaman.app/). Do not buy cards second-hand, from online marketplaces, or from other sellers. A card from anyone else could have been used before.
 
-To protect you, Xaman checks every new card the first time you tap it, to confirm the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card, and contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
+To protect you, Xaman checks every new card the first time you tap it, to confirm the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card, and contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md). (If you are re-importing one of your own cards, for example on a new phone, this warning is expected.)
 
 A new Xaman card never comes with an account already set up, a recovery phrase, or a PIN. If a card arrives with any of these, or with instructions telling you to use one, do not use it.
 
