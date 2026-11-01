@@ -11,7 +11,7 @@ The XRP Ledger (XRPL) has some great features!
 * **Environmentally responsible** - Very low carbon emissions
 * **Super fast settlement** - Transactions take about 4 seconds to settle.
 * **Extremely low fees** - Transaction fees cost about 0.000015 XRP or about 67,000 transactions for 1 XRP.
-* **Incredibility versatile exchange network** - Over 20,000+ issued currencies, native NFTs, Escrows, multi-signing, a built in DEX and more.&#x20;
+* **Incredibility versatile exchange network** - Over 20,000+ issued currencies, native NFTs, Escrows, multi-signing, a built in DEX and more.
 * **Decentralized** - Run by a large group of community validators and node operators, it is one of the most democratic blockchains in the world.
 
 In order to keep the network running safely, smoothly and efficiently, it was decided that a mechanism was needed to:
@@ -22,7 +22,7 @@ In order to keep the network running safely, smoothly and efficiently, it was de
 
 The mechanism to achieve all of this is?
 
-**🎉🎉 XRPL Reserves  🎉🎉**
+**🎉🎉 XRPL Reserves 🎉🎉**
 
 ### **A quick overview**
 
@@ -30,7 +30,7 @@ If you interested in a quick explanation on how reserves work, check out this vi
 
 {% embed url="https://www.youtube.com/watch?v=7E52W4dKmBE" %}
 
-...for a more indepth overview, keep reading.&#x20;
+...for a more indepth overview, keep reading.
 
 ### **A bit about reserves on the XRPL ...**
 
@@ -40,9 +40,7 @@ The XRPL has two types of reserves:
 
 This reserve is required to activate an XRPL account and needs to be maintained in order to submit transactions on the XRPL. The current base reserve is **1 XRP**. Each XRPL account must contain at least 1 XRP, which is automatically marked as un-spendable by the XRPL in order to be able to transact on the XRPL. The base reserve cannot be used or sent to other accounts. It can only be recovered by deleting your account from the XRPL.
 
-_Fun fact!_ When the XRPL was first created the base reserve was 1000 XRP! It was reduced to 200 XRP, then to 20 XRP then to 10 XRP and has now settled to 1 XRP. (The XRPL validators monitor the state of the network and can vote to change the reserve amounts as the blockchain evolves.)&#x20;
-
-&#x20;
+_Fun fact!_ When the XRPL was first created the base reserve was 1000 XRP! It was reduced to 200 XRP, then to 20 XRP then to 10 XRP and has now settled to 1 XRP. (The XRPL validators monitor the state of the network and can vote to change the reserve amounts as the blockchain evolves.)
 
 #### **Owner reserves**
 
@@ -83,17 +81,15 @@ On the main page of Xaman, press the **Reserved** button.
 
 Xaman should display your **Account balance**, the amount of XRP **Available for spending** and a list of **Reserved on ledger** objects in your account.
 
-
-
 <figure><img src="../../.gitbook/assets/Reserves.png" alt=""><figcaption></figcaption></figure>
 
-In the above example, you can see that the account has 1 XRP marked as un-spendable to meet the wallet reserve and 0.2 XRP marked as un-spendable for each Token to meet the owner reserves for each of the Trust Lines created in the account. &#x20;
+In the above example, you can see that the account has 1 XRP marked as un-spendable to meet the wallet reserve and 0.2 XRP marked as un-spendable for each Token to meet the owner reserves for each of the Trust Lines created in the account.
 
 ### **On my list is a line titled: NFTokenPages**
 
 When a NFT is minted on the XRPL, an object called _NFTokenpage_ is created to 'store" it.
 
-An NFTokenpage is an object on the XRPL so it requires a 0.2 XRP owner reserve.&#x20;
+An NFTokenpage is an object on the XRPL so it requires a 0.2 XRP owner reserve.
 
 If you would like to recover the 0.2 XRP for this object you need to get rid of **all of the NFTs** stored on this page. The site where you minted/purchased your NFTs will have instructions on how to do this.
 
@@ -111,7 +107,4 @@ There is a 0.2 XRP fee for doing this which is levied by the XRPL along with the
 
 For more information about how to delete an account from the XRPL, please review this article:
 
-* [How to delete your XRP Ledger account](../../learning-more-about-xumm/deleting-an-xrpl-account.md)
-
-
-
+* [How to delete your XRP Ledger account](../../learning-more-about-xaman/how-to-delete-an-xrpl-account.md)

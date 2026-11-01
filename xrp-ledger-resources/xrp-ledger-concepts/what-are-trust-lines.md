@@ -141,7 +141,7 @@ No. When Xaman creates a Trust Line for you, it sets a working limit automatical
 
 **Can I delete my account while I have Trust Lines?**
 
-No, before an account can be deleted, you must make sure all of your Trust Lines have been removed from your account. See [Deleting an XRPL account](../../learning-more-about-xumm/deleting-an-xrpl-account.md).
+No, before an account can be deleted, you must make sure all of your Trust Lines have been removed from your account. See [Deleting an XRPL account](../../learning-more-about-xaman/how-to-delete-an-xrpl-account.md).
 
 **Does Xaman charge a service fee for creating a Trust Line?**
 

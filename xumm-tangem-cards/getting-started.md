@@ -118,7 +118,7 @@ You do not need to deposit XRP for your Backup card. Do not tap **Activate your 
 You can, but it takes a few extra steps. Do these after Step 2:
 
 1. Activate the second card's account yourself by sending it at least the reserve amount of XRP. See: [How to activate a new XRPL account](https://help.xaman.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account).
-2. Delete the account on the pre-funded card, and choose your new Primary account as the destination. The remaining XRP is sent there. See: [How to delete your account](../learning-more-about-xumm/deleting-an-xrpl-account.md).
+2. Delete the account on the pre-funded card, and choose your new Primary account as the destination. The remaining XRP is sent there. See: [How to delete your account](../learning-more-about-xaman/how-to-delete-an-xrpl-account.md).
 3. Continue with Step 3 below, linking the pre-funded card as your Backup card.
 
 Deleting an account costs a small network fee, so you will get back slightly less than the reserve. Once deleted, an account can be activated again later, but only by sending it new XRP.

@@ -33,7 +33,7 @@ Yes. Once your Trust Line has been removed, the 2 XRP held in reserve by the XRP
 
 No. The Base Reserve is a minimum amount of XRP that is required for each address in the ledger. The only way to recover the base reserve is to delete your account from the XRPL.
 
-[How to delete an account from the XRP Ledger](../../learning-more-about-xumm/deleting-an-xrpl-account.md)
+[How to delete an account from the XRP Ledger](../../learning-more-about-xaman/how-to-delete-an-xrpl-account.md)
 
 #### Who do I contact for help?
 
@@ -44,4 +44,3 @@ The developer for this xApp can be reached via Twitter at:
 #### Any tips on how to use the xApp?
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to remove a Trust Line using Token Trasher</td><td></td><td></td><td><a href="token-trasher/how-to-remove-a-trust-line.md">how-to-remove-a-trust-line.md</a></td><td><a href="../../.gitbook/assets/Token Trasher.png">Token Trasher.png</a></td></tr><tr><td align="center">How to remove a token/Trust Line</td><td></td><td></td><td><a href="token-trasher/how-to-get-rid-of-tokens.md">how-to-get-rid-of-tokens.md</a></td><td><a href="../../.gitbook/assets/Token Trasher -4.png">Token Trasher -4.png</a></td></tr><tr><td align="center"></td><td></td><td></td><td></td><td></td></tr></tbody></table>
-

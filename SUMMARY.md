@@ -84,7 +84,7 @@
 * [How to reset the 6 digit passcode](learning-more-about-xumm/how-to-reset-the-6-digit-passcode.md)
 * [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 * [How to convert a Read only account to Full access](learning-more-about-xaman/how-to-convert-a-read-only-account-to-full-access.md)
-* [How to delete an XRPL account](learning-more-about-xumm/deleting-an-xrpl-account.md)
+* [How to delete an XRPL account](learning-more-about-xaman/how-to-delete-an-xrpl-account.md)
 * [What is the Third Party Apps section?](learning-more-about-xaman/what-is-the-third-party-apps-section.md)
 * [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
 * [NFTs](learning-more-about-xumm/nfts/README.md)
