@@ -1,89 +1,80 @@
 ---
-description: What to do if you lose or damage a card?
+description: What to do if you lose or damage a card
 ---
 
 # Lost or damaged cards
 
-### Introduction
+Each Xaman card creates its account secret on the card itself, and the secret never leaves it. No one else can know it, including us. That is what makes your cards so secure, but it also means there is no recovery option: if a card is lost, damaged, or stolen, the account secret on it is gone.
 
-One of the great features of a Xaman card is that it generates a new XRP Ledger account secret directly on each card. Since this is done "off line", there is no way for anyone to know the account secret which means that the only way to access the card account is if you have the physical card. You must have the card otherwise there is no way to access the account.
+That is why every order includes at least two cards. When you link a second card to your Primary account as a **Backup card**, you can still reach your funds if something happens to one of them.
 
-So what happens if you lose the card, or if the card is damaged, destroyed or stolen?
+#### How your Backup card protects you
 
-If any of these options happened, you would lose access to your account since the only way to access a card account is with the card and there is no recovery option.
+When you set up your cards, the Tangem Backup xApp links your Backup card to your Primary account. This uses the XRP Ledger's "regular key" feature, which lets you assign a second key to sign transactions on an account. After the link, either card can sign for your Primary account.
 
-This is why we don't offer the option to purchase single cards. We want people to configure a second card as a backup to the first card so if something happens to one of the cards, you still have a way to access the funds in your account.
+If you have not linked a Backup card yet, do it now. See [Getting started with your new cards](https://help.xaman.app/app/xaman-tangem-cards/getting-started) and [How to configure a backup signing account](https://help.xaman.app/app/xaman-tangem-cards/how-to-configure-a-backup-signing-account).
 
-### Ideal configuration
+{% hint style="info" %}
+**Write down your Primary account's r-address** and keep it somewhere safe. If you ever lose your phone and your Primary card at the same time, you will need it to reach your account with your Backup card.
+{% endhint %}
 
-The ideal way to configure the cards is to import both cards in Xaman, then run the Tangem Backup xApp to "link" the cards together. Doing this will take advantage of the "regular key" feature on the XRP Ledger which allows you to assign as second key pair to sign transactions on an account. This effectively allows one card to sign transactions on another card's account, basically allowing one card to act as a backup to another one. If one card is damaged or lost or destroyed, you can just use the other card to sign transactions on the account.
+#### If you lose your Primary card
 
-### Losing the Primary card
+If your Primary card is lost, damaged, or destroyed, or it may have been stolen, use your Backup card to move your funds to another account.
 
-If you have already followed the instructions in this article:
+{% hint style="warning" %}
+**If your Primary card may have been stolen, do this as soon as possible.** Anyone holding your Primary card can sign for your Primary account.
+{% endhint %}
 
-{% content-ref url="how-to-configure-a-backup-signing-account.md" %}
-[how-to-configure-a-backup-signing-account.md](how-to-configure-a-backup-signing-account.md)
-{% endcontent-ref %}
+1. Open Xaman and select your Primary card account.
+2. Send your XRP and any other assets to another account you control. Sign each transaction with your Backup card.
 
-you have already created a Primary card account and a Backup card account and linked them together.
+If you do not have another account, see [How to create an XRP Ledger account](https://help.xaman.app/app/getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account).
 
-If the Primary card is lost, damaged or destroyed or there is a possibility that it has been stolen, here is what to do.
+Once your funds are safe, you can delete the old Primary account to get back most of its reserve, signing with your Backup card. See [Deleting an XRPL account](https://help.xaman.app/app/learning-more-about-xaman/deleting-an-xrpl-account).
 
-1\) Sign into Xaman and move the funds from the Primary card account to another XRP Ledger account. (You will need the Backup card to sign transactions on the Primary card's account.)
+#### If you lose your Backup card
 
-If you don't have another XRPL account, you can follow the instructions in this article to create one:
+If your Backup card is lost, damaged, or destroyed, or it may have been stolen, use your Primary card to remove the link to it. After that, the Backup card can no longer sign for your Primary account, even if someone else has it.
 
-{% content-ref url="../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md" %}
-[how-to-create-an-xrpl-account.md](../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
-{% endcontent-ref %}
+{% hint style="warning" %}
+**If your Backup card may have been stolen, do this as soon as possible.** Until you remove the link, anyone holding your Backup card can sign for your Primary account.
+{% endhint %}
 
-### Losing the Backup card
+1. Go to [XRP Ledger Services](https://xrpl.services/).
+2. Tap the **Sign in** button, and sign in with Xaman using your Primary card account.
+3. Choose **Set Regular Key**.
+4. Select **Delete regular key**.
+5. Tap **Confirm**, then scan the QR code with Xaman.
+6. Sign the transaction with your Primary card.
 
-If the Backup card is lost, damaged or destroyed or there is a possibility that it has been stolen, here is what to do.
+Your Primary card still controls everything. If you have a spare card, link it as your new Backup card with the Tangem Backup xApp. See [How to configure a backup signing account](https://help.xaman.app/app/xaman-tangem-cards/how-to-configure-a-backup-signing-account).
 
-1\) Disable the Backup card by going to [https://xrpl.services/](https://xrpl.services/)
+#### _Frequently asked questions_
 
-2\) Sign in using the Primary card account.
+**What if I lose my phone and my Primary card at the same time?**
 
-3\) Choose **Set regular key**
+You can still reach your account with your Backup card:
 
-4\) Select **Delete regular key**
+1. Install Xaman on your new phone.
+2. Import your Backup card. See [How to import your Xaman card](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card).
+3. Add your Primary account in **Read only** mode by entering its r-address. See [How to import an account in Read Only mode](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/...in-read-only-mode).
+4. Send your funds from the Primary account to another account you control. Sign each transaction with your Backup card.
 
-5\) Press **Confirm**.
+If you do not have another account, see [How to create an XRP Ledger account](https://help.xaman.app/app/getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account).
 
-6\) Scan the QR code with Xaman.
+**What if I lose my phone but still have both cards?**
 
-7\) Sign the transaction using the Primary card.
+Your cards are safe, and so are your accounts. Install Xaman on your new phone and import both cards again. Your Backup card link is stored on the XRP Ledger, so it still works. See [Got a new phone?](https://help.xaman.app/app/learning-more-about-xaman/migrate-to-a-new-phone)
 
-This will disable the link between your Primary card and your Backup card.
+**My card is damaged, but it still works sometimes. What should I do?**
 
-If your Backup card was stolen, the thief will not be able to access your Primary card account after following this procedure.
+Treat it as a lost card while you can still use it. If it is your Primary card, move your funds to another account now. If it is your Backup card, remove the link to it. Do not wait for the card to stop working completely.
 
-### Frequently Asked Questions
+**What if I lose both cards?**
 
-#### What if I lose my phone and my Primary card at the same time?
+Unfortunately, there is no way to recover an account if both cards are lost. Neither we nor anyone else can access the account secret on a card. This is why it is so important to keep your two cards in **different places**. See [Best security practices for the Xaman cards](https://help.xaman.app/app/xaman-tangem-cards/best-security-practices-using-a-xumm-card).
 
-1\) On your new phone, install Xaman.
+#### Questions?
 
-2\) Import your Backup card into Xaman.
-
-{% content-ref url="../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md" %}
-[...a-xaman-tangem-card.md](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md)
-{% endcontent-ref %}
-
-3\) Import your Primary card account into Xaman in Read only mode.
-
-{% content-ref url="../getting-started-with-xaman/importing-your-account/...in-read-only-mode.md" %}
-[...in-read-only-mode.md](../getting-started-with-xaman/importing-your-account/...in-read-only-mode.md)
-{% endcontent-ref %}
-
-Note: You will need to manually enter the r-address of your Primary card account when importing in read only mode.
-
-4\) Move your funds from the Primary card account to another XRP Ledger account. (You will need the Backup card to sign transactions on the Primary card's account.)
-
-If you don't have another XRPL account, you can follow the instructions in this article to create one:
-
-{% content-ref url="../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md" %}
-[how-to-create-an-xrpl-account.md](../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
-{% endcontent-ref %}
+If you have questions about a lost or damaged card, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
