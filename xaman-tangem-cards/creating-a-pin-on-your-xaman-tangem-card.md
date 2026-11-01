@@ -18,7 +18,7 @@ Older and newer cards look the same, so the only way to tell is to check in Xama
 2. Tap **Edit** next to your card account.
 3. If you see **Card enforced security**, your card supports passcodes. If you do not, your card is a newer card and does not support them.
 
-<figure><img src="../.gitbook/assets/1-edit-account.png" alt="" width="298"><figcaption><p>The Edit account screen in Xaman, with Card<br> enforced security set to Long Tap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-edit-account.png" alt="The Edit account screen in Xaman, with Card enforced security set to Long Tap" width="298"><figcaption><p>Card enforced security on an older card</p></figcaption></figure>
 
 Xaman will keep supporting older cards, including their passcodes, in all future versions of the app.
 
@@ -29,7 +29,7 @@ Xaman will keep supporting older cards, including their passcodes, in all future
 * **Long Tap** is the default. It adds a short delay before the card carries out a command, which protects your card if someone tries to use it from a distance.
 * **Passcode** asks for your passcode before the card carries out any command that changes it.
 
-<figure><img src="../.gitbook/assets/2-card-security.png" alt="" width="299"><figcaption><p>The Card security screen in Xaman, showing the<br> Long Tap and Passcode options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2-card-security.png" alt="The Card security screen in Xaman, showing the Long Tap and Passcode options" width="299"><figcaption><p>The two Card enforced security settings</p></figcaption></figure>
 
 #### Why we removed the PIN feature
 
@@ -47,11 +47,11 @@ Your passcode still works, and you still need it to use that card. **We recommen
 4. Select **Long Tap**, then tap **Save**.
 5. When Xaman asks, tap your card. Then enter your current passcode and tap **Continue**.
 
-<figure><img src="../.gitbook/assets/6-enter-passcode.png" alt="" width="296"><figcaption><p>The passcode screen, with a Passcode field and<br> a Continue button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6-enter-passcode.png" alt="The passcode screen, with a Passcode field and a Continue button" width="296"><figcaption><p>Enter your current passcode, then tap Continue</p></figcaption></figure>
 
 A message confirms that your card security has changed to Long Tap.
 
-<figure><img src="../.gitbook/assets/7-success-long-tap.png" alt="" width="299"><figcaption><p>Message reading: <br>Card security successfully changed to LongTap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/7-success-long-tap.png" alt="Message reading: Card security successfully changed to LongTap" width="299"><figcaption><p>Your card is back on Long Tap</p></figcaption></figure>
 
 If you decide to keep your passcode:
 
@@ -80,7 +80,7 @@ We strongly recommend that you **do not** set a new passcode. If you choose to s
 4. Select **Passcode**, then tap **Save**.
 5. Xaman warns you that a forgotten passcode cannot be recovered. Read it carefully, then tap **Yes, I'm sure** to continue.
 
-<figure><img src="../.gitbook/assets/5-warning.png" alt="" width="254"><figcaption><p>Xaman warning that funds will be <br>inaccessible </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5-warning.png" alt="Xaman warning that funds will be inaccessible and cannot be recovered if you forget your passcode, with Cancel and Yes, I’m sure buttons" width="254"><figcaption><p>The warning Xaman shows before you<br> set a passcode</p></figcaption></figure>
 
 6. When Xaman asks, tap your card. Then enter your new passcode twice and tap **Save**.
 
