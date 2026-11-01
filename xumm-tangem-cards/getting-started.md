@@ -4,14 +4,21 @@ Your Xaman cards have arrived! 🎉
 
 Let’s open the package together. In about ten minutes, you will go from a sealed pouch to a working cold-wallet setup: two cards, one account, and your XRP secured by a card you can hold in your hand. We will walk you through every step, from your first tap to linking your backup.
 
-#### What you can expect in the package
+#### **What you can expect in the package**
 
 Your package arrives in a sealed pouch and contains:
 
 * **At least two cards**, in the designs you picked when you ordered. The cards are loose in the pouch. This is normal.
-* **Your pre-funded card**, which is one of your cards in a clear plastic sleeve with an orange label telling you to import it first. This card comes with 1 XRP that you claim when you set it up, so you do not need to buy XRP to get started. The sleeve is only there so you can spot the card. It does not change how the card works.
 * **A printed instruction sheet**, which covers the same setup as this article, in less detail.
 * **A thank-you card** with links to download Xaman from the App Store or Google Play.
+
+<figure><img src="../.gitbook/assets/xaman-thank-you-card.png" alt="" width="188"><figcaption></figcaption></figure>
+
+**Your pre-funded card**
+
+One of your cards comes in a clear plastic sleeve with an orange label telling you to import it first. This is your **pre-funded card** (the label calls it "pre paid"). It comes with 1 XRP that you claim when you set it up, so you do not need to buy XRP to get started. The sleeve is only there so you can spot the card. It does not change how the card works.
+
+<figure><img src="../.gitbook/assets/xaman-prepaid-label.png" alt="" width="188"><figcaption></figcaption></figure>
 
 Whichever designs you picked, every card works exactly the same way, including partner ecosystem cards. The only difference is that one card comes pre-funded, and that is the card you will use as your Primary.
 
@@ -82,7 +89,7 @@ This is the setup we recommend. It takes about ten minutes.
 
 Take the card out of the clear sleeve and import it first. In Xaman, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Tangem card**. The app walks you through the rest.
 
-See: [How to import your Xaman card](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/...a-xumm-tangem-card) for more information.
+See: [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md) for more information.
 
 {% hint style="danger" %}
 When you first tap a new card, Xaman checks that the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card. Contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
@@ -147,4 +154,4 @@ Extra cards are not pre-funded, so you need to activate each one you plan to use
 
 The Xaman card is a cold wallet option. Each card holds its own account secret in a secure chip. You import the pre-funded card and claim its XRP, import your second card, and link it as your Backup. After that, two cards control one account, and you keep your XRP under your own control.
 
-For more, read [Best security practices with a Xaman card](https://help.xaman.app/app/xaman-tangem-cards/best-security-practices-using-a-xumm-card). If you have questions, contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md)  in Xaman.
+For more, read [Best security practices for the Xaman cards](https://help.xaman.app/app/xaman-tangem-cards/best-security-practices-using-a-xumm-card). If you have questions, contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md)  in Xaman.
