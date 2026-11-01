@@ -95,7 +95,7 @@ See: [How to import your Xaman card](../getting-started-with-xaman/importing-you
 When you first tap a new card, Xaman checks that the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card. Contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
 {% endhint %}
 
-After the import, tap the **Activate** button in the app to claim the pre-funded 1 XRP. This activates the account, which is now your Primary account. See [What is a "Pre-funded" Xaman card?](https://help.xaman.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card)
+After the import, tap the **Activate your account** button in the app to claim the pre-funded 1 XRP. This activates the account, which is now your Primary account. See [What is a "Pre-funded" Xaman card?](https://help.xaman.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card)
 
 {% hint style="info" %}
 **Why can't I spend the 1 XRP?** An XRP Ledger account that holds funds must keep a minimum balance, called the **reserve**. The 1 XRP on your Primary account is that reserve. You will see it in your balance, but you cannot spend it. This is a rule of the XRP Ledger, not a Xaman fee. The reserve amount is set by the network and can change over time.
@@ -103,7 +103,13 @@ After the import, tap the **Activate** button in the app to claim the pre-funded
 
 **Step 2. Import your second card.**
 
-Import the second card the same way. This card becomes your Backup card. It does not need any XRP, because its only job is to sign for your Primary account. Xaman shows its account as not activated. This is expected, and you can leave it that way.
+Import the second card the same way. This card becomes your Backup card. It does not need any XRP, because its only job is to sign for your Primary account.
+
+Xaman shows this message for your Backup card:
+
+<figure><img src="../.gitbook/assets/xaman-account-not-activated.png" alt="" width="291"><figcaption><p>The message Xaman shows for your Backup card. <br>You can ignore it</p></figcaption></figure>
+
+You do not need to deposit XRP for your Backup card. Do not tap **Activate your account**, and leave the account as it is.
 
 <details>
 
