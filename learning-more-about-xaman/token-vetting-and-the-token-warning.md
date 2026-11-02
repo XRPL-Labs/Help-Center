@@ -8,13 +8,13 @@ When you add a trust line for a token, or trade a token, Xaman shows this warnin
 
 <figure><img src="../.gitbook/assets/xaman-token-warning.png" alt="Xaman warning reading: XRPL Labs / Xaman does not endorse any token or token issuer. You should only proceed if you trust the token issuer. Continue at your own risk. With Back and Continue buttons." width="258"><figcaption><p>The warning Xaman shows for every token</p></figcaption></figure>
 
-#### **Why Xaman shows this warning**
+#### Why Xaman shows this warning
 
 Anyone can create a token on the XRP Ledger. Xaman does not vet or endorse any token or token issuer, so the warning reminds you to only continue if you trust the issuer. If you have questions or problems with a token, you need to contact its issuer.
 
 It is only a warning, not a block. Tap **Continue** to go ahead, or **Back** to cancel.
 
-#### **For token issuers: can the warning be removed?**
+#### For token issuers: can the warning be removed?
 
 No. **Every token shows this warning**, and it can't be removed for any token. Xaman does not vet tokens or token issuers, so there is no application, review form, documentation, or assessment process to complete.
 
@@ -24,7 +24,7 @@ There are still ways to help people trust your token:
 * **Be open about your issuer account.** Publish its address on your website, so people can check they have the real token.
 * **If your token's supply is meant to be fixed,** some issuers blackhole their issuer account, so no more tokens can ever be issued. Anyone can confirm this on a ledger explorer. Blackholing is permanent and can't be undone, so only do it if you're certain.
 
-#### **Before you continue**
+#### Before you continue
 
 If you're adding a token, a few checks can help you decide whether to trust it:
 
@@ -35,12 +35,13 @@ If you're adding a token, a few checks can help you decide whether to trust it:
 
 Adding a trust line also adds to your account's reserve: each trust line currently locks 0.2 XRP.
 
-#### **Frequently asked questions**
+#### Frequently asked questions
 
 **Can my token be added to the Xaman short list?**
 
 No. The current version of Xaman no longer has a short list of tokens, so there is no list to be added to.
 
-**Questions?**
+#### Questions?
 
 If you have questions about a token, contact the token's issuer. For questions about Xaman, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
+
