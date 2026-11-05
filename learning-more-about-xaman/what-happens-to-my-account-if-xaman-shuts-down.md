@@ -41,6 +41,15 @@ Secret Numbers are an open, proposed standard, and the code to read and convert 
 Entering your account secret into any wallet, website, or device carries a risk of exposing it. Only use wallets you trust. See [Should I import my XRP Ledger account into Xaman?](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account/should-i-import-my-xrp-ledger-account-into-xaman)
 {% endhint %}
 
+### What about Xaman cards?
+
+Your cards don't depend on Xaman either. Xaman cards are made by Tangem, and they also work in the Tangem app, available on the App Store and Google Play. If you ever can't use Xaman, you can reach the account on your card there.
+
+Card accounts work a little differently from the rest of this article:
+
+* **There's no account secret to write down.** The secret never leaves the card, so your cards themselves are your fallback.
+* **Keep your cards safe,** and keep your Primary and Backup cards in different places. See [Best security practices for the Xaman cards](https://help.xaman.app/app/xaman-tangem-cards/best-security-practices-using-a-xaman-card).
+
 ### Questions?
 
 If you have questions about keeping access to your account, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
