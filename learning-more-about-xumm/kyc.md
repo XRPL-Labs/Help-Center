@@ -44,13 +44,13 @@ You also need:
 ### How to verify your identity
 
 1. In Xaman, select the account you want to verify.
-2. Open the [Xaman KYC xApp](https://xaman.app/detect/xapp:xumm.kyc). <br>
+2. Open the [Xaman KYC xApp](https://xaman.app/detect/xapp:xumm.kyc). Tap this link on the phone where Xaman is installed.
 
-<figure><img src="../.gitbook/assets/xaman-kyc-start.png" alt="" width="297"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xaman-kyc-start.png" alt="The Xaman KYC xApp, asking you to verify your account by signing a transaction and paying the 15 RLUSD KYC fee, with a Continue: Verify account button" width="297"><figcaption><p>The first screen of the Xaman KYC xApp</p></figcaption></figure>
 
-1. Check that the account under **Your account** is the one you want to verify, then tap **Continue: Verify account**.
-2. Review and sign the transaction. It pays the 15 RLUSD KYC fee and proves that the account is yours.
-3. Follow the instructions in the xApp to verify your identity with Veriff. This usually includes taking a photo of your ID document and of yourself.
+3. Check that the account under **Your account** is the one you want to verify, then tap **Continue: Verify account**.
+4. Review and sign the transaction. It pays the 15 RLUSD KYC fee and proves that the account is yours.
+5. Follow the instructions in the xApp to verify your identity with Veriff. This usually includes taking a photo of your ID document and of yourself.
 
 ### Frequently asked questions
 
