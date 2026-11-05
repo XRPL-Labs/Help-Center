@@ -64,6 +64,8 @@ Move quickly. Calmly.
 3. **Report it to your local police.** Most countries now have cyber crime or financial crime units that handle blockchain cases. The ledger is public and traceable; law enforcement has tools we do not.
 4. **Identify how it happened** before you continue using the same device. If you cannot, wipe your phone and reinstall apps fresh from official sources. Do not restore from backup.
 
+For more information see: [I've been scammed!](../all-about-scams/ive-been-scammed.md)
+
 We cannot reverse transactions. No one can. What we can do is help you secure what is left.
 
 #### How to actually reach Xaman
