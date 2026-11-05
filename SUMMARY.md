@@ -77,6 +77,7 @@
 * [xApp Publishing](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
 * [Token vetting and the token warning](learning-more-about-xaman/token-vetting-and-the-token-warning.md)
 * [Destination tags](learning-more-about-xumm/destination-tags.md)
+* [What happens to my account if Xaman shuts down?](learning-more-about-xaman/what-happens-to-my-account-if-xaman-shuts-down.md)
 * [How to recover a Casinocoin (CSC) account](learning-more-about-xumm/how-to-recover-a-casinocoin-csc-account.md)
 * [GateHub’s issued tokens](learning-more-about-xumm/gatehubs-issued-tokens.md)
 * [How to send SGB to BiFrost](learning-more-about-xumm/how-to-send-sgb-to-bifrost.md)
