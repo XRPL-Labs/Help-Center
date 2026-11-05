@@ -73,7 +73,7 @@
 * [Xaman & Fractal ID](learning-more-about-xumm/xaman-and-fractal-id.md)
 * [How to set the currency](learning-more-about-xumm/how-to-set-the-currency.md)
 * [How to change your email address](learning-more-about-xumm/how-to-change-your-email-address.md)
-* [Verifying your identity (KYC)](learning-more-about-xumm/kyc.md)
+* [How to verify your identity (KYC)](learning-more-about-xumm/kyc.md)
 * [xApp Publishing](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
 * [Token vetting and the token warning](learning-more-about-xaman/token-vetting-and-the-token-warning.md)
 * [Destination tags](learning-more-about-xumm/destination-tags.md)
