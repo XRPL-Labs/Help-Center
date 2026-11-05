@@ -11,11 +11,11 @@ This guide gives you the rules that will keep you safe. Read it. Take it serious
 
 #### The one rule that matters above all others
 
-Your **Secret Numbers** (also called Family Seed or Mnemonic) are the keys to your account. Anyone who has them can control your funds. Completely. Irreversibly.
+Your **Secret Numbers** are the keys to your account. Anyone who has them can control your funds. Completely. Irreversibly. (If you imported an account, its secret may be a Family Seed or Mnemonic instead. Everything in this guide applies to those too.)
 
 > **Never share your Secret Numbers with anyone. Not Xaman. Not a website. Not an xApp. Not a developer, validator, exchange. Not anyone, anywhere, for any reason.**
 
-If someone asks for them, they are trying to steal from you. That is the entire test. There is no exception, no special case, no real support process that ever needs them.&#x20;
+If someone asks for them, they are trying to steal from you. That is the entire test. There is no exception, no special case, no real support process that ever needs them.
 
 Xaman does not have a copy of yours and cannot recover them for you, because that is the whole point of self-custody.
 
@@ -30,6 +30,8 @@ Xaman is different. Your private key (your Secret Numbers) is encrypted and stor
 That is the freedom. The responsibility is that there is no one to call if something goes wrong. Once a transaction is signed and confirmed on the ledger, it is permanent. No one can reverse it. Not us, not Ripple, not the government.
 
 This is not meant to alarm you. It is meant to set the right expectations, so you treat your Secret Numbers and your sign approvals with the seriousness they deserve.
+
+For the background on custodial and self-custodial accounts, see [Understanding self-custody](https://help.xaman.app/app/getting-started-with-xaman/what-is-xumm/understanding-self-custody). Your account also doesn't depend on Xaman, since your funds live on the ledger: see [What happens to my account if Xaman shuts down?](https://help.xaman.app/app/learning-more-about-xaman/what-happens-to-my-account-if-xaman-shuts-down)
 
 #### How to spot the scams hitting self-custody users
 
@@ -50,8 +52,8 @@ Six rules, applied consistently, will protect you from almost everything.
 2. **If it sounds too good to be true, it is.** Guaranteed yields, free money, exclusive allocations. Real opportunities exist. None of them arrive in your DMs from a stranger.
 3. **Slow down.** Every scam manufactures urgency. The few seconds you take to think kill almost every attempt.
 4. **Read every transaction before you sign it.** Xaman shows you exactly what a transaction will do. Look at the destination, the amount, the type. If anything is unclear, do not approve.
-5. **Verify URLs character by character.** Our only official domain is **xaman.app** (and its subdomains, sometimes xumm.app). Our developer docs live at **docs.xaman.dev**.&#x20;
-6. **Protect your phone.** Keep it updated. Install apps only from the official App Store or Google Play. Avoid public WiFi for wallet activity. Set a strong device passcode. For larger balances, consider a Xaman (Tangem) card, where your key is generated inside the card chip and physically cannot be extracted or shared.
+5. **Verify URLs character by character.** Our only official domain is **xaman.app** (and its subdomains, sometimes xumm.app). Our developer docs live at **docs.xaman.dev**.
+6. **Protect your phone.** Keep it updated. Install apps only from the official App Store or Google Play. Avoid public WiFi for wallet activity. Set a strong device passcode. For larger balances, consider a Xaman (Tangem) card, where your key is generated inside the card chip and physically cannot be extracted or shared. See [Getting started with your new cards](https://help.xaman.app/app/xaman-tangem-cards/getting-started).
 
 #### If you think you have been scammed
 
