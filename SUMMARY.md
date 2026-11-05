@@ -5,7 +5,7 @@
 ## Getting started with Xaman
 
 * [💸 What is Xaman?](hot-topics/what-is-xumm.md)
-  * [Understanding Self custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
+  * [Understanding self-custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
   * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
   * [Xaman & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
   * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)

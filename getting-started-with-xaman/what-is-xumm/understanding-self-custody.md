@@ -1,71 +1,55 @@
 ---
-description: >-
-  Self-custodial, non-custodial, custodial, un-hosted, hosted... What's the
-  difference?
+description: 'Custodial, self-custodial, non-custodial, un-hosted: what''s the difference?'
 ---
 
-# Understanding Self custody
+# Understanding self-custody
 
-If you are just getting started with crypto and blockchain, one of the biggest challenges can be trying to figure out what all of the different terms and fancy words mean. If you are thinking about installing Xaman (formerly Xumm) and are wondering what exactly words like "custodial", "non-custodial", "un-hosted" "self-custody" and "hosted" refer to, this article is going to help get you up to speed.
+If you're new to crypto, words like "custodial," "self-custodial," "non-custodial," and "un-hosted" can be confusing. They all describe one thing: **who holds your funds.** This article explains the difference, and where Xaman fits in.
 
-### Your custodial bank account
+#### Custodial accounts
 
-Most people are familiar with the general idea of what a bank is and how they work. In simple terms, a bank is a business that deals with money. As a customer, you can open an account with a bank and deposit money into that account. The bank holds that money for you until you decide how you would like to use your funds.&#x20;
+A bank account is the most familiar example. When you deposit money, the bank holds it for you on its own systems and keeps a record of what you're owed. Since the bank has custody of your funds, this is called a **custodial** (or **hosted**) account.
 
-This is an example of a "custodial" or "hosted" account. The bank created an account on their "hosted" system (on their computers which they own and operate) and agree to take "custody" of your funds when you deposit them. While your funds are in their custody, they have certain obligations and responsibilities which are, in theory, overseen by local/federal governments who are supposed to ensure that the banks act in a responsible and transparent way.
+Custodial accounts are convenient, and banks are regulated. The trade-off is that the bank, as the one holding your money, also has a say in when and how you can use it. For example, a bank can freeze or restrict an account during an investigation, when a creditor or tax authority has a claim, or when it decides to block certain kinds of payments.
 
-As a customer, you can open an account with a bank and deposit money into that account. The bank holds that money for you until you decide how you would like to use your funds.&#x20;
+Many people are happy with that trade-off: someone else looks after their money and handles problems for them.
 
-This is an example of a "custodial" or "hosted" account. The bank created an account on their "hosted" system (on their computers which they own and operate) and agree to take "custody" of your funds when you deposit them.
+#### How exchanges hold your XRP
 
-While your funds are in their custody, they have certain obligations and responsibilities which are, in theory, overseen by local/federal governments who are supposed to ensure that the banks act in a responsible and transparent way.
+Crypto exchanges work the same way. When you hold XRP on an exchange, the exchange holds it for you.
 
-Most of the time, accessing your funds is a fairly easy and straightforward process but there are several situations where a bank can decide to restrict access to your money, for example:
+For example, say a friend wants to send you 1,000 XRP. The exchange gives you an **r-address** (an account on the XRP Ledger) and a **destination tag** (your customer number in the exchange's records). Your friend sends the XRP to that r-address, with your tag.
 
-* They suspect you of laundering money, financing terrorism, writing bad checks on your account.
-* If a creditor has a claim against your funds
-* If the government determines you owe them money (taxes, fines, penalties, etc.)
+That r-address belongs to the exchange, not to you. The XRP goes into the exchange's account, and the exchange adds 1,000 XRP to your balance in its own records. You don't have an account on the XRP Ledger at all: you have an account with the exchange.
 
-Banks can also decide who and where you can send your money to if they don't think you are making good financial decisions.
+So your access depends on the exchange. If it restricts withdrawals or goes out of business, you may not be able to get your funds back. When exchanges have failed, some customers have lost their funds, or waited years to recover part of them.
 
-For example, a large, multinational bank in the UK informed their customers...
+#### Self-custodial accounts
 
-{% hint style="info" %}
-"It’s our responsibility to help protect your money. With this in mind we’ve taken the decision to stop payments made by credit/debit card to Binance until further notice, to help keep your money safe."
-{% endhint %}
+On the XRP Ledger and Xahau, there's another option: you can create your own account on the network. It has its own r-address, and only you control it, through your account secret.
 
-Source:
+No bank, exchange, or government holds your funds or decides how you use them, and that includes Xaman. This is called a **self-custodial** account.
 
-{% embed url="https://www.forbes.com/uk/advisor/personal-finance/2021/07/06/barclays-stops-customers-making-binance-transfers/" %}
+#### Same thing, different names
 
-Fortunately, many individuals prefer their banks and governments to handle these financial decisions for them, making custodial accounts a logical choice for those who wish to have their funds managed by someone else.
+You may also see self-custodial accounts called **non-custodial** or **un-hosted** accounts. All three terms mean the same thing. We use "self-custody" because it says it most clearly: **you** have custody of your own funds.
 
-### A second choice...
+#### Freedom and responsibility
 
-When it comes to the XRP Ledger/Xahau, there are several **crypto exchanges** which offer **custodial accounts**. Similar to a bank, you can open an account with a crypto exchange and deposit money into your account with them. The exchange holds and administers that money for you and when it comes time to interact with the XRP Ledger/Xahau, they act as a "middle man" and perform transactions on your behalf.&#x20;
+Self-custody gives you complete control, but it also means there's no one to call if something goes wrong. No one can reset your account secret, recover it for you, or reverse a transaction, so keeping your account safe is up to you.
 
-For example, let's say a friend wanted to send you 1000 XRP. The crypto exchange would provide you with an r-address (which is an account number on the XRPL) and a destination tag. (which is your account number on the exchange's database) You would provide the r-address and the destination tag to your friend and they would send the funds to the r-address.&#x20;
+Before you get started, read [Self-Custody 101: Staying Safe with Xaman](https://help.xaman.app/app/getting-started-with-xaman/self-custody-101-staying-safe-with-xaman). It covers the rules that protect you from almost every scam aimed at self-custody users.
 
-However, the r-address is **not your r-address**. It belongs to the crypto exchange. Your friend is sending the 1000 XRP to the **crypto exchange's account,** not to your account. You don't have an account on the XRPL. You have an account on the crypto exchange's database. The crypto exchange actually has your XRPL and puts a 1000 XRP credit your account with them. The actual XRP is in **their** XRPL account.&#x20;
+#### Xaman: a self-custody wallet
 
-Since the exchange created an account on their "hosted" system (on their computers which they own and operate) and agree to take custody of your funds, we refer to them as **custodial accounts**.
+Xaman is a self-custody wallet. It helps you create your own XRP Ledger and Xahau accounts safely, manage them, and interact with the ledger directly.
 
-This does create a potential question as to who actually owns the XRP since it is not really in your account. It is in the crypto exchange's account.&#x20;
+* **For extra protection,** Xaman cards keep your account secret on a secure chip, so it can never be copied or shared. See [Getting started with your new cards](https://help.xaman.app/app/xaman-tangem-cards/getting-started).
+* **Your account doesn't depend on us.** Your funds live on the ledger, not with Xaman. See [What happens to my account if Xaman shuts down?](https://help.xaman.app/app/learning-more-about-xaman/what-happens-to-my-account-if-xaman-shuts-down)
 
-{% embed url="https://www.reuters.com/business/finance/us-judge-says-celsius-network-owns-most-customer-crypto-deposits-2023-01-05/" %}
+#### Questions?
 
-However... on the XRP Ledger, there is a **second option**.
+If you have questions about self-custody, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
 
-### Self-custodial accounts
 
-One of the great features of the XRP Ledger/Xahau is that you can actually create your own account on the network. This means that you can create your own r-address and have complete control over it. It also means that you, and only you, can make decisions on how you will manage your funds. As well, you actually own and control your own XRP. We refer to this type of account on the XRP Ledger as a **self-custodial** account.&#x20;
 
-Self-custodial accounts on the XRPL are not controlled by banks or businesses or governments. They are completely controlled by you.  Xumm helps you manage these types of accounts.
-
-### What about non-custodial or un-hosted accounts?
-
-You may find that other wallets or companies refer to self-custodial accounts as "non-custodial" or "un-hosted" accounts. All three terms refer to the same type of accounts.  The term self-custodial refers to an account where **you** **have custody** of your funds. This is not really obvious with the terms non-custodial and un-hosted.
-
-### Xaman - A self-custodial wallet
-
-Xaman is a self-custody wallet that allows you to transact directly with the XRP Ledger. It provides you with an easy way to create a new XRPL account in a safe and secure way, and helps you interact with the XRPL and manage your XRPL account(s).

@@ -10,13 +10,13 @@ KYC stands for **Know Your Customer**: the process of confirming who someone is.
 **You do not need to complete KYC to use Xaman.** Xaman is a self-custody wallet: you hold your own keys, and you can send, receive, and manage your assets without verifying your identity.
 {% endhint %}
 
-### What is KYC?
+#### What is KYC?
 
 Banks, payment companies, and other regulated financial services must identify their customers and verify their identity before doing business with them. This helps keep fraud and crime out of the financial system.
 
 Many governments now apply the same rules to crypto, which is why most crypto exchanges ask their customers to complete KYC. Rules for self-custody wallets like Xaman vary from country to country and are still developing, so identity verification may become more common in the future.
 
-### Why would I verify my identity?
+#### Why would I verify my identity?
 
 Verifying your identity links your verified identity to an XRP Ledger account you own. People choose to do this because:
 
@@ -25,7 +25,7 @@ Verifying your identity links your verified identity to an XRP Ledger account yo
 
 Verification is handled by our professional verification partner, Veriff.
 
-### What you need
+#### What you need
 
 You need a valid, official government-issued document. In most countries, you can use one of these:
 
@@ -41,7 +41,7 @@ You also need:
 * **Full access** to the account you want to verify. See _Can I verify an account I added in Read only mode?_ below.
 * **15 RLUSD** in that account, to pay the KYC fee. To hold RLUSD, the account needs an RLUSD trust line.
 
-### How to verify your identity
+#### How to verify your identity
 
 1. In Xaman, select the account you want to verify.
 2. Open the [Xaman KYC xApp](https://xaman.app/detect/xapp:xumm.kyc). Tap this link on the phone where Xaman is installed.
@@ -52,7 +52,7 @@ You also need:
 4. Review and sign the transaction. It pays the 15 RLUSD KYC fee and proves that the account is yours.
 5. Follow the instructions in the xApp to verify your identity with Veriff. This usually includes taking a photo of your ID document and of yourself.
 
-### Frequently asked questions
+#### Frequently asked questions
 
 **Do I have to complete KYC to use Xaman?**
 
@@ -72,6 +72,6 @@ No. Anyone can add any XRP Ledger account to Xaman in **Read only** mode, so a R
 
 For the same reason, you cannot verify a blackholed account, since no one can sign for it.
 
-### Questions?
+#### Questions?
 
 If you have questions about KYC, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.
