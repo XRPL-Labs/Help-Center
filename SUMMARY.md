@@ -74,7 +74,7 @@
 * [How to set the currency](learning-more-about-xumm/how-to-set-the-currency.md)
 * [How to change your email address](learning-more-about-xumm/how-to-change-your-email-address.md)
 * [How to verify your identity (KYC)](learning-more-about-xumm/kyc.md)
-* [xApp Publishing](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
+* [xApp publishing and review](learning-more-about-xumm/guidelines-and-review-process-of-publishing-xapps.md)
 * [Token vetting and the token warning](learning-more-about-xaman/token-vetting-and-the-token-warning.md)
 * [Destination tags](learning-more-about-xumm/destination-tags.md)
 * [What happens to my account if Xaman shuts down?](learning-more-about-xaman/what-happens-to-my-account-if-xaman-shuts-down.md)
