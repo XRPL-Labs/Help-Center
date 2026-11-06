@@ -55,7 +55,7 @@ Each item below is a yes or no. If your xApp doesn't meet any one of them, we'll
 * Show a clear warning before any other high-risk transaction, such as deleting an account (AccountDelete) or anything else that can't be undone.
 * If your xApp has a backend, it's secure, and you can tell us how and where it's hosted.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Changes to who can sign for an account must always be made by the account owner, never through an xApp.** Transactions that change an account's signing authority are the most common route for phishing and account takeovers. If an xApp asking for them were ever misused or compromised, users could lose their accounts completely, however trustworthy the developer.
 {% endhint %}
 
