@@ -135,7 +135,7 @@ Include:
 * **Any fees** your xApp charges.
 * **How long you've tested it,** and with how many testers.
 * **Your support contacts.**
-* **Testnet access,** if your xApp supports it, so we can test signing without real funds. \[TODO: required or optional?]
+* **Testnet access,** if your xApp supports it, so we can test signing without real funds.
 * **Confirmation** that you've checked your xApp against the Required list, and that you agree we can revoke your xApp at any time, even after it's approved.
 
 #### What happens next
@@ -229,7 +229,7 @@ Yes. Public source code lets us, and anyone else, check what your xApp actually 
 
 **Can my xApp ask users to set a regular key or a signer list?**
 
-No. xApps can't request SetRegularKey, SignerListSet, or \[TODO: which AccountSet operations] transactions, without exception. These transactions change who controls an account, so account owners must make these changes themselves, directly. If your xApp's workflow depends on them, you'll need to change its design before you request a review.
+No. xApps can't request SetRegularKey or SignerListSet transactions, without exception. These transactions change who controls an account, so account owners must make these changes themselves, directly. If your xApp's workflow depends on them, you'll need to change its design before you request a review.
 
 #### Questions?
 
