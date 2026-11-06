@@ -20,7 +20,7 @@ An xApp can be in one of three states:
 
 * **Sandboxed:** only you and up to 10 testers can open it. You add testers by their Device ID in the Xaman Developer Console.
 * **Approved:** your xApp has passed review and gets a public link. You can share the link, and any Xaman user can open it. An approved xApp isn't listed in Xaman's xApp list.
-* **Listed:** your xApp appears in Xaman for everyone to find. Listing is a separate decision, made over time. .
+* **Listed:** your xApp appears in Xaman for everyone to find.&#x20;
 
 #### Required: what every xApp must do
 
