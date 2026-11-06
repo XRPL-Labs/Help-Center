@@ -53,11 +53,11 @@ Each item below is a yes or no. If your xApp doesn't meet any one of them, we'll
 * Name every third-party service the xApp uses.
 * **No account-governance transactions.** Your xApp can't ask users to sign SetRegularKey or SignerListSet transactions. There are no exceptions.
 * Show a clear warning before any other high-risk transaction, such as deleting an account (AccountDelete) or anything else that can't be undone.
-*   If your xApp has a backend, it's secure, and you can tell us how and where it's hosted.<br>
+* If your xApp has a backend, it's secure, and you can tell us how and where it's hosted.
 
-    <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p><strong>Changes to who can sign for an account must always be made by the account owner, never through an xApp.</strong> Transactions that change an account's signing authority are the most common route for phishing and account takeovers. If an xApp asking for them were ever misused or compromised, users could lose their accounts completely, however trustworthy the developer.</p></div>
-
-
+{% hint style="info" %}
+**Changes to who can sign for an account must always be made by the account owner, never through an xApp.** Transactions that change an account's signing authority are the most common route for phishing and account takeovers. If an xApp asking for them were ever misused or compromised, users could lose their accounts completely, however trustworthy the developer.
+{% endhint %}
 
 **App store rules and speculation**
 
