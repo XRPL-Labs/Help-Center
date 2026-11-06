@@ -52,13 +52,14 @@ Each item below is a yes or no. If your xApp doesn't meet any one of them, we'll
 * Show any fees up front, including fees your xApp or a third party charges.
 * Name every third-party service the xApp uses.
 * **No account-governance transactions.** Your xApp can't ask users to sign SetRegularKey or SignerListSet transactions. There are no exceptions.
-
-{% hint style="warning" %}
-**Changes to who can sign for an account must always be made by the account owner, never through an xApp.** Transactions that change an account's signing authority are the most common route for phishing and account takeovers. If an xApp asking for them were ever misused or compromised, users could lose their accounts completely, however trustworthy the developer.
-{% endhint %}
-
 * Show a clear warning before any other high-risk transaction, such as deleting an account (AccountDelete) or anything else that can't be undone.
-* If your xApp has a backend, it's secure, and you can tell us how and where it's hosted.
+*   If your xApp has a backend, it's secure, and you can tell us how and where it's hosted.
+
+
+
+    <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p><strong>Changes to who can sign for an account must always be made by the account owner, never through an xApp.</strong> Transactions that change an account's signing authority are the most common route for phishing and account takeovers. If an xApp asking for them were ever misused or compromised, users could lose their accounts completely, however trustworthy the developer.</p></div>
+
+
 
 **App store rules and speculation**
 
@@ -74,7 +75,7 @@ Each item below is a yes or no. If your xApp doesn't meet any one of them, we'll
 
 * Works on both iOS and Android.
 * Tested at a screen width of 360 px, with nothing cut off, overlapping, hidden behind the keyboard, or needing horizontal scrolling.
-* Body text is at least 16 pt.
+* Body text is at least 16 px.
 * Buttons and other touch controls have a touch area of at least 40 × 40 px.
 * Scrolling and zooming behave as expected. Prevent page zooming where it would break the layout.
 
@@ -136,7 +137,7 @@ Include:
 * **How long you've tested it,** and with how many testers.
 * **Your support contacts.**
 * **Testnet access,** if your xApp supports it, so we can test signing without real funds.
-* **Confirmation** that you've checked your xApp against the Required list, and that you agree we can revoke your xApp at any time, even after it's approved.
+* **Confirmation** that you've checked your xApp against both the Required and Expected lists, and that you agree we can revoke your xApp at any time, even after it's approved.
 
 #### What happens next
 
@@ -153,7 +154,9 @@ At any stage, the outcome is one of:
 * **Changes needed:** we'll tell you which items in the Required or Expected lists your xApp doesn't meet. Fix them, test your xApp against both lists again, and resubmit. Every resubmission starts again from the initial review.
 * **Not approved:** your xApp can't be approved as it is, for example because it doesn't add enough value, is built around speculation, or misleads users. We'll tell you why.
 
-**Number of rounds.** If your xApp still needs changes after 3 rounds, we'll close your submission. You can submit again after 3 months.
+**Number of rounds.** If your xApp still needs changes after 3 rounds, we'll close your submission.
+
+**Submitting again.** Whether your submission was closed or not approved, you can submit again after 3 months, with 3 new rounds. If your xApp wasn't approved because of its idea or design, your new submission must be substantially different. If it was misleading or malicious, you can't reapply, and this can affect any other xApps you've built.
 
 **Reapplying.** If your xApp wasn't approved because of its idea or design, you can submit a substantially different version after 2 weeks. If it was misleading or malicious, you can't reapply, and this can affect any other xApps you've built.
 
@@ -161,7 +164,7 @@ At any stage, the outcome is one of:
 
 **How long does a review take?**
 
-We'll confirm we've received your request within 1 working days. A full review usually takes 1 to 2 weeks, and can take longer when we receive many requests, or when your xApp needs closer checks.
+We'll confirm we've received your request within 1 working day. A full review usually takes 1 to 2 weeks, and can take longer when we receive many requests, or when your xApp needs closer checks.
 
 Every resubmission and every change goes back into the queue, so the best way to get approved quickly is to test your xApp thoroughly against both checklists before you submit it. Please don't send follow-up messages asking for updates: they don't speed up your review.
 
@@ -233,4 +236,5 @@ No. xApps can't request SetRegularKey or SignerListSet transactions, without exc
 
 #### Questions?
 
-If you have questions about your review, reply to your Support ticket in the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
+If you have questions, please create a Support ticket in the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
+
