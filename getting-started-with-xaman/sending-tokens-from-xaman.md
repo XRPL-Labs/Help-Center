@@ -48,9 +48,13 @@ On the **Summary** screen, check every detail carefully before you send.&#x20;
 
 <figure><img src="../.gitbook/assets/xaman-send-summary-arrows (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
+**Sending to an exchange?** Stop here: you also need to add a destination tag before you send. See Sending to an exchange below.
+
 When everything is correct, **slide to send**. Your transaction is sent to the XRP Ledger, and usually completes within a few seconds.
 
 #### Sending to an exchange
+
+Sending to an exchange works the same way, with one extra step: the **destination tag**. Here's how to get it right.
 
 {% hint style="danger" %}
 **Always include the destination tag when sending to an exchange.** Without it, the exchange can't tell that the funds are yours. Transactions on the XRP Ledger can't be reversed, so getting your funds back depends entirely on the exchange's support team, and can take a long time.
