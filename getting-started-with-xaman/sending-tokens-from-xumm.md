@@ -1,89 +1,120 @@
 ---
-description: How to send tokens from your XRP Ledger account managed by Xaman
+description: >-
+  How to send XRP or tokens from your Xaman account to another XRP Ledger
+  account
 ---
 
-# Sending tokens from Xaman
+# Sending XRP and tokens from Xaman
 
-Sending tokens from Xaman (formerly Xumm) is a very easy process. In fact, sending tokens is one of its primary functions! Here is how it's done...
+You send XRP and tokens the same way, with the **Send** button on Xaman's home screen. Choose what to send and how much, choose who to send it to, then check the summary and slide to send.
 
-### **Step 1**
+### Step 1: Choose what and how much to send
 
-From the main screen in Xaman, press the **Send** button.
+On Xaman's home screen, tap **Send**.
 
-<figure><img src="../.gitbook/assets/Xaman - Send button.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xaman-home-send.png" alt="" width="363"><figcaption></figcaption></figure>
 
-On the next screen, you will see the option to enter the **amount** you would like to send.
+Choose what you want to send: XRP, or one of your tokens. Then enter the amount. If you have more than one account in Xaman, you can also choose which account to send by from by tapping the down arrow beside your account.
 
-(You can also change the account you would like to send the tokens **from** and you can change the **type** of token you would like to send.)
+<figure><img src="../.gitbook/assets/xaman-send-amount-arrows.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Send screen - 2.png" alt=""><figcaption></figcaption></figure>
+Tap **Next**.
 
-In our case, we are going to send 1 XRP from our account.
+### Step 2: Choose the recipient
 
-Press the **Next** button to continue.
+Enter or select the XRP Ledger address (r-address) you're sending to.
 
-### **Step 2**
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-fe85aef25a0f7e7bd6e38ca690cc6f4db1a6356f%2FRecipient%20screen.png?alt=media" alt="" width="375"><figcaption></figcaption></figure>
 
-In this screen you can enter the **recipient's** account that you are sending your tokens to.
+\
+The address is all you need when sending to a **self-custodial** account, like one in Xaman, where the owner holds the keys.
 
-<figure><img src="../.gitbook/assets/Recipient screen.png" alt=""><figcaption></figcaption></figure>
+Sending to a **custodial** account, like one at a crypto exchange, usually also needs a **destination tag**. Exchanges use one address for many customers, and the destination tag tells them which customer the funds are for. You'll add it on the next screen.
 
-Keep in mind, there are two types of accounts on the XRPL.
+Tap **Next**.
 
-* **Self custodial** accounts - You are solely responsible for managing your private keys.
-* **Custodial** accounts - A company is responsible for managing the private keys to their account. (Usually a crypto exchange.) You are assigned an account number with the exchange called a destination tag.
+### Step 3: Check and send
 
-Both types of accounts will have an r-address but a custodial account will also require a destination tag. (More about destination tags later.)
-
-Press **Next** after you have entered/selected the correct destination r-address.
-
-### **Step 3**
-
-Finally we reach the **Summary** screen. Here you can review your transaction to make sure it is correct.
-
-<figure><img src="../.gitbook/assets/Summary.png" alt=""><figcaption></figcaption></figure>
-
-If you are sending to a self-custodial account, you can simply **Slide to send** and your transaction will be sent to the XRP Ledger to process.
-
-However, if you are sending to a **custodial** account, (ie. an exchange account) this where you would enter your **destination tag**.
-
-
-
-<figure><img src="../.gitbook/assets/Summary + DT.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="success" %}
-Remember, self-custodial accounts, like the ones managed with Xaman **do not** require destination tags. Only **custodial** accounts require them.
+{% hint style="warning" %}
+**Transactions on the XRP Ledger can't be reversed.** Once you've sent funds, they can't be recalled, so check every detail before you slide to send.
 {% endhint %}
 
-#### **A little bit more about destination tags**
+On the **Summary** screen, check every detail carefully before you send.&#x20;
 
-You may have noticed that most crypto exchanges have **one** receiving r-address for **all** of their XRP customers? Have you ever wondered how thousands of customers can use just one XRP account?&#x20;
+* **The recipient's address.** Compare the r-address character by character with the one you were given, not just the first and last few characters. Scammers sometimes create look-alike addresses that differ only in the middle.
+* **The token.** Make sure you're sending the right one. Many tokens have similar names, so check the issuer as well as the name.
+* **The amount.** Check the number, including the position of the decimal point.
+* The **Network & Service Fee** shows what this transaction costs. Tap the information icon beside it to see a breakdown of the network fee and any service fees that apply.<br>
 
-When you create an account with a crypto exchange, they issue you a customer account on their internal database. They also create a destination tag which points to your new customer account and they provide you with **their** XRP Ledger account which you can send and receive XRP. You do not own their XRPL account. They have complete control over it. Since thousands of customers are sending funds to and from the same XRPL account, the only way they can tell which funds belong to which customer is by the destination tag included in each transaction. &#x20;
+<figure><img src="../.gitbook/assets/xaman-send-summary-arrows (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-If you would like to learn a bit more about destination tags, check out this video:
+**Sending to an exchange?** You must add a destination tag. Tap **Add destination tag** and follow the steps in Sending to an exchange below.
+
+#### Sending to an exchange
+
+{% hint style="danger" %}
+**Always include the destination tag when sending to an exchange.** Without it, the exchange can't tell that the funds are yours. Transactions on the XRP Ledger can't be reversed, so getting your funds back depends entirely on the exchange's support team, and can take a long time.
+{% endhint %}
+
+1. **Get the deposit details from the exchange.** Log in to your exchange account, go to the deposit page for XRP (or the token you're sending), and choose the **XRP Ledger** network if you're asked. The exchange shows you two things: a **deposit address** (an r-address) and a **destination tag** (a number).
+2. **Enter the address in Xaman.** In Step 2, enter or paste the exchange's deposit address.
+3. **Add the destination tag.** On the Summary screen, tap **Add destination tag** and enter the number from the exchange.
+4. **Check both.** Compare the address and the destination tag with the ones on the exchange's deposit page before you slide to send.
+
+{% hint style="info" %}
+**Some exchanges use different names for the destination tag,** such as "Tag", "Memo" or "Deposit tag". Whatever it's called, it goes in the destination tag field, never in the Memo field.
+{% endhint %}
+
+**Sending to an exchange for the first time?** Send a small amount first, and check that it arrives in your exchange account before you send the rest. Also check the exchange's minimum deposit: amounts below it may not be credited.
+
+When everything is correct, **slide to send**. Your transaction is sent to the XRP Ledger, and usually completes within a few seconds.
+
+#### Sending XRP
+
+**You can't send all of your XRP.** Every XRP Ledger account must hold a minimum amount of XRP, called the reserve. Part of your balance is set aside for it, and only the rest can be sent. See \[TODO: link to the reserves article] for how it works.
+
+**Sending to a new account.** An XRP Ledger account only exists once it has received enough XRP to cover the base reserve. If you're sending XRP to an address that hasn't been activated yet, you need to send at least that amount, or the transaction will fail.
+
+#### Sending tokens
+
+**The recipient needs a trust line for the token.** An account can only receive a token once it has a trust line for that exact token, from the same issuer. If the recipient doesn't have one, the transaction fails, and the tokens stay in your account.
+
+**Some tokens have a transfer fee.** The issuer of a token can charge a fee on every transfer of it. Check the summary screen carefully before you send.
+
+#### A bit more about destination tags
+
+Most exchanges use **one** XRP Ledger account for **all** their customers. When you open an account with an exchange, it creates a customer account for you in its own system, and gives you its XRP Ledger address together with your own destination tag.
+
+You don't own the exchange's XRP Ledger account; the exchange has complete control over it. Since thousands of customers send funds to the same address, the destination tag is the only way the exchange can tell which funds belong to whom.
+
+Accounts in Xaman usually don't need a destination tag, though any account can be set up to require one. If the recipient gives you a destination tag, always include it.
+
+To learn more about destination tags, watch this video:
 
 {% embed url="https://www.youtube.com/watch?index=5&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp_l&v=gAWnIw4gzW8" %}
 
+#### Frequently asked questions
 
+**I sent funds to an exchange without a destination tag. What can I do?**
 
-### Frequently Asked Questions
+Contact the exchange's support team as soon as possible, and give them the transaction details. Many exchanges can credit the funds manually, though it's up to them, and it can take time.
 
-#### I noticed that there is a 'Memo' field on the Summary screen before I sign the transaction. What is that for?
+**My token payment failed. Why?**
 
+The most common reason is that the recipient doesn't have a trust line for that token. Ask them to add one, then try again.
 
+**What is the Memo field on the summary screen for?**
 
-<figure><img src="../.gitbook/assets/Memo field.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-cbf1e8be622d6a109e0ff4803d339f6bd3182e26%2FMemo%20field.png?alt=media" alt=""><figcaption></figcaption></figure>
 
-The Memo field is a location where you can add additional information to a transaction. For example, you might be paying an invoice and you would like to include an invoice number in your transaction. You could add the invoice number in the Memo field.
+The Memo field lets you add extra information to a transaction. For example:
 
-There are cases where you might want to prove that you own your XRPL account. (ie. Perhaps a crypto exchange or a bank is asking for proof that it is your account.) You could agree to send them a transaction and include a word or phrase that you and the bank agree on in the transaction. You would put the word or phrase in the Memo field.
+* **Paying an invoice:** add the invoice number.
+* **Proving you own an account:** an exchange or a bank may ask you to send a transaction with a word or phrase you've agreed on.
+* **Funds sent to the wrong account:** you can send a small transaction with a message asking the owner to return them.
 
-There are also cases where you might have sent funds to a wrong account and you would like to try to contact the account owner and ask them to return your funds. You could write a short message in the Memo field and explain that the funds were sent by mistake and you would be very happy if they returned your funds to you.
+Memos are public. Anyone can read them on the XRP Ledger, so never put personal or sensitive information in one.
 
-But, please note, the Memo field is **not for a destination tag**. There is a separate field for destination tags. (As explained above.)
-
-
-
-
-
+{% hint style="info" %}
+**The Memo field isn't for destination tags.** Destination tags have their own field on the summary screen.
+{% endhint %}

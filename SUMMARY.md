@@ -52,7 +52,7 @@
   * [The "BreakEven" Calculation](getting-started-with-xaman/using-the-flare-xapp/the-breakeven-calculation.md)
   * [Frequently Asked Questions](getting-started-with-xaman/using-the-flare-xapp/page-1.md)
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xumm.md)
-* [Sending tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
+* [Sending XRP and tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xumm.md)
 * [Sending XRP to Xaman](getting-started-with-xaman/sending-xrp-to-xaman.md)
 * [How to create a RLUSD Trust Line](getting-started-with-xaman/how-to-create-a-rlusd-trust-line.md)
 * [How to remove an account from Xaman](getting-started-with-xaman/how-to-remove-an-account-from-xaman.md)
