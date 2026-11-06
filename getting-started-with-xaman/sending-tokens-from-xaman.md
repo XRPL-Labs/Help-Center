@@ -24,7 +24,6 @@ Tap **Next**.
 
 Enter or select the XRP Ledger address (r-address) you're sending to.
 
-\
 The address is all you need when sending to a **self-custodial** account, like one in Xaman, where the owner holds the keys.
 
 <figure><img src="../.gitbook/assets/xaman-send-recipient.png" alt="" width="288"><figcaption></figcaption></figure>
@@ -44,7 +43,7 @@ On the **Summary** screen, check every detail carefully before you send.&#x20;
 * **The recipient's address.** Compare the r-address character by character with the one you were given, not just the first and last few characters. Scammers sometimes create look-alike addresses that differ only in the middle.
 * **The token.** Make sure you're sending the right one. Many tokens have similar names, so check the issuer as well as the name.
 * **The amount.** Check the number, including the position of the decimal point.
-* The **Network & Service Fee** shows what this transaction costs. Tap the information icon beside it to see a breakdown of the network fee and any service fees that apply.<br>
+* **The Fees.** Tap the information icon beside it to see a breakdown of the network fee and any service fees that apply.
 
 <figure><img src="../.gitbook/assets/xaman-send-summary-arrows (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -83,17 +82,13 @@ Sending to an exchange works the same way, with one extra step: the **destinatio
 
 **Some tokens have a transfer fee.** The issuer of a token can charge a fee on every transfer of it. Check the summary screen carefully before you send.
 
-#### A bit more about destination tags
 
-Most exchanges use **one** XRP Ledger account for **all** their customers. When you open an account with an exchange, it creates a customer account for you in its own system, and gives you its XRP Ledger address together with your own destination tag.
 
-You don't own the exchange's XRP Ledger account; the exchange has complete control over it. Since thousands of customers send funds to the same address, the destination tag is the only way the exchange can tell which funds belong to whom.
+#### Learn more about destination tags
 
-Accounts in Xaman usually don't need a destination tag, though any account can be set up to require one. If the recipient gives you a destination tag, always include it.
+Exchanges aren't the only accounts that can require a destination tag: any XRP Ledger account can be set up to require one. If a recipient gives you a destination tag, always include it.
 
-To learn more about destination tags, watch this video:
-
-{% embed url="https://www.youtube.com/watch?index=5&list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp_l&v=gAWnIw4gzW8" %}
+For a short explanation of how destination tags work, see [Destination tags](https://help.xaman.app/app/learning-more-about-xaman/destination-tags).
 
 #### Frequently asked questions
 
@@ -101,13 +96,11 @@ To learn more about destination tags, watch this video:
 
 Contact the exchange's support team as soon as possible, and give them the transaction details. Many exchanges can credit the funds manually, though it's up to them, and it can take time.
 
-**My token payment failed. Why?**
-
-The most common reason is that the recipient doesn't have a trust line for that token. Ask them to add one, then try again.
+See: [Deposit to exchange didn't arrive](../learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md)
 
 **What is the Memo field on the summary screen for?**
 
-<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-cbf1e8be622d6a109e0ff4803d339f6bd3182e26%2FMemo%20field.png?alt=media" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xaman-send-memo.png" alt="" width="297"><figcaption></figcaption></figure>
 
 The Memo field lets you add extra information to a transaction. For example:
 
