@@ -24,10 +24,10 @@ Tap **Next**.
 
 Enter or select the XRP Ledger address (r-address) you're sending to.
 
-<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-fe85aef25a0f7e7bd6e38ca690cc6f4db1a6356f%2FRecipient%20screen.png?alt=media" alt="" width="375"><figcaption></figcaption></figure>
-
 \
 The address is all you need when sending to a **self-custodial** account, like one in Xaman, where the owner holds the keys.
+
+<figure><img src="../.gitbook/assets/xaman-send-recipient.png" alt="" width="288"><figcaption></figcaption></figure>
 
 Sending to a **custodial** account, like one at a crypto exchange, usually also needs a **destination tag**. Exchanges use one address for many customers, and the destination tag tells them which customer the funds are for. You'll add it on the next screen.
 
