@@ -43,7 +43,7 @@ On the **Summary** screen, check every detail carefully before you send.&#x20;
 * **The recipient's address.** Compare the r-address character by character with the one you were given, not just the first and last few characters. Scammers sometimes create look-alike addresses that differ only in the middle.
 * **The token.** Make sure you're sending the right one. Many tokens have similar names, so check the issuer as well as the name.
 * **The amount.** Check the number, including the position of the decimal point.
-* **The Fees.** Tap the information icon beside it to see a breakdown of the network fee and any service fees that apply.
+* **The fee.** Tap the information icon beside **Network & Service Fee** to see a breakdown of the network fee and any service fees that apply.
 
 <figure><img src="../.gitbook/assets/xaman-send-summary-arrows (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
