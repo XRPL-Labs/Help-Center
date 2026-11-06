@@ -53,9 +53,7 @@ Each item below is a yes or no. If your xApp doesn't meet any one of them, we'll
 * Name every third-party service the xApp uses.
 * **No account-governance transactions.** Your xApp can't ask users to sign SetRegularKey or SignerListSet transactions. There are no exceptions.
 * Show a clear warning before any other high-risk transaction, such as deleting an account (AccountDelete) or anything else that can't be undone.
-*   If your xApp has a backend, it's secure, and you can tell us how and where it's hosted.
-
-
+*   If your xApp has a backend, it's secure, and you can tell us how and where it's hosted.<br>
 
     <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p><strong>Changes to who can sign for an account must always be made by the account owner, never through an xApp.</strong> Transactions that change an account's signing authority are the most common route for phishing and account takeovers. If an xApp asking for them were ever misused or compromised, users could lose their accounts completely, however trustworthy the developer.</p></div>
 
@@ -157,8 +155,6 @@ At any stage, the outcome is one of:
 **Number of rounds.** If your xApp still needs changes after 3 rounds, we'll close your submission.
 
 **Submitting again.** Whether your submission was closed or not approved, you can submit again after 3 months, with 3 new rounds. If your xApp wasn't approved because of its idea or design, your new submission must be substantially different. If it was misleading or malicious, you can't reapply, and this can affect any other xApps you've built.
-
-**Reapplying.** If your xApp wasn't approved because of its idea or design, you can submit a substantially different version after 2 weeks. If it was misleading or malicious, you can't reapply, and this can affect any other xApps you've built.
 
 **Disagree with a decision?** Reply to your Support ticket explaining why. Someone who wasn't involved in the original review will take a second look. Their decision is final.
 
