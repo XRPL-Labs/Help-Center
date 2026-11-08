@@ -4,25 +4,22 @@ description: >-
   cases, the funds are not lost—they just need to be located.
 ---
 
-# Deposit to Exchange Did Not Arrive
+# Deposit to exchange did not arrive
 
 #### What You Need to Send XRP to an Exchange
 
-To deposit XRP into a crypto exchange successfully, you always need two pieces of information:
-
-1. The Exchange’s **Deposit Address**: The exchange’s master wallet address (starts with an `r`).
-2. Your [**Destination Tag**](../learning-more-about-xumm/destination-tags.md): A unique number assigned specifically to your exchange account.
+To deposit XRP into an exchange, you need the exchange’s **deposit address** (starts with an `r`), and, if the exchange gives you one, your **destination tag**: a number that identifies your exchange account.
 
 _(Think of the exchange's r-address as an apartment building, and your destination tag as your specific apartment number.)_
 
 #### Why the Deposit Hasn't Arrived
 
-| **Reason**                    | **What happened**                                                                                         | **What you should do**                                                                      |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Missing Destination Tag**   | The exchange received the XRP, but doesn't know which account to credit.                                  | Contact exchange support with your Transaction ID (TXID) so they can trace the transaction. |
-| **Incorrect Destination Tag** | The exchange received the XRP, but doesn't know which account to credit or credited to the wrong account. | Contact exchange support with your Transaction ID (TXID) so they can trace the transaction. |
-| **Exchange Processing Delay** | The XRP Ledger finished the transaction, but the exchange has a queue or maintenance backlog.             | Check the exchange's system status page. Usually, these clear within a few hours.           |
-| **Account or Security Hold**  | The exchange received the deposit, but has temporarily held it for internal compliance checks.            | Check your email or exchange notification center for any verification requests.             |
+| **Reason**                    | **What happened**                                                                                         | **What you should do**                                                               |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Missing Destination Tag**   | The exchange received the XRP, but doesn't know which account to credit.                                  | Contact exchange support with your Transaction ID so they can trace the transaction. |
+| **Incorrect Destination Tag** | The exchange received the XRP, but doesn't know which account to credit or credited to the wrong account. | Contact exchange support with your Transaction ID so they can trace the transaction. |
+| **Exchange Processing Delay** | The XRP Ledger finished the transaction, but the exchange has a queue or maintenance backlog.             | Check the exchange's system status page. Usually, these clear within a few hours.    |
+| **Account or Security Hold**  | The exchange received the deposit, but has temporarily held it for internal compliance checks.            | Check your email or exchange notification center for any verification requests.      |
 
 #### How to Recover Your Funds
 
@@ -46,10 +43,12 @@ These policies, fees, and processing times are determined solely by the exchange
 
 When opening a ticket with your exchange's support team, have the following details ready:
 
-* Date & Time of the transaction
-* Amount of XRP sent
-* Transaction ID / Hash (TXID): The unique blockchain receipt proving the transfer settled on the XRP Ledger
-* Destination Tag entered: The number you typed in (or state clearly that you left it blank)<br>
+* **Date & Time** of the transaction
+* **Amount** of XRP sent
+* **Transaction ID**: The unique blockchain receipt proving the transfer settled on the XRP Ledger
+* **Destination Tag** entered: The number you typed in (or state clearly that you left it blank)
+
+
 
 3. **How to find this information in Xaman**
 
@@ -60,7 +59,7 @@ When opening a ticket with your exchange's support team, have the following deta
 3. On the transaction details screen, you will see the Date, Amount, and Destination Tag (if one was included).
 4. Locate the Transaction ID and tap and hold it, then tap the "Copy" button to copy it directly to your clipboard.
 
-<figure><img src="../.gitbook/assets/transaction-details-arrows.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/transaction-details-arrows.png" alt="Xaman transaction details screen, with arrows pointing to the date, amount, destination tag and transaction ID." width="375"><figcaption><p>Transaction details screen</p></figcaption></figure>
 
 4. **Need to send a screenshot as proof?**
 
@@ -71,7 +70,7 @@ Many exchanges ask for a visual screenshot of the transaction. For your privacy 
 3. Return to the Events tab, reopen the transaction details, and take your screenshot.
 4. _(Recommended)_ Return to Settings > Security and turn the screenshot block back on when you're done.
 
-### Frequently asked questions
+#### Frequently asked questions
 
 #### Can Xaman reverse the transaction for me?
 
@@ -97,5 +96,9 @@ You can attempt to contact the wallet owner by sending an on-chain message direc
 2. Add a Memo: Tap Add memo before signing. Write a short, polite message explaining the accidental transfer, include your own Xaman r-address, and kindly ask them to return the funds.
 
 {% hint style="warning" %}
-Important: This is simply an on-ledger messaging attempt. There is no guarantee the recipient will check incoming transaction memos, and they are under no technical obligation to return the funds
+Important: This is simply an on-ledger messaging attempt. There is no guarantee the recipient will check incoming transaction memos, and they are under no technical obligation to return the funds.
+{% endhint %}
+
+{% hint style="danger" %}
+**Be careful:** memos are public. Anyone who contacts you offering to recover your funds for a fee is a scammer. Xaman Support will never ask for your account secret.
 {% endhint %}
