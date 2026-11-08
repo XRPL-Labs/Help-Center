@@ -1,7 +1,7 @@
 ---
 description: >-
   Sent XRP to an exchange and don't see it in your account? Don't panic. In most
-  cases, the funds are not lost—they just need to be located.
+  cases, the funds are not lost. They just need to be located.
 ---
 
 # Deposit to exchange did not arrive
@@ -14,12 +14,12 @@ _(Think of the exchange's r-address as an apartment building, and your destinati
 
 #### Why the Deposit Hasn't Arrived
 
-| **Reason**                    | **What happened**                                                                                         | **What you should do**                                                               |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **Missing Destination Tag**   | The exchange received the XRP, but doesn't know which account to credit.                                  | Contact exchange support with your Transaction ID so they can trace the transaction. |
-| **Incorrect Destination Tag** | The exchange received the XRP, but doesn't know which account to credit or credited to the wrong account. | Contact exchange support with your Transaction ID so they can trace the transaction. |
-| **Exchange Processing Delay** | The XRP Ledger finished the transaction, but the exchange has a queue or maintenance backlog.             | Check the exchange's system status page. Usually, these clear within a few hours.    |
-| **Account or Security Hold**  | The exchange received the deposit, but has temporarily held it for internal compliance checks.            | Check your email or exchange notification center for any verification requests.      |
+| **Reason**                    | **What happened**                                                                              | **What you should do**                                                               |
+| ----------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Missing Destination Tag**   | The exchange received the XRP, but doesn't know which account to credit.                       | Contact exchange support with your Transaction ID so they can trace the transaction. |
+| **Incorrect Destination Tag** | The exchange received the XRP, but it credited the XRP to the wrong account.                   | Contact exchange support with your Transaction ID so they can trace the transaction. |
+| **Exchange Processing Delay** | The XRP Ledger finished the transaction, but the exchange has a queue or maintenance backlog.  | Check the exchange's system status page. Usually, these clear within a few hours.    |
+| **Account or Security Hold**  | The exchange received the deposit, but has temporarily held it for internal compliance checks. | Check your email or exchange notification center for any verification requests.      |
 
 #### How to Recover Your Funds
 

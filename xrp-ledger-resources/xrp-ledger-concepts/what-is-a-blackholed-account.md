@@ -53,4 +53,4 @@ _(**Important exception:** Check that the account is actually blackholed before 
 
 * **Transactions are final.** Once a transaction is validated by the consensus mechanism, it cannot be edited, paused, or canceled.
 * **Double-check destinations.** Always verify destination addresses and tags before signing, especially when sending to an exchange or requesting a credit with a destination tag.
-* **Xaman cannot reverse a transaction.** Xaman cannot reverse, freeze or undo a transaction. See [Can Xaman reverse, freeze or undo a transaction?](../../all-about-scams/can-xumm-reverse-freeze-or-undo-a-transaction.md).
+* **Xaman cannot reverse a transaction.** Xaman cannot reverse, freeze or undo a transaction. See [Can Xaman reverse, freeze or undo a transaction?](../../all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction.md).
