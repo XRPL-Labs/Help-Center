@@ -197,7 +197,7 @@
   * [Has Xaman been audited?](security-and-xumm/all-about-security/has-xaman-been-audited.md)
   * [Upgrading your encryption](security-and-xumm/all-about-security/upgrading-your-encryption.md)
   * [Xaman (Tangem) Cards](security-and-xumm/all-about-security/xumm-tangem-cards.md)
-  * [2FA and Xaman](security-and-xumm/all-about-security/2fa-and-xaman.md)
+  * [Does Xaman support Two-Factor Authentication (2FA)?](security-and-xumm/all-about-security/2fa-and-xaman.md)
   * [Account present on another device](security-and-xumm/all-about-security/account-present-on-another-device.md)
   * [Quantum Attacks and Xaman](security-and-xumm/all-about-security/quantum-attacks-and-xumm.md)
 

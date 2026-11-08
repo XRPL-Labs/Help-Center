@@ -1,90 +1,36 @@
 ---
-description: Understanding Two-factor authentication (2FA)
+description: >-
+  No. You cannot use traditional 2FA (such as SMS codes or Google Authenticator)
+  on the XRP Ledger.
 ---
 
-# 2FA and Xaman
+# Does Xaman support Two-Factor Authentication (2FA)?
 
-### **What is 2FA?**
+Traditional 2FA is a strong security method for centralized platforms, such as email services, social media accounts, and crypto exchanges. Xaman is a decentralized, self-custodial wallet, so traditional 2FA does not work with it.
 
-Two-factor authentication (2FA) is a security process in which users provide two different authentication factors to verify themselves. Two-factor authentication provides a higher level of security than single-factor authentication (SFA), in which the user provides only one factor -- typically, a password or passcode.&#x20;
+#### Why does 2FA not work on the XRP Ledger?
 
-### **Are there different types of 2FA?**
+Traditional 2FA relies on a **shared secret**. When a centralized service asks you for a 6-digit code, you and the service each hold a secret that generates and verifies that code.
 
-Some 2FA methods are:
+The XRP Ledger is a public, decentralized network. No central authority, company, or server exists to store the shared secret or verify your login. To add traditional 2FA, the network would need a third-party server to control access. A centralized gatekeeper does not work on a decentralized blockchain. Even 2FA on centralized platforms can fail. For example, if your code arrives by SMS, an attacker who takes over your phone number receives your code.
 
-* OTP (one time passcode) over SMS
-* Out of Band SMS
-* Google Authenticator
-* Mobile Authentication
-* Push Notification
-* Soft Token
-* OTP (one time passcode) over Email
-* Out of band email
-* Display Hardware token
-* Yubikey hardware token
-* Security Questions
-* Phone verification
-* Voice verification
+#### How Xaman keeps your account secure without 2FA
 
-### **The XRP Ledger and 2FA**
+Xaman is a self-custody wallet. Security relies on device-level protection, not on a server. To send funds from Xaman, an attacker must pass these security layers:
 
-2FA relies on a “shared secret”.
+1. **Physical access:** The attacker must steal your phone.
+2. **Device unlock:** The attacker must bypass your phone's biometric security (Face ID or fingerprint) or the phone's PIN.
+3. **App passcode:** The attacker must guess your 6-digit Xaman passcode. A 6-digit code has 1,000,000 possible combinations. Xaman prevents brute-force guessing. After 5 incorrect attempts, Xaman adds a time delay. After the 9th incorrect attempt, Xaman requires a 2-hour wait before the next attempt. At that rate, it takes over 228 years to try every combination.
+4. **Signing password (optional):** If you set a signing password, the attacker must also guess this password to move funds. Xaman allows very long signing passwords. A long, complex password is extremely hard to guess. See [Resetting the (account) signing password](https://help.xaman.app/app/learning-more-about-xaman/resetting-the-account-signing-password).
 
-For example, when Google asks you to enter a 6 digit code to access your account, you and Google have a shared secret that is used to “derive” these codes.
+If you use an Xaman (Tangem) card, the attacker must also have the card itself, because the account secret lives on the card, not on the phone.
 
-The trick is that the secret is never sent, only the codes are. So an attacker can’t get the secret and they can’t generate the code.
+#### For the highest level of security: Xaman (Tangem) cards
 
-This works great on a centralized system like Google but it does not work so well on the XRP Ledger since there is no place to store a “shared secret” on the XRPL. In order to implement 2FA, the XRPL would need to implement a centralized, 3rd party system to "control" access. This does not make sense on a public, decentralized blockchain. (Adding a centralized system on a decentralized blockchain.)
+We recommend a hardware wallet over a software-only setup. We partnered with Tangem to create the **Xaman (Tangem) card**.
 
-You might think that multi-signing accomplishes the same thing as 2FA in that you could require 2 or more signers to submit a transaction, but that only simulates 2FA, and even then, only if you sign with two separate devices that are not in the same location.
+The card is the size of a credit card and fits in your physical wallet. It contains a security chip that offers bank-grade security and has been fully audited. When you tap the card to the back of your phone using NFC (Near Field Communication), the chip generates your account secret and stores it inside the chip. The chip powers itself from the NFC tap, so the card ships with no account secret on it.
 
-### **Xaman uses "4FA"**
+The account secret is generated inside the chip. It is never exposed to your phone, the internet, or you. To sign a transaction, you must physically tap the card to your phone. This tap is a physical second factor.
 
-Consider the following requirements to get access to your XRP Ledger account managed with Xaman:
-
-1\) physical access to your phone
-
-2\) some way to unlock your phone
-
-3\) some way to access Xaman (could be the same as #2, e.g. FaceID / Fingerprint, passcode)
-
-4\) some way to sign transactions on your account (optional extra security using a configured password)
-
-**We can not control the first two options. You are responsible for your phone and keeping it safe. You are also responsible for creating a secure password to unlock your phone.**
-
-However, let's say that someone has acquired your phone and somehow circumvented your password and now has full access to it.
-
-An attacker launches Xaman and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 one passcode per second and about 11 days later they have tried all of the possible combinations... except for one small countermeasure we implemented. We have configured Xaman to only allow 5 attempts before the app starts to **add time** to the next attempt. After the ninth wrong entry, Xaman requires a delay of **2 hours** to input again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all... Or about **228 years**.
-
-However, let's say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes.  In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it.&#x20;
-
-Provided you selected a strong signing password, this could take awhile to guess.
-
-&#x20;
-
-### **Problems with 2FA**
-
-<figure><img src="../../.gitbook/assets/Rubber hose.png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
-
-2FA only works when:
-
-* You have a centralized system (Google, Twitter, Exchanges, name it)
-* You are registered and need to login (via email / user name)
-
-This only makes sense if the access password is on a separate device, ie. NOT on your smartphone. If your receive your 2FA password via SMS on your phone, 2FA won't help. The main weakness here is the dependency on the service provider. Even without access to your phone, if your 2FA password is delivered via SMS, all someone needs to do is get access to your phone number. This is easier than you might think. Xaman does not have any of these issues.
-
-&#x20;
-
-### **Ok, what do you recommend I do then?**
-
-XRP Ledger accounts created using Xaman are already incredibly safe but we certainly understand the desire maximize the security of your account. That is why we partnered with Tangem to create a hardware wallet to our specifications: the Xumm (Tangem) card.
-
-<figure><img src="../../.gitbook/assets/Xumm Tangem card -3.png" alt=""><figcaption></figcaption></figure>
-
-Unlike other hardware wallets, a Xumm (Tangem) card is light, fits easily into a physical wallet or purse and interfaces with Xaman to make it convenient and easy to use. The card contains a security chip and uses NFC ([near field communication](https://nl.wikipedia.org/wiki/Near-field\_communication)) to interact with your mobile device. The chip **generates** an account secret for an XRPL / Xahau account, while being powered using NFC (by your iOS/Android device). This means the cards are shipped without an account secret on them, and can only be generated on the card, by the owner of the card. The chip used in Xumm (Tangem) cards offers bank grade security and have been fully audited.
-
-If you are interested in learning more about the cards, check out this article:
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xumm (Tangem) cards</td><td></td><td></td><td><a href="../../xumm-tangem-cards/xumm-tangem-cards.md">xumm-tangem-cards.md</a></td><td><a href="../../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
+**Learn more:** [All about Xaman (Tangem) cards](https://help.xaman.app/app/xaman-tangem-cards/xumm-tangem-cards)
