@@ -96,7 +96,7 @@
 * [How to take a screenshot](learning-more-about-xumm/how-to-take-a-screenshot.md)
 * [Can I view/export my account secret?](learning-more-about-xaman/can-i-view-export-my-account-secret.md)
 * [Moving your XRPL account to another wallet](learning-more-about-xumm/moving-your-xrpl-account-to-another-wallet.md)
-* [Deposit to Exchange Didn’t Arrive](learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md)
+* [Deposit to Exchange Did Not Arrive](learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md)
 * [How to create a Trust Line](learning-more-about-xaman/how-to-create-a-trust-line.md)
 * [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
 * [How to test your Account Secret](learning-more-about-xaman/how-to-test-your-account-secret.md)
