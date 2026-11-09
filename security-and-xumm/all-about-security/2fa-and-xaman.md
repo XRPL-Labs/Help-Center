@@ -25,6 +25,17 @@ Xaman is a self-custody wallet. Security relies on device-level protection, not 
 
 If you use an Xaman (Tangem) card, the attacker must also have the card itself, because the account secret lives on the card, not on the phone.
 
+#### What you must do: protect your account secret
+
+The security layers above protect the account secret stored on your phone. They cannot protect you if you give your account secret to someone else. Anyone who has your account secret can send the full balance of your account. They can do this from anywhere in the world, at any time, with no phone, no passcode, and no Xaman app.
+
+The most important security step is yours:
+
+* **Never share your account secret with anyone**, including Xaman support. Xaman support will never ask for your account secret. If someone asks for it, they are a scammer.
+* **Never type your account secret into a website, form, email, or chat.**
+* **Keep your paper backup safe.** Write the secret numbers, family seed, or mnemonic on paper and store it in a safe place. Do not store the account secret online or in a photo.
+* **Treat recovery offers as scams.** If someone contacts you and promises to recover lost funds, the next step is always a request for your account secret. Do not reply. See [I've been scammed!](https://help.xaman.app/app/all-about-scams/ive-been-scammed).
+
 #### For the highest level of security: Xaman (Tangem) cards
 
 We recommend a hardware wallet over a software-only setup. We partnered with Tangem to create the **Xaman (Tangem) card**.
