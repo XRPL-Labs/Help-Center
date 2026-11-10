@@ -99,7 +99,7 @@
 * [Deposit to exchange did not arrive](learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md)
 * [How to create a Trust Line](learning-more-about-xaman/how-to-create-a-trust-line.md)
 * [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
-* [How to test your Account Secret](learning-more-about-xaman/how-to-test-your-account-secret.md)
+* [How to Test or Veriy your Account Secret](learning-more-about-xaman/how-to-test-your-account-secret.md)
 * [How to access Testnet on XRP Ledger](learning-more-about-xaman/how-to-access-testnet-on-xrp-ledger.md)
 * [All about Checks](learning-more-about-xaman/all-about-checks.md)
 * [How to Rekey an XRP Ledger (XRPL) Account](learning-more-about-xaman/how-to-rekey-your-account.md)
