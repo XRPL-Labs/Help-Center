@@ -33,9 +33,11 @@ Xaman will keep supporting older cards, including their passcodes, in all future
 
 #### Why we removed the PIN feature
 
-A passcode adds a layer of protection if someone steals your card. But there is no way to reset or recover a forgotten passcode. When customers forgot their passcode, some of them lost access to their funds for good.
+On earlier Xumm cards, users had the option to set a custom PIN directly on the card's secure chip. The intent was to protect against physical theft, but in practice, it introduced an irreversible point of failure.
 
-We decided that risk was too high, so new cards do not support passcodes. Instead, the best protection for your cards is a [Backup card](https://help.xaman.app/app/xaman-tangem-cards/getting-started) and keeping your cards physically safe.
+When customers received their cards, our setup guide strongly advised activating a secondary backup card, but many people skipped this step. SInce on-card PINs are stored strictly within the hardware's secure element, there is no 'forgot password' flow, no backdoor, and no way for anyone to recover it. When a PIN was forgotten without a backup card in place, users permanently lost access to their funds.
+
+Strong security shouldn't rely on ideal human behavior when the penalty is total loss of access. We disabled the PIN feature on newer cards to eliminate this risk. The safest, most forgiving security model remains keeping your primary card physically secure and maintaining a secondary [Backup card](https://help.xaman.app/app/xaman-tangem-cards/getting-started) in a separate location.
 
 #### If you already set a passcode
 
@@ -62,9 +64,9 @@ If you decide to keep your passcode:
 
 There is no reset and no "back door," and Xaman Support cannot recover a passcode for you. What you can do depends on which card has the passcode:
 
-* **If the passcode is on your Backup card**, your funds are safe. Use your Primary card to remove the link to the Backup card, then link a new Backup card.
-* **If the passcode is on your Primary card**, use your Backup card to move your funds to another account.
-* **If the card has no Backup card**, there is unfortunately no way to access the funds on that account.
+* **If you configured a passcode on your Backup card**, your funds are safe. Use your Primary card to remove the link to the Backup card, then link a new Backup card.
+* **If you configured a passcode on your Primary card**, use your Backup card to move your funds to another account.
+* **If you did not configure a Backup card for your Primary card**, there is unfortunately no way to access the funds on that account.
 
 See [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards) for step-by-step help. A card with a forgotten passcode works the same way as a lost card.
 
