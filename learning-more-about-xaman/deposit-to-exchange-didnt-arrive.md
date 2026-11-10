@@ -102,3 +102,7 @@ Important: This is simply an on-ledger messaging attempt. There is no guarantee 
 {% hint style="danger" %}
 **Be careful:** memos are public. Anyone who contacts you offering to recover your funds for a fee is a scammer. Xaman Support will never ask for your account secret.
 {% endhint %}
+
+#### Further reading
+
+* [Sending XRP and tokens from Xaman](../getting-started-with-xaman/sending-tokens-from-xaman.md)
