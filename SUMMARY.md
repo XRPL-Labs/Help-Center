@@ -188,7 +188,6 @@
   * [Xaman App early access](xaman-pro/features-of-pro/xumm-app-early-access.md)
   * [Premium Support](xaman-pro/features-of-pro/premium-support.md)
   * [Vanity addresses](xaman-pro/features-of-pro/vanity-addresses.md)
-* [How to get the Midnight Glacier Airdrop](xaman-pro/how-to-get-the-midnight-glacier-airdrop.md)
 
 ## Security and Xaman
 
