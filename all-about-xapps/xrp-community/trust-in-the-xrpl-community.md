@@ -33,8 +33,8 @@ When handling digital assets, you shouldn't have to rely on blind faith. We desi
 
 It definitely is. Keeping your XRPL/Xaman accounts safe is what we do. We actually have an article dedicated to this topic:
 
-{% content-ref url="../../security-and-xumm/all-about-security/how-secure-is-xumm.md" %}
-[how-secure-is-xumm.md](../../security-and-xumm/all-about-security/how-secure-is-xumm.md)
+{% content-ref url="../../security-and-xaman/all-about-security/how-secure-is-xaman.md" %}
+[how-secure-is-xaman.md](../../security-and-xaman/all-about-security/how-secure-is-xaman.md)
 {% endcontent-ref %}
 
 ### What is an xApp?

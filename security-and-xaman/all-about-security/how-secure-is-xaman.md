@@ -12,7 +12,7 @@ coverY: 0
 
 It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best". When it comes to protecting your assets, for many people, only the best will do so it only makes sense to get the best when it comes to protecting your funds, right...?
 
-The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or watching a Youtube video then thinking you have enough information to make a comprehensive comparison between wallets is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion of Xaman's (formerly Xumm) security. It is merely a glimpse...
+The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or watching a Youtube video then thinking you have enough information to make a comprehensive comparison between wallets is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion of Xaman's security. It is merely a glimpse...
 
 ## **It is a crazy time in the crypto world, how secure is Xaman?**
 
@@ -167,4 +167,4 @@ Finally, Xaman will run regardless if XRPL Labs exists or not. Xaman does not ne
 * **Keep your phone safe (physically), up to date and free of spyware and malware**
 * **While security is our number one priority, Xaman can be made safer if you avoid risky interactions with the internet (eg. - public wifi, shady websites, etc.), install a good firewall and use a VPN when possible.**
 * **Never give your account secret (Secret Numbers/Family Seed/Mnemonic) to anyone, for any reason**
-* **Xumm (Tangem) cards are the best solution for long term storage, large account balances and maximum security**
+* **Xaman (Tangem) cards are the best solution for long term storage, large account balances and maximum security**

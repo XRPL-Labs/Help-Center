@@ -61,7 +61,7 @@ Once your funds have been moved to a safe location, you need to consider if/how 
 
 It is highly recommended that your take the necessary steps to make sure your mobile device is secure before you continue. Having a secure phone is vital before moving funds back into self-custody. For more information about this, check out this article:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xaman?</td><td></td><td></td><td><a href="how-secure-is-xumm.md">how-secure-is-xumm.md</a></td><td><a href="../../.gitbook/assets/Tokens and coins -2.png">Tokens and coins -2.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How secure is Xaman?</td><td></td><td></td><td><a href="../../security-and-xaman/all-about-security/how-secure-is-xaman.md">how-secure-is-xaman.md</a></td><td><a href="../../.gitbook/assets/Tokens and coins -2.png">Tokens and coins -2.png</a></td></tr></tbody></table>
 
 If you can not figure out how your account might have been compromised, it is a good idea to create a new XRP Ledger account then transfer your assets to your new account. This way, you will get a new set of secret numbers and you can ensure no one else has access to them.
 
