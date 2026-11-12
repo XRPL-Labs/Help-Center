@@ -95,6 +95,7 @@
 * [Accessing your XRP Ledger account](learning-more-about-xaman/how-can-you-access-your-xrpl-account.md)
 * [How to take a screenshot](learning-more-about-xumm/how-to-take-a-screenshot.md)
 * [How issued tokens work on the XRP Ledger](learning-more-about-xaman/how-issued-tokens-work-on-the-xrp-ledger.md)
+* [How Multi-Purpose Tokens (MPTs) work on the XRP Ledger](learning-more-about-xaman/how-multi-purpose-tokens-mpts-work-on-the-xrp-ledger.md)
 * [Can I view/export my account secret?](learning-more-about-xaman/can-i-view-export-my-account-secret.md)
 * [Moving your XRPL account to another wallet](learning-more-about-xumm/moving-your-xrpl-account-to-another-wallet.md)
 * [Deposit to exchange did not arrive](learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md)
