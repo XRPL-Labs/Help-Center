@@ -1,103 +1,86 @@
 ---
 description: All about NFTs
-cover: ../../.gitbook/assets/Rock with NFT carved in it.png
-coverY: 82
 ---
 
-# NFTs
+# How Non-Fungible Tokens (NFTs) work on the XRP Ledger
 
-### **What is an NFT exactly?**
+## What is an NFT on the XRP Ledger?
 
-Technically an NFT (non-fungible token) is an object on the XRP Ledger that can be uniquely identified, but in practice, an NFT can be used to **represent** almost anything imaginable.
+While XRP is the single native asset of the XRP Ledger, every other asset on the network is an issued token. These issued tokens fall into three standards:&#x20;
 
-For example, an NFT can be a concert ticket, a picture, a song, proof of ownership, a license or a lease.&#x20;
+* trust line tokens (version 1)
+* MPTs (version 2)
+* NFTs
 
-In simple terms, an NFT is a unique identifier **on** the XRPL that points to an item **off** the XRPL.
+This article covers what NFTs are and how to interact with them in your wallet.&#x20;
+
+## How NFTs are identified
+
+Technically, an NFT (non-fungible token) is an object on the XRP Ledger that can be uniquely identified. In practice, an NFT can be used to represent almost anything imaginable.
+
+For example, an NFT can be a concert ticket, a digital picture, a song, proof of ownership, a license, or a lease. Put simply, an NFT is a unique digital identifier on the XRPL that points to a specific item.
 
 For more information, this link provides an excellent conceptual view of NFTs:
 
-* **XRPL Foundation:** [**An overview of NFTs on the XRP Ledger**](https://xrpl.org/non-fungible-tokens.html)
+* [An overview of NFTs on the XRP Ledger](https://xrpl.org/docs/concepts/tokens/nfts)
 
-### **Viewing NFTs in Xumm**
+## Viewing NFTs in Xaman
 
-There are a couple of options for viewing NFTs in Xumm.
+There are a couple of options for viewing NFTs in Xaman.
 
-1\) From the main screen, press the **Tokens** button,
+1. From the main screen, press NFT button. You should see a list of all your NFTs.
+2. If you would like to view an NFT in a larger format or read more information about it, tap on the NFT. It should display a screen with the NFT's details.
 
-<figure><img src="../../.gitbook/assets/v24 - Tokens page -1.png" alt=""><figcaption></figcaption></figure>
+While the XRP Ledger has an official NFT standard (XLS-20), projects sometimes use different formats for the metadata attached to their tokens. This means that not all NFTs will display perfectly in every viewer. You can try opening your NFT using one of the third-party NFT viewer xApps in the list.
 
-then select **NFT**,
+When viewing an NFT, you will notice three additional options:
 
-<figure><img src="../../.gitbook/assets/v24 - Tokens page -3.png" alt=""><figcaption></figcaption></figure>
-
-You should see a list of all of your NFT's.&#x20;
-
-2\) If you would like to view one of the NFT's in a larger format or view more information about a particular NFT, select it,  and it should display a screen similar to this:
-
-<figure><img src="../../.gitbook/assets/v24 - Tokens page -4.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-While the XRP Ledger has an NFT standard (XLS-20), the **metadata** standards for NFTs are still being developed. This means that not all NFTs may be displayed in all NFT viewers since they may have been minted using different metadata information.
-{% endhint %}
-
-Until the XRPL community can agree on a set of metadata standards for NFTs, Xumm will rely on NFT minters to publish their own standards.
-
-You can try opening your NFT using one of the NFT viewer xApps in the list. In this case, we used Peerkat NFT viewer to view this one.
-
-<figure><img src="../../.gitbook/assets/v24 - Tokens page -5.png" alt=""><figcaption></figcaption></figure>
-
-You'll notice that you have three additional options:
-
-| Option                                         | Explanation                                                                                                       |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| ![](<../../.gitbook/assets/image (8) (3).png>) | Displays any offers you have made or received for this NFT                                                        |
-| ![](<../../.gitbook/assets/image (2) (6).png>) | Copies a link to your NFT.                                                                                        |
-| ![](<../../.gitbook/assets/image (9).png>)     | Open a blockchain explore where you can view additional details about your NFT including the history of your NFT. |
+* Offers: Displays any offers you have made or received for this NFT.
+* Share: Copies a link to your NFT.
+* Explore: Opens a blockchain explorer where you can view additional details and the history of your NFT.
 
 
 
-### Frequently Asked questions
+## Viewing offers on your NFTs in Xaman
 
-#### **Can I mint an NFT in Xumm?**
+1. From the main screen, press the Events button, then the Requests tab.<br>
 
-No. Xumm does not have a way to **compose** an NFT minting transaction, but it will allow you to **sign** a minting transaction created by a third party. We feel that issuing an NFT should (and probably will) involve different steps and a different workflow based on **what the NFT will represent**, thus issuing NFTs is best left to people with the specific knowledge of their project. The good news is that there are already many 3rd party projects working in the NFT minting space, so we should see more new and exciting xApps arrive for all kinds of different NFTs!
+You should see a list of the offers on your NFTs.
 
-#### **Can I sell an NFT in Xumm?**
+## Viewing offers you have made on other NFTs in Xaman
 
-No. In order to sell an NFT you will have to go through an NFT marketplace. Xumm will allow you to **sign** a sell transaction crafted by an NFT marketplace but it will not allow you to sell an NFT directly. Just like minting a transaction, the sell transaction will have to be composed by those projects in the NFT space. If those projects allow you to provide the required info, persist the info, craft an identifier pointing towards that info, then compose a transaction to sell the NFT, Xumm will allow you to review and sign that transaction.
+1. From the main screen, press the Events button, then the Planned tab.<br>
 
-This link provides an great conceptual view of NFT transfers:
+You should see a list of the offers you have made for other people's NFTs.
 
-* **XRPL Foundation:** [**Trading NFTs on the XRPL**](https://xrpl.org/non-fungible-token-transfers.html)
+## Frequently Asked Questions
 
-#### **Can I transfer an NFT from another network to Xumm?**
+#### Can I mint an NFT in Xaman?&#x20;
 
-No. An NFT is an asset like any other from the perspective of the XRP Ledger Protocol (the rules all XRPL wallets must follow). Xumm only transacts in XRPL assets.
+No. Xaman does not have a native way to compose an NFT minting transaction. It will, however, allow you to sign a minting transaction created by an external platform. We believe that issuing an NFT involves specific steps and workflows based on what the token represents. Issuing NFTs is best left to creators and projects with specific knowledge of their goals. The good news is that there are many platforms working in the NFT space, offering exciting xApps for all kinds of digital assets.
 
-An NFT created on another blockchain cannot be sent to the XRP Ledger. (Similarly, an NFT that was created on the XRPL can not be sent to another blockchain.)
+#### Can I sell an NFT in Xaman?&#x20;
 
-It is possible that an NFT minter or NFT market place will offer an exchange service allowing NFTs to be shared between various networks but that will be a feature that they offer and will not be related to Xumm.
+No. You will have to go through an NFT marketplace to list and sell a token. Xaman allows you to sign a sell transaction crafted by an external marketplace, but you cannot sell an NFT directly within the wallet interface. If a marketplace project allows you to provide the required info and composes a transaction to sell the NFT, Xaman will allow you to review and sign that transaction.
 
-#### **I own an NFT that was created before XLS-20 was adopted. What should I do?**
+This link provides a great conceptual view of NFT transfers:
 
-Prior to the adoption of the XLS-20 amendment, several projects created "NFTs" using various proprietary methods. Those companies decided to implement their own standards, so it is unclear if their 'NFT's' will be compatible with the new standard.
+* [**Trading NFTs on the XRPL**](https://xrpl.org/non-fungible-token-transfers.html)
 
-Since we have no way of knowing how their 'NFTs' were created, which specifications they adhered to or if they cut any corners in their minting process, we recommend that you contact the people who minted your NFT and see if they have a plan to ensure compatibility with the XLS-20 standard. It will be up to the NFT minter to provide support for their products.
+#### Can I transfer an NFT from another network to Xaman?&#x20;
 
+No. From the perspective of the XRP Ledger Protocol, an NFT is an asset like any other, and Xaman only transacts in XRPL assets. An NFT created on a different blockchain cannot be sent directly to the XRP Ledger. Similarly, an NFT created on the XRPL cannot be sent to another blockchain. An NFT marketplace or exchange service might offer bridging services to move tokens between networks, but those features are unrelated to Xaman.
 
+#### I own an NFT that was created before XLS-20 was adopted. What should I do?&#x20;
 
-**Do I need to configure a Trust Line for an NFTs?**
+Prior to the adoption of the XLS-20 amendment, several projects created digital tokens using various proprietary methods. Those companies decided to implement their own standards, making it unclear if their legacy tokens are compatible with the current standard. We have no way of knowing how these older tokens were created or which specifications they followed. We recommend contacting the people who minted your token to see if they have a plan to ensure compatibility with the XLS-20 standard. It is entirely up to the minter to provide support for their products.
 
-No.
+#### Do I need to configure a Trust Line for an NFT?&#x20;
 
-Native NFTs on the XRPL do not require Trust Lines.
+No. Native NFTs on the XRPL do not require Trust Lines. Some of the older, proprietary tokens did use Trust Lines. If you have a legacy token that requires a Trust Line, reach out to the company that created it to see if they offer assistance on how to proceed.
 
-Some of the older, proprietary "NFTs" used Trust Lines though. If you have an "NFT" that requires a Trust Line, reach out to the company that created the NFT and see if they offer assistance on how to proceed.
+### See Also
 
-&#x20;
-
-#### **Is there a video which might help me understand NFTs a little better?**
-
-There is actually! Here is our founder, Wietse Wind talking a bit about NFT's.
-
-* [**How do NFTs work on the XRPL?**](https://www.youtube.com/watch?v=vpmXgguMP8Q)
+* How issued tokens work on the XRP Ledger
+* How Multi-Purpose Tokens (MPTs) work on the XRP Ledger
+* Token vetting and the token warning

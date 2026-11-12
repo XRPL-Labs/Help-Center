@@ -87,7 +87,7 @@
 * [How to delete an XRPL account](learning-more-about-xaman/how-to-delete-an-xrpl-account.md)
 * [What is the Third Party Apps section?](learning-more-about-xaman/what-is-the-third-party-apps-section.md)
 * [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
-* [NFTs](learning-more-about-xumm/nfts/README.md)
+* [How Non-Fungible Tokens (NFTs) work on the XRP Ledger](learning-more-about-xumm/nfts/README.md)
   * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
 * [Does Xaman offer Staking?](learning-more-about-xumm/does-xumm-offer-staking.md)
 * [General Terms and definitions](learning-more-about-xaman/some-terms-and-definitions-related-to-xumm-and-the-xrpl.md)
