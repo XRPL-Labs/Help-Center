@@ -117,7 +117,6 @@
 ## Configuring Xaman
 
 * [Understanding the Settings Options](configuring-xaman/understanding-the-settings-options/README.md)
-  * [How to take a screenshot](configuring-xaman/understanding-the-settings-options/how-to-take-a-screenshot.md)
   * [Events screen](configuring-xaman/understanding-the-settings-options/events-screen.md)
   * [Security screen](configuring-xaman/understanding-the-settings-options/security-screen.md)
   * [How to post a Session Log](configuring-xaman/understanding-the-settings-options/how-to-post-a-session-log.md)
