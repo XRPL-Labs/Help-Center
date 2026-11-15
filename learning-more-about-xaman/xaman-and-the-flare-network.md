@@ -42,7 +42,7 @@ No. FLR exists only on the Flare network, and the XRP Ledger is a separate netwo
 
 **Why can I add a trust line to "Flare Spark"?**
 
-GateHub issued tokens for Songbird and Flare on the XRP Ledger. A trust line to either one holds a token issued on the XRP Ledger, not FLR on the Flare network. See [_GateHub's issued tokens_](gatehubs-issued-tokens.md).
+GateHub issued tokens for Songbird and Flare on the XRP Ledger. A trust line to either one holds a token issued on the XRP Ledger, not FLR on the Flare network. See [_GateHub's issued tokens_](../learning-more-about-xumm/gatehubs-issued-tokens.md).
 
 **Can you recommend a Flare wallet?**
 
@@ -56,4 +56,4 @@ Use Flare's contact page at: [https://flare.network/resources/technical-support]
 
 * [The Flare XRPFi Yield xApp](../getting-started-with-xaman/using-the-flare-xapp/the-flare-xrpfi-yield-xapp.md)
 * [Frequently asked questions about the Flare xApp](../getting-started-with-xaman/using-the-flare-xapp/frequently-asked-questions-about-the-flare-xapp.md)
-* [GateHub's issued tokens](gatehubs-issued-tokens.md)
+* [GateHub's issued tokens](../learning-more-about-xumm/gatehubs-issued-tokens.md)
