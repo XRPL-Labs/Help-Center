@@ -50,7 +50,7 @@
   * [Fees in the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/fees-in-the-flare-xapp.md)
   * [Depositing XRP with the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/depositing-xrp-with-the-flare-xapp.md)
   * [Break-even time in the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/break-even-time-in-the-flare-xapp.md)
-  * [Frequently Asked Questions](getting-started-with-xaman/using-the-flare-xapp/page-1.md)
+  * [Frequently asked questions about the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/frequently-asked-questions-about-the-flare-xapp.md)
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xumm.md)
 * [Sending XRP and tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xaman.md)
 * [Sending XRP to Xaman](getting-started-with-xaman/sending-xrp-to-xaman.md)

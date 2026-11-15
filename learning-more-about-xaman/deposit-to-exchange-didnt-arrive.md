@@ -82,6 +82,36 @@ Not necessarily. If you sent the transfer to the correct deposit address, the ex
 
 Contact your exchange's customer support team directly and explain what happened (that the transfer was sent without the tag). They will explain their specific policies, outline your available options, and let you know if there are any verification requirements or recovery fees.
 
+#### What if I my exchange does not credit my account?
+
+That depends on what happened.
+
+**The Wrong Tag Belonged to Another Active Customer**
+
+If the number you accidentally typed happens to match another user's valid destination tag, the exchange's automated system will have already credited the XRP to that person's account.
+
+* What to expect: Crypto exchanges generally cannot unilaterally claw back funds once credited to another customer's balance. If that user has already traded or withdrawn the XRP, most exchanges explicitly state in their terms of service that they cannot assist if a mistyped tag routes funds to another user.
+* What you can do: Ask support if they are willing to contact the recipient on your behalf to request a voluntary return (while preserving user privacy). Some regulated exchanges will reach out to the other customer if the funds haven't been moved, though the recipient is rarely legally forced to return them through support alone.
+
+**The Exchange Charges a Manual Recovery Fee (or Has a Minimum Threshold)**
+
+Sometimes an exchange won't credit your account _automatically_, or rejects a standard support ticket, because manual retrieval requires an customer service agent to trace the transaction and reconcile it by hand.
+
+* What to expect: Many major platforms enforce a recovery fee (for example, a flat administrative fee or up to 5% of the deposit) and require the deposit to exceed a minimum threshold after fees. Rather than crediting your exchange balance, several platforms will only return the XRP to the original sending address.
+* What you can do: Check whether the exchange has a dedicated Self-Service Deposit Recovery portal rather than general live chat. If you sent the XRP from _another_ exchange or custodial app (meaning the sending address isn't a personal wallet you control), ask support to hold the return until you coordinate a deposit recovery ticket with the sending platform as well.
+
+**Standard Support Escalation & Formal Complaints**
+
+Exchanges frequently give a scripted "blockchain transactions are irreversible" denial without realizing that a completed transaction on the XRP Ledger means the exchange itself still holds custody of your funds.
+
+1. Re-open and escalate the ticket to a senior Tier-2 or Wallet Operations specialist. Clearly state that the transaction complete and that they are in possession of your funds.
+2. Provide the XRPL Transaction Hash (TxID), the exact timestamp and amount and a screenshot from Xaman showing the transaction.&#x20;
+3. Sometimes senior specialist can get your funds deposited to your account.
+
+**File a formal complaint or regulatory escalation**
+
+If the exchange is licensed in your jurisdiction (such as under MiCA in the EU, the FCA in the UK, or state money-transmitter/BitLicense regulators in the US) and refuses to return unallocated funds sitting in its own wallet despite proof of ownership, submit a formal complaint through their official complaints procedure, then escalate to the relevant financial ombudsman or regulator.
+
 #### What if I sent the XRP to the wrong address (not just the wrong tag)?
 
 An exchange only controls its own XRP Ledger addresses. If you sent the transfer to an incorrect r-address that does not belong to the exchange, their support team will not be able to help you access your funds.
