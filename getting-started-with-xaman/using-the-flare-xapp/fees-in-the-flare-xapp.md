@@ -4,7 +4,7 @@ description: The fees you pay to deposit, hold, and withdraw XRP with the Flare 
 
 # Fees in the Flare xApp
 
-## Background
+### Background
 
 The **Flare XRPFi Yield** xApp moves XRP from your XRP Ledger (XRPL) account to the Flare network, where it earns yield in a vault.&#x20;
 
@@ -12,7 +12,7 @@ Three parties charge fees along the way: Xaman, Flare, and Upshift. Flare runs t
 
 You pay every fee in XRP from your account. You do not need FLR, the Flare network's coin.&#x20;
 
-## Fees by stage
+### Fees by stage
 
 Each fee, who charges it, and when it applies:
 
@@ -26,7 +26,7 @@ Each fee, who charges it, and when it applies:
 | Instruction fees | Flare      | Each withdrawal                   | A fixed fee for each of the two withdrawal steps.                                                 |
 | Redemption fee   | Flare      | Each withdrawal                   | A percentage, taken from the XRP paid back to you.                                                |
 
-## Fees when you deposit
+### Fees when you deposit
 
 A deposit takes two signatures, and each signature creates payments from your account.&#x20;
 
@@ -37,17 +37,17 @@ The fees fall into the two signatures like this:
 
 Flare then converts your XRP into FXRP, a token on Flare that represents XRP one-to-one, and places it in the vault.
 
-## Fees while your funds are in the vault
+### Fees while your funds are in the vault
 
 Upshift's management and performance fees do not appear as payments from your account. Upshift takes them inside the vault, so they reduce the value of your earnXRP. (The token that represents your share of the vault.)
 
-## Fees when you withdraw
+### Fees when you withdraw
 
 A withdrawal has two steps, and Flare charges an instruction fee for each step. Flare's redemption fee is taken from the XRP paid back to you. Xaman does not charge a service fee on withdrawals.
 
 
 
-## Frequently asked questions
+### Frequently asked questions
 
 **Why do I see several payments for one deposit?**
 
@@ -68,8 +68,6 @@ Flare assigns an FXRP agent to pay out each withdrawal. That agent can be differ
 
 
 ***
-
-### **Important Disclaimer**
 
 ### **Important Disclaimer**
 
