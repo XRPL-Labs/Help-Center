@@ -45,6 +45,24 @@ This signature sends your XRP to Flare, with Flare's minting fee included in the
 
 The xApp shows **Updating balance** while Flare creates your FXRP and places it in the vault. No further signatures are needed. When it finishes, your vault balance appears on the xApp's main screen in earnXRP, the token that represents your share of the vault.
 
+### Example: depositing 10 XRP
+
+This example shows what you see on each signing screen when you deposit 10 XRP, as of November 2026. Your amounts depend on the size of your deposit and the current fees.
+
+On the first signing screen, the **Amount** is about 0.952 XRP. It is made up of:
+
+* Flare's operator fee of 0.95 XRP.
+* Flare's collateral reservation fee of about 0.002 XRP (about 0.02% of the deposit).
+
+On the second signing screen, the **Amount** is 10.01 XRP. It is made up of:
+
+* The 10 XRP you are depositing.
+* Flare's minting fee of 0.01 XRP (0.1% of the deposit).
+
+The **Network & Service Fee** on the second screen shows about 0.05 XRP. This is Xaman's service fee of 0.05005 XRP (0.5% of 10.01 XRP), plus the network fee.
+
+In total, about 11.01 XRP leaves your account for a 10 XRP deposit. About 1.01 XRP of that is fees, mostly Flare's fixed operator fee. On larger deposits, the fixed fee is a much smaller share of the total.
+
 ### What happens next
 
 Your funds earn yield in the vault, and the value of your earnXRP grows over time. The xApp shows your earnXRP balance and its current value in FXRP.
