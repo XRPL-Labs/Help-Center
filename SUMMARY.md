@@ -47,7 +47,7 @@
   * [Xaman On/Off Ramp](getting-started-with-xaman/buying-xrp/xaman-on-off-ramp.md)
 * [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/README.md)
   * [Overview](getting-started-with-xaman/using-the-flare-xapp/overview.md)
-  * [Fees](getting-started-with-xaman/using-the-flare-xapp/fees.md)
+  * [Fees in the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/fees-in-the-flare-xapp.md)
   * [How to Deposit XRP using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/how-to-deposit-xrp-using-the-flare-xapp.md)
   * [The "BreakEven" Calculation](getting-started-with-xaman/using-the-flare-xapp/the-breakeven-calculation.md)
   * [Frequently Asked Questions](getting-started-with-xaman/using-the-flare-xapp/page-1.md)
