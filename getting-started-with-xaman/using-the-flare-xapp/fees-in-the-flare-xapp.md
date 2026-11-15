@@ -6,56 +6,93 @@ description: The fees you pay to deposit, hold, and withdraw XRP with the Flare 
 
 ### Background
 
-The **Flare XRPFi Yield** xApp moves XRP from your XRP Ledger (XRPL) account to the Flare network, where it earns yield in a vault.&#x20;
+The **Flare XRPFi Yield** xApp lets you earn yield on XRP from your XRP Ledger (XRPL) account. It moves your XRP to the Flare network, converts it to FXRP, and places it in a vault run by Upshift.
 
-Three parties charge fees along the way: Xaman, Flare, and Upshift. Flare runs the bridge between the two networks, and Upshift runs the vault. Neither company is part of Xaman, and each sets its own fees.
+Three parties charge fees along the way. Flare runs the bridge between the two networks, Upshift runs the vault, and Xaman provides the app you sign with. Flare and Upshift are not part of Xaman, and each sets its own fees.
 
-You pay every fee in XRP from your account. You do not need FLR, the Flare network's coin.&#x20;
+You pay every fee in XRP from your XRPL account. You do not need FLR, the Flare network's coin, and you do not need a second wallet.
 
-### Fees by stage
+### How the fees work
 
-Each fee, who charges it, and when it applies:
+The fees fall into three groups, depending on when they apply:
 
-| Fee              | Charged by | When                              | How it is charged                                                                                 |
-| ---------------- | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Service fee      | Xaman      | Each deposit                      | A percentage of the XRP you send to Flare, including the minting fee. Paid as a separate payment. |
-| Instruction fee  | Flare      | Each deposit                      | A fixed fee, plus a small percentage for collateral reservation.                                  |
-| Minting fee      | Flare      | Each deposit                      | A percentage of the XRP converted, added to the XRP you send.                                     |
-| Management fee   | Upshift    | While your funds are in the vault | A yearly percentage, taken inside the vault.                                                      |
-| Performance fee  | Upshift    | While your funds are in the vault | A share of the yield the vault earns.                                                             |
-| Instruction fees | Flare      | Each withdrawal                   | A fixed fee for each of the two withdrawal steps.                                                 |
-| Redemption fee   | Flare      | Each withdrawal                   | A percentage, taken from the XRP paid back to you.                                                |
+* Fees you pay when you sign a transaction. These come out of your XRPL account as payments.
+* Fees taken inside the vault while your funds earn yield. These never appear as payments from your account.
+* A fee taken from the XRP that comes back to you when you withdraw.
+
+The table lists each fee as of November 2026, who charges it, and when it applies.
+
+| Fee              | Charged by | When                              | Amount                                                                                                |
+| ---------------- | ---------- | --------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Instruction fee  | Flare      | Each deposit                      | 0.95 XRP, plus about 0.02% of the deposit for collateral reservation. Paid with your first signature. |
+| Minting fee      | Flare      | Each deposit                      | 0.1% of the deposit, added to the XRP you send                                                        |
+| Service fee      | Xaman      | Each deposit                      | 0.5% of the XRP you send to Flare, including the minting fee. Paid as a separate payment.             |
+| Management fee   | Upshift    | While your funds are in the vault | 0.75% a year, taken inside the vault                                                                  |
+| Performance fee  | Upshift    | While your funds are in the vault | 10% of the yield the vault earns                                                                      |
+| Instruction fees | Flare      | Each withdrawal                   | 0.50 XRP to request the withdrawal, and 0.95 XRP to withdraw to the XRP Ledger                        |
+| Redemption fee   | Flare      | Each withdrawal                   | 0.2%, taken from the XRP paid back to you                                                             |
+
+Flare and Upshift can change their fees. Before you sign, check the amounts shown in the xApp and on the signing screen.
 
 ### Fees when you deposit
 
-A deposit takes two signatures, and each signature creates payments from your account.&#x20;
+A deposit takes two signatures. You start it by tapping **Deposit**, entering an amount, and tapping **Request deposit**.
 
-The fees fall into the two signatures like this:
+Your first signature sends an instruction to Flare. It pays Flare's instruction fee, which covers carrying out your deposit on Flare and reserving the collateral for it. None of your deposit is in this transaction, and Xaman charges no fee on it.
 
-* Your first signature sends an instruction to Flare and pays the instruction fee. The fee covers the operator that carries out your instruction on Flare and Flare's collateral reservation fee.
-* Your second signature sends your XRP to Flare with the minting fee added. Xaman's service fee follows as a separate payment.
+When Flare accepts the request, tap **Deposit Now** to sign the second transaction. This sends the XRP you are depositing to Flare, with Flare's minting fee added. Xaman's service fee is charged with the same signature and sent as a separate payment.
 
-Flare then converts your XRP into FXRP, a token on Flare that represents XRP one-to-one, and places it in the vault.
+Flare then converts your XRP into FXRP, a token on Flare that represents XRP one-to-one. It places the FXRP in the vault and gives you earnXRP, the token that represents your share of the vault. The xApp shows your balance once this is done.
+
+### Reading the signing screen
+
+On the second signing screen, the **Amount** is the XRP sent to Flare, including the minting fee. Xaman's service fee is not part of this amount.
+
+The service fee appears under **Network & Service Fee**, together with the XRP Ledger network fee, labeled **Yield product Service Fee (0.5%)**. Tap the information icon next to it to see the two fees listed separately.
+
+{% hint style="warning" %}
+The **Amount** on the signing screen does not include Xaman's service fee. More XRP leaves your account than the **Amount** shows. Add the **Amount** and the **Network & Service Fee** to see the total before you slide to accept.
+{% endhint %}
+
+The first signature works the same way. Its **Amount** is Flare's instruction fee, and **Network & Service Fee** shows only the network fee.
 
 ### Fees while your funds are in the vault
 
-Upshift's management and performance fees do not appear as payments from your account. Upshift takes them inside the vault, so they reduce the value of your earnXRP. (The token that represents your share of the vault.)
+Upshift charges a management fee and a performance fee while your funds are in the vault. Upshift takes them inside the vault, so they never appear as payments from your account.
+
+Instead, they reduce the value of your earnXRP. The value you see in the xApp already has these fees taken out.
 
 ### Fees when you withdraw
 
-A withdrawal has two steps, and Flare charges an instruction fee for each step. Flare's redemption fee is taken from the XRP paid back to you. Xaman does not charge a service fee on withdrawals.
+A withdrawal also takes two signatures, with a waiting period between them. Xaman does not charge a service fee on withdrawals.
 
+To start, tap **Withdraw**, enter the amount of earnXRP you want to withdraw, and tap **Request withdrawal**. Your signature pays Flare's first instruction fee. The xApp lists your request under **Pending Actions**, with the time it will be ready.
 
+When the request is ready, an **FXRP Withdrawal** card shows **Ready**. Tap **Withdraw to XRPL** to sign the second transaction, which pays Flare's second instruction fee.
+
+Flare then converts your FXRP back to XRP and sends it to your account. The redemption fee is taken from this payment, so you receive slightly less XRP than the FXRP you withdrew.
+
+Withdrawals to the XRP Ledger must be in multiples of 10 FXRP. Any smaller remainder stays on Flare as FXRP, outside the vault, where it does not earn yield.
 
 ### Frequently asked questions
 
 **Why do I see several payments for one deposit?**
 
-One deposit creates three payments from your account: the instruction fee, the XRP sent to Flare with the minting fee, and Xaman's service fee. \[Verified]
+One deposit creates three payments from your account. The first is Flare's instruction fee. The second is your XRP sent to Flare with the minting fee, and the third is Xaman's service fee.
+
+**Why did more XRP leave my account than the signing screen showed?**
+
+The **Amount** on the signing screen does not include Xaman's service fee or the network fees. To see the total, add the **Amount** and the **Network & Service Fee**.
+
+**Why do fees take a larger share of a small deposit?**
+
+Flare's instruction fees are fixed amounts, charged on every deposit and withdrawal. On a small amount, a fixed fee is a larger share of the total.
 
 **Why did my withdrawal come from an address I do not recognize?**
 
 Flare assigns an FXRP agent to pay out each withdrawal. That agent can be different from the one that received your deposit.
+
+Crypto assets can change in value. This article explains how the feature works and is not financial advice.
 
 ### See also
 
