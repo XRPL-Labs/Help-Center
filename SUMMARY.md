@@ -68,7 +68,7 @@
 * [Sending XRP to Moonpay](learning-more-about-xaman/sending-xrp-to-moonpay.md)
 * [Cashing out with GateHub](learning-more-about-xumm/cashing-out-with-gatehub.md)
 * [Adding Euro tokens via GateHub](learning-more-about-xaman/adding-euro-tokens-via-gatehub.md)
-* [Xaman & the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
+* [Xaman and the Flare network](learning-more-about-xumm/xumm-and-the-flare-network.md)
 * [Xaman & AMM](learning-more-about-xaman/xaman-and-amm.md)
 * [Xaman & Fractal ID](learning-more-about-xumm/xaman-and-fractal-id.md)
 * [How to set the currency](learning-more-about-xumm/how-to-set-the-currency.md)
