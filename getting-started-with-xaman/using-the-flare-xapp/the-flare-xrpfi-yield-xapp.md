@@ -60,7 +60,7 @@ Crypto assets can change in value. This article explains how the feature works a
 
 ### See also
 
-* [How to Deposit XRP using the Flare xApp](how-to-deposit-xrp-using-the-flare-xapp.md)
+* [How to Deposit XRP using the Flare xApp](depositing-xrp-with-the-flare-xapp.md)
 * [Fees in the Flare xApp](fees-in-the-flare-xapp.md)
 * [Flare Smart Accounts](https://flare.network/products/flare-smart-accounts)
 
