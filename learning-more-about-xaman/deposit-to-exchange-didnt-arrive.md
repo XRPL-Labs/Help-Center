@@ -1,138 +1,119 @@
 ---
 description: >-
-  Sent XRP to an exchange and don't see it in your account? Don't panic. In most
-  cases, the funds are not lost. They just need to be located.
+  What to do when XRP you sent to an exchange does not appear in your exchange
+  account
 ---
 
 # Deposit to exchange did not arrive
 
-#### What You Need to Send XRP to an Exchange
+### Background
 
-To deposit XRP into an exchange, you need the exchange’s **deposit address** (starts with an `r`), and, if the exchange gives you one, your **destination tag**: a number that identifies your exchange account.
+To deposit XRP to an exchange, you send it to the exchange's deposit address on the XRP Ledger (XRPL). Most exchanges also give you a destination tag, a number that identifies your account at the exchange.
 
-_(Think of the exchange's r-address as an apartment building, and your destination tag as your specific apartment number.)_
+Think of the deposit address as an apartment building, and the destination tag as your apartment number. The address gets the XRP to the exchange, and the tag tells the exchange which account to credit.
 
-#### Why the Deposit Hasn't Arrived
+When a deposit does not arrive, the XRP is usually not lost. Either the payment did not go through, or the exchange has the XRP and has not credited it to your account yet.
 
-| **Reason**                     | **What happened**                                                                              | **What you should do**                                                                       |
-| ------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Missing Destination Tag**    | The exchange received the XRP, but doesn't know which account to credit.                       | Contact exchange support with your Transaction ID so they can trace the transaction.         |
-| **Incorrect Destination Tag**  | The exchange received the XRP, but it credited the XRP to the wrong account.                   | Contact exchange support with your Transaction ID so they can trace the transaction.         |
-| **Exchange Processing Delay**  | The XRP Ledger finished the transaction. The exchange has not processed the deposit yet.       | Check the exchange status page. The exchange usually credits the deposit within a few hours. |
-| **Account or Security Hold**   | The exchange received the deposit, but has temporarily held it for internal compliance checks. | Check your email or exchange notification center for any verification requests.              |
+### Check that the payment succeeded
 
-#### How to Recover Your Funds
+Start by checking whether the payment completed on the XRP Ledger.
 
-1. **Contact your exchange’s customer support team**
+1. Tap **Events**.
+2. Tap the payment you sent to the exchange.
+3. Check the status of the transaction.
 
-The transfer completed on the XRP Ledger. The XRP arrived at the exchange main address. Only the exchange has access to the funds and can credit your account.
+If the payment failed, the XRP never left your account. Only the network fee was charged. Many exchanges reject payments without a destination tag, so a missing tag is a common reason. Check your exchange's deposit details and send the payment again.
+
+If the payment succeeded, the XRP reached the exchange's address. Continue with the next section.
+
+### Why a successful deposit was not credited
+
+| Cause                     | What happened                                                                       | What to do                                                                                                                 |
+| ------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| No destination tag        | The exchange received the XRP, but does not know which account to credit.           | Contact exchange support with your transaction ID.                                                                         |
+| Wrong destination tag     | The exchange received the XRP, but credited it to another account or to no account. | Contact exchange support with your transaction ID.                                                                         |
+| Below the minimum deposit | The exchange does not credit deposits under its minimum amount.                     | Check the exchange's deposit rules, then contact exchange support.                                                         |
+| Deposits paused           | The exchange has paused XRP deposits, for example for maintenance.                  | Check the exchange's status page or announcements. If the deposit is still missing after deposits resume, contact support. |
+| Processing delay          | The exchange has not processed the deposit yet. Processing times vary by exchange.  | Check the exchange's status page and wait.                                                                                 |
+| Account or security hold  | The exchange is holding the deposit for its own checks.                             | Check your email and the exchange's notifications for verification requests.                                               |
+
+### Contact your exchange
+
+The XRP is at the exchange's address, so only the exchange can credit it to your account. When you contact exchange support, have these details ready:
+
+* The date and time of the payment.
+* The amount of XRP you sent.
+* The transaction ID.
+* The destination tag you entered, or a note that you left it blank.
 
 {% hint style="info" %}
-A quick note on exchange policies:
-
-Every crypto exchange has its own internal rules for dealing with missing or mistagged deposits:
-
-* Some exchanges will locate and credit your deposit for free.
-* Some charge a manual recovery fee to locate and process the funds.
-* Some exchanges have strict policies refusing to recover missing deposits altogether.
-
-These policies, fees, and processing times are determined solely by the exchange. Xaman is a self-custodial wallet interface and has no control over how third-party exchanges handle incoming transfers.
+Each exchange has its own rules for missing or mis-tagged deposits. Some credit the deposit for free, some charge a recovery fee, and some do not recover deposits at all. Xaman has no control over these rules.
 {% endhint %}
 
-2. **Details you will need to provide**
+### Find the transaction details in Xaman
 
-When opening a ticket with your exchange's support team, have the following details ready:
+1. Tap **Events**.
+2. Tap the payment you sent to the exchange.
+3. Find the date, amount, and destination tag on the transaction details screen.
+4. Tap and hold the transaction ID, then tap **Copy**.
 
-* **Date & Time** of the transaction
-* **Amount** of XRP sent
-* **Transaction ID**: The unique blockchain receipt proving the transfer settled on the XRP Ledger
-* **Destination Tag** entered: The number you typed in (or state clearly that you left it blank)
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FjsgHaR5Kd4SbykRSIRgG%2Ftransaction-details-arrows.png?alt=media&#x26;token=bee20c88-150f-4f31-bb8c-b186a53a5022" alt="Xaman transaction details screen, with arrows pointing to the date, amount, destination tag and transaction ID." width="375"><figcaption><p>Transaction details screen</p></figcaption></figure>
 
+### Take a screenshot of the transaction
 
+Many exchanges ask for a screenshot of the payment. Xaman blocks screenshots by default to protect your privacy.
 
-3. **How to find this information in Xaman**
+1. Go to **Settings** > **Security**.
+2. Turn off **Block taking screenshots**.
+3. Tap **Events**, open the payment, and take your screenshot.
+4. Go back to **Settings** > **Security** and turn on **Block taking screenshots**.
 
-You can locate the details the exchange needs directly in your transaction history:
+### Frequently asked questions
 
-1. Open Xaman and tap the **Events** tab on the home screen.
-2. Scroll to and tap the specific transfer you sent to the exchange.
-3. On the transaction details screen, you will see the Date, Amount, and Destination Tag (if one was included).
-4. Locate the Transaction ID and tap and hold it, then tap the "Copy" button to copy it directly to your clipboard.
+**Can Xaman reverse the transaction?**
 
-<figure><img src="../.gitbook/assets/transaction-details-arrows.png" alt="Xaman transaction details screen, with arrows pointing to the date, amount, destination tag and transaction ID." width="375"><figcaption><p>Transaction details screen</p></figcaption></figure>
+No. A confirmed transaction on the XRP Ledger is final, and no one can reverse it, including the Xaman team. Only the exchange that received the XRP can credit or return it. See _Can Xaman reverse, freeze or undo a transaction?_
 
-4. **Need to send a screenshot as proof?**
+**Are my funds gone if I forgot the destination tag?**
 
-Many exchanges ask for a visual screenshot of the transaction. For your privacy and security, Xaman blocks screenshots by default. To capture one:
+Not necessarily. First check that the payment succeeded. If it failed, the XRP is still in your account. If it succeeded, the exchange has the XRP, and exchange support can tell you whether it can credit it.
 
-1. Go to Settings > Security.
-2. Toggle off "Block taking screenshots".
-3. Return to the Events tab, reopen the transaction details, and take your screenshot.
-4. _(Recommended)_ Return to Settings > Security and turn the screenshot block back on when you're done.
+**What if my wrong tag belonged to another customer?**
 
-#### Frequently asked questions
+The exchange may have credited the XRP to that customer's account. Exchanges usually cannot take it back. Ask support whether it will contact the customer and ask for a voluntary return.
 
-#### Can Xaman reverse the transaction for me?
+**What if the exchange charges a fee to recover my deposit?**
 
-No. Xaman sends your transaction directly to the XRP Ledger. A confirmed transaction on the XRP Ledger is final. No one, including the Xaman team, can freeze, reverse, or undo it. Only the exchange that received the funds can return or re-route them. See [Can Xaman reverse, freeze or undo a transaction?](../all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction.md).
+Some exchanges charge a recovery fee, or only recover deposits above a minimum amount. Some only return the XRP to the address it came from. Check whether the exchange has a deposit recovery form, and ask support about its process.
 
-#### Are my funds gone if I forgot the destination tag?
+If you sent the XRP from another exchange, the return goes back to that exchange. Contact both exchanges so they can match the payment.
 
-Not necessarily. If you sent the transfer to the correct deposit address, the exchange received the XRP in their account. Whether those funds can be credited to your account depends entirely on your exchange.
+**What if support says the transaction cannot be reversed?**
 
-Contact your exchange's customer support team directly and explain what happened (that the transfer was sent without the tag). They will explain their specific policies, outline your available options, and let you know if there are any verification requirements or recovery fees.
+Explain that you are not asking for a reversal. The payment succeeded and the XRP is at the exchange's address. Ask to escalate the ticket, and include the transaction ID, the date and time, the amount, and a screenshot.
 
-#### What if I my exchange does not credit my account?
+**What if the exchange still does not credit my deposit?**
 
-That depends on what happened.
+If the exchange is regulated where you live, you can use its formal complaints process. Some countries also have an ombudsman or regulator you can contact after that.
 
-**The Wrong Tag Belonged to Another Active Customer**
+**What if I sent the XRP to the wrong address?**
 
-If the number you accidentally typed happens to match another user's valid destination tag, the exchange's automated system will have already credited the XRP to that person's account.
+An exchange can only help with its own addresses. If the address does not belong to the exchange, only the owner of that address can return the XRP.
 
-* What to expect: Crypto exchanges generally cannot unilaterally claw back funds once credited to another customer's balance. If that user has already traded or withdrawn the XRP, most exchanges explicitly state in their terms of service that they cannot assist if a mistyped tag routes funds to another user.
-* What you can do: Ask support if they are willing to contact the recipient on your behalf to request a voluntary return (while preserving user privacy). Some regulated exchanges will reach out to the other customer if the funds haven't been moved, though the recipient is rarely legally forced to return them through support alone.
+You can try to contact the owner with a message on the XRP Ledger:
 
-**The Exchange Charges a Manual Recovery Fee (or Has a Minimum Threshold)**
-
-Sometimes an exchange won't credit your account _automatically_, or rejects a standard support ticket, because manual retrieval requires an customer service agent to trace the transaction and reconcile it by hand.
-
-* What to expect: Many major platforms enforce a recovery fee (for example, a flat administrative fee or up to 5% of the deposit) and require the deposit to exceed a minimum threshold after fees. Rather than crediting your exchange balance, several platforms will only return the XRP to the original sending address.
-* What you can do: Check whether the exchange has a dedicated Self-Service Deposit Recovery portal rather than general live chat. If you sent the XRP from _another_ exchange or custodial app (meaning the sending address isn't a personal wallet you control), ask support to hold the return until you coordinate a deposit recovery ticket with the sending platform as well.
-
-**Standard Support Escalation & Formal Complaints**
-
-Exchanges frequently give a scripted "blockchain transactions are irreversible" denial without realizing that a completed transaction on the XRP Ledger means the exchange itself still holds custody of your funds.
-
-1. Re-open and escalate the ticket to a senior Tier-2 or Wallet Operations specialist. Clearly state that the transaction complete and that they are in possession of your funds.
-2. Provide the XRPL Transaction Hash (TxID), the exact timestamp and amount and a screenshot from Xaman showing the transaction.&#x20;
-3. Sometimes senior specialist can get your funds deposited to your account.
-
-**File a formal complaint or regulatory escalation**
-
-If the exchange is licensed in your jurisdiction (such as under MiCA in the EU, the FCA in the UK, or state money-transmitter/BitLicense regulators in the US) and refuses to return unallocated funds sitting in its own wallet despite proof of ownership, submit a formal complaint through their official complaints procedure, then escalate to the relevant financial ombudsman or regulator.
-
-#### What if I sent the XRP to the wrong address (not just the wrong tag)?
-
-An exchange only controls its own XRP Ledger addresses. If you sent the transfer to an incorrect r-address that does not belong to the exchange, their support team will not be able to help you access your funds.
-
-Since XRP Ledger transactions are permanent and irreversible, funds sent to an unintended wallet can only be recovered if the wallet owner chooses to return them voluntarily.
-
-**What you can try**
-
-You can attempt to contact the wallet owner with a message on the XRP Ledger:
-
-1. Send a small payment: In Xaman, send a very small amount of XRP (for example, `0.000001 XRP`) to the same address.
-2. Add a Memo: On the Summary screen, write a short, polite message in the **Memo** field. Explain the accidental transfer. Include your Xaman r-address and ask the owner to return the funds.
+1. Send a very small payment, such as 0.000001 XRP, to the same address.
+2. On the **Summary** screen, write a short message in the **Memo** field. Explain the mistake, include your r-address, and ask for the XRP back.
 
 {% hint style="warning" %}
-Important: This is simply an on-ledger messaging attempt. There is no guarantee the recipient will check incoming transaction memos, and they are under no technical obligation to return the funds.
+The owner may never read the message, and does not have to return the XRP.
 {% endhint %}
 
 {% hint style="danger" %}
-**Be careful:** memos are public. Anyone who contacts you offering to recover your funds for a fee is a scammer. Xaman Support will never ask for your account secret.
+Memos are public, so scammers can see your message. Anyone who offers to recover your XRP for a fee is a scammer. Xaman Support will never ask for your account secret.
 {% endhint %}
 
-#### Further reading
+### See also
 
 * [Sending XRP and tokens from Xaman](../getting-started-with-xaman/sending-tokens-from-xaman.md)
+* [Can Xaman reverse, freeze or undo a transaction?](../all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction.md)
