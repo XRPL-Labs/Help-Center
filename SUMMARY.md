@@ -4,11 +4,11 @@
 
 ## Getting started with Xaman
 
-* [💸 What is Xaman?](hot-topics/what-is-xumm.md)
-  * [Understanding self-custody](getting-started-with-xaman/what-is-xumm/understanding-self-custody.md)
-  * [Where are your funds stored?](getting-started-with-xaman/what-is-xumm/where-are-your-funds-stored.md)
-  * [Xaman & natural disasters](getting-started-with-xaman/what-is-xumm/will-xumm-operate-after-a-natural-disaster.md)
-  * [Common misconceptions](getting-started-with-xaman/what-is-xumm/common-misconceptions.md)
+* [💸 What is Xaman?](getting-started-with-xaman/what-is-xaman/README.md)
+  * [Understanding self-custody](getting-started-with-xaman/what-is-xaman/understanding-self-custody.md)
+  * [Where are your funds stored?](getting-started-with-xaman/what-is-xaman/where-are-your-funds-stored.md)
+  * [Xaman & natural disasters](getting-started-with-xaman/what-is-xaman/will-xumm-operate-after-a-natural-disaster.md)
+  * [Common misconceptions](getting-started-with-xaman/what-is-xaman/common-misconceptions.md)
 * [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 * [🔐 Self-Custody 101: Staying Safe with Xaman](getting-started-with-xaman/self-custody-101-staying-safe-with-xaman.md)
 * [💙 Understanding Xaman Service Fees](getting-started-with-xaman/understanding-the-xaman-service-fee.md)
