@@ -1,7 +1,5 @@
 ---
 description: How Xaman cards keep your account secret on a chip, and how to use them
-cover: ../.gitbook/assets/monolith in stream.jpg
-coverY: 251
 ---
 
 # Xaman cards
@@ -47,6 +45,25 @@ You can order Xaman cards in the **Get cards** xApp in Xaman, or on [our website
 
 When your cards arrive, see [_Getting started with your new cards_](../xumm-tangem-cards/getting-started.md).
 
+### Xaman cards and Tangem cards
+
+Xaman cards are Tangem cards that XRPL Labs configures for the XRP Ledger and Xahau. You can also use a card bought from Tangem with Xaman, as long as you set it up in Xaman first.
+
+When you set up a card in Xaman, it is prepared to work with Xaman. You can still import it into the Tangem app afterward and use it there too. A card set up in the Tangem app first can no longer be added to Xaman.
+
+{% hint style="warning" %}
+Set up a new Tangem card in Xaman before you use it in the Tangem app. If you set it up in the Tangem app first, you cannot add it to Xaman later.
+{% endhint %}
+
+|                              | Set up in Xaman first                                                | Set up in the Tangem app first                          |
+| ---------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------- |
+| Works in Xaman               | Yes                                                                  | No                                                      |
+| Works in the Tangem app      | Yes, after you import it                                             | Yes                                                     |
+| XRP Ledger features in Xaman | Everything Xaman supports, including tokens, escrows, and NFTs       | None                                                    |
+| Backup                       | A second card, set up as a backup signer with its own account secret | The same account secret, copied to each card in the set |
+
+For questions about using a card in the Tangem app, contact Tangem support.
+
 ### Frequently asked questions
 
 **Does a Xaman card have its own r-address?**
@@ -69,10 +86,16 @@ No. ATMs and payment terminals do not recognize Xaman cards. The chip only works
 
 Only where the business accepts XRP or XRP Ledger tokens. If it does, you can sign the payment with your card in Xaman.
 
+**Can I use my Tangem card with Xaman?**
+
+Yes, if you have not set it up in the Tangem app yet. Set up the card in Xaman first. See [_How to import your Xaman card_.](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md) After that, you can also import the card into the Tangem app and use it there.
+
+If you already set up the card in the Tangem app, you cannot add it to Xaman. You can keep using it with the Tangem app as usual.
+
 ### See also
 
-* Getting started with your new cards
-* How to configure a backup signing account
-* How to link an existing account to a Xaman card
-* Best security practices for the Xaman cards
-* Lost or damaged cards
+* [Getting started with your new cards](../xumm-tangem-cards/getting-started.md)
+* [How to configure a backup signing account](../xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
+* [How to link an existing account to a Xaman card](how-to-link-an-existing-account-to-a-xaman-card.md)
+* [Best security practices for the Xaman cards](best-security-practices-using-a-xaman-card.md)
+* [Lost or damaged cards](../xumm-tangem-cards/lost-or-damaged-cards.md)
