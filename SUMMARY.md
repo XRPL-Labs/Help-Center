@@ -207,7 +207,7 @@
   * [Video: Reserves and Fees on the XRPL](xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
   * [What are Trust Lines?](xrp-ledger-resources/xrp-ledger-concepts/what-are-trust-lines.md)
   * [What is a blackholed account?](xrp-ledger-resources/xrp-ledger-concepts/what-is-a-blackholed-account.md)
-  * [About Reserves](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
+  * [Reserves on the XRP Ledger](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
   * [Payment Channels](xrp-ledger-resources/xrp-ledger-concepts/payment-channels.md)
   * [Multi Signature](xrp-ledger-resources/xrp-ledger-concepts/multi-signature.md)
   * [Understanding fiat currencies](xrp-ledger-resources/xrp-ledger-concepts/understanding-fiat-currencies.md)
