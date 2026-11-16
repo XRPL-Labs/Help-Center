@@ -1,11 +1,10 @@
 ---
 description: 'Safer savings: Introducing the Xaman Tangem Card!'
+hidden: true
 coverY: 0
 ---
 
 # Xaman (Tangem) Cards
-
-
 
 At XRPL Labs, we are constantly working on improving the XRP Ledger user experience for consumers and for businesses.
 
@@ -45,8 +44,6 @@ Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem B
 
 ### **Further explanation & FAQ’s**
 
-
-
 *   **What’s the typical use case for a Xaman card?**
 
     Your Xaman card has its own r-address. It’s a separate XRP Ledger account. Xaman, in combination with your Xaman card, enables all XRPL features.
@@ -61,7 +58,7 @@ Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem B
     No, you cannot. While all Tangem cards feature a bank grade secure chip, the chip is programmed to work only for crypto-currencies with Apps supporting the cards. ATM’s and retail payment terminals **will not recognize** a Xaman card.<br>
 *   **Can I use an existing XRP Tangem cards with Xaman?**
 
-    Yes and no. The most current Tangem cards are V2 multi-cards. These cards are **not** compatible with Xaman. Some of the older Tangem cards will work with Xaman but your plan is to participate and interact with the XRP Ledger and Xahau communities, Xaman cards are the way to go. <br>
+    Yes and no. The most current Tangem cards are V2 multi-cards. These cards are **not** compatible with Xaman. Some of the older Tangem cards will work with Xaman but your plan is to participate and interact with the XRP Ledger and Xahau communities, Xaman cards are the way to go.<br>
 *   **How can I purchase Xaman cards?**
 
     They are available via our [**Get cards xApp**](https://xumm.app/detect/xapp:xumm.tangem-order):\
@@ -80,7 +77,7 @@ Fortunately, we’ve got your covered. Xaman includes an xApp called “Tangem B
     See: [How to use the Tangem Backup xApp](https://support.xumm.app/hc/en-us/articles/4417047349394)<br>
 * **Does a Xaman card require another 1 XRP reserve?**
 
-That depends on how you configure the cards. While primary cards require that they be activated,               backup cards do not require activation.
+That depends on how you configure the cards. While primary cards require that they be activated, backup cards do not require activation.
 
 See: [Tangem cards - Back Up & Best Practices](https://support.xumm.app/hc/en-us/articles/4416929335186)
 
@@ -88,4 +85,3 @@ See: [Tangem cards - Back Up & Best Practices](https://support.xumm.app/hc/en-us
 
 * [Where are your funds stored? (Explainer video 2/5)](https://support.xumm.app/hc/en-us/articles/4408081411474)
 * [How secure is Xaman?](https://support.xumm.app/hc/en-us/articles/4427109779986)
-
