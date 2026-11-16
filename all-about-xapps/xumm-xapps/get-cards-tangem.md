@@ -10,7 +10,7 @@ coverY: 0
 
 The Get Cards xApp is a utility that allows you to:
 
-* purchase [**Xaman cards**](../../xumm-tangem-cards/xumm-tangem-cards.md)
+* purchase [**Xaman cards**](../../xaman-tangem-cards/xaman-tangem-cards.md)
 
 ### **How do I find it?**
 

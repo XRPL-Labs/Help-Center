@@ -4,12 +4,12 @@ description: Explaining a pre-funded Xaman card
 
 # What is a "Pre-funded" Xaman card?
 
-In case you were not aware, we offer a cold wallet for our users who are interested in the 'next level' of protection for their XRP Ledger (XRPL) account.&#x20;
+In case you were not aware, we offer a cold wallet for our users who are interested in the 'next level' of protection for their XRP Ledger (XRPL) account.
 
 If you've never heard about them or if you are interested in learning more, this article will provide you with all of the information you'll need.
 
-{% content-ref url="../../xumm-tangem-cards/xumm-tangem-cards.md" %}
-[xumm-tangem-cards.md](../../xumm-tangem-cards/xumm-tangem-cards.md)
+{% content-ref url="../../xaman-tangem-cards/xaman-tangem-cards.md" %}
+[xaman-tangem-cards.md](../../xaman-tangem-cards/xaman-tangem-cards.md)
 {% endcontent-ref %}
 
 ### How do I get a Xaman card?
@@ -55,8 +55,3 @@ This article provides more information about this:
 #### I didn't realize I had to claim the pre-funded XRP and activated the account from another source. Can I still claim the pre-funded XRP?
 
 You certainly can. Just In order to be able to hold XRP in an XRPL account, it must first be activated with a minimum of 1 XRP.
-
-
-
-
-

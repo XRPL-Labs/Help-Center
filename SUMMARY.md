@@ -134,7 +134,7 @@
 
 ## XAMAN (TANGEM) CARDS
 
-* [All about Xaman (Tangem) cards](xumm-tangem-cards/xumm-tangem-cards.md)
+* [Xaman cards](xaman-tangem-cards/xaman-tangem-cards.md)
 * [Are my Xaman Cards safe?](xaman-tangem-cards/are-my-xaman-cards-safe.md)
 * [Getting started with your new cards 🤗](xumm-tangem-cards/getting-started.md)
 * [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
