@@ -1,323 +1,126 @@
 ---
-description: >-
-  Is Xaman a safe place to store my account secret? Has it been audited? How
-  secure is Xaman?
-cover: ../../.gitbook/assets/Tokens and coins -1 (1).png
-coverY: 0
+description: How Xaman protects your accounts, and the habits that keep them protected
 ---
 
-# How secure is Xaman?
+# Security in Xaman
 
-### Comparing different wallets
+### Background
 
-It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best". When it comes to protecting your assets, for many people, only the best will do so it only makes sense to get the best when it comes to protecting your funds, right...?
+When you trust Xaman with your XRP, it is natural to ask how well it is protected. This article walks you through it: what protects your account, how Xaman guards it on your phone, and the few habits that make a big difference.
 
-The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or watching a YouTube video then thinking you have enough information to make a comprehensive comparison between wallets is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion of Xaman's security.
+XRP is the native coin of the XRP Ledger (XRPL), the network your Xaman accounts live on. This article covers XRP Ledger accounts.&#x20;
 
-### **It is a crazy time in the crypto world, how secure is Xaman?**
+Xaman is a self-custody wallet. Your account secrets belong to you alone, and they are never stored with us. This also means we cannot recover a lost secret, freeze your account, or reverse a transaction. It is the same reason no one else can do those things either.
 
-There are several ways to view security when it comes to your XRP Ledger account but your first line of security always starts with your mobile device.
+### Everything starts with your account secret
 
-Here are the top 9 security threats to look out for when it comes to your phone.
+Your account is protected by one thing above all: your account secret. This is the Secret Numbers, Family Seed, or Mnemonic you received when you created the account. Whoever holds it can use the account, from any wallet, on any device.
 
-* Social Engineering
-* Phishing
-* Data Leakage via Malicious Apps
-* Unsecured Public WiFi
-* End-to-End Encryption Gaps
-* Internet of Things (IoT) Devices
-* Spyware
-* Poor Password Habits
-* Lost or Stolen Mobile Devices
-
-Source: [The Nine most common security threats to mobile devices](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/)
-
-So before you even get around to installing Xaman, here are some things to consider:
-
-* Is your mobile device up to date with all security and OS updates?
-* Do you use a VPN?
-* Do you have an anti virus program that is up to date?
-* How often do you use public WiFi?
-* Do you have a firewall on your phone?
-* Do you have strong passwords?
-* How often do you change your passwords?
-
-If your phone is not secure, the best, most secure software wallet in the world (aka Xaman) will not be able to protect your assets. Starting out with a modern, up to date, secure mobile device is essential when it comes to securing your assets.
-
-### **No problem. My phone is secure.**
-
-So your phone has no spyware or malware installed. It is up to date. You use a top of the line VPN, anti-virus software and firewall. You have installed Xaman and you used Xaman to create your XRP Ledger account. Well done!
-
-Let's consider your XRPL account. Xaman can generate three hundred and forty undecillion, two hundred and eighty-two decillion, three hundred and sixty-six nonillion, nine hundred and twenty octillion, nine hundred and thirty-eight septillion, four hundred and sixty-three sextillion, four hundred and sixty-three quintillion, three hundred and seventy-four quadrillion, six hundred and seven trillion, four hundred and thirty-one billion, seven hundred and sixty-eight million, two hundred and eleven thousand, four hundred and fifty-six different accounts using the secret number standard. Xaman will provide you with one of those possible accounts.
-
-It is hard to imagine how many accounts that actually is, so maybe this will help.
-
-If you had a job that paid you 390 trillion euros per hour, you would have to work 24 hours per day, 7 days per week, 365 days per year for about 99 quintillion years to earn 340 undecillion euros.
-
-It is unimaginably difficult for someone to guess your account number out of 340 undecillion possible accounts. You would need to make 390 trillion guesses per hour for **99 quintillion years** to guess them all.
-
-\{% hint style="success" %\} Entire books have been dedicated to this topic but if you are interested in learning a bit more about it, you can check out this link on [entropy](https://en.wikipedia.org/wiki/Entropy_/\(information_theory/\)). It is not exactly "easy reading" but it will get you going in the right direction. \{% endhint %\}
-
-### **How is that different from a cold/hard wallet?**
-
-It is no difference. Whether an account is generated off line or online, there is no difference in the total number of possible accounts. The chances of guessing your account secret is the same.
-
-### **Why you are always telling people to protect their Secret Numbers?**
-
-The only way someone can access your XRP Ledger account is if they know your Secret Numbers. Keeping them safe is the best way to keep your assets safe. The second you share your Secret Numbers with anyone, you give them 100% access to your funds and give them permission to use your funds in any way they choose.
-
-\{% hint style="danger" %\} **Never** give your Secret Numbers to anyone. If someone asks for them, that person is trying to steal your funds! \{% endhint %\}
-
-### **What about the 6 digit passcode to access Xaman. That is only 1 million possibilities. Anyone could guess that.**
-
-You are absolutely right. Let's say that someone has acquired your phone and somehow circumvented your phone's password and now has full access to it.
-
-An attacker launches Xaman and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 passcode per second and about 11 days later they have tried all of the possible combinations. So somewhere along the way, they would get access to Xaman, right?
-
-That makes sense, **except** for one small countermeasure we implemented in Xaman. We have configured Xaman to only allow 5 attempts before it starts to add time to the next attempt. After the ninth wrong entry, Xaman requires a delay of **2 hours** before you can input a passcode again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all… Or about **228 years**.
-
-### **Ha! So now it's down from 99 quintillion years to 228 years!**
-
-However, let's say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. (If you configured one, which we recommend that you do.) Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes. In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it. Provided that you selected a strong signing password, this could take awhile to guess.
-
-The point is, there are multiple layers of security in Xaman to protect your XRPL account. A potential hacker who gets your phone, needs to crack the phone's passcode, then crack Xaman's passcode, then crack Xaman's signing password. This is very, very difficult to do if you use good passcodes/passwords.
-
-### Does the Xaman passcode and signing password protect my XRPL account?
-
-Yes and no.
-
-The passcode that you configure in Xaman is designed to keep people from accessing the Xaman application. It **does not** protect your Secret Numbers from being used by someone else.
-
-For example, let's say you have two phones and you have installed Xaman on both of them. You could import your secret numbers into both phones and access your XRP Ledger account from both devices. The passcode that you setup on one phone does not affect your second phone. You could configure one phone with one passcode and your other phone with a different passcode. Changing your passcode on either device does not affect the other device. In other words, the Xaman passcode (and signing password) are local security measures on your device to prevent accessing the Xaman app.
-
-The goal for Xaman is to protect your Secret Numbers **on your phone**. The passcode and signing passwords are designed to help do this.
-
-### **Why would I need the Xaman (Tangem) cards then?**
-
-By this point, hopefully you realize it is basically impossible to **guess** the Secret Numbers in your lifetime. The amount of possibilities is just too great, but... there is the risk that your phone could be lost or stolen. If that were to happen, and given enough time and resources, your phone could be hacked and once someone gained access to your phone, they might be able to hack Xaman and if they did that they might be able to decrypt your Secret Numbers, and if they did that, they could access your funds!
-
-We are talking theoretical here but still, it might be possible, so we decided to offer a way to mitigate the risk of a lost or stolen phone... enter **Xaman (Tangem) cards**.
-
-Xaman cards are the perfect way to alleviate the risk of a compromised phone, especially if you follow our recommended guidelines here:
-
-\<table data-view="cards">\<thead>\<tr>\<th align="center">\</th>\<th data-hidden>\</th>\<th data-hidden>\</th>\<th data-hidden data-card-target data-type="content-ref">\</th>\<th data-hidden data-card-cover data-type="files">\</th>\</tr>\</thead>\<tbody>\<tr>\<td align="center">Best Security Practices Using Xaman (Tangem) cards\</td>\<td>\</td>\<td>\</td>\<td>\<a href="/app/xaman-tangem-cards/best-security-practices-using-a-xaman-card.md">Best security practices for the Xaman cards\</a>\</td>\<td>\<a href="https://3221812686-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-ef29720eb9a39eba18a8450b2614bd3a1516b73b%2FRocky%20stream.png?alt=media">Rocky stream.png\</a>\</td>\</tr>\</tbody>\</table>
-
-Although we believe that your phone is secure and that it will never get lost/damaged/stolen or hacked, having a pair of cards will ensure that even if your phone **was** ever compromised, your XRPL account would still be safe. Here's how they work…
-
-A Xaman card will generate a set of private keys **on the card**. They never leave the card. No one will ever see them, (including you) and there is no way to access them. You can never be tricked into giving your account secret away and the only way to access your account is by having the card with you.
-
-### **This sounds better than a cold wallet.**
-
-You're right. Most cold wallets give you the account secret (Secret Numbers/Family Seed/Mnemonic) so you can be tricked into giving it away. This cannot happen with the Xaman cards. As well, most cold wallets also require that you have a computer to use them and computers can be VERY difficult to secure. This is not an issue with the Xaman cards.
-
-Your private key (keypair) is generated by a chip inside the Xaman card. The keypair **cannot be extracted or wiped** from the card and the [key generation by the chip inside the card is very secure](https://twitter.com/Tangem/status/1346555757009899520?s=20). (And has been audited.) There is no way for you to access them so you can never give them away. Like we said, the account secret is **on the card** and the only way to access your account is by physically having the card with you.
-
-### **I want to know more about the cards.**
-
-Of course. Check out this article:
-
-\<table data-view="cards">\<thead>\<tr>\<th align="center">\</th>\<th data-hidden>\</th>\<th data-hidden>\</th>\<th data-hidden data-card-target data-type="content-ref">\</th>\<th data-hidden data-card-cover data-type="files">\</th>\</tr>\</thead>\<tbody>\<tr>\<td align="center">All about Xaman (Tangem) cards\</td>\<td>\</td>\<td>\</td>\<td>\<a href="/app/xaman-tangem-cards/xumm-tangem-cards.md">All about Xaman (Tangem) cards\</a>\</td>\<td>\<a href="https://3221812686-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fgit-blob-04a6994a5cb95d0cfa209141bf6688909c3e5e30%2Fmonolith%20in%20stream.jpg?alt=media">monolith in stream.jpg\</a>\</td>\</tr>\</tbody>\</table>
-
-### **What about if I connect Xaman to a "questionable" website or I scan an untrusted QR code?**
-
-Xaman will never share your private keys with a third party website or application. The website/app will deliver a sign request to Xaman and Xaman will display the sign request for you to approve or deny. Once you approve it, Xaman signs it locally on your phone and returns only the signature to the website/application. Your private keys never leave your phone. Xaman only signs after approval, locally, and then only returns the end product: the signed transaction.
-
-### **…and a Trust Line? Can I be hacked by creating a Trust Line?**
-
-It is not possible for someone to access your **XRP** in your XRPL account via a Trust Line, however creating a Trust Line does pose several risks.
-
-* A token issuer can freeze their own Trust Line, which would make their issued tokens unusable. (but they can not access your account or your XRP.)
-* A token issuer can misconfigure their Trust Line, which could make their issued tokens unusable. (Again, they can not access your account or your XRP.)
-* A token issuer could send you messages via the XRPL (once they know your r-address) and somehow convince you to send them your secret numbers. (While not really considered a "hack", the results are pretty much the same.)
-* A token issuer could initiate the 'clawback' feature on their Trust Line which allows them to take back as much of their token as they like, as often as they like, whenever they like.
-
-See this link for more information about the Clawback feature on the XRPL:
-
-[https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039-clawback](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039-clawback)
-
-### **What about spam transactions? Are they dangerous?**
-
-A 'spam' transaction is one which is unsolicited.
-
-In most cases, someone will send a small amount of XRP to an account along with a message, advertisement, special offer, marketing idea, business opportunity, etc. The idea is that you will read the message then decide to investigate and either buy their product, visit their website, invest in their business opportunity, etc.
-
-The spam transactions themselves **do not pose a threat** to your XRPL account and do not cost you anything, but the 'special offer' they advertise is often risky and dangerous
-
-If you would like to learn more about spam on the XRPL, check out this article:
-
-\{% embed url="[https://help.xaman.app/app/all-about-scams/spam-on-the-xrp-ledger](https://help.xaman.app/app/all-about-scams/spam-on-the-xrp-ledger)" %\}
-
-### **Can the government freeze my funds in Xaman? What happens if the government seized XRPL Labs?**
-
-The XRP Ledger is basically a giant, decentralized network. While it is possible that a governmental agency might be able to shut down parts of the XRPL in a particular region, (validators, nodes, internet access points) a single government could not shut down all of them all over the world. The XRPL servers are distributed around the planet to form a global network. It will still run and validate transactions regardless if a bunch of servers were shut down. (That is part of the idea behind decentralization.)
-
-Another feature of the XRPL is that no one, not a government or an exchange or even us can access your XRPL account. You are the only one with the account secret, so without that, there is no way to confiscate or freeze your XRP.
-
-Finally, Xaman will run regardless if XRPL Labs exists or not. Xaman does not need our backend servers to function. All of the XRPL communication and signing happens locally on your mobile device, from within Xaman. It does not need our backend servers for that.
-
-…plus, if worse came to worse, you could always take your account secret and just use another wallet if you
-
-##
-
-##
-
-## Comparing different wallets
-
-It is not uncommon for people to want to try to compare different wallets, different platforms and different devices to determine which one is "best". When it comes to protecting your assets, for many people, only the best will do so it only makes sense to get the best when it comes to protecting your funds, right...?
-
-The challenge with this approach is that crypto security is a huge and highly technical subject which requires years of education and experience to fully understand. Simply reading an article or watching a Youtube video then thinking you have enough information to make a comprehensive comparison between wallets is...dangerous. Certainly we recommend reading as much as you can about this topic, but please keep in mind, this article is not meant to be an exhaustive discussion of Xaman's security. It is merely a glimpse...
-
-## **It is a crazy time in the crypto world, how secure is Xaman?**
-
-There are several ways to view security when it comes to your XRP Ledger account but your first line of security always starts with your mobile device.
-
-Here are the top 9 security threats to look out for when it comes to your phone.
-
-* Social Engineering
-* Data Leakage via Malicious Apps
-* Unsecured Public WiFi
-* End-to-End Encryption Gaps
-* Internet of Things (IoT) Devices
-* Spyware
-* Poor Password Habits
-* Lost or Stolen Mobile Devices
-
-Source: [The Nine most common security threats to mobile devices](https://auth0.com/blog/the-9-most-common-security-threats-to-mobile-devices-in-2021/)
-
-So before you even get around to installing Xaman, here are some things to consider:
-
-* Is your mobile device up to date with all security and OS updates?
-* Do you use a VPN?
-* Do you have an anti virus program that is up to date?
-* How often do you use public wifi?
-* Do you have a firewall on your phone?
-* Do you have strong passwords?
-* How often do you change your passwords?
-
-If your phone is not secure, the best, most secure software wallet in the world (aka Xaman) will not be able to protect your assets. Starting out with a modern, up to date, secure mobile device is essential when it comes to securing your assets.
-
-## **No problem. My phone is secure.**
-
-So your phone has no spyware or malware installed. It is up to date. You use a top of the line VPN, anti-virus software and firewall. You have installed Xaman and you used Xaman to create your XRP Ledger account. Well done!
-
-Let's consider your XRPL account. Xaman can generate three hundred and forty undecillion, two hundred and eighty-two decillion, three hundred and sixty-six nonillion, nine hundred and twenty octillion, nine hundred and thirty-eight septillion, four hundred and sixty-three sextillion, four hundred and sixty-three quintillion, three hundred and seventy-four quadrillion, six hundred and seven trillion, four hundred and thirty-one billion, seven hundred and sixty-eight million, two hundred and eleven thousand, four hundred and fifty-six different accounts using the secret number standard. Xaman will provide you with one of those possible accounts.
-
-It is hard to imagine how many accounts that actually is, so maybe this will help.
-
-If you had a job that paid you 390 trillion euros per hour, you would have to work 24 hours per day, 7 days per week, 365 days per year for about 99 quadrillion years to earn 340 undecillion euros.
-
-It is unimaginably difficult for someone to guess your account number out of 340 undecillion possible accounts. You would need to make 390 trillion guess per hour for **99 quadrillion years** to guess them all.
-
-{% hint style="success" %}
-Entire books have been dedicated to this topic but if you are interested in learning a bit more about it, you can check out this link on [entropy](https://en.wikipedia.org/wiki/Entropy_\(information_theory\)). It is not exactly "easy reading" but it will get you going in the right direction.
-{% endhint %}
-
-## **How is that different from a cold/hard wallet?**
-
-It is no difference. Whether an account is generated off line or online, there is no difference in the total number of possible accounts. The chances of guessing your account secret is the same.
-
-## **Why you are always telling people to protect their Secret Numbers?**
-
-The only way someone can access your XRP Ledger account is if they know your Secret Numbers. Keeping them safe is the best way to keep your assets safe. The second you share your Secret Numbers with anyone, you give them 100% access to your funds and give them permission to use your funds in any way they choose.
+That is why you hear us say it so often. Keep your account secret private, and never share it. As long as it stays with you, it is the strongest protection your account has.
 
 {% hint style="danger" %}
-**Never** give your Secret Numbers to anyone. If someone asks for them, that person is trying to steal your funds!
+Never share your account secret with anyone. Anyone who has it can take everything in your account. Xaman support never asks for it, so anyone who asks is a scammer.
 {% endhint %}
 
-## **What about the 6 digit passcode to access Xaman. That is only 1 million possibilities. Anyone could guess that.**
+### Could someone guess your account secret?
 
-You are absolutely right. Let’s say that someone has acquired your phone and somehow circumvented your phone's password and now has full access to it.
+No. Your Secret Numbers are picked at random from about 340 undecillion possibilities. That is 340 followed by 36 zeros, a number so large it is hard to picture.
 
-An attacker launches Xaman and tries to hack your 6 digit passcode. Six digits is only 999,999 possible combinations, (000000, 000001, 000002 -> 999997, 999998, 999999), so they start entering various passcodes at a rate of 1 one passcode per second and about 11 days later they have tried all of the possible combinations. So somewhere along the way, they would get access to Xaman, right?
+Here is one way to imagine it. Suppose you had a job that paid 390 trillion euros an hour, and you worked every hour of every day. To earn 340 undecillion euros, you would need about 100 quintillion years. Someone trying to guess your account secret faces the same task. Even at 390 trillion guesses an hour, trying them all would take about 100 quintillion years.
 
-That makes sense, **except** for one small countermeasure we implemented in Xaman. We have configured Xaman to only allow 5 attempts before it starts to add time to the next attempt. After the ninth wrong entry, Xaman requires a delay of **2 hours** before you can input a passcode again. That means 12 attempts per day. Now instead of 11 days to try all of the possible combinations, it would take about 83,332 days to try them all… Or about **228 years**.
+### How Xaman guards your secrets on your phone
 
-## **Ha! So now its down from 99 quadrillion years to 228 years!**
+Your account secrets are stored on your phone, so Xaman protects them in layers. Someone who gets hold of your phone first has to get past your phone's own lock. Next comes the Xaman passcode. Then, before any transaction can be signed, comes your account's own signing password. Each layer has to be broken, one after the other.
 
-However, let’s say someone manages to guess your 6 digit passcode in under 228 years, now they have to figure out your signing password. (If you configured one, which we recommend that you do.) Honestly, how hard can that really be right? Well, we set the limit for the number of characters you can make your password to a mere 2,091,752 terabytes. In other words, you could make your password so long, it would take up all of the storage space on your 512GB phone and about 4 million other 512GB phones before you ran out of space to store it. Provided that you selected a strong signing password, this could take awhile to guess.
+A 6-digit passcode might not sound like much since there are only 1,000,000 combinations, and at one guess per second, someone could try them all in under 12 days. Unfortunately Xaman does not allow that. After a few wrong attempts, Xaman makes each new attempt wait, and the wait grows to 2 hours before you can make another attempt. At that pace, trying every combination would take about 228 years.
 
-The point is, there are multiple layers of security in Xaman to protect your XRPL account. A potential hacker who gets your phone, needs to crack the phone's passcode, then crack Xaman's passcode, then crack Xaman's signing password. This is very, very difficult to do if you use good passcodes/passwords.
+These layers protect the copy of your secrets stored on this phone. Each phone with Xaman has its own passcode, so if you use the same account on two phones, a change on one does not affect the other.&#x20;
 
-## Does the Xaman passcode and signing password protect my XRPL account?
+### Your phone is your first line of defense
 
-Yes and no.
+Xaman can only be as secure as the phone it runs on. The good news is that a few everyday habits make a big difference:
 
-The passcode that you configure in Xaman is designed to keep people from accessing the Xaman application. It **does not** protect your Secret Numbers from being used by someone else.
+* **Keep your phone updated.** System updates close security holes, so install them as soon as they arrive.
+* **Lock your phone.** Use a strong passcode together with Face ID, a fingerprint, or another biometric lock.
+* **Install apps only from the App Store or Google Play.** Apps from other sources are a common way for malware to get in.
+* **Do not jailbreak or root your phone.** Doing so removes protections that Xaman relies on.
+* **Never install a screen-sharing or remote-access app because someone asks you to.** Scammers use these apps to watch and control your phone.
+* **Never enter your account secret on a website or in another app.** Xaman never needs you to.
 
-For example, let's say you have two phones and you have installed Xaman on both of them. You could import your secret numbers into both phones and access your XRP Ledger account from both devices. The passcode that you setup on one phone does not affect your second phone. You could configure one phone with one passcode and your other phone with a different passcode. Changing your passcode on either device does not affect the other device. In other words, the Xaman passcode (and signing password) are local security measures on your device to prevent accessing the Xaman app.
+### Xaman cards: protection that stays with you
 
-The goal for Xaman is to protect your Secret Numbers **on your phone**. The passcode and signing passwords are designed to help do this.
+Even with all these layers, a phone can be lost or stolen. If you want your account to stay protected even then, a Xaman card is designed for exactly that.
 
-## **Why would I need the Xaman (Tangem) cards then?**
+With a Xaman card, your account's key is created inside the card's chip and never leaves it. No one ever sees it, not even you. There is no account secret to write down, and nothing anyone could trick you into sharing.
 
-By this point, hopefully you realize it is basically impossible to **guess** the Secret Numbers in your lifetime. The amount of possibilities is just too great, but... there is the risk that your phone could be lost or stolen. If that were to happen, and given enough time and resources, your phone could be hacked and once someone gained access to your phone, they might be able to hack Xaman and if they did that they might be able to decrypt your secret numbers, and if they did that, they could access your funds!
+To sign a transaction, you hold the card against your phone. A thief who takes your phone still cannot sign anything without the card. With a Backup card stored somewhere separate, you keep access to your account even if one card is lost.&#x20;
 
-We are talking theoretical here but still, it might be possible, so we decided to offer a way to mitigate the risk of a lost or stolen phone... enter **Xaman (Tangem) cards**.
+To get the most out of your cards, see [_Best security practices for the Xaman cards_](../../xaman-tangem-cards/best-security-practices-using-a-xaman-card.md).
 
-Xaman cards are the perfect way to alleviate the risk of a compromised phone, especially if you follow our recommend guidelines here:
+### Connecting to websites, xApps, and QR codes
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Best Security Practices Using Xaman (Tangem) cards</td><td></td><td></td><td><a href="../../xaman-tangem-cards/best-security-practices-using-a-xaman-card.md">best-security-practices-using-a-xaman-card.md</a></td><td><a href="../../.gitbook/assets/Rocky stream.png">Rocky stream.png</a></td></tr></tbody></table>
+When you use Xaman with a website, an xApp, or a QR code, your account secret stays on your phone. The website or app sends Xaman a sign request, Xaman shows it to you, and nothing happens unless you approve it. When you do, Xaman signs on your phone and sends back only the signed transaction.
 
-Although we believe that your phone is secure and that it will never get lost/damaged/stolen or hacked, having a pair of cards will ensure that even if your phone **was** ever compromised, your XRPL account would still be safe. Here’s how they work…
+This keeps you in control, and it also places the final decision in your hands.
 
-A Xaman card will generate a set of private keys **on the card**. They never leave the card. No one will ever see them, (including you) and there is no way to access them. You can never be tricked into giving your account secret away and the only way to access your account is by having the card with you.
+{% hint style="warning" %}
+A sign request can do anything your account can do, including sending all your funds or changing who controls your account. A transaction you approve cannot be reversed. Read every sign request, and reject any you do not fully understand.
+{% endhint %}
 
-## **This sounds better than a cold wallet.**
+### Trust lines and tokens
 
-You’re right. Most cold wallets give you the account secret (Secret Numbers/Family Seed/Mnemonic) so you can be tricked into giving it away. This cannot happen with the Xaman cards. As well, most cold wallets also require that you have a computer to use them and computers can be VERY difficult to secure. This is not an issue with the Xaman cards.
+Adding a trust line does not open your account to anyone. It cannot give anyone access to your XRP or let them sign for you. What it does is let your account hold a token, and tokens come with risks of their own that are worth knowing before you add one:
 
-Your private key (keypair) is generated by a chip inside the Xaman card. The keypair **cannot be extracted or wiped** from the card and the [key generation by the chip inside the card is very secure](https://twitter.com/Tangem/status/1346555757009899520?s=20). (And has been audited.) There is no way for you to access them so you can never give them away. Like we said, the account secret is **on the card** and the only way to access your account is by physically having the card with you.
+* **An issuer may be able to freeze its token.** Depending on the issuer's settings, you may then be unable to send or trade it.
+* **An issuer may be able to take its token back.** If an issuer turned on clawback before it issued its token, it can take back that token, up to the balance you hold.
+* **A token's name proves nothing.** Any issuer can give a token any name. A token called "RLUSD" from a different issuer is not the real RLUSD. The issuer identifies the token, not the name.
 
-## **I want to know more about the cards.**
+Before you add a token, see _T_[_oken vetting and the token warning_](../../learning-more-about-xaman/token-vetting-and-the-token-warning.md)_._
 
-Of course. check out this article:
+### Unexpected payments and messages
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">All about Xaman (Tangem) cards</td><td></td><td></td><td><a href="../../xaman-tangem-cards/xaman-tangem-cards.md">xaman-tangem-cards.md</a></td><td><a href="../../.gitbook/assets/monolith in stream.jpg">monolith in stream.jpg</a></td></tr></tbody></table>
+You may sometimes receive a tiny payment you did not expect, often with a message attached. Anyone can send these to any account on the XRP Ledger, and the payment itself cannot harm your account. The message is the part to be careful with. Many are scams, so do not follow their links or contact the sender.
 
-## **What about if I connect Xaman to a “questionable” website or I scan an untrusted QR code?**
+To learn more, see [_Spam on the XRP Ledger_](../../all-about-scams/spam-on-the-xrp-ledger.md).
 
-Xaman will never share your private keys with a third party website or application. The website/app will deliver a sign request to Xaman and Xaman will display the sign request for you to approve or deny. Once you approve it, Xaman signs it locally on your phone and returns only the signature to the website/application. Your private keys never leave your phone. Xaman only signs after approval, locally, and then only returns the end product: the signed transaction.
+### Your account belongs to you
 
-## **…and a Trust Line? Can I be hacked by creating a Trust Line?**
+The XRP Ledger runs on independent servers around the world, so no single company or government can switch it off. No one can freeze or move the XRP in your account without your account secret, including XRPL Labs.
 
-It is not possible for someone to access your **XRP** in your XRPL account via a Trust Line, however creating a Trust Line does pose several risks.
+Your account does not depend on Xaman either. If you ever wanted to, you could use your account secret in another wallet that supports the XRP Ledger. See [_Moving your XRPL account to another wallet_](../../learning-more-about-xumm/moving-your-xrpl-account-to-another-wallet.md). That is what self-custody means: your account is yours.
 
-* A token issuer can freeze their own Trust Line, which would make their issued tokens unusable. ( but they can not access your account or your XRP.)
-* A token issuer can misconfigure their Trust Line, which could make their issued tokens unusable. (Again, they can not access your account or your XRP.)
-* A token issuer could send you messages via the XRPL (once they know your r-address) and somehow convince you to send them your secret numbers. (While not really considered a “hack”, the results are pretty much the same.)
-* A token issuer could initiate the 'clawback' feature on their Trust Line which allows them to take back as much of their token as they like, as often as they like, whenever they like.
+### In short
 
-See this link for more information about the Clawback feature on the XRPL:\
-\
-[https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039d-clawback](https://github.com/XRPLF/XRPL-Standards/tree/master/XLS-0039d-clawback)
+If you remember only four things from this article, make it these:
 
-## **What about spam transactions? Are they dangerous?**
+* Keep your phone updated, locked, and free of apps from outside the official stores.
+* Never share your account secret with anyone, for any reason.
+* Read every sign request before you approve it.
+* Consider a Xaman card for large balances and long-term storage.
 
-A 'spam' transaction is one which is unsolicited.
+### Frequently asked questions
 
-In most cases, someone will send a small amount of XRP to an account along with a message, advertisement, special offer, marketing idea, business opportunity, etc. The idea is that you will read the message then decide to investigate and either buy their product, visit their website, invest in their business opportunity, etc.
+**Has Xaman been audited?**
 
-The spam transactions themselves **do not pose a threat** to your XRPL account and do not cost you anything, but the 'special offer" they advertise is often risky and dangerous
+Yes. See [Has Xaman been audited?](../../security-and-xumm/all-about-security/has-xaman-been-audited.md)
 
-If you would like to learn more about spam on the XRPL, check out this article:
+**Does my Xaman passcode protect my account on my other phones?**
 
-{% embed url="https://help.xumm.app/learning-more-about-xumm/spam-on-the-xrp-ledger" %}
+No. The Xaman passcode protects the Xaman app on one phone, and each phone has its own. Your account secret works on any phone, which is why it needs to be protected and kept private.
 
-## **Can the government freeze my funds in Xaman? What happens if the government seized XRPL Labs?**
+**Is an account created in Xaman easier to guess than one created on an offline device?**
 
-The XRP Ledger is basically a giant, decentralized network. While it is possible that a governmental agency might be able to shut down parts of the XRPL in a particular region, (validators, nodes, internet access points) a single government could not shut down all of them all over the world. The XRPL servers are distributed around the planet to form a global network. It will still run and validate transactions regardless if a bunch of servers were shut down. (That is part of the idea behind decentralization.)
+No. The number of possible account secrets is the same wherever the secret is created.
 
-Another feature of the XRPL is that no one, not a government or an exchange or even us can access your XRPL account. You are the only one with the account secret, so without that, there is no way to confiscate or freeze your XRP.
+**If I contact Xaman support, will they ask for my account secret?**
 
-Finally, Xaman will run regardless if XRPL Labs exists or not. Xaman does not need our backend servers to function. All of the XRPL communication and signing happens locally on your mobile device, from within Xaman. It does not need our backend servers for that.
+Never. Xaman support never asks for your account secret, through the Xaman Support xApp or anywhere else. If anyone asks, they are trying to steal your funds. To reach us, use the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
 
-…plus, if worse came to worse, you could always take your account secret and just use another wallet if you wanted to.
+Crypto assets can change in value. This article explains how the feature works and is not financial advice.
 
-{% embed url="https://help.xumm.app/app/learning-more-about-xaman/moving-your-xrpl-account-to-another-wallet" %}
+### See also
 
-## **Ok. Summarize it for me.**
-
-* **Keep your phone safe (physically), up to date and free of spyware and malware**
-* **While security is our number one priority, Xaman can be made safer if you avoid risky interactions with the internet (eg. - public wifi, shady websites, etc.), install a good firewall and use a VPN when possible.**
-* **Never give your account secret (Secret Numbers/Family Seed/Mnemonic) to anyone, for any reason**
-* **Xaman (Tangem) cards are the best solution for long term storage, large account balances and maximum security**
+* [Best security practices for the Xaman cards](../../xaman-tangem-cards/best-security-practices-using-a-xaman-card.md)
+* [Xaman cards](../../xaman-tangem-cards/xaman-tangem-cards.md)
+* [_Token vetting and the token warning_](../../learning-more-about-xaman/token-vetting-and-the-token-warning.md)
+* [_Moving your XRPL account to another wallet_](../../learning-more-about-xumm/moving-your-xrpl-account-to-another-wallet.md)

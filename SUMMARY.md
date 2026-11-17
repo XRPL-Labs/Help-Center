@@ -193,7 +193,7 @@
 ## Security and Xaman
 
 * [All About Security](security-and-xumm/all-about-security/README.md)
-  * [How secure is Xaman?](security-and-xaman/all-about-security/how-secure-is-xaman.md)
+  * [Security in Xaman](security-and-xaman/all-about-security/how-secure-is-xaman.md)
   * [Has Xaman been audited?](security-and-xumm/all-about-security/has-xaman-been-audited.md)
   * [Upgrading your encryption](security-and-xumm/all-about-security/upgrading-your-encryption.md)
   * [Xaman (Tangem) Cards](security-and-xumm/all-about-security/xumm-tangem-cards.md)
