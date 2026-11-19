@@ -1,5 +1,6 @@
 ---
 description: What is a Vanity address and how do I get one?
+hidden: true
 ---
 
 # Vanity Address xApp

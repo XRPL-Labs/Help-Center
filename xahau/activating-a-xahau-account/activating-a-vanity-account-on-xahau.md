@@ -1,5 +1,6 @@
 ---
 description: How to activate a Vanity account on Xahau
+hidden: true
 ---
 
 # Activating a Vanity Account on Xahau
