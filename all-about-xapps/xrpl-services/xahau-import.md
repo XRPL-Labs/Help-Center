@@ -19,7 +19,7 @@ As long as both of these requirements are met, this utility will "clone" your XR
 
 Launch the [Xahau Import xApp](https://xumm.app/detect/xapp:nixer.xahauimport).
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You must accept the Terms and Conditions and the Privacy Policy before you continue. Press the **Next** button to continue.
 
@@ -41,9 +41,9 @@ Press **Next** to continue.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Press the three dots <img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> at the top of the screen.
+Press the three dots <img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line"> at the top of the screen.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Press the <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">button.
 

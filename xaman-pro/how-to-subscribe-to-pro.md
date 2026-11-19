@@ -59,7 +59,7 @@ If you would like to pay for your Xaman Pro subscription using a credit card, yo
 
 2\) Press the **Order cards** button...
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\) Chose the number of cards you would like to receive along with your Pro subscription. Most people go with the **2x Card** option, but you choose 2,3,4 or 5 depending on your needs.
 
@@ -81,7 +81,7 @@ Note: There is a 10% premium (round up to the nearest 5) for this service.
 A 10% premium applies (rounded to the nearest 5) for paying with a credit card.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7\) If you choose to pay with a Credit card, you will receive this screen:
 

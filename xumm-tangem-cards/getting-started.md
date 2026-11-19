@@ -87,7 +87,7 @@ This is the setup we recommend. It takes about ten minutes.
 
 **Step 1. Import the pre-funded card and claim your XRP.**
 
-Take the card out of the clear sleeve and import it first. In Xaman, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Tangem card**. The app walks you through the rest.
+Take the card out of the clear sleeve and import it first. In Xaman, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Xaman Tangem card**. The app walks you through the rest.
 
 See: [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md) for more information.
 

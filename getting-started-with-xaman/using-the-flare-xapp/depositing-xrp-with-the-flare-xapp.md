@@ -23,7 +23,7 @@ A deposit takes two signatures in Xaman. The first sends an instruction to Flare
 4.  Enter the amount of XRP you want to deposit. The amount must be a multiple of 10 XRP.\
     <br>
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="266"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="266"><figcaption></figcaption></figure>
 5. Tap **Request deposit**. The signing screen opens.
 6. Check the **Amount**, then slide to accept.
 

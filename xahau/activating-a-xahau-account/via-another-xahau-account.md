@@ -40,7 +40,7 @@ In Xaman, an unactivated account on Xahau looks like this:
 
 1\) Pressing the <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> button triggers the _Account Activation_ flow.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Pressing the _**Fund with existing account**_ button displays a list of accounts to from which to choose.
 
