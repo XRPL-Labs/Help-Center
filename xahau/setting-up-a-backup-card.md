@@ -1,5 +1,7 @@
 ---
 description: How to link a second Xaman card so it can sign for your Primary account
+hidden: true
+noIndex: true
 ---
 
 # Setting up a Backup card
