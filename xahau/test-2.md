@@ -1,8 +1,3 @@
----
-hidden: true
-noIndex: true
----
-
 # test 2
 
 Your Xaman cards have arrived! 🎉
