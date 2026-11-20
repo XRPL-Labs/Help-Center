@@ -330,7 +330,9 @@ If you had an XRP Ledger account before the cards, you can move everything to th
 
 Most people store the **Primary** card somewhere safe (in a safe, a safe deposit box, or a locked drawer), because it is the master key to the account where the money lives. They carry the **Backup** card with them and use it to sign everyday transactions on the Primary account.
 
-This setup limits the damage if something goes wrong. If you lose the Backup card you carry, you use your Primary card to remove the link to it, and your Primary card still controls everything. See [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards). Either choice works, though. Both cards control the same account after the link.
+{% hint style="info" %}
+If you ever lose a card, the other one still gets you into your account. Write down your Primary account’s r-address now and keep it somewhere safe, since you need it to reach your account with the Backup card if you lose your phone and your Primary card together. For what to do in each case, see [Lost or damaged cards](../xumm-tangem-cards/lost-or-damaged-cards.md).
+{% endhint %}
 
 #### I have more than two cards. What do I do with the others?
 
