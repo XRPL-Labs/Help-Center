@@ -10,8 +10,6 @@ noIndex: true
 
 Your Xaman cards have arrived, so let's open the package together. In about ten minutes, you go from a sealed pouch to a working cold-wallet setup: two cards, one account, and your XRP protected by a card you can hold in your hand. This article walks you through every step, from your first tap to linking your Backup card. Along the way, it explains why you have two cards and what each one is for.
 
-Xaman cards work on both the XRP Ledger (XRPL) and Xahau. XRP is the native coin of the XRP Ledger, and XAH is the native coin of Xahau. The setup steps in this article are for the XRP Ledger. For Xahau, see _Setting up your Xaman cards on Xahau_ \[VERIFY LINK].
-
 ### What is in your package
 
 Your package arrives in a sealed pouch, and the cards inside are loose. That is normal, so there is no need to worry when they slide out. Inside, you find:
@@ -20,9 +18,9 @@ Your package arrives in a sealed pouch, and the cards inside are loose. That is 
 * **A printed instruction sheet**, which covers the same setup as this article in less detail.
 * **A thank-you card**, with links to download Xaman from the App Store or Google Play.
 
-<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2F0T2tpC2uhce5U15uAodB%2Fxaman-thank-you-card.png?alt=media&#x26;token=56857609-4b13-4a25-a52d-0ff6e2eb4361" alt="The Xaman thank-you card with links to download the Xaman app" width="188"><figcaption><p>Use the links on this card to get the official app</p></figcaption></figure>
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2F0T2tpC2uhce5U15uAodB%2Fxaman-thank-you-card.png?alt=media&#x26;token=56857609-4b13-4a25-a52d-0ff6e2eb4361" alt="The Xaman thank-you card with links to download the Xaman app" width="188"><figcaption><p>Thank you card</p></figcaption></figure>
 
-If your package arrived already opened, see Are my Xaman cards safe? before you go any further.
+If your package arrived already opened, see [Are my Xaman cards safe?](../xaman-tangem-cards/are-my-xaman-cards-safe.md) before you go any further.
 
 ### Your pre-funded card
 
@@ -41,19 +39,19 @@ Check that you have these ready:
 * The latest version of the official Xaman app from the [App Store](https://apps.apple.com/app/id1492302343) or [Google Play](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm).
 
 {% hint style="info" %}
-Already have an XRP Ledger account in Xaman? Read How to link an existing account to a Xaman card before you start. It helps you decide whether to keep your existing account or move everything to a new card account.
+Already have an XRP Ledger account in Xaman? Read [How to link an existing account to a Xaman card ](../xaman-tangem-cards/how-to-link-an-existing-account-to-a-xaman-card.md)before you start. It helps you decide whether to keep your existing account or move everything to a new card account.
 {% endhint %}
 
 ### How two cards protect one account
 
-Here is the one thing worth understanding before you start: each new card creates and holds its own account. A brand-new card holds no account at all. When you import it, the card creates a new XRP Ledger account inside its chip. So right after you import both cards, you have two different accounts, not one.
+Here is the one thing worth understanding before you start: each new card creates and holds its own account. A brand-new card holds no account at all. When you import it, the card creates the keys for a new XRP Ledger account inside its chip. That account only becomes active on the XRP Ledger once it receives XRP. So right after you import both cards, you have two different accounts, not one.
 
-That is expected, and the setup turns those two accounts into one. Your pre-funded card becomes your Primary card, and your XRP lives on its account. You then link your other card to it as your Backup card. (The printed sheet in your package calls it the Signing card, and it is the same thing.) Once they are linked, both cards can sign for the same Primary account.
+Your pre-funded card becomes your Primary card, and your XRP lives on its account. You then link your other card to it as your Backup card. (The printed sheet in your package calls it the Signing card, and it is the same thing.) Once they are linked, both cards can sign for the same Primary account.
 
 Think of it as two keys to the same door. The Primary card is the master key, and the Backup card is a second key to that same door. You can use either one to get in, which is exactly what protects you if one of them goes missing.
 
 {% hint style="info" %}
-If you lose the Backup card, use your Primary card to remove its link, then keep using your Primary card. If you lose the Primary card, use your Backup card to move your assets to another account. Write down your Primary account's r-address and keep it somewhere safe, since you need it to reach your account with the Backup card if you ever lose your phone and your Primary card together. See Lost or damaged cards.
+If you lose the Backup card, use your Primary card to remove its link, then keep using your Primary card. If you lose the Primary card, use your Backup card to move your assets from the Primary card account to another account. Write down your Primary account's r-address and keep it somewhere safe, since you need it to reach your account with the Backup card if you ever lose your phone and your Primary card together. See [Lost or damaged cards](../xumm-tangem-cards/lost-or-damaged-cards.md).
 {% endhint %}
 
 ### What Xaman cards do, and what they do not
@@ -74,11 +72,11 @@ Take the pre-funded card out of its sleeve, and import it first.
 
 1. Tap **Settings** > **Accounts**.
 2. Tap **+ Add account**.
-3. Tap **Add Xaman Tangem card**. \[VERIFY UI LABEL]
+3. Tap **Add Xaman Tangem card**.
 4. Follow the instructions on the screen.
 5. Tap **Activate your account** to claim the XRP on your pre-funded card.
 
-This account is now your Primary account. For more detail, see How to import your Xaman card \[VERIFY LINK].
+This account is now your Primary account. For more detail, see [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md).
 
 {% hint style="danger" %}
 If Xaman warns that a card was used before, stop. Someone else may already control a used card, and anything you send to it could be taken. Do not import that card, and contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
@@ -86,11 +84,11 @@ If Xaman warns that a card was used before, stop. Someone else may already contr
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2F1b03EiB3rkyCZpu3Jso3%2Fxaman-primary-card-home.png?alt=media&#x26;token=7596179e-989c-4d65-80f0-ebd3840d3bd5" alt="The Xaman Home screen for the newly activated Primary card account" width="335"><figcaption><p>Your Primary account is now active</p></figcaption></figure>
 
-You will see XRP in your balance, but you cannot spend it yet. Every XRP Ledger account must keep a minimum balance, called the reserve, and the XRP on your pre-funded card covers it. This is a rule of the XRP Ledger, not a Xaman fee. For more, see How to activate a new XRPL account.
+You will see XRP in your balance, but you cannot spend it. An account becomes active on the XRP Ledger only when it receives XRP, and from then on it must keep a minimum balance, called the reserve. The XRP on your pre-funded card covers that reserve for your Primary account. Your Backup card does not need one, since it never holds funds of its own. It only signs for your Primary account. The reserve is a rule of the XRP Ledger, not a Xaman fee. For more,
 
 #### Set up your second card as the Backup
 
-Once your Primary account is active, Xaman reminds you that it has no Backup card yet. Tapping that reminder starts the Backup setup.
+Once your Primary account is active, Xaman reminds you that it has no Backup card yet. The reminder is not an error, and it stays on your Primary account until your Backup card is linked to it. If you are not ready to set up your Backup card right away, you can come back to it later. Tapping the reminder starts the Backup setup.
 
 1. Tap **No back-up card configured**.
 2. Follow the instructions on the screen to import your second card.
@@ -99,15 +97,15 @@ Once your Primary account is active, Xaman reminds you that it has no Backup car
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FdSBFHqGPn0ic31CdOAkY%2Fxaman-backup-card-step1.png?alt=media&#x26;token=c6c255fd-28c7-46a4-a1d6-1aa3218ea65f" alt="The first screen of the Backup card setup in Xaman" width="326"><figcaption><p>Have your second card ready before you continue</p></figcaption></figure>
 
-Your Backup card's account does not need any XRP of its own. Do not tap **Activate your account** on it, and leave that account as it is.
+Your Backup card’s account does not need any XRP of its own. It never holds funds, and it only signs for your Primary account, so there is nothing to activate.
 
-<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fca3iMSkmiDkSAsmQyGno%2Fxaman-backup-card-step2.png?alt=media&#x26;token=e823d0e4-1f5b-4a58-99e1-66985061f18a" alt="The second screen of the Backup card setup in Xaman" width="335"><figcaption><p>The Backup card account stays unactivated</p></figcaption></figure>
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2Fca3iMSkmiDkSAsmQyGno%2Fxaman-backup-card-step2.png?alt=media&#x26;token=e823d0e4-1f5b-4a58-99e1-66985061f18a" alt="The second screen of the Backup card setup in Xaman" width="335"><figcaption><p>Scan the Backup card</p></figcaption></figure>
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FhDsJ2dp3o3Bwu12hyfIp%2Fxaman-backup-card-ready.png?alt=media&#x26;token=6232ea75-7f09-46a4-96e9-cc03f6549cf4" alt="The Backup card imported and ready to be linked" width="334"><figcaption><p>Your Backup card is ready to link</p></figcaption></figure>
 
 #### Link the Backup card to your Primary account
 
-This step is what turns two accounts into one setup. It uses an XRP Ledger feature called a regular key, which lets a second card sign for your Primary account. You do not need to understand the feature to use it, since the xApp walks you through every step.
+This step is what turns two accounts into one setup. It uses an XRP Ledger feature called a regular key. A regular key is a second key that the XRP Ledger allows to sign for an account, alongside the account’s own key. Your Backup card becomes that second key for your Primary account, while your Primary card keeps full control.
 
 1. Open the [Tangem Backup xApp](https://xaman.app/detect/xapp:xumm.tangem-backup).
 2. Follow the instructions on the screen to link your Backup card to your Primary account.
@@ -147,7 +145,7 @@ You can, though it takes a few extra steps after you set up both cards. First, a
 
 **Why can I not spend the XRP on my pre-funded card?**
 
-That XRP is the reserve, the minimum balance every XRP Ledger account must keep. It shows in your balance, but it stays locked for as long as the account exists. This is a rule of the XRP Ledger, not a Xaman fee, and the network can change the amount over time.
+That XRP is the reserve, the minimum balance an XRP Ledger account must keep once it is active. It shows in your balance, but it stays locked for as long as the account exists. Your Backup card’s account is never activated, so it has no reserve to keep. This is a rule of the XRP Ledger, not a Xaman fee, and the network can change the amount over time.
 
 **What if my package arrived opened?**
 
