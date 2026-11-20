@@ -44,7 +44,7 @@ Act now, using one of these two options. Either one works, so choose the one you
 
 This stops your old account secret from working, so the other device can no longer sign anything for your account. Rekeying gives your account a new key that only you hold, and it has to come first: the XRP Ledger only lets you disable the master key once a new key is in place. Follow these two articles in order:
 
-* [How to Rekey an XRPL Ledger (XRPL) account](../../learning-more-about-xaman/how-to-rekey-your-account.md)
+* [How to Rekey an XRP Ledger (XRPL) account](../../learning-more-about-xaman/how-to-rekey-your-account.md)
 * [How to disable the Master key](../../learning-more-about-xaman/how-to-disable-the-master-key.md)
 
 **Option 2: Move your funds to another account that only you control.**&#x20;
@@ -65,7 +65,7 @@ Once your funds are safe, it is worth working out how someone got your account s
 * Did you recently install a new app, a browser extension, or a file from outside the official stores?
 * Did anyone ask you to install a screen-sharing or remote-access app?
 
-If you cannot find the cause, check your phone for apps you do not recognize, especially screen-sharing or remote-access apps, and remove them. See [Security in Xaman](../../security-and-xaman/all-about-security/how-secure-is-xaman.md) for the habits that matter most.
+If you cannot find the cause, check your phone for apps you do not recognize, especially screen-sharing or remote-access apps, and remove them. See [Security in Xaman](../../security-and-xaman/all-about-security/security-in-xaman.md) for the habits that matter most.
 
 ### Frequently asked questions
 
@@ -89,7 +89,7 @@ Never. Xaman support never asks for your account secret, and anyone who does is 
 
 * [Security in Xaman](https://help.xaman.app/app/security-and-xaman/all-about-security/how-secure-is-xaman)
 * [How to create an XRP Ledger account](https://help.xaman.app/app/getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account)
-* [How to Rekey an XRPL Ledger (XRPL) account](../../learning-more-about-xaman/how-to-rekey-your-account.md)
-* [How to disable the master key](https://help.xaman.app/app/learning-more-about-xaman/how-to-disable-the-master-key)
+* [How to Rekey an XRP Ledger (XRPL) account](../../learning-more-about-xaman/how-to-rekey-your-account.md)
+* [How to disable the Master key](https://help.xaman.app/app/learning-more-about-xaman/how-to-disable-the-master-key)
 * [Sending XRP and tokens from Xaman](https://help.xaman.app/app/getting-started-with-xaman/sending-tokens-from-xaman)
 * [I've been scammed!](https://help.xaman.app/app/all-about-scams/ive-been-scammed)
