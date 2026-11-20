@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Getting started with your new cards
 
 Your Xaman cards have arrived! 🎉
