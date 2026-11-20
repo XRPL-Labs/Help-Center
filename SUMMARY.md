@@ -136,7 +136,7 @@
 
 * [Xaman cards](xaman-tangem-cards/xaman-tangem-cards.md)
 * [Are my Xaman Cards safe?](xaman-tangem-cards/are-my-xaman-cards-safe.md)
-* [Getting started with your new cards 🤗](xumm-tangem-cards/getting-started.md)
+* [Getting started with your new cards](xumm-tangem-cards/getting-started.md)
 * [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
 * [PINs on older Xumm/Xaman cards](xaman-tangem-cards/creating-a-pin-on-your-xaman-tangem-card.md)
 * [Best security practices for the Xaman cards](xaman-tangem-cards/best-security-practices-using-a-xaman-card.md)
@@ -278,3 +278,4 @@
   * [How to send XAH Tokens to GateHub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-tokens-to-gatehub-self-custodial-account.md)
   * [How to send XAH coins to GateHub - Hosted account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-hosted-account.md)
   * [How to send XAH coins to Gatehub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-self-custodial-account.md)
+* [test](xahau/test.md)
