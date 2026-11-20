@@ -1,5 +1,4 @@
 ---
-hidden: true
 noIndex: true
 ---
 
@@ -145,6 +144,8 @@ Deleting an account costs a small network fee, so you will get back slightly les
 <figure><img src="../.gitbook/assets/xaman-backup-card-confirm.png" alt="" width="331"><figcaption></figcaption></figure>
 
 
+
+<figure><img src="../.gitbook/assets/xaman-backup-card-linked.png" alt="" width="330"><figcaption></figcaption></figure>
 
 **Step 3. Link the Backup card to your Primary account.**
 
