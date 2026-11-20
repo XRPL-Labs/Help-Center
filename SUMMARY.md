@@ -280,3 +280,4 @@
   * [How to send XAH coins to Gatehub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-self-custodial-account.md)
 * [test](xahau/test.md)
 * [Setting up your Xaman cards](xahau/setting-up-your-xaman-cards.md)
+* [Setting up a Backup card](xahau/setting-up-a-backup-card.md)

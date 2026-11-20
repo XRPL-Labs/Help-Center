@@ -268,7 +268,9 @@ After the import, tap the **Activate your account** button in the app to claim t
 
 **Step 2. Configure your second card as your Backup card.**
 
-Once your Primary card account has been activated, Xaman reminds you that it has no backup yet. Tap the **No back-up card configured** box.&#x20;
+Once your Primary account is active, Xaman reminds you that it has no Backup card yet. The reminder is not an error, and it stays on your Primary account until a backup is set up for it. If you are not ready to set up your Backup card right away, you can come back to it later. Tapping the reminder starts the Backup setup, and Xaman handles everything from there.
+
+Tap the **No back-up card configured** box.&#x20;
 
 <figure><img src="../.gitbook/assets/xaman-backup-card-banner-arrow_2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -305,6 +307,10 @@ Deleting an account costs a small network fee, so you will get back slightly les
 
 
 <figure><img src="../.gitbook/assets/xaman-backup-card-linked.png" alt="" width="330"><figcaption></figcaption></figure>
+
+
+
+Once your Primary account is active, Xaman reminds you that it has no Backup card yet. The reminder is not an error, and it stays on your Primary account until a backup is set up for it. If you are not ready to set up your Backup card right away, you can come back to it later. Tapping the reminder starts the Backup setup, and Xaman handles everything from there.
 
 **Step 3. Link the Backup card to your Primary account.**
 
