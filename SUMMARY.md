@@ -279,3 +279,4 @@
   * [How to send XAH coins to GateHub - Hosted account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-hosted-account.md)
   * [How to send XAH coins to Gatehub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-self-custodial-account.md)
 * [test](xahau/test.md)
+* [test 2](xahau/test-2.md)
