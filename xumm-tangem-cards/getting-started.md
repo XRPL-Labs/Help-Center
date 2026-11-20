@@ -1,6 +1,5 @@
 ---
 description: Your Xaman cards have arrived! 🎉
-noIndex: true
 ---
 
 # Getting started with your new cards
