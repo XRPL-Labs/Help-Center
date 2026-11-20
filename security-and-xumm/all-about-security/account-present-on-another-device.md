@@ -57,7 +57,7 @@ Send all your XRP and tokens there, then stop using the old account. If you crea
 
 ### Find out how your account secret got out
 
-Once your funds are safe, it is worth working out how someone got your account secret, so it cannot happen again. Account secrets usually leak in ordinary ways that are easy to miss. Go through these questions honestly, and take your time:
+Once your funds are safe, it is worth working out how someone got your account secret, so it cannot happen again. Account secrets usually get out in ordinary ways that are easy to miss. Go through these questions honestly, and take your time:
 
 * Did you ever type your account secret into a website, a form, another wallet, or an "airdrop" or "validation" page?
 * Is your account secret saved anywhere digital, such as a photo, a screenshot, a note, an email, or a cloud backup?
