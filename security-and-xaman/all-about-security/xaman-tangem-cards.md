@@ -1,6 +1,7 @@
 ---
 description: 'Safer savings: Introducing the Xaman Tangem Card!'
 hidden: true
+noIndex: true
 coverY: 0
 ---
 
