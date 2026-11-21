@@ -131,6 +131,7 @@
 * [I've been scammed!](all-about-scams/ive-been-scammed.md)
 * [Spam on the XRP Ledger](all-about-scams/spam-on-the-xrp-ledger.md)
 * [Can Xaman reverse, freeze or undo a transaction?](all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction.md)
+* [Recovery scams](all-about-scams/recovery-scams.md)
 
 ## XAMAN (TANGEM) CARDS
 
