@@ -6,7 +6,7 @@ description: The number that tells an exchange which customer a payment is for
 
 ### Background
 
-A destination tag is a number you add to an XRP Ledger (XRPL) payment so the receiver knows who it is for. Think of an apartment building: the r-address[^1] is the street address, and the destination tag is the apartment number. The payment reaches the building either way, but without the apartment number, nobody knows whose door to knock on.
+A destination tag is a number you add to an [XRP Ledger](#user-content-fn-1)[^1] (XRPL) payment so the receiver knows who it is for. Think of an apartment building: the r-address[^2] is the street address, and the destination tag is the apartment number. The payment reaches the building either way, but without the apartment number, nobody knows whose door to knock on.
 
 Exchanges and other services that hold funds for many customers often use one shared account for all of them. They give each customer a destination tag, and use it to credit each deposit to the right person. If a deposit arrives without the right tag, the exchange receives your XRP but cannot tell it is yours.
 
@@ -14,30 +14,17 @@ This article explains when you need a destination tag, how to add one in Xaman, 
 
 ### When you need a destination tag
 
-**Sending to an exchange or another service that holds funds for you:** yes, almost always. Copy the tag from the exchange's XRP deposit page, exactly as shown. Some exchanges call it a "Tag", a "Memo", or a "Destination Tag", and in Xaman it always goes in the **Destination Tag** field.
+Whether you need one depends on where your XRP is going:
 
-**Sending to a self-custody account,** such as another Xaman account or a friend's wallet: usually not. The account belongs to one person, so there is nobody else to tell it apart from. Leave the field empty unless the receiver asked you to use a tag.
+* **Sending to an exchange, or another service that holds funds for you: almost always.** Copy the tag from the exchange's XRP deposit page, exactly as shown. Some exchanges call it a "Tag", a "Memo", or a "Destination Tag". In Xaman, you always enter it with the **Add destination tag** button.
+* **Sending to a** [**self-custody**](#user-content-fn-3)[^3] **account, such as another Xaman account or a friend's wallet: usually not.** The account belongs to one person, so there is nobody else to tell it apart from. Leave the destination tag out unless the receiver asked you to use one.
+* **Receiving into your Xaman account: no.** Your Xaman account belongs only to you, so people sending you XRP do not need a tag. If an exchange's withdrawal form will not let you continue without one, contact the exchange's support team rather than guessing a number.
 
-**Receiving into your Xaman account:** no. Your Xaman account belongs only to you, so people sending you XRP do not need a tag. If an exchange's withdrawal form will not let you continue without one, contact the exchange's support team before you guess a number.
+### Adding a destination tag in Xaman
 
-### How to add a destination tag in Xaman
+You send to an exchange the same way as to anyone else, with one extra step at the end. On the **Summary** screen, tap **Add destination tag**, and enter the number from the exchange's deposit page. Check that both the address and the tag match the deposit page, digit for digit, before you slide to send. [Sending XRP and tokens from Xaman](https://help.xaman.app/app/getting-started-with-xaman/sending-tokens-from-xaman#sending-to-an-exchange) walks you through every step.
 
-To send a payment with a destination tag:
-
-1. Tap **Send**. \[VERIFY UI LABEL]
-2. Enter or scan the receiver's r-address.
-3. Enter the tag in the **Destination Tag** field. \[VERIFY UI LABEL]
-4. Enter the amount, then continue to the review screen.
-5. Check that the destination tag on the review screen matches the one the exchange gave you, digit for digit.
-6. Swipe the **Slide to accept** button to sign the payment.
-
-> **IMAGE PLACEHOLDER**
->
-> * **Description:** The Xaman review screen for a payment to an exchange, with the destination tag visible. Use the Stargate account as the sender, and the Default theme.
-> * **Caption:** Check the tag here before you slide to accept
-> * **Alt text:** The Xaman review screen showing the receiver's address and destination tag
-
-If the exchange shows a QR code on its deposit page, scanning it with Xaman often fills in the address and the tag together. \[Uncertain] Check the review screen either way, since the tag is the part that decides whether your deposit can be credited.
+<figure><img src="../.gitbook/assets/xaman-send-summary-destination-tag.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### What the XRP Ledger checks, and what it does not
 
@@ -55,12 +42,12 @@ Do not send the payment again, since a second payment would end up in the same p
 
 To get your deposit credited:
 
-1. Find the payment in Xaman, and copy its transaction hash (the payment's unique ID). \[VERIFY UI LABEL]
+1. In **Events**, tap the payment to open its **Transaction details** screen, and copy the number under **Transaction ID**.
 2. Contact the exchange's support team through its official website or app.
-3. Give them the transaction hash, the amount, the date and time, and your exchange account details.
+3. Give them the [transaction ID](#user-content-fn-4)[^4], the amount, the date and time, and your exchange account details.
 4. Ask them to credit the deposit to your account.
 
-Most exchanges can credit a deposit like this once they confirm it is yours, though it can take some time. Xaman cannot reverse the payment or move it for you, since it is already in an account the exchange controls. Be careful of anyone who contacts you offering to recover the deposit for a fee. Only the exchange can credit it. See [Recovery scams](https://help.xaman.app/app/all-about-scams/recovery-scams) \[VERIFY LINK].
+Most exchanges can credit a deposit like this once they confirm it is yours, though it can take some time. Xaman cannot reverse the payment or move it for you, since it is already in an account the exchange controls. Be careful of anyone who contacts you offering to recover the deposit for a fee. Only the exchange can credit it. See [Recovery scams](https://help.xaman.app/app/all-about-scams/recovery-scams).
 
 ### Frequently asked questions
 
@@ -70,7 +57,7 @@ No. Your Xaman account is yours alone, so it does not need one. When you send to
 
 **What is the difference between a destination tag and a memo?**
 
-A destination tag is a number that tells the receiver who a payment is for. A memo is an optional note attached to a payment. Some exchanges label their destination tag "Memo", but in Xaman it still goes in the **Destination Tag** field. A tag entered as a memo will not be read as a destination tag.
+A destination tag is a number that tells the receiver who a payment is for. A memo is an optional note attached to a payment. Some exchanges label their destination tag "Memo", but in Xaman it always goes in with **Add destination tag**, never in the **Memo** field. A tag entered as a memo will not be read as a destination tag.
 
 **Why can a destination tag only contain numbers?**
 
@@ -88,23 +75,17 @@ An X-address is a longer address that combines an r-address and a destination ta
 
 Many exchanges give each customer a tag that never changes, but not all of them do. Copy the address and tag from the exchange's deposit page each time you send, to be sure they are still current.
 
-### Prefer to watch?
-
-This short video explains destination tags in a few minutes.
-
-{% embed url="https://youtu.be/gAWnIw4gzW8?list=PL7cEYW-Kob0p9EcJexpZRc-vY93vnpp_l" %}
-Destination tags explained
-{% endembed %}
-
 ### See also
 
 * [Sending XRP and tokens from Xaman](https://help.xaman.app/app/getting-started-with-xaman/sending-tokens-from-xaman)
-* [Deposit to exchange did not arrive](https://help.xaman.app/app/learning-more-about-xaman/deposit-to-exchange-did-not-arrive) \[VERIFY LINK]
+* [Deposit to exchange didn't arrive](https://help.xaman.app/app/learning-more-about-xaman/deposit-to-exchange-didnt-arrive)
 * [Can Xaman reverse, freeze or undo a transaction?](https://help.xaman.app/app/all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction)
-* [Recovery scams](https://help.xaman.app/app/all-about-scams/recovery-scams) \[VERIFY LINK]
+* [Recovery scams](https://help.xaman.app/app/all-about-scams/recovery-scams)
 
-Also available in this video series:
+[^1]: A public network, run by independent computers around the world, that records who owns what. XRP is its native coin.
 
-<table><thead><tr><th width="370">Video</th><th>Description</th></tr></thead><tbody><tr><td><a href="../getting-started-with-xaman/what-is-xaman/">What is Xumm?</a></td><td>Explaining the Xumm app</td></tr><tr><td><a href="../getting-started-with-xaman/what-is-xaman/where-are-your-funds-stored.md">Where are your funds stored?</a></td><td>XRP is on the XRPL, not in Xumm</td></tr><tr><td><a href="../learning-more-about-xaman/how-can-you-access-your-xrpl-account.md">Protecting your account secret</a></td><td>Tips on protecting your secret numbers</td></tr><tr><td><a href="../xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md">Reserves and Fees</a></td><td>Base reserve and XRPL Fees</td></tr></tbody></table>
+[^2]: Your account's address on the XRP Ledger. It always starts with "r", and it is safe to share.
 
-[^1]: Your account's address on the XRP Ledger. It always starts with "r", and it is safe to share.
+[^3]: You alone hold the keys to your account. No company, including Xaman, can move, freeze, or recover your funds for you.
+
+[^4]: A transaction's unique ID, also called a transaction hash. It helps you find the transaction in an explorer, or show support which one you mean.
