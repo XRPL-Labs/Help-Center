@@ -113,6 +113,7 @@
 * [How to scan a QR code](learning-more-about-xaman/how-to-scan-a-qr-code.md)
 * [How to configure biometrics](learning-more-about-xaman/how-to-configure-biometrics.md)
 * [How to migrate from Toast Wallet to Xaman](learning-more-about-xaman/how-to-migrate-from-toast-wallet-to-xaman.md)
+* [Token freezes and clawback](learning-more-about-xaman/token-freezes-and-clawback.md)
 
 ## Configuring Xaman
 
