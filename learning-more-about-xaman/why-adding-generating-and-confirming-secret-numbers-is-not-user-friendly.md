@@ -1,21 +1,23 @@
 ---
 description: Why adding / generating & confirming "Secret Numbers" is not user friendly
+hidden: true
+noIndex: true
 ---
 
 # Why adding / generating & confirming "Secret Numbers" is not user friendly
 
 #### Confirming your secret numbers is time consuming and hard. Why?
 
-When importing or generating your account, you may have to enter (or confirm) your Secret Numbers. This is a time consuming and annoying process. We agree. **WHY!?**&#x20;
+When importing or generating your account, you may have to enter (or confirm) your Secret Numbers. This is a time consuming and annoying process. We agree. **WHY!?**
 
-We created the Secret Numbers to replace the existing secrets like mnemonic words and the family seed (s... code), because it's equally secure and a lot less prone to errors.&#x20;
+We created the Secret Numbers to replace the existing secrets like mnemonic words and the family seed (s... code), because it's equally secure and a lot less prone to errors.
 
-The common formats for XRPL account secrets are:&#x20;
+The common formats for XRPL account secrets are:
 
 * Family Seed, eg. sh1HiK7SwjS1VxFdXi7qeMHRedrYX
 * Mnemonic, eg. car banana apple road ...
 
-These formats are prone to typos and are not that user friendly. Using numbers means it's language (spoken, written) agnostic as well. They may be especially intimidating for the public that's relatively new to cryptocurrencies / blockchain technology.&#x20;
+These formats are prone to typos and are not that user friendly. Using numbers means it's language (spoken, written) agnostic as well. They may be especially intimidating for the public that's relatively new to cryptocurrencies / blockchain technology.
 
 ### A secret now looks like: <a href="#h_be422ab2cf" id="h_be422ab2cf"></a>
 
@@ -25,13 +27,11 @@ These formats are prone to typos and are not that user friendly. Using numbers m
 
 For compatibility with existing clients, this library supports exporting the family seed for a generated / entered "Secret Number"-set as well.
 
-&#x20;
-
 ## Entering Secret Numbers <a href="#h_72f721ce4a" id="h_72f721ce4a"></a>
 
-When entering Secret Numbers, Xaman starts with a random digit, each time, forcing you to go to the right digit with a Plus and Minus key, then to go to the next field.&#x20;
+When entering Secret Numbers, Xaman starts with a random digit, each time, forcing you to go to the right digit with a Plus and Minus key, then to go to the next field.
 
-We do this so:&#x20;
+We do this so:
 
 1. A compromised keyboard cannot "sniff" the numbers you are entering
 2. Someone looking over your shoulder can't follow it based on the position of your finger when tapping
