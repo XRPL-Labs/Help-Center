@@ -49,7 +49,7 @@ Every transaction on the XRP Ledger and Xahau has a small network fee. It goes t
 
 ### Get started
 
-* [_Installing Xaman_](../installing-xumm.md)
+* [_Installing Xaman_](../installing-xaman.md)
 * [_Your first XRP Ledger account_](../your-first-xrp-ledger-account/)
 * [_Importing your account_,](../importing-your-account/) if you already have an XRP Ledger account
 
@@ -69,4 +69,4 @@ No. Xaman never has a copy of your account secret, so it cannot restore your acc
 
 **Is Xaman owned by Ripple?**
 
-No. Xaman is developed by XRPL Labs, which is independent of Ripple. See [_Xaman vs. Ripple_](../../about-xaman-and-xrpl-labs/is-xumm-owned-by-ripple.md).
+No. Xaman is developed by XRPL Labs, which is independent of Ripple. See [_Xaman vs. Ripple_](../../about-xaman-and-xrpl-labs/is-xaman-owned-by-ripple.md).
