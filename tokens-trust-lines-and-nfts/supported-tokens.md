@@ -1,11 +1,8 @@
 ---
 description: Which tokens does Xaman support?
-cover: >-
-  https://images.unsplash.com/photo-1533988902751-0fad628013cb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx0b2tlbnN8ZW58MHx8fHwxNjc0NTczMTM3&ixlib=rb-4.0.3&q=80
-coverY: 0
 ---
 
-# 🪙 Supported tokens
+# Supported tokens
 
 Xaman (formerly known as Xumm) supports both the XRP Ledger and the Xahau blockchain. Any token issued on either network is supported by Xaman.
 
@@ -21,9 +18,9 @@ No. Our focus is the XRP Ledger and the Xahau network.
 
 Those tokens are all issued currencies. They were created on the XRPL/Xahau network to represent specific assets. Anyone can create a token on the XRP Ledger. (Xaman actually contains an xApp called [_**Token Creator**_](https://xumm.app/detect/xapp:nixer.tokencreate) to walk you through the process of doing this.)
 
-The BTC/ETH/SGB/FLR tokens that were issued on the XRPL are not the same as the native BTC/ETH/SGB/FLR tokens on their respective blockchains.&#x20;
+The BTC/ETH/SGB/FLR tokens that were issued on the XRPL are not the same as the native BTC/ETH/SGB/FLR tokens on their respective blockchains.
 
-For example, you can not send BTC issued on the XRPL directly to the Bitcoin network because the Bitcoin network and the XRP Ledger are separate and incompatible networks.&#x20;
+For example, you can not send BTC issued on the XRPL directly to the Bitcoin network because the Bitcoin network and the XRP Ledger are separate and incompatible networks.
 
 People/companies issue tokens on XRPL to enjoy all the benefits of the XRPL but who don't want the limitations or issues associated with other blockchains.
 

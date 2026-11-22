@@ -75,7 +75,7 @@ Adding a trust line does not open your account to anyone. It cannot give anyone 
 * **An issuer may be able to take its token back.** If an issuer turned on clawback before it issued its token, it can take back that token, up to the balance you hold.
 * **A token's name proves nothing.** Any issuer can give a token any name. A token called "RLUSD" from a different issuer is not the real RLUSD. The issuer identifies the token, not the name.
 
-Before you add a token, see _T_[_oken vetting and the token warning_](../../learning-more-about-xaman/token-vetting-and-the-token-warning.md)_._
+Before you add a token, see _T_[_oken vetting and the token warning_](../../tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)_._
 
 ### Unexpected payments and messages
 
@@ -122,5 +122,5 @@ Crypto assets can change in value. This article explains how the feature works a
 
 * [Best security practices for the Xaman cards](../../xaman-cards/best-security-practices-using-a-xaman-card.md)
 * [Xaman cards](../../xaman-cards/xaman-tangem-cards.md)
-* [_Token vetting and the token warning_](../../learning-more-about-xaman/token-vetting-and-the-token-warning.md)
+* [_Token vetting and the token warning_](../../tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)
 * [_Moving your XRPL account to another wallet_](../../your-account/importing-your-account/moving-your-xrpl-account-to-another-wallet.md)

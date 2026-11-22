@@ -47,8 +47,8 @@ For example, GateHub issued their XAH tokens as a way to represent the value of 
 
 For more information on Gatehub's issued tokens, please refer to this article:
 
-{% content-ref url="../learning-more-about-xumm/gatehubs-issued-tokens.md" %}
-[gatehubs-issued-tokens.md](../learning-more-about-xumm/gatehubs-issued-tokens.md)
+{% content-ref url="../tokens-trust-lines-and-nfts/gatehubs-issued-tokens.md" %}
+[gatehubs-issued-tokens.md](../tokens-trust-lines-and-nfts/gatehubs-issued-tokens.md)
 {% endcontent-ref %}
 
 {% hint style="danger" %}
@@ -116,8 +116,8 @@ If you have XAH tokens issued by GateHub, you can also create a Gatehub account,
 
 Please refer to this article for more information:
 
-{% content-ref url="../learning-more-about-xumm/gatehubs-issued-tokens.md" %}
-[gatehubs-issued-tokens.md](../learning-more-about-xumm/gatehubs-issued-tokens.md)
+{% content-ref url="../tokens-trust-lines-and-nfts/gatehubs-issued-tokens.md" %}
+[gatehubs-issued-tokens.md](../tokens-trust-lines-and-nfts/gatehubs-issued-tokens.md)
 {% endcontent-ref %}
 
 <br>

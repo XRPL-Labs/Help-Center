@@ -77,8 +77,8 @@ The person who you are sending tokens to must have a Trust Line setup for the sa
 
 This article explains how to do this:
 
-{% content-ref url="../learning-more-about-xaman/how-to-create-a-trust-line.md" %}
-[how-to-create-a-trust-line.md](../learning-more-about-xaman/how-to-create-a-trust-line.md)
+{% content-ref url="../tokens-trust-lines-and-nfts/how-to-create-a-trust-line.md" %}
+[how-to-create-a-trust-line.md](../tokens-trust-lines-and-nfts/how-to-create-a-trust-line.md)
 {% endcontent-ref %}
 
 **Does each token have a different issuing r-address?**

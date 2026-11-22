@@ -76,7 +76,7 @@ Before you add a Trust Line, keep these points in mind:
 2. Issuers have control over their tokens. An issuer can charge a transfer fee, and can freeze its token, for one holder or for all of them. Only tokens can be frozen. XRP cannot be frozen.
 3. Some issuers can claw back their tokens, taking them back out of your account. An issuer can only do this if it turned the option on before it issued any tokens. See [_Clawing back tokens_](https://xrpl.org/docs/concepts/tokens/fungible-tokens/clawing-back-tokens) on xrpl.org.
 4. Issuers can go out of business. When they do, their tokens usually become worthless, even if they once represented a real asset.
-5. Anyone can send you a token whose issuer you already trust. This is how dust and spam tokens appear in accounts. See [_Spam on the XRP Ledger_](../../scams-and-staying-safe/spam-on-the-xrp-ledger.md) and [_Dust attacks_](../../scams-and-staying-safe/dust-attacks.md).
+5. Anyone can send you a token whose issuer you already trust. This is how dust and spam tokens appear in accounts. See [_Spam on the XRP Ledger_](../scams-and-staying-safe/spam-on-the-xrp-ledger.md) and [_Dust attacks_](../scams-and-staying-safe/dust-attacks.md).
 6. Trust Lines are public. Anyone can see which issuers your account trusts.
 
 {% hint style="info" %}
@@ -91,7 +91,7 @@ A Trust Line is a normal, low-risk part of using the XRP Ledger. The risk is the
 4. Tap **Setup TrustLine** and check the details.
 5. Slide to accept.
 
-For the full steps with screenshots, see [_How to create a Trust Line_](../../learning-more-about-xaman/how-to-create-a-trust-line.md).
+For the full steps with screenshots, see [_How to create a Trust Line_](how-to-create-a-trust-line.md).
 
 ### Frequently asked questions
 
@@ -117,13 +117,13 @@ No. Before you can delete your account, you need to remove all of its Trust Line
 
 **Does Xaman charge a service fee for Trust Lines?**
 
-No. Creating and removing a Trust Line has no Xaman service fee. You pay only the network fee. See [_Understanding Xaman Service Fees_](../../getting-started-with-xaman/what-is-xaman/understanding-the-xaman-service-fee.md).
+No. Creating and removing a Trust Line has no Xaman service fee. You pay only the network fee. See [_Understanding Xaman Service Fees_](../getting-started-with-xaman/what-is-xaman/understanding-the-xaman-service-fee.md).
 
 ### See also
 
-* [Reserves on the XRP Ledger](about-reserves.md)
-* [How to create a Trust Line](../../learning-more-about-xaman/how-to-create-a-trust-line.md)
-* [How to remove a Trust Line](../../all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
-* [Spam on the XRP Ledger](../../scams-and-staying-safe/spam-on-the-xrp-ledger.md)
+* [Reserves on the XRP Ledger](../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
+* [How to create a Trust Line](how-to-create-a-trust-line.md)
+* [How to remove a Trust Line](../all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
+* [Spam on the XRP Ledger](../scams-and-staying-safe/spam-on-the-xrp-ledger.md)
 * [Multi-Purpose Tokens on xrpl.org](https://xrpl.org/docs/concepts/tokens/fungible-tokens/multi-purpose-tokens)
 * [Clawing back tokens on xrpl.org](https://xrpl.org/docs/concepts/tokens/fungible-tokens/clawing-back-tokens)

@@ -84,5 +84,5 @@ Yes. The validators can vote to raise or lower the base reserve and the owner re
 
 * [How to delete an XRPL account](../../your-account/importing-your-account/how-to-delete-an-xrpl-account.md)
 * [How to remove a Trust Line](../../all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
-* [What are Trust Lines?](trust-lines-on-the-xrp-ledger.md)
+* [What are Trust Lines?](../../tokens-trust-lines-and-nfts/trust-lines-on-the-xrp-ledger.md)
 * [Reserves on xrpl.org](https://xrpl.org/docs/concepts/accounts/reserves)
