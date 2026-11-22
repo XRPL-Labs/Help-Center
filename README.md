@@ -9,9 +9,9 @@ coverY: 0
 
 # Welcome to the Xaman Help Center!
 
-<button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search the Help Center</button>
+<button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search the Help Center</button> <button type="button" class="button secondary" data-action="ask" data-icon="rocketchat">Ask a question</button>
 
-\<button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search the Help Center\</button> \<button type="button" class="button secondary" data-action="ask" data-icon="gitbook-assistant">Ask a question\</button>
+
 
 ### Need help right now?
 
