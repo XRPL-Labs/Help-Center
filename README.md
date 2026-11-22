@@ -31,11 +31,9 @@ coverY: 0
 * [Destination tags](https://help.xaman.app/app/learning-more-about-xaman/destination-tags): when you need one, and how to add it.
 * [Got a new phone?](https://help.xaman.app/app/learning-more-about-xaman/migrate-to-a-new-phone): move Xaman and your accounts to a new phone.
 
-\{% hint style="warning" %\}\
-Scammers pose as Xaman support on social media and in messages. Anyone who gets your account secret can take everything in your account. Xaman support never asks for it, and only helps you through the Xaman Support xApp.\
-\{% endhint %\}
-
-\<a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Open the Xaman Support xApp\</a>
+{% hint style="warning" %}
+Scammers pose as Xaman support on social media and in messages. Anyone who gets your account secret can take everything in your account. Xaman support never asks for it, and only helps you through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
+{% endhint %}
 
 ### Browse by topic
 
