@@ -45,12 +45,6 @@
   * [Topper](getting-started-with-xaman/buying-xrp/topper.md)
   * [C14](getting-started-with-xaman/buying-xrp/c14.md)
   * [Xaman On/Off Ramp](getting-started-with-xaman/buying-xrp/xaman-on-off-ramp.md)
-* [Using the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/README.md)
-  * [The Flare XRPFi Yield xApp](getting-started-with-xaman/using-the-flare-xapp/the-flare-xrpfi-yield-xapp.md)
-  * [Fees in the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/fees-in-the-flare-xapp.md)
-  * [Depositing XRP with the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/depositing-xrp-with-the-flare-xapp.md)
-  * [Break-even time in the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/break-even-time-in-the-flare-xapp.md)
-  * [Frequently asked questions about the Flare xApp](getting-started-with-xaman/using-the-flare-xapp/frequently-asked-questions-about-the-flare-xapp.md)
 * [Sending tokens to Xaman](getting-started-with-xaman/sending-tokens-to-xaman.md)
 * [Sending XRP and tokens from Xaman](getting-started-with-xaman/sending-tokens-from-xaman.md)
 * [Sending XRP to Xaman](getting-started-with-xaman/sending-xrp-to-xaman.md)
@@ -68,7 +62,6 @@
 * [Sending XRP to Moonpay](learning-more-about-xaman/sending-xrp-to-moonpay.md)
 * [Cashing out with GateHub](learning-more-about-xumm/cashing-out-with-gatehub.md)
 * [Adding Euro tokens via GateHub](learning-more-about-xaman/adding-euro-tokens-via-gatehub.md)
-* [Xaman and the Flare network](learning-more-about-xaman/xaman-and-the-flare-network.md)
 * [Xaman & AMM](learning-more-about-xaman/xaman-and-amm.md)
 * [Xaman & Fractal ID](learning-more-about-xumm/xaman-and-fractal-id.md)
 * [How to set the currency](learning-more-about-xumm/how-to-set-the-currency.md)
@@ -88,7 +81,6 @@
 * [What is the Third Party Apps section?](learning-more-about-xaman/what-is-the-third-party-apps-section.md)
 * [How Non-Fungible Tokens (NFTs) work on the XRP Ledger](learning-more-about-xumm/nfts/README.md)
   * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
-* [Staking and earning yield with Xaman](learning-more-about-xaman/does-xaman-offer-staking.md)
 * [General Terms and definitions](learning-more-about-xaman/some-terms-and-definitions-related-to-xaman-and-the-xrpl.md)
 * [I've lost my account secret!](learning-more-about-xaman/ive-lost-my-account-secret.md)
 * [Accessing your XRP Ledger account](learning-more-about-xaman/how-can-you-access-your-xrpl-account.md)
@@ -175,6 +167,17 @@
   * [Balance Adjustment](all-about-xapps/xahau-xapps/balance-adjustment.md)
   * [XAH Teleport](all-about-xapps/xahau-xapps/xah-teleport.md)
   * [Voucher](all-about-xapps/xahau-xapps/voucher.md)
+
+## Earning yield with Flare
+
+* [Staking and earning yield with Xaman](earning-yield-with-flare/does-xaman-offer-staking.md)
+* [Xaman and the Flare network](earning-yield-with-flare/xaman-and-the-flare-network.md)
+* [Using the Flare xApp](earning-yield-with-flare/using-the-flare-xapp/README.md)
+  * [The Flare XRPFi Yield xApp](earning-yield-with-flare/using-the-flare-xapp/the-flare-xrpfi-yield-xapp.md)
+  * [Fees in the Flare xApp](earning-yield-with-flare/using-the-flare-xapp/fees-in-the-flare-xapp.md)
+  * [Depositing XRP with the Flare xApp](earning-yield-with-flare/using-the-flare-xapp/depositing-xrp-with-the-flare-xapp.md)
+  * [Break-even time in the Flare xApp](earning-yield-with-flare/using-the-flare-xapp/break-even-time-in-the-flare-xapp.md)
+  * [Frequently asked questions about the Flare xApp](earning-yield-with-flare/using-the-flare-xapp/frequently-asked-questions-about-the-flare-xapp.md)
 
 ## Xaman Pro
 

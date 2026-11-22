@@ -17,7 +17,7 @@ The **Flare XRPFi Yield** xApp lets you earn yield on XRP from your XRPL account
 * FAssets, which turns your XRP into FXRP, a token on Flare that represents XRP one-to-one.
 * Flare Smart Accounts, which gives your XRPL account an account on Flare. Only transactions signed by your XRPL account control it.
 
-You sign every step in Xaman, as an ordinary XRP Ledger transaction. You do not need a Flare wallet or FLR. See [_The Flare XRPFi Yield xApp_.](../getting-started-with-xaman/using-the-flare-xapp/the-flare-xrpfi-yield-xapp.md)
+You sign every step in Xaman, as an ordinary XRP Ledger transaction. You do not need a Flare wallet or FLR. See [_The Flare XRPFi Yield xApp_.](using-the-flare-xapp/the-flare-xrpfi-yield-xapp.md)
 
 ### What Xaman does not support
 
@@ -54,6 +54,6 @@ Use Flare's contact page at: [https://flare.network/resources/technical-support]
 
 ### See also
 
-* [The Flare XRPFi Yield xApp](../getting-started-with-xaman/using-the-flare-xapp/the-flare-xrpfi-yield-xapp.md)
-* [Frequently asked questions about the Flare xApp](../getting-started-with-xaman/using-the-flare-xapp/frequently-asked-questions-about-the-flare-xapp.md)
+* [The Flare XRPFi Yield xApp](using-the-flare-xapp/the-flare-xrpfi-yield-xapp.md)
+* [Frequently asked questions about the Flare xApp](using-the-flare-xapp/frequently-asked-questions-about-the-flare-xapp.md)
 * [GateHub's issued tokens](../learning-more-about-xumm/gatehubs-issued-tokens.md)

@@ -96,7 +96,7 @@ Crypto assets can change in value. This article explains how the feature works a
 
 ### See also
 
-* [Understanding Xaman Service Fees](../understanding-the-xaman-service-fee.md)
+* [Understanding Xaman Service Fees](../../getting-started-with-xaman/understanding-the-xaman-service-fee.md)
 * [How to Deposit XRP using the Flare xApp](depositing-xrp-with-the-flare-xapp.md)
 * [Flare Smart Accounts](https://flare.network/products/flare-smart-accounts)
 
