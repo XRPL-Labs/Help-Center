@@ -27,8 +27,8 @@ coverY: 0
 * [Installing Xaman](getting-started-with-xaman/what-is-xaman/installing-xaman.md): get the official app on your phone.
 * [How to create an XRP Ledger account](getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md): set up your first account.
 * [Importing your account (XRPL)](your-account/importing-your-account/): add an account you already have.
-* [Sending XRP and tokens from Xaman](your-account/sending-tokens-from-xaman.md): send to a friend, another account, or an exchange.
-* [Destination tags](learning-more-about-xumm/destination-tags.md): when you need one, and how to add it.
+* [Sending XRP and tokens from Xaman](sending-receiving-and-cashing-out/sending-tokens-from-xaman.md): send to a friend, another account, or an exchange.
+* [Destination tags](sending-receiving-and-cashing-out/destination-tags.md): when you need one, and how to add it.
 * [Got a new phone?](your-account/importing-your-account/migrate-to-a-new-phone.md): move Xaman and your accounts to a new phone.
 
 

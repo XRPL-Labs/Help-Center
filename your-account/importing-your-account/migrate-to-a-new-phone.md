@@ -2,7 +2,7 @@
 description: Here is how to set up Xaman on your new device.
 ---
 
-# 📱 Got a new phone?
+# Got a new phone?
 
 ### Before you start
 

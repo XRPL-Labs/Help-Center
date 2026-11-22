@@ -93,5 +93,5 @@ Most people import a second card as a backup. If you lose or damage the first ca
 
 * [Getting started with your new cards](getting-started.md)
 * [How to import your Xaman card](../your-account/importing-your-account/...a-xaman-tangem-card.md)
-* [What is a "Pre-funded" Xaman card?](../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card.md)
+* [What is a "Pre-funded" Xaman card?](../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card.md)
 * [How to configure a backup signing account](how-to-configure-a-backup-signing-account.md)

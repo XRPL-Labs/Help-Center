@@ -30,7 +30,7 @@ Without your account secret, a lost or broken phone means losing your account. W
 
 #### A new account needs XRP before it can be used
 
-A brand-new account does not exist on the XRP Ledger until someone sends it XRP. This first payment activates[^5] the account. Part of that XRP becomes the account's reserve[^6], which the account keeps for as long as it exists. You can activate your account by buying XRP in Xaman, sending XRP from an exchange, or receiving XRP from someone else. See [Activating an account (XRPL)](../../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/) and [Reserves on the XRP Ledger](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md).
+A brand-new account does not exist on the XRP Ledger until someone sends it XRP. This first payment activates[^5] the account. Part of that XRP becomes the account's reserve[^6], which the account keeps for as long as it exists. You can activate your account by buying XRP in Xaman, sending XRP from an exchange, or receiving XRP from someone else. See [Activating an account (XRPL)](../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/) and [Reserves on the XRP Ledger](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md).
 
 An imported account that already holds XRP is already active, so there is nothing more to do. A pre-funded Xaman card comes with enough XRP to activate its account.
 

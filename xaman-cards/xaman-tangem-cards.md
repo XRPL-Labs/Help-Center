@@ -72,7 +72,7 @@ Yes. A new card creates its own XRP Ledger account, with its own r-address. You 
 
 **Does a card account need its own reserve?**
 
-A card's own account needs to be activated, like any XRP Ledger account, so it needs a base reserve. A backup card does not need activation, because it only signs for your card account. See [_Activating an account_](../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/).
+A card's own account needs to be activated, like any XRP Ledger account, so it needs a base reserve. A backup card does not need activation, because it only signs for your card account. See [_Activating an account_](../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/).
 
 **Can I copy or back up the account secret on a card?**
 

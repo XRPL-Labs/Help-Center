@@ -67,7 +67,7 @@ You should now be at the main screen of Xaman.
 
 Notice that your new account has **not been activated** yet.
 
-All XRPL accounts [need to be activated](../../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/) with at least 1 XRP in order to hold XRP in them.
+All XRPL accounts [need to be activated](../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/) with at least 1 XRP in order to hold XRP in them.
 
 Pressing the **Activate your account** button gets you into the "Account Activation" flow.
 
@@ -79,4 +79,4 @@ If you press the **Buy XRP** button you will be provided with several options to
 
 For more information about activating your new XRP Ledger account, please refer to this article:
 
-[**Activating an XRPL account**](../../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/)
+[**Activating an XRPL account**](../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/)
