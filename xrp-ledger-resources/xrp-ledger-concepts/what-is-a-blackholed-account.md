@@ -51,7 +51,7 @@ Tokens can be different. If the token's issuer turned on clawback, the issuer ca
 Anyone who offers to "hack", "trace", or "reverse" funds from a blackholed account is a scammer. Paying them loses more money, since no one can move funds from a blackholed account. Do not reply, and do not pay any fee.
 {% endhint %}
 
-See [Recovery scams](../../all-about-scams/recovery-scams.md) for how these scammers work.
+See [Recovery scams](../../scams-and-staying-safe/recovery-scams.md) for how these scammers work.
 
 ### Frequently asked questions
 

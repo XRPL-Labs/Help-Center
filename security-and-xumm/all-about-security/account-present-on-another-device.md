@@ -79,7 +79,7 @@ No. Anyone who has your account secret can use it in any wallet, not only in Xam
 
 **My funds are already gone. What should I do?**
 
-Stop using the account, and create a new account on a device you trust. Report the theft to your local police or national cybercrime authority, with your r-address and the transaction details. Be careful of anyone who contacts you offering to recover your funds, including people claiming to be investigators. Recovery scams often target people who have just lost crypto. See [I've been scammed!](../../all-about-scams/ive-been-scammed.md)
+Stop using the account, and create a new account on a device you trust. Report the theft to your local police or national cybercrime authority, with your r-address and the transaction details. Be careful of anyone who contacts you offering to recover your funds, including people claiming to be investigators. Recovery scams often target people who have just lost crypto. See [I've been scammed!](../../scams-and-staying-safe/ive-been-scammed.md)
 
 **Will Xaman support ask for my account secret to help me?**
 

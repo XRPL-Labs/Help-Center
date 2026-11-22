@@ -62,7 +62,7 @@ To find out what happened:
 2. Contact the issuer through those official channels, and ask why your tokens were frozen or taken.
 3. If the issuer offers to redeem frozen tokens, send them back to the issuer's r-address only after you have confirmed the address on its official website.
 
-Be careful of anyone who contacts you offering to unfreeze or recover your tokens for a fee. Only the issuer can do either, and no genuine issuer asks a stranger to collect a fee for it. See [Recovery scams](../all-about-scams/recovery-scams.md).
+Be careful of anyone who contacts you offering to unfreeze or recover your tokens for a fee. Only the issuer can do either, and no genuine issuer asks a stranger to collect a fee for it. See [Recovery scams](../scams-and-staying-safe/recovery-scams.md).
 
 ### Frequently asked questions
 

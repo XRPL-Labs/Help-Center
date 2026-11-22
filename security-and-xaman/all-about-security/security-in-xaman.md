@@ -81,7 +81,7 @@ Before you add a token, see _T_[_oken vetting and the token warning_](../../lear
 
 You may sometimes receive a tiny payment you did not expect, often with a message attached. Anyone can send these to any account on the XRP Ledger, and the payment itself cannot harm your account. The message is the part to be careful with. Many are scams, so do not follow their links or contact the sender.
 
-To learn more, see [_Spam on the XRP Ledger_](../../all-about-scams/spam-on-the-xrp-ledger.md).
+To learn more, see [_Spam on the XRP Ledger_](../../scams-and-staying-safe/spam-on-the-xrp-ledger.md).
 
 ### Your account belongs to you
 

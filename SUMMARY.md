@@ -86,7 +86,6 @@
 * [How to convert a Read only account to Full access](learning-more-about-xaman/how-to-convert-a-read-only-account-to-full-access.md)
 * [How to delete an XRPL account](learning-more-about-xaman/how-to-delete-an-xrpl-account.md)
 * [What is the Third Party Apps section?](learning-more-about-xaman/what-is-the-third-party-apps-section.md)
-* [Official communication channels](xumm-tangem-cards/official-communication-channels.md)
 * [How Non-Fungible Tokens (NFTs) work on the XRP Ledger](learning-more-about-xumm/nfts/README.md)
   * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
 * [Staking and earning yield with Xaman](learning-more-about-xaman/does-xaman-offer-staking.md)
@@ -122,16 +121,18 @@
   * [How to post a Session Log](configuring-xaman/understanding-the-settings-options/how-to-post-a-session-log.md)
   * [Third party apps](configuring-xaman/understanding-the-settings-options/third-party-apps.md)
 
-## ALL ABOUT SCAMS
+## Scams and staying safe
 
-* [Airdrop Scams](all-about-scams/airdrop-scams.md)
-* [NFT Scams](all-about-scams/nft-scams.md)
-* [Dust attacks](all-about-scams/dust-attacks.md)
-* [Escrow Scams](all-about-scams/escrow-scams.md)
-* [I've been scammed!](all-about-scams/ive-been-scammed.md)
-* [Spam on the XRP Ledger](all-about-scams/spam-on-the-xrp-ledger.md)
-* [Can Xaman reverse, freeze or undo a transaction?](all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction.md)
-* [Recovery scams](all-about-scams/recovery-scams.md)
+* [Airdrop Scams](scams-and-staying-safe/airdrop-scams.md)
+* [NFT Scams](scams-and-staying-safe/nft-scams.md)
+* [Dust attacks](scams-and-staying-safe/dust-attacks.md)
+* [Escrow Scams](scams-and-staying-safe/escrow-scams.md)
+* [I've been scammed!](scams-and-staying-safe/ive-been-scammed.md)
+* [Spam on the XRP Ledger](scams-and-staying-safe/spam-on-the-xrp-ledger.md)
+* [Can Xaman reverse, freeze or undo a transaction?](scams-and-staying-safe/can-xaman-reverse-freeze-or-undo-a-transaction.md)
+* [Recovery scams](scams-and-staying-safe/recovery-scams.md)
+* [Trust in the XRPL Community](scams-and-staying-safe/trust-in-the-xrpl-community.md)
+* [Official communication channels](scams-and-staying-safe/official-communication-channels.md)
 
 ## XAMAN (TANGEM) CARDS
 
@@ -164,7 +165,6 @@
     * [How to release an escrow](all-about-xapps/xrpl-services/escrow-creator/how-to-release-an-escrow.md)
   * [Xahau Import](all-about-xapps/xrpl-services/xahau-import.md)
 * [XRP Community](all-about-xapps/xrp-community/README.md)
-  * [Trust in the XRPL Community](all-about-xapps/xrp-community/trust-in-the-xrpl-community.md)
   * [CasinoCoin Lobby](all-about-xapps/xrp-community/casinocoin-lobby.md)
   * [XRP Ledger TipBot](all-about-xapps/xrp-community/xrp-ledger-tipbot.md)
   * [UniSpend](all-about-xapps/xrp-community/chispend-cash-out.md)
