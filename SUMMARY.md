@@ -109,7 +109,6 @@
 * [How to enable the Master Key](learning-more-about-xaman/how-to-enable-the-master-key.md)
 * [Displaying XRP value](learning-more-about-xaman/displaying-xrp-value.md)
 * [All about the Address Book](learning-more-about-xaman/all-about-the-address-book.md)
-* [Why adding / generating & confirming "Secret Numbers" is not user friendly](learning-more-about-xaman/why-adding-generating-and-confirming-secret-numbers-is-not-user-friendly.md)
 * [How to scan a QR code](learning-more-about-xaman/how-to-scan-a-qr-code.md)
 * [How to configure biometrics](learning-more-about-xaman/how-to-configure-biometrics.md)
 * [How to migrate from Toast Wallet to Xaman](learning-more-about-xaman/how-to-migrate-from-toast-wallet-to-xaman.md)
