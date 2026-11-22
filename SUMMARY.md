@@ -12,6 +12,7 @@
   * [Self-Custody 101: Staying Safe with Xaman](getting-started-with-xaman/what-is-xaman/self-custody-101-staying-safe-with-xaman.md)
   * [Understanding Xaman Service Fees](getting-started-with-xaman/what-is-xaman/understanding-the-xaman-service-fee.md)
   * [Installing Xaman](getting-started-with-xaman/what-is-xaman/installing-xaman.md)
+  * [Your first XRP Ledger account](getting-started-with-xaman/what-is-xaman/your-first-xrp-ledger-account.md)
   * [How to create an XRP Ledger account](getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md)
   * [Fast onboarding](getting-started-with-xaman/what-is-xaman/fast-onboarding.md)
 * [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
