@@ -1,25 +1,44 @@
 ---
 description: >-
-  If you're interested in learning about Xaman and the XRP Ledger / Xahau
-  ecosystems, you've come to the right place.
+  Whether you are setting up Xaman for the first time or looking for the answer
+  to a specific question, you are in the right place. Search for what you need,
+  or ask a question in your own words.
 cover: .gitbook/assets/Xaman - Main page - 1.png
 coverY: 0
 ---
 
 # Welcome to the Xaman Help Center!
 
-{% hint style="info" %}
-If you are looking for Customer Support for Xaman, please contact us directly through the application using the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support). You can find it by pressing the '**xApps**' button located at the bottom on the screen in Xaman.
-{% endhint %}
+\<button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search the Help Center\</button> \<button type="button" class="button secondary" data-action="ask" data-icon="gitbook-assistant">Ask a question\</button>
 
-<figure><img src=".gitbook/assets/Xaman Support xApp (1).png" alt=""><figcaption></figcaption></figure>
+### Need help right now?
 
-{% hint style="warning" %}
-Please note: The [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) is the official channel for reaching us. We **do not** offer support through social media.
-{% endhint %}
+* [I've been scammed!](https://help.xaman.app/app/all-about-scams/ive-been-scammed): what to do first if your funds were stolen.
+* [Account present on another device](https://help.xaman.app/app/security-and-xaman/all-about-security/account-present-on-another-device): what to do if Xaman warns you about another device.
+* [I've lost my account secret!](https://help.xaman.app/app/learning-more-about-xaman/ive-lost-my-account-secret): your options if you cannot find your Secret Numbers, family seed, or recovery phrase.
+* [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards): what to do if a Xaman card is lost, stolen, or broken.
+* [Deposit to exchange didn't arrive](https://help.xaman.app/app/learning-more-about-xaman/deposit-to-exchange-didnt-arrive): how to get a missing exchange deposit credited.
+* [Recovery scams](https://help.xaman.app/app/all-about-scams/recovery-scams): why anyone offering to recover your funds is a scammer.
 
-We have divided this site into various categories that you can browse at your convenience or you can simply use the **Search** button at the top of the page to get a quick list of articles related to your search criteria.
+### Popular tasks
 
-Should you notice an article that is out of date or if you would like to see an article about a topic that is not covered here, [**just let us know.**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter) We are always happy to hear from the community on how we can improve!
+* [Installing Xaman](https://help.xaman.app/app/getting-started-with-xaman/installing-xaman): get the official app on your phone.
+* [How to create an XRP Ledger account](https://help.xaman.app/app/getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account): set up your first account.
+* [Importing your account (XRPL)](https://help.xaman.app/app/getting-started-with-xaman/importing-your-account): add an account you already have.
+* [Sending XRP and tokens from Xaman](https://help.xaman.app/app/getting-started-with-xaman/sending-tokens-from-xaman): send to a friend, another account, or an exchange.
+* [Destination tags](https://help.xaman.app/app/learning-more-about-xaman/destination-tags): when you need one, and how to add it.
+* [Got a new phone?](https://help.xaman.app/app/learning-more-about-xaman/migrate-to-a-new-phone): move Xaman and your accounts to a new phone.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/getting-started-with-xaman">Getting Started with Xaman</a></h4></td><td>This area is for new users and people who are interested in learning the basics of the Xaman platform</td><td><a href=".gitbook/assets/smartphone van gogh style.png">smartphone van gogh style.png</a></td><td><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/getting-started-with-xaman">Getting started with Xaman</a></td></tr><tr><td><h4><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/learning-more-about-xaman">Learning more about Xaman</a></h4></td><td>Here you will learn a bit more about Xaman's features.</td><td><a href=".gitbook/assets/toddler riding a bike van gogh style">toddler riding a bike van gogh style</a></td><td><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/learning-more-about-xaman">Learning more about Xaman</a></td></tr><tr><td><h4><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/all-about-xapps">All about xApps</a></h4></td><td>Are you interested in what xApp are and how they work? You've come to the right place!</td><td><a href=".gitbook/assets/app icons van gogh style">app icons van gogh style</a></td><td><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/all-about-xapps">ALL ABOUT XAPPS</a></td></tr><tr><td><h4><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/security-and-xaman">Security and Xaman</a></h4></td><td>Worried about how safe your funds are? This is where you want to be.</td><td><a href=".gitbook/assets/vault  van gogh style.png">vault  van gogh style.png</a></td><td><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/security-and-xaman">Security and Xaman</a></td></tr><tr><td><h4><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/xrp-ledger-resources">XRP Ledger Resources</a></h4></td><td>Want to learn the basics of the XRPL?</td><td><a href=".gitbook/assets/van gogh blockchain.png">van gogh blockchain.png</a></td><td></td></tr><tr><td><h4><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/release-notes">Release Notes</a></h4></td><td>A little bit of history on the features we've added over the years</td><td><a href=".gitbook/assets/van gogh notebook.png">van gogh notebook.png</a></td><td><a href="release-notes/current-release.md">current-release.md</a></td></tr><tr><td><h4><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/about-xaman-and-xrpl-labs">About Xaman and XRPL Labs</a></h4></td><td>Meet the team and get to know us! 🤗</td><td><a href=".gitbook/assets/van gogh office.png">van gogh office.png</a></td><td><a href="about-xaman-and-xrpl-labs/what-is-xrpl-labs.md">what-is-xrpl-labs.md</a></td></tr><tr><td><h4><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/configuring-xaman">Configuring Xaman</a></h4></td><td>Learn about all of the Settings options in the app</td><td><a href=".gitbook/assets/Rocky stream.png">Rocky stream.png</a></td><td><a href="https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/configuring-xaman">Configuring Xaman</a></td></tr><tr><td><strong>Xaman Cards</strong></td><td>Everything you want to know about Xaman cards</td><td><a href=".gitbook/assets/Large rock with Lock.jpg">Large rock with Lock.jpg</a></td><td></td></tr></tbody></table>
+\{% hint style="warning" %\}\
+Scammers pose as Xaman support on social media and in messages. Anyone who gets your account secret can take everything in your account. Xaman support never asks for it, and only helps you through the Xaman Support xApp.\
+\{% endhint %\}
+
+\<a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Open the Xaman Support xApp\</a>
+
+### Browse by topic
+
+\<table data-view="cards">\<thead>\<tr>\<th>\</th>\<th>\</th>\<th data-hidden data-card-target data-type="content-ref">\</th>\</tr>\</thead>\<tbody>\<tr>\<td>\<i class="fa-rocket">:rocket:\</i> \<strong>Getting started with Xaman\</strong>\</td>\<td>New to Xaman? Install the app, create your first account, and learn the basics.\</td>\<td>\<a href="https://help.xaman.app/app/getting-started-with-xaman/what-is-xaman">What is Xaman?\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-book-open">:book-open:\</i> \<strong>Learning more about Xaman\</strong>\</td>\<td>Guides for everyday tasks, from cashing out to moving to a new phone.\</td>\<td>\<a href="https://help.xaman.app/app/learning-more-about-xaman/migrate-to-a-new-phone">Learning more about Xaman\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-shield-halved">:shield-halved:\</i> \<strong>Security and Xaman\</strong>\</td>\<td>How Xaman protects your account, and how you can protect it too.\</td>\<td>\<a href="https://help.xaman.app/app/security-and-xaman/all-about-security">Security and Xaman\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-triangle-exclamation">:triangle-exclamation:\</i> \<strong>All about scams\</strong>\</td>\<td>How to spot a scam, and what to do if you have been scammed.\</td>\<td>\<a href="https://help.xaman.app/app/all-about-scams/ive-been-scammed">All about scams\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-credit-card">:credit-card:\</i> \<strong>Xaman cards\</strong>\</td>\<td>Set up, use, and protect your Xaman cards.\</td>\<td>\<a href="https://help.xaman.app/app/xaman-tangem-cards/xaman-tangem-cards">Xaman cards\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-gear">:gear:\</i> \<strong>Configuring Xaman\</strong>\</td>\<td>What each setting does, and where to find it.\</td>\<td>\<a href="https://help.xaman.app/app/configuring-xaman/understanding-the-settings-options">Configuring Xaman\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-shapes">:shapes:\</i> \<strong>All about xApps\</strong>\</td>\<td>What xApps are, and how to use the ones in Xaman.\</td>\<td>\<a href="https://help.xaman.app/app/all-about-xapps/xaman-xapps">All about xApps\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-graduation-cap">:graduation-cap:\</i> \<strong>XRP Ledger resources\</strong>\</td>\<td>The XRP Ledger's key ideas, explained in plain words.\</td>\<td>\<a href="https://help.xaman.app/app/xrp-ledger-resources/xrp-ledger-concepts">XRP Ledger resources\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-circle-nodes">:circle-nodes:\</i> \<strong>Xahau\</strong>\</td>\<td>Use Xaman with your Xahau accounts, tokens, and xApps.\</td>\<td>\<a href="https://help.xaman.app/app/xahau">Xahau\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-clipboard-list">:clipboard-list:\</i> \<strong>Release notes\</strong>\</td>\<td>What changed in each version of Xaman.\</td>\<td>\<a href="https://help.xaman.app/app/release-notes/current-release">Release notes\</a>\</td>\</tr>\<tr>\<td>\<i class="fa-users">:users:\</i> \<strong>About Xaman and XRPL Labs\</strong>\</td>\<td>Meet the team behind Xaman, and read our policies.\</td>\<td>\<a href="https://help.xaman.app/app/about-xaman-and-xrpl-labs/what-is-xrpl-labs">About Xaman and XRPL Labs\</a>\</td>\</tr>\</tbody>\</table>
+
+### Help us improve
+
+Spotted an article that is out of date, or a topic we have not covered yet? Let us know through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md). We are always happy to hear how we can make the Help Center better.
