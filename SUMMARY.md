@@ -123,16 +123,16 @@
 
 ## Scams and staying safe
 
+* [I've been scammed!](scams-and-staying-safe/ive-been-scammed.md)
+* [Recovery scams](scams-and-staying-safe/recovery-scams.md)
+* [Can Xaman reverse, freeze or undo a transaction?](scams-and-staying-safe/can-xaman-reverse-freeze-or-undo-a-transaction.md)
 * [Airdrop Scams](scams-and-staying-safe/airdrop-scams.md)
 * [NFT Scams](scams-and-staying-safe/nft-scams.md)
-* [Dust attacks](scams-and-staying-safe/dust-attacks.md)
 * [Escrow Scams](scams-and-staying-safe/escrow-scams.md)
-* [I've been scammed!](scams-and-staying-safe/ive-been-scammed.md)
+* [Dust attacks](scams-and-staying-safe/dust-attacks.md)
 * [Spam on the XRP Ledger](scams-and-staying-safe/spam-on-the-xrp-ledger.md)
-* [Can Xaman reverse, freeze or undo a transaction?](scams-and-staying-safe/can-xaman-reverse-freeze-or-undo-a-transaction.md)
-* [Recovery scams](scams-and-staying-safe/recovery-scams.md)
-* [Trust in the XRPL Community](scams-and-staying-safe/trust-in-the-xrpl-community.md)
 * [Official communication channels](scams-and-staying-safe/official-communication-channels.md)
+* [Trust in the XRPL Community](scams-and-staying-safe/trust-in-the-xrpl-community.md)
 
 ## XAMAN (TANGEM) CARDS
 
