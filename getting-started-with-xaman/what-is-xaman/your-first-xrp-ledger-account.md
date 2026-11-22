@@ -15,7 +15,7 @@ This article explains the three ways to get your first account into Xaman, and t
 Which way is right for you depends on what you already have:
 
 * **You are new to the XRP Ledger: create a new account.** Xaman creates the account for you and gives you its [account secret](#user-content-fn-3)[^3] as Secret Numbers to write down. See [How to create an XRP Ledger account](how-to-create-an-xrpl-account.md).
-* **You already have an account from another wallet: import it.** Enter its account secret in Xaman, and your account appears with its balance and tokens in place. See [Importing your account (XRPL)](../../your-account/importing-your-account/).
+* **You already have an account from another wallet: import it.** Enter its account secret in Xaman, and your account appears with its balance and tokens in place. See [Importing your account (XRPL)](../../your-accounts/importing-your-account/).
 * **You have Xaman cards: add your card.** The card creates and keeps its own account secret, so there is nothing to write down. See [How to import your Xaman card](../../xaman-cards/...a-xaman-tangem-card.md).
 
 ### What to know before you use your account
@@ -59,7 +59,7 @@ No. Your account and its funds are on the XRP Ledger. Xaman keeps your account s
 
 **Should I create a new account or import my old one?**
 
-If you already have an account you trust, importing it is simplest, since your funds come along. If you are not sure whether anyone else might have seen its account secret, create a new account in Xaman and send your funds to it. See [Should I import my XRP Ledger account into Xaman?](../../your-account/importing-your-account/should-i-import-my-xrp-ledger-account-into-xaman.md)
+If you already have an account you trust, importing it is simplest, since your funds come along. If you are not sure whether anyone else might have seen its account secret, create a new account in Xaman and send your funds to it. See [Should I import my XRP Ledger account into Xaman?](../../your-accounts/importing-your-account/should-i-import-my-xrp-ledger-account-into-xaman.md)
 
 ### See also
 

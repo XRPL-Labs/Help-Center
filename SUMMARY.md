@@ -17,22 +17,22 @@
   * [Fast onboarding](getting-started-with-xaman/what-is-xaman/fast-onboarding.md)
 * [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 
-## Your account
+## Your accounts
 
-* [Importing your account (XRPL)](your-account/importing-your-account/README.md)
-  * [Should I import my XRP Ledger account into Xaman?](your-account/importing-your-account/should-i-import-my-xrp-ledger-account-into-xaman.md)
-  * [How to import your Secret Numbers](your-account/importing-your-account/...with-secret-numbers.md)
-  * [How to import your Family Seed](your-account/importing-your-account/...with-a-family-seed.md)
-  * [How to import your Mnemonic](your-account/importing-your-account/...with-a-mnemonic.md)
-  * [How to import an account in Read Only mode](your-account/importing-your-account/...in-read-only-mode.md)
-  * [How to convert a Read only account to Full access](your-account/importing-your-account/how-to-convert-a-read-only-account-to-full-access.md)
-  * [How to import an XRP Ledger account from a hardware wallet](your-account/importing-your-account/how-to-import-an-xrp-ledger-account-from-a-hardware-wallet.md)
-  * [How to migrate from Toast Wallet to Xaman](your-account/importing-your-account/how-to-migrate-from-toast-wallet-to-xaman.md)
-  * [How to recover a Casinocoin (CSC) account](your-account/importing-your-account/how-to-recover-a-casinocoin-csc-account.md)
-  * [Got a new phone?](your-account/importing-your-account/migrate-to-a-new-phone.md)
-  * [Moving your XRPL account to another wallet](your-account/importing-your-account/moving-your-xrpl-account-to-another-wallet.md)
-  * [How to remove an account from Xaman](your-account/importing-your-account/how-to-remove-an-account-from-xaman.md)
-  * [How to delete an XRPL account](your-account/importing-your-account/how-to-delete-an-xrpl-account.md)
+* [Importing your account (XRPL)](your-accounts/importing-your-account/README.md)
+  * [Should I import my XRP Ledger account into Xaman?](your-accounts/importing-your-account/should-i-import-my-xrp-ledger-account-into-xaman.md)
+  * [How to import your Secret Numbers](your-accounts/importing-your-account/...with-secret-numbers.md)
+  * [How to import your Family Seed](your-accounts/importing-your-account/...with-a-family-seed.md)
+  * [How to import your Mnemonic](your-accounts/importing-your-account/...with-a-mnemonic.md)
+  * [How to import an account in Read Only mode](your-accounts/importing-your-account/...in-read-only-mode.md)
+  * [How to convert a Read only account to Full access](your-accounts/importing-your-account/how-to-convert-a-read-only-account-to-full-access.md)
+  * [How to import an XRP Ledger account from a hardware wallet](your-accounts/importing-your-account/how-to-import-an-xrp-ledger-account-from-a-hardware-wallet.md)
+  * [How to migrate from Toast Wallet to Xaman](your-accounts/importing-your-account/how-to-migrate-from-toast-wallet-to-xaman.md)
+  * [How to recover a Casinocoin (CSC) account](your-accounts/importing-your-account/how-to-recover-a-casinocoin-csc-account.md)
+  * [Got a new phone?](your-accounts/importing-your-account/migrate-to-a-new-phone.md)
+  * [Moving your XRPL account to another wallet](your-accounts/importing-your-account/moving-your-xrpl-account-to-another-wallet.md)
+  * [How to remove an account from Xaman](your-accounts/importing-your-account/how-to-remove-an-account-from-xaman.md)
+  * [How to delete an XRPL account](your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md)
 
 ## getting xrp into xaman
 

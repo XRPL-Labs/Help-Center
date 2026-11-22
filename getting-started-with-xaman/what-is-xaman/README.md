@@ -48,7 +48,7 @@ Every transaction on the XRP Ledger and Xahau has a small network fee. It goes t
 
 * [_Installing Xaman_](installing-xaman.md)
 * [_Your first XRP Ledger account_](/broken/pages/jdX9LEfSCcHMaBbmSn0Q)
-* [_Importing your account_,](../../your-account/importing-your-account/) if you already have an XRP Ledger account
+* [_Importing your account_,](../../your-accounts/importing-your-account/) if you already have an XRP Ledger account
 
 ### Frequently asked questions
 

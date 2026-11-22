@@ -60,7 +60,7 @@ To remove an object:
 
 The only way to recover the base reserve is to delete your account from the XRP Ledger. Deleting an account costs a special transaction fee, which is much higher than a normal transaction fee.
 
-Before you can delete your account, you need to remove every object it owns. See [_How to delete an XRPL account_](../../your-account/importing-your-account/how-to-delete-an-xrpl-account.md).
+Before you can delete your account, you need to remove every object it owns. See [_How to delete an XRPL account_](../../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md).
 
 ### Frequently asked questions
 
@@ -82,7 +82,7 @@ Yes. The validators can vote to raise or lower the base reserve and the owner re
 
 ### See also
 
-* [How to delete an XRPL account](../../your-account/importing-your-account/how-to-delete-an-xrpl-account.md)
+* [How to delete an XRPL account](../../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md)
 * [How to remove a Trust Line](../../all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
 * [What are Trust Lines?](../../tokens-trust-lines-and-nfts/trust-lines-on-the-xrp-ledger.md)
 * [Reserves on xrpl.org](https://xrpl.org/docs/concepts/accounts/reserves)

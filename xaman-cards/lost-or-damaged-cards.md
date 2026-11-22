@@ -31,7 +31,7 @@ If your Primary card is lost, damaged, or destroyed, or it may have been stolen,
 
 If you do not have another account, see [How to create an XRP Ledger account](https://help.xaman.app/app/getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account).
 
-Once your funds are safe, you can delete the old Primary account to get back most of its reserve, signing with your Backup card. See [How to delete an XRPL account](../your-account/importing-your-account/how-to-delete-an-xrpl-account.md).
+Once your funds are safe, you can delete the old Primary account to get back most of its reserve, signing with your Backup card. See [How to delete an XRPL account](../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md).
 
 #### If you lose your Backup card
 
