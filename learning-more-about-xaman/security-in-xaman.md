@@ -55,7 +55,7 @@ With a Xaman card, your account's key is created inside the card's chip and neve
 
 To sign a transaction, you hold the card against your phone. A thief who takes your phone still cannot sign anything without the card. With a Backup card stored somewhere separate, you keep access to your account even if one card is lost.&#x20;
 
-To get the most out of your cards, see [_Best security practices for the Xaman cards_](../../xaman-cards/best-security-practices-using-a-xaman-card.md).
+To get the most out of your cards, see [_Best security practices for the Xaman cards_](../xaman-cards/best-security-practices-using-a-xaman-card.md).
 
 ### Connecting to websites, xApps, and QR codes
 
@@ -75,19 +75,19 @@ Adding a trust line does not open your account to anyone. It cannot give anyone 
 * **An issuer may be able to take its token back.** If an issuer turned on clawback before it issued its token, it can take back that token, up to the balance you hold.
 * **A token's name proves nothing.** Any issuer can give a token any name. A token called "RLUSD" from a different issuer is not the real RLUSD. The issuer identifies the token, not the name.
 
-Before you add a token, see _T_[_oken vetting and the token warning_](../../tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)_._
+Before you add a token, see _T_[_oken vetting and the token warning_](../tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)_._
 
 ### Unexpected payments and messages
 
 You may sometimes receive a tiny payment you did not expect, often with a message attached. Anyone can send these to any account on the XRP Ledger, and the payment itself cannot harm your account. The message is the part to be careful with. Many are scams, so do not follow their links or contact the sender.
 
-To learn more, see [_Spam on the XRP Ledger_](../../scams-and-staying-safe/spam-on-the-xrp-ledger.md).
+To learn more, see [_Spam on the XRP Ledger_](../scams-and-staying-safe/spam-on-the-xrp-ledger.md).
 
 ### Your account belongs to you
 
 The XRP Ledger runs on independent servers around the world, so no single company or government can switch it off. No one can freeze or move the XRP in your account without your account secret, including XRPL Labs.
 
-Your account does not depend on Xaman either. If you ever wanted to, you could use your account secret in another wallet that supports the XRP Ledger. See [_Moving your XRPL account to another wallet_](../../your-account/importing-your-account/moving-your-xrpl-account-to-another-wallet.md). That is what self-custody means: your account is yours.
+Your account does not depend on Xaman either. If you ever wanted to, you could use your account secret in another wallet that supports the XRP Ledger. See [_Moving your XRPL account to another wallet_](../your-account/importing-your-account/moving-your-xrpl-account-to-another-wallet.md). That is what self-custody means: your account is yours.
 
 ### In short
 
@@ -102,7 +102,7 @@ If you remember only four things from this article, make it these:
 
 **Has Xaman been audited?**
 
-Yes. See [Has Xaman been audited?](../../security-and-xumm/all-about-security/has-xaman-been-audited.md)
+Yes. See [Has Xaman been audited?](../security/all-about-security/has-xaman-been-audited.md)
 
 **Does my Xaman passcode protect my account on my other phones?**
 
@@ -120,7 +120,7 @@ Crypto assets can change in value. This article explains how the feature works a
 
 ### See also
 
-* [Best security practices for the Xaman cards](../../xaman-cards/best-security-practices-using-a-xaman-card.md)
-* [Xaman cards](../../xaman-cards/xaman-tangem-cards.md)
-* [_Token vetting and the token warning_](../../tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)
-* [_Moving your XRPL account to another wallet_](../../your-account/importing-your-account/moving-your-xrpl-account-to-another-wallet.md)
+* [Best security practices for the Xaman cards](../xaman-cards/best-security-practices-using-a-xaman-card.md)
+* [Xaman cards](../xaman-cards/xaman-tangem-cards.md)
+* [_Token vetting and the token warning_](../tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)
+* [_Moving your XRPL account to another wallet_](../your-account/importing-your-account/moving-your-xrpl-account-to-another-wallet.md)

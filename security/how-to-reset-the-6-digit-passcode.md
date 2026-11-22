@@ -25,7 +25,7 @@ If the passcode does not work, the only way to reset it is to **uninstall Xaman 
 {% hint style="info" %}
 We strongly recommend that you test your account secret before continuing.\
 \
-[**How to test your account secret**](../learning-more-about-xaman/how-to-test-your-account-secret.md)
+[**How to test your account secret**](how-to-test-your-account-secret.md)
 {% endhint %}
 
 **Before you uninstall, make sure you have your account secret(s) for all of your accounts.** You'll need each account's secret — its Secret Numbers, Family Seed, or Mnemonic — to access them again after the re-installation.&#x20;
@@ -58,7 +58,7 @@ If you created your account using Xaman, you would have received a set of ‘sec
 
 You can read more about this here:
 
-[**Can I view/export my account secret?**](../learning-more-about-xaman/can-i-view-export-my-account-secret.md)
+[**Can I view/export my account secret?**](can-i-view-export-my-account-secret.md)
 
 \
 **I've lost my account secret, what should I do?**

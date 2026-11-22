@@ -18,7 +18,7 @@ As well, Xaman is compatible with all industry standard account secrets. Choose 
 
 If you have a Xaman (Tangem) card, this article explains how to import it:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="...a-xaman-tangem-card.md">...a-xaman-tangem-card.md</a></td><td><a href="../../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to add a Xaman (Tangem) card</td><td></td><td></td><td><a href="../../xaman-cards/...a-xaman-tangem-card.md">...a-xaman-tangem-card.md</a></td><td><a href="../../.gitbook/assets/Image - X.png">Image - X.png</a></td></tr></tbody></table>
 
 #### If your account was created during the Casino Coin swap...
 

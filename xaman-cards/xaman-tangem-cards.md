@@ -88,7 +88,7 @@ Only where the business accepts XRP or XRP Ledger tokens. If it does, you can si
 
 **Can I use my Tangem card with Xaman?**
 
-Yes, if you have not set it up in the Tangem app yet. Set up the card in Xaman first. See [_How to import your Xaman card_.](../your-account/importing-your-account/...a-xaman-tangem-card.md) After that, you can also import the card into the Tangem app and use it there.
+Yes, if you have not set it up in the Tangem app yet. Set up the card in Xaman first. See [_How to import your Xaman card_.](...a-xaman-tangem-card.md) After that, you can also import the card into the Tangem app and use it there.
 
 If you already set up the card in the Tangem app, you cannot add it to Xaman. You can keep using it with the Tangem app as usual.
 

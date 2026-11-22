@@ -83,7 +83,7 @@ No. The XRP Ledger allows one regular key per account, so each account can have 
 
 **Can I use a regular XRP Ledger account as my backup instead of a card?**
 
-You can, though we recommend a second card. A regular account's account secret lives on a phone or on paper, not inside a chip, so it is easier to lose or steal than a card. If you still want to set one up, see [How to Rekey an XRP Ledger (XRPL) account](../learning-more-about-xaman/how-to-rekey-your-account.md).
+You can, though we recommend a second card. A regular account's account secret lives on a phone or on paper, not inside a chip, so it is easier to lose or steal than a card. If you still want to set one up, see [How to Rekey an XRP Ledger (XRPL) account](../security/how-to-rekey-your-account.md).
 
 **I do not see the No back-up card configured reminder. What should I do?**
 

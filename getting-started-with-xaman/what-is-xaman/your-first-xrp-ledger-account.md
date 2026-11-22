@@ -16,7 +16,7 @@ Which way is right for you depends on what you already have:
 
 * **You are new to the XRP Ledger: create a new account.** Xaman creates the account for you and gives you its [account secret](#user-content-fn-3)[^3] as Secret Numbers to write down. See [How to create an XRP Ledger account](how-to-create-an-xrpl-account.md).
 * **You already have an account from another wallet: import it.** Enter its account secret in Xaman, and your account appears with its balance and tokens in place. See [Importing your account (XRPL)](../../your-account/importing-your-account/).
-* **You have Xaman cards: add your card.** The card creates and keeps its own account secret, so there is nothing to write down. See [How to import your Xaman card](../../your-account/importing-your-account/...a-xaman-tangem-card.md).
+* **You have Xaman cards: add your card.** The card creates and keeps its own account secret, so there is nothing to write down. See [How to import your Xaman card](../../xaman-cards/...a-xaman-tangem-card.md).
 
 ### What to know before you use your account
 

@@ -24,7 +24,6 @@
   * [How to import your Secret Numbers](your-account/importing-your-account/...with-secret-numbers.md)
   * [How to import your Family Seed](your-account/importing-your-account/...with-a-family-seed.md)
   * [How to import your Mnemonic](your-account/importing-your-account/...with-a-mnemonic.md)
-  * [How to import your Xaman card](your-account/importing-your-account/...a-xaman-tangem-card.md)
   * [How to import an account in Read Only mode](your-account/importing-your-account/...in-read-only-mode.md)
   * [How to convert a Read only account to Full access](your-account/importing-your-account/how-to-convert-a-read-only-account-to-full-access.md)
   * [How to import an XRP Ledger account from a hardware wallet](your-account/importing-your-account/how-to-import-an-xrp-ledger-account-from-a-hardware-wallet.md)
@@ -38,7 +37,6 @@
 ## getting xrp into xaman
 
 * [Activating an account (XRPL)](getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/README.md)
-  * [What is a "Pre-funded" Xaman card?](getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card.md)
   * [Sending from an exchange](getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/README.md)
     * [How to Send XRP from eToro](getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/how-to-send-xrp-from-etoro.md)
     * [How to Send XRP from Gemini](getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/how-to-send-xrp-from-gemini.md)
@@ -81,9 +79,44 @@
 * [How to create a USDC Trust Line](tokens-trust-lines-and-nfts/how-to-create-a-usdc-trust-line.md)
 * [Adding an Icon/Logo to a Trust Line in Xaman](tokens-trust-lines-and-nfts/adding-an-icon-logo-to-a-trust-line-in-xaman.md)
 
+## XAMAN CARDS
+
+* [Xaman cards](xaman-cards/xaman-tangem-cards.md)
+* [How safe is a card?](xaman-cards/how-safe-is-a-card.md)
+* [Getting started with your new cards](xaman-cards/getting-started.md)
+* [What is a "Pre-funded" Xaman card?](xaman-cards/what-is-a-pre-funded-xaman-card.md)
+* [How to import your Xaman card](xaman-cards/...a-xaman-tangem-card.md)
+* [How to configure a backup signing account](xaman-cards/how-to-configure-a-backup-signing-account.md)
+* [How to link an existing account to a Xaman card](xaman-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
+* [Best security practices for the Xaman cards](xaman-cards/best-security-practices-using-a-xaman-card.md)
+* [Lost or damaged cards](xaman-cards/lost-or-damaged-cards.md)
+* [Are my Xaman Cards safe?](xaman-cards/are-my-xaman-cards-safe.md)
+* [PINs on older Xumm/Xaman cards](xaman-cards/creating-a-pin-on-your-xaman-tangem-card.md)
+* [Get Cards](xaman-cards/get-cards-tangem.md)
+
+## Security
+
+* [All About Security](security/all-about-security/README.md)
+  * [Has Xaman been audited?](security/all-about-security/has-xaman-been-audited.md)
+  * [Upgrading your encryption](security/all-about-security/upgrading-your-encryption.md)
+  * [Does Xaman support Two-Factor Authentication (2FA)?](security/all-about-security/2fa-and-xaman.md)
+  * [Quantum Attacks and Xaman](security/all-about-security/quantum-attacks-and-xaman.md)
+  * [Xaman & natural disasters](security/all-about-security/xaman-and-natural-disasters.md)
+  * [Account present on another device](security/all-about-security/account-present-on-another-device.md)
+* [How to Rekey an XRP Ledger (XRPL) Account](security/how-to-rekey-your-account.md)
+* [How to disable the Master key](security/how-to-disable-the-master-key.md)
+* [How to enable the Master Key](security/how-to-enable-the-master-key.md)
+* [How to reset the 6 digit passcode](security/how-to-reset-the-6-digit-passcode.md)
+* [Resetting the (account) signing password](security/resetting-the-account-signing-password.md)
+* [How to configure biometrics](security/how-to-configure-biometrics.md)
+* [How to Test or Verify your Account Secret](security/how-to-test-your-account-secret.md)
+* [Can I view/export my account secret?](security/can-i-view-export-my-account-secret.md)
+* [I've lost my account secret!](security/ive-lost-my-account-secret.md)
+
 ## Learning more about Xaman
 
-* [Xaman & natural disasters](learning-more-about-xaman/xaman-and-natural-disasters.md)
+* [Xaman (Tangem) Cards](learning-more-about-xaman/xaman-tangem-cards.md)
+* [Security in Xaman](learning-more-about-xaman/security-in-xaman.md)
 * [Buying XRP](learning-more-about-xaman/buying-xrp/README.md)
   * [Banxa](learning-more-about-xaman/buying-xrp/banxa.md)
   * [BTC Direct](learning-more-about-xaman/buying-xrp/btcdirect.md)
@@ -99,25 +132,16 @@
 * [How to verify your identity (KYC)](learning-more-about-xumm/kyc.md)
 * [How to send SGB to BiFrost](learning-more-about-xumm/how-to-send-sgb-to-bifrost.md)
 * [Taxes and your XRPL/Xahau accounts](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
-* [How to reset the 6 digit passcode](learning-more-about-xumm/how-to-reset-the-6-digit-passcode.md)
-* [Resetting the (account) signing password](learning-more-about-xumm/resetting-the-account-signing-password.md)
 * [What is the Third Party Apps section?](learning-more-about-xaman/what-is-the-third-party-apps-section.md)
 * [How Non-Fungible Tokens (NFTs) work on the XRP Ledger](learning-more-about-xumm/nfts/README.md)
   * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
 * [General Terms and definitions](learning-more-about-xaman/some-terms-and-definitions-related-to-xaman-and-the-xrpl.md)
-* [I've lost my account secret!](learning-more-about-xaman/ive-lost-my-account-secret.md)
 * [Accessing your XRP Ledger account](learning-more-about-xaman/how-can-you-access-your-xrpl-account.md)
 * [How to take a screenshot](learning-more-about-xumm/how-to-take-a-screenshot.md)
-* [Can I view/export my account secret?](learning-more-about-xaman/can-i-view-export-my-account-secret.md)
 * [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
-* [How to Test or Verify your Account Secret](learning-more-about-xaman/how-to-test-your-account-secret.md)
 * [How to access Testnet on XRP Ledger](learning-more-about-xaman/how-to-access-testnet-on-xrp-ledger.md)
-* [How to Rekey an XRP Ledger (XRPL) Account](learning-more-about-xaman/how-to-rekey-your-account.md)
-* [How to disable the Master key](learning-more-about-xaman/how-to-disable-the-master-key.md)
-* [How to enable the Master Key](learning-more-about-xaman/how-to-enable-the-master-key.md)
 * [Displaying XRP value](learning-more-about-xaman/displaying-xrp-value.md)
 * [How to scan a QR code](learning-more-about-xaman/how-to-scan-a-qr-code.md)
-* [How to configure biometrics](learning-more-about-xaman/how-to-configure-biometrics.md)
 * [Token freezes and clawback](learning-more-about-xaman/token-freezes-and-clawback.md)
 
 ## Configuring Xaman
@@ -140,25 +164,12 @@
 * [Official communication channels](scams-and-staying-safe/official-communication-channels.md)
 * [Trust in the XRPL Community](scams-and-staying-safe/trust-in-the-xrpl-community.md)
 
-## XAMAN CARDS
-
-* [Xaman cards](xaman-cards/xaman-tangem-cards.md)
-* [Are my Xaman Cards safe?](xaman-cards/are-my-xaman-cards-safe.md)
-* [Getting started with your new cards](xaman-cards/getting-started.md)
-* [How to configure a backup signing account](xaman-cards/how-to-configure-a-backup-signing-account.md)
-* [PINs on older Xumm/Xaman cards](xaman-cards/creating-a-pin-on-your-xaman-tangem-card.md)
-* [Best security practices for the Xaman cards](xaman-cards/best-security-practices-using-a-xaman-card.md)
-* [Lost or damaged cards](xaman-cards/lost-or-damaged-cards.md)
-* [How safe is a card?](xaman-cards/how-safe-is-a-card.md)
-* [How to link an existing account to a Xaman card](xaman-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
-
 ## ALL ABOUT XAPPS
 
 * [Xaman xApps](all-about-xapps/xaman-xapps/README.md)
   * [Account Worth](all-about-xapps/xaman-xapps/account-worth.md)
   * [Account Merge](all-about-xapps/xaman-xapps/account-merge.md)
   * [Vanity Address xApp](all-about-xapps/xaman-xapps/vanity-address.md)
-  * [Get Cards](all-about-xapps/xaman-xapps/get-cards-tangem.md)
   * [DEX Trade](all-about-xapps/xaman-xapps/dex-trade/README.md)
     * [The price difference between selling and buying is too high](all-about-xapps/xaman-xapps/dex-trade/the-price-difference-between-selling-and-buying-is-too-high.md)
   * [Path Finding](all-about-xapps/xaman-xapps/path-finding.md)
@@ -207,17 +218,6 @@
   * [Xaman App early access](xaman-pro/features-of-pro/xumm-app-early-access.md)
   * [Premium Support](xaman-pro/features-of-pro/premium-support.md)
   * [Vanity addresses](xaman-pro/features-of-pro/vanity-addresses.md)
-
-## Security and Xaman
-
-* [All About Security](security-and-xumm/all-about-security/README.md)
-  * [Security in Xaman](security-and-xaman/all-about-security/security-in-xaman.md)
-  * [Has Xaman been audited?](security-and-xumm/all-about-security/has-xaman-been-audited.md)
-  * [Upgrading your encryption](security-and-xumm/all-about-security/upgrading-your-encryption.md)
-  * [Xaman (Tangem) Cards](security-and-xaman/all-about-security/xaman-tangem-cards.md)
-  * [Does Xaman support Two-Factor Authentication (2FA)?](security-and-xumm/all-about-security/2fa-and-xaman.md)
-  * [Account present on another device](security-and-xumm/all-about-security/account-present-on-another-device.md)
-  * [Quantum Attacks and Xaman](security-and-xaman/all-about-security/quantum-attacks-and-xaman.md)
 
 ## XRP Ledger resources
 

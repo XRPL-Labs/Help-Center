@@ -47,7 +47,7 @@ Every transaction on the XRP Ledger and Xahau has a small network fee. It goes t
 ### Get started
 
 * [_Installing Xaman_](installing-xaman.md)
-* [_Your first XRP Ledger account_](/broken/pages/jdX9LEfSCcHMaBbmSn0Q)
+* [_Your first XRP Ledger account_](https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/getting-started-with-xaman/your-first-xrp-ledger-account)
 * [_Importing your account_,](../../your-account/importing-your-account/) if you already have an XRP Ledger account
 
 ### Frequently asked questions
@@ -62,7 +62,7 @@ No. Your XRP is in your account on the XRP Ledger. Xaman stores your account sec
 
 **Can Xaman recover my account if I lose my account secret?**
 
-No. Xaman never has a copy of your account secret, so it cannot restore your account. See [_I've lost my account secret!_](../../learning-more-about-xaman/ive-lost-my-account-secret.md)
+No. Xaman never has a copy of your account secret, so it cannot restore your account. See [_I've lost my account secret!_](../../security/ive-lost-my-account-secret.md)
 
 **Is Xaman owned by Ripple?**
 

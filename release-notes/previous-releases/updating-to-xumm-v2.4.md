@@ -10,11 +10,11 @@ coverY: -28
 
 If you are interested in learning about some of the main changes and features of Xumm v2.4, you're at the right place!
 
-This version includes many different upgrades, new features, tweaks and improvements and while many of them are "behind the scene" improvements, there are some things you will notice and appreciate right away, so let's get started...&#x20;
+This version includes many different upgrades, new features, tweaks and improvements and while many of them are "behind the scene" improvements, there are some things you will notice and appreciate right away, so let's get started...
 
 ### Get the value of your XRP on the main screen
 
-When our customers speak, we listen, so when you asked for Xumm to display the fiat value of your XRP on the main page, we added it. Just touch the balance of your XRP and voila, the cash equivalent.&#x20;
+When our customers speak, we listen, so when you asked for Xumm to display the fiat value of your XRP on the main page, we added it. Just touch the balance of your XRP and voila, the cash equivalent.
 
 <figure><img src="../../.gitbook/assets/v24 - 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,13 +46,13 @@ We've improved our encryption algorithms in this version of Xumm! If you would l
 
 For more information on this, check out his article:
 
-[**Upgrading your encryption**](../../security-and-xumm/all-about-security/upgrading-your-encryption.md)
+[**Upgrading your encryption**](../../security/all-about-security/upgrading-your-encryption.md)
 
-### More control over Third party apps&#x20;
+### More control over Third party apps
 
 This version includes the ability to **revoke access** from third party sites and xApps.
 
-In Xumm, press **Settings** then **Third party apps** to get a list of apps / sites from which you can revoke access.&#x20;
+In Xumm, press **Settings** then **Third party apps** to get a list of apps / sites from which you can revoke access.
 
 <figure><img src="../../.gitbook/assets/v24 - Third party apps.png" alt=""><figcaption></figcaption></figure>
 
@@ -124,5 +124,4 @@ This was just a quick overview of a couple of the new features in this release b
 
 ###
 
-### &#x20;
-
+###

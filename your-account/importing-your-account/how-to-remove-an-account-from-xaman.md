@@ -7,7 +7,7 @@ description: How to remove an account from Xaman
 Removing an account from Xaman deletes it from the device only. Your account still exists on the XRP Ledger with your funds, tokens, and transaction history intact. You can always access it again by importing your account secret back into Xaman.
 
 {% hint style="info" %}
-Before you remove an account, make sure you have its **account secret** (Secret Numbers, Family Seed, or Mnemonic) written down somewhere safe. It's also a good idea to check that it is the correct one for your account. See: [How to test your Account Secret](../../learning-more-about-xaman/how-to-test-your-account-secret.md)&#x20;
+Before you remove an account, make sure you have its **account secret** (Secret Numbers, Family Seed, or Mnemonic) written down somewhere safe. It's also a good idea to check that it is the correct one for your account. See: [How to test your Account Secret](../../security/how-to-test-your-account-secret.md)&#x20;
 {% endhint %}
 
 ***

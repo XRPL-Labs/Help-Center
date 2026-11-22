@@ -91,7 +91,7 @@ This is the setup we recommend. It takes about ten minutes.
 
 Take the card out of the clear sleeve and import it first. In Xaman, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Xaman Tangem card**. The app walks you through the rest.
 
-See: [How to import your Xaman card](../your-account/importing-your-account/...a-xaman-tangem-card.md) for more information.
+See: [How to import your Xaman card](...a-xaman-tangem-card.md) for more information.
 
 {% hint style="danger" %}
 When you first tap a new card, Xaman checks that the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card. Contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.

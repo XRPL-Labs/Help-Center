@@ -76,7 +76,7 @@ Take the pre-funded card out of its sleeve, and import it first.
 4. Follow the instructions on the screen.
 5. Tap **Activate your account** to claim the XRP on your pre-funded card.
 
-This account is now your Primary account. For more detail, see [How to import your Xaman card](../your-account/importing-your-account/...a-xaman-tangem-card.md).
+This account is now your Primary account. For more detail, see [How to import your Xaman card](../xaman-cards/...a-xaman-tangem-card.md).
 
 {% hint style="danger" %}
 If Xaman warns that a card was used before, stop. Someone else may already control a used card, and anything you send to it could be taken. Do not import that card, and contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
@@ -252,7 +252,7 @@ This is the setup we recommend. It takes about ten minutes.
 
 Take the card out of the clear sleeve and import it first. In Xaman, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Xaman Tangem card**. The app walks you through the rest.
 
-See: [How to import your Xaman card](../your-account/importing-your-account/...a-xaman-tangem-card.md) for more information.
+See: [How to import your Xaman card](../xaman-cards/...a-xaman-tangem-card.md) for more information.
 
 {% hint style="danger" %}
 When you first tap a new card, Xaman checks that the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card. Contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
