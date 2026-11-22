@@ -18,7 +18,7 @@ coverY: 0
 * [I've been scammed!](scams-and-staying-safe/ive-been-scammed.md): what to do first if your funds were stolen.
 * [Account present on another device](security-and-xumm/all-about-security/account-present-on-another-device.md): what to do if Xaman warns you about another device.
 * [I've lost my account secret!](learning-more-about-xaman/ive-lost-my-account-secret.md): your options if you cannot find your Secret Numbers, family seed, or recovery phrase.
-* [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md): what to do if a Xaman card is lost, stolen, or broken.
+* [Lost or damaged cards](xaman-cards/lost-or-damaged-cards.md): what to do if a Xaman card is lost, stolen, or broken.
 * [Deposit to exchange didn't arrive](learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md): how to get a missing exchange deposit credited.
 * [Recovery scams](scams-and-staying-safe/recovery-scams.md): why anyone offering to recover your funds is a scammer.
 

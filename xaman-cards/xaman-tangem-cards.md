@@ -33,7 +33,7 @@ Xaman cards work with everything Xaman supports on the XRP Ledger and Xahau, suc
 
 If you lose or damage your only card, you lose access to its account. The account secret cannot be recovered from the chip.
 
-To protect yourself, set up a second card as a backup with the **Tangem Backup** xApp. The backup card can sign for your card account, so you can still reach your funds if the first card is lost, stolen, or damaged. See [_How to configure a backup signing account_](../xumm-tangem-cards/how-to-configure-a-backup-signing-account.md).
+To protect yourself, set up a second card as a backup with the **Tangem Backup** xApp. The backup card can sign for your card account, so you can still reach your funds if the first card is lost, stolen, or damaged. See [_How to configure a backup signing account_](how-to-configure-a-backup-signing-account.md).
 
 {% hint style="warning" %}
 Set up a backup card before you send funds to a card account. Without a backup, a lost or damaged card means the funds in its account can no longer be reached.
@@ -43,7 +43,7 @@ Set up a backup card before you send funds to a card account. Without a backup, 
 
 You can order Xaman cards in the **Get cards** xApp in Xaman, or on [our website](https://xaman.app/cards).
 
-When your cards arrive, see [_Getting started with your new cards_](../xumm-tangem-cards/getting-started.md).
+When your cards arrive, see [_Getting started with your new cards_](getting-started.md).
 
 ### Xaman cards and Tangem cards
 
@@ -94,8 +94,8 @@ If you already set up the card in the Tangem app, you cannot add it to Xaman. Yo
 
 ### See also
 
-* [Getting started with your new cards](../xumm-tangem-cards/getting-started.md)
-* [How to configure a backup signing account](../xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
+* [Getting started with your new cards](getting-started.md)
+* [How to configure a backup signing account](how-to-configure-a-backup-signing-account.md)
 * [How to link an existing account to a Xaman card](how-to-link-an-existing-account-to-a-xaman-card.md)
 * [Best security practices for the Xaman cards](best-security-practices-using-a-xaman-card.md)
-* [Lost or damaged cards](../xumm-tangem-cards/lost-or-damaged-cards.md)
+* [Lost or damaged cards](lost-or-damaged-cards.md)

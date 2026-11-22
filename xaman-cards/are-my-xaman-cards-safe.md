@@ -76,7 +76,7 @@ If you see that warning on a card you just received, stop. Do not import that ca
 
 #### How do I get started configuring the cards?
 
-The full step-by-step guide can be found here: [Getting started with your new cards](../xumm-tangem-cards/getting-started.md). The short version:
+The full step-by-step guide can be found here: [Getting started with your new cards](getting-started.md). The short version:
 
 1. Install or update the official Xaman app from the App Store or Google Play.
 2. Make sure NFC is on.
@@ -91,7 +91,7 @@ Most people import a second card as a backup. If you lose or damage the first ca
 
 #### See also
 
-* [Getting started with your new cards](../xumm-tangem-cards/getting-started.md)
+* [Getting started with your new cards](getting-started.md)
 * [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md)
 * [What is a "Pre-funded" Xaman card?](../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/what-is-a-pre-funded-xaman-card.md)
-* [How to configure a backup signing account](../xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
+* [How to configure a backup signing account](how-to-configure-a-backup-signing-account.md)

@@ -69,7 +69,7 @@ Either way works, though. Both cards can sign for the same account, so choose th
 
 ### If you lose a card
 
-Losing one card is exactly what a Backup card protects you from, since the other card still gets you into your account. The steps depend on which card is missing, and [Lost or damaged cards](../xumm-tangem-cards/lost-or-damaged-cards.md) walks you through each case. One thing is worth doing right now, while both cards are in your hands: write down your Primary account’s r-address and keep it somewhere safe. If you ever lose your phone and your Primary card together, you need it to reach your account with your Backup card. Xaman is a self-custody wallet, so we cannot recover a lost card for you.
+Losing one card is exactly what a Backup card protects you from, since the other card still gets you into your account. The steps depend on which card is missing, and [Lost or damaged cards](../xaman-cards/lost-or-damaged-cards.md) walks you through each case. One thing is worth doing right now, while both cards are in your hands: write down your Primary account’s r-address and keep it somewhere safe. If you ever lose your phone and your Primary card together, you need it to reach your account with your Backup card. Xaman is a self-custody wallet, so we cannot recover a lost card for you.
 
 ### Frequently asked questions
 

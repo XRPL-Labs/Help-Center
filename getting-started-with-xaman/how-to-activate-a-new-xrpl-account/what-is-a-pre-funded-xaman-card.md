@@ -8,8 +8,8 @@ In case you were not aware, we offer a cold wallet for our users who are interes
 
 If you've never heard about them or if you are interested in learning more, this article will provide you with all of the information you'll need.
 
-{% content-ref url="../../xaman-tangem-cards/xaman-tangem-cards.md" %}
-[xaman-tangem-cards.md](../../xaman-tangem-cards/xaman-tangem-cards.md)
+{% content-ref url="../../xaman-cards/xaman-tangem-cards.md" %}
+[xaman-tangem-cards.md](../../xaman-cards/xaman-tangem-cards.md)
 {% endcontent-ref %}
 
 ### How do I get a Xaman card?

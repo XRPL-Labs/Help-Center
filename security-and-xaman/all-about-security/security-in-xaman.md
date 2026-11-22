@@ -55,7 +55,7 @@ With a Xaman card, your account's key is created inside the card's chip and neve
 
 To sign a transaction, you hold the card against your phone. A thief who takes your phone still cannot sign anything without the card. With a Backup card stored somewhere separate, you keep access to your account even if one card is lost.&#x20;
 
-To get the most out of your cards, see [_Best security practices for the Xaman cards_](../../xaman-tangem-cards/best-security-practices-using-a-xaman-card.md).
+To get the most out of your cards, see [_Best security practices for the Xaman cards_](../../xaman-cards/best-security-practices-using-a-xaman-card.md).
 
 ### Connecting to websites, xApps, and QR codes
 
@@ -120,7 +120,7 @@ Crypto assets can change in value. This article explains how the feature works a
 
 ### See also
 
-* [Best security practices for the Xaman cards](../../xaman-tangem-cards/best-security-practices-using-a-xaman-card.md)
-* [Xaman cards](../../xaman-tangem-cards/xaman-tangem-cards.md)
+* [Best security practices for the Xaman cards](../../xaman-cards/best-security-practices-using-a-xaman-card.md)
+* [Xaman cards](../../xaman-cards/xaman-tangem-cards.md)
 * [_Token vetting and the token warning_](../../learning-more-about-xaman/token-vetting-and-the-token-warning.md)
 * [_Moving your XRPL account to another wallet_](../../learning-more-about-xumm/moving-your-xrpl-account-to-another-wallet.md)

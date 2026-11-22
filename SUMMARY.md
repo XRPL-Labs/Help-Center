@@ -126,25 +126,25 @@
 * [I've been scammed!](scams-and-staying-safe/ive-been-scammed.md)
 * [Recovery scams](scams-and-staying-safe/recovery-scams.md)
 * [Can Xaman reverse, freeze or undo a transaction?](scams-and-staying-safe/can-xaman-reverse-freeze-or-undo-a-transaction.md)
-* [Airdrop Scams](scams-and-staying-safe/airdrop-scams.md)
-* [NFT Scams](scams-and-staying-safe/nft-scams.md)
-* [Escrow Scams](scams-and-staying-safe/escrow-scams.md)
+* [Airdrop scams](scams-and-staying-safe/airdrop-scams.md)
+* [NFT scams](scams-and-staying-safe/nft-scams.md)
+* [Escrow scams](scams-and-staying-safe/escrow-scams.md)
 * [Dust attacks](scams-and-staying-safe/dust-attacks.md)
 * [Spam on the XRP Ledger](scams-and-staying-safe/spam-on-the-xrp-ledger.md)
 * [Official communication channels](scams-and-staying-safe/official-communication-channels.md)
 * [Trust in the XRPL Community](scams-and-staying-safe/trust-in-the-xrpl-community.md)
 
-## XAMAN (TANGEM) CARDS
+## XAMAN CARDS
 
-* [Xaman cards](xaman-tangem-cards/xaman-tangem-cards.md)
-* [Are my Xaman Cards safe?](xaman-tangem-cards/are-my-xaman-cards-safe.md)
-* [Getting started with your new cards](xumm-tangem-cards/getting-started.md)
-* [How to configure a backup signing account](xumm-tangem-cards/how-to-configure-a-backup-signing-account.md)
-* [PINs on older Xumm/Xaman cards](xaman-tangem-cards/creating-a-pin-on-your-xaman-tangem-card.md)
-* [Best security practices for the Xaman cards](xaman-tangem-cards/best-security-practices-using-a-xaman-card.md)
-* [Lost or damaged cards](xumm-tangem-cards/lost-or-damaged-cards.md)
-* [How safe is a card?](xumm-tangem-cards/how-safe-is-a-card.md)
-* [How to link an existing account to a Xaman card](xaman-tangem-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
+* [Xaman cards](xaman-cards/xaman-tangem-cards.md)
+* [Are my Xaman Cards safe?](xaman-cards/are-my-xaman-cards-safe.md)
+* [Getting started with your new cards](xaman-cards/getting-started.md)
+* [How to configure a backup signing account](xaman-cards/how-to-configure-a-backup-signing-account.md)
+* [PINs on older Xumm/Xaman cards](xaman-cards/creating-a-pin-on-your-xaman-tangem-card.md)
+* [Best security practices for the Xaman cards](xaman-cards/best-security-practices-using-a-xaman-card.md)
+* [Lost or damaged cards](xaman-cards/lost-or-damaged-cards.md)
+* [How safe is a card?](xaman-cards/how-safe-is-a-card.md)
+* [How to link an existing account to a Xaman card](xaman-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
 
 ## ALL ABOUT XAPPS
 
