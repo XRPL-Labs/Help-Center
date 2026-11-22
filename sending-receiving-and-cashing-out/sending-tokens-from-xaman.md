@@ -96,7 +96,7 @@ For a short explanation of how destination tags work, see [Destination tags](htt
 
 Contact the exchange's support team as soon as possible, and give them the transaction details. Many exchanges can credit the funds manually, though it's up to them, and it can take time.
 
-See: [Deposit to exchange didn't arrive](../learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md)
+See: [Deposit to exchange didn't arrive](deposit-to-exchange-didnt-arrive.md)
 
 **What is the Memo field on the summary screen for?**
 

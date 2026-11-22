@@ -6,9 +6,9 @@ description: GateHub has issued several tokens. How do they work?
 
 ### **What is GateHub?**
 
-GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency.&#x20;
+GateHub is a payment gateway platform that allows you to buy, sell, trade and store digital currency.
 
-For a complete list of their services, you can visit their site here =>  [GateHub](https://gatehub.net/)
+For a complete list of their services, you can visit their site here => [GateHub](https://gatehub.net/)
 
 ### **What tokens has GateHub issued?**
 
@@ -18,17 +18,17 @@ GateHub has currently issued 16 different tokens on the XRP Ledger (XRPL), inclu
 
 Yes. Here's a good example of how a token's value works.
 
-On October 29-2023, GateHub issued 500,000 XAH tokens (GH-XAH) on the XRP Ledger. At the same time, they moved 500,000 XAH coins into their reserves to back their issued tokens with XAH on the Xahau network. By doing this, each one of the GH-XAU tokens has a XAH coin on the Xahau network to back it up.&#x20;
+On October 29-2023, GateHub issued 500,000 XAH tokens (GH-XAH) on the XRP Ledger. At the same time, they moved 500,000 XAH coins into their reserves to back their issued tokens with XAH on the Xahau network. By doing this, each one of the GH-XAU tokens has a XAH coin on the Xahau network to back it up.
 
 It might help to think of the GH-XAH tokens as if they are 'IOUs' for the XAH coins which exist on the Xahau network. **GateHub** will exchange the GH-XAH tokens issued on the XRPL for XAH coins on the Xahau network.
 
-### **Why would I want any of these tokens?**&#x20;
+### **Why would I want any of these tokens?**
 
 The tokens that GateHub has issued on the XRPL are directly linked to the actual asset.
 
-For example, if you hold a GateHub issued SGB token (GH-SGB) on the XRPL, you can exchange it 1:1 into “real” SGB on the GateHub platform.&#x20;
+For example, if you hold a GateHub issued SGB token (GH-SGB) on the XRPL, you can exchange it 1:1 into “real” SGB on the GateHub platform.
 
-By owning GH-SGB the XRPL you can take advantage of all of the great features on the XRPL has to offer. (Low fees, fast settlement, secure platform, eco-friendly, etc.) The same applies to Flare, USDC, USDT, GALA and all the other tokens GateHub has issued. By owning the Gatehub token, you basically own the asset on the XRPL.&#x20;
+By owning GH-SGB the XRPL you can take advantage of all of the great features on the XRPL has to offer. (Low fees, fast settlement, secure platform, eco-friendly, etc.) The same applies to Flare, USDC, USDT, GALA and all the other tokens GateHub has issued. By owning the Gatehub token, you basically own the asset on the XRPL.
 
 Perhaps the best part, is that all of these tokens can be traded on the XRPL DEX so you can take advantage of the XRPL’s speed and super cheap fees. Imagine being able to make trades on the Ethereum network that can complete in under 5 seconds at the cost of under 1 penny per trade. With these issued tokens, you can do this on the XRPL, even though the native asset is on a different blockchain.
 
@@ -40,7 +40,7 @@ Stable coins are cryptocurrencies whose value is tied to that of another currenc
 
 Let's look at the EUR stable coin.
 
-The EUR token that Gatehub issued is “pegged” to the Euro fiat currency. This means that 1 EUR stable coin will always hold a value near 1 EUR. The value is kept stable by the trust that Gatehub holds sufficient assets and that it is acting in a transparent way.&#x20;
+The EUR token that Gatehub issued is “pegged” to the Euro fiat currency. This means that 1 EUR stable coin will always hold a value near 1 EUR. The value is kept stable by the trust that Gatehub holds sufficient assets and that it is acting in a transparent way.
 
 You can read more about how this works here:
 
@@ -50,8 +50,8 @@ You can read more about how this works here:
 
 This feature has been integrated into Xaman (formerly Xumm). This article explains how it works:
 
-{% content-ref url="cashing-out-with-gatehub.md" %}
-[cashing-out-with-gatehub.md](cashing-out-with-gatehub.md)
+{% content-ref url="../sending-receiving-and-cashing-out/cashing-out-with-gatehub.md" %}
+[cashing-out-with-gatehub.md](../sending-receiving-and-cashing-out/cashing-out-with-gatehub.md)
 {% endcontent-ref %}
 
 ### **What about the SGB token?**
@@ -120,4 +120,4 @@ When it comes to any token issued on the XRP Ledger, it all comes down to trust.
 
 Any exchange can easily honor Gatehub’s issued tokens and Gatehub can easily honor any other tokens issued on the XRPL. It comes down to who Gatehub trusts and who trusts Gatehub.
 
-Unfortunately we do not keep track of which exchanges support which tokens.  You can reach out to your exchange and ask them.
+Unfortunately we do not keep track of which exchanges support which tokens. You can reach out to your exchange and ask them.

@@ -60,6 +60,12 @@
 * [Sending XRP to Xaman](sending-receiving-and-cashing-out/sending-xrp-to-xaman.md)
 * [Destination tags](sending-receiving-and-cashing-out/destination-tags.md)
 * [All about the Address Book](sending-receiving-and-cashing-out/all-about-the-address-book.md)
+* [All about Checks](sending-receiving-and-cashing-out/all-about-checks.md)
+* [Cashing out your XRP](sending-receiving-and-cashing-out/cashing-out-your-xrp.md)
+* [Sending XRP to Moonpay](sending-receiving-and-cashing-out/sending-xrp-to-moonpay.md)
+* [Cashing out with GateHub](sending-receiving-and-cashing-out/cashing-out-with-gatehub.md)
+* [Deposit to exchange did not arrive](sending-receiving-and-cashing-out/deposit-to-exchange-didnt-arrive.md)
+* [Can Xaman reverse, freeze or undo a transaction?](sending-receiving-and-cashing-out/can-xaman-reverse-freeze-or-undo-a-transaction.md)
 
 ## Learning more about Xaman
 
@@ -76,9 +82,6 @@
   * [Xaman On/Off Ramp](learning-more-about-xaman/buying-xrp/xaman-on-off-ramp.md)
 * [Adding an Icon/Logo to a Trust Line in Xaman](learning-more-about-xaman/adding-an-icon-logo-to-a-trust-line-in-xaman.md)
 * [What do "Full" and "Read Only" mean in Xaman?](learning-more-about-xaman/what-do-full-and-read-only-mean-in-xaman.md)
-* [Cashing out your XRP](learning-more-about-xumm/cashing-out-your-xrp.md)
-* [Sending XRP to Moonpay](learning-more-about-xaman/sending-xrp-to-moonpay.md)
-* [Cashing out with GateHub](learning-more-about-xumm/cashing-out-with-gatehub.md)
 * [Adding Euro tokens via GateHub](learning-more-about-xaman/adding-euro-tokens-via-gatehub.md)
 * [Xaman & AMM](learning-more-about-xaman/xaman-and-amm.md)
 * [Xaman & Fractal ID](learning-more-about-xumm/xaman-and-fractal-id.md)
@@ -101,12 +104,10 @@
 * [How issued tokens work on the XRP Ledger](learning-more-about-xaman/how-issued-tokens-work-on-the-xrp-ledger.md)
 * [How Multi-Purpose Tokens (MPTs) work on the XRP Ledger](learning-more-about-xaman/how-multi-purpose-tokens-mpts-work-on-the-xrp-ledger.md)
 * [Can I view/export my account secret?](learning-more-about-xaman/can-i-view-export-my-account-secret.md)
-* [Deposit to exchange did not arrive](learning-more-about-xaman/deposit-to-exchange-didnt-arrive.md)
 * [How to create a Trust Line](learning-more-about-xaman/how-to-create-a-trust-line.md)
 * [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
 * [How to Test or Verify your Account Secret](learning-more-about-xaman/how-to-test-your-account-secret.md)
 * [How to access Testnet on XRP Ledger](learning-more-about-xaman/how-to-access-testnet-on-xrp-ledger.md)
-* [All about Checks](learning-more-about-xaman/all-about-checks.md)
 * [How to Rekey an XRP Ledger (XRPL) Account](learning-more-about-xaman/how-to-rekey-your-account.md)
 * [How to disable the Master key](learning-more-about-xaman/how-to-disable-the-master-key.md)
 * [How to enable the Master Key](learning-more-about-xaman/how-to-enable-the-master-key.md)
@@ -127,7 +128,6 @@
 
 * [I've been scammed!](scams-and-staying-safe/ive-been-scammed.md)
 * [Recovery scams](scams-and-staying-safe/recovery-scams.md)
-* [Can Xaman reverse, freeze or undo a transaction?](scams-and-staying-safe/can-xaman-reverse-freeze-or-undo-a-transaction.md)
 * [Airdrop scams](scams-and-staying-safe/airdrop-scams.md)
 * [NFT scams](scams-and-staying-safe/nft-scams.md)
 * [Escrow scams](scams-and-staying-safe/escrow-scams.md)
