@@ -96,6 +96,7 @@
 
 ## Security
 
+* [Security in Xaman](security/security-in-xaman.md)
 * [All About Security](security/all-about-security/README.md)
   * [Has Xaman been audited?](security/all-about-security/has-xaman-been-audited.md)
   * [Upgrading your encryption](security/all-about-security/upgrading-your-encryption.md)
@@ -241,7 +242,6 @@
 ## Learning more about Xaman
 
 * [Xaman (Tangem) Cards](learning-more-about-xaman/xaman-tangem-cards.md)
-* [Security in Xaman](learning-more-about-xaman/security-in-xaman.md)
 * [Buying XRP](learning-more-about-xaman/buying-xrp/README.md)
   * [Banxa](learning-more-about-xaman/buying-xrp/banxa.md)
   * [BTC Direct](learning-more-about-xaman/buying-xrp/btcdirect.md)

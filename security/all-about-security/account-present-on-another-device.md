@@ -65,7 +65,7 @@ Once your funds are safe, it is worth working out how someone got your account s
 * Did you recently install a new app, a browser extension, or a file from outside the official stores?
 * Did anyone ask you to install a screen-sharing or remote-access app?
 
-If you cannot find the cause, check your phone for apps you do not recognize, especially screen-sharing or remote-access apps, and remove them. See [Security in Xaman](../../learning-more-about-xaman/security-in-xaman.md) for the habits that matter most.
+If you cannot find the cause, check your phone for apps you do not recognize, especially screen-sharing or remote-access apps, and remove them. See [Security in Xaman](../security-in-xaman.md) for the habits that matter most.
 
 ### Frequently asked questions
 
