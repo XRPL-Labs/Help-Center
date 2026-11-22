@@ -24,7 +24,7 @@ You can purchase XRP from one of our partners to activate your account.
 
 * **Option 2**
 
-You can activate your account from another XRPL account in Xaman&#x20;
+You can activate your account from another XRPL account in Xaman
 
 * **Option 3**
 
@@ -36,15 +36,13 @@ You can activate your account from an external source like another XRP Ledger ac
 
 * **Option 5**
 
-If you purchased a Xaman card, one of them comes pre-funded.&#x20;
+If you purchased a Xaman card, one of them comes pre-funded.
 
 ###
 
 ### **Option 1, 2**
 
-The first two options can be done via Xaman by pressing the  ![](<../../.gitbook/assets/image (1) (1) (4).png>) button:
-
-
+The first two options can be done via Xaman by pressing the ![](<../../.gitbook/assets/image (1) (1) (4).png>) button:
 
 <figure><img src="../../.gitbook/assets/activation 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,8 +56,6 @@ Press the down arrow in the "Select your country or currency" field then choose 
 
 Select the appropriate service provider by pressing the '**Open xApp**' and follow the instructions provided on the screen.
 
-
-
 Your second option is to fund your new XRPL account from an existing XRPL already imported into Xaman.
 
 Pressing the, '**Fund with existing account**' button gets you into Xaman send flow.
@@ -70,15 +66,11 @@ Choose your existing account in Xaman that has already been activated and has at
 
 <figure><img src="../../.gitbook/assets/Account activation - 4  (1).png" alt=""><figcaption></figcaption></figure>
 
-You can choose any of the pre-determined amounts but the first 1 XRP will be ear marked for the account reserve.  When done, press the **Activate** button then review the transaction and **Slide to Accept**.
-
-
+You can choose any of the pre-determined amounts but the first 1 XRP will be ear marked for the account reserve. When done, press the **Activate** button then review the transaction and **Slide to Accept**.
 
 {% hint style="warning" %}
 You will notice that there is a third option, **Fund via an exchange**. Choosing this option does **not actually activate** your account. It simply provides instructions on _how_ to send XRP from your exchange account to your XRPL account managed by Xaman.
 {% endhint %}
-
-
 
 ### Option 3
 
@@ -90,12 +82,12 @@ For instructions on how to send XRP from one of the above exchanges, simply clic
 
 If your exchange is not listed above, here are the generic instructions which should help sending from your exchange:
 
-{% content-ref url="../sending-xrp-to-xaman.md" %}
-[sending-xrp-to-xaman.md](../sending-xrp-to-xaman.md)
+{% content-ref url="../../your-account/sending-xrp-to-xaman.md" %}
+[sending-xrp-to-xaman.md](../../your-account/sending-xrp-to-xaman.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}
-**Please** make sure that you **thoroughly research** the crypto exchange that you decide to purchase from. Each exchange has their own rules and fee structures which you should fully understand before signing up.&#x20;
+**Please** make sure that you **thoroughly research** the crypto exchange that you decide to purchase from. Each exchange has their own rules and fee structures which you should fully understand before signing up.
 
 Furthermore, just because we have provided a list of exchanges, it does not mean that we support or endorse any of them in any way. It is entirely up to you to decide which crypto exchange you use.
 {% endhint %}
@@ -108,4 +100,4 @@ For example, if you have a friend, family member, co-worker, etc. who has an act
 
 Here is how they can send XRP to Xaman:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Sending XRP to Xaman</td><td></td><td></td><td><a href="../sending-xrp-to-xaman.md">sending-xrp-to-xaman.md</a></td><td><a href="../../.gitbook/assets/store  van gogh style.png">store  van gogh style.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Sending XRP to Xaman</td><td></td><td></td><td><a href="../../your-account/sending-xrp-to-xaman.md">sending-xrp-to-xaman.md</a></td><td><a href="../../.gitbook/assets/store  van gogh style.png">store  van gogh style.png</a></td></tr></tbody></table>

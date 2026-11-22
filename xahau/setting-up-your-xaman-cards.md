@@ -76,7 +76,7 @@ Take the pre-funded card out of its sleeve, and import it first.
 4. Follow the instructions on the screen.
 5. Tap **Activate your account** to claim the XRP on your pre-funded card.
 
-This account is now your Primary account. For more detail, see [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md).
+This account is now your Primary account. For more detail, see [How to import your Xaman card](../your-account/importing-your-account/...a-xaman-tangem-card.md).
 
 {% hint style="danger" %}
 If Xaman warns that a card was used before, stop. Someone else may already control a used card, and anything you send to it could be taken. Do not import that card, and contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
@@ -252,7 +252,7 @@ This is the setup we recommend. It takes about ten minutes.
 
 Take the card out of the clear sleeve and import it first. In Xaman, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Xaman Tangem card**. The app walks you through the rest.
 
-See: [How to import your Xaman card](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md) for more information.
+See: [How to import your Xaman card](../your-account/importing-your-account/...a-xaman-tangem-card.md) for more information.
 
 {% hint style="danger" %}
 When you first tap a new card, Xaman checks that the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card. Contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
@@ -295,7 +295,7 @@ You do not need to deposit XRP for your Backup card. Do not tap **Activate your 
 You can, but it takes a few extra steps. Do these after Step 2:
 
 1. Activate the second card's account yourself by sending it at least the reserve amount of XRP. See: [How to activate a new XRPL account](https://help.xaman.app/app/getting-started-with-xaman/how-to-activate-a-new-xrpl-account).
-2. Delete the account on the pre-funded card, and choose your new Primary account as the destination. The remaining XRP is sent there. See: [How to delete your account](../learning-more-about-xaman/how-to-delete-an-xrpl-account.md).
+2. Delete the account on the pre-funded card, and choose your new Primary account as the destination. The remaining XRP is sent there. See: [How to delete your account](../your-account/importing-your-account/how-to-delete-an-xrpl-account.md).
 3. Continue with Step 3 below, linking the pre-funded card as your Backup card.
 
 Deleting an account costs a small network fee, so you will get back slightly less than the reserve. Once deleted, an account can be activated again later, but only by sending it new XRP.

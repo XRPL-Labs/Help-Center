@@ -14,16 +14,16 @@ Although Xaman provides a full range of features, it became evident that the XRP
 
 Xaman Pro is a paid subscription service which provides additional features to the Xaman wallet.
 
-### Current features&#x20;
+### Current features
 
 ### Enhanced use of Xaman
 
 Xaman Pro users enjoy 25 feeless trading transactions or up to $1,000 in trading volume per month—no extra costs, no limits on features.
 
-&#x20; For more information about how this works, please refer to this article:
+For more information about how this works, please refer to this article:
 
-{% content-ref url="../getting-started-with-xaman/understanding-the-xaman-service-fee.md" %}
-[understanding-the-xaman-service-fee.md](../getting-started-with-xaman/understanding-the-xaman-service-fee.md)
+{% content-ref url="../getting-started-with-xaman/what-is-xaman/understanding-the-xaman-service-fee.md" %}
+[understanding-the-xaman-service-fee.md](../getting-started-with-xaman/what-is-xaman/understanding-the-xaman-service-fee.md)
 {% endcontent-ref %}
 
 ### [**Profiles and Paystring**](features-of-pro/profiles/all-about-profiles.md)
@@ -48,17 +48,15 @@ For those people who want to get involved with the latest and greatest advanceme
 
 <figure><img src="../.gitbook/assets/early access.png" alt=""><figcaption></figcaption></figure>
 
-### **Discounts and special offers**&#x20;
+### **Discounts and special offers**
 
 Xaman Pro subscribers will get access to special offers and discounts.
 
 See: [Vanity accounts](features-of-pro/vanity-addresses.md)
 
-### [**Premium Community Access** ](https://www.xaman.community/feed)
+### [**Premium Community Access**](https://www.xaman.community/feed)
 
-A Pro subscription gets you access to Premium sections of the [**Xaman Community**](https://www.xaman.community/feed)!&#x20;
-
-
+A Pro subscription gets you access to Premium sections of the [**Xaman Community**](https://www.xaman.community/feed)!
 
 ### Commonly asked questions
 
@@ -78,7 +76,7 @@ Check out this article for your subscription:
 
 #### How long does a subscription last?
 
-A Xaman Pro subscription last **1 year.**&#x20;
+A Xaman Pro subscription last **1 year.**
 
 #### **Is this a one time fee or a yearly subscription?**
 
@@ -86,7 +84,7 @@ While we would love everyone to have Pro features forever & for free, developing
 
 #### **Can I order Pro from anywhere in the world?**
 
-You certainly can but please be aware, there are a couple of countries where we **can not** **ship** the Xaman cards to. So while you can subscribe to and enjoy all of the great features of Xaman Pro, unfortunately we will be unable to send you the complimentary Xaman cards.  Reach out to us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
+You certainly can but please be aware, there are a couple of countries where we **can not** **ship** the Xaman cards to. So while you can subscribe to and enjoy all of the great features of Xaman Pro, unfortunately we will be unable to send you the complimentary Xaman cards. Reach out to us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support) if you have any additional questions about this.
 
 #### **I’m feeling generous! How do I give Pro as a gift?**
 

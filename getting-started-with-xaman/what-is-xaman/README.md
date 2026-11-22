@@ -2,9 +2,6 @@
 description: >-
   What Xaman is, how it keeps you in control of your account, and what you can
   do with it
-cover: >-
-  https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx3YWxsZXR8ZW58MHx8fHwxNjc0NTczMDg3&ixlib=rb-4.0.3&q=80
-coverY: -42
 ---
 
 # 💸 What is Xaman?
@@ -45,13 +42,13 @@ Xaman works with two networks: the XRP Ledger and Xahau. Switch between them wit
 
 ### Fees
 
-Every transaction on the XRP Ledger and Xahau has a small network fee. It goes to the network, not to Xaman. Some transactions also have a Xaman service fee, which the signing screen shows before you sign. See [_Understanding Xaman Service Fees_](../understanding-the-xaman-service-fee.md).
+Every transaction on the XRP Ledger and Xahau has a small network fee. It goes to the network, not to Xaman. Some transactions also have a Xaman service fee, which the signing screen shows before you sign. See [_Understanding Xaman Service Fees_](understanding-the-xaman-service-fee.md).
 
 ### Get started
 
-* [_Installing Xaman_](../installing-xaman.md)
-* [_Your first XRP Ledger account_](../your-first-xrp-ledger-account/)
-* [_Importing your account_,](../importing-your-account/) if you already have an XRP Ledger account
+* [_Installing Xaman_](installing-xaman.md)
+* [_Your first XRP Ledger account_](/broken/pages/jdX9LEfSCcHMaBbmSn0Q)
+* [_Importing your account_,](../../your-account/importing-your-account/) if you already have an XRP Ledger account
 
 ### Frequently asked questions
 

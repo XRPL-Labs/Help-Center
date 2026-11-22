@@ -5,7 +5,7 @@ description: >-
   responsibility matters more than usual.
 ---
 
-# 🔐 Self-Custody 101: Staying Safe with Xaman
+# Self-Custody 101: Staying Safe with Xaman
 
 This guide gives you the rules that will keep you safe. Read it. Take it seriously. The basics here will defeat almost every scam currently aimed at self-custody users.
 
@@ -60,11 +60,11 @@ Six rules, applied consistently, will protect you from almost everything.
 Move quickly. Calmly.
 
 1. **Stop.** Close the site. Stop replying. Do not sign anything else.
-2. **Move whatever funds remain to a new account.** If your Secret Numbers may have leaked, treat the old account as lost. Create a new account in Xaman and transfer your remaining assets there. (You can also [re-key](../learning-more-about-xaman/how-to-rekey-your-account.md) and [disable the master key](../learning-more-about-xaman/how-to-disable-the-master-key.md); both options are in our help center.)
+2. **Move whatever funds remain to a new account.** If your Secret Numbers may have leaked, treat the old account as lost. Create a new account in Xaman and transfer your remaining assets there. (You can also [re-key](../../learning-more-about-xaman/how-to-rekey-your-account.md) and [disable the master key](../../learning-more-about-xaman/how-to-disable-the-master-key.md); both options are in our help center.)
 3. **Report it to your local police.** Most countries now have cyber crime or financial crime units that handle blockchain cases. The ledger is public and traceable; law enforcement has tools we do not.
 4. **Identify how it happened** before you continue using the same device. If you cannot, wipe your phone and reinstall apps fresh from official sources. Do not restore from backup.
 
-For more information see: [I've been scammed!](../scams-and-staying-safe/ive-been-scammed.md)
+For more information see: [I've been scammed!](../../scams-and-staying-safe/ive-been-scammed.md)
 
 We cannot reverse transactions. No one can. What we can do is help you secure what is left.
 

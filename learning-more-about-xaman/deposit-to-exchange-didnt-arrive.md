@@ -115,5 +115,5 @@ Memos are public, so scammers can see your message. Anyone who offers to recover
 
 ### See also
 
-* [Sending XRP and tokens from Xaman](../getting-started-with-xaman/sending-tokens-from-xaman.md)
+* [Sending XRP and tokens from Xaman](../your-account/sending-tokens-from-xaman.md)
 * [Can Xaman reverse, freeze or undo a transaction?](../scams-and-staying-safe/can-xaman-reverse-freeze-or-undo-a-transaction.md)

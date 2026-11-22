@@ -72,7 +72,7 @@ Yes. A new card creates its own XRP Ledger account, with its own r-address. You 
 
 **Does a card account need its own reserve?**
 
-A card's own account needs to be activated, like any XRP Ledger account, so it needs a base reserve. A backup card does not need activation, because it only signs for your card account. See [_Activating an account_](../getting-started-with-xaman/how-to-activate-a-new-xrpl-account/).
+A card's own account needs to be activated, like any XRP Ledger account, so it needs a base reserve. A backup card does not need activation, because it only signs for your card account. See [_Activating an account_](../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/).
 
 **Can I copy or back up the account secret on a card?**
 
@@ -88,7 +88,7 @@ Only where the business accepts XRP or XRP Ledger tokens. If it does, you can si
 
 **Can I use my Tangem card with Xaman?**
 
-Yes, if you have not set it up in the Tangem app yet. Set up the card in Xaman first. See [_How to import your Xaman card_.](../getting-started-with-xaman/importing-your-account/...a-xaman-tangem-card.md) After that, you can also import the card into the Tangem app and use it there.
+Yes, if you have not set it up in the Tangem app yet. Set up the card in Xaman first. See [_How to import your Xaman card_.](../your-account/importing-your-account/...a-xaman-tangem-card.md) After that, you can also import the card into the Tangem app and use it there.
 
 If you already set up the card in the Tangem app, you cannot add it to Xaman. You can keep using it with the Tangem app as usual.
 

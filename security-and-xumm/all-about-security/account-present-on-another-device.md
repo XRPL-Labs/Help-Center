@@ -51,7 +51,7 @@ This stops your old account secret from working, so the other device can no long
 
 Send all your XRP and tokens there, then stop using the old account. If you create a new account for this, write its account secret down on paper only, and keep it somewhere private. Until you know how your old account secret got out, avoid saving the new one in photos, notes, or anywhere else digital, and make sure no one can see your screen while you write it down. A Xaman card account is another good choice, since its account secret never leaves the card. This article shows you how to send your funds:
 
-* [Sending XRP and tokens from Xaman](../../getting-started-with-xaman/sending-tokens-from-xaman.md)
+* [Sending XRP and tokens from Xaman](../../your-account/sending-tokens-from-xaman.md)
 
 **Not sure which to choose?** Contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md), and we will help you decide. Xaman Support will never ask for your account secret.
 

@@ -4,7 +4,7 @@ description: >-
   charges them.
 ---
 
-# 💙 Understanding Xaman Service Fees
+# Understanding Xaman Service Fees
 
 **Xaman is a feature-complete, secure wallet for the XRP Ledger and Xahau. A small service fee on certain transactions is how we keep building it, running the infrastructure, and supporting you. This page explains the fees, what is free, and how the fees work.**
 
@@ -70,14 +70,14 @@ To see the two parts separately:
 
 1. On the **Review transaction** screen, tap the info icon next to the **Network & Service Fee** line.
 
-<div align="left"><figure><img src="../.gitbook/assets/fee_trade_518.png" alt="" width="290"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/fee_trade_518.png" alt="" width="290"><figcaption></figcaption></figure></div>
 
 2. In the **Fees** sheet, the total is broken down:
 
 * **Network fee** : the fee paid to the XRP Ledger. You can choose the speed: Low, Medium, or High.
 * **Service fee** : our fee for the transaction. The amount is already calculated and shown.
 
-<div align="left"><figure><img src="../.gitbook/assets/fee_breakdown.png" alt="" width="300"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/fee_breakdown.png" alt="" width="300"><figcaption></figcaption></figure></div>
 
 3. If you want a different network fee speed, select it and tap **Apply**.
 4. Return to the **Review transaction** screen. Slide to accept to sign, or close to cancel.

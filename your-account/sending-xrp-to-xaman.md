@@ -18,8 +18,6 @@ Here is where you can find you r-address in Xaman.
 
 <figure><img src="../.gitbook/assets/sending-xrp -1.png" alt=""><figcaption></figcaption></figure>
 
-
-
 {% hint style="info" %}
 Of course, your r-address will be different than our r-address. Our account is a [Vanity r-address](../xaman-pro/features-of-pro/vanity-addresses.md).
 {% endhint %}
@@ -35,7 +33,7 @@ You should also know that there are two types of accounts on the XRPL.
 Destination Tags are usually required when using exchanges. Some exchanges give a different Destination Tag for each transaction. Some exchanges re-use the same Destination Tag for all transactions for your account. make sure you know how your exchange works.
 {% endhint %}
 
-Since this article talks about how to send XRP to your XRPL account managed by Xaman, you will not need a destination tag.&#x20;
+Since this article talks about how to send XRP to your XRPL account managed by Xaman, you will not need a destination tag.
 
 See this article for more details about Destination Tags:
 
@@ -45,7 +43,7 @@ See this article for more details about Destination Tags:
 
 ## The '**Send Flow**'
 
-Obviously we can not provide step-by-step instructions for every crypto wallet and crypto exchange. (There are just too many of them and they continually change their applications. We can't keep up with all of them!)&#x20;
+Obviously we can not provide step-by-step instructions for every crypto wallet and crypto exchange. (There are just too many of them and they continually change their applications. We can't keep up with all of them!)
 
 You goal is to find the "**Send**" option or the "**Withdraw**" option.
 
@@ -65,8 +63,6 @@ In Coinbase, it looks like this:
 
 <figure><img src="../.gitbook/assets/Coinbase - Send.png" alt=""><figcaption></figcaption></figure>
 
-
-
 From there, you often have to choose the **amount** you would like to send.
 
 Here is how it looks in Xaman.
@@ -83,7 +79,7 @@ In Xaman, you would enter would enter the **recipient's** account that you are s
 
 <figure><img src="../.gitbook/assets/Recipient screen.png" alt=""><figcaption></figcaption></figure>
 
-At this point, you might be asked to choose a  "**Network type**". Many exchanges still refer to the XRP Ledger as the "Ripple" network, or simply the "XRP" network.
+At this point, you might be asked to choose a "**Network type**". Many exchanges still refer to the XRP Ledger as the "Ripple" network, or simply the "XRP" network.
 
 You will have to contact your exchange if they call the XRP Ledger something else and it is not obvious.
 
@@ -97,17 +93,13 @@ In Xaman, the **Summary** screen is where you can review your transaction to mak
 
 <figure><img src="../.gitbook/assets/Summary.png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### Sending XRP from a crypto exchange account
 
 Each crypto exchange will have their own instructions for sending XRP.
 
 In the table below, you can find instructions for some of the more popular exchanges.
 
-
-
-<table><thead><tr><th width="352">How to transfer XRP from:</th><th>Link to open exchange website</th></tr></thead><tbody><tr><td><a href="how-to-activate-a-new-xrpl-account/from-gatehub.md"><mark style="color:blue;"><strong>Gatehub</strong></mark></a></td><td><a href="https://gatehub.net/"><mark style="color:blue;">Open</mark></a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-uphold.md"><strong>Uphold</strong></a></td><td><a href="https://uphold.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-kraken.md"><strong>Kraken</strong></a></td><td><a href="https://www.kraken.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-crypto.com.md"><strong>Crypto.com</strong></a></td><td><a href="https://crypto.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-coinbase.md"><strong>Coinbase</strong></a></td><td><a href="https://www.coinbase.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-kucoin.md"><strong>Kucoin</strong></a></td><td><a href="https://www.kucoin.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-binance.md"><strong>Binance</strong></a></td><td><a href="https://www.binance.com/en">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-bitrue.md"><strong>Bitrue</strong></a></td><td><a href="https://www.bitrue.com/">Open</a></td></tr><tr><td><a href="how-to-activate-a-new-xrpl-account/from-bitstamp.md"><strong>Bitstamp</strong></a></td><td><a href="https://www.bitstamp.net/">Open</a></td></tr></tbody></table>
+<table><thead><tr><th width="352">How to transfer XRP from:</th><th>Link to open exchange website</th></tr></thead><tbody><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-gatehub.md"><mark style="color:blue;"><strong>Gatehub</strong></mark></a></td><td><a href="https://gatehub.net/"><mark style="color:blue;">Open</mark></a></td></tr><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-uphold.md"><strong>Uphold</strong></a></td><td><a href="https://uphold.com/">Open</a></td></tr><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-kraken.md"><strong>Kraken</strong></a></td><td><a href="https://www.kraken.com/">Open</a></td></tr><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-crypto.com.md"><strong>Crypto.com</strong></a></td><td><a href="https://crypto.com/">Open</a></td></tr><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-coinbase.md"><strong>Coinbase</strong></a></td><td><a href="https://www.coinbase.com/">Open</a></td></tr><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-kucoin.md"><strong>Kucoin</strong></a></td><td><a href="https://www.kucoin.com/">Open</a></td></tr><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-binance.md"><strong>Binance</strong></a></td><td><a href="https://www.binance.com/en">Open</a></td></tr><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-bitrue.md"><strong>Bitrue</strong></a></td><td><a href="https://www.bitrue.com/">Open</a></td></tr><tr><td><a href="../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/from-bitstamp.md"><strong>Bitstamp</strong></a></td><td><a href="https://www.bitstamp.net/">Open</a></td></tr></tbody></table>
 
 ### Frequently asked questions
 
@@ -118,6 +110,3 @@ Transactions on the XRP Ledger take about 4 seconds to complete, so after your e
 ...unless your exchange does not submit your transaction to the XRP Ledger right away. In many cases, the exchange will say, "Your transaction has been submitted for processing", or "Your transaction is complete, we will submit it shortly." Remember, crypto exchange control your funds. They can decide if they want to send them, when they want to send them and where they want to send them. We've seen cases where an exchange waited 18 hours before submitting a transaction to the XRP Ledger. You are at their mercy when it comes to accessing your funds with them.
 
 If your funds do not arrive in your account within a minute or two, you should be contacting your exchange and find out what the delay is all about.
-
-&#x20;
-

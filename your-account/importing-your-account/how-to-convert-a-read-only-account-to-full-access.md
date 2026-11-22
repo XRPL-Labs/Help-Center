@@ -24,23 +24,23 @@ This is the most common reason a conversion fails. Many people are sure they hav
 
 1. Launch Xaman. Press the **Settings** button. Choose **Accounts**. Press the **Edit** button beside the account you want to convert.
 
-<figure><img src="../.gitbook/assets/Read only -1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Read only -1.png" alt=""><figcaption></figcaption></figure>
 
 2\) Tap the **Access level** option...
 
-<figure><img src="../.gitbook/assets/Read only -2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Read only -2.png" alt=""><figcaption></figcaption></figure>
 
 then choose **Full access**.
 
-<figure><img src="../.gitbook/assets/Read only -3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Read only -3.png" alt=""><figcaption></figcaption></figure>
 
 3\) Press **Yes, I'm sure**.
 
-<figure><img src="../.gitbook/assets/Read only -5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Read only -5.png" alt=""><figcaption></figcaption></figure>
 
 4\) Choose the account secret type for your account.
 
-<figure><img src="../.gitbook/assets/Secret type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Secret type.png" alt=""><figcaption></figcaption></figure>
 
 Xaman supports all industry-standard account secret types. When you created your account, you received one of them. Choose the type that matches your account, then follow that article to finish the import.
 

@@ -1,7 +1,5 @@
 ---
 description: How to create an XRP Ledger account using Xaman
-cover: ../../.gitbook/assets/Creating in forest.png
-coverY: 143
 ---
 
 # How to create an XRP Ledger account
@@ -18,7 +16,7 @@ If you have just finished installing Xaman (formerly Xumm) and are at this page,
 Make sure you read and understand this page then press the **Next, I understand** button.
 {% endhint %}
 
-You will be presented with a set of secret numbers. The secret numbers consist of 8 rows, (A through H) with each row containing 6 digits. (0,1,2,3,-> 9)&#x20;
+You will be presented with a set of secret numbers. The secret numbers consist of 8 rows, (A through H) with each row containing 6 digits. (0,1,2,3,-> 9)
 
 <figure><img src="../../.gitbook/assets/Secret numbers - 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,8 +46,6 @@ Next you should see the following screen:
 
 The following table should help you decide which option is best for you.
 
-
-
 | Option                                                 | Explanation                                                                                                                                                         |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](<../../.gitbook/assets/image (1) (2) (3).png>)     | Standard security is a great option your daily spending account. You can sign with your 6 digit passcode or enable biometrics and sign with your face/finger print. |
@@ -71,7 +67,7 @@ You should now be at the main screen of Xaman.
 
 Notice that your new account has **not been activated** yet.
 
-All XRPL accounts [need to be activated](../how-to-activate-a-new-xrpl-account/) with at least 1 XRP in order to hold XRP in them.
+All XRPL accounts [need to be activated](../../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/) with at least 1 XRP in order to hold XRP in them.
 
 Pressing the **Activate your account** button gets you into the "Account Activation" flow.
 
@@ -79,10 +75,8 @@ Pressing the **Activate your account** button gets you into the "Account Activat
 
 If you press the **Buy XRP** button you will be provided with several options to purchase XRP.
 
-
-
 <figure><img src="../../.gitbook/assets/New account - 3.png" alt=""><figcaption></figcaption></figure>
 
 For more information about activating your new XRP Ledger account, please refer to this article:
 
-[**Activating an XRPL account**](../how-to-activate-a-new-xrpl-account/)
+[**Activating an XRPL account**](../../learning-more-about-xaman/how-to-activate-a-new-xrpl-account/)

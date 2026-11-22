@@ -87,7 +87,7 @@ To learn more, see [_Spam on the XRP Ledger_](../../scams-and-staying-safe/spam-
 
 The XRP Ledger runs on independent servers around the world, so no single company or government can switch it off. No one can freeze or move the XRP in your account without your account secret, including XRPL Labs.
 
-Your account does not depend on Xaman either. If you ever wanted to, you could use your account secret in another wallet that supports the XRP Ledger. See [_Moving your XRPL account to another wallet_](../../learning-more-about-xumm/moving-your-xrpl-account-to-another-wallet.md). That is what self-custody means: your account is yours.
+Your account does not depend on Xaman either. If you ever wanted to, you could use your account secret in another wallet that supports the XRP Ledger. See [_Moving your XRPL account to another wallet_](../../your-account/importing-your-account/moving-your-xrpl-account-to-another-wallet.md). That is what self-custody means: your account is yours.
 
 ### In short
 
@@ -123,4 +123,4 @@ Crypto assets can change in value. This article explains how the feature works a
 * [Best security practices for the Xaman cards](../../xaman-cards/best-security-practices-using-a-xaman-card.md)
 * [Xaman cards](../../xaman-cards/xaman-tangem-cards.md)
 * [_Token vetting and the token warning_](../../learning-more-about-xaman/token-vetting-and-the-token-warning.md)
-* [_Moving your XRPL account to another wallet_](../../learning-more-about-xumm/moving-your-xrpl-account-to-another-wallet.md)
+* [_Moving your XRPL account to another wallet_](../../your-account/importing-your-account/moving-your-xrpl-account-to-another-wallet.md)

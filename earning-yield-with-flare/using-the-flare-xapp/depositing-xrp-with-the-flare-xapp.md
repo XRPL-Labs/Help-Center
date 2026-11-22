@@ -89,5 +89,5 @@ Crypto assets can change in value. This article explains how the feature works a
 
 * [The Flare XRPFi Yield xApp](the-flare-xrpfi-yield-xapp.md)
 * [Fees in the Flare xApp](fees-in-the-flare-xapp.md)
-* [Understanding Xaman Service Fees](../../getting-started-with-xaman/understanding-the-xaman-service-fee.md)<br>
+* [Understanding Xaman Service Fees](../../getting-started-with-xaman/what-is-xaman/understanding-the-xaman-service-fee.md)<br>
 

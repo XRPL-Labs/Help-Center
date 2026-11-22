@@ -50,8 +50,8 @@ If your account was compromised (someone accessed it without your permission), a
   * [How to re-key your XRPL account](../learning-more-about-xaman/how-to-rekey-your-account.md)
   * [How to disable the master key on an account](../learning-more-about-xaman/how-to-disable-the-master-key.md)
 * If re-keying looks too complicated, **create a new account**, move your remaining funds to the new account, then delete the compromised account.
-  * [How to create a new XRP Ledger account using Xaman](../getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account.md)
-  * [How to delete your XRP Ledger account](../learning-more-about-xaman/how-to-delete-an-xrpl-account.md)
+  * [How to create a new XRP Ledger account using Xaman](../getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md)
+  * [How to delete your XRP Ledger account](../your-account/importing-your-account/how-to-delete-an-xrpl-account.md)
   * Note: Trust lines will have to be duplicated (temporarily) in the new account until they can be removed from the old one, requiring enough XRP to cover reserves until the move is complete.
 
 ### Work out how your account secret was leaked

@@ -117,7 +117,7 @@ No. Before you can delete your account, you need to remove all of its Trust Line
 
 **Does Xaman charge a service fee for Trust Lines?**
 
-No. Creating and removing a Trust Line has no Xaman service fee. You pay only the network fee. See [_Understanding Xaman Service Fees_](../../getting-started-with-xaman/understanding-the-xaman-service-fee.md).
+No. Creating and removing a Trust Line has no Xaman service fee. You pay only the network fee. See [_Understanding Xaman Service Fees_](../../getting-started-with-xaman/what-is-xaman/understanding-the-xaman-service-fee.md).
 
 ### See also
 
