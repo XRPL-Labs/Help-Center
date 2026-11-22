@@ -113,45 +113,6 @@
 * [Can I view/export my account secret?](security/can-i-view-export-my-account-secret.md)
 * [I've lost my account secret!](security/ive-lost-my-account-secret.md)
 
-## Learning more about Xaman
-
-* [Xaman (Tangem) Cards](learning-more-about-xaman/xaman-tangem-cards.md)
-* [Security in Xaman](learning-more-about-xaman/security-in-xaman.md)
-* [Buying XRP](learning-more-about-xaman/buying-xrp/README.md)
-  * [Banxa](learning-more-about-xaman/buying-xrp/banxa.md)
-  * [BTC Direct](learning-more-about-xaman/buying-xrp/btcdirect.md)
-  * [Guardarian](learning-more-about-xaman/buying-xrp/guardarian.md)
-  * [Topper](learning-more-about-xaman/buying-xrp/topper.md)
-  * [C14](learning-more-about-xaman/buying-xrp/c14.md)
-  * [Xaman On/Off Ramp](learning-more-about-xaman/buying-xrp/xaman-on-off-ramp.md)
-* [What do "Full" and "Read Only" mean in Xaman?](learning-more-about-xaman/what-do-full-and-read-only-mean-in-xaman.md)
-* [Xaman & AMM](learning-more-about-xaman/xaman-and-amm.md)
-* [Xaman & Fractal ID](learning-more-about-xumm/xaman-and-fractal-id.md)
-* [How to set the currency](learning-more-about-xumm/how-to-set-the-currency.md)
-* [How to change your email address](learning-more-about-xumm/how-to-change-your-email-address.md)
-* [How to verify your identity (KYC)](learning-more-about-xumm/kyc.md)
-* [How to send SGB to BiFrost](learning-more-about-xumm/how-to-send-sgb-to-bifrost.md)
-* [Taxes and your XRPL/Xahau accounts](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
-* [What is the Third Party Apps section?](learning-more-about-xaman/what-is-the-third-party-apps-section.md)
-* [How Non-Fungible Tokens (NFTs) work on the XRP Ledger](learning-more-about-xumm/nfts/README.md)
-  * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
-* [General Terms and definitions](learning-more-about-xaman/some-terms-and-definitions-related-to-xaman-and-the-xrpl.md)
-* [Accessing your XRP Ledger account](learning-more-about-xaman/how-can-you-access-your-xrpl-account.md)
-* [How to take a screenshot](learning-more-about-xumm/how-to-take-a-screenshot.md)
-* [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
-* [How to access Testnet on XRP Ledger](learning-more-about-xaman/how-to-access-testnet-on-xrp-ledger.md)
-* [Displaying XRP value](learning-more-about-xaman/displaying-xrp-value.md)
-* [How to scan a QR code](learning-more-about-xaman/how-to-scan-a-qr-code.md)
-* [Token freezes and clawback](learning-more-about-xaman/token-freezes-and-clawback.md)
-
-## Configuring Xaman
-
-* [Understanding the Settings Options](configuring-xaman/understanding-the-settings-options/README.md)
-  * [Events screen](configuring-xaman/understanding-the-settings-options/events-screen.md)
-  * [Security screen](configuring-xaman/understanding-the-settings-options/security-screen.md)
-  * [How to post a Session Log](configuring-xaman/understanding-the-settings-options/how-to-post-a-session-log.md)
-  * [Third party apps](configuring-xaman/understanding-the-settings-options/third-party-apps.md)
-
 ## Scams and staying safe
 
 * [I've been scammed!](scams-and-staying-safe/ive-been-scammed.md)
@@ -163,6 +124,23 @@
 * [Spam on the XRP Ledger](scams-and-staying-safe/spam-on-the-xrp-ledger.md)
 * [Official communication channels](scams-and-staying-safe/official-communication-channels.md)
 * [Trust in the XRPL Community](scams-and-staying-safe/trust-in-the-xrpl-community.md)
+
+## Using the Xaman app
+
+* [Understanding the Settings Options](using-the-xaman-app/understanding-the-settings-options/README.md)
+  * [Events screen](using-the-xaman-app/understanding-the-settings-options/events-screen.md)
+  * [Security screen](using-the-xaman-app/understanding-the-settings-options/security-screen.md)
+  * [Third party apps](using-the-xaman-app/understanding-the-settings-options/third-party-apps.md)
+* [What is the Third Party Apps section?](using-the-xaman-app/what-is-the-third-party-apps-section.md)
+* [How to set the currency](using-the-xaman-app/how-to-set-the-currency.md)
+* [Displaying XRP value](using-the-xaman-app/displaying-xrp-value.md)
+* [How to change your email address](using-the-xaman-app/how-to-change-your-email-address.md)
+* [How to verify your identity (KYC)](using-the-xaman-app/kyc.md)
+* [Xaman & Fractal ID](using-the-xaman-app/xaman-and-fractal-id.md)
+* [How to scan a QR code](using-the-xaman-app/how-to-scan-a-qr-code.md)
+* [How to take a screenshot](using-the-xaman-app/how-to-take-a-screenshot.md)
+* [How to access Testnet on XRP Ledger](using-the-xaman-app/how-to-access-testnet-on-xrp-ledger.md)
+* [How to post a Session Log](using-the-xaman-app/how-to-post-a-session-log.md)
 
 ## ALL ABOUT XAPPS
 
@@ -204,74 +182,6 @@
   * [Break-even time in the Flare xApp](earning-yield-with-flare/using-the-flare-xapp/break-even-time-in-the-flare-xapp.md)
   * [Frequently asked questions about the Flare xApp](earning-yield-with-flare/using-the-flare-xapp/frequently-asked-questions-about-the-flare-xapp.md)
 
-## Xaman Pro
-
-* [😎 What is Xaman Pro?](xaman-pro/what-is-xumm-pro.md)
-* [How to subscribe to Xaman Pro](xaman-pro/how-to-subscribe-to-pro.md)
-* [Features of Pro](xaman-pro/features-of-pro/README.md)
-  * [Profiles](xaman-pro/features-of-pro/profiles/README.md)
-    * [All about Profiles](xaman-pro/features-of-pro/profiles/all-about-profiles.md)
-    * [What is PayString?](xaman-pro/features-of-pro/profiles/what-is-paystring.md)
-    * [Setting up your Xaman Profile](xaman-pro/features-of-pro/profiles/setting-up-your-xumm-profile.md)
-  * [Push notifications](xaman-pro/features-of-pro/push-notifications.md)
-  * [Accounts](xaman-pro/features-of-pro/accounts.md)
-  * [Xaman App early access](xaman-pro/features-of-pro/xumm-app-early-access.md)
-  * [Premium Support](xaman-pro/features-of-pro/premium-support.md)
-  * [Vanity addresses](xaman-pro/features-of-pro/vanity-addresses.md)
-
-## XRP Ledger resources
-
-* [XRP Ledger Concepts](xrp-ledger-resources/xrp-ledger-concepts/README.md)
-  * [Video: Reserves and Fees on the XRPL](xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
-  * [What is a blackholed account?](xrp-ledger-resources/xrp-ledger-concepts/what-is-a-blackholed-account.md)
-  * [Reserves on the XRP Ledger](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
-  * [Payment Channels](xrp-ledger-resources/xrp-ledger-concepts/payment-channels.md)
-  * [Multi Signature](xrp-ledger-resources/xrp-ledger-concepts/multi-signature.md)
-  * [Understanding fiat currencies](xrp-ledger-resources/xrp-ledger-concepts/understanding-fiat-currencies.md)
-
-## Release notes
-
-* [Current release](release-notes/current-release.md)
-* [Previous releases](release-notes/previous-releases/README.md)
-  * [Xaman 4.0](release-notes/previous-releases/xaman-4.0.md)
-  * [😎 Updating to Xaman v2.8.2!](release-notes/previous-releases/updating-to-xaman-v2.8.2.md)
-  * [Xaman v2.8](release-notes/previous-releases/xaman-v2.8.md)
-  * [Xaman v2.6 (Formerly Xumm)](release-notes/previous-releases/xaman-v2.6-formerly-xumm.md)
-  * [Xumm v2.5](release-notes/previous-releases/xumm-v2.5.md)
-  * [🥳 Updating to Xumm v2.5!](getting-started-with-xumm/updating-to-xumm-v2.5.md)
-  * [Updating to Xumm v2.4](release-notes/previous-releases/updating-to-xumm-v2.4.md)
-  * [Xumm v2.4](release-notes/previous-releases/xumm-v2.4.md)
-  * [Xumm v2.3.1](release-notes/previous-releases/xumm-v2.3.1.md)
-  * [Xumm v2.3.0](release-notes/previous-releases/xumm-v2.3.0.md)
-  * [Xumm v2.2.8](release-notes/previous-releases/xumm-v2.2.8.md)
-  * [Xumm v2.2.6](release-notes/previous-releases/xumm-v2.2.6.md)
-  * [Xumm v2.2.5](release-notes/previous-releases/xumm-v2.2.5.md)
-  * [Xumm v2.2.3 / v2.2.4](release-notes/previous-releases/xumm-v2.2.3-v2.2.4.md)
-  * [Xumm v2.21](release-notes/page-1.md)
-  * [Xumm v2.0](release-notes/previous-releases/xumm-v2.0.md)
-  * [Xumm v1.0.0](release-notes/previous-releases/xumm-v1.0.0.md)
-  * [Xumm v0.6.0](release-notes/previous-releases/xumm-v0.6.0.md)
-  * [Xumm v0.5.2](release-notes/previous-releases/xumm-v0.5.2.md)
-  * [Xumm v0.5.1](release-notes/previous-releases/xumm-v0.5.1.md)
-
-## About Xaman & XRPL Labs
-
-* [About XRPL Labs](about-xaman-and-xrpl-labs/what-is-xrpl-labs.md)
-* [👨‍👩‍👧‍👧 The XRPL Labs/Xaman team](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/README.md)
-  * [📺 Team: Satish](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/introducing-ali-richard-and-satish.md)
-  * [📺 Team: Richard & Tristan](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/team-richard-and-tristan.md)
-  * [📺 Team: Alex](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/team-alex.md)
-  * [📺 Team: Kevin](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/team-kevin.md)
-  * [📺 Team: Dominique & Dirk Jan](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/team-dominique-and-dirk-jan.md)
-  * [📺 Team: Will](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/team-will.md)
-  * [📺 Team: Mai](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/team-mai.md)
-  * [📺 Team: Denis & Robert](about-xaman-and-xrpl-labs/who-is-the-team-behind-xaman/team-denis-and-robert.md)
-* [Xaman vs. Ripple](about-xaman-and-xrpl-labs/is-xaman-owned-by-ripple.md)
-* [Privacy Statement](about-xaman-and-xrpl-labs/where-can-i-find-your-privacy-statement.md)
-* [Terms of Service](about-xaman-and-xrpl-labs/where-can-i-find-your-terms-of-service.md)
-* [Responsible Disclosure Policy](about-xaman-and-xrpl-labs/where-can-i-find-your-responsible-disclosure-policy.md)
-* [Switching from Ledger to Xaman](about-xaman-and-xrpl-labs/switching-from-ledger-to-xaman.md)
-
 ## Xahau
 
 * [Activating a Xahau account](getting-started-with-xumm/activating-a-xahau-account/README.md)
@@ -300,7 +210,92 @@
 * [Setting up a Backup card](xahau/setting-up-a-backup-card.md)
 * [Lost or damaged cards](xahau/lost-or-damaged-cards.md)
 
-***
+## XRP Ledger resources
 
-* [landing page cards](landing-page-cards.md)
-* [landing page cards](landing-page-cards-1.md)
+* [XRP Ledger Concepts](xrp-ledger-resources/xrp-ledger-concepts/README.md)
+  * [Video: Reserves and Fees on the XRPL](xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
+  * [What is a blackholed account?](xrp-ledger-resources/xrp-ledger-concepts/what-is-a-blackholed-account.md)
+  * [Reserves on the XRP Ledger](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
+  * [Payment Channels](xrp-ledger-resources/xrp-ledger-concepts/payment-channels.md)
+  * [Multi Signature](xrp-ledger-resources/xrp-ledger-concepts/multi-signature.md)
+  * [Understanding fiat currencies](xrp-ledger-resources/xrp-ledger-concepts/understanding-fiat-currencies.md)
+
+## About Xaman
+
+* [About XRPL Labs](about-xaman/what-is-xrpl-labs.md)
+* [👨‍👩‍👧‍👧 The XRPL Labs/Xaman team](about-xaman/who-is-the-team-behind-xaman/README.md)
+  * [📺 Team: Satish](about-xaman/who-is-the-team-behind-xaman/introducing-ali-richard-and-satish.md)
+  * [📺 Team: Richard & Tristan](about-xaman/who-is-the-team-behind-xaman/team-richard-and-tristan.md)
+  * [📺 Team: Alex](about-xaman/who-is-the-team-behind-xaman/team-alex.md)
+  * [📺 Team: Kevin](about-xaman/who-is-the-team-behind-xaman/team-kevin.md)
+  * [📺 Team: Dominique & Dirk Jan](about-xaman/who-is-the-team-behind-xaman/team-dominique-and-dirk-jan.md)
+  * [📺 Team: Will](about-xaman/who-is-the-team-behind-xaman/team-will.md)
+  * [📺 Team: Mai](about-xaman/who-is-the-team-behind-xaman/team-mai.md)
+  * [📺 Team: Denis & Robert](about-xaman/who-is-the-team-behind-xaman/team-denis-and-robert.md)
+* [Xaman vs. Ripple](about-xaman/is-xaman-owned-by-ripple.md)
+* [Privacy Statement](about-xaman/where-can-i-find-your-privacy-statement.md)
+* [Terms of Service](about-xaman/where-can-i-find-your-terms-of-service.md)
+* [Responsible Disclosure Policy](about-xaman/where-can-i-find-your-responsible-disclosure-policy.md)
+* [Switching from Ledger to Xaman](about-xaman/switching-from-ledger-to-xaman.md)
+
+## Learning more about Xaman
+
+* [Xaman (Tangem) Cards](learning-more-about-xaman/xaman-tangem-cards.md)
+* [Security in Xaman](learning-more-about-xaman/security-in-xaman.md)
+* [Buying XRP](learning-more-about-xaman/buying-xrp/README.md)
+  * [Banxa](learning-more-about-xaman/buying-xrp/banxa.md)
+  * [BTC Direct](learning-more-about-xaman/buying-xrp/btcdirect.md)
+  * [Guardarian](learning-more-about-xaman/buying-xrp/guardarian.md)
+  * [Topper](learning-more-about-xaman/buying-xrp/topper.md)
+  * [C14](learning-more-about-xaman/buying-xrp/c14.md)
+  * [Xaman On/Off Ramp](learning-more-about-xaman/buying-xrp/xaman-on-off-ramp.md)
+* [What do "Full" and "Read Only" mean in Xaman?](learning-more-about-xaman/what-do-full-and-read-only-mean-in-xaman.md)
+* [Xaman & AMM](learning-more-about-xaman/xaman-and-amm.md)
+* [How to send SGB to BiFrost](learning-more-about-xumm/how-to-send-sgb-to-bifrost.md)
+* [Taxes and your XRPL/Xahau accounts](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
+* [How Non-Fungible Tokens (NFTs) work on the XRP Ledger](learning-more-about-xumm/nfts/README.md)
+  * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
+* [General Terms and definitions](learning-more-about-xaman/some-terms-and-definitions-related-to-xaman-and-the-xrpl.md)
+* [Accessing your XRP Ledger account](learning-more-about-xaman/how-can-you-access-your-xrpl-account.md)
+* [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
+* [Token freezes and clawback](learning-more-about-xaman/token-freezes-and-clawback.md)
+
+## Xaman Pro
+
+* [😎 What is Xaman Pro?](xaman-pro/what-is-xumm-pro.md)
+* [How to subscribe to Xaman Pro](xaman-pro/how-to-subscribe-to-pro.md)
+* [Features of Pro](xaman-pro/features-of-pro/README.md)
+  * [Profiles](xaman-pro/features-of-pro/profiles/README.md)
+    * [All about Profiles](xaman-pro/features-of-pro/profiles/all-about-profiles.md)
+    * [What is PayString?](xaman-pro/features-of-pro/profiles/what-is-paystring.md)
+    * [Setting up your Xaman Profile](xaman-pro/features-of-pro/profiles/setting-up-your-xumm-profile.md)
+  * [Push notifications](xaman-pro/features-of-pro/push-notifications.md)
+  * [Accounts](xaman-pro/features-of-pro/accounts.md)
+  * [Xaman App early access](xaman-pro/features-of-pro/xumm-app-early-access.md)
+  * [Premium Support](xaman-pro/features-of-pro/premium-support.md)
+  * [Vanity addresses](xaman-pro/features-of-pro/vanity-addresses.md)
+
+## Release notes
+
+* [Current release](release-notes/current-release.md)
+* [Previous releases](release-notes/previous-releases/README.md)
+  * [Xaman 4.0](release-notes/previous-releases/xaman-4.0.md)
+  * [😎 Updating to Xaman v2.8.2!](release-notes/previous-releases/updating-to-xaman-v2.8.2.md)
+  * [Xaman v2.8](release-notes/previous-releases/xaman-v2.8.md)
+  * [Xaman v2.6 (Formerly Xumm)](release-notes/previous-releases/xaman-v2.6-formerly-xumm.md)
+  * [Xumm v2.5](release-notes/previous-releases/xumm-v2.5.md)
+  * [🥳 Updating to Xumm v2.5!](getting-started-with-xumm/updating-to-xumm-v2.5.md)
+  * [Updating to Xumm v2.4](release-notes/previous-releases/updating-to-xumm-v2.4.md)
+  * [Xumm v2.4](release-notes/previous-releases/xumm-v2.4.md)
+  * [Xumm v2.3.1](release-notes/previous-releases/xumm-v2.3.1.md)
+  * [Xumm v2.3.0](release-notes/previous-releases/xumm-v2.3.0.md)
+  * [Xumm v2.2.8](release-notes/previous-releases/xumm-v2.2.8.md)
+  * [Xumm v2.2.6](release-notes/previous-releases/xumm-v2.2.6.md)
+  * [Xumm v2.2.5](release-notes/previous-releases/xumm-v2.2.5.md)
+  * [Xumm v2.2.3 / v2.2.4](release-notes/previous-releases/xumm-v2.2.3-v2.2.4.md)
+  * [Xumm v2.21](release-notes/page-1.md)
+  * [Xumm v2.0](release-notes/previous-releases/xumm-v2.0.md)
+  * [Xumm v1.0.0](release-notes/previous-releases/xumm-v1.0.0.md)
+  * [Xumm v0.6.0](release-notes/previous-releases/xumm-v0.6.0.md)
+  * [Xumm v0.5.2](release-notes/previous-releases/xumm-v0.5.2.md)
+  * [Xumm v0.5.1](release-notes/previous-releases/xumm-v0.5.1.md)
