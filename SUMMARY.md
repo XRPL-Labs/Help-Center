@@ -287,3 +287,4 @@
 ***
 
 * [landing page cards](landing-page-cards.md)
+* [landing page cards](landing-page-cards-1.md)

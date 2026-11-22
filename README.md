@@ -35,7 +35,7 @@ coverY: 0
 Scammers pose as Xaman support on social media and in messages. Anyone who gets your account secret can take everything in your account. Xaman support never asks for it, and only helps you through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md).
 {% endhint %}
 
-
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Getting started with Xaman</td></tr></tbody></table>
 
 
 
