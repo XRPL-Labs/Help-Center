@@ -95,7 +95,6 @@
 ## XAMAN CARDS
 
 * [Xaman cards](xaman-cards/xaman-tangem-cards.md)
-* [How safe is a card?](xaman-cards/how-safe-is-a-card.md)
 * [Getting started with your new cards](xaman-cards/getting-started.md)
 * [What is a "Pre-funded" Xaman card?](xaman-cards/what-is-a-pre-funded-xaman-card.md)
 * [How to import your Xaman card](xaman-cards/...a-xaman-tangem-card.md)
