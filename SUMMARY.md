@@ -221,7 +221,6 @@
 ## XRP Ledger basics
 
 * [XRP Ledger Concepts](xrp-ledger-basics/xrp-ledger-concepts/README.md)
-  * [Video: Reserves and Fees on the XRPL](xrp-ledger-basics/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
   * [What is a blackholed account?](xrp-ledger-basics/xrp-ledger-concepts/what-is-a-blackholed-account.md)
   * [Reserves on the XRP Ledger](xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md)
   * [Payment Channels](xrp-ledger-basics/xrp-ledger-concepts/payment-channels.md)
