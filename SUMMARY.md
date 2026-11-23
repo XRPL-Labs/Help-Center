@@ -245,7 +245,6 @@
 * [Privacy Statement](about-xaman/where-can-i-find-your-privacy-statement.md)
 * [Terms of Service](about-xaman/where-can-i-find-your-terms-of-service.md)
 * [Responsible Disclosure Policy](about-xaman/where-can-i-find-your-responsible-disclosure-policy.md)
-* [Switching from Ledger to Xaman](about-xaman/switching-from-ledger-to-xaman.md)
 * [Feeling Generous?](about-xaman/feeling-generous.md)
 
 ## Xaman Pro
