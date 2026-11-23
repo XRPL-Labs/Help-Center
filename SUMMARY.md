@@ -135,7 +135,7 @@
 * [Dust attacks](scams-and-staying-safe/dust-attacks.md)
 * [Spam on the XRP Ledger](scams-and-staying-safe/spam-on-the-xrp-ledger.md)
 * [Official communication channels](scams-and-staying-safe/official-communication-channels.md)
-* [Trust in the XRPL Community](scams-and-staying-safe/trust-in-the-xrpl-community.md)
+* [Trust in the XRPL community](scams-and-staying-safe/trust-in-the-xrpl-community.md)
 
 ## Using the Xaman app
 
