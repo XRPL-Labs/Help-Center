@@ -1,6 +1,6 @@
 ---
 description: All about the Get Cards xApp
-cover: ../../.gitbook/assets/Get cards.png
+cover: ../.gitbook/assets/Get cards.png
 coverY: 0
 ---
 
@@ -10,7 +10,7 @@ coverY: 0
 
 The Get Cards xApp is a utility that allows you to:
 
-* purchase [**Xaman cards**](../../xaman-cards/xaman-tangem-cards.md)
+* purchase [**Xaman cards**](xaman-tangem-cards.md)
 
 ### **How do I find it?**
 
@@ -20,13 +20,13 @@ Tap this link:
 
 or you can find it by pressing the **xApps** button at the bottom of the main screen in Xumm.
 
-<figure><img src="../../.gitbook/assets/Get cards 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Get cards 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How do I use it?
 
 1\) Launching the [Get cards xApp](https://xumm.app/detect/xapp:xumm.tangem-order) displays the following screen:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Press the **Order cards** button...
 
@@ -40,12 +40,12 @@ Currently we offer quantities of 2, 3,4 or 5 cards. (We do not offer bulk orders
 
 If you decide to go with the 5 card option, the team will even sign one for you!
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* deciding if you would like to purchase XRP to cover the [**account reserve**](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md) for one card. (This option allows you to purchase 1 XRP to meet the account reserve requirement of the XRPL. )
+* deciding if you would like to purchase XRP to cover the [**account reserve**](../xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md) for one card. (This option allows you to purchase 1 XRP to meet the account reserve requirement of the XRPL. )
 * deciding if you would like to purchase extra XRP in addition to the 1 XRP for the account reserve.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note: There is a 10% premium (round up to the nearest 5) for this service.
 
@@ -53,13 +53,13 @@ Note: There is a 10% premium (round up to the nearest 5) for this service.
 
 When done, press the **Continue to shipping info** button.
 
-<figure><img src="../../.gitbook/assets/Get cards xApp - Step 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Get cards xApp - Step 1.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**
 
 Enter your shipping information.
 
-<figure><img src="../../.gitbook/assets/Get cards xApp - Step 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Get cards xApp - Step 2.png" alt=""><figcaption></figcaption></figure>
 
 When done, press the **Continue to payment** button.
 
@@ -73,16 +73,16 @@ If you are purchasing additional XRP, you are going to choose to pay with a Cred
 
 Note: A 10% premium applies (rounded to the nearest 5) for paying with a credit card.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note: If you choose to pay with a Credit card, you will receive this screen:
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"><br>
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"><br>
 
 After you fill out the form, press the **Next** button.\
 \
 Enter your credit card information in the form then press, **Process Payment**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 9\) You are all set! Thank you for your order. We can't do what we do without your support.

@@ -90,8 +90,8 @@ Yes. We have an xApp called [**XAH Teleport**](https://xumm.app/detect/xapp:xaha
 
 You can read all about it here:
 
-{% content-ref url="../all-about-xapps/xahau-xapps/xah-teleport.md" %}
-[xah-teleport.md](../all-about-xapps/xahau-xapps/xah-teleport.md)
+{% content-ref url="xahau-xapps/xah-teleport.md" %}
+[xah-teleport.md](xahau-xapps/xah-teleport.md)
 {% endcontent-ref %}
 
 You could also create an account at the GateHub crypto exchange and send your XAH tokens to their platform and activate your Xahau account from there.
@@ -108,8 +108,8 @@ Yes. We have an xApp called [**XAH Teleport**](https://xumm.app/detect/xapp:xaha
 
 You can read all about it here:
 
-{% content-ref url="../all-about-xapps/xahau-xapps/xah-teleport.md" %}
-[xah-teleport.md](../all-about-xapps/xahau-xapps/xah-teleport.md)
+{% content-ref url="xahau-xapps/xah-teleport.md" %}
+[xah-teleport.md](xahau-xapps/xah-teleport.md)
 {% endcontent-ref %}
 
 If you have XAH tokens issued by GateHub, you can also create a Gatehub account, then send your XAH to your GateHub account. From there you can exchange them into XAH coins on the Xahau network if you wish.

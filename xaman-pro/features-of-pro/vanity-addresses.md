@@ -11,6 +11,6 @@ The Vanity Address xApp lets you choose from over **400** **billion** pre-mined 
 
 For more information, please visit our Vanity Address xApp page:
 
-{% content-ref url="../../all-about-xapps/xaman-xapps/vanity-address.md" %}
-[vanity-address.md](../../all-about-xapps/xaman-xapps/vanity-address.md)
+{% content-ref url="../../xapps/xaman-xapps/vanity-address.md" %}
+[vanity-address.md](../../xapps/xaman-xapps/vanity-address.md)
 {% endcontent-ref %}

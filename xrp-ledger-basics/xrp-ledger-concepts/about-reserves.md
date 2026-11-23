@@ -51,10 +51,10 @@ When you remove an object from your account, the XRP Ledger releases its owner r
 
 To remove an object:
 
-* Trust line: send or remove the token balance first, then remove the trust line. See [_How to remove a Trust Line_](../../all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md).
+* Trust line: send or remove the token balance first, then remove the trust line. See [_How to remove a Trust Line_](../../xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md).
 * Offer: cancel the offer on the DEX.
 * Escrow: finish or cancel the escrow. See _How to release an escrow_.
-* NFT page: remove every NFT on the page, by selling, sending, or burning them. See [_How to Burn an NFT_](../../learning-more-about-xumm/nfts/nft-burn-process.md).
+* NFT page: remove every NFT on the page, by selling, sending, or burning them. See [_How to Burn an NFT_](../../tokens-trust-lines-and-nfts/nfts/nft-burn-process.md).
 
 ### Recover the base reserve
 
@@ -83,6 +83,6 @@ Yes. The validators can vote to raise or lower the base reserve and the owner re
 ### See also
 
 * [How to delete an XRPL account](../../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md)
-* [How to remove a Trust Line](../../all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
+* [How to remove a Trust Line](../../xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
 * [What are Trust Lines?](../../tokens-trust-lines-and-nfts/trust-lines-on-the-xrp-ledger.md)
 * [Reserves on xrpl.org](https://xrpl.org/docs/concepts/accounts/reserves)

@@ -44,5 +44,5 @@ Crypto assets can change in value. This article explains how these features work
 ### See also
 
 * [The Flare XRPFi Yield xApp](using-the-flare-xapp/the-flare-xrpfi-yield-xapp.md)
-* [Xaman and AMM](../learning-more-about-xaman/xaman-and-amm.md)
-* [Balance Adjustment](../all-about-xapps/xahau-xapps/balance-adjustment.md)
+* [Xaman and AMM](../tokens-trust-lines-and-nfts/xaman-and-amm.md)
+* [Balance Adjustment](../xahau/xahau-xapps/balance-adjustment.md)

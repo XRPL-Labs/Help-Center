@@ -8,8 +8,8 @@ In case you were not aware, we offer a cold wallet for our users who are interes
 
 If you've never heard about them or if you are interested in learning more, this article will provide you with all of the information you'll need.
 
-{% content-ref url="../../xaman-cards/xaman-tangem-cards.md" %}
-[xaman-tangem-cards.md](../../xaman-cards/xaman-tangem-cards.md)
+{% content-ref url="xaman-tangem-cards.md" %}
+[xaman-tangem-cards.md](xaman-tangem-cards.md)
 {% endcontent-ref %}
 
 ### How do I get a Xaman card?
@@ -30,11 +30,11 @@ You can purchase two or more cards here:
 
 4\) After the card creates it's account secret, you will see this screen with the, "Activate your account" button.
 
-<figure><img src="../../.gitbook/assets/activation 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/activation 3.png" alt=""><figcaption></figcaption></figure>
 
 5\) When you tap that button you will see this screen:
 
-<figure><img src="../../.gitbook/assets/activation 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/activation 4.png" alt=""><figcaption></figcaption></figure>
 
 6\) Tap the, "Activate" button and we will send 1 XRP to your newly created Xaman card account.
 
@@ -48,8 +48,8 @@ The first 1 XRP deposited into an XRPL account will be used to meet the reserve 
 
 This article provides more information about this:
 
-{% content-ref url="../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md" %}
-[about-reserves.md](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
+{% content-ref url="../xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md" %}
+[about-reserves.md](../xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md)
 {% endcontent-ref %}
 
 #### I didn't realize I had to claim the pre-funded XRP and activated the account from another source. Can I still claim the pre-funded XRP?

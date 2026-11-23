@@ -36,7 +36,7 @@ and...
 
 If you are interested in learning more about how Xumm interacts with NFTs, check out this article:
 
-* [**About NFTs**](../../learning-more-about-xumm/nfts/)
+* [**About NFTs**](../../tokens-trust-lines-and-nfts/nfts/)
 
 ### Improved security
 

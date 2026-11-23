@@ -27,7 +27,7 @@ There is no single "blackholed" label on the XRP Ledger. An account either meets
 
 ### Why accounts are blackholed
 
-The most common reason is trust in a token. When a token issuer blackholes its account, it can never issue more of that token, so the supply is fixed for good. Its settings are locked too: it can never change the token's transfer fee, freeze the token, or claw it back. For holders, that removes the issuer's powers described in [Token freezes and clawback](../../learning-more-about-xaman/token-freezes-and-clawback.md).
+The most common reason is trust in a token. When a token issuer blackholes its account, it can never issue more of that token, so the supply is fixed for good. Its settings are locked too: it can never change the token's transfer fee, freeze the token, or claw it back. For holders, that removes the issuer's powers described in [Token freezes and clawback](../../tokens-trust-lines-and-nfts/token-freezes-and-clawback.md).
 
 The other reason is retiring an account that cannot be deleted. Some accounts have things attached to them that block deletion. Blackholing stops the account from ever being used again, though it stays on the XRP Ledger and its reserve stays locked.
 
@@ -79,7 +79,7 @@ Crypto assets can change in value. This article explains how the feature works a
 
 ### See also
 
-* [Token freezes and clawback](../../learning-more-about-xaman/token-freezes-and-clawback.md)
+* [Token freezes and clawback](../../tokens-trust-lines-and-nfts/token-freezes-and-clawback.md)
 * [Token vetting and the token warning](https://help.xaman.app/app/learning-more-about-xaman/token-vetting-and-the-token-warning)
 * [How issued tokens work on the XRP Ledger](https://help.xaman.app/app/learning-more-about-xaman/how-issued-tokens-work-on-the-xrp-ledger)
 * [Can Xaman reverse, freeze or undo a transaction?](https://help.xaman.app/app/all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction)

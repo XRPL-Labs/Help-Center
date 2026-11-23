@@ -72,7 +72,7 @@ Sending to an exchange works the same way, with one extra step: the **destinatio
 
 #### Sending XRP
 
-**You can't send all of your XRP.** Every XRP Ledger account must hold a minimum amount of XRP, called the reserve. Part of your balance is set aside for it, and only the rest can be sent. See [About Reserves](../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md) for how it works.
+**You can't send all of your XRP.** Every XRP Ledger account must hold a minimum amount of XRP, called the reserve. Part of your balance is set aside for it, and only the rest can be sent. See [About Reserves](../xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md) for how it works.
 
 **Sending to a new account.** An XRP Ledger account only exists once it has received enough XRP to cover the base reserve. If you're sending XRP to an address that hasn't been activated yet, you need to send at least that amount, or the transaction will fail.
 

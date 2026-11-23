@@ -2,7 +2,7 @@
 description: What a Trust Line is, what it costs, and how to use one safely
 ---
 
-# Trust Lines on the XRP Ledger
+# Trust lines on the XRP Ledger
 
 ### Background
 
@@ -121,9 +121,9 @@ No. Creating and removing a Trust Line has no Xaman service fee. You pay only th
 
 ### See also
 
-* [Reserves on the XRP Ledger](../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
+* [Reserves on the XRP Ledger](../xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md)
 * [How to create a Trust Line](how-to-create-a-trust-line.md)
-* [How to remove a Trust Line](../all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
+* [How to remove a Trust Line](../xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
 * [Spam on the XRP Ledger](../scams-and-staying-safe/spam-on-the-xrp-ledger.md)
 * [Multi-Purpose Tokens on xrpl.org](https://xrpl.org/docs/concepts/tokens/fungible-tokens/multi-purpose-tokens)
 * [Clawing back tokens on xrpl.org](https://xrpl.org/docs/concepts/tokens/fungible-tokens/clawing-back-tokens)

@@ -20,7 +20,7 @@ Your package arrives in a sealed pouch, and the cards inside are loose. That is 
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2F0T2tpC2uhce5U15uAodB%2Fxaman-thank-you-card.png?alt=media&#x26;token=56857609-4b13-4a25-a52d-0ff6e2eb4361" alt="The Xaman thank-you card with links to download the Xaman app" width="188"><figcaption><p>Thank you card</p></figcaption></figure>
 
-If your package arrived already opened, see [Are my Xaman cards safe?](../xaman-cards/are-my-xaman-cards-safe.md) before you go any further.
+If your package arrived already opened, see [Are my Xaman cards safe?](../xaman-cards/my-card-package-arrived-opened.md) before you go any further.
 
 ### Your pre-funded card
 

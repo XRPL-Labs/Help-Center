@@ -8,13 +8,13 @@ description: How to trade Xahau (XAH) tokens / coins
 
 On November 1, 2023 a new blockchain was launched called **Xahau**.
 
-Xahau is an XRP Ledger protocol based network, introducing several new features, such as Hooks, not found on the XRPL mainnet.&#x20;
+Xahau is an XRP Ledger protocol based network, introducing several new features, such as Hooks, not found on the XRPL mainnet.
 
-One of the things introduced in Xahau is a new native coin with the trading symbol of **XAH**. The primary purpose of the XAH coin is to offset the higher fees encountered from Hook/Smart Contract transactions and pay transaction costs on the Xahau network.&#x20;
+One of the things introduced in Xahau is a new native coin with the trading symbol of **XAH**. The primary purpose of the XAH coin is to offset the higher fees encountered from Hook/Smart Contract transactions and pay transaction costs on the Xahau network.
 
 ### Understanding the difference between XAH coins and XAH tokens
 
-The XAH coin is the native currency on the Xahau network. It exists on the Xahau network and can be used to pay transaction costs on the Xahau network.&#x20;
+The XAH coin is the native currency on the Xahau network. It exists on the Xahau network and can be used to pay transaction costs on the Xahau network.
 
 A XAH token is an issued currency on another network. (In this case, the XRP Ledger.) It exists on a different network than Xahau. A XAH token can not be used to pay transaction costs on Xahau and can not be directly moved to the Xahau network.
 
@@ -28,7 +28,7 @@ For a more in-depth discussion about XAH tokens and how they work, check out thi
 
 In order to purchase XAH coins, you need to open an account with the following crypto exchanges:
 
-[**GateHub** ](https://signin.gatehub.net/signup)
+[**GateHub**](https://signin.gatehub.net/signup)
 
 [**Bitrue**](https://www.bitrue.com/user/register)
 
@@ -45,8 +45,6 @@ In all cases, once you have created an account with them, you will be able to se
 {% content-ref url="../getting-started-with-xumm/activating-a-xahau-account/bitrue.md" %}
 [bitrue.md](../getting-started-with-xumm/activating-a-xahau-account/bitrue.md)
 {% endcontent-ref %}
-
-
 
 ### How to trade XAH tokens on the DEX
 
@@ -88,9 +86,8 @@ Yes. We have an xApp called [**XAH Teleport**](https://xumm.app/detect/xapp:xaha
 
 You can read all about it here:
 
-{% content-ref url="../all-about-xapps/xahau-xapps/xah-teleport.md" %}
-[xah-teleport.md](../all-about-xapps/xahau-xapps/xah-teleport.md)
+{% content-ref url="xahau-xapps/xah-teleport.md" %}
+[xah-teleport.md](xahau-xapps/xah-teleport.md)
 {% endcontent-ref %}
 
 ####
-

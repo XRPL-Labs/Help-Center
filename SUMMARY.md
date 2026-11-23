@@ -14,8 +14,8 @@
   * [Installing Xaman](getting-started-with-xaman/what-is-xaman/installing-xaman.md)
   * [Your first XRP Ledger account](getting-started-with-xaman/what-is-xaman/your-first-xrp-ledger-account.md)
   * [How to create an XRP Ledger account](getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md)
+  * [What do "Full" and "Read Only" mean in Xaman?](getting-started-with-xaman/what-is-xaman/what-do-full-and-read-only-mean-in-xaman.md)
   * [Fast onboarding](getting-started-with-xaman/what-is-xaman/fast-onboarding.md)
-* [🎉 What's New in Xaman 5.0](getting-started-with-xaman/whats-new-in-xaman-5.0.md)
 
 ## Your accounts
 
@@ -33,6 +33,7 @@
   * [Moving your XRPL account to another wallet](your-accounts/importing-your-account/moving-your-xrpl-account-to-another-wallet.md)
   * [How to remove an account from Xaman](your-accounts/importing-your-account/how-to-remove-an-account-from-xaman.md)
   * [How to delete an XRPL account](your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md)
+* [Taxes and your XRPL/Xahau accounts](your-accounts/taxes-and-your-xrpl-account.md)
 
 ## getting xrp into xaman
 
@@ -50,6 +51,14 @@
     * [How to send XRP from Binance](getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-binance.md)
     * [How to Send XRP from Bitrue](getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-bitrue.md)
     * [How to Send XRP from Bitstamp](getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-bitstamp.md)
+* [Buying XRP](getting-xrp-into-xaman/buying-xrp/README.md)
+  * [Banxa](getting-xrp-into-xaman/buying-xrp/banxa.md)
+  * [BTC Direct](getting-xrp-into-xaman/buying-xrp/btcdirect.md)
+  * [Guardarian](getting-xrp-into-xaman/buying-xrp/guardarian.md)
+  * [Topper](getting-xrp-into-xaman/buying-xrp/topper.md)
+  * [C14](getting-xrp-into-xaman/buying-xrp/c14.md)
+  * [Xaman On/Off Ramp](getting-xrp-into-xaman/buying-xrp/xaman-on-off-ramp.md)
+  * [Buy/Sell XRP](getting-xrp-into-xaman/buying-xrp/buy-sell-xrp.md)
 
 ## &#x20;Sending, receiving, and cashing out
 
@@ -73,11 +82,15 @@
 * [Token vetting and the token warning](tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)
 * [GateHub’s issued tokens](tokens-trust-lines-and-nfts/gatehubs-issued-tokens.md)
 * [Adding Euro tokens via GateHub](tokens-trust-lines-and-nfts/adding-euro-tokens-via-gatehub.md)
-* [Trust Lines on the XRP Ledger](tokens-trust-lines-and-nfts/trust-lines-on-the-xrp-ledger.md)
-* [How to create a Trust Line](tokens-trust-lines-and-nfts/how-to-create-a-trust-line.md)
+* [Trust lines on the XRP Ledger](tokens-trust-lines-and-nfts/trust-lines-on-the-xrp-ledger.md)
+* [How to create a trust line](tokens-trust-lines-and-nfts/how-to-create-a-trust-line.md)
 * [How to create a RLUSD Trust Line](tokens-trust-lines-and-nfts/how-to-create-a-rlusd-trust-line.md)
 * [How to create a USDC Trust Line](tokens-trust-lines-and-nfts/how-to-create-a-usdc-trust-line.md)
 * [Adding an Icon/Logo to a Trust Line in Xaman](tokens-trust-lines-and-nfts/adding-an-icon-logo-to-a-trust-line-in-xaman.md)
+* [Token freezes and clawback](tokens-trust-lines-and-nfts/token-freezes-and-clawback.md)
+* [Xaman & AMM](tokens-trust-lines-and-nfts/xaman-and-amm.md)
+* [How Non-Fungible Tokens (NFTs) work on the XRP Ledger](tokens-trust-lines-and-nfts/nfts/README.md)
+  * [How to Burn an NFT](tokens-trust-lines-and-nfts/nfts/nft-burn-process.md)
 
 ## XAMAN CARDS
 
@@ -90,7 +103,7 @@
 * [How to link an existing account to a Xaman card](xaman-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
 * [Best security practices for the Xaman cards](xaman-cards/best-security-practices-using-a-xaman-card.md)
 * [Lost or damaged cards](xaman-cards/lost-or-damaged-cards.md)
-* [Are my Xaman Cards safe?](xaman-cards/are-my-xaman-cards-safe.md)
+* [My card package arrived opened](xaman-cards/my-card-package-arrived-opened.md)
 * [PINs on older Xumm/Xaman cards](xaman-cards/creating-a-pin-on-your-xaman-tangem-card.md)
 * [Get Cards](xaman-cards/get-cards-tangem.md)
 
@@ -143,34 +156,29 @@
 * [How to access Testnet on XRP Ledger](using-the-xaman-app/how-to-access-testnet-on-xrp-ledger.md)
 * [How to post a Session Log](using-the-xaman-app/how-to-post-a-session-log.md)
 
-## ALL ABOUT XAPPS
+## XAPPS
 
-* [Xaman xApps](all-about-xapps/xaman-xapps/README.md)
-  * [Account Worth](all-about-xapps/xaman-xapps/account-worth.md)
-  * [Account Merge](all-about-xapps/xaman-xapps/account-merge.md)
-  * [Vanity Address xApp](all-about-xapps/xaman-xapps/vanity-address.md)
-  * [DEX Trade](all-about-xapps/xaman-xapps/dex-trade/README.md)
-    * [The price difference between selling and buying is too high](all-about-xapps/xaman-xapps/dex-trade/the-price-difference-between-selling-and-buying-is-too-high.md)
-  * [Path Finding](all-about-xapps/xaman-xapps/path-finding.md)
-  * [Buy/Sell XRP](all-about-xapps/xaman-xapps/buy-sell-xrp.md)
-* [XRPL Services](all-about-xapps/xrpl-services/README.md)
-  * [Token Trasher](all-about-xapps/xrpl-services/token-trasher.md)
-    * [How to remove a Trust Line](all-about-xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
-    * [How to get rid of tokens](all-about-xapps/xrpl-services/token-trasher/how-to-get-rid-of-tokens.md)
-  * [Escrow creator](all-about-xapps/xrpl-services/escrow-creator/README.md)
-    * [How to release an escrow](all-about-xapps/xrpl-services/escrow-creator/how-to-release-an-escrow.md)
-  * [Xahau Import](all-about-xapps/xrpl-services/xahau-import.md)
-* [XRP Community](all-about-xapps/xrp-community/README.md)
-  * [CasinoCoin Lobby](all-about-xapps/xrp-community/casinocoin-lobby.md)
-  * [XRP Ledger TipBot](all-about-xapps/xrp-community/xrp-ledger-tipbot.md)
-  * [UniSpend](all-about-xapps/xrp-community/chispend-cash-out.md)
-  * [Transaction Exporter](all-about-xapps/xrp-community/transaction-exporter.md)
-  * [Gatehub Trade](all-about-xapps/xrp-community/gatehub-trade.md)
-  * [Stably xApp](all-about-xapps/xrp-community/stably.md)
-* [Xahau xApps](all-about-xapps/xahau-xapps.md)
-  * [Balance Adjustment](all-about-xapps/xahau-xapps/balance-adjustment.md)
-  * [XAH Teleport](all-about-xapps/xahau-xapps/xah-teleport.md)
-  * [Voucher](all-about-xapps/xahau-xapps/voucher.md)
+* [Xaman xApps](xapps/xaman-xapps/README.md)
+  * [Account Worth](xapps/xaman-xapps/account-worth.md)
+  * [Account Merge](xapps/xaman-xapps/account-merge.md)
+  * [Vanity Address xApp](xapps/xaman-xapps/vanity-address.md)
+  * [DEX Trade](xapps/xaman-xapps/dex-trade/README.md)
+    * [The price difference between selling and buying is too high](xapps/xaman-xapps/dex-trade/the-price-difference-between-selling-and-buying-is-too-high.md)
+  * [Path Finding](xapps/xaman-xapps/path-finding.md)
+* [XRPL Services](xapps/xrpl-services/README.md)
+  * [Token Trasher](xapps/xrpl-services/token-trasher/README.md)
+    * [How to remove a Trust Line](xapps/xrpl-services/token-trasher/how-to-remove-a-trust-line.md)
+    * [How to get rid of tokens](xapps/xrpl-services/token-trasher/how-to-get-rid-of-tokens.md)
+  * [Escrow creator](xapps/xrpl-services/escrow-creator/README.md)
+    * [How to release an escrow](xapps/xrpl-services/escrow-creator/how-to-release-an-escrow.md)
+  * [Xahau Import](xapps/xrpl-services/xahau-import.md)
+* [XRP Community](xapps/xrp-community/README.md)
+  * [CasinoCoin Lobby](xapps/xrp-community/casinocoin-lobby.md)
+  * [XRP Ledger TipBot](xapps/xrp-community/xrp-ledger-tipbot.md)
+  * [UniSpend](xapps/xrp-community/chispend-cash-out.md)
+  * [Transaction Exporter](xapps/xrp-community/transaction-exporter.md)
+  * [Gatehub Trade](xapps/xrp-community/gatehub-trade.md)
+  * [Stably xApp](xapps/xrp-community/stably.md)
 
 ## Earning yield with Flare
 
@@ -201,6 +209,10 @@
 * [How to trade XAH coins](xahau/how-to-trade-for-xah-coins.md)
 * [How to Rekey a Xahau account](xahau/how-to-rekey-a-xahau-account.md)
 * [How to trade Evernode (Evr) tokens](xahau/how-to-purchase-evernode-tokens.md)
+* [Xahau xApps](xahau/xahau-xapps/README.md)
+  * [Balance Adjustment](xahau/xahau-xapps/balance-adjustment.md)
+  * [XAH Teleport](xahau/xahau-xapps/xah-teleport.md)
+  * [Voucher](xahau/xahau-xapps/voucher.md)
 * [How to send XAH to GateHub](xahau/how-to-send-xah-to-gatehub/README.md)
   * [How to send XAH Tokens to GateHub - Hosted account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-tokens-to-gatehub-hosted-account.md)
   * [How to send XAH Tokens to GateHub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-tokens-to-gatehub-self-custodial-account.md)
@@ -211,15 +223,17 @@
 * [Setting up a Backup card](xahau/setting-up-a-backup-card.md)
 * [Lost or damaged cards](xahau/lost-or-damaged-cards.md)
 
-## XRP Ledger resources
+## XRP Ledger basics
 
-* [XRP Ledger Concepts](xrp-ledger-resources/xrp-ledger-concepts/README.md)
-  * [Video: Reserves and Fees on the XRPL](xrp-ledger-resources/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
-  * [What is a blackholed account?](xrp-ledger-resources/xrp-ledger-concepts/what-is-a-blackholed-account.md)
-  * [Reserves on the XRP Ledger](xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md)
-  * [Payment Channels](xrp-ledger-resources/xrp-ledger-concepts/payment-channels.md)
-  * [Multi Signature](xrp-ledger-resources/xrp-ledger-concepts/multi-signature.md)
-  * [Understanding fiat currencies](xrp-ledger-resources/xrp-ledger-concepts/understanding-fiat-currencies.md)
+* [XRP Ledger Concepts](xrp-ledger-basics/xrp-ledger-concepts/README.md)
+  * [Video: Reserves and Fees on the XRPL](xrp-ledger-basics/xrp-ledger-concepts/reserves-and-fees-on-the-xrpl.md)
+  * [What is a blackholed account?](xrp-ledger-basics/xrp-ledger-concepts/what-is-a-blackholed-account.md)
+  * [Reserves on the XRP Ledger](xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md)
+  * [Payment Channels](xrp-ledger-basics/xrp-ledger-concepts/payment-channels.md)
+  * [Multi Signature](xrp-ledger-basics/xrp-ledger-concepts/multi-signature.md)
+  * [Understanding fiat currencies](xrp-ledger-basics/xrp-ledger-concepts/understanding-fiat-currencies.md)
+  * [Accessing your XRP Ledger account](xrp-ledger-basics/xrp-ledger-concepts/how-can-you-access-your-xrpl-account.md)
+  * [Glossary](xrp-ledger-basics/xrp-ledger-concepts/some-terms-and-definitions-related-to-xaman-and-the-xrpl.md)
 
 ## About Xaman
 
@@ -238,27 +252,7 @@
 * [Terms of Service](about-xaman/where-can-i-find-your-terms-of-service.md)
 * [Responsible Disclosure Policy](about-xaman/where-can-i-find-your-responsible-disclosure-policy.md)
 * [Switching from Ledger to Xaman](about-xaman/switching-from-ledger-to-xaman.md)
-
-## Learning more about Xaman
-
-* [Xaman (Tangem) Cards](learning-more-about-xaman/xaman-tangem-cards.md)
-* [Buying XRP](learning-more-about-xaman/buying-xrp/README.md)
-  * [Banxa](learning-more-about-xaman/buying-xrp/banxa.md)
-  * [BTC Direct](learning-more-about-xaman/buying-xrp/btcdirect.md)
-  * [Guardarian](learning-more-about-xaman/buying-xrp/guardarian.md)
-  * [Topper](learning-more-about-xaman/buying-xrp/topper.md)
-  * [C14](learning-more-about-xaman/buying-xrp/c14.md)
-  * [Xaman On/Off Ramp](learning-more-about-xaman/buying-xrp/xaman-on-off-ramp.md)
-* [What do "Full" and "Read Only" mean in Xaman?](learning-more-about-xaman/what-do-full-and-read-only-mean-in-xaman.md)
-* [Xaman & AMM](learning-more-about-xaman/xaman-and-amm.md)
-* [How to send SGB to BiFrost](learning-more-about-xumm/how-to-send-sgb-to-bifrost.md)
-* [Taxes and your XRPL/Xahau accounts](learning-more-about-xumm/taxes-and-your-xrpl-account.md)
-* [How Non-Fungible Tokens (NFTs) work on the XRP Ledger](learning-more-about-xumm/nfts/README.md)
-  * [How to Burn an NFT](learning-more-about-xumm/nfts/nft-burn-process.md)
-* [General Terms and definitions](learning-more-about-xaman/some-terms-and-definitions-related-to-xaman-and-the-xrpl.md)
-* [Accessing your XRP Ledger account](learning-more-about-xaman/how-can-you-access-your-xrpl-account.md)
-* [Feeling Generous?](learning-more-about-xumm/feeling-generous.md)
-* [Token freezes and clawback](learning-more-about-xaman/token-freezes-and-clawback.md)
+* [Feeling Generous?](about-xaman/feeling-generous.md)
 
 ## Xaman Pro
 
@@ -277,6 +271,7 @@
 
 ## Release notes
 
+* [🎉 What's New in Xaman 5.0](release-notes/whats-new-in-xaman-5.0.md)
 * [Current release](release-notes/current-release.md)
 * [Previous releases](release-notes/previous-releases/README.md)
   * [Xaman 4.0](release-notes/previous-releases/xaman-4.0.md)

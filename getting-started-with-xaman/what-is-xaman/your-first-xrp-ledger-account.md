@@ -30,7 +30,7 @@ Without your account secret, a lost or broken phone means losing your account. W
 
 #### A new account needs XRP before it can be used
 
-A brand-new account does not exist on the XRP Ledger until someone sends it XRP. This first payment activates[^5] the account. Part of that XRP becomes the account's reserve[^6], which the account keeps for as long as it exists. You can activate your account by buying XRP in Xaman, sending XRP from an exchange, or receiving XRP from someone else. See [Activating an account (XRPL)](../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/) and [Reserves on the XRP Ledger](../../xrp-ledger-resources/xrp-ledger-concepts/about-reserves.md).
+A brand-new account does not exist on the XRP Ledger until someone sends it XRP. This first payment activates[^5] the account. Part of that XRP becomes the account's reserve[^6], which the account keeps for as long as it exists. You can activate your account by buying XRP in Xaman, sending XRP from an exchange, or receiving XRP from someone else. See [Activating an account (XRPL)](../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/) and [Reserves on the XRP Ledger](../../xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md).
 
 An imported account that already holds XRP is already active, so there is nothing more to do. A pre-funded Xaman card comes with enough XRP to activate its account.
 
@@ -41,7 +41,7 @@ When you add an account, Xaman asks how much control you want in the app:
 * **Full access: you can send, sign, and receive.** This is what most people choose for their own accounts.
 * **Read only: you can view the balance and receive, but not sign.** This is useful for watching an account you keep elsewhere. You can upgrade it to Full access later.
 
-See [What do "Full" and "Read Only" mean in Xaman?](../../learning-more-about-xaman/what-do-full-and-read-only-mean-in-xaman.md) for more.
+See [What do "Full" and "Read Only" mean in Xaman?](what-do-full-and-read-only-mean-in-xaman.md) for more.
 
 ### Frequently asked questions
 
