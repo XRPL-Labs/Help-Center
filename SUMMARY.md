@@ -241,7 +241,7 @@
   * [📺 Team: Will](about-xaman/who-is-the-team-behind-xaman/team-will.md)
   * [📺 Team: Mai](about-xaman/who-is-the-team-behind-xaman/team-mai.md)
   * [📺 Team: Denis & Robert](about-xaman/who-is-the-team-behind-xaman/team-denis-and-robert.md)
-* [Xaman vs. Ripple](about-xaman/is-xaman-owned-by-ripple.md)
+* [Xaman and Ripple](about-xaman/is-xaman-owned-by-ripple.md)
 * [Privacy Statement](about-xaman/where-can-i-find-your-privacy-statement.md)
 * [Terms of Service](about-xaman/where-can-i-find-your-terms-of-service.md)
 * [Responsible Disclosure Policy](about-xaman/where-can-i-find-your-responsible-disclosure-policy.md)
