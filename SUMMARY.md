@@ -58,7 +58,6 @@
   * [Topper](getting-xrp-into-xaman/buying-xrp/topper.md)
   * [C14](getting-xrp-into-xaman/buying-xrp/c14.md)
   * [Xaman On/Off Ramp](getting-xrp-into-xaman/buying-xrp/xaman-on-off-ramp.md)
-  * [Buy/Sell XRP](getting-xrp-into-xaman/buying-xrp/buy-sell-xrp.md)
 
 ## &#x20;Sending, receiving, and cashing out
 
