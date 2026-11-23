@@ -10,11 +10,31 @@ You use a Xaman card together with Xaman on your phone. Xaman shows you each tra
 
 ### How a Xaman card works
 
-The cards ship without an account secret. The first time you use a card, its chip creates the secret itself, powered by your phone over NFC. No one handles the secret between the factory and you.
+The cards ship without an account secret. The first time you use a card, its chip creates the secret itself, powered by your phone over NFC.&#x20;
 
 To sign a transaction, you hold the card against your phone. Xaman sends the transaction to the card, the card signs it on the chip, and Xaman sends the signed transaction to the XRP Ledger.
 
 The card can only sign. It cannot show, export, or copy its account secret, so the secret cannot be stolen from your phone.
+
+### How the card protects your account secret
+
+Every Xaman card features a secure chip certified to a security level called EAL6+. It creates your account secret using its own random number generator, and from then on, nothing can extract the secret: not Xaman, not XRPL Labs, and not the phone you hold the card against. When you sign, the card sends back only the signature, never the secret. Even if your phone were somehow compromised, there is no secret on it to steal. Your part remains the same as with any account: read each transaction carefully before you sign it.
+
+### Someone nearby with an NFC reader
+
+NFC only works over a few centimeters, so anyone trying to talk to your card would need to hold a device right against it. Xaman cards are set up at the factory with extra protections against this kind of close-range attempt:
+
+* **A signing delay.** You hold the card against your phone for several seconds before it signs \[Uncertain: confirm the length of the delay]. Someone would have to stay within a few centimeters of your card for that whole time, which you would notice.
+* **Encrypted communication.** The card and Xaman encrypt everything they send each other over NFC.
+* **Short sessions.** Each NFC session is kept short, which leaves little time for anyone to listen in.
+* **Unused features turned off.** The chip can do far more than Xaman needs. Every feature Xaman does not use is turned off at the factory.
+* **Genuine-card checks.** Xaman checks every new card the first time you tap it, to confirm the card is genuine and has never been used.
+
+The real risk to a card is the same as for cash: someone getting the card itself. Keep your card somewhere only you can reach. If a card is lost or stolen, use your backup card to move your funds to an account you control. See [Lost or damaged cards](lost-or-damaged-cards.md).
+
+**My card package arrived opened. Is my card still safe to use?**
+
+A new card holds no account secret until you set it up, and Xaman checks every new card the first time you tap it, to confirm it is genuine and has never been used. If Xaman warns that a card was used before, stop and contact us through the Xaman Support xApp. See [How safe is a card?](how-safe-is-a-card.md) for what to check.
 
 ### When to use a Xaman card
 
@@ -41,13 +61,13 @@ Set up a backup card before you send funds to a card account. Without a backup, 
 
 ### Get Xaman cards
 
-You can order Xaman cards in the **Get cards** xApp in Xaman, or on [our website](https://xaman.app/cards).
+You can order Xaman cards in the [**Get cards**](https://xumm.app/detect/xapp:xumm.tangem-order) xApp in Xaman, or on [our website](https://xaman.app/cards).
 
 When your cards arrive, see [_Getting started with your new cards_](getting-started.md).
 
 ### Xaman cards and Tangem cards
 
-Xaman cards are Tangem cards that XRPL Labs configures for the XRP Ledger and Xahau. You can also use a card bought from Tangem with Xaman, as long as you set it up in Xaman first.
+Xaman cards are branded Tangem cards, but they run custom firmware that XRPL Labs had specifically tuned and re-audited for the XRP Ledger and Xahau.
 
 When you set up a card in Xaman, it is prepared to work with Xaman. You can still import it into the Tangem app afterward and use it there too. A card set up in the Tangem app first can no longer be added to Xaman.
 
