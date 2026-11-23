@@ -1,59 +1,93 @@
 ---
-description: Official communication channels for Xaman
+description: Where to find the real Xaman, and how to spot someone pretending to be us
 ---
 
 # Official communication channels
 
+### Background
+
+Scammers often pretend to be Xaman, because people trust the name with their funds. They copy our logo, open look-alike accounts on social media, and message people who have posted a question in public. This page lists every official place to find Xaman, so you can check any message, website, or account against it. It applies to Xaman on both the XRP Ledger (XRPL) and Xahau.
+
+The short version is easy to remember: real Xaman support only happens inside the Xaman app. If someone reaches you anywhere else claiming to be Xaman support, it is not us.
+
+### Getting help from Xaman support
+
+The Xaman Support xApp is the only official way to contact our support team. It opens inside Xaman, so you always know you are talking to us. To find it, tap **xApps** in the bottom navigation bar, then tap **Xaman Support** under **Our suggestions**. You can also use the button below. Suggestions and feedback are welcome there too.
+
+<a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Open the Xaman Support xApp</a>
+
+<figure><img src="../.gitbook/assets/xaman-xapps-support_2x.png" alt="The xApps screen in Xaman, with the Xaman Support xApp highlighted" width="375"><figcaption><p>Xaman Support is listed with the other xApps</p></figcaption></figure>
+
 {% hint style="danger" %}
-Important!\
-\
-We **no longer** provide customer support for Xaman (formerly Xumm) via **Twitter (X).**&#x20;
-
-We **do not** have a Telegram account. We **do not** offer support via Telegram.
-
-Please **do not** fill out forms on social media.&#x20;
-
-Do not reply to DM's from people claiming to be "Xaman Support" or "Xumm Support".&#x20;
-
-The **only 100% trustworthy** way to reach us is via the Xaman Support xApp from within Xaman.
+People posing as Xaman support will ask for your account secret or a signature. Anyone who gets either can take your funds. Ask for help only through the Xaman Support xApp, and never share your account secret.
 {% endhint %}
 
-### Xaman customer support
+### If you only have a Read only account
 
-For all customer support and technical questions related to the Xaman application, please contact us via the [**Xaman Support xApp**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.** You can also find it in Xaman buy pressing <img src="../.gitbook/assets/image (2) (1) (4).png" alt="" data-size="line"> at the bottom of Xaman then selecting [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.**
+To open a support ticket, you need a **Full access** account in Xaman. When you open a ticket, the Xaman Support xApp asks you to sign in with a signature, which confirms the account really is yours. The sign-in costs nothing and records nothing on the XRP Ledger. It can only come from an account whose account secret or Xaman card is in Xaman. A **Read only** account has neither, and since anyone can add any r-address in Read only mode, it cannot prove the account is yours.
 
-<figure><img src="../.gitbook/assets/Xaman Support.png" alt=""><figcaption></figcaption></figure>
+There are two ways to get a Full access account, depending on what you have:
 
-### Xaman blog  <a href="#h_e9d18079e4" id="h_e9d18079e4"></a>
+* **You have the account secret: convert the account.** Add the account secret in Xaman, and the same account becomes Full access. [_How to convert a Read only account to Full access_](../your-accounts/importing-your-account/how-to-convert-a-read-only-account-to-full-access.md) walks you through it.
+* **You do not have the account secret: create a new account.** Create a new account in Xaman. It does not need any XRP to open a ticket, so you can do this right away.
 
-* [**https://blog.xaman.app/**](https://blog.xumm.app/)
+Once you have a Full access account, open the Xaman Support xApp from it, and tell us which account you need help with. Our replies arrive privately in your **Events** tab.
 
-### Follow us on X (formerly Twitter)
+### Where Xaman does not offer support
 
-* [https://x.com/XamanHelp](https://x.com/XamanHelp)
-* [https://x.com/xrpllabs](https://x.com/xrpllabs)
-* [https://x.com/XamanWallet](https://x.com/XamanWallet)
+Xaman does not offer support on social media, by email, or by phone. That includes X, Telegram, Instagram, Discord, and YouTube. Fake support accounts appear on all of them, and some look very convincing, with our logo and a name like "Xaman Support" or "Xumm Support".
 
-### Suggestions and Feedback
+When someone on one of these platforms offers to help, do not reply, do not click their links, and do not fill out any form they send. Our support team will never ask for your [account secret](#user-content-fn-1)[^1]. Anyone who asks for it is trying to take your funds, so never share it.
 
-* Please create a ticket in [**Xaman Support**](https://xumm.app/detect/xapp:xumm.support?ref=helpcenter)**.**
+### Official websites and accounts
 
-### Xaman Domain names <a href="#h_772bad7bdc" id="h_772bad7bdc"></a>
+These are the official places to find Xaman and XRPL Labs, the company behind it:
 
-#### **Primary** <a href="#h_640ba6991b" id="h_640ba6991b"></a>
+| Channel            | Address                | What it is for                                                             |
+| ------------------ | ---------------------- | -------------------------------------------------------------------------- |
+| Xaman Support xApp | Inside the Xaman app   | Support, questions, and feedback                                           |
+| Xaman Help Center  | `help.xaman.app`       | How-to articles and answers, like this one                                 |
+| Xaman website      | `xaman.app`            | About Xaman and its features                                               |
+| Xaman blog         | `xaman.app/blog`       | Announcements and longer updates                                           |
+| Status page        | `status.xrpl-labs.com` | Whether Xaman's services are running normally                              |
+| Developer docs     | `docs.xaman.dev`       | Documentation for developers who build on Xaman                            |
+| Source code        | `github.com/XRPL-Labs` | Xaman's public code                                                        |
+| Xaman on X         | `@XamanWallet`         | Announcements only, never support                                          |
+| XRPL Labs on X     | `@XRPLLabs`            | Company news, never support                                                |
+| Wietse Wind on X   | `@WietseWind`          | The founder of XRPL Labs. Never support, and he will not message you first |
 
-* [**https://xumm.app**](https://xumm.app/) and subdomains
+Install Xaman only from the official app stores: [Xaman on the App Store](https://apps.apple.com/app/xaman/id1492302343) for iPhone, and [Xaman on Google Play](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm) for Android.
 
-#### **Alternatively** <a href="#h_1bf826eada" id="h_1bf826eada"></a>
+### Official domains
 
-* [**https://docs.xaman.dev/**  ](https://docs.xumm.dev/)and subdomains (for Developers & Developer docs)
+Xaman's official domain is `xaman.app`, including its subdomains, such as `help.xaman.app`. You may also see `xumm.app`, the domain from before Xaman was renamed, which some older links still use. Developer documentation lives at `docs.xaman.dev`, and the status page at `status.xrpl-labs.com`.
 
-### **Xaman - Latest versions of the app** <a href="#h_c79d5ef4b1" id="h_c79d5ef4b1"></a>
+Scammers often build phishing[^2] sites with addresses that look almost the same, such as an extra letter or a different ending. Check the address character by character before you sign in, scan a code, or sign anything. If anything about it looks different from the list above, close the page.
 
-* [**Apple App Store**](https://apps.apple.com/us/app/xumm/id1492302343?l=nl\&ls=1)
-* [**Google Play Store**](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm)
+### Frequently asked questions
 
-### XRPL Labs (creators of Xaman) <a href="#h_ab0f4368eb" id="h_ab0f4368eb"></a>
+**Someone messaged me saying they are from Xaman. What should I do?**
 
-* XRPL Labs [**website**](https://xaman.app/)
-* Source code at [**Github**](https://github.com/XRPL-Labs/)
+Do not reply, and do not click anything they send. Xaman support does not reach out on social media or by direct message, so the message is not from us. If you want to check, ask us in the Xaman Support xApp. You can also tell us about the account there, so we can warn others.
+
+**I only have a Read only account. How do I contact support?**
+
+You need a Full access account, since the Xaman Support xApp asks for a sign-in signature that only a Full access account can give. If you have the account secret, convert your account to Full access. If not, create a new account in Xaman, which does not need any XRP, then open the Support xApp from it. See _If you only have a Read only account_ for both options.
+
+**I already shared my account secret with someone. What now?**
+
+Act quickly, since anyone who has your account secret can move your funds. _I've been scammed!_ walks you through the steps to protect what is left.
+
+### See also
+
+* [I've been scammed!](ive-been-scammed.md)
+* [Recovery scams](recovery-scams.md)
+* [Trust in the XRPL Community](https://help.xaman.app/app/scams-and-staying-safe/trust-in-the-xrpl-community)
+* [Security in Xaman](../security/security-in-xaman.md)
+* [About XRPL Labs](../about-xaman/what-is-xrpl-labs.md)
+* [How to convert a Read only account to Full access](../your-accounts/importing-your-account/how-to-convert-a-read-only-account-to-full-access.md)
+* [How to create an XRP Ledger account](../getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md)
+
+[^1]: The secret that controls your account, as Secret Numbers, a Family Seed, or a Mnemonic. Never share it with anyone.
+
+[^2]: A fake website, message, or app that copies a real one, to trick you into signing something or sharing your account secret.
