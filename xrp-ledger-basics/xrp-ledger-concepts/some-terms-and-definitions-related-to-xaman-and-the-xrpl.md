@@ -8,7 +8,7 @@ description: What common Xaman and XRP Ledger terms mean, in plain words
 
 Xaman and the XRP Ledger (XRPL) come with their own vocabulary, and it can feel like a lot when you are new. This glossary explains the words you are most likely to meet in the app and in this Help Center, in plain language. Keep it open in another tab while you read, and come back whenever a word stops you.
 
-The XRP Ledger is the network Xaman connects to, and XRP is its native coin. This glossary covers the XRP Ledger. Xahau is a separate network that Xaman also supports, with its own set of Help Center articles, so it appears here only as a term. Many terms in other articles also show a short explanation when you tap or hover over them, and those explanations use the same words as this glossary.
+This glossary covers both networks Xaman works with: the XRP Ledger, whose native coin is XRP, and Xahau, a separate network with its own coin, XAH. Most terms mean the same thing on both, and where a term belongs to only one network, its meaning says so. Many terms in other articles also show a short explanation when you tap or hover over them, and those explanations use the same words as this glossary.
 
 ### Xaman, accounts, and keys
 
@@ -71,19 +71,19 @@ These terms come up whenever XRP or tokens move between accounts. Once the XRP L
 
 Anything on the XRP Ledger other than XRP is a token, and tokens work differently from XRP. Each token depends on the account that issued it, and some issuers can freeze their token or take it back. XRP has no issuer, so no one has those powers over it.
 
-| Term                      | Meaning                                                                                                                             |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| blackholed account        | An account that has given up every way of signing, on purpose and for good. Many token issuers do this to fix their token's supply. |
-| burn                      | Permanently destroying an NFT, so it no longer exists.                                                                              |
-| clawback                  | An issuer's power to take its token back from a holder. It only exists if the issuer turned it on before issuing.                   |
-| coin                      | A network's native currency, such as XRP on the XRP Ledger. Anything issued on top of a network is a token, not a coin.             |
-| freeze                    | A pause a token's issuer can place on its token, stopping it from being sent or traded.                                             |
-| issuer                    | The account that creates a token. Anyone can be an issuer, and any issuer can give a token any name.                                |
-| Multi-Purpose Token (MPT) | A newer kind of XRP Ledger token, with settings its issuer fixes when it is created.                                                |
-| non-fungible token (NFT)  | A unique digital item on the XRP Ledger, such as artwork or a ticket. Each one is one of a kind.                                    |
-| stablecoin                | A token designed to keep a steady value, usually matching a currency such as the US dollar.                                         |
-| token                     | A digital asset created on the XRP Ledger by an issuer. Unlike XRP, a token's value depends on whoever issued it.                   |
-| trust line                | Your account's permission to hold a specific token from a specific issuer. Each one adds to your reserve while it exists.           |
+| Term                      | Meaning                                                                                                                                 |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| blackholed account        | An account that has given up every way of signing, on purpose and for good. Many token issuers do this to fix their token's supply.     |
+| burn                      | Permanently destroying an NFT, so it no longer exists.                                                                                  |
+| clawback                  | An issuer's power to take its token back from a holder. It only exists if the issuer turned it on before issuing.                       |
+| coin                      | A network's native currency, such as XRP on the XRP Ledger or XAH on Xahau. Anything issued on top of a network is a token, not a coin. |
+| freeze                    | A pause a token's issuer can place on its token, stopping it from being sent or traded.                                                 |
+| issuer                    | The account that creates a token. Anyone can be an issuer, and any issuer can give a token any name.                                    |
+| Multi-Purpose Token (MPT) | A newer kind of XRP Ledger token, with settings its issuer fixes when it is created.                                                    |
+| non-fungible token (NFT)  | A unique digital item on the XRP Ledger, such as artwork or a ticket. Each one is one of a kind.                                        |
+| stablecoin                | A token designed to keep a steady value, usually matching a currency such as the US dollar.                                             |
+| token                     | A digital asset created on the XRP Ledger by an issuer. Unlike XRP, a token's value depends on whoever issued it.                       |
+| trust line                | Your account's permission to hold a specific token from a specific issuer. Each one adds to your reserve while it exists.               |
 
 ### Trading on the DEX
 
