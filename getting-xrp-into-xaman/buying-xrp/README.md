@@ -1,39 +1,78 @@
 ---
-description: How to buy XRP using Xaman
+description: How to buy XRP in Xaman through one of our partners
 ---
 
 # Buying XRP
 
-We offer several easy ways to purchase XRP from the Xaman (formerly Xumm) platform. Take a minute to read through the following options and determine which one best meets your needs.
+### Background
 
-### **Option 1**
+Xaman does not sell XRP[^1] itself. Instead, it works with partners that do, companies that sell crypto where they are allowed to, and you reach them without leaving the app. You pay the partner, and the partner sends the XRP to your own account on the [XRP Ledger (XRPL)](#user-content-fn-2)[^2]. Your XRP never passes through Xaman, and Xaman never handles your money.
 
-We have partnered with several crypto exchanges including: Topper, Banxa, BTCDirect,, Guardarian and C14 which all offer the option to purchase XRP.
+This article explains how to find a partner that works where you live, what happens when you buy, and who can help if something goes wrong. Buying in Xaman is available on the XRP Ledger only.&#x20;
 
-<table><thead><tr><th width="441">Exchange</th><th width="173.33333333333331">Link to xApp</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (2) (2) (3).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:banxa.onofframp"><strong>Banxa xApp</strong></a></td></tr><tr><td><img src="../../.gitbook/assets/image (5) (1) (1) (2) (1) (1).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:btcdirect.onofframp"><strong>BTCDirect xApp</strong></a></td></tr><tr><td><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:guardarian.onofframp"><strong>Guardarian xApp</strong></a></td></tr><tr><td><img src="../../.gitbook/assets/image (4) (2).png" alt=""></td><td><a href="https://xumm.app/detect/xapp:uphold.topper"><strong>Topper xApp</strong></a></td></tr><tr><td><img src="../../.gitbook/assets/image (1) (1) (5) (1).png" alt="" data-size="original"></td><td><a href="https://xumm.app/detect/xapp:c14.onramp"><strong>C14 xApp</strong></a></td></tr></tbody></table>
+### Before you get started
 
-Our partners offer exchange services to most countries around the world. If you are interested in determining which exchange provides services in your country, simply tap the following link: [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp)
+* An XRP Ledger account in Xaman, to receive the XRP.
+* An ID document. Most partners check who you are before your first purchase, a step called KYC[^3].
 
-then select your country or currency by pressing the down arrow.
+### Choose a partner
 
-<figure><img src="../../.gitbook/assets/Buy and sell.png" alt=""><figcaption></figcaption></figure>
+Every partner works in a different set of countries and accepts different ways to pay, such as cards, bank transfers, or mobile wallets. Rather than making you check each one, the Buy/Sell XRP xApp[^4] shows you which partners serve the country or currency you choose. Some partners list buying and selling separately, such as **Moonpay Buy** and **Moonpay Sell**, so pick the one for buying.
 
-Xaman will list the exchanges that you can purchase XRP from.
+1. On the **Home** screen, tap **Buy** next to XRP. The [**Buy/Sell XRP**](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp opens.
+2. Under **Select your country or currency**, select your country or currency.
+3. Review the partners listed under **Supported providers**.
+4. Tap **Open** next to the partner you want to use.
 
-### Option 2
+The partner's own xApp opens inside Xaman. Partners under **Unsupported providers** are not available where you live, based on the country or currency you selected.
 
-There are several crypto exchanges in the blockchain space which sell XRP. Some of the bigger players include:
+> **\[IMAGE PLACEHOLDER]**
+>
+> * **Description:** The Buy/Sell XRP xApp with a country selected, cropped to the country selector and the first two cards under Supported providers. One standard arrow pointing at the country selector.
+> * **Caption:** Partners appear for the country or currency you select
+> * **Alt text:** The Buy/Sell XRP xApp listing supported partners, each with an Open button
 
-<table><thead><tr><th width="110.33333333333331" align="center">Icon</th><th width="318">How to transfer XRP from:</th><th>Link to open exchange website</th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt="" data-size="line"></td><td><a href="../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-gatehub.md"><mark style="color:blue;"><strong>Gatehub</strong></mark></a></td><td><a href="https://gatehub.net/"><mark style="color:blue;">Open</mark></a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2).png" alt=""></td><td><a href="../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-bitstamp.md"><strong>Bitstamp</strong></a></td><td><a href="https://www.bitstamp.net/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"></td><td><a href="../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-uphold.md"><strong>Uphold</strong></a></td><td><a href="https://uphold.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (3).png" alt=""></td><td><a href="../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-kraken.md"><strong>Kraken</strong></a></td><td><a href="https://www.kraken.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""></td><td><a href="../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-crypto.com.md"><strong>Crypto.com</strong></a></td><td><a href="https://crypto.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"></td><td><a href="../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-coinbase.md"><strong>Coinbase</strong></a></td><td><a href="https://www.coinbase.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (1) (5).png" alt="" data-size="original"></td><td><a href="../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-kucoin.md"><strong>Kucoin</strong></a></td><td><a href="https://www.kucoin.com/">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"></td><td><a href="../../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/sending-from-an-exchange/from-binance.md"><strong>Binance</strong></a></td><td><a href="https://www.binance.com/en">Open</a></td></tr><tr><td align="center"><img src="../../.gitbook/assets/wirex (1).png" alt=""></td><td><a href="/broken/pages/90InGhesCs3hxOT8atcZ"><strong>Wirex</strong></a></td><td><a href="https://wirexapp.com/">Open</a></td></tr></tbody></table>
+### Buy XRP from the partner
 
-{% hint style="warning" %}
-**Please** make sure that you **thoroughly research** the crypto exchange that you decide to purchase from. Each exchange has their own rules and fee structures that you should fully understand before signing up.
+From here, the partner takes over, and its screens are its own. Most partners ask for the amount you want to buy, check your identity the first time you use them, and then take your payment. Each partner sets its own fees and limits, and shows them before you pay, so take a moment to read them.
 
-Furthermore, just because we have provided a list of exchanges, it does not mean that we support or endorse any of them in any way. It is entirely up to you to decide which crypto exchange you use.
+When the purchase is complete, the partner sends the XRP to your account. You can check that it arrived on the **Home** screen, where your balance goes up, and on the **Events** screen, where the payment appears.
+
+{% hint style="danger" %}
+Fake buying sites and fake support agents ask for account secrets. Anyone who has your account secret can take everything in your account. Buy only through the [Buy/Sell XRP](https://xumm.app/detect/xapp:xumm.buysellxrp) xApp, and never share your account secret with anyone, including a partner.
 {% endhint %}
 
-### Frequently Asked questions
+### Other ways to get XRP
 
-#### Didn't Xaman offer an On/Off Ramp solution at one point?
+You can also buy XRP on a crypto exchange and send it to your Xaman account. The Help Center has step-by-step guides for many exchanges in [_Sending from an exchange_](../how-to-activate-a-new-xrpl-account/sending-from-an-exchange/). Each exchange sets its own rules and fees, so read them before you sign up.
 
-Yes, but unfortunately it has been discontinued.
+### Frequently asked questions
+
+**Which partner should I choose?**
+
+That depends on where you live, how you want to pay, and the fees each partner charges for your purchase. Xaman does not recommend one partner over another. Compare the payment methods and fees each one shows before you pay, and choose the one that suits you.
+
+**My purchase has not arrived. Who can help?**
+
+The partner you bought from. Each partner handles its purchases from start to finish and keeps its own records, so we cannot see the details of your order from our side. Contact the partner's support team, and have your order ID or the email address you used ready. No one ever needs your account secret to help with a purchase.
+
+**Can I sell XRP the same way?**
+
+Yes. The Buy/Sell XRP xApp also lists partners that buy XRP from you, such as **Moonpay Sell**. See [Cashing out your XRP](../../sending-receiving-and-cashing-out/cashing-out-your-xrp.md) for the steps.
+
+Crypto assets can change in value. This article explains how the feature works and is not financial advice.
+
+### See also
+
+* [Cashing out your XRP](../../sending-receiving-and-cashing-out/cashing-out-your-xrp.md)
+* [Sending from an exchange](../how-to-activate-a-new-xrpl-account/sending-from-an-exchange/)
+
+We offer several easy ways to purchase XRP from the Xaman platform. Take a minute to read through the following options and determine which one best meets your needs.
+
+[^1]: The native coin of the XRP Ledger. Every account needs some to exist, and every transaction pays a tiny fee in XRP.
+
+[^2]: A public network, run by independent computers around the world, that records who owns what. XRP is its native coin.
+
+[^3]: Know Your Customer: identity checks that some services must run, by law, before you can buy or withdraw.
+
+[^4]: A small app that runs inside Xaman, made by Xaman or by other developers.
