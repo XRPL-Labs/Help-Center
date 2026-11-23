@@ -82,7 +82,7 @@ Act quickly, since anyone who has your account secret can move your funds. _I've
 
 * [I've been scammed!](ive-been-scammed.md)
 * [Recovery scams](recovery-scams.md)
-* [Trust in the XRPL Community](https://help.xaman.app/app/scams-and-staying-safe/trust-in-the-xrpl-community)
+* [Trust in the XRPL Community](trust-in-the-xrpl-community.md)
 * [Security in Xaman](../security/security-in-xaman.md)
 * [About XRPL Labs](../about-xaman/what-is-xrpl-labs.md)
 * [How to convert a Read only account to Full access](../your-accounts/importing-your-account/how-to-convert-a-read-only-account-to-full-access.md)
