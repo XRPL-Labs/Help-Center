@@ -72,6 +72,10 @@ No. Anyone can add any XRP Ledger account to Xaman in **Read only** mode, so a R
 
 For the same reason, you cannot verify a blackholed account, since no one can sign for it.
 
+**I took part in Fractal ID's 11 XRP reward. Who can help me with it?**
+
+Fractal ID ran that reward program with Ripple, and it ended on October 20, 2023. Xaman was never part of the program, so we have no records of who qualified or which rewards were paid. Fractal ID's own support team is the only one that can look into a missing reward.
+
 #### Questions?
 
 If you have questions about KYC, contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) in Xaman.

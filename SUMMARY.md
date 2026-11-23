@@ -150,7 +150,6 @@
 * [Displaying XRP value](using-the-xaman-app/displaying-xrp-value.md)
 * [How to change your email address](using-the-xaman-app/how-to-change-your-email-address.md)
 * [How to verify your identity (KYC)](using-the-xaman-app/kyc.md)
-* [Xaman & Fractal ID](using-the-xaman-app/xaman-and-fractal-id.md)
 * [How to scan a QR code](using-the-xaman-app/how-to-scan-a-qr-code.md)
 * [How to take a screenshot](using-the-xaman-app/how-to-take-a-screenshot.md)
 * [How to access Testnet on XRP Ledger](using-the-xaman-app/how-to-access-testnet-on-xrp-ledger.md)
