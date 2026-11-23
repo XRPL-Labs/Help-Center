@@ -16,7 +16,7 @@ The Xaman Support xApp is the only official way to contact our support team. It 
 
 <a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Open the Xaman Support xApp</a>
 
-<figure><img src="../.gitbook/assets/xaman-xapps-support_2x.png" alt="The xApps screen in Xaman, with the Xaman Support xApp highlighted" width="375"><figcaption><p>Xaman Support is listed with the other xApps</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/xaman-xapps-support_2x.png" alt="The xApps screen in Xaman, with the Xaman Support xApp first under Our suggestions" width="375"><figcaption><p>Xaman Support is first under Our suggestions</p></figcaption></figure>
 
 {% hint style="danger" %}
 People posing as Xaman support will ask for your account secret or a signature. Anyone who gets either can take your funds. Ask for help only through the Xaman Support xApp, and never share your account secret.
