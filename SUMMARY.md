@@ -145,7 +145,6 @@
   * [Security screen](using-the-xaman-app/understanding-the-settings-options/security-screen.md)
   * [Third party apps](using-the-xaman-app/understanding-the-settings-options/third-party-apps.md)
 * [Setting the currency in Xaman](using-the-xaman-app/how-to-set-the-currency.md)
-* [Displaying XRP value](using-the-xaman-app/displaying-xrp-value.md)
 * [How to change your email address](using-the-xaman-app/how-to-change-your-email-address.md)
 * [How to verify your identity (KYC)](using-the-xaman-app/kyc.md)
 * [How to scan a QR code](using-the-xaman-app/how-to-scan-a-qr-code.md)
