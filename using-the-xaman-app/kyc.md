@@ -38,7 +38,7 @@ Supported documents differ by country. See Veriff's [list of supported documents
 
 You also need:
 
-* **Full access** to the account you want to verify. See _Can I verify an account I added in Read only mode?_ below.
+* **Full access** to the account you want to verify. See _Can I verify an account I added in Read only mode?_ in the FAQ section below.
 * **15 RLUSD** in that account, to pay the KYC fee. To hold RLUSD, the account needs an RLUSD trust line.
 
 #### How to verify your identity
@@ -64,7 +64,7 @@ Yes. Sign the KYC transaction with your card, just like any other transaction.
 
 **Will Xaman share my identity with anyone?**
 
-Xaman does not share your personal information with third parties, unless the law requires it. Our [privacy statement](https://help.xaman.app/app/about-xaman-and-xrpl-labs/where-can-i-find-your-privacy-statement) explains what personal data we process and why.
+Xaman does not share your personal information with third parties, unless the law requires it. Our [privacy statement](../about-xaman/where-can-i-find-your-privacy-statement.md) explains what personal data we process and why.
 
 **Can I verify an account I added in Read only mode?**
 
