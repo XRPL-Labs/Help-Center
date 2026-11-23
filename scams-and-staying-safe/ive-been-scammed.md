@@ -124,7 +124,7 @@ It is very important that you **never sign a transaction you did not start yours
 
 We take security very seriously. If you have found yourself in this situation, consider the following:
 
-* **Xaman (Tangem) cards** — an excellent way to take the security of your XRPL account to the next level. See: [How safe are Xaman (Tangem) cards?](/broken/pages/VAXuMYs7zfQi6Vlvp3Gv)
+* **Xaman (Tangem) cards** — an excellent way to take the security of your XRPL account to the next level. See: [How safe are Xaman (Tangem) cards?](https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/xaman-cards/how-safe-is-a-card)
 * **Review:** [How secure is Xaman?](../security/security-in-xaman.md)
 * **Preparing for future scams.** There will always be bad actors trying to exploit users for their funds. The single best protection is to [**Contact us**](https://xumm.app/detect/xapp:xumm.support) if you are ever unsure about something. We live and breathe the XRP Ledger, we are constantly tracking new scams, and we are always here to help you verify whether an offer, an airdrop, or a transaction is safe before you "Slide to send."
 

@@ -34,7 +34,7 @@ The real risk to a card is the same as for cash: someone getting the card itself
 
 **My card package arrived opened. Is my card still safe to use?**
 
-A new card holds no account secret until you set it up, and Xaman checks every new card the first time you tap it, to confirm it is genuine and has never been used. If Xaman warns that a card was used before, stop and contact us through the Xaman Support xApp. See [How safe is a card?](/broken/pages/VAXuMYs7zfQi6Vlvp3Gv) for what to check.
+A new card holds no account secret until you set it up, and Xaman checks every new card the first time you tap it, to confirm it is genuine and has never been used. If Xaman warns that a card was used before, stop and contact us through the Xaman Support xApp. See [How safe is a card?](https://app.gitbook.com/s/MiHAzvIPISVuuzt0AeOR/xaman-cards/how-safe-is-a-card) for what to check.
 
 ### When to use a Xaman card
 

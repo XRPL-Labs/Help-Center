@@ -144,7 +144,6 @@
   * [Events screen](using-the-xaman-app/understanding-the-settings-options/events-screen.md)
   * [Security screen](using-the-xaman-app/understanding-the-settings-options/security-screen.md)
   * [Third party apps](using-the-xaman-app/understanding-the-settings-options/third-party-apps.md)
-* [What is the Third Party Apps section?](using-the-xaman-app/what-is-the-third-party-apps-section.md)
 * [How to set the currency](using-the-xaman-app/how-to-set-the-currency.md)
 * [Displaying XRP value](using-the-xaman-app/displaying-xrp-value.md)
 * [How to change your email address](using-the-xaman-app/how-to-change-your-email-address.md)
