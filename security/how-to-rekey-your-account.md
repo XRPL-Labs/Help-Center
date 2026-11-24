@@ -40,7 +40,7 @@ Open **Settings** > **Accounts**. Under your second account's name, the status l
 
 ### If you rekeyed because your account secret leaked
 
-A regular key on its own does not lock anyone out. The master key keeps working until you turn it off, so anyone who has your account secret can still sign anything for your account. They could send your funds away, or replace your regular key with one of their own. If they then turned off the master key, you would be locked out of your account for good. Your next step is to disable the master key, as soon as you can, with [_How to disable the master key_](how-to-disable-the-master-key.md).&#x20;
+A regular key on its own does not lock anyone out. The master key keeps working until you turn it off, so anyone who has your account secret can still sign anything for your account. They could send your funds away, or replace your regular key with one of their own. If they then turned off the master key, you would be locked out of your account for good. Your next step is to disable the master key, as soon as you can, with [_How to disable the master key_](how-to-disable-the-master-key.md).
 
 If you think someone is already using your account secret, moving your funds to a new account is often the safest choice, since it does not depend on getting there first. [_Account present on another device_](all-about-security/account-present-on-another-device.md) explains both options.
 
@@ -48,7 +48,7 @@ If you think someone is already using your account secret, moving your funds to 
 
 The XRP Ledger allows only one regular key per account. Setting a new one replaces the old one straight away, and the old account can no longer sign. To remove a regular key, follow the first three steps, then tap **Delete Regular Key** instead of entering an address. Confirm and sign the request the same way. You can sign the removal with your main account or with the regular key account.
 
-The XRP Ledger also refuses to remove the regular key when it is the only way left to sign. That happens when the master key is disabled and no multi-signing setup is in place. Removing the key would lock you out for good, so turn the master key back on first, with [_How to enable the Master Key_](how-to-enable-the-master-key.md). These are rules of the XRP Ledger itself, not of Xaman, so they work the same way in every wallet.
+The XRP Ledger also refuses to remove the regular key when it is the only way left to sign. That happens when the master key is disabled and no multi-signing setup is in place. Removing the key would lock you out for good, so turn the master key back on first, with [_How to enable the master Key_](how-to-enable-the-master-key.md). These are rules of the XRP Ledger itself, not of Xaman, so they work the same way in every wallet.
 
 ### Frequently asked questions
 
