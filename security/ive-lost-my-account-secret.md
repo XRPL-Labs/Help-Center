@@ -90,13 +90,13 @@ Picture a building with about 340 undecillion apartments, one for every possible
 
 ### See also
 
-* [Can I view/export my account secret?](https://help.xaman.app/app/security/can-i-view-export-my-account-secret)
-* [How to Test or Verify your Account Secret](https://help.xaman.app/app/security/how-to-test-your-account-secret)
-* [Lost or damaged cards](https://help.xaman.app/app/xaman-cards/lost-or-damaged-cards)
-* [How to Rekey an XRP Ledger (XRPL) Account](https://help.xaman.app/app/security/how-to-rekey-your-account)
-* [How to delete an XRPL account](https://help.xaman.app/app/your-accounts/importing-your-account/how-to-delete-an-xrpl-account)
-* [How to recover a Casinocoin (CSC) account](https://help.xaman.app/app/your-accounts/importing-your-account/how-to-recover-a-casinocoin-csc-account)
-* [Recovery scams](https://help.xaman.app/app/scams-and-staying-safe/recovery-scams)
+* [Can I view/export my account secret?](can-i-view-export-my-account-secret.md)
+* [How to Test or Verify your Account Secret](how-to-test-your-account-secret.md)
+* [Lost or damaged cards](../xaman-cards/lost-or-damaged-cards.md)
+* [How to Rekey an XRP Ledger (XRPL) Account](how-to-rekey-your-account.md)
+* [How to delete an XRPL account](../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md)
+* [How to recover a Casinocoin (CSC) account](../your-accounts/importing-your-account/how-to-recover-a-casinocoin-csc-account.md)
+* [Recovery scams](../scams-and-staying-safe/recovery-scams.md)
 
 
 
