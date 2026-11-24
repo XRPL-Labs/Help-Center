@@ -19,7 +19,7 @@ A regular key can sign anything for your account, including sending all of your 
 
 ### Set a regular key
 
-Xaman has no button for this on purpose. A regular key gives full control of an account, and scammers often try to talk people into setting one. To set a regular key, you use XRP Ledger Services, a website made by a trusted independent XRP Ledger developer. It prepares the transaction and sends it to Xaman, where you check it and sign. Xaman treats it as security sensitive, so before it shows the details, it asks a few questions about how you came to be signing. If someone else is walking you through this, stop and close the request.
+Xaman has no button for this on purpose. A regular key gives full control of an account, and scammers often try to talk people into setting one. To set a regular key, you use XRP Ledger Services, the site Xaman has pointed people to for years, made by an independent XRP Ledger developer. It prepares the transaction and sends it to Xaman, where you check it and sign. Xaman treats it as security sensitive, so before it shows the details, it asks a few questions about how you came to be signing. If someone else is walking you through this, stop and close the request.
 
 These steps use your phone, with XRP Ledger Services open in your phone’s web browser.
 
@@ -30,7 +30,7 @@ These steps use your phone, with XRP Ledger Services open in your phone’s web 
 5. Tap **Send Set Regular Key to Xaman**.
 6. Check the address under **Set RegularKey to**, then tap **Confirm**. Xaman opens.
 7. Enter your passcode or use biometrics. The **Review transaction** screen opens.
-8. Answer each safety question.&#x20;
+8. Answer each safety question.
 9. Check that **Sign with** shows your main account, and **Regular Key** shows your second account’s r-address.
 10. Slide to accept.
 
@@ -40,7 +40,7 @@ Open **Settings** > **Accounts**. Under your second account's name, the status l
 
 ### If you rekeyed because your account secret leaked
 
-A regular key on its own does not lock anyone out. The master key keeps working until you turn it off, so anyone who has your account secret can still sign anything for your account. They could send your funds away, or replace your regular key with one of their own. If they then turned off the master key, you would be locked out of your account for good. Your next step is to disable the master key, as soon as you can, with [_How to disable the master key_.](how-to-disable-the-master-key.md)
+A regular key on its own does not lock anyone out. The master key keeps working until you turn it off, so anyone who has your account secret can still sign anything for your account. They could send your funds away, or replace your regular key with one of their own. If they then turned off the master key, you would be locked out of your account for good. Your next step is to disable the master key, as soon as you can, with [_How to disable the master key_](how-to-disable-the-master-key.md).&#x20;
 
 If you think someone is already using your account secret, moving your funds to a new account is often the safest choice, since it does not depend on getting there first. [_Account present on another device_](all-about-security/account-present-on-another-device.md) explains both options.
 
