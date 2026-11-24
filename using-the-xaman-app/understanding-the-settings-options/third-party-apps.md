@@ -6,8 +6,6 @@ description: >-
 
 # Third party apps
 
-### Background
-
 xApps are small apps that run inside Xaman, built by Xaman and by independent developers. Some of them ask to know your r-address[^1], so they can show your NFTs or fill in forms for you without you typing it every time. Xaman asks for your approval first, and every app you approve appears in **Settings** > **Third party apps**. This article explains what an approved app can and cannot do, how to read its details, and how to take its access away. The list is part of Xaman itself, so it works the same whichever network you use.
 
 ### What an approved app can do
@@ -92,7 +90,7 @@ Yes, the same way anyone can. Your transaction history is public on the XRP Ledg
 
 * [Understanding the Settings Options](./)
 * [XRPL Services](../../xapps/xrpl-services/)
-* [Trust in the XRPL Community](../../scams-and-staying-safe/trust-in-the-xrpl-community.md)
+* [Trust in the XRPL community](../../scams-and-staying-safe/trust-in-the-xrpl-community.md)
 * [Official communication channels](../../scams-and-staying-safe/official-communication-channels.md)
 
 [^1]: Your account's address on the XRP Ledger. It always starts with "r", and it is safe to share.

@@ -6,12 +6,6 @@ description: >-
 
 # Recovery scams
 
-## Recovery scams
-
-How fake recovery services target people who have lost crypto, and how to protect yourself
-
-### Background
-
 Losing crypto to a scam or a theft is hard enough. Unfortunately, it can also make you a target for a second scam, often within days. Recovery scammers contact people who have just lost funds and promise to get them back, for a fee. They never recover anything, and the money paid to them is lost too.
 
 This article explains how recovery scams work, the signs that give them away, and what real help looks like. If you have already been in contact with someone like this, it also covers what to do now. Knowing how these scams work is the best protection, since they rely on reaching you at a moment when you badly want to believe them.
@@ -72,14 +66,14 @@ If you are unsure whether a message is genuine, ask us first, through the [Xaman
 If this has happened to you, you are not alone. Recovery scammers are practiced at sounding convincing, and they reach people at the moment they most want to believe them. What matters now is limiting the damage, so act on whichever of these applies to you.
 
 * **If you paid a fee,** do not pay anything more, whatever reason they give. Report the payment to the police, together with the original theft.
-* **If you shared your account secret,** treat your account as no longer yours to control. Move anything left in it to a safe account, or rekey your account, right away. [Account present on another device](https://help.xaman.app/app/security-and-xaman/all-about-security/account-present-on-another-device) walks you through both options.
+* **If you shared your account secret,** treat your account as no longer yours to control. Move anything left in it to a safe account, or rekey your account, right away. [Account present on another device](../security/all-about-security/account-present-on-another-device.md) walks you through both options.
 * **If you installed an app they asked for,** remove it from your phone or computer. Then follow the step above for your account secret, since the app may have shown them your screen.
 
 ### Frequently asked questions
 
 **Can anyone really reverse an XRP Ledger transaction?**
 
-No. Once a transaction is confirmed, it is permanent. Neither Xaman, the XRP Ledger, nor any service can reverse it. See [Can Xaman reverse, freeze or undo a transaction?](https://help.xaman.app/app/all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction)
+No. Once a transaction is confirmed, it is permanent. Neither Xaman, the XRP Ledger, nor any service can reverse it. See [Can Xaman reverse, freeze or undo a transaction?](../sending-receiving-and-cashing-out/can-xaman-reverse-freeze-or-undo-a-transaction.md)
 
 **The person says they work with Xaman. Could that be true?**
 
@@ -95,8 +89,8 @@ That can happen, especially if you reported the theft. Confirm the contact by ca
 
 ### See also
 
-* [I've been scammed!](https://help.xaman.app/app/all-about-scams/ive-been-scammed)
-* [Account present on another device](https://help.xaman.app/app/security-and-xaman/all-about-security/account-present-on-another-device)
-* [Official communication channels](https://help.xaman.app/app/learning-more-about-xaman/official-communication-channels)
-* [Can Xaman reverse, freeze or undo a transaction?](https://help.xaman.app/app/all-about-scams/can-xaman-reverse-freeze-or-undo-a-transaction)
-* [Security in Xaman](https://help.xaman.app/app/security-and-xaman/all-about-security/security-in-xaman)
+* [I've been scammed!](ive-been-scammed.md)
+* [Account present on another device](../security/all-about-security/account-present-on-another-device.md)
+* [Official communication channels](official-communication-channels.md)
+* [Can Xaman reverse, freeze or undo a transaction?](../sending-receiving-and-cashing-out/can-xaman-reverse-freeze-or-undo-a-transaction.md)
+* [Security in Xaman](../security/security-in-xaman.md)

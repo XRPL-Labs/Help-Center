@@ -2,9 +2,7 @@
 description: I received an escrow transaction
 ---
 
-# Escrow Scams
-
-### What is an escrow?
+# Escrow scams
 
 On the XRP Ledger, an escrow is a built-in mechanism that locks assets, either XRP or supported tokens, directly on the blockchain. These funds are securely locked and are only released to the recipient when predefined conditions are met, such as a specific date and time passing.
 

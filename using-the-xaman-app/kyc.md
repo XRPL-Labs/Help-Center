@@ -4,8 +4,6 @@ description: What KYC is, and why you might choose to verify your identity in Xa
 
 # How to verify your identity (KYC)
 
-Background
-
 KYC stands for Know Your Customer: the checks a company runs to confirm who someone is. In Xaman, verifying your identity is optional. Xaman is a self-custody[^1] wallet, so you hold your own keys, and you can send, receive, and manage your assets without ever verifying who you are. Some people choose to verify anyway, and this article explains why, what you need, and how it works.&#x20;
 
 Banks, payment companies, and other regulated financial services must check who their customers are before they do business with them. These checks help keep fraud and crime out of the financial system. Many governments now apply the same rules to crypto, which is why most exchanges ask you to complete KYC when you sign up. Rules for self-custody wallets differ from country to country and are still changing, so you may meet identity checks more often in the future.
@@ -16,7 +14,7 @@ You need these four things:
 
 * A **Full access** account: its [account secret](#user-content-fn-2)[^2] is in Xaman, or the account is on your Xaman card.
 * A valid government-issued ID document, such as a passport, driver's license, national ID card, or residence permit. Supported documents differ by country: see [Supported countries and documents (Veriff)](https://www.veriff.com/supported-countries).
-* 15 RLUSD in the account you want to verify, to pay the KYC fee. To hold RLUSD, the account needs an RLUSD [trust line](#user-content-fn-3)[^3]: see [How to create a RLUSD Trust Line](../tokens-trust-lines-and-nfts/how-to-create-a-rlusd-trust-line.md).
+* 15 RLUSD in the account you want to verify, to pay the KYC fee. To hold RLUSD, the account needs an RLUSD [trust line](#user-content-fn-3)[^3]: see [How to create a RLUSD trust Line](../tokens-trust-lines-and-nfts/how-to-create-a-rlusd-trust-line.md).
 * The phone where Xaman is installed, with a working camera for the photos.
 
 ### Why verify your identity

@@ -2,9 +2,7 @@
 description: How to decide which apps, xApps, and token issuers to trust
 ---
 
-# Trust in the XRPL Community
-
-### Background
+# Trust in the XRPL community
 
 Lots of people build on the XRP Ledger (XRPL), from solo developers to large companies, and most of them do honest work. The network is open to everyone, though, so anyone can launch an app or issue a token. Nobody checks every one of them, not even Xaman. It pays to know how to tell a solid project from a risky one. This article explains how you can check Xaman for yourself, what an xApp can and cannot do, and how to look into a token issuer before you add its token.
 

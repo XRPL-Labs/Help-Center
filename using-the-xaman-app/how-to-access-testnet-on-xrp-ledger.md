@@ -1,10 +1,6 @@
 # How to access Testnet on XRP Ledger
 
-\
-How to access Testnet on XRP Ledger
------------------------------------
-
-It’s always important to fully understand how you’re interacting with the XRP Ledger. With complex features on XRPL, we strongly recommend users try them out on the testnet first. \
+It’s always important to fully understand how you’re interacting with the XRP Ledger. With complex features on XRPL, we strongly recommend users try them out on the testnet first.\
 In this article, we'll guide you through the process of setting up your account on Testnet.
 
 ### Why we recommend <a href="#why-we-recommend" id="why-we-recommend"></a>
@@ -31,11 +27,11 @@ Using the testnet before the mainnet comes with several benefits. It lets you sa
 6.  Once your account is funded, select **Close xApp**<br>
 
     <figure><img src="../.gitbook/assets/testnet6.png" alt="" width="375"><figcaption></figcaption></figure>
-7.  You should see your account on Testnet is funded with 1,000 XRP. \
+7.  You should see your account on Testnet is funded with 1,000 XRP.\
     Again, **these tokens have no real value.**<br>
 
     <figure><img src="../.gitbook/assets/testnet8.png" alt="" width="374"><figcaption></figcaption></figure>
 
 Now you're all set to try out all the features without affecting the real accounts on mainnet!
 
-Open any xApp you’d like to test, and you can explore and experiment as much as you want until you're comfortable.&#x20;
+Open any xApp you’d like to test, and you can explore and experiment as much as you want until you're comfortable.

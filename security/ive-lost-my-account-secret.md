@@ -93,7 +93,7 @@ Picture a building with about 340 undecillion apartments, one for every possible
 * [Can I view/export my account secret?](can-i-view-export-my-account-secret.md)
 * [How to Test or Verify your Account Secret](how-to-test-your-account-secret.md)
 * [Lost or damaged cards](../xaman-cards/lost-or-damaged-cards.md)
-* [How to Rekey an XRP Ledger (XRPL) Account](how-to-rekey-your-account.md)
+* [Rekeying your XRP Ledger account](how-to-rekey-your-account.md)
 * [How to delete an XRPL account](../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md)
 * [How to recover a Casinocoin (CSC) account](../your-accounts/importing-your-account/how-to-recover-a-casinocoin-csc-account.md)
 * [Recovery scams](../scams-and-staying-safe/recovery-scams.md)

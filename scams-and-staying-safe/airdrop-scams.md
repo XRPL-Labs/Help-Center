@@ -2,9 +2,7 @@
 description: Xaman does not run airdrops. How to spot fake airdrop scams.
 ---
 
-# Airdrop Scams
-
-### Summary
+# Airdrop scams
 
 **Xaman does not run airdrops.** Xaman is a self-custody wallet — we do not issue tokens, we have never done an airdrop and we will never do an airdrop. If you saw a post on social media claiming there is an Xaman airdrop, an automatic airdrop for XRP holders, a Xaman rewards program or some kind of token/XRP giveaway, the post is not from us.
 
@@ -70,7 +68,7 @@ It is very important that you **never sign a transaction you did not start yours
 
 Impersonation accounts do not only promote fake airdrops — they also fake "rewards", "token unlocks", "staking bonuses" and "mystery box" claims. The template is identical: a lookalike account, a deadline, and a "connect and sign" button. When in doubt, apply the three checks above, or ask [**Xaman Support**](https://xaman.app/detect/xapp:xumm.support-md) first. Asking costs nothing; signing the wrong thing costs your account.
 
-**See also:** [_I've been scammed_](ive-been-scammed.md) · [_NFT Scams_](nft-scams.md) · [_I'm receiving tiny "dust" payments on my account_](dust-attacks.md)
+**See also:** [_I've been scammed_](ive-been-scammed.md) · [_NFT Scams_](nft-scams.md) · [_Dust attacks_](dust-attacks.md)
 
 ***
 

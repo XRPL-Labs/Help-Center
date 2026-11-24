@@ -4,8 +4,6 @@ description: How to change your email address
 
 # How to change your email address
 
-### Background
-
 The Xaman wallet app does not collect or store any personal information. This includes email addresses. You can read more about this in our [privacy statement](https://xrpl-labs.com/static/documents/XRPL-Labs-Privacy-Statement-V1.pdf).
 
 However, some of our services do hold your email address. This page lists each case and explains how to change it.

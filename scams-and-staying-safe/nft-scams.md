@@ -2,11 +2,7 @@
 description: I received a suspicious NFT offer
 ---
 
-# NFT Scams
-
-**If someone is offering to sell you an NFT — or says an "offer" is waiting on your account — read this before you sign anything.**
-
-### The short version
+# NFT scams
 
 An NFT Offer (technically called an _NFTokenOffer_) on the XRP Ledger is a native, on-chain mechanism used to buy or sell a Non-Fungible Token (NFT). It is part of the XRP Ledger itself, not a feature of any one app or marketplace. On the XRP Ledger, an NFT trade is a two-step contract: one account **creates an offer**, another account **accepts it**. The moment it is accepted, the swap happens in a single atomic step — the NFT goes one way, the XRP goes the other. **There is no undo.**
 

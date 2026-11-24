@@ -4,8 +4,6 @@ description: How to see what your XRP is worth, in the currency you choose
 
 # Setting the currency in Xaman
 
-### Background
-
 Xaman can show you what your XRP[^1] is worth in a currency you know, such as US dollars, euros, or yen. You choose that currency once, and Xaman uses it for every value it shows you. This article explains where those values appear, how to change the currency, and where the numbers come from.
 
 The currency is a setting in the Xaman app itself, not in your account. It applies on both the [XRP Ledger (XRPL)](#user-content-fn-2)[^2] and Xahau[^3], with one difference. On Xahau, the **Account Worth** row shows a total for your account, but no value appears under your XAH balance. Changing the currency only changes how values are displayed on your phone. Nothing about your account or your balance changes on either network.

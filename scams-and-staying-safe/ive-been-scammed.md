@@ -47,11 +47,11 @@ If you are not sure where to find a transaction hash, contact [Xaman Support](ht
 If your account was compromised (someone accessed it without your permission), act now to stop further losses:
 
 * **Re-key your account** and disable the master key for the compromised account. This prevents the scammers from accessing your account again.
-  * [How to re-key your XRPL account](../security/how-to-rekey-your-account.md)
-  * [How to disable the master key on an account](../security/how-to-disable-the-master-key.md)
+  * [Rekeying your XRP Ledger account](../security/how-to-rekey-your-account.md)
+  * [Disabling your master key](../security/how-to-disable-the-master-key.md)
 * If re-keying looks too complicated, **create a new account**, move your remaining funds to the new account, then delete the compromised account.
-  * [How to create a new XRP Ledger account using Xaman](../getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md)
-  * [How to delete your XRP Ledger account](../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md)
+  * [How to create an XRP Ledger account](../getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md)
+  * [How to delete an XRPL account](../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md)
   * Note: Trust lines will have to be duplicated (temporarily) in the new account until they can be removed from the old one, requiring enough XRP to cover reserves until the move is complete.
 
 ### Work out how your account secret was leaked
@@ -124,8 +124,8 @@ It is very important that you **never sign a transaction you did not start yours
 
 We take security very seriously. If you have found yourself in this situation, consider the following:
 
-* **Xaman (Tangem) cards** — an excellent way to take the security of your XRPL account to the next level. See: [How safe are Xaman (Tangem) cards?](/broken/pages/VAXuMYs7zfQi6Vlvp3Gv)
-* **Review:** [How secure is Xaman?](../security/security-in-xaman.md)
+* **Xaman (Tangem) cards** — an excellent way to take the security of your XRPL account to the next level. See: [Xaman cards](../xaman-cards/xaman-tangem-cards.md)
+* **Review:** [Security in Xaman](../security/security-in-xaman.md)
 * **Preparing for future scams.** There will always be bad actors trying to exploit users for their funds. The single best protection is to [**Contact us**](https://xumm.app/detect/xapp:xumm.support) if you are ever unsure about something. We live and breathe the XRP Ledger, we are constantly tracking new scams, and we are always here to help you verify whether an offer, an airdrop, or a transaction is safe before you "Slide to send."
 
 ### Summary
