@@ -4,13 +4,13 @@ description: How to stop your account secret from signing, once a regular key is
 
 # Disabling your master key
 
-Your master key is the key that comes from your [account secret](#user-content-fn-1)[^1]. Until you change something, it is the only thing that can sign for your account. Once you have set a [regular key](#user-content-fn-2)[^2], you can turn the master key off, so the regular key becomes the only way to sign. People do this when they want their account secret to stop working, for example because they think it has leaked, or because they want all signing to happen from one account they keep somewhere safer.&#x20;
+Your master key is the key that comes from your [account secret](#user-content-fn-1)[^1]. Until you change something, it is the only thing that can sign for your account. Once you have set a [regular key](#user-content-fn-2)[^2], you can turn the master key off, so the regular key becomes the only way to sign. People do this when they want their account secret to stop working, for example because they think it has leaked, or because they want all signing to happen from one account they keep somewhere safer.
 
 It is a powerful change, so it pays to slow down. After this, your account depends entirely on the regular key account, and the steps below include checking that it is ready before you start.
 
 ### Before you get started
 
-* A regular key already set on your account, belonging to another account you hold with **Full access** in Xaman. [_Rekeying your XRP Ledger_](how-to-rekey-your-account.md) _account_ explains how.
+* A regular key already set on your account, belonging to another account you hold with **Full access** in Xaman. [_Rekeying your XRP Ledger account_](how-to-rekey-your-account.md) explains how.
 * Your main account in Xaman with **Full access**, since only the master key itself can turn the master key off.
 * Enough XRP in your main account to pay the [network fee](#user-content-fn-3)[^3].
 * The regular key account's secret written down and tested, with [_How to Test or Verify your Account Secret_](how-to-test-your-account-secret.md).
@@ -31,7 +31,7 @@ Xaman has no button for this on purpose, just like setting a regular key. You us
 6. Check the summary, then tap **Confirm**. Xaman opens.
 7. Enter your passcode or use biometrics. The **Review transaction** screen opens.
 8. Check that **Sign with** shows your main account.
-9. Review the Warning section and the Danger section.
+9. Read the **WARNING** and **DANGER** notes under **Memo**
 10. Slide to accept.
 
 ### Check that it worked
@@ -63,7 +63,7 @@ No. The XRP Ledger refuses, since it would leave the account with no way to sign
 ### See also
 
 * [Rekeying your XRP Ledger account](how-to-rekey-your-account.md)
-* [How to enable the Master Key](https://help.xaman.app/app/security/how-to-enable-the-master-key)
+* [How to enable the Master Key](how-to-enable-the-master-key.md)
 * [How to Test or Verify your Account Secret](how-to-test-your-account-secret.md)
 * [Account present on another device](all-about-security/account-present-on-another-device.md)
 * [Security in Xaman](security-in-xaman.md)
