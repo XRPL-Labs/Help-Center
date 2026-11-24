@@ -123,7 +123,7 @@
 * [How to configure biometrics](security/how-to-configure-biometrics.md)
 * [How to Test or Verify your Account Secret](security/how-to-test-your-account-secret.md)
 * [Can I view/export my account secret?](security/can-i-view-export-my-account-secret.md)
-* [I've lost my account secret!](security/ive-lost-my-account-secret.md)
+* [I've lost my account secret](security/ive-lost-my-account-secret.md)
 
 ## Scams and staying safe
 
