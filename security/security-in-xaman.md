@@ -4,8 +4,6 @@ description: How Xaman protects your accounts, and the habits that keep them pro
 
 # Security in Xaman
 
-### Background
-
 When you trust Xaman with your XRP, it is natural to ask how well it is protected. This article walks you through it: what protects your account, how Xaman guards it on your phone, and the few habits that make a big difference.
 
 XRP is the native coin of the XRP Ledger (XRPL), the network your Xaman accounts live on. This article covers XRP Ledger accounts.&#x20;

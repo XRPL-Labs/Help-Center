@@ -216,7 +216,6 @@
 * [test](xahau/test.md)
 * [Setting up your Xaman cards](xahau/setting-up-your-xaman-cards.md)
 * [Setting up a Backup card](xahau/setting-up-a-backup-card.md)
-* [Lost or damaged cards](xahau/lost-or-damaged-cards.md)
 
 ## XRP Ledger basics
 
