@@ -1,60 +1,75 @@
 ---
-description: Disabling the Master key on an XRPL account
-cover: ../.gitbook/assets/Large rock with Lock.jpg
-coverY: 168
+description: How to stop your account secret from signing, once a regular key is in place
 ---
 
-# How to disable the Master key
+# Disabling your master key
 
-### Why disable the Master key?
+Your master key is the key that comes from your [account secret](#user-content-fn-1)[^1]. Until you change something, it is the only thing that can sign for your account. Once you have set a [regular key](#user-content-fn-2)[^2], you can turn the master key off, so the regular key becomes the only way to sign. People do this when they want their account secret to stop working, for example because they think it has leaked, or because they want all signing to happen from one account they keep somewhere safer.&#x20;
 
-There are two main reasons why you would want to disable the Master key for an XRPL account:
-
-* Your account has been compromised
-* You want to configure your account so that you can only sign and submit transactions using a regular keyed account.&#x20;
+It is a powerful change, so it pays to slow down. After this, your account depends entirely on the regular key account, and the steps below include checking that it is ready before you start.
 
 ### Before you get started
 
-You should confirm that you have the correct account secret for your account.
-
-[**How to test your Account Secret**](how-to-test-your-account-secret.md)
-
-Once you have done this, you should be aware of the following before you proceed:
-
-1\) To disable the master key pair, **you must use the master key pair.**&#x20;
-
-2\) Your account must have at least one method of authorizing transactions other than the master key pair. e.g. - assign a regular key
-
-3\) Once the Master key has been disabled, you will not be able to use it to re-enable your Master key. It can only be re-enabled using the assigned regular key account.
-
-### Make sure you configure a Regular key account
-
-The XRP Ledger will not let you disable the Master key unless there is an alternate way to sign and submit transactions. This article explains how to do this by adding a regular key to your account.
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to rekey your account</td><td></td><td></td><td><a href="how-to-rekey-your-account.md">how-to-rekey-your-account.md</a></td><td><a href="../.gitbook/assets/Large rock with Key.jpg">Large rock with Key.jpg</a></td></tr></tbody></table>
-
-&#x20;
-
-### Disabling your Master key
+* A regular key already set on your account, belonging to another account you hold with **Full access** in Xaman. [_Rekeying your XRP Ledger_](how-to-rekey-your-account.md) _account_ explains how.
+* Your main account in Xaman with **Full access**, since only the master key itself can turn the master key off.
+* Enough XRP in your main account to pay the [network fee](#user-content-fn-3)[^3].
+* The regular key account's secret written down and tested, with [_How to Test or Verify your Account Secret_](how-to-test-your-account-secret.md).
 
 {% hint style="danger" %}
-You will not be able to access your XRP Ledger account using your Master key after performing this procedure. Ony your regular key account will be able to sign and submit  transactions to the XRPL.
+Once the master key is off, only your regular key account can sign for your account. If you lose that account's secret too, no one can ever sign for your account again, including us. Test the regular key account's secret before you start.
 {% endhint %}
 
-1\) Go to [XRPL.services](https://xrpl.services/)
+### Disable the master key
 
-2\) Press the ![](<../.gitbook/assets/image (1) (6).png>) button then press **Open in Xumm App** and sign in with the account the you would like to disable your Master key for.
+Xaman has no button for this on purpose, just like setting a regular key. You use XRP Ledger Services, the site Xaman has pointed people to for years, made by an independent XRP Ledger developer. It prepares the transaction and sends it to Xaman, where you check it and sign. These steps use your phone, with XRP Ledger Services open in your phone's web browser.
 
-<figure><img src="../.gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
+1. In Xaman, switch to your main account on the **Home** screen.
+2. In your phone's web browser, go to [XRP Ledger Services](https://xrpl.services/).
+3. Open **Account Set**.
+4. Select **Disable Master Key**.
+5. Tap **Send Account Settings to Xaman**.
+6. Check the summary, then tap **Confirm**. Xaman opens.
+7. Enter your passcode or use biometrics. The **Review transaction** screen opens.
+8. Check that **Sign with** shows your main account.
+9. Review the Warning section and the Danger section.
+10. Slide to accept.
 
-5\) On the XRP Ledger Services page, select **Account Set.**
+### Check that it worked
 
-<figure><img src="../.gitbook/assets/XRPL Services - Dsiable Master Key - 1.png" alt=""><figcaption></figcaption></figure>
+Open **Settings** > **Accounts**. Your main account's status line now reads **Read only (Master key disabled)**. From now on, your regular key account signs for your main account, and your account secret no longer can.
 
-6\) Choose **Disable Master Key**, then press the **Send Account Settings to Xumm** button.
+### Turn the master key back on
 
-<figure><img src="../.gitbook/assets/XRPL Services - Dsiable Master Key - 2.png" alt=""><figcaption></figcaption></figure>
+If you change your mind, you can turn the master key back on, signing with your regular key account. The master key cannot turn itself back on, since it no longer signs. [_How to enable the Master Key_](how-to-enable-the-master-key.md) explains how.
 
-7\) Sign the transaction in Xaman (formerly Xumm) and you're all done!&#x20;
+### If your account secret has leaked
 
-8\) Your Master Key should now be disabled and you should now be able to send and submit transactions to the XRP Ledger exclusively using your Regular key account.
+Disabling the master key only protects you if you get there first. Anyone who has your account secret can set their own regular key, or turn the master key off themselves, and lock you out. If you think someone is already using your secret, moving your funds to a new account is often the safest choice, since it does not depend on winning that race. [_Account present on another device_](all-about-security/account-present-on-another-device.md) explains both options.
+
+### Frequently asked questions
+
+**Should I still keep my account secret after disabling the master key?**
+
+Yes. It no longer signs while the master key is off, but it works again the moment the master key is turned back on. Keep it as safe as before.
+
+**What happens if I lose the regular key account too?**
+
+Your account would be locked for good, with your funds still in it. No one can sign for it again, including us, which is why testing the regular key account's secret comes first.
+
+**Can I disable the master key without a regular key?**
+
+No. The XRP Ledger refuses, since it would leave the account with no way to sign. You need a regular key, or a multi-signing setup, in place first. These are rules of the XRP Ledger itself, not of Xaman.
+
+### See also
+
+* [Rekeying your XRP Ledger account](how-to-rekey-your-account.md)
+* [How to enable the Master Key](https://help.xaman.app/app/security/how-to-enable-the-master-key)
+* [How to Test or Verify your Account Secret](how-to-test-your-account-secret.md)
+* [Account present on another device](all-about-security/account-present-on-another-device.md)
+* [Security in Xaman](security-in-xaman.md)
+
+[^1]: The secret that controls your account, as Secret Numbers, a Family Seed, or a Mnemonic. Never share it with anyone.
+
+[^2]: A second key that can sign for your account, such as a Backup card.
+
+[^3]: A tiny amount of XRP paid with every transaction. It is destroyed, not paid to anyone, which protects the network from spam.
