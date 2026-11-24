@@ -115,7 +115,7 @@
   * [Quantum Attacks and Xaman](security/all-about-security/quantum-attacks-and-xaman.md)
   * [Xaman & natural disasters](security/all-about-security/xaman-and-natural-disasters.md)
   * [Account present on another device](security/all-about-security/account-present-on-another-device.md)
-* [How to Rekey an XRP Ledger (XRPL) Account](security/how-to-rekey-your-account.md)
+* [Rekeying your XRP Ledger account](security/how-to-rekey-your-account.md)
 * [How to disable the Master key](security/how-to-disable-the-master-key.md)
 * [How to enable the Master Key](security/how-to-enable-the-master-key.md)
 * [How to reset the 6 digit passcode](security/how-to-reset-the-6-digit-passcode.md)

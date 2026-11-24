@@ -1,89 +1,78 @@
 ---
-description: How to rekey an XRPL account
-cover: ../.gitbook/assets/Large rock with Key.jpg
-coverY: 0
+description: How to let a second account sign for yours, and when it makes sense
 ---
 
-# How to Rekey an XRP Ledger (XRPL) Account
+# Rekeying your XRP Ledger account
 
-### Concept and Implementation
+Every XRP Ledger (XRPL) account starts with one key, its [master key](#user-content-fn-1)[^1], which comes from its account secret. Rekeying adds a second key, called a regular key, that can sign for the account as well. The regular key belongs to another account you control, so you can approve transactions for your main account from that second account. Your XRP and tokens stay exactly where they are.
 
-The XRP Ledger allows an account to authorize a secondary key pair, called a [_regular key pair_](https://xrpl.org/cryptographic-keys.html), to sign transactions on behalf of another account.
+People rekey for two main reasons. Some want a second way to sign, kept somewhere separate, so that losing one key does not lock them out. If you use Xaman cards, you have seen this already: your Backup card is a regular key for your Primary card’s account. Others rekey because they believe their account secret has leaked, and want to take signing away from it, which takes a second step after this one.
 
-It is often used to protect an account by securing the master key and using the regular key in its place. This has multiple advantages;
+### Before you get started
 
-1. The primary account is safer because the master key does not need to be generally available
-2. The regular key account does not need to be activated so has no value in and of itself
-3. The regular key can be removed or swapped out as needed
+* Your main account in Xaman, with **Full access** and enough XRP to pay the network fee.
+* A second account in Xaman, also with **Full access**. It does not need any XRP, and it does not need to be activated.
 
-### Example
+{% hint style="danger" %}
+A regular key can sign anything for your account, including sending all of your funds away. Anyone who asks you to set a regular key to their address is trying to take your account. Only set a regular key to an account you own and control in Xaman.
+{% endhint %}
 
-A good example of how this works would be to look at the recommended configuration of a pair of [Xaman (Tangem) cards](../xaman-cards/xaman-tangem-cards.md).
+### Set a regular key
 
-In this case, you have a Primary account on one card and you have a Signing account on another card.
+Xaman has no button for this on purpose. A regular key gives full control of an account, and scammers often try to talk people into setting one. To set a regular key, you use XRP Ledger Services, a website made by a trusted independent XRP Ledger developer. It prepares the transaction and sends it to Xaman, where you check it and sign. Xaman treats it as security sensitive, so before it shows the details, it asks a few questions about how you came to be signing. If someone else is walking you through this, stop and close the request.
 
-When you run the [Tangem Backup xApp](/broken/pages/Ypotp0jrufYxwEF2ciFO), it creates a "link" between the two accounts which is called a regular key pair. It connects the Primary account to the Signing account which allows you to sign transactions on the Primary account **using the Signing account**.
+These steps use your phone, with XRP Ledger Services open in your phone’s web browser.
 
-The following steps explain how to manually configure a regular key pair between two XRPL accounts.
+1. In Xaman, switch to your main account on the **Home** screen.
+2. In your phone’s web browser, go to [XRP Ledger Services](https://xrpl.services/).
+3. Open **Set Regular Key**.
+4. In **XRPL address which will be able to sign transactions**, enter your second account’s r-address. Check it character by character.
+5. Tap **Send Set Regular Key to Xaman**.
+6. Check the address under **Set RegularKey to**, then tap **Confirm**. Xaman opens.
+7. Enter your passcode or use biometrics. The **Review transaction** screen opens.
+8. Answer each safety question.&#x20;
+9. Check that **Sign with** shows your main account, and **Regular Key** shows your second account’s r-address.
+10. Slide to accept.
 
-### Step 1: Make sure you have a Primary account <a href="#h_46e6d7f417" id="h_46e6d7f417"></a>
+### Check that it worked
 
-The Primary account must be imported into Xaman (formerly Xumm) with **Full access**. (You must be able to sign transactions on this account.)
+Open **Settings** > **Accounts**. Under your second account's name, the status line now reads **Regular key for** followed by your main account's name. From now on, you can sign for your main account with either account.
 
-This is the account that will have your XRP, your Trust Lines, Escrows, DEX transactions, etc.
+### If you rekeyed because your account secret leaked
 
-If you are new to Xaman and don't have an XRP Ledger account yet, you can create one by following the instructions in this article:
+A regular key on its own does not lock anyone out. The master key keeps working until you turn it off, so anyone who has your account secret can still sign anything for your account. They could send your funds away, or replace your regular key with one of their own. If they then turned off the master key, you would be locked out of your account for good. Your next step is to disable the master key, as soon as you can, with [_How to disable the master key_.](how-to-disable-the-master-key.md)
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="../getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
+If you think someone is already using your account secret, moving your funds to a new account is often the safest choice, since it does not depend on getting there first. [_Account present on another device_](all-about-security/account-present-on-another-device.md) explains both options.
 
-### Step 2: Make sure you have a Signing account <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+### Change or remove a regular key
 
-The Signing account must be imported into Xaman with **Full access**. (You must be able to sign transactions on this account.)
+The XRP Ledger allows only one regular key per account. Setting a new one replaces the old one straight away, and the old account can no longer sign. To remove a regular key, follow the first three steps, then tap **Delete Regular Key** instead of entering an address. Confirm and sign the request the same way. You can sign the removal with your main account or with the regular key account.
 
-This account does not need to contain XRP and does not even need to be activated. As long as you have full access to the account, it can be used to sign transactions on the Primary account.
+The XRP Ledger also refuses to remove the regular key when it is the only way left to sign. That happens when the master key is disabled and no multi-signing setup is in place. Removing the key would lock you out for good, so turn the master key back on first, with [_How to enable the Master Key_](how-to-enable-the-master-key.md). These are rules of the XRP Ledger itself, not of Xaman, so they work the same way in every wallet.
 
-If you don't have signing account yet, you can create one by following the instructions in this article:
+### Frequently asked questions
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">How to Create an XRP Ledger account</td><td></td><td></td><td><a href="../.gitbook/assets/Creating in forest.png">Creating in forest.png</a></td><td><a href="../getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md">how-to-create-an-xrpl-account.md</a></td></tr></tbody></table>
+**Can I still use my master key after rekeying?**
 
-### Step 3: How to set a Regular Key Pair <a href="#h_daeec8d8c2" id="h_daeec8d8c2"></a>
+Yes. Rekeying adds a second key alongside the first, so your master key keeps working until you choose to disable it. Your main account stays **Full access** in Xaman, and you can go on signing with it exactly as before.
 
-Once you have completed the following steps, you will be able to sign transactions on your Primary account using **both** your Primary account **and** your Signing account.
+**Does the second account need XRP?**
 
-1\) Launch Xaman and switch accounts to your Signing account.
+No. It only signs for your main account, so it does not need to be activated. The network fee is paid by your main account.
 
-<figure><img src="../.gitbook/assets/regular keys -2 (1).png" alt=""><figcaption></figcaption></figure>
+**If someone else has my account secret, can they still use it after I rekey?**
 
-2\) Press the **Request** button then press the **Copy** button.
+Yes, until you disable the master key. They can sign anything, replace your regular key with their own, and then turn off the master key to lock you out. _If you rekeyed because your account secret leaked_ explains what to do, and why moving your funds is often the safer choice.
 
-<figure><img src="../.gitbook/assets/regular keys -3.png" alt=""><figcaption></figcaption></figure>
+**Can the regular key move my funds?**
 
-3\) Switch accounts to your **Primary** account and go to [**XRP Ledger Services**](https://xrpl.services/)**.**
+Yes, and that is why it matters who holds it. A regular key can sign any transaction for your account, so set it only to an account you control.
 
-4\) Press the ![](<../.gitbook/assets/image (1) (6).png>) button then press **Open in Xumm App** and sign in.
+### See also
 
-<figure><img src="../.gitbook/assets/Sign into Xumm.png" alt=""><figcaption></figcaption></figure>
+* [How to disable the master key](how-to-disable-the-master-key.md)
+* [Account present on another device](all-about-security/account-present-on-another-device.md)
+* [Security in Xaman](security-in-xaman.md)
+* [How to rekey a Xahau account](../xahau/how-to-rekey-a-xahau-account.md)
 
-5\) On the XRP Ledger Services page, select **Set Regular Key**
-
-<figure><img src="../.gitbook/assets/XRPL Services - Reg Key - 1.png" alt=""><figcaption></figcaption></figure>
-
-6\) In the field below paste the r-address for the Signing account, then press the **Send Set Regular Key to Xumm** button.
-
-<figure><img src="../.gitbook/assets/XRPL - Regular keys.png" alt=""><figcaption></figcaption></figure>
-
-7\) Sign the transaction in Xaman and you're all done!
-
-Now when you look at your Signing account, notice how Xaman now reports "Regular key for Primary Acct".
-
-<figure><img src="../.gitbook/assets/regular keys -4.png" alt=""><figcaption></figcaption></figure>
-
-### Next steps..
-
-If you configured the regular key so you would have a second signing account (E.g. as a "backup" account) you are all set to go. You should be able to sign transactions on your Primary Account with either your Signing account or your Primary account.
-
-...but if you configured the regular key because your Primary account has been **compromised**, you are only half way there. The next step is to disable the master key for your Primary account.
-
-This article explains how to proceed:
-
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">How to disable the Master key</td><td></td><td></td><td><a href="how-to-disable-the-master-key.md">how-to-disable-the-master-key.md</a></td><td><a href="../.gitbook/assets/Large rock with Lock -2.jpg">Large rock with Lock -2.jpg</a></td></tr></tbody></table>
+[^1]: The key created with your account, from its account secret. It can be turned off once another key is in place.
