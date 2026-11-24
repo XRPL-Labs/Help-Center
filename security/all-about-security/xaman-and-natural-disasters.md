@@ -1,15 +1,10 @@
----
-cover: ../../.gitbook/assets/Natural disaster - EMP -1.png
-coverY: 227
----
-
 # Xaman & natural disasters
 
 Have you ever wondered how well Xaman (formerly Xumm) would survive a natural disaster, an EMP, a solar flare or other catastrophic event? Although such events are historically rare or even hypothetical, they do present a possible danger when it comes to your funds, so let’s consider the possibilities…
 
 ### **What is an EMP?**
 
-An EMP stands for Electro Magnetic Pulse. It is brief burst of electromagnetic energy that can disrupt communications, damage electronic equipment and in some cases, physically damage objects such as buildings and aircraft.  An EMP can be generated naturally or artificially (nuclear weapons) but in either case, it could cause severe damage to electrical grids and/or communication lines.
+An EMP stands for Electro Magnetic Pulse. It is brief burst of electromagnetic energy that can disrupt communications, damage electronic equipment and in some cases, physically damage objects such as buildings and aircraft. An EMP can be generated naturally or artificially (nuclear weapons) but in either case, it could cause severe damage to electrical grids and/or communication lines.
 
 ### **What is an solar flare?**
 
@@ -21,7 +16,7 @@ The main concern is that any event that affects the electrical grid or the commu
 
 ### **How the XRP Ledger works**
 
-The XRP Ledger is run on network validators and full history nodes which are distributed all over the world. With so many machines operated in different geographical locations, with different levels of redundancy on a per machine, per location basis, it is highly unlikely that the same disaster could affect a critical amount of them. Since your XRP exists on the XRPL, as long as even 1 validator or full history node exists anywhere in the world, your XRP still exists.  EVERY validator and full history node would need to be destroyed in order for your funds to be lost.
+The XRP Ledger is run on network validators and full history nodes which are distributed all over the world. With so many machines operated in different geographical locations, with different levels of redundancy on a per machine, per location basis, it is highly unlikely that the same disaster could affect a critical amount of them. Since your XRP exists on the XRPL, as long as even 1 validator or full history node exists anywhere in the world, your XRP still exists. EVERY validator and full history node would need to be destroyed in order for your funds to be lost.
 
 ### **How does this affect Xaman?**
 
@@ -34,7 +29,7 @@ Since your XRP exists on the XRP Ledger, your funds exist as long as the XRP Led
 
 ### **What about my Xaman cards?**
 
-Xaman (Tangem) cards pass rigorous testing and can withstand environmental extremes, occasional mechanical deformation, electromagnetic pulse (EMP), electrostatic discharge (ESD) and X-rays within limits defined in [ISO7810](https://en.wikipedia.org/wiki/ISO/IEC_7810) standard.   You can learn more about technical specifications of the cards by visiting their website here: [https://developers.tangem.com/](https://developers.tangem.com/)
+Xaman (Tangem) cards pass rigorous testing and can withstand environmental extremes, occasional mechanical deformation, electromagnetic pulse (EMP), electrostatic discharge (ESD) and X-rays within limits defined in [ISO7810](https://en.wikipedia.org/wiki/ISO/IEC_7810) standard. You can learn more about technical specifications of the cards by visiting their website here: [https://developers.tangem.com/](https://developers.tangem.com/)
 
 ### **What about the Xaman Servers?**
 

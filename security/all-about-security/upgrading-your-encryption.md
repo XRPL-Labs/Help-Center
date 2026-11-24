@@ -1,5 +1,7 @@
 ---
 description: How to upgrade your account to a stronger encryption algorithm
+hidden: true
+noIndex: true
 ---
 
 # Upgrading your encryption

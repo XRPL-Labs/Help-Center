@@ -6,8 +6,6 @@ description: >-
 
 # Account present on another device
 
-### Background
-
 Xaman shows this warning when one of your accounts is added to Xaman on another phone or tablet. Most of the time there is a simple explanation: you set up a new phone and imported your account yourself. If you did not, the warning matters a great deal, because it means someone else has your account secret. This article helps you work out which case you are in, and walks you through what to do right away if it was not you.
 
 Xaman is a self-custody wallet. Only you hold your account secrets, so we cannot freeze your account, block the other device, or reverse a transaction. What we can do is warn you, and that is what this message is for.
@@ -16,7 +14,7 @@ Xaman is a self-custody wallet. Only you hold your account secrets, so we cannot
 
 The warning arrives in **Xaman Messages**, titled with your account's r-address. It looks like this:
 
-<figure><img src="../../.gitbook/assets/account-present-message-light.png" alt="The Xaman Messages warning that the Stargate account is present on another device" width="375"><figcaption><p>Check whether you added this account to a new device</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-present-message-mockup-new-device.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Why it happens
 
@@ -44,8 +42,8 @@ Act now, using one of these two options. Either one works, so choose the one you
 
 This stops your old account secret from working, so the other device can no longer sign anything for your account. Rekeying gives your account a new key that only you hold, and it has to come first: the XRP Ledger only lets you disable the master key once a new key is in place. Follow these two articles in order:
 
-* [How to Rekey an XRP Ledger (XRPL) account](../how-to-rekey-your-account.md)
-* [How to disable the Master key](../how-to-disable-the-master-key.md)
+* [Rekeying your XRP Ledger account](../how-to-rekey-your-account.md)
+* [Disabling your master key](../how-to-disable-the-master-key.md)
 
 **Option 2: Move your funds to another account that only you control.**&#x20;
 
@@ -87,9 +85,9 @@ Never. Xaman support never asks for your account secret, and anyone who does is 
 
 ### See also
 
-* [Security in Xaman](https://help.xaman.app/app/security-and-xaman/all-about-security/how-secure-is-xaman)
-* [How to create an XRP Ledger account](https://help.xaman.app/app/getting-started-with-xaman/your-first-xrp-ledger-account/how-to-create-an-xrpl-account)
-* [How to Rekey an XRP Ledger (XRPL) account](../how-to-rekey-your-account.md)
-* [How to disable the Master key](https://help.xaman.app/app/learning-more-about-xaman/how-to-disable-the-master-key)
-* [Sending XRP and tokens from Xaman](https://help.xaman.app/app/getting-started-with-xaman/sending-tokens-from-xaman)
-* [I've been scammed!](https://help.xaman.app/app/all-about-scams/ive-been-scammed)
+* [Security in Xaman](../security-in-xaman.md)
+* [How to create an XRP Ledger account](../../getting-started-with-xaman/what-is-xaman/how-to-create-an-xrpl-account.md)
+* [Rekeying your XRP Ledger account](../how-to-rekey-your-account.md)
+* [Disabling your master key](../how-to-disable-the-master-key.md)
+* [Sending XRP and tokens from Xaman](../../sending-receiving-and-cashing-out/sending-tokens-from-xaman.md)
+* [I've been scammed!](../../scams-and-staying-safe/ive-been-scammed.md)
