@@ -4,8 +4,6 @@ description: How to deposit XRP into the Flare yield vault, and what each signat
 
 # Depositing XRP with the Flare xApp
 
-### Background
-
 The **Flare XRPFi Yield** xApp moves XRP from your XRP Ledger (XRPL) account to the Flare network, where it earns yield in a vault run by Upshift. This article covers the XRP Ledger.
 
 A deposit takes two signatures in Xaman. The first sends an instruction to Flare to prepare your deposit. The second sends your XRP. Flare then converts your XRP into FXRP, a token that represents XRP one-to-one, and places it in the vault for you.

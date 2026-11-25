@@ -6,8 +6,6 @@ noIndex: true
 
 # Setting up your Xaman cards
 
-### Background
-
 Your Xaman cards have arrived, so let's open the package together. In about ten minutes, you go from a sealed pouch to a working cold-wallet setup: two cards, one account, and your XRP protected by a card you can hold in your hand. This article walks you through every step, from your first tap to linking your Backup card. Along the way, it explains why you have two cards and what each one is for.
 
 ### What is in your package
@@ -20,7 +18,7 @@ Your package arrives in a sealed pouch, and the cards inside are loose. That is 
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2F0T2tpC2uhce5U15uAodB%2Fxaman-thank-you-card.png?alt=media&#x26;token=56857609-4b13-4a25-a52d-0ff6e2eb4361" alt="The Xaman thank-you card with links to download the Xaman app" width="188"><figcaption><p>Thank you card</p></figcaption></figure>
 
-If your package arrived already opened, see [Are my Xaman cards safe?](../xaman-cards/my-card-package-arrived-opened.md) before you go any further.
+If your package arrived already opened, see [Are my Xaman cards safe?](my-card-package-arrived-opened.md) before you go any further.
 
 ### Your pre-funded card
 
@@ -39,7 +37,7 @@ Check that you have these ready:
 * The latest version of the official Xaman app from the [App Store](https://apps.apple.com/app/id1492302343) or [Google Play](https://play.google.com/store/apps/details?id=com.xrpllabs.xumm).
 
 {% hint style="info" %}
-Already have an XRP Ledger account in Xaman? Read [How to link an existing account to a Xaman card ](../xaman-cards/how-to-link-an-existing-account-to-a-xaman-card.md)before you start. It helps you decide whether to keep your existing account or move everything to a new card account.
+Already have an XRP Ledger account in Xaman? Read [How to link an existing account to a Xaman card ](how-to-link-an-existing-account-to-a-xaman-card.md)before you start. It helps you decide whether to keep your existing account or move everything to a new card account.
 {% endhint %}
 
 ### How two cards protect one account
@@ -51,7 +49,7 @@ Your pre-funded card becomes your Primary card, and your XRP lives on its accoun
 Think of it as two keys to the same door. The Primary card is the master key, and the Backup card is a second key to that same door. You can use either one to get in, which is exactly what protects you if one of them goes missing.
 
 {% hint style="info" %}
-If you lose the Backup card, use your Primary card to remove its link, then keep using your Primary card. If you lose the Primary card, use your Backup card to move your assets from the Primary card account to another account. Write down your Primary account's r-address and keep it somewhere safe, since you need it to reach your account with the Backup card if you ever lose your phone and your Primary card together. See [Lost or damaged cards](../xaman-cards/lost-or-damaged-cards.md).
+If you lose the Backup card, use your Primary card to remove its link, then keep using your Primary card. If you lose the Primary card, use your Backup card to move your assets from the Primary card account to another account. Write down your Primary account's r-address and keep it somewhere safe, since you need it to reach your account with the Backup card if you ever lose your phone and your Primary card together. See [Lost or damaged cards](lost-or-damaged-cards.md).
 {% endhint %}
 
 ### What Xaman cards do, and what they do not
@@ -76,7 +74,7 @@ Take the pre-funded card out of its sleeve, and import it first.
 4. Follow the instructions on the screen.
 5. Tap **Activate your account** to claim the XRP on your pre-funded card.
 
-This account is now your Primary account. For more detail, see [How to import your Xaman card](../xaman-cards/...a-xaman-tangem-card.md).
+This account is now your Primary account. For more detail, see [How to import your Xaman card](...a-xaman-tangem-card.md).
 
 {% hint style="danger" %}
 If Xaman warns that a card was used before, stop. Someone else may already control a used card, and anything you send to it could be taken. Do not import that card, and contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
@@ -188,7 +186,7 @@ Whichever designs you picked, every card works exactly the same way, including p
 If your package arrived opened, see [Are my Xaman cards safe?](https://help.xaman.app/app/xaman-tangem-cards/are-my-xaman-cards-safe)
 
 {% hint style="info" %}
-**Already have an XRP Ledger account in Xaman?** Read [How to link an existing account to a Xaman card](../xaman-cards/how-to-link-an-existing-account-to-a-xaman-card.md) before you start. It helps you decide whether to keep using your existing account or move everything to a new card account.
+**Already have an XRP Ledger account in Xaman?** Read [How to link an existing account to a Xaman card](how-to-link-an-existing-account-to-a-xaman-card.md) before you start. It helps you decide whether to keep using your existing account or move everything to a new card account.
 {% endhint %}
 
 #### Before you start
@@ -252,7 +250,7 @@ This is the setup we recommend. It takes about ten minutes.
 
 Take the card out of the clear sleeve and import it first. In Xaman, go to **Settings**, then **Accounts**, then **+ Add account**, and choose **Add Xaman Tangem card**. The app walks you through the rest.
 
-See: [How to import your Xaman card](../xaman-cards/...a-xaman-tangem-card.md) for more information.
+See: [How to import your Xaman card](...a-xaman-tangem-card.md) for more information.
 
 {% hint style="danger" %}
 When you first tap a new card, Xaman checks that the card is genuine and has never been used. If the app warns you that a card was used before, **stop**. Do not import that card. Contact us through the [**Xaman Support xApp**](https://xaman.app/detect/xapp:xumm.support-md) before you do anything else.
@@ -331,7 +329,7 @@ If you had an XRP Ledger account before the cards, you can move everything to th
 Most people store the **Primary** card somewhere safe (in a safe, a safe deposit box, or a locked drawer), because it is the master key to the account where the money lives. They carry the **Backup** card with them and use it to sign everyday transactions on the Primary account.
 
 {% hint style="info" %}
-If you ever lose a card, the other one still gets you into your account. Write down your Primary account’s r-address now and keep it somewhere safe, since you need it to reach your account with the Backup card if you lose your phone and your Primary card together. For what to do in each case, see [Lost or damaged cards](../xaman-cards/lost-or-damaged-cards.md).
+If you ever lose a card, the other one still gets you into your account. Write down your Primary account’s r-address now and keep it somewhere safe, since you need it to reach your account with the Backup card if you lose your phone and your Primary card together. For what to do in each case, see [Lost or damaged cards](lost-or-damaged-cards.md).
 {% endhint %}
 
 #### I have more than two cards. What do I do with the others?

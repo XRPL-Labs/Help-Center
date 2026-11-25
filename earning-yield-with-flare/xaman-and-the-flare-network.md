@@ -4,8 +4,6 @@ description: How Xaman works with the Flare network, and what it does not suppor
 
 # Xaman and the Flare network
 
-Background
-
 Flare is a separate blockchain network, run by Flare Networks, a company separate from XRPL Labs, the creators of Xaman. Its native coin is FLR.
 
 Xaman is a wallet for the XRP Ledger (XRPL) and Xahau. It does not hold accounts or coins on the Flare network. You can still use some of Flare's products from your XRPL account, through the **Flare XRPFi Yield** xApp.

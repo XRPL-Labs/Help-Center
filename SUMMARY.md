@@ -94,6 +94,8 @@
 ## XAMAN CARDS
 
 * [Xaman cards](xaman-cards/xaman-tangem-cards.md)
+* [Setting up your Xaman cards](xaman-cards/setting-up-your-xaman-cards.md)
+* [Setting up a Backup card](xaman-cards/setting-up-a-backup-card.md)
 * [Getting started with your new cards](xaman-cards/getting-started.md)
 * [What is a "Pre-funded" Xaman card?](xaman-cards/what-is-a-pre-funded-xaman-card.md)
 * [How to import your Xaman card](xaman-cards/...a-xaman-tangem-card.md)
@@ -214,8 +216,6 @@
   * [How to send XAH coins to GateHub - Hosted account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-hosted-account.md)
   * [How to send XAH coins to Gatehub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-self-custodial-account.md)
 * [test](xahau/test.md)
-* [Setting up your Xaman cards](xahau/setting-up-your-xaman-cards.md)
-* [Setting up a Backup card](xahau/setting-up-a-backup-card.md)
 
 ## XRP Ledger basics
 

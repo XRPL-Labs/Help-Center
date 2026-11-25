@@ -6,8 +6,6 @@ description: >-
 
 # Break-even time in the Flare xApp
 
-### Background
-
 Depositing XRP with the **Flare XRPFi Yield** xApp and withdrawing it later both cost fees. Your deposit earns yield in the vault, and over time that yield can cover those fees. The break-even time is how long that takes.
 
 This article shows how to estimate your break-even time on the XRP Ledger (XRPL). The rates in it are examples, not predictions. The yield the vault earns changes over time and is not guaranteed.

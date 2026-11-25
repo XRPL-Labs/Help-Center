@@ -4,8 +4,6 @@ description: The fees you pay to deposit, hold, and withdraw XRP with the Flare 
 
 # Fees in the Flare xApp
 
-### Background
-
 The **Flare XRPFi Yield** xApp lets you earn yield on XRP from your XRP Ledger (XRPL) account. It moves your XRP to the Flare network, converts it to FXRP, and places it in a vault run by Upshift.
 
 Three parties charge fees along the way. Flare runs the bridge between the two networks, Upshift runs the vault, and Xaman provides the app you sign with. Flare and Upshift are not part of Xaman, and each sets its own fees.

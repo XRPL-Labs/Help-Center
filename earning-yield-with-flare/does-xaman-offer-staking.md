@@ -4,8 +4,6 @@ description: Staking and earning yield with Xaman
 
 # Staking and earning yield with Xaman
 
-### Background
-
 Staking means locking up coins in return for rewards. There are two common kinds:
 
 * On a proof-of-stake network, such as Ethereum or Cardano, validators lock up coins for a chance to add the next block. They earn a reward when they do.

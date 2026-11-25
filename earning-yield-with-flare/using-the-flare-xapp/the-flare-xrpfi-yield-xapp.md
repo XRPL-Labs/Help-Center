@@ -4,8 +4,6 @@ description: What the xApp does, who runs each part, and where your XRP goes
 
 # The Flare XRPFi Yield xApp
 
-### Background
-
 The **Flare XRPFi Yield** xApp lets you earn yield on XRP held in your XRP Ledger (XRPL) account. It moves your XRP to the Flare network, where it earns yield in a vault. You sign every step in Xaman, and you can withdraw your funds back to your XRPL account.
 
 The xApp brings together products from three parties:

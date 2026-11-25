@@ -6,8 +6,6 @@ description: >-
 
 # Frequently asked questions about the Flare xApp
 
-### Background
-
 The **Flare XRPFi Yield** xApp lets you earn yield on XRP from your XRP Ledger (XRPL) account. This article answers common questions about how it works. For the full picture, see [_The Flare XRPFi Yield xApp_](the-flare-xrpfi-yield-xapp.md).
 
 ### About the xApp

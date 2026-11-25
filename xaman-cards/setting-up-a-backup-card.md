@@ -6,8 +6,6 @@ noIndex: true
 
 # Setting up a Backup card
 
-### Background
-
 A Backup card is your safety net. It is a second Xaman card that can sign for your Primary account, so if one card is ever lost, stolen, or damaged, the other still gets you into your account. This article walks you through linking a Backup card, screen by screen, and explains what happens along the way.
 
 The Backup card is not a copy of your Primary card. Each card keeps its own key inside its chip, and nothing is ever copied from one card to the other. Instead, Xaman uses an XRP Ledger feature called a regular key. A regular key is a second key that the XRP Ledger allows to sign for an account, alongside the account's own key. Your Backup card becomes that second key for your Primary account, while your Primary card keeps full control.
@@ -69,7 +67,7 @@ Either way works, though. Both cards can sign for the same account, so choose th
 
 ### If you lose a card
 
-Losing one card is exactly what a Backup card protects you from, since the other card still gets you into your account. The steps depend on which card is missing, and [Lost or damaged cards](../xaman-cards/lost-or-damaged-cards.md) walks you through each case. One thing is worth doing right now, while both cards are in your hands: write down your Primary account’s r-address and keep it somewhere safe. If you ever lose your phone and your Primary card together, you need it to reach your account with your Backup card. Xaman is a self-custody wallet, so we cannot recover a lost card for you.
+Losing one card is exactly what a Backup card protects you from, since the other card still gets you into your account. The steps depend on which card is missing, and [Lost or damaged cards](lost-or-damaged-cards.md) walks you through each case. One thing is worth doing right now, while both cards are in your hands: write down your Primary account’s r-address and keep it somewhere safe. If you ever lose your phone and your Primary card together, you need it to reach your account with your Backup card. Xaman is a self-custody wallet, so we cannot recover a lost card for you.
 
 ### Frequently asked questions
 
