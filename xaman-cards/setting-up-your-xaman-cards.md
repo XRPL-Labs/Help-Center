@@ -105,8 +105,7 @@ Your Backup card’s account does not need any XRP of its own. It never holds fu
 
 This step is what turns two accounts into one setup. It uses an XRP Ledger feature called a regular key. A regular key is a second key that the XRP Ledger allows to sign for an account, alongside the account’s own key. Your Backup card becomes that second key for your Primary account, while your Primary card keeps full control.
 
-1. Open the [Tangem Backup xApp](https://xaman.app/detect/xapp:xumm.tangem-backup).
-2. Follow the instructions on the screen to link your Backup card to your Primary account.
+1. Follow the instructions on the screen to link your Backup card to your Primary account.
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FHkpd8MZFt0pXyBwlpwsv%2Fxaman-backup-card-confirm.png?alt=media&#x26;token=eb68668c-a0f2-49fe-8a7e-4e839ac4b4af" alt="The confirmation screen for linking the Backup card to the Primary account" width="331"><figcaption><p>Check that both cards are the right ones</p></figcaption></figure>
 
