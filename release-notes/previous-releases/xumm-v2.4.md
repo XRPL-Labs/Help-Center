@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/fireworks-gd7b280d6a_1280.jpg
-coverY: 0
----
-
 # Xumm v2.4
 
 **Welcome in Xumm 2.4.0. This version ships exciting features and improvements!**

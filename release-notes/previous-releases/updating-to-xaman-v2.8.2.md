@@ -2,7 +2,7 @@
 description: How to update Xaman to the latest version
 ---
 
-# 😎 Updating to Xaman v2.8.2!
+# Xaman v2.8.2
 
 ### Exciting news!
 

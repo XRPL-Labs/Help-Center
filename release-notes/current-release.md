@@ -93,4 +93,4 @@ You can use new network features as soon as they go live, without waiting for a 
 * [How to configure a backup signing account](../xaman-cards/how-to-configure-a-backup-signing-account.md)
 * [Spam on the XRP Ledger](../scams-and-staying-safe/spam-on-the-xrp-ledger.md)
 * [Token vetting and the token warning](../tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)
-* [What's New in Xaman 5.0](whats-new-in-xaman-5.0.md)
+* [What's New in Xaman 5.0](previous-releases/whats-new-in-xaman-5.0.md)

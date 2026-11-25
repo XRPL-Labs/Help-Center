@@ -263,16 +263,14 @@
 
 ## Release notes
 
-* [🎉 What's New in Xaman 5.0](release-notes/whats-new-in-xaman-5.0.md)
 * [What's New in Xaman 5.4](release-notes/current-release.md)
 * [Previous releases](release-notes/previous-releases/README.md)
+  * [Xaman 5.0](release-notes/previous-releases/whats-new-in-xaman-5.0.md)
   * [Xaman 4.0](release-notes/previous-releases/xaman-4.0.md)
-  * [😎 Updating to Xaman v2.8.2!](release-notes/previous-releases/updating-to-xaman-v2.8.2.md)
+  * [Xaman v2.8.2](release-notes/previous-releases/updating-to-xaman-v2.8.2.md)
   * [Xaman v2.8](release-notes/previous-releases/xaman-v2.8.md)
-  * [Xaman v2.6 (Formerly Xumm)](release-notes/previous-releases/xaman-v2.6-formerly-xumm.md)
   * [Xumm v2.5](release-notes/previous-releases/xumm-v2.5.md)
-  * [🥳 Updating to Xumm v2.5!](getting-started-with-xumm/updating-to-xumm-v2.5.md)
-  * [Updating to Xumm v2.4](release-notes/previous-releases/updating-to-xumm-v2.4.md)
+  * [Xumm v2.5](getting-started-with-xumm/updating-to-xumm-v2.5.md)
   * [Xumm v2.4](release-notes/previous-releases/xumm-v2.4.md)
   * [Xumm v2.3.1](release-notes/previous-releases/xumm-v2.3.1.md)
   * [Xumm v2.3.0](release-notes/previous-releases/xumm-v2.3.0.md)

@@ -1,10 +1,8 @@
 ---
 description: New features, updates and more..
-cover: ../.gitbook/assets/version 25.png
-coverY: -190
 ---
 
-# 🥳 Updating to Xumm v2.5!
+# Xumm v2.5
 
 The team at XRPL Labs/Xumm is proud to introduce the Xumm 2.5.0 update, a forward-thinking development bringing new features and improvements to the Xumm ecosystem.
 

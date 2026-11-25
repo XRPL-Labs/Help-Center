@@ -2,7 +2,7 @@
 description: Xaman 5.0.0 Brings Virtual Assets and True Offline Resilience
 ---
 
-# 🎉 What's New in Xaman 5.0
+# Xaman 5.0
 
 _January 20, 2026_
 
