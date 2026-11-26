@@ -34,6 +34,8 @@ A service fee applies to transactions that use extra processing or trading resou
 * AMM deposits and withdrawals
 * Market trades on the XRP Ledger DEX
 
+Note: If you place a swap, the service fee is only charged when the trade actually moves value, so you won't pay a service fee on a swap that did nothing.
+
 **Yield products: 0.5%**
 
 * Deposits into supported yield products
