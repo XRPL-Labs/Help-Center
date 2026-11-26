@@ -96,7 +96,6 @@
 * [Xaman cards](xaman-cards/xaman-tangem-cards.md)
 * [Setting up your Xaman cards](xaman-cards/setting-up-your-xaman-cards.md)
 * [Setting up a Backup card](xaman-cards/setting-up-a-backup-card.md)
-* [Setting up a Backup card](xaman-cards/setting-up-a-backup-card-1.md)
 * [Getting started with your new cards](xaman-cards/getting-started.md)
 * [What is a "Pre-funded" Xaman card?](xaman-cards/what-is-a-pre-funded-xaman-card.md)
 * [How to import your Xaman card](xaman-cards/...a-xaman-tangem-card.md)

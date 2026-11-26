@@ -12,7 +12,7 @@ That is why every order includes at least two cards. With a second card linked t
 
 When you set up your cards, Xaman links your Backup card to your Primary account. It uses the XRP Ledger's [regular key](#user-content-fn-3)[^3] feature, which lets a second key sign for an account. After the link, either card can sign for your Primary account, so losing one card does not lock you out.
 
-If you have not linked a Backup card yet, do it now, while both cards are with you. Open your Primary account in Xaman and tap **No back-up card configured**. [Setting up a Backup card](setting-up-a-backup-card.md) walks you through it.
+If you have not linked a Backup card yet, do it now, while both cards are with you. Open your Primary account in Xaman and tap **No back-up card configured**. [Setting up a Backup card](/broken/pages/gwKblu8vIouNgYeSNBR8) walks you through it.
 
 {% hint style="info" %}
 Write down your Primary account's r-address and keep it somewhere safe. If you lose your phone and your Primary card together, you need it to reach your account with your Backup card.
@@ -88,7 +88,7 @@ We are truly sorry, but there is no way to recover an account once both cards ar
 
 ### See also
 
-* [Setting up a Backup card](setting-up-a-backup-card.md)
+* [Setting up a Backup card](/broken/pages/gwKblu8vIouNgYeSNBR8)
 * [Setting up your Xaman cards](setting-up-your-xaman-cards.md)
 * [Xaman cards](xaman-tangem-cards.md)
 * [Best security practices for the Xaman cards](best-security-practices-using-a-xaman-card.md)
