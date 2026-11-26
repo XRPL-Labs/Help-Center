@@ -89,7 +89,7 @@ We are truly sorry, but there is no way to recover an account once both cards ar
 ### See also
 
 * [Setting up a Backup card](/broken/pages/gwKblu8vIouNgYeSNBR8)
-* [Setting up your Xaman cards](setting-up-your-xaman-cards.md)
+* [Setting up your Xaman cards](/broken/pages/MgTBosogf0SfFCgNYTVf)
 * [Xaman cards](xaman-tangem-cards.md)
 * [Best security practices for the Xaman cards](best-security-practices-using-a-xaman-card.md)
 * [Got a new phone?](../your-accounts/importing-your-account/migrate-to-a-new-phone.md)
