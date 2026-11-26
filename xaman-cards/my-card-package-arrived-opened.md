@@ -4,7 +4,7 @@ description: >-
   them up?
 ---
 
-# Are my Xaman Cards safe?
+# My card package arrived opened
 
 You ordered your Xaman cards directly from us. They arrived, but something looks different from what you expected:
 
@@ -94,4 +94,4 @@ Most people import a second card as a backup. If you lose or damage the first ca
 * [Getting started with your new cards](getting-started.md)
 * [How to import your Xaman card](...a-xaman-tangem-card.md)
 * [What is a "Pre-funded" Xaman card?](what-is-a-pre-funded-xaman-card.md)
-* [How to configure a backup signing account](how-to-configure-a-backup-signing-account.md)
+* [How to configure a backup signing account](/broken/pages/uYKFqCSsy0tId8oFFer4)

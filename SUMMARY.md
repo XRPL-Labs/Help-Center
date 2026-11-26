@@ -99,7 +99,6 @@
 * [Getting started with your new cards](xaman-cards/getting-started.md)
 * [What is a "Pre-funded" Xaman card?](xaman-cards/what-is-a-pre-funded-xaman-card.md)
 * [How to import your Xaman card](xaman-cards/...a-xaman-tangem-card.md)
-* [How to configure a backup signing account](xaman-cards/how-to-configure-a-backup-signing-account.md)
 * [How to link an existing account to a Xaman card](xaman-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
 * [Best security practices for the Xaman cards](xaman-cards/best-security-practices-using-a-xaman-card.md)
 * [Lost or damaged cards](xaman-cards/lost-or-damaged-cards.md)

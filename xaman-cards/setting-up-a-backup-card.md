@@ -4,7 +4,7 @@ description: How to link a second Xaman card so it can sign for your Primary acc
 
 # Setting up a Backup card
 
-A Backup card is your safety net. It is a second Xaman card that can sign for your Primary card account, so if one card is ever lost, stolen, or damaged, the other still gets you into your account. Setting one up takes a few minutes, and you do it right inside Xaman. This article walks you through it screen by screen, and shows you how to check, replace, or remove your Backup card later.
+A Backup card is your safety net. It is a second Xaman card that can sign for your Primary card account, so if one card is ever lost, stolen, or damaged, the other still gets you into your account. Setting one up takes a few minutes, and you do it right inside Xaman. This article walks you through it screen by screen.
 
 The Backup card is not a copy of your Primary card. Each card keeps its own [account secret](#user-content-fn-1)[^1] inside its chip, and nothing is ever copied from one card to the other. Instead, Xaman uses an XRP Ledger feature called a [regular key](#user-content-fn-2)[^2], a second key that is allowed to sign for an account. Your Backup card becomes that second key for your Primary account, while your Primary card keeps full control.
 
@@ -31,7 +31,8 @@ You can also start at any time from **Settings** > **Accounts**: tap **Edit** ne
 <figure><img src="../.gitbook/assets/xaman-backup-card-setup-edit-account_2x.png" alt="The Security panel of the Edit account screen, showing Back-up card, Not set up yet, and a Set up button" width="375"><figcaption><p>You can also start here at any time</p></figcaption></figure>
 
 2. Check that the card ID on the screen matches your Primary card.
-3. Tap **Start** then tap **Scan original card**.
+3. Tap **Start**
+4. Tap **Scan original card**.
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FdSBFHqGPn0ic31CdOAkY%2Fxaman-backup-card-step1.png?alt=media&#x26;token=c6c255fd-28c7-46a4-a1d6-1aa3218ea65f" alt="The Scan your original card screen, showing the Primary card and its card ID" width="326"><figcaption><p>Scan your Primary card first</p></figcaption></figure>
 
@@ -45,7 +46,7 @@ You can also start at any time from **Settings** > **Accounts**: tap **Edit** ne
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FhDsJ2dp3o3Bwu12hyfIp%2Fxaman-backup-card-ready.png?alt=media&#x26;token=6232ea75-7f09-46a4-96e9-cc03f6549cf4" alt="The Your back-up card is ready screen, showing the Primary card and the Backup card" width="334"><figcaption><p>Both cards are ready to link</p></figcaption></figure>
 
-8. Tap **Confirm**.
+9. Tap **Confirm**.
 
 <figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FHkpd8MZFt0pXyBwlpwsv%2Fxaman-backup-card-confirm.png?alt=media&#x26;token=eb68668c-a0f2-49fe-8a7e-4e839ac4b4af" alt="The Finish with your original card screen, with the Confirm button" width="331"><figcaption><p>Approve the link with your Primary card</p></figcaption></figure>
 
@@ -59,8 +60,6 @@ Your Primary card approves the link, since only your Primary card can add a seco
 ### Which card to carry day to day
 
 We recommend that you keep your Primary card somewhere safe, such as a safe, a safe deposit box, or a locked drawer, and carry your Backup card for everyday signing. The Primary card is the key to the account your money lives in, so it makes sense to keep it out of harm's way. If you lose the Backup card you carry, your Primary card can remove its link and still controls everything.
-
-Either way works, though. Both cards can sign for the same account, so choose the arrangement that fits your life. Whichever you choose, keep the two cards in different places, so a single fire, theft, or lost bag cannot take both.
 
 ### If you lose a card
 
