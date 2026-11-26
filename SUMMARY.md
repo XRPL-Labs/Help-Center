@@ -94,11 +94,11 @@
 ## XAMAN CARDS
 
 * [Xaman cards](xaman-cards/xaman-tangem-cards.md)
-* [Setting up your Xaman cards](xaman-cards/setting-up-your-xaman-cards.md)
-* [Setting up a Backup card](xaman-cards/setting-up-a-backup-card.md)
-* [Getting started with your new cards](xaman-cards/getting-started.md)
-* [What is a "Pre-funded" Xaman card?](xaman-cards/what-is-a-pre-funded-xaman-card.md)
+* [Setting up your Xaman cards](xaman-cards/getting-started.md)
 * [How to import your Xaman card](xaman-cards/...a-xaman-tangem-card.md)
+* [Setting up a Backup card](xaman-cards/setting-up-a-backup-card.md)
+* [Setting up your Xaman cards](xaman-cards/setting-up-your-xaman-cards.md)
+* [What is a "Pre-funded" Xaman card?](xaman-cards/what-is-a-pre-funded-xaman-card.md)
 * [How to link an existing account to a Xaman card](xaman-cards/how-to-link-an-existing-account-to-a-xaman-card.md)
 * [Best security practices for the Xaman cards](xaman-cards/best-security-practices-using-a-xaman-card.md)
 * [Lost or damaged cards](xaman-cards/lost-or-damaged-cards.md)
@@ -214,7 +214,6 @@
   * [How to send XAH Tokens to GateHub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-tokens-to-gatehub-self-custodial-account.md)
   * [How to send XAH coins to GateHub - Hosted account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-hosted-account.md)
   * [How to send XAH coins to Gatehub - Self Custodial account](xahau/how-to-send-xah-to-gatehub/how-to-send-xah-coins-to-gatehub-self-custodial-account.md)
-* [test](xahau/test.md)
 
 ## XRP Ledger basics
 
