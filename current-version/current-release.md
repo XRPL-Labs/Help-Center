@@ -10,12 +10,6 @@ Xaman 5.4.0 is a security and clarity release. It makes scam warnings harder to 
 
 The update is a phased release, rolling out gradually on the App Store and Google Play over the course of this week, so it may not be available in your store yet. No action is needed on your side, and the update arrives on its own.
 
-> **\[IMAGE PLACEHOLDER]**
->
-> * **Description:** Hero image from the Xaman 5.4.0 announcement (blog), as published
-> * **Caption:** The Xaman 5.4.0 release artwork
-> * **Alt text:** The announcement artwork for the Xaman 5.4.0 release
-
 ### Set up your Xaman Tangem card backup
 
 Every Xaman Tangem card ships as a set, and the second card is your backup. If the original is ever lost or damaged, the backup keeps full access to the account. 5.4.0 makes setting it up a guided flow: scan the backup card, approve the link with your original card, and wait while the network confirms it. No funds need to be added to the backup card.
