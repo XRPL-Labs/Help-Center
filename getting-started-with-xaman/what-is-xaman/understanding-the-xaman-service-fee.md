@@ -84,7 +84,7 @@ To see the two parts separately:
 3. If you want a different network fee speed, select it and tap **Apply**.
 4. Return to the **Review transaction** screen. Slide to accept to sign, or close to cancel.
 
-Here is an example from a token swap. The trading rate is 0.8%, so the service fee is 0.8% of the XRP-equivalent value of the transaction:
+Here is an example from a token swap. The trading rate is 0.8%. The service fee is 0.8% of the XRP-equivalent value of the moved value of the trade:
 
 | Part                                             | Amount       |
 | ------------------------------------------------ | ------------ |
