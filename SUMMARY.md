@@ -146,7 +146,7 @@
 * [Setting the currency in Xaman](using-the-xaman-app/how-to-set-the-currency.md)
 * [How to change your email address](using-the-xaman-app/how-to-change-your-email-address.md)
 * [How to verify your identity (KYC)](using-the-xaman-app/kyc.md)
-* [How to scan a QR code](using-the-xaman-app/how-to-scan-a-qr-code.md)
+* [Scanning QR codes in Xaman](using-the-xaman-app/how-to-scan-a-qr-code.md)
 * [How to take a screenshot](using-the-xaman-app/how-to-take-a-screenshot.md)
 * [How to access Testnet on XRP Ledger](using-the-xaman-app/how-to-access-testnet-on-xrp-ledger.md)
 * [How to post a Session Log](using-the-xaman-app/how-to-post-a-session-log.md)
