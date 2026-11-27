@@ -57,7 +57,7 @@ A card account without a Backup card depends on that one card. If the card is lo
 
 ### Get Xaman cards
 
-You can order Xaman cards in Xaman with the [Get Cards xApp](https://xaman.app/detect/xapp:xumm.tangem-order), or on the [Xaman website](https://xaman.app/cards). If you'd like to know more first, [Get Cards](https://help.xaman.app/app/xaman-cards/get-cards-tangem) explains how the xApp works.
+You can order Xaman cards in Xaman with the [Get Cards xApp](https://xaman.app/detect/xapp:xumm.tangem-order), or on the [Xaman website](https://xaman.app/cards). If you'd like to know more first, [Get Cards](get-cards-tangem.md) explains how the xApp works.
 
 When your cards arrive, [Setting up your Xaman cards](getting-started.md) takes you from the sealed pouch to a working setup.
 
