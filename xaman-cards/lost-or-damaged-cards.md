@@ -40,21 +40,20 @@ Once your funds are safe, you can delete the old Primary account to get back mos
 
 Use your Primary card to remove the link to your Backup card. After that, the Backup card can no longer sign for your Primary account, even if someone else has it. Your Primary card still controls everything.
 
+1. Tap **Settings** > **Accounts**.
+2. Tap **Edit** next to your Primary card account.
+3. Tap **Update** next to **Back-up card**.
+4. Tap **Remove back-up card**. Xaman warns that your account will no longer have a back-up card.
+5. Tap **Remove**.
+6. Check that the account and the back-up card shown are the right ones, and tap **Scan original card**.
+7. Hold your Primary card against your phone until the scan finishes.
+8. When **Back-up card removed** appears, tap **Done**.
+
+Once the link is removed, the **Back-up card** line on your Primary account's **Edit account** screen shows **Not set up yet** again. If you have a spare card, tap **Set up** to link it as your new Backup card. [Setting up a Backup card](setting-up-a-backup-card.md) walks you through it.
+
 {% hint style="warning" %}
 Until you remove the link, anyone holding your Backup card can sign for your Primary account. They could send your funds away. If your Backup card may have been stolen, remove the link right away, before anything else.
 {% endhint %}
-
-
-
-1. On a phone or computer, go to [XRP Ledger Services](https://xrpl.services/).
-2. Tap or click **Sign in**.
-3. Sign in with Xaman, using your Primary card account.
-4. Choose **Set Regular Key**.
-5. Select **Delete regular key**.
-6. Tap or click **Confirm**, then scan the QR code with Xaman.
-7. Sign the transaction with your Primary card.
-
-Once the link is removed, your Primary account shows **No back-up card configured** again. If you have a spare card, tap it to link the spare as your new Backup card.
 
 #### If something here does not match what you see
 
