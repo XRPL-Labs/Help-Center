@@ -1,3 +1,7 @@
+---
+description: How to scan or paste a QR code, and what to check before you sign
+---
+
 # Scanning QR codes in Xaman
 
 QR codes save you typing in Xaman. A QR code can fill in an account's r-address[^1] for you, or open a [sign request](#user-content-fn-2)[^2] that an app or website prepared for you to review. You scan one with your phone's camera, starting from the Xaman button in the middle of the bottom navigation bar. If the light is poor, the scan screen has a flashlight, and if the code is already copied, you can paste it instead. Scanning works the same way on the XRP Ledger (XRPL) and on Xahau[^3].
@@ -6,7 +10,7 @@ One thing is worth knowing before you scan anything. A QR code can hold a ready-
 
 ### Before you get started
 
-* Allow Xaman to use your camera. Xaman asks the first time you open the scan screen, so tap **Approve permissions** when it does.
+* Xaman needs your permission to use the camera. The first time you open the scan screen, your phone asks whether Xaman may use it, so allow camera access when it does.
 
 ### Scan a QR code
 
@@ -20,7 +24,7 @@ One thing is worth knowing before you scan anything. A QR code can hold a ready-
 
 3. Point your camera at the QR code, and hold the phone steady.
 
-Xaman reads the code by itself, so there is nothing more to tap, and the scan screen closes. If the code holds a sign request, the **Review transaction** screen opens instead.
+Xaman reads the code by itself, so there is nothing more to tap. If the code holds an r-address, the **Send** screen opens, ready for you to choose the token and the amount. If it holds a sign request, the **Review transaction** screen opens instead.
 
 ### Turn on the flashlight
 
@@ -45,7 +49,7 @@ Xaman reads the copied text the same way it reads a scanned code.
 
 A QR code is only a container, and what is inside decides how careful you need to be. It can hold one of two things:
 
-* **An account address: nothing happens until you send.** Xaman fills the address into the screen you are using, such as the **Send** screen. You check the address, and you decide what to send and when.
+* **An account address: nothing happens until you send.** Xaman opens the **Send** screen for that address, and you choose the token and the amount. Nothing leaves your account until you review the payment and sign it.
 * **A sign request: a whole transaction, ready to sign.** Someone else prepared it, with the amount and the destination already set. Xaman opens the **Review transaction** screen, where you can read every field, answer each safety question yourself, and close the request if anything looks wrong.
 
 {% hint style="danger" %}
