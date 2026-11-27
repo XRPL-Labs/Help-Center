@@ -128,6 +128,8 @@ That line is about the Backup card's own account, not your Primary account, so i
 
 Do not import the cards yet. Read [My card package arrived opened](my-card-package-arrived-opened.md), and contact us through the [Xaman Support xApp](https://xaman.app/detect/xapp:xumm.support-md) if you are unsure about anything. Our support team will never ask for your account secret. Anyone who asks is trying to take your funds.
 
+<p align="center"><a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Open the Xaman Support xApp</a></p>
+
 ### See also
 
 * [Setting up a Backup card](setting-up-a-backup-card.md)

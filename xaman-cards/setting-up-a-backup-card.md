@@ -89,7 +89,7 @@ You can, though we recommend a second card. If you still want to set one up, see
 
 The setup inside Xaman needs an up-to-date version of the app, so update Xaman from the App Store or Google Play first. Then look under **Settings** > **Accounts**, on your Primary card account's **Edit account** screen. If something still looks wrong, contact us through the Xaman Support xApp, the only official way to reach us.
 
-<a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Open the Xaman Support xApp</a>
+<p align="center"><a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Get help from Xaman Support</a></p>
 
 ### See also
 
