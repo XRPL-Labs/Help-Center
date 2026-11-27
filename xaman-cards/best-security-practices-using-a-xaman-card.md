@@ -12,12 +12,9 @@ The habits below help you get the most out of that protection.
 
 This is the most important thing you can do on this list. Your account secret exists in only one place: on the card. If your only card is lost, damaged, or stolen, there is no way to recover the account.
 
-That is why every order includes at least two cards. Link your second card to your Primary account as a Backup card, so you can still reach your funds if something happens to one of them. The setup takes a few minutes, and the [Tangem Backup xApp](https://xaman.app/detect/xapp:xumm.tangem-backup) walks you through it.
+That is why every order includes at least two cards. Link your second card to your Primary account as a Backup card, so you can still reach your funds if something happens to one of them. The setup takes a few minutes inside Xaman: tap **Settings** > **Accounts**, tap **Edit** next to your Primary card account, and tap **Set up** next to **Back-up card**. [Setting up a Backup card](setting-up-a-backup-card.md) walks you through each screen.
 
-* [Getting started with your new cards](https://help.xaman.app/app/xaman-tangem-cards/getting-started)
-* [Lost or damaged cards](https://help.xaman.app/app/xaman-tangem-cards/lost-or-damaged-cards)
-
-Also write down your Primary account's r-address and keep it somewhere safe. If you ever lose your phone and your Primary card at the same time, you will need it to get back into your account with your Backup card.
+Also write down your Primary account's r-address and keep it somewhere safe. If you ever lose your phone and your Primary card at the same time, you will need it to get back into your account with your Backup card. [Lost or damaged cards](lost-or-damaged-cards.md) explains what to do if a card goes missing.
 
 #### Keep your cards physically safe
 
