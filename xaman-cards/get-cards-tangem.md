@@ -1,7 +1,5 @@
 ---
 description: All about the Get Cards xApp
-cover: ../.gitbook/assets/Get cards.png
-coverY: 0
 ---
 
 # Get Cards

@@ -94,7 +94,7 @@ Yes, if you have not set it up in the Tangem app yet. Set up the card in Xaman f
 
 A new card holds no account secret until you set it up, and Xaman checks every new card the first time you tap it, to confirm it is genuine and has never been used. If Xaman warns that a card was used before, stop. Do not import that card, and contact us through the Xaman Support xApp, the only official way to reach us. [My card package arrived opened](my-card-package-arrived-opened.md) explains what to check.
 
-<a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Open the Xaman Support xApp</a>
+<p align="center"><a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Get help from Xaman Support</a></p>
 
 ### See also
 
