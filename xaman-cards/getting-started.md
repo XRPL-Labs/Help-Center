@@ -77,6 +77,9 @@ Your Primary account's **Home** screen now shows the XRP from your pre-funded ca
 The reminder is not an error, and it stays until your Backup card is linked. Your second card does not need to be imported first, and it does not need any XRP, since it only ever signs for your Primary account.
 
 1. Tap **No back-up card configured** on your Primary account's **Home** screen.
+
+<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FgoyfPymkMMJDXnbO6vVX%2Fxaman-backup-card-banner-arrow_2x.png?alt=media&#x26;token=2ad4e618-7d1f-47a8-adb8-1529a7f8ea5d" alt="The Home screen with the No back-up card configured box at the top, above the Primary card account" width="375"><figcaption><p>Tap the box to link your Backup card</p></figcaption></figure>
+
 2. Check that the card ID on the screen matches your Primary card.
 3. Tap **Start**.
 4. Tap **Scan original card**.
@@ -88,9 +91,7 @@ The reminder is not an error, and it stays until your Backup card is linked. You
 10. Hold your Primary card against your phone once more to approve the link.
 11. When **Back-up card linked** appears, tap **Done**.
 
-
-
-Once your Primary account is active, its **Home** screen shows a **No back-up card configured** reminder. The reminder is not an error, and it stays until your Backup card is linked. Your second card does not need to be imported first, and it does not need any XRP, since it only ever signs for your Primary account.
+The reminder is gone once the link is in place, and that is your sign that both cards are ready to use. [Setting up a Backup card](setting-up-a-backup-card.md) walks through every screen, and also covers which card to carry day to day.
 
 #### Move your funds to your Primary account
 
