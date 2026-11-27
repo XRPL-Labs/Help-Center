@@ -57,24 +57,20 @@ A card account without a Backup card depends on that one card. If the card is lo
 
 ### Get Xaman cards
 
-You can order Xaman cards in the [**Get cards**](https://xumm.app/detect/xapp:xumm.tangem-order) xApp in Xaman, or on [our website](https://xaman.app/cards).
+You can order Xaman cards in Xaman with the [Get Cards xApp](https://xaman.app/detect/xapp:xumm.tangem-order), or on the [Xaman website](https://xaman.app/cards). If you'd like to know more first, [Get Cards](https://help.xaman.app/app/xaman-cards/get-cards-tangem) explains how the xApp works.
 
 When your cards arrive, [Setting up your Xaman cards](getting-started.md) takes you from the sealed pouch to a working setup.
 
 ### Xaman cards and Tangem cards
 
-Xaman cards are branded Tangem cards, but they run custom firmware that XRPL Labs had tuned and re-audited for the XRP Ledger and Xahau. When you set up a card in Xaman, it is prepared to work with Xaman. You can still import it into the Tangem app afterward and use it there too. A card set up in the Tangem app first can no longer be added to Xaman.
+Xaman cards are branded Tangem cards, but they run custom firmware that XRPL Labs had tuned and re-audited for the XRP Ledger and Xahau. That gives you two kinds of cards, and what you can do with each depends on where you bought it and where you set it up first:
+
+* **A Xaman card, bought from Xaman: set it up in Xaman first.** Once it is set up in Xaman, you can also import it into the Tangem app and use it there too.
+* **A Tangem card, bought from Tangem: set it up in Xaman first if you want to use it with Xaman.** A Tangem card that was set up in the Tangem app first does not work in Xaman. It keeps working in the Tangem app as usual.
 
 {% hint style="warning" %}
-Set up a new Tangem card in Xaman before you use it in the Tangem app. If you set it up in the Tangem app first, you cannot add it to Xaman later.
+A Tangem card set up in the Tangem app first does not work in Xaman. You can keep using it in the Tangem app, but not with Xaman. If you plan to use a new Tangem card with Xaman, set it up in Xaman first.
 {% endhint %}
-
-|                              | Set up in Xaman first                                              | Set up in the Tangem app first                          |
-| ---------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------- |
-| Works in Xaman               | Yes                                                                | No                                                      |
-| Works in the Tangem app      | Yes, after you import it                                           | Yes                                                     |
-| XRP Ledger features in Xaman | Everything Xaman supports, including tokens, escrows, and NFTs     | None                                                    |
-| Backup                       | A second card, linked as a Backup card with its own account secret | The same account secret, copied to each card in the set |
 
 ### Frequently asked questions
 
@@ -84,7 +80,7 @@ Yes. A new card creates its own XRP Ledger account, with its own r-address[^6]. 
 
 **Does a card account need its own reserve?**
 
-Your Primary card's account needs to be activated, like any XRP Ledger account, so it keeps a reserve[^7]. Your Backup card's account does not need activation, since it only signs for your Primary account. See [Activating an account (XRPL)](https://help.xaman.app/app/getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account) and [Reserves on the XRP Ledger](../xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md).
+Your Primary card's account needs to be activated, like any XRP Ledger account, so it keeps a reserve[^7]. Your Backup card's account does not need activation, since it only signs for your Primary account. See [Activating an account (XRPL)](../getting-xrp-into-xaman/how-to-activate-a-new-xrpl-account/) and [Reserves on the XRP Ledger](../xrp-ledger-basics/xrp-ledger-concepts/about-reserves.md).
 
 **Can I use a Xaman card like a bank card?**
 
@@ -108,7 +104,7 @@ A new card holds no account secret until you set it up, and Xaman checks every n
 * [Best security practices for the Xaman cards](best-security-practices-using-a-xaman-card.md)
 * [Lost or damaged cards](lost-or-damaged-cards.md)
 * [My card package arrived opened](my-card-package-arrived-opened.md)
-* [Get Cards](https://help.xaman.app/app/xaman-cards/get-cards-tangem)
+* [Get Cards](get-cards-tangem.md)
 
 [^1]: The secret that controls your account, as Secret Numbers, a Family Seed, or a Mnemonic. Never share it with anyone.
 
