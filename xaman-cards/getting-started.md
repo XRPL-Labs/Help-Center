@@ -74,21 +74,23 @@ Your Primary account's **Home** screen now shows the XRP from your pre-funded ca
 
 #### Link your second card as your Backup card
 
-Once your Primary account is active, its **Home** screen shows a **No back-up card configured** reminder. The reminder is not an error, and it stays until your Backup card is linked. Your second card does not need to be imported first, and it does not need any XRP, since it only ever signs for your Primary account.<br>
+The reminder is not an error, and it stays until your Backup card is linked. Your second card does not need to be imported first, and it does not need any XRP, since it only ever signs for your Primary account.
 
 1. Tap **No back-up card configured** on your Primary account's **Home** screen.
-
-<figure><img src="https://3221812686-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMiHAzvIPISVuuzt0AeOR%2Fuploads%2FgoyfPymkMMJDXnbO6vVX%2Fxaman-backup-card-banner-arrow_2x.png?alt=media&#x26;token=2ad4e618-7d1f-47a8-adb8-1529a7f8ea5d" alt="The Home screen with the No back-up card configured box at the top, above the Primary card account" width="375"><figcaption><p>Tap the box to link your Backup card</p></figcaption></figure>
-
 2. Check that the card ID on the screen matches your Primary card.
-3. Tap **Start**
+3. Tap **Start**.
 4. Tap **Scan original card**.
-5. Tap **No back-up card configured**.
-6. Scan your Primary card, and then your second card, as the screens ask.
-7. Hold your Primary card against your phone once more to approve the link.
-8. When **Back-up card linked** appears, tap **Done**.
+5. Hold your Primary card against the back of your phone until the scan finishes.
+6. Tap **Scan back-up card**.
+7. Hold your second card against your phone until the scan finishes.
+8. Check that both cards are shown, and tap **Continue**.
+9. Tap **Confirm**.
+10. Hold your Primary card against your phone once more to approve the link.
+11. When **Back-up card linked** appears, tap **Done**.
 
-The reminder is gone once the link is in place, and that is your sign that both cards are ready to use. [Setting up a Backup card](setting-up-a-backup-card.md) walks through every screen, and also covers which card to carry day to day.
+
+
+Once your Primary account is active, its **Home** screen shows a **No back-up card configured** reminder. The reminder is not an error, and it stays until your Backup card is linked. Your second card does not need to be imported first, and it does not need any XRP, since it only ever signs for your Primary account.
 
 #### Move your funds to your Primary account
 
@@ -111,7 +113,7 @@ Extra cards are not pre-funded, so you need to activate each one you plan to use
 
 **Can I use the other card as my Primary card instead?**
 
-You can, though it takes a few extra steps after you set up both cards. First, activate the second card's account yourself by sending at least 1 XRP to it. Next, delete the account on the pre-funded card, choosing your new Primary account as the destination, so its remaining XRP moves there. Finally, link the pre-funded card as your Backup card. Deleting an account has its own cost and waiting time, which [How to delete an XRPL account](../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md) explains.
+You can, though it takes a few extra steps after you set up both cards. First, activate the second card's account yourself by sending it enough XRP to cover the reserve. Next, delete the account on the pre-funded card, choosing your new Primary account as the destination, so its remaining XRP moves there. Finally, link the pre-funded card as your Backup card. Deleting an account has its own cost and waiting time, which [How to delete an XRPL account](../your-accounts/importing-your-account/how-to-delete-an-xrpl-account.md) explains.
 
 **Why can I not spend the XRP on my pre-funded card?**
 
