@@ -154,6 +154,7 @@
 ## XAPPS
 
 * [Xaman xApps](xapps/xaman-xapps/README.md)
+  * [Xaman Support](xapps/xaman-xapps/xaman-support.md)
   * [Account Worth](xapps/xaman-xapps/account-worth.md)
   * [Account Merge](xapps/xaman-xapps/account-merge.md)
   * [Vanity Address xApp](xapps/xaman-xapps/vanity-address.md)
