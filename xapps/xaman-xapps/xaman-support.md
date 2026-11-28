@@ -4,10 +4,6 @@ description: How to reach our support team, and what to include so we can help q
 
 # Xaman Support
 
-## Xaman Support
-
-How to reach our support team, and what to include so we can help quickly
-
 When something in Xaman is not working the way you expect, our support team is here to help. You reach us through the Xaman Support xApp, inside Xaman itself. It is the only official way to contact us, so you always know the person answering really is from XRPL Labs. It works the same way whether you use the XRP Ledger (XRPL) or Xahau.
 
 The xApp first shows you answers to the questions people ask most, since one of them may solve your problem right away. If not, you can send us a ticket. This article walks you through both, and explains what to include so we can help you on the first reply.
