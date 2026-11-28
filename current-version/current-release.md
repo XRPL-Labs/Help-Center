@@ -24,7 +24,7 @@ From the same screen you can also:
 * Replace a backup card
 * Remove a backup card, with a clear warning about what that means for your access
 
-A backup card is the difference between a lost card and a lost account. [_How to configure a backup signing account_](/broken/pages/uYKFqCSsy0tId8oFFer4) covers the flow in detail.
+A backup card is the difference between a lost card and a lost account. [_Setting up a Backup card_](../xaman-cards/setting-up-a-backup-card.md) covers the flow in detail.
 
 ### Stronger scam warnings, and a faster way out
 
@@ -84,7 +84,7 @@ You can use new network features as soon as they go live, without waiting for a 
 
 ### See also
 
-* [How to configure a backup signing account](/broken/pages/uYKFqCSsy0tId8oFFer4)
+* [Setting up a Backup card](../xaman-cards/setting-up-a-backup-card.md)
 * [Spam on the XRP Ledger](../scams-and-staying-safe/spam-on-the-xrp-ledger.md)
 * [Token vetting and the token warning](../tokens-trust-lines-and-nfts/token-vetting-and-the-token-warning.md)
 * [What's New in Xaman 5.0](previous-releases/whats-new-in-xaman-5.0.md)
