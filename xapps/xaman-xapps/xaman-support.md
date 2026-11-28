@@ -4,16 +4,22 @@ description: How to reach our support team, and what to include so we can help q
 
 # Xaman Support
 
+## Xaman Support
+
+How to reach our support team, and what to include so we can help quickly
+
 When something in Xaman is not working the way you expect, our support team is here to help. You reach us through the Xaman Support xApp, inside Xaman itself. It is the only official way to contact us, so you always know the person answering really is from XRPL Labs. It works the same way whether you use the XRP Ledger (XRPL) or Xahau.
 
 The xApp first shows you answers to the questions people ask most, since one of them may solve your problem right away. If not, you can send us a ticket. This article walks you through both, and explains what to include so we can help you on the first reply.
 
-\<p align="center">\<a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Get help from Xaman Support\</a>\</p>
+<p align="center"><a href="https://xaman.app/detect/xapp:xumm.support-md" class="button primary">Get help from Xaman Support</a></p>
 
 ### Open the Xaman Support xApp
 
 1. Tap **xApps** in the bottom navigation bar.
 2. Tap **Xaman Support** under **Our suggestions**.
+
+You can also tap **Settings** > **Questions & Support**, which opens the same xApp.
 
 <figure><img src="../../.gitbook/assets/xaman-support-xapp-home_2x.png" alt="The Xaman Support xApp, showing the account it is open for and an Ask a question button" width="375"><figcaption><p>The Xaman Support xApp</p></figcaption></figure>
 
@@ -30,7 +36,7 @@ If none of the questions fit, send us a ticket.
 1. Tap **Send ticket anyway**.
 2. Under **Subject**, enter what your ticket is about, in at least 12 characters.
 3. Under **Message**, describe your question in at least 40 characters.
-4. To add screenshots, tap **Add screenshots** and select them.
+4. To add screenshots or a short video, tap **Add screenshots** and select them.
 5. Tap **Submit Ticket**.
 
 A confirmation appears with your ticket number, and it says we will reply within one working day.
@@ -58,10 +64,14 @@ The more we know, the faster we can help, and the form itself suggests what to c
 * What you were trying to do, and what happened instead.
 * Where it happened: in Xaman, or on another website or app.
 * Any error message, copied word for word.
+* The steps that lead to the problem, so we can try them ourselves and see it happen.
 * The [transaction ID](#user-content-fn-2)[^2], if your question is about a transaction.
-* A screenshot of the screen in question, if it helps explain.
+* A screenshot, especially of an error message, so we see exactly what you see.
+* A short video of the problem, if it is easier to show than to describe. A few seconds of screen recording often tells us more than a long message.
 
-If Xaman is crashing or behaving strangely, a session log helps us see what went wrong. [How to post a Session Log](https://help.xaman.app/app/using-the-xaman-app/how-to-post-a-session-log) explains how to add one to your ticket, and _Follow your ticket_ covers the button we send when we ask for one.
+You add both with **Add screenshots**, which also lets you choose a video from your phone. [How to take a screenshot](../../using-the-xaman-app/how-to-take-a-screenshot.md) explains how to capture your screen in Xaman. Check each one before you send it, and make sure it never shows your account secret.
+
+If Xaman is crashing or behaving strangely, a session log helps us see what went wrong. [How to post a Session Log](../../using-the-xaman-app/how-to-post-a-session-log.md) explains how to add one to your ticket, and _Follow your ticket_ covers the button we send when we ask for one.
 
 {% hint style="danger" %}
 Your account secret controls your account and its funds. Anyone who sees it can take everything in the account, and our support team never needs it. Never put it in a ticket, a message, or a screenshot.
@@ -77,15 +87,25 @@ Xaman is a self-custody[^3] wallet, so some things are outside what anyone at XR
 
 People who have just lost funds or hit a problem are a favorite target for scammers, so be careful who you take help from. Our support team will never ask for your account secret. Anyone who asks for it is trying to take your funds, so never share it.
 
-We only answer through the Xaman Support xApp. We do not offer support through social media, direct messages, or phone calls, and we never contact you first. [Official communication channels](https://help.xaman.app/app/scams-and-staying-safe/official-communication-channels) lists where to find the real Xaman, and [Recovery scams](https://help.xaman.app/app/scams-and-staying-safe/recovery-scams) explains the fake services that promise to get lost funds back.
+We only answer through the Xaman Support xApp. We do not offer support through social media, direct messages, or phone calls, and we never contact you first. [Official communication channels](../../scams-and-staying-safe/official-communication-channels.md) lists where to find the real Xaman, and [Recovery scams](../../scams-and-staying-safe/recovery-scams.md) explains the fake services that promise to get lost funds back.
+
+### Frequently asked questions
+
+**How much detail should I put in my ticket?**
+
+Enough for us to picture what is going on, without writing a novel. "It's not working" does not give us anything to go on, while "The Send screen shows an error when I enter a Destination Tag" points us straight at the problem. A few clear sentences about what you did, what you expected, and what happened instead is usually perfect.
+
+**Do I need to tell you how to make the problem happen again?**
+
+If you can, yes. It is one of the most helpful things you can send. List the steps in order, such as which screen you opened, what you tapped, and what you saw, so we can follow them ourselves. The more detail you give us here, the faster we can find the cause.
 
 ### See also
 
-* [How to post a Session Log](https://help.xaman.app/app/using-the-xaman-app/how-to-post-a-session-log)
-* [Official communication channels](https://help.xaman.app/app/scams-and-staying-safe/official-communication-channels)
-* [Recovery scams](https://help.xaman.app/app/scams-and-staying-safe/recovery-scams)
-* [Can Xaman reverse, freeze or undo a transaction?](https://help.xaman.app/app/sending-receiving-and-cashing-out/can-xaman-reverse-freeze-or-undo-a-transaction)
-* [I've lost my account secret](https://help.xaman.app/app/security/ive-lost-my-account-secret)
+* [How to post a Session Log](../../using-the-xaman-app/how-to-post-a-session-log.md)
+* [Official communication channels](../../scams-and-staying-safe/official-communication-channels.md)
+* [Recovery scams](../../scams-and-staying-safe/recovery-scams.md)
+* [Can Xaman reverse, freeze or undo a transaction?](../../sending-receiving-and-cashing-out/can-xaman-reverse-freeze-or-undo-a-transaction.md)
+* [I've lost my account secret](../../security/ive-lost-my-account-secret.md)
 
 [^1]: Your account's address on the XRP Ledger. It always starts with "r", and it is safe to share.
 
